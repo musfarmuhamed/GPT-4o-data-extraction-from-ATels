@@ -1,4 +1,4 @@
-# GPT4o data extraction from ATels
+# GPT-4o data extraction from ATels
 Contributors: Musfar Muhamed Kozhikkal, Andrei Variu, Lizbeth Joy Tan
 
 ## Description
