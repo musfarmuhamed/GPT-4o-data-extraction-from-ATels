@@ -1,0 +1,103 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": "17h 54m 25.31s",
+            "Dec": "-26d 19' 53.2''",
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": "15:04:19",
+            "Date": "2014 Oct 10"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Krimm et al.",
+            "Year": "2007",
+            "Publication": "Atel #1265",
+            "Date": "2007 November 8"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": "2009",
+            "Publication": "ApJ, 690, 120",
+            "Date": "2008 March 31"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": "2009",
+            "Publication": "MNRAS, 397, 1528",
+            "Date": "2008 September 4"
+        },
+        {
+            "Authors": "Krimm et al.",
+            "Year": "2009",
+            "Publication": "Atel #1971",
+            "Date": "2009 March 15"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": "2011",
+            "Publication": "MNRAS, 410, 1825",
+            "Date": "2009 June 6"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": "2011",
+            "Publication": "MNRAS, 412, L30",
+            "Date": "2010 March 4"
+        },
+        {
+            "Authors": "Farinelli et al.",
+            "Year": "2012",
+            "Publication": "MNRAS, 424, 2854",
+            "Date": "2011 March 24"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Publication": "ATel #4040",
+            "Year": "2012",
+            "Date": "2012 April 12"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Publication": "ATel #4275",
+            "Year": "2012",
+            "Date": "2012 July 24"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Publication": "ATel #5179",
+            "Year": "2013",
+            "Date": "2013 June 28"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Publication": "ATel #5388",
+            "Year": "2013",
+            "Date": "2013 September 11"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Publication": "Atel #6173",
+            "Year": "2014",
+            "Date": "2014 May 25"
+        },
+        {
+            "Authors": "Krimm et al.",
+            "Publication": "ApJS, 209, 14",
+            "Year": "2013",
+            "Date": null
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "15:04:19",
+    "Date": "2014 Oct 10",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

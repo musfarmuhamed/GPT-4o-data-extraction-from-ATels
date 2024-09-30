@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "pulsar (within Crab nebula)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Gasparrini et al. (ATel#5971)",
+    "Event Type": "Enhanced Gamma-ray flux",
+    "Time": null,
+    "Date": null,
+    "Telescope": "30cm telescope",
+    "Instrument": "Canon 350D",
+    "Observatory": "Foligno Observatory"
+}

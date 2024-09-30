@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS120620:135635+044652",
+            "RA": "13:56:35",
+            "Dec": "+04:46:52",
+            "redshift": "0.054",
+            "Type": "Type-Ia Supernova",
+            "Time": "16.91 UT",
+            "Date": "Jun. 16",
+            "Event Type": "Spectroscopic Confirmation"
+        },
+        {
+            "Name": "PSN J16003509+1541043",
+            "RA": "16:00:35.09",
+            "Dec": "+15:41:04.3",
+            "redshift": "0.038",
+            "Type": "Type-Ib Supernova",
+            "Time": "16.95 UT",
+            "Date": "Jun. 16",
+            "Event Type": "Spectroscopic Confirmation"
+        },
+        {
+            "Name": "PSN J07545548+7236346",
+            "RA": "07:54:55.48",
+            "Dec": "+72:36:34.6",
+            "redshift": "0.0115",
+            "Type": "Type-Ia Supernova",
+            "Time": "17.08 UT",
+            "Date": "Jun. 17",
+            "Event Type": "Spectroscopic Confirmation"
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "Haynes et al 1997, AJ 113, 119, via NED",
+        "De Vaucouleurs et al 1991, RC3.9, via NED",
+        "Harutyuyan et al. 2008, A.Ap. 488, 383"
+    ],
+    "Event Type": "Spectroscopic Confirmations",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Copernico Telescope Observatory"
+}

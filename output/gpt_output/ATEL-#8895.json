@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF16sw",
+            "RA": "13:05:01.08",
+            "Dec": "+34:30:43.1",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2016-03-15"
+        },
+        {
+            "Name": "SN 2016bld",
+            "RA": "13:05:01.08",
+            "Dec": "+34:30:43.1",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2016-03-15"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Yaron & Gal-Yam 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "2016-03-15 to 2016-03-16",
+    "Telescope": "P60",
+    "Instrument": "SEDM",
+    "Observatory": "Null"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UGC 08041",
+            "RA": "12 55 15.33",
+            "Dec": "+00 06 02.2",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": "Unknown",
+            "Date": "Up to 2016 January 25"
+        },
+        {
+            "Name": "ASASSN-16at",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": "Unknown",
+            "Date": "6 days before 2016 January 25"
+        }
+    ],
+    "References": [
+        "ATEL #8566",
+        "ATEL 8655",
+        "Kraft et al. 1991, ApJ 374, 344",
+        "Park et al. 2006, ApJ 652, 610",
+        "Evens et al., 2009, MNRAS 397, 1177"
+    ],
+    "Event Type": "Discovery of an X-ray source",
+    "Time": "Unknown",
+    "Date": "Up to 2016 January 25",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

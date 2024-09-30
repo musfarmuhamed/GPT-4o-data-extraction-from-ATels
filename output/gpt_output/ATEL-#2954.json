@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBS J1848+3219",
+            "RA": "08:48:22.09",
+            "Dec": "+32:19:02.6",
+            "redshift": "0.798",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "B2 1846+32A",
+            "RA": "08:48:22.09",
+            "Dec": "+32:19:02.6",
+            "redshift": "0.798",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "A. Beasley et al. 2002 ApJS 141, 13",
+        "D. Sowards-Emmerd et al. 2005 ApJ 626, 95",
+        "Abdo et al. 2010, ApJS 188, 405"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": [
+        "October 18, 2010",
+        "September 20, 2010",
+        "September 22, 2010"
+    ],
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope",
+    "Observatory": null
+}

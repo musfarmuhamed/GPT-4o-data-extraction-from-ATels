@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15kg",
+            "RA": "08:40:12.01",
+            "Dec": "-04:35:31.00",
+            "redshift": "0.014257",
+            "Type": "supernova",
+            "Time": "2015-05-27.99",
+            "Date": "2015-05-27"
+        },
+        {
+            "Name": "2MASX J08401168-0435369",
+            "RA": "Not Provided",
+            "Dec": "Not Provided",
+            "redshift": "0.014257",
+            "Type": "host galaxy",
+            "Time": "Not Provided",
+            "Date": "Not Provided"
+        }
+    ],
+    "References": "NED",
+    "Event Type": "discovery",
+    "Time": "2015-05-27.99",
+    "Date": "2015-05-27",
+    "Telescope": "Cassius, RCOS 51-cm, Planewave CDK 0.43-m",
+    "Instrument": "Not Provided",
+    "Observatory": "Cerro Tololo, New Mexico"
+}

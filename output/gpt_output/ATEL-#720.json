@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0911.2+4533",
+            "RA": "09 11 29.91",
+            "Dec": "+45 28 02.1",
+            "redshift": "0.0268",
+            "Type": "Seyfert 2 galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2MASX J091129.9+452806",
+            "RA": "09 11 29.91",
+            "Dec": "+45 28 02.1",
+            "redshift": "0.0268",
+            "Type": "Seyfert 2 galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Tueller et al. ATEL #668 and #669",
+        "Kennea et al. ATEL #677",
+        "Ajello et al. ATEL #697"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": "01:16, 17:36",
+    "Date": "2006-01-04, 2005-01-07",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT), UV/Optical Telescope (UVOT)",
+    "Observatory": "Null"
+}

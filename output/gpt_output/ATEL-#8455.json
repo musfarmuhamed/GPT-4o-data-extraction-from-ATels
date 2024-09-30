@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:43 UT",
+            "Date": "2015-Dec-23"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2015-Jun-15",
+            "Date": null
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2015-Aug-25",
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN Circ. 18716",
+        "Bernardini and Cackett 2014 MNRAS 439 2771",
+        "ATel #7647",
+        "ATel #7959",
+        "GCN Circ. 18718"
+    ],
+    "Event Type": "source detection",
+    "Time": "05:19:52 UT",
+    "Date": "2015-Dec-23",
+    "Telescope": "Swift Burst Alert Telescope",
+    "Instrument": "X-ray Telescope and UV and Optical Telescope",
+    "Observatory": "Swift Observatory"
+}

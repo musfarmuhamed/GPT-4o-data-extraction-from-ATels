@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V723 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source",
+            "Time": "2006 Jan 31",
+            "Date": "2006-01-31"
+        },
+        {
+            "Name": "V723 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source",
+            "Time": "2012 Dec 3",
+            "Date": "2012-12-03"
+        },
+        {
+            "Name": "V723 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source",
+            "Time": "2003 Aug 2",
+            "Date": "2003-08-02"
+        }
+    ],
+    "References": [
+        "Ness et al., 2006, IAUC # 8676",
+        "Ness et al. 2015, AsAp 578, 39",
+        "Goranskij et al., 2007, AstrBull 62, 125"
+    ],
+    "Event Type": "SSS phase and QX-ray detection",
+    "Time": [
+        "2006 Jan 31",
+        "2012 Dec 3",
+        "2003 Aug 2"
+    ],
+    "Date": [
+        "2006-01-31",
+        "2012-12-03",
+        "2003-08-02"
+    ],
+    "Telescope": [
+        "50 cm Maksutov meniscus telescope",
+        "Russian 6 meter telescope BTA"
+    ],
+    "Instrument": [
+        "SCORPIO focal reducer"
+    ],
+    "Observatory": [
+        "SAI Crimean Station"
+    ]
+}

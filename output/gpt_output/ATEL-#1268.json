@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1901+014",
+            "RA": "19h 01m 40.20s",
+            "Dec": "+01o 26' 26.0\"",
+            "redshift": null,
+            "Type": "fast transient source",
+            "Time": "unknown",
+            "Date": "2006 Oct 14"
+        },
+        {
+            "Name": "1RXS J190141.0+012618",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Remillard and Smith 2002, ATEL #88",
+        "Kirsch et al. 2004, SPIE 5488, 103",
+        "Karasev et al. 2007, Ast. Lett. 33, 159"
+    ],
+    "Event Type": "Observation",
+    "Time": "unknown",
+    "Date": "2006 Oct 14",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC PN",
+    "Observatory": "unknown"
+}

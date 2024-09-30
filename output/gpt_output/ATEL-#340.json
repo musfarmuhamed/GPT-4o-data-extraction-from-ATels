@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18410-0535",
+            "RA": "18h 41.0m",
+            "Dec": "05deg 35 arcmin (+- 2 arcmin at 90%)",
+            "redshift": null,
+            "Type": null,
+            "Time": "7h50 UTC",
+            "Date": "October 8 2004"
+        },
+        {
+            "Name": "IGR J18406-0539",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Molkov et al. 2004 Astron. Letters/ astro-ph 0402416",
+    "Event Type": "possible new source detection and flare",
+    "Time": "7h50 UTC",
+    "Date": "October 8 2004",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL observatory"
+}

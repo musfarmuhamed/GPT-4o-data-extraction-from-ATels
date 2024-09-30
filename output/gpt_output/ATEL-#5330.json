@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-13cpv",
+            "RA": "21:26:03.89",
+            "Dec": "-06:37:09.0",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "25 Aug 2013"
+        },
+        {
+            "Name": "PS1-13cpw",
+            "RA": "22:37:13.40",
+            "Dec": "+06:13:22.3",
+            "redshift": "0.15",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "25 Aug 2013"
+        }
+    ],
+    "References": [
+        "Valenti et al. (ATels #2668, #3351)",
+        "Tonry et al. 2012, ApJ, 745, 42",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and spectroscopic confirmation",
+    "Time": "Unknown",
+    "Date": "02 Aug 2013",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": "Unknown"
+}

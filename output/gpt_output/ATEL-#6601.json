@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.006,
+            "Type": "II-P supernova",
+            "Time": "20.52",
+            "Date": "2014-10-20"
+        },
+        {
+            "Name": "ESO 467-G051",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.006,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A, 488, 383; Springob et al. 2005, ApJ.Supp., 160, 149",
+    "Event Type": "optical spectrogram",
+    "Time": "20.52",
+    "Date": "2014-10-20",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

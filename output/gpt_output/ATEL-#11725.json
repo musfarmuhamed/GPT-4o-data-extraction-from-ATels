@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[HB89] 0716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": [
+                "58254.30",
+                "58283.34",
+                "58284.31",
+                "58285.41",
+                "58286.39"
+            ],
+            "Date": [
+                "2018.05.15",
+                "2018.06.13",
+                "2018.06.14",
+                "2018.06.15",
+                "2018.06.16"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #11107",
+        "ATel #11339",
+        "ATel #11676",
+        "ATel #6953"
+    ],
+    "Event Type": "Brightening Phase",
+    "Time": [
+        "2018.05.15",
+        "2018.06.13",
+        "2018.06.14",
+        "2018.06.15",
+        "2018.06.16"
+    ],
+    "Date": [
+        "2018.05.15",
+        "2018.06.13",
+        "2018.06.14",
+        "2018.06.15",
+        "2018.06.16"
+    ],
+    "Telescope": "1-meter reflector Zeiss-1000",
+    "Instrument": "CCD camera based on 2k x 2k EEV 42-40 chip",
+    "Observatory": "Special Astrophysical Observatory of RAS"
+}

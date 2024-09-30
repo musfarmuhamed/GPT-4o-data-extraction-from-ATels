@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 0650+453",
+            "RA": "06:54:23.7136",
+            "Dec": "+45:14:23.545",
+            "redshift": "0.933",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2011 August 22"
+        },
+        {
+            "Name": "CGRaBS J0654+4514",
+            "RA": "06:54:23.7136",
+            "Dec": "+45:14:23.545",
+            "redshift": "0.933",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2011 August 22"
+        },
+        {
+            "Name": "2FGL J0654.2+4514",
+            "RA": "06:54:23.7136",
+            "Dec": "+45:14:23.545",
+            "redshift": "0.933",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2011 August 22"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Henstock et al. 1997, MNRAS, 290, 380",
+        "Abdo et al. 2011, arXiv:1108.1435"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": null,
+    "Date": "2011 August 22",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

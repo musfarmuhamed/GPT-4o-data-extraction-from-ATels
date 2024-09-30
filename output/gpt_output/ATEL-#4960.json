@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "thermonuclear (type I) X-ray burst",
+            "Time": "22:15:43 UTC",
+            "Date": "2013-04-07"
+        },
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "thermonuclear burst (tentative)",
+            "Time": "06:35:06 UT",
+            "Date": "2013-04-08"
+        }
+    ],
+    "References": [
+        "ATels #4925",
+        "#4927",
+        "#4929",
+        "#4934",
+        "#4959",
+        "Harris, 1996",
+        "Gotthelf & Kulkarni 1997, ApJ, 490, 161",
+        "MAXI alert 6390849999"
+    ],
+    "Event Type": "thermonuclear (type I) X-ray burst",
+    "Time": "22:15:43 UTC",
+    "Date": "2013-04-07",
+    "Telescope": "Swift-XRT",
+    "Instrument": "Swift",
+    "Observatory": "Swift"
+}

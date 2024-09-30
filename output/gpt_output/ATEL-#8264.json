@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15csd",
+            "RA": "02 04 55.53",
+            "Dec": "+18 48 15.0",
+            "redshift": 0.044,
+            "Type": "Ia",
+            "Time": "+4d",
+            "Date": "20151101"
+        },
+        {
+            "Name": "PS15csf",
+            "RA": "02 26 02.24",
+            "Dec": "+17 03 40.4",
+            "redshift": 0.021,
+            "Type": "II",
+            "Time": "~0d",
+            "Date": "20151101"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org; Huber et al., ATel #7153; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "2015 Nov. 8",
+    "Date": "2015 Nov. 8",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

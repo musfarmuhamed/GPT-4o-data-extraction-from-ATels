@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J031031+431115",
+            "RA": "03:10:31.24",
+            "Dec": "43:11:14.6",
+            "redshift": null,
+            "Type": "galactic CV",
+            "Time": [
+                "17.0 mag on Sep 7.42 UT",
+                "17.0 mag on Oct 19.26 UT",
+                "18.0 mag on Oct 20.26 UT",
+                "18.4 mag on Nov 1.24 UT",
+                "16.4 mag on Nov 8.23 UT",
+                "17.0 mag on Nov 12.20 UT"
+            ],
+            "Date": [
+                "Sep 7",
+                "Oct 19",
+                "Oct 20",
+                "Nov 1",
+                "Nov 8",
+                "Nov 12"
+            ]
+        },
+        {
+            "Name": "ROTSE3 J113709+513451",
+            "RA": "11:37:08.65",
+            "Dec": "51:34:51.1",
+            "redshift": null,
+            "Type": "galactic CV",
+            "Time": [
+                "18.3 mag on Nov 2.64 UT",
+                "17.2 mag on Nov 3.46 UT",
+                "18.5 mag on Nov 12.44 UT"
+            ],
+            "Date": [
+                "Nov 2",
+                "Nov 3",
+                "Nov 12"
+            ]
+        }
+    ],
+    "References": [
+        "http://rotse.net/transients/j0310+4311/index.html",
+        "http://rotse.net/transients/j1137+5134/index.html"
+    ],
+    "Event Type": "discovery of two optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas"
+}

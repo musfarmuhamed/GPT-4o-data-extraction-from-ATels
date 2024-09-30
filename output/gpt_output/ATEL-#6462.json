@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J1608-5253",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray transient",
+            "Time": "11:38 - 07:36",
+            "Date": "Aug 24 - Aug 27"
+        }
+    ],
+    "References": [
+        "ATel #6427",
+        "ATel #6428"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "11:38 - 07:36",
+    "Date": "Aug 24 - Aug 27",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "INTEGRAL"
+}

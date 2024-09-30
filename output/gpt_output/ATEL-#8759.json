@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "02.36",
+            "Date": "2016-02-02"
+        },
+        {
+            "Name": "NGC 5128",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Marples et al.",
+            "ATel": "#8651"
+        },
+        {
+            "Author": "Van Dyk et al.",
+            "ATel": "#8693"
+        },
+        {
+            "Author": "Kelly et al.",
+            "ATel": "#8720"
+        },
+        {
+            "Author": "Stritzinger et al.",
+            "ATel": "#8657"
+        },
+        {
+            "Author": "Ferrarese et al.",
+            "Year": "2007",
+            "Journal": "ApJ",
+            "Volume": "654",
+            "Page": "186"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "02.36",
+    "Date": "2016-02-02",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "WFC3 UVIS camera",
+    "Observatory": "Hubble Space Telescope"
+}

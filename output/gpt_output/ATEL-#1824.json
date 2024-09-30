@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": "05h 01m 06.756s",
+            "Dec": "+45d 16m 33.92s",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J050111.3+451525",
+            "RA": "05h 01m 11.327s",
+            "Dec": "+45d 15m 25.28s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 05011132+4515252",
+            "RA": "05h 01m 11.328s",
+            "Dec": "+45d 15m 25.25s",
+            "redshift": null,
+            "Type": "2MASS star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Barthelmy et al. GCN 8113, Tanvir et al. GCN 8126",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2008-09-25",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": "Chandra Observatory"
+}

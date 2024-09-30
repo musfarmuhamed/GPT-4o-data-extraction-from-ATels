@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "00:00",
+            "Date": "Feb 18"
+        },
+        {
+            "Name": "V0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "93.5 s pulsations",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "July 1993"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Bildsten et al.",
+            "Year": 1997,
+            "Journal": "ApJS",
+            "Volume": 113,
+            "Page": 367
+        },
+        {
+            "Authors": "Shrader et al.",
+            "Year": 1999,
+            "Journal": "ApJ",
+            "Volume": 512,
+            "Page": 920
+        },
+        {
+            "Authors": "Coe et al.",
+            "Year": 1994,
+            "Journal": "MNRAS",
+            "Volume": 270,
+            "Page": "L57"
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "00:00",
+    "Date": "Feb 18",
+    "Telescope": "Rossi X-Ray Timing Explorer",
+    "Instrument": "ASM",
+    "Observatory": "Gamma-Ray Observatory"
+}

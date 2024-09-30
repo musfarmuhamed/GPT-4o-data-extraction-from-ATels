@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVV-NOV-001",
+            "RA": "18:06:03.18",
+            "Dec": "-21:19:47.31",
+            "redshift": null,
+            "Type": "likely Galactic nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVV-NOV-001 (possible progenitor)",
+            "RA": "18:06:03.18",
+            "Dec": "-21:19:47.31",
+            "redshift": null,
+            "Type": "candidate nova progenitor",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Minniti et al. 2010, New Astronomy, 15, 433; Gonzalez et al., 2012, A&A, 543, 13; Nishiyama et al. 2009, ApJ, 696, 1407",
+    "Event Type": "discovery of a likely Galactic nova",
+    "Time": null,
+    "Date": "2010-07-01 to 2012-05-29",
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO"
+}

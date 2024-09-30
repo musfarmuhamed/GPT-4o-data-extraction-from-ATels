@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16in",
+            "RA": "04:59:30.069",
+            "Dec": "-28:51:39.43",
+            "redshift": "0.016064",
+            "Type": "supernova",
+            "Time": "08:08.41",
+            "Date": "2016-08-08"
+        },
+        {
+            "Name": "ESO 422-G 019",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016064",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Mt. Cuba Astronomical Foundation",
+    "Event Type": "discovery",
+    "Time": "2016-08-08.41",
+    "Date": "2016-08-08",
+    "Telescope": "'Cassius' telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

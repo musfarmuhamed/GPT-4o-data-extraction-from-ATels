@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J061701.22-475148.0",
+            "RA": "06h 17m 01.22s",
+            "Dec": "-47d 51m 48.0s",
+            "redshift": 0.0379,
+            "Type": "Possible SuperNova",
+            "Time": "2015-04-08.81484 UT",
+            "Date": "2015-04-08"
+        },
+        {
+            "Name": "ESO206-005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "2015-04-08.81484 UT",
+    "Date": "2015-04-08",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

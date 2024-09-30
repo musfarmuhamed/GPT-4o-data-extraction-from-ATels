@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBS J1933+6540",
+            "RA": 293.488905,
+            "Dec": 65.6713411,
+            "redshift": 1.687,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": "12:00-18:00 UTC",
+            "Date": "2018 July 23"
+        },
+        {
+            "Name": "TXS 1933+655",
+            "RA": 293.488905,
+            "Dec": 65.6713411,
+            "redshift": 1.687,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": "12:00-18:00 UTC",
+            "Date": "2018 July 23"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002 ApJS 141, 13",
+        "Healey et al. 2008 ApJS 175, 97"
+    ],
+    "Event Type": "high-flux state",
+    "Time": "12:00-18:00 UTC",
+    "Date": "2018 July 23",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration along with scientific institutions in France, Italy, Japan, and Sweden"
+}

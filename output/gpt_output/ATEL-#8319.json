@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 2241+406",
+            "RA": "22h 44m 12.7311s",
+            "Dec": "40d 57m 13.62s",
+            "redshift": "1.171",
+            "Type": "BL Lac object",
+            "Time": "high-flux state, daily averaged gamma-ray flux (E>100MeV) of (1.2+/-0.2) X 10^-6 photons cm^-2 s^-1",
+            "Date": "20 November 2015"
+        },
+        {
+            "Name": "Ton 599",
+            "RA": "11h 59m 31.8339s",
+            "Dec": "+29d 14m 43.827s",
+            "redshift": "0.724688",
+            "Type": "flat spectrum radio quasar",
+            "Time": "high-flux state, daily averaged gamma-ray flux (E>100MeV) of (1.0+/-0.2) X 10^-6 photons cm^-2 s^-1",
+            "Date": "20 November 2015"
+        },
+        {
+            "Name": "4C +01.02",
+            "RA": "01h 08m 38.7719s",
+            "Dec": "01d 35m 00.317s",
+            "redshift": "2.099",
+            "Type": "flat spectrum radio quasar",
+            "Time": "high-flux state, daily averaged gamma-ray flux (E>100MeV) of (2.1+/-0.3) X 10^-6 photons cm^-2 s^-1",
+            "Date": "20 November 2015"
+        }
+    ],
+    "References": "Acero et al. 2015, ApJS 218, 23; Beasley et al. 2002, ApJS, 141, 13; Shaw et al. 2012, ApJ, 748, 49; Kenneth et al. 1995, AJ, 110, 880; Hewett & Wild 2010, MNRAS, 405, 2302; Hewett et al. 1995, AJ, 109, 1498",
+    "Event Type": "gamma-ray flare",
+    "Time": "Null",
+    "Date": "20 November 2015",
+    "Telescope": "Large Area Telescope (LAT)",
+    "Instrument": "Null",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

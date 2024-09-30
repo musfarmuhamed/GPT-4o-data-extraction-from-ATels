@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OG 050",
+            "RA": "05h 32m 38.9984s",
+            "Dec": "+07d 32m 43.345s",
+            "redshift": "1.254",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UTC",
+            "Date": "2011 November 7"
+        },
+        {
+            "Name": "TXS 0529+075",
+            "RA": "05h 32m 38.9984s",
+            "Dec": "+07d 32m 43.345s",
+            "redshift": "1.254",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UTC",
+            "Date": "2011 November 7"
+        },
+        {
+            "Name": "2FGL J0532.7+0733",
+            "RA": "05h 32m 38.9984s",
+            "Dec": "+07d 32m 43.345s",
+            "redshift": "1.254",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UTC",
+            "Date": "2011 November 7"
+        }
+    ],
+    "References": "Abdo et al. 2011, ApJS, submitted, arXiv:1108.1435; Beasley et al. 2002, ApJS, 141, 13; Sowards-Emmerd et al. 2005, ApJ, 626, 95; Cooper et al. 2007, ApJS, 171, 376",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "12:00-18:00 UTC",
+    "Date": "2011 November 7",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "international collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

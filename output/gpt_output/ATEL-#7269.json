@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15qe",
+            "RA": "10 24 50.43",
+            "Dec": "-03 37 01.1",
+            "redshift": "0.05911",
+            "Type": "Probable 2MASS host",
+            "Time": null,
+            "Date": "20150320"
+        },
+        {
+            "Name": "PS15qq",
+            "RA": "13 19 50.49",
+            "Dec": "+52 03 40.4",
+            "redshift": "0.01557",
+            "Type": "SDSS host (spectroscopic)",
+            "Time": null,
+            "Date": "20150321"
+        }
+    ],
+    "References": "Huber et al. ATel #7153",
+    "Event Type": "Probable supernovae",
+    "Time": null,
+    "Date": "null",
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

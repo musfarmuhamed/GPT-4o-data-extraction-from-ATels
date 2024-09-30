@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Microquasar",
+            "Time": "09:00:00",
+            "Date": "2016-08-28"
+        },
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Microquasar",
+            "Time": "09:00:00",
+            "Date": "2016-08-30"
+        }
+    ],
+    "References": [
+        "http://swift.gsfc.nasa.gov/results/transients/CygX-3/",
+        "ATel #9416",
+        "Tavani et al., Nature, 462, 620, (2009)",
+        "Fermi LAT Collaboration et al., Science, 326, 1512 (2009)",
+        "Piano et al., A&A, 545, A110 (2012)"
+    ],
+    "Event Type": "Gamma-ray emission",
+    "Time": "09:00:00",
+    "Date": "2016-08-28 to 2016-08-30",
+    "Telescope": "AGILE-GRID",
+    "Instrument": null,
+    "Observatory": null
+}

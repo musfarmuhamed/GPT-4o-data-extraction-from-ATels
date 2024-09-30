@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": "06 April 2010",
+            "Date": "2010-04-06"
+        }
+    ],
+    "References": [
+        "ATel #2269",
+        "ATel#2518"
+    ],
+    "Event Type": "gradual transition to the hard state",
+    "Time": "2010 March 27",
+    "Date": "2010-03-27",
+    "Telescope": [
+        "SMARTS 1.3m telescope",
+        "Rossi X-ray Timing Explorer"
+    ],
+    "Instrument": [
+        "ANDICAM",
+        "PCA"
+    ],
+    "Observatory": "Cerro Tololo"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": "17h 09m 06s",
+            "Dec": "-36d 24' 39\"",
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": "September 20.7-21.7, 2001"
+        },
+        {
+            "Name": "1SAX J1709-36",
+            "RA": "17h 09m 06s",
+            "Dec": "-36d 24' 39\"",
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": "September 25, 2001"
+        }
+    ],
+    "References": [
+        "Kuulkers et al., ATel #149",
+        "Revnivtsev et al., ATel #150",
+        "Rupen et al., ATel 152"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": "September 20.7-21.7, 2001",
+    "Telescope": "BeppoSAX",
+    "Instrument": "Wide Field Cameras",
+    "Observatory": null
+}

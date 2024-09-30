@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0716+714",
+            "RA": "7:21:53.45",
+            "Dec": "71:20:36.36",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                {
+                    "Rmag": "12.76",
+                    "dRmag": "0.01",
+                    "Date": "2017-12-28.91"
+                },
+                {
+                    "Rmag": "12.76",
+                    "dRmag": "0.01",
+                    "Date": "2017-12-29.87"
+                },
+                {
+                    "Rmag": "13.19",
+                    "dRmag": "0.01",
+                    "Date": "2018-01-02.75"
+                },
+                {
+                    "Rmag": "12.71",
+                    "dRmag": "0.01",
+                    "Date": "2018-02-08.77"
+                },
+                {
+                    "Rmag": "12.92",
+                    "dRmag": "0.01",
+                    "Date": "2018-02-09.89"
+                },
+                {
+                    "Rmag": "12.47",
+                    "dRmag": "0.01",
+                    "Date": "2018-02-19.98"
+                }
+            ],
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11100",
+        "ATel #11107"
+    ],
+    "Event Type": "photometric follow-up",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.3 m f/5.6 Maksutov-Cassegrain reflector",
+    "Instrument": "Johnson-Cousins BVRI filter wheel, STL-6303 SBig CCD",
+    "Observatory": "Astronomical Observatory of the University of Siena"
+}

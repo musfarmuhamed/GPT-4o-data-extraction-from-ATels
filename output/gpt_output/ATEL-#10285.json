@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17avd",
+            "RA": "21:24:03.41",
+            "Dec": "+15:01:19.2",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "Null",
+            "Phase": "+30"
+        },
+        {
+            "Name": "PTSS-17opl",
+            "RA": "18:58:11.11",
+            "Dec": "+46:27:55.1",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "Null",
+            "Phase": "Null",
+            "Notes": "The H-alpha profile is double peaked with peaks at -300 and +650 km/s and FWHMs of 800 and 600 km/s, respectively. This implies that the system is viewed close to edge on. The FWZI for the feature is 2000 km/s."
+        }
+    ],
+    "References": "(Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "Classifications of optical transients",
+    "Time": "Null",
+    "Date": "2017 April 17 UT",
+    "Telescope": "Keck II",
+    "Instrument": "Echellette Spectrograph and Imager (ESI)",
+    "Observatory": "Null"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ej (AT 2017cpu)",
+            "RA": "14:07:52.526",
+            "Dec": "+09:38:31.37",
+            "redshift": "0.054411",
+            "Type": "supernova",
+            "Time": "00:01:47",
+            "Date": "2017-04-01"
+        },
+        {
+            "Name": "ASASSN-17em (AT 2017cts)",
+            "RA": "17:03:11.757",
+            "Dec": "+61:27:26.07",
+            "redshift": "0.019760",
+            "Type": "supernova",
+            "Time": "00:02:46",
+            "Date": "2017-04-02"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014"
+    ],
+    "Event Type": "discovery",
+    "Time": "00:00:00",
+    "Date": "2017-04-02",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

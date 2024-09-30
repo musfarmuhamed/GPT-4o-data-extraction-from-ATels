@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "missing link pulsar binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XSS J12270-4859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": "06:26:00 UT",
+            "Date": "2013 December 10"
+        },
+        {
+            "Name": "1FGL J1227.9-4852",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1227.7-4853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Stappers et al. 2013, arXiv:1311.7506; Patruno et al. 2013, arXiv:1310.7549; de Martino et al. 2013, A&A 550, A89; Hill et al. 2011, MNRAS 415, 235; Massetti et al. 2006, A&A 459, 21; B. Monard, 2013",
+    "Event Type": "state change",
+    "Time": null,
+    "Date": "2012 March 29 to 2013 December 10",
+    "Telescope": "NTT",
+    "Instrument": "EFOSC2",
+    "Observatory": null
+}

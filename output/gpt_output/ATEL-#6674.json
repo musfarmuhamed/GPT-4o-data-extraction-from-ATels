@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J210318.46-140351.7",
+            "RA": "21h 03m 18.46s",
+            "Dec": "-14d 03m 51.7s",
+            "redshift": null,
+            "Type": "OT source / PSN",
+            "Time": "2014-11-06.65560 UT",
+            "Date": "2014-11-06"
+        },
+        {
+            "Name": "PGC 929504 / GALEX J210318.4-140346",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J210318-140351-JRIR5x5.jpg, http://master.sai.msu.ru/static/OT/210318.46-140351.7.png",
+    "Event Type": "discovery of OT source / PSN",
+    "Time": "2014-11-06.65560 UT",
+    "Date": "2014-11-06",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

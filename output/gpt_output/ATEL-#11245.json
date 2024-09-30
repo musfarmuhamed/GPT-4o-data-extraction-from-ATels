@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Troja et al. 2018, arXiv:1801.06516"
+        },
+        {
+            "Reference": "D'Avanzo et al. 2018, arXiv:1801.06164"
+        },
+        {
+            "Reference": "Lazzati et al.2017, arXiv:1712.03237"
+        },
+        {
+            "Reference": "Troja et al. 2018, arXiv:1801.06516"
+        }
+    ],
+    "Event Type": "Merger",
+    "Time": [
+        {
+            "ObsID": 20936,
+            "Count Rate": "0.0018 +/- 0.0002 cts/s"
+        },
+        {
+            "ObsID": 20937,
+            "Count Rate": "0.0014 +/- 0.0003 cts/s"
+        },
+        {
+            "ObsID": 20938,
+            "Count Rate": "0.0019 +/- 0.0003 cts/s"
+        },
+        {
+            "ObsID": 20939,
+            "Count Rate": "0.0011 +/- 0.0002 cts/s"
+        },
+        {
+            "ObsID": 20945,
+            "Count Rate": "0.0010 +/- 0.0003 cts/s"
+        }
+    ],
+    "Date": [
+        "2018-01-17",
+        "2018-01-28"
+    ],
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": "Chandra"
+}

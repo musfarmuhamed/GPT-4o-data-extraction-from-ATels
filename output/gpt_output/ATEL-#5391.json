@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J000521.07+264915.3",
+            "RA": "00h 05m 21.07s",
+            "Dec": "+26d 49m 15.3s",
+            "redshift": null,
+            "Type": "possible gravitational lensing event",
+            "Time": "00h 05m 21.07s",
+            "Date": "2013-09-09.867"
+        },
+        {
+            "Name": "USNO-B1.0 1168-0001488",
+            "RA": "00 05 20.958",
+            "Dec": "+26 49 15.71",
+            "redshift": null,
+            "Type": "stellar object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J000520.95+264915.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "STAR",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J000520.98+264916.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Light curve from Catalina Real-time Transient Survey (Drake et al., 2009, ApJ Vol. 696, p. 870)",
+    "Event Type": "Discovery",
+    "Time": "00h 05m 21.07s",
+    "Date": "2013-09-09.867",
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

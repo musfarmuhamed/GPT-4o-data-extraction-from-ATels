@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GAIA 17dev",
+            "RA": "141909.26",
+            "Dec": "+060328.4",
+            "redshift": null,
+            "Type": "Active Galactic Nuclei",
+            "Time": null,
+            "Date": "2017 December 22 and 28"
+        },
+        {
+            "Name": "GAIA 17dez",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Active Galactic Nuclei",
+            "Time": null,
+            "Date": "2017 December 26"
+        }
+    ],
+    "References": "A. Delgado et al. TNS AT report 15273 and 15277, respectively",
+    "Event Type": "Swift observations",
+    "Time": null,
+    "Date": "2017 December 22, 26, 28",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00422413+4111549",
+            "RA": "00h42m24.14s",
+            "Dec": "41d11'54.8\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "7.040",
+            "Date": "2011-06"
+        }
+    ],
+    "References": [
+        "ATel #3409",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "ATels #2787, #2274, and #1673",
+        "Hachisu & Kato 2010, ApJ, 709, 680",
+        "Massey et al. 2006, AJ, 131, 2478"
+    ],
+    "Event Type": [
+        "optical detection",
+        "UV brightness increase",
+        "decay"
+    ],
+    "Time": [
+        "1.4 days before discovery",
+        "5.6 days after discovery",
+        "1/3 of a day",
+        [
+            "6.049",
+            "7.040",
+            "7.107",
+            "7.174",
+            "7.307",
+            "7.418",
+            "7.441",
+            "11.324",
+            "13.053",
+            "15.896"
+        ]
+    ],
+    "Date": [
+        "2011-06"
+    ],
+    "Telescope": [
+        "Ondrejov 65cm",
+        "Swift UVOT",
+        "SLOTIS 60cm"
+    ],
+    "Instrument": [
+        null,
+        "UVW1",
+        null
+    ],
+    "Observatory": [
+        "Ondrejov",
+        "Swift",
+        "SLOTIS"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J054746.81+762018.9",
+            "RA": "05h 47m 46.81s",
+            "Dec": "+76d 20m 18.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "00:49:50 UT",
+            "Date": "2016-10-12"
+        },
+        {
+            "Name": "MASTER OT J043723.48-495632.3",
+            "RA": "04h 37m 23.48s",
+            "Dec": "-49d 56m 32.3s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "06:29:32 UT",
+            "Date": "2016-10-09"
+        },
+        {
+            "Name": "MASTER OT J031556.82+012719.0",
+            "RA": "03h 15m 56.82s",
+            "Dec": "+01d 27m 19.0s",
+            "redshift": null,
+            "Type": "UVCet flare",
+            "Time": "02:54:21 UT",
+            "Date": "2016-10-11"
+        },
+        {
+            "Name": "MASTER OT J045821.16-105457.7",
+            "RA": "04h 58m 21.16s",
+            "Dec": "-10d 54m 57.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "03:28:15 UT",
+            "Date": "2016-10-12"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/",
+    "Event Type": "discovery",
+    "Time": "various",
+    "Date": "various",
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-IAC, MASTER-OAFA"
+}

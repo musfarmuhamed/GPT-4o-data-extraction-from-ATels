@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1859+226",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "short period SXT",
+            "Time": "Oct 18.10-18.38",
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC # 7279",
+        "IAUC # 7284",
+        "ATEL #48",
+        "ATEL #49"
+    ],
+    "Event Type": "optical and near-infrared monitoring",
+    "Time": null,
+    "Date": "October 13.86 to October 20.24",
+    "Telescope": [
+        "Nordic Optical Telescope",
+        "Braeside",
+        "Jacobus Kapteyn Telescope",
+        "Keele",
+        "Mt. Laguna",
+        "St. Andrews",
+        "Manastash Ridge Observatory",
+        "UKIRT"
+    ],
+    "Instrument": [
+        "HST/STIS",
+        "RXTE/ASM"
+    ],
+    "Observatory": null
+}

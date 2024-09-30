@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "Temporal data available in the text",
+            "Date": [
+                "2009-Dec-01",
+                "2009-Dec-03",
+                "2009-Aug-17",
+                "2009-Aug-23",
+                "2009-Oct-17",
+                "2009-Nov-10"
+            ]
+        }
+    ],
+    "References": [
+        "Escande and Tanaka, ATel #2328",
+        "Striani et al, ATel #2326",
+        "Bastieri, ATel #2168",
+        "Buxton et al., ATel #2181"
+    ],
+    "Event Type": "Flaring activity",
+    "Time": null,
+    "Date": [
+        "2009-Dec-01",
+        "2009-Dec-03",
+        "2009-Aug-17",
+        "2009-Aug-23",
+        "2009-Oct-17",
+        "2009-Nov-10"
+    ],
+    "Telescope": "Swift/BAT",
+    "Instrument": "X-ray transient monitor",
+    "Observatory": null
+}

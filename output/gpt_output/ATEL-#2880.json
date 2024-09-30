@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI source",
+            "RA": "+254.79 deg",
+            "Dec": "-15.27 deg",
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "00:00 UT",
+            "Date": "2010-09-25"
+        }
+    ],
+    "References": [
+        "ATel #2873",
+        "ATel #2875",
+        "ATel #2874"
+    ],
+    "Event Type": "detection",
+    "Time": "00:00 UT to 14:00 UT",
+    "Date": "2010-09-25 to 2010-09-26",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

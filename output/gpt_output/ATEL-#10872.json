@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017hkn",
+            "RA": "22 35 35.54",
+            "Dec": "-15 12 37.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20171012"
+        },
+        {
+            "Name": "AT2017hjp",
+            "RA": "23 56 31.57",
+            "Dec": "-50 56 43.1",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20171013"
+        },
+        {
+            "Name": "SN2017hes",
+            "RA": "02 31 44.56",
+            "Dec": "+02 41 28.4",
+            "redshift": "0.064",
+            "Type": "Ia",
+            "Time": "+3",
+            "Date": "20170929"
+        },
+        {
+            "Name": "SN2017his",
+            "RA": "03 25 44.56",
+            "Dec": "-63 52 53.7",
+            "redshift": "0.033",
+            "Type": "Ia",
+            "Time": "+9",
+            "Date": "20171011"
+        },
+        {
+            "Name": "SN2017guu",
+            "RA": "04 23 22.36",
+            "Dec": "+25 24 41.5",
+            "redshift": "0.021",
+            "Type": "Ia",
+            "Time": "+19",
+            "Date": "20170909"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org",
+        "Chambers et al. 2016, arXiv:1612.05560, http://pswww.ifa.hawaii.edu",
+        "Tonry et al. (2011, PASP, 123, 58) and Tonry et al. (ATel #8680)",
+        "ESA Gaia Photometric Science Alerts Team and DPAC http://gsaweb.ast.cam.ac.uk/alerts",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org (via WISeREP)",
+        "IAU Transient Name Server"
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": "2017 10 18",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

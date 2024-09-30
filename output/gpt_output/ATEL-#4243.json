@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VASC J1353-66",
+            "RA": "13 53 40.15",
+            "Dec": "-66 39 57.6",
+            "redshift": null,
+            "Type": "BZB?",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VASC J1942+10",
+            "RA": "19 42 47.48",
+            "Dec": "+10 33 27.1",
+            "redshift": null,
+            "Type": "BZB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Motch, C. et al. 1998, A&AS 132, 341",
+        "Tsarevsky et al. 2005, A&A, 438, 949",
+        "Massaro F., et al. 2012 ApJ, 750, 138"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "AAT (3.9-m)",
+        "BTA (6-m)",
+        "VLT (8-m)"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Australia Telescope Compact Array (ATCA)",
+        "Very Large Array (VLA)",
+        "Fermi-LAT"
+    ]
+}

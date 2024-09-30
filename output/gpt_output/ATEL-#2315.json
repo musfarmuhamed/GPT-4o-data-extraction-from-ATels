@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS091017:0828580-003512",
+            "RA": "08:28:58.20",
+            "Dec": "-00:35:12.0",
+            "redshift": "0.05",
+            "Type": "SN IIp",
+            "Time": null,
+            "Date": "2009-10-17"
+        },
+        {
+            "Name": "CSS091018:091109+195945",
+            "RA": "09:11:09.20",
+            "Dec": "19:59:45.0",
+            "redshift": "0.15",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2009-10-18"
+        },
+        {
+            "Name": "CSS090925:001259+144121",
+            "RA": "00:12:59.46",
+            "Dec": "14:41:21.0",
+            "redshift": "0.09",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2009-09-25"
+        }
+    ],
+    "References": "ATEL#2266",
+    "Event Type": "spectroscopic follow-up",
+    "Time": "UT",
+    "Date": "2009-11-10, 2009-11-19",
+    "Telescope": "Gemini South, Gemini North",
+    "Instrument": null,
+    "Observatory": null
+}

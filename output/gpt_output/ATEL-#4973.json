@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10.65",
+            "Date": "2013 April 10"
+        },
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12.22",
+            "Date": "2013 April 12"
+        }
+    ],
+    "References": [
+        "ATels #4028",
+        "#4031",
+        "#4155",
+        "#4271",
+        "#4277",
+        "#4349",
+        "#4565",
+        "#4600",
+        "#4557",
+        "#4627"
+    ],
+    "Event Type": "radio flux observation",
+    "Time": [
+        "10.65",
+        "12.22"
+    ],
+    "Date": [
+        "2013 April 10",
+        "2013 April 12"
+    ],
+    "Telescope": [
+        "32 m radio telescope",
+        "32 m radio telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Noto",
+        "Medicina"
+    ]
+}

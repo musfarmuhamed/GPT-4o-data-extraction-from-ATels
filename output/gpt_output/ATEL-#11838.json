@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051133.47-211610.2",
+            "RA": "05h 11m 33.47s",
+            "Dec": "-21d 16m 10.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "10:34:24",
+            "Date": "2018-07-10"
+        },
+        {
+            "Name": "PGC016891",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "Discovery",
+    "Time": "10:34:24",
+    "Date": "2018-07-10",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": "MASTER auto-detection system",
+    "Observatory": null
+}

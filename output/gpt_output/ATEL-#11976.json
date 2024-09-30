@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18tb",
+            "RA": "04:18:06.149",
+            "Dec": "-63:36:56.68",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "UT 2018-08-21.31",
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "2MASX J04180598-6336523",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "transient discovery",
+    "Time": null,
+    "Date": "2018-08-21",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

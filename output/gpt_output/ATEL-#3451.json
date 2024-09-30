@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "optical/near-infrared transient (possible supernova)",
+            "RA": "12:06:08.868",
+            "Dec": "-8:42:54.73",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "May 28 2011"
+        },
+        {
+            "Name": "potential host galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "the HST Higher-z SN team (PI A. Riess), CLASH: Cluster Lensing and Supernova Survey with Hubble (HST program 12065 , PI M. Postman)",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "May 28 2011",
+    "Telescope": "HST",
+    "Instrument": "WFC3",
+    "Observatory": "Hubble"
+}

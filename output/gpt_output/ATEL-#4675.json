@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J211322.92+260647.4",
+            "RA": "21h 13m 22.92s",
+            "Dec": "+26d 06m 47.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "21h 13m 22.92s",
+            "Date": "2012-12-21.46578 UT"
+        },
+        {
+            "Name": "GSC 2.3.2 star",
+            "RA": "21h 13m 22.953s",
+            "Dec": "+26d 06m 47.02s",
+            "redshift": null,
+            "Type": "faint star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J211322.8+260647",
+            "RA": "21h 13m 22.8s",
+            "Dec": "+26d 06m 47s",
+            "redshift": null,
+            "Type": "UV source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J211322+260647-BRIR5x5.jpg",
+    "Event Type": "discovery",
+    "Time": "21h 13m 22.92s",
+    "Date": "2012-12-21.46578 UT",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

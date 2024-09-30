@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J223634.06-143322.3",
+            "RA": "22h 36m 34.06s",
+            "Dec": "-14d 33m 22.3s",
+            "redshift": null,
+            "Type": "QSO PKS2233-148 flare",
+            "Time": "2015-08-05.91008",
+            "Date": "2015-08-05"
+        },
+        {
+            "Name": "MASTER OT J025211.89+465955.5",
+            "RA": "02h 52m 11.89s",
+            "Dec": "+46d 59m 55.5s",
+            "redshift": null,
+            "Type": "new dwarf nova outburst",
+            "Time": "2015-08-06.80365",
+            "Date": "2015-08-06"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/MASTEROTJ223634.06-143322.3.png http://master.sai.msu.ru/static/OT/MASTEROTJ025211.89465955.5.png",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

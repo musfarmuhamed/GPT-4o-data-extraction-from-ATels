@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "BL Lac",
+            "Time": "07:40:55 UTC",
+            "Date": "Jan 1, 2017"
+        },
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "BL Lac",
+            "Time": "07:36:59 UTC",
+            "Date": "Jan 2, 2017"
+        },
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "BL Lac",
+            "Time": "07:33:04 UTC",
+            "Date": "Jan 3, 2017"
+        },
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "BL Lac",
+            "Time": "07:29:08 UTC",
+            "Date": "Jan 4, 2017"
+        }
+    ],
+    "References": "http://fact-project.org/monitoring/index.php?y=2017&m=01&d=03&source=1&timebin=12&plot=week",
+    "Event Type": "Increased gamma-ray fluxes",
+    "Time": "07:40:55 UTC",
+    "Date": "Jan 1-4, 2017",
+    "Telescope": "HAWC",
+    "Instrument": "TeV gamma ray water Cherenkov array",
+    "Observatory": "Puebla, Mexico"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2011ei",
+            "RA": "20h34m22.61s",
+            "Dec": "-31d58'23.4''",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "August 5.2",
+            "Date": null
+        },
+        {
+            "Name": "NGC 6925",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET 2777",
+    "Event Type": "5.0 GHz detection",
+    "Time": "August 5.2",
+    "Date": null,
+    "Telescope": "EVLA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

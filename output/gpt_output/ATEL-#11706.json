@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0646-176",
+            "RA": 102.1187437,
+            "Dec": -17.7348444,
+            "redshift": 1.232,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J0648.8-1740",
+            "RA": 102.1187437,
+            "Dec": -17.7348444,
+            "redshift": 1.232,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Petrov et al. 2006, AJ, 131, 1872",
+        "Hewitt & Burbidge 1993, ApJS, 87, 451",
+        "ATel #7833"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": "6 June 2018",
+    "Telescope": "Large Area Telescope (LAT)",
+    "Instrument": "Fermi Gamma-ray Space Telescope",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "04:10-07:52",
+            "Date": "2007-09-21"
+        }
+    ],
+    "References": [
+        "ATel #1265",
+        "ATels #438, #874 and #1005",
+        "Kuulkers et al. (2007, A&A 466, 595)",
+        "ATel #190",
+        "ATel #192",
+        "ATel #252",
+        "Walter et al. 2006, A&A 453, 133",
+        "Kuulkers et al. 2007"
+    ],
+    "Event Type": "Flare",
+    "Time": "04:10-07:52",
+    "Date": "2007-09-21",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X, OMC",
+    "Observatory": null
+}

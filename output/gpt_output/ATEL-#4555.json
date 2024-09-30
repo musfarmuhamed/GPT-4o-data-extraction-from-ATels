@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE J155203.26+085047.4",
+            "RA": "15h52m03.26s",
+            "Dec": "08d50m47.5s",
+            "redshift": null,
+            "Type": "gamma-ray blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZBJ1552+0850",
+            "RA": "15h52m03.2616s",
+            "Dec": "+08d50m47.335s",
+            "redshift": null,
+            "Type": "gamma-ray blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSBC F727-V01",
+            "RA": "15h51m40.55s",
+            "Dec": "08d52m26.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J155140.54+085226.1",
+            "RA": "15h51m40.55s",
+            "Dec": "08d52m26.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #4551",
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. (2012 ApJ, 752, 61)",
+        "Massaro et al. (2012 ApJ, 750, 138)",
+        "Kovalev Y.Y. et al. AJ, 133, 1236",
+        "Second Fermi LAT catalog (Nolan, P. L. 2012 ApJS, 199, 31)",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. (2011 ApJ, 740L, 48)"
+    ],
+    "Event Type": "Search for gamma-ray blazar candidate",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer",
+    "Instrument": null,
+    "Observatory": "Wide-field Infrared Survey Explorer"
+}

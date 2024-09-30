@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "00:55:33",
+            "Date": "2017-10-12"
+        },
+        {
+            "Name": "CXOU J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": "2017-10-19"
+        }
+    ],
+    "References": [
+        "D'Ai et al. 2017, GCN 21095",
+        "Beardmore et al. 2017, GCN 22024",
+        "Younes et al. 2017, ATel #10877"
+    ],
+    "Event Type": "SGR-like burst",
+    "Time": "00:55:33",
+    "Date": "2017-10-12",
+    "Telescope": "Swift, Chandra, NuSTAR",
+    "Instrument": "Swift BAT, XRT",
+    "Observatory": null
+}

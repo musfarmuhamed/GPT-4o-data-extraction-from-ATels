@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J023036.19+291256.9",
+            "RA": "02h 30m 36.19s",
+            "Dec": "+29d 12m 56.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-01-15.67664 UT",
+            "Date": "2013-01-15"
+        },
+        {
+            "Name": "MASTER OT J010051.68+371937.3",
+            "RA": "01h 00m 51.68s",
+            "Dec": "+37d 19m 37.3s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2013-01-08.70306 UT",
+            "Date": "2013-01-08"
+        },
+        {
+            "Name": "MASTER OT J100548.87-011654.4",
+            "RA": "10h 05m 48.87s",
+            "Dec": "-01d 16m 54.4s",
+            "redshift": null,
+            "Type": "Bright PSN in PGC1122406",
+            "Time": "2013-01-16.93179 UT",
+            "Date": "2013-01-16"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/023036.19291256.9.png, http://master.sai.msu.ru/static/OT/010051.68371937.3.png, http://master.sai.msu.ru/static/OT/100548.87-011654.4.png",
+    "Event Type": "OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": null
+}

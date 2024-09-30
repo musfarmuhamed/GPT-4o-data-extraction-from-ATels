@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 1520+31",
+            "RA": "15 22 09.99",
+            "Dec": "+31 44 14.4",
+            "redshift": "1.487",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "A. J. Beasley et al. 2002, ApJS, 41, 13",
+        "D. Sowards-Emmerd et al. 2005, ApJ, 626, 95",
+        "Abdo et al. 2010, ApJS 188, 405",
+        "ATel #2026"
+    ],
+    "Event Type": "gamma-ray flux enhancement",
+    "Time": null,
+    "Date": "November 18-21, April 2009",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in collaboration with institutions across France, Italy, Japan, and Sweden"
+}

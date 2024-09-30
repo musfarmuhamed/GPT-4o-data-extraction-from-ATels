@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cir X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "23:23:06.00",
+            "Date": "2010-06-13"
+        }
+    ],
+    "References": [
+        "ATel #2671",
+        "ATel #2608",
+        "ATel #2643",
+        "ATel #2650",
+        "ATel #2651",
+        "ATel #2653",
+        "Linares et al. arXiv:1006.1379",
+        "MAXI News: http://maxi.riken.jp/news/en/?p=503 "
+    ],
+    "Event Type": "X-ray flux increase",
+    "Time": "23:23:06.00",
+    "Date": "2010-06-13",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

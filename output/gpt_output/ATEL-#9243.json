@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J151647.17+283742.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.059",
+            "Type": "Type Ia SN",
+            "Time": "9.5",
+            "Date": "2016-07-09"
+        },
+        {
+            "Name": "2MASX J15164763+2837061",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.056",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J151649.13+283758.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.073",
+            "Type": "possibly interacting galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9204, Blondin & Tonry 2007, ApJ, 666, 1024, Sanchez Almeida et al. 2011, ApJ, 735, 125, via NED",
+    "Event Type": "spectrum obtained",
+    "Time": "9.5",
+    "Date": "2016-07-09",
+    "Telescope": "LCOGT 2-meter",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

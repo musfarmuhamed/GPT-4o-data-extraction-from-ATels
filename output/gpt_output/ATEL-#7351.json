@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J07285597+5611462",
+            "RA": "07:28:55.97",
+            "Dec": "+56:11:46.2",
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": "02:56:33 - 03:26:31",
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "MASTER OT J120451.50+265946.6",
+            "RA": "12:04:51.50",
+            "Dec": "+26:59:46.6",
+            "redshift": null,
+            "Type": "Type Ib",
+            "Time": "04:07:32 - 04:37:31",
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "ASASSN-15bd",
+            "RA": "15:54:38.33",
+            "Dec": "+16:36:38.06",
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": "04:55:27 - 05:15:26",
+            "Date": "2015-01-28"
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "ATel #6723",
+        "ATel #6875",
+        "ATel #6634",
+        "ATel #6639",
+        "ATel #6640",
+        "ATel #6641",
+        "ATel #6755",
+        "ATel #6945",
+        "ATel #6956"
+    ],
+    "Event Type": "Observation",
+    "Time": "02:56:33 - 05:15:26",
+    "Date": "2015-01-26 and 2015-01-28",
+    "Telescope": "182 cm Copernico telescope",
+    "Instrument": "Aqueye+",
+    "Observatory": "Asiago Cima Ekar"
+}

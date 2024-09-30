@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": "22:02:43.29137",
+            "Dec": "+42:16:39.9799",
+            "redshift": 0.0686,
+            "Type": "1FGL J2202.8+4216",
+            "Time": "06:00:00-12:00:00",
+            "Date": "2011-05-20"
+        }
+    ],
+    "References": [
+        {
+            "author": "Abdo et al.",
+            "year": 2010,
+            "journal": "ApJS",
+            "volume": 188,
+            "page": 405
+        },
+        {
+            "author": "Abdo et al.",
+            "year": 2011,
+            "journal": "ApJ",
+            "volume": 730,
+            "page": 101
+        },
+        {
+            "author": "Vermeulen et al.",
+            "year": 1995,
+            "journal": "ApJ",
+            "volume": 452,
+            "page": "L5"
+        },
+        {
+            "author": "Beasley et al.",
+            "year": 2002,
+            "journal": "ApJS",
+            "volume": 141,
+            "page": 13
+        }
+    ],
+    "Event Type": "high gamma-ray state",
+    "Time": "06:00:00-12:00:00",
+    "Date": "2011-05-20",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with institutions in France, Italy, Japan, and Sweden"
+}

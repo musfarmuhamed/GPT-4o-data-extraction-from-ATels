@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J043915.60+424232.3",
+            "RA": "04h 39m 15.60s",
+            "Dec": "+42d 42m 32.3s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "15:38:19",
+            "Date": "2014-01-21"
+        },
+        {
+            "Name": "USNO-B1.0 1327-0126530",
+            "RA": "04h 39m 15.507s",
+            "Dec": "+42d 42m 32.65s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J043915+424232-BRIR5x5.jpg",
+    "Event Type": "new CV",
+    "Time": "15:38:19",
+    "Date": "2014-01-21",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

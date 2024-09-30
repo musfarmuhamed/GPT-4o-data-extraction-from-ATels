@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bol 194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient X-ray source",
+            "Time": "2007-11-24.34",
+            "Date": "2007-11-24"
+        },
+        {
+            "Name": "RX J0513.9-6951",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-soft X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2007-06b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2007-06"
+        }
+    ],
+    "References": "Haberl et al. 2007, ATel #1296; Pietsch et al. 2007, ATel #1294",
+    "Event Type": "X-ray source observation",
+    "Time": "2007-11-24.34",
+    "Date": "2007-11-24",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

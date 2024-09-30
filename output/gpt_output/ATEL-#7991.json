@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J210140.49+215730.9",
+            "RA": "21h 01m 40.49s",
+            "Dec": "+21d 57m 30.9s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2015-09-03.03612 UT",
+            "Date": "2015-09-03"
+        },
+        {
+            "Name": "CSS 091119:213938-023913",
+            "RA": "21h 39m 38s",
+            "Dec": "-02d 39m 13s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "00:21:35.364UT",
+            "Date": "2015-09-03"
+        },
+        {
+            "Name": "CSS080101 J232519-081819",
+            "RA": "23h 25m 19s",
+            "Dec": "-08d 18m 19s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "00:50:25.046UT",
+            "Date": "2015-08-27"
+        }
+    ],
+    "References": "MASTER-IAC auto-detection system (Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010)",
+    "Event Type": "new dwarf nova outburst",
+    "Time": "Variable",
+    "Date": "Variable",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-IAC and MASTER-Kislovodsk"
+}

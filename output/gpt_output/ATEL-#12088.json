@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18xf (AT 2018hdo)",
+            "RA": "04:42:37.850",
+            "Dec": "-53:16:01.17",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2018-10-08.08",
+            "Date": "2018-10-08"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery",
+    "Time": "2018-10-08.08",
+    "Date": "2018-10-08",
+    "Telescope": [
+        "Payne-Gaposchkin",
+        "Paczynski"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

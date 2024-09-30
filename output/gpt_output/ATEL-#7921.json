@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00420640+4108211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "08:15:03.053 UT",
+            "Date": "2015-08-15"
+        },
+        {
+            "Name": "2015-07c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "not a classical nova",
+            "Time": "08:14:23.066 UT",
+            "Date": "2015-08-15"
+        },
+        {
+            "Name": "TCP J00401150+4042199",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "08:15:00.040 UT",
+            "Date": "2015-08-15"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel# 7189",
+            "Objects": [
+                "PNV J00420640+4108211"
+            ]
+        },
+        {
+            "Reference": "ATel# 7795",
+            "Objects": [
+                "2015-07c"
+            ]
+        },
+        {
+            "Reference": "ATel# 7818",
+            "Objects": [
+                "2015-07c"
+            ]
+        },
+        {
+            "Reference": "ATel# 7834",
+            "Objects": [
+                "TCP J00401150+4042199"
+            ]
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2m RCC, 50/70cm Schmidt",
+    "Instrument": "focal reducer FoReRo2",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

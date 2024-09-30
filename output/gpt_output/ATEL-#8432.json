@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02473451+3454336",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "17.6",
+            "Date": "2015 Dec. 17.6"
+        },
+        {
+            "Name": "PGC 010563",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.056",
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "17.6",
+    "Date": "2015 Dec. 17.6",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "OMR",
+    "Observatory": "Xinglong Observatory of NAOC"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1566",
+            "RA": "65.00165",
+            "Dec": "-54.93793",
+            "redshift": null,
+            "Type": "Seyfert galaxy",
+            "Time": "17:12 to 17:27 and 18:48 to 19:01",
+            "Date": "2018-06-24"
+        }
+    ],
+    "References": [
+        "ATeL #11754",
+        "Liu et al., ApJS, 157, 1, 2005",
+        "Kawamuro et al., 2013, ApJ 770,2",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "observation",
+    "Time": "17:12 to 17:27 and 18:48 to 19:01",
+    "Date": "2018-06-24",
+    "Telescope": "Neil Gehrels Swift observatory",
+    "Instrument": "Swift/XRT",
+    "Observatory": "Neil Gehrels Swift observatory"
+}

@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018akj",
+            "RA": "12 27 11.33",
+            "Dec": "-07 41 48.48",
+            "redshift": "0.029307",
+            "Type": "Ib",
+            "Time": "around max",
+            "Date": "2018 03 21.32"
+        },
+        {
+            "Name": "SN 2017kam",
+            "RA": "13 42 43.89",
+            "Dec": "-24 20 07.12",
+            "redshift": "0.022496",
+            "Type": "II-pec",
+            "Time": "3 months",
+            "Date": "2017 12 24.64"
+        },
+        {
+            "Name": "SN 2018yh",
+            "RA": "14 09 01.38",
+            "Dec": "-30 33 26.46",
+            "redshift": "0.023436",
+            "Type": "Ia",
+            "Time": "30d after max",
+            "Date": "2018 02 24.25"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Benetti et al. 2004, MNRAS, 348, 261",
+        "Huchra et al. 2012, ApJS, 199, 26",
+        "Jones et al. 2009, The 6dF Galaxy Survey Data Release 3"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "null",
+    "Date": "2018 March 24 UT",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

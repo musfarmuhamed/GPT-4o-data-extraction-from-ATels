@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13dm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": "Dec. 12.95 UT"
+        },
+        {
+            "Name": "PGC 2816341",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2000E",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "8-10 days past B-band maximum light",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. ATel #5654",
+        "Miller and Owen 2001, ApJS, 134, 355",
+        "Valentini et al. 2003 ApJ, 595, 779",
+        "Turatto et al. 2003, in From Twilight to Highlight: The Physics of Supernovae, ed. W. Hillebrandt & B. Leibundgut -Berlin:Springer-, p.200",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "optical spectrogram",
+    "Time": null,
+    "Date": "Dec. 12.95 UT",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

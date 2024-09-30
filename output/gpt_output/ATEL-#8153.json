@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15qy",
+            "RA": "00:01:18.26",
+            "Dec": "-33:21:02.71",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2015-10-11.31",
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "ASASSN-15qz",
+            "RA": "01:25:36.09",
+            "Dec": "-41:27:55.84",
+            "redshift": "0.021638",
+            "Type": "Supernova",
+            "Time": "2015-10-11.11",
+            "Date": "2015-10-11"
+        }
+    ],
+    "References": [
+        "NED (NASA/IPAC Extragalactic Database)",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovery of transient sources",
+    "Time": "2015-10-11",
+    "Date": "2015-10-11",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

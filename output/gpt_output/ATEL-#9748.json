@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J014405.55+385713.7",
+            "RA": "01h 44m 05.55s",
+            "Dec": "+38d 57m 13s.7",
+            "redshift": null,
+            "Type": "dwarf nova?",
+            "Time": "02:42:58.832UT",
+            "Date": "2016-11-04"
+        },
+        {
+            "Name": "MASTER OT J043243.30-450902.7",
+            "RA": "04h 32m 43.30s",
+            "Dec": "-45d 09m 02.7s",
+            "redshift": null,
+            "Type": "possibly UVCet? flare",
+            "Time": "02:34:50.508UT",
+            "Date": "2016-11-05"
+        },
+        {
+            "Name": "MASTER OT J062330.57-352619.7",
+            "RA": "06h 23m 30.57s",
+            "Dec": "-35d 26m 19.7s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2016-11-09"
+        }
+    ],
+    "References": {
+        "MASTER OT J014405.55+385713.7": [
+            {
+                "Time": "22:43:08UT",
+                "Date": "2016-10-04"
+            }
+        ],
+        "MASTER OT J043243.30-450902.7": [
+            {
+                "Time": "09:00:57",
+                "Date": "2016-08-05"
+            }
+        ],
+        "MASTER OT J062330.57-352619.7": [
+            {
+                "Time": "08:01:03",
+                "Date": "2016-11-06"
+            },
+            {
+                "Time": "2015-10-11.07144 UT",
+                "Date": "2015-10-11"
+            }
+        ]
+    },
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-IAC",
+        "MASTER-Kislovodsk",
+        "MASTER-OAFA",
+        "MASTER-SAAO"
+    ],
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

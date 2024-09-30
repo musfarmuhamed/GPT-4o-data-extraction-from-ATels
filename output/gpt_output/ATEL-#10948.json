@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ton 599",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "06:08",
+            "Date": "2017-11-10"
+        }
+    ],
+    "References": [
+        "ATel#10931",
+        "ATel#10937",
+        "ATel#10938",
+        "ATel#10932",
+        "Aladin/SDSS-DR9"
+    ],
+    "Event Type": "optical photometry",
+    "Time": "06:08",
+    "Date": "2017-11-10",
+    "Telescope": "2.56m Nordic Optical Telescope",
+    "Instrument": "ALFOSC (Andalucia Faint Object Spectrograph and Camera)",
+    "Observatory": "La Palma"
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J223820.02+065346.9",
+            "RA": "22h 38m 20.02s",
+            "Dec": "+06d 53m 46.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "00:11:54",
+            "Date": "2015-01-14",
+            "References": {
+                "discovery_image": "http://master.sai.msu.ru/static/OT/223820.02065346.9.png",
+                "reference_image": {
+                    "date": "2010-11-02",
+                    "time": "00:12:12"
+                }
+            }
+        },
+        {
+            "Name": "MASTER OT J212510.71+333141.4",
+            "RA": "21h 25m 10.71s",
+            "Dec": "+33d 31m 41.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "00:11:30",
+            "Date": "2015-01-19",
+            "References": {
+                "discovery_image": "http://master.sai.msu.ru/static/OT/212510.71333141.4.png",
+                "reference_image": {
+                    "date": "2011-11-03",
+                    "time": "00:14:31"
+                },
+                "color_combined_chart": "http://master.sai.msu.ru/static/OT/J212510+333141-BRIR5x5.jpg"
+            }
+        }
+    ],
+    "Event Type": "new CV",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Tunka"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 1745-248",
+            "RA": 267.023,
+            "Dec": -24.781,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "08:45",
+            "Date": "2010-10-10"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": 267.023,
+            "Dec": -24.781,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "06:27",
+            "Date": "2010-10-11"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #2919",
+        "ATel #2920",
+        "ATel #2922"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "02:25",
+    "Date": "2010-10-11",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X 1&2, IBIS/ISGRI",
+    "Observatory": "Galactic Bulge monitoring program"
+}

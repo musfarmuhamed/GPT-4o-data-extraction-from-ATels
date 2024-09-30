@@ -1,0 +1,22 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018brz",
+            "RA": "08:33:22.27",
+            "Dec": "-76:37:39.8",
+            "redshift": 0.019,
+            "Type": "Ia",
+            "Time": "9:15",
+            "Date": "2018-05-19"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "9:15",
+    "Date": "2018-05-19",
+    "Telescope": "4m Anglo-Australian Telescope",
+    "Instrument": "Koala+AAOmega and Grisms 580V+1000R",
+    "Observatory": "Siding Spring Observatory"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "337.81",
+            "Dec": "11.82",
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "06:44:00",
+            "Date": "2016-11-22"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": "337.81",
+            "Dec": "11.82",
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "06:44:00",
+            "Date": "2016-11-24"
+        }
+    ],
+    "References": [
+        "ATel #9676",
+        "ATel #9732",
+        "ATel #9756",
+        "ATel #9776",
+        "ATel #8476",
+        "ATel #9743"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "06:44:00",
+    "Date": "2016-11-22",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16358-4726",
+            "RA": "16h35m53s",
+            "Dec": "-47o25.3'",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "Feb.26, 1999"
+        },
+        {
+            "Name": "IGR J16358-4726",
+            "RA": "16h35m55s",
+            "Dec": "-47o26.0'",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "Aug.8, 1999"
+        }
+    ],
+    "References": "IAUC # 8097",
+    "Event Type": "X-ray Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "ASCA",
+        "BeppoSAX"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

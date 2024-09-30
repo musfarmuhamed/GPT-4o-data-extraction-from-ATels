@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bzz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0802,
+            "Type": "type-Ia supernova",
+            "Time": "16.9",
+            "Date": "2015-08-16"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Alam et al. 2015, ApJS, 219, 12",
+        "Huber et al. 2015, ATel #7153",
+        "http://star.pst.qub.ac.uk/ps1threepi/"
+    ],
+    "Event Type": "Observation",
+    "Time": "16.9",
+    "Date": "2015-08-16",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016ijk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.053,
+            "Type": "Ia",
+            "Time": "2016-12-09.11",
+            "Date": "2016-12-09"
+        },
+        {
+            "Name": "SN 2016iuc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021,
+            "Type": "Ia",
+            "Time": "2016-12-09.28",
+            "Date": "2016-12-09"
+        }
+    ],
+    "References": "ATel #8992",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

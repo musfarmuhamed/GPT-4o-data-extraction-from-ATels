@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13cuw",
+            "RA": "02:39:57.35",
+            "Dec": "-08:31:25.1",
+            "redshift": 0.25,
+            "Type": "I",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ13dbj",
+            "RA": "04:32:11.45",
+            "Dec": "-10:03:04.1",
+            "redshift": 0.058,
+            "Type": "IIn",
+            "Time": "0d",
+            "Date": null
+        },
+        {
+            "Name": "LSQ13dbn",
+            "RA": "04:37:35.32",
+            "Dec": "-05:34:19.0",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "~0d",
+            "Date": null
+        },
+        {
+            "Name": "LSQ13dbx",
+            "RA": "02:35:11.09",
+            "Dec": "-33:17:00.5",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": null
+        },
+        {
+            "Name": "PS1-13eao",
+            "RA": "03:29:56.35",
+            "Dec": "-28:46:17.7",
+            "redshift": 0.038,
+            "Type": "Ia",
+            "Time": "-4d",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "Rest et al. arXiv:1310.3828",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "All observations were performed on 2013 November 23",
+    "Date": "2013 November 23",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

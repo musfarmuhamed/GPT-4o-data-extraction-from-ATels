@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IC 4705",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.011972,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16fv",
+            "RA": "18:28:10.441",
+            "Dec": "-71:41:38.81",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "06:06.28",
+            "Date": "2016-06-06"
+        },
+        {
+            "Name": "AT 2016cqz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2016-06-06"
+        }
+    ],
+    "References": [
+        "ASAS-SN project",
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "Nuclear Transient",
+    "Time": "06:06.28",
+    "Date": "2016-06-06",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

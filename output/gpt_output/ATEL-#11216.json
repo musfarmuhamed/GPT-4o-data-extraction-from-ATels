@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21.33 UT",
+            "Date": "Jan 21, 2018"
+        },
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21.38 UT",
+            "Date": "Jan 21, 2018"
+        }
+    ],
+    "References": [
+        "ATel #11194",
+        "ATel #11195",
+        "ATel #11196",
+        "ATel #11200",
+        "ATel #11202"
+    ],
+    "Event Type": "gamma-ray/optical flaring",
+    "Time": null,
+    "Date": "Jan 21, 2018",
+    "Telescope": "0.5 m telescope",
+    "Instrument": null,
+    "Observatory": "Georgia State University's Hard Labor Creek Observatory"
+}

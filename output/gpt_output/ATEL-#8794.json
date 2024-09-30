@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cm (AT 2016arq)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.031,
+            "Type": "Type Ia SN",
+            "Time": "04:58:32",
+            "Date": "2016-03-08"
+        },
+        {
+            "Name": "2MASX J15192684-0055256",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.029722,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8775",
+    "Event Type": "Spectroscopic Observation",
+    "Time": "04:58:32",
+    "Date": "2016-03-08",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos, La Palma"
+}

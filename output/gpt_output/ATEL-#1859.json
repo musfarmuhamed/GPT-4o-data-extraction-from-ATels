@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004245.9+411036",
+            "RA": "00:42:45.96",
+            "Dec": "+41:10:36.60",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2008-11-27.72 UT",
+            "Date": "2008-11-27"
+        },
+        {
+            "Name": "SWIFT J004320.5+411528",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2008-10-21",
+            "Date": "2008-10-21"
+        }
+    ],
+    "References": [
+        "Pietsch et al. 2008, ATel #1674",
+        "Galache et al. 2008, ATel #1693",
+        "Henze et al. 2008, ATel #1806"
+    ],
+    "Event Type": "discovery",
+    "Time": "2008-11-27.72 UT",
+    "Date": "2008-11-27",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ton 599",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.7,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "21 March 2018 to 8 May 2018"
+        },
+        {
+            "Name": "3C 345",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.6,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "10 April 2018 to 8 May 2018"
+        }
+    ],
+    "References": [
+        "ATel #10931",
+        "ATel #10937",
+        "ATel #10948",
+        "ATel #11061",
+        "ATel #11075",
+        "ATel #10453"
+    ],
+    "Event Type": "Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Automatic Telescope for Optical Monitoring (ATOM)",
+    "Instrument": null,
+    "Observatory": "H.E.S.S. site in the Khomas Highlands in Namibia"
+}

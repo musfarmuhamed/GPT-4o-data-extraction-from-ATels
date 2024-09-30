@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17379-3747",
+            "RA": 264.531,
+            "Dec": -37.752,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:02",
+            "Date": "2008-09-05"
+        },
+        {
+            "Name": "XTE J1737-376",
+            "RA": 264.531,
+            "Dec": -37.752,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:02",
+            "Date": "2008-09-05"
+        }
+    ],
+    "References": [
+        "ATel #1709",
+        "ATel #438"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "00:02",
+    "Date": "2008-09-05",
+    "Telescope": [
+        "INTEGRAL",
+        "Swift/BAT"
+    ],
+    "Instrument": [
+        "ISGRI"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1652-453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:02 - 23:14",
+            "Date": "2009-07-15"
+        },
+        {
+            "Name": "XTE J1652-453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:33 - 23:46",
+            "Date": "2009-08-28"
+        },
+        {
+            "Name": "Star B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR counterpart candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Markwardt et al. ATel #2107",
+        "Markwardt et al. ATel #2120",
+        "Calvelo et al. ATel #2135",
+        "Reynolds et al. ATel #2125"
+    ],
+    "Event Type": "near-infrared follow-up observations",
+    "Time": [
+        "23:02 - 23:14",
+        "23:33 - 23:46"
+    ],
+    "Date": [
+        "2009-07-15",
+        "2009-08-28"
+    ],
+    "Telescope": "6.5m Magellan Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas observatory"
+}

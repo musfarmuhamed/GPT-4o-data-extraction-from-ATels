@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0458-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": "high",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2012-09-19"
+        }
+    ],
+    "References": [
+        "ATel #4396",
+        "ATel #4402"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2012-09-17",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

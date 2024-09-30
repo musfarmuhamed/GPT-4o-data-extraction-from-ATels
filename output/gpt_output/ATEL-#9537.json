@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16bic",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bib",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia16biv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "confirmation of supernovae candidates",
+    "Time": null,
+    "Date": "2016 September 20-22",
+    "Telescope": "Flemish 1.2m Mercator telescope",
+    "Instrument": "Maia instrument",
+    "Observatory": "Roque de los Muchachos observatory, La Palma, Canary Islands, Spain"
+}

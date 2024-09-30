@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13cuw",
+            "RA": "02:39:57.35",
+            "Dec": "-08:31:25.1",
+            "redshift": 0.05,
+            "Type": "IIP",
+            "Time": "~max",
+            "Date": "20131103"
+        },
+        {
+            "Name": "LSQ13czk",
+            "RA": "04:36:33.85",
+            "Dec": "-27:56:11.0",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": ">30d",
+            "Date": "20131114"
+        },
+        {
+            "Name": "LSQ13dhj",
+            "RA": "02:12:34.51",
+            "Dec": "-37:20:22.8",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "~-5d",
+            "Date": "20131128"
+        },
+        {
+            "Name": "LSQ13dht",
+            "RA": "04:00:26.29",
+            "Dec": "-28:53:00.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20131130"
+        },
+        {
+            "Name": "PSNJ01462790-5840238",
+            "RA": "01:46:27.90",
+            "Dec": "-58:40:23.8",
+            "redshift": 0.02,
+            "Type": "Ia-pec",
+            "Time": "~5d",
+            "Date": "20131128"
+        },
+        {
+            "Name": "OGLE-2013-SN-100",
+            "RA": "02:16:18.55",
+            "Dec": "-74:45:23.6",
+            "redshift": 0.09,
+            "Type": "II-pec",
+            "Time": null,
+            "Date": "20131021"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "OGLE-IV (ATel #4495; Wyrzykowski et al. 2012)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Bersier et al., (2013), ATel #5596",
+        "Hsiao et al. (2013), ATel #5612; http://www.cbat.eps.harvard.edu/unconf/followups/J01462790-5840238.html"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "N/A",
+    "Date": "2013-11-30",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

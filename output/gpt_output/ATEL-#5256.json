@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00422137+4113004",
+            "RA": "00h 42m 21.37s",
+            "Dec": "+41d 13' 00.4\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "11:00",
+            "Date": "2013-08-07"
+        },
+        {
+            "Name": "2MASS 00422116+4113007",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2713",
+        "ATel #2727",
+        "ATel #3061"
+    ],
+    "Event Type": "discovery of a UV-transient",
+    "Time": "11:00",
+    "Date": "2013-08-07",
+    "Telescope": "Ultra-violet/Optical Telescope",
+    "Instrument": "UVOT",
+    "Observatory": "Swift satellite"
+}

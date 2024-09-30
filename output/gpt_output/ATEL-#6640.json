@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J120451.50+265946.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.00189",
+            "Type": "Ib",
+            "Time": null,
+            "Date": "20141028.14"
+        },
+        {
+            "Name": "MASTER OT J113930.78+251141.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01226",
+            "Type": "II",
+            "Time": null,
+            "Date": "20141028.12"
+        },
+        {
+            "Name": "Gaia14acg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03145",
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20141028.17"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": "spectroscopic classification of supernovae",
+    "Time": null,
+    "Date": "20141028",
+    "Telescope": "Asiago 1.82 m Copernico",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

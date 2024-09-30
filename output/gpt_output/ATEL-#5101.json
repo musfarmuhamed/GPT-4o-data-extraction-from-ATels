@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN 19493251-7013200",
+            "RA": "19 49 32.51",
+            "Dec": "-70 13 20.0",
+            "redshift": 0.015,
+            "Type": "II",
+            "Time": "2013-05-07.6",
+            "Date": "20130507"
+        }
+    ],
+    "References": {
+        "Dopita et al., 2007, ApSS": {
+            "volume": 310,
+            "page": 255
+        },
+        "Blondin & Tonry, 2007, ApJ": {
+            "volume": 666,
+            "page": 1024
+        },
+        "Mathewson, Ford, & Buchhorn, 1992, ApJS": {
+            "volume": 81,
+            "page": 413
+        }
+    },
+    "Event Type": "spectroscopic classification",
+    "Time": "2013 May 07.6",
+    "Date": "20130507",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS) with B3000/R3000 gratings",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

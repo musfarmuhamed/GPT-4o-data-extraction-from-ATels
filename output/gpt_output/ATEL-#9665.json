@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016gvd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0774,
+            "Type": "Ia",
+            "Time": "Oct.23.7",
+            "Date": "2016"
+        },
+        {
+            "Name": "SDSS J012023.13-000444.3",
+            "RA": "01h 20m 23.13s",
+            "Dec": "-00\u00b0 04\u2032 44.3\u2033",
+            "redshift": 0.0774,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9646",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Observation",
+    "Time": "Oct.23.7",
+    "Date": "2016",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

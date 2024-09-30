@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2013ai",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": "2013-03-04"
+        },
+        {
+            "Name": "PSN J06161835-2122329",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 2207",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET 3431",
+        "ATel #4849",
+        "ATel #4851"
+    ],
+    "Event Type": "supernova identification",
+    "Time": null,
+    "Date": "2013-03-04",
+    "Telescope": "Blanco Telescope",
+    "Instrument": "DECam",
+    "Observatory": "Cerro Tololo Inter-American Observatory"
+}

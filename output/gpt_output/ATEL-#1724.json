@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+16",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Raiteri et al. 2008, A&A, 480, 339",
+    "Event Type": "optical-to-radio brightening",
+    "Time": null,
+    "Date": "2006-2007",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": {
+        "Campo Imperatore": {
+            "Type": "near-IR"
+        },
+        "SMA": {
+            "Type": "mm wavelengths"
+        },
+        "Noto": {
+            "Frequency": "43 GHz"
+        },
+        "UMRAO": {
+            "Frequency": "14.5-4.8 GHz"
+        }
+    }
+}

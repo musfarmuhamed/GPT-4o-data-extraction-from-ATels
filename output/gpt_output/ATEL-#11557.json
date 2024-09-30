@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS18kx",
+            "RA": "13:18:42.80",
+            "Dec": "-00:45:33.00",
+            "redshift": 0.113,
+            "Type": "Ia",
+            "Time": "+20 d",
+            "Date": null
+        },
+        {
+            "Name": "PS18mq",
+            "RA": "13:19:59.40",
+            "Dec": "-10:28:49.10",
+            "redshift": 0.056,
+            "Type": "Ic",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2018aru",
+            "RA": "13:22:18.80",
+            "Dec": "-01:52:52.00",
+            "redshift": 0.047,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS18oc",
+            "RA": "13:29:40.30",
+            "Dec": "-04:41:19.00",
+            "redshift": 0.105,
+            "Type": "Ia",
+            "Time": "+1 d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18hw",
+            "RA": "14:22:02.50",
+            "Dec": "-28:02:30.80",
+            "redshift": 0.025,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "(1)",
+        "(2,5)",
+        "(3,6)",
+        "(4,7)",
+        "(8)"
+    ],
+    "Event Type": "classifications of optical transients",
+    "Time": "UT",
+    "Date": "2018 April 21",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

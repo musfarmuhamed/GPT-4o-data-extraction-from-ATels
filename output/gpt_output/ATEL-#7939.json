@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bpz",
+            "RA": "23:43:47.65",
+            "Dec": "+42:50:23.0",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": "+1 week since max",
+            "Date": "2015-08-18"
+        },
+        {
+            "Name": "PS15bqk",
+            "RA": "00:06:42.37",
+            "Dec": "-01:21:23.3",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": "+20 days since max",
+            "Date": "2015-08-18"
+        },
+        {
+            "Name": "PS15bqq",
+            "RA": "22:45:46.50",
+            "Dec": "-08:00:01.4",
+            "redshift": "0.25",
+            "Type": "SN Ia",
+            "Time": "+1 week since max",
+            "Date": "2015-08-18"
+        }
+    ],
+    "References": "Huber et. al., ATEL #7153; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Supernova Classification",
+    "Time": "Night",
+    "Date": "2015-08-18",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC, grism 4 (320-910 nm, 16 Angstrom resolution) and 1\" slit",
+    "Observatory": "Nordic Optical Telescope"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0426-380",
+            "RA": 67.16843,
+            "Dec": -37.93877,
+            "redshift": 1.111,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J0428.6-3756",
+            "RA": 67.16843,
+            "Dec": -37.93877,
+            "redshift": 1.111,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0428.6-3756",
+            "RA": 67.16843,
+            "Dec": -37.93877,
+            "redshift": 1.111,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Heidt et al. 2004, A&A, 418, 813",
+        "ATel#2366"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": [
+        "2012-12-17",
+        "2012-12-18"
+    ],
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

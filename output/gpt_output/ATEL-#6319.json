@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UX Ari",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "RS CVn star",
+            "Time": "21:14:11 UT",
+            "Date": "15 July 2014"
+        }
+    ],
+    "References": [
+        "Baumgartner et al., GCN Circ. 16594",
+        "Page et al, 2013, MNRAS Vol. 436, p. 1684",
+        "Kawagoe et al., ATel #6315",
+        "Krimm et al., ATel #5907"
+    ],
+    "Event Type": "Flare",
+    "Time": "21:14:11 UT",
+    "Date": "15 July 2014",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

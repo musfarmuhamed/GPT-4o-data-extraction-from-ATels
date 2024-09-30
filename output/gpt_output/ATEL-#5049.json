@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J094759.83+061044.4",
+            "RA": "09h 47m 59.83s",
+            "Dec": "+06d 10m 44.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable, most likely a dwarf nova of SU UMa (UGSU) subtype in superoutburst",
+            "Time": "04.79277 UT",
+            "Date": "2013-05-04"
+        },
+        {
+            "Name": "SDSS J094759.82+061043.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J094759.8+061044",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J094759.8+061043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ULAS J094759.82+061043.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR detection",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/094759.83061044.4.png",
+    "Event Type": "new bright CV",
+    "Time": "04.79277 UT",
+    "Date": "2013-05-04",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

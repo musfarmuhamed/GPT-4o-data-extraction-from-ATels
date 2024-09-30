@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017hkz",
+            "RA": "113922.68",
+            "Dec": "+644813.0",
+            "redshift": 0.0435,
+            "Type": "Ia",
+            "Time": "01:48:35",
+            "Date": "2017-10-25"
+        },
+        {
+            "Name": "SN 2017hmi",
+            "RA": "101720.68",
+            "Dec": "+635136.5",
+            "redshift": 0.0398,
+            "Type": "Ia",
+            "Time": "00:36:13",
+            "Date": "2017-10-25"
+        },
+        {
+            "Name": "SN 2017hnv",
+            "RA": "230321.23",
+            "Dec": "+254037.7",
+            "redshift": 0.03,
+            "Type": "Ic",
+            "Time": "21:41:53",
+            "Date": "2017-10-24"
+        },
+        {
+            "Name": "SN 2017hnx",
+            "RA": "214340.59",
+            "Dec": "-082608.0",
+            "redshift": 0.0517,
+            "Type": "Ia",
+            "Time": "18:58:24",
+            "Date": "2017-10-24"
+        },
+        {
+            "Name": "AT 2017hna",
+            "RA": null,
+            "Dec": null,
+            "redshift": "Galactic",
+            "Type": "CV",
+            "Time": "23:34:42",
+            "Date": "2017-10-24"
+        },
+        {
+            "Name": "AT 2017hnt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "Galactic",
+            "Type": "CV",
+            "Time": "20:25:27",
+            "Date": "2017-10-24"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Szkody et al. 1990, ApJS 73, 441"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

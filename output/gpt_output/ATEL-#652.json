@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J020929.0+283243",
+            "RA": "02h09m29.82s",
+            "Dec": "+28o32'29.1\"",
+            "redshift": null,
+            "Type": "cataclysmic variable (CV)",
+            "Time": "21:50 UT - 01:30 UT",
+            "Date": "Oct. 25-26, 2005"
+        },
+        {
+            "Name": "Nearby object within ROSAT error circle",
+            "RA": "02h09m30.59s",
+            "Dec": "+28o32'47.9\"",
+            "redshift": null,
+            "Type": "variable star surrounded by 4 faint galaxies",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://hea.iki.rssi.ru/~denis/J020929-RTT_LC-051025.gif",
+        "http://hea.iki.rssi.ru/~denis/J020929-RTT_field-color.jpg"
+    ],
+    "Event Type": "discovery of eclipses",
+    "Time": "nights of Oct. 22-27, 2005",
+    "Date": "Oct. 22-27, 2005",
+    "Telescope": "1.5-m Russian-Turkish Telescope (RTT150)",
+    "Instrument": null,
+    "Observatory": "Bakyrlytepe, Turkey"
+}

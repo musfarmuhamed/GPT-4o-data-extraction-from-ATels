@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +28.07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010 February 5"
+        },
+        {
+            "Name": "4C +28.07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2011 October 6"
+        },
+        {
+            "Name": "4C +28.07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2011 October 9"
+        }
+    ],
+    "References": [
+        "ATel #3670",
+        "ATel #3672",
+        "ATel #3674"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2011 October 3",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

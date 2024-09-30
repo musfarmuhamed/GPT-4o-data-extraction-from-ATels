@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J03334+3718",
+            "RA": "03:33:18.8",
+            "Dec": "+37:18:11",
+            "redshift": 0.05471,
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J033316.2+371815",
+            "RA": "03:33:16.2",
+            "Dec": "+37:18:15",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J13038+5348",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02988,
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MCG +09-21-096",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18048-1455",
+            "RA": "18:04:38.96",
+            "Dec": "-14:56:47.3",
+            "redshift": 0,
+            "Type": "Galactic high mass X-ray binary",
+            "Time": null,
+            "Date": "Mar. 28, 2006"
+        },
+        {
+            "Name": "IGR J20006+3210",
+            "RA": "20:00:21.9",
+            "Dec": "+32:11:23",
+            "redshift": 0,
+            "Type": "Galactic high mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al. 2006, Markarian et al. 1983-1986.",
+    "Event Type": "Optical spectroscopic identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": "TUG Faint Object Spectrograph and Camera (TFOSC)",
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

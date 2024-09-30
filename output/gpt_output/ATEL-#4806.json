@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQJ2345-1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.621",
+            "Type": "quasar",
+            "Time": "NIR flare",
+            "Date": "January 29th, 2013"
+        },
+        {
+            "Name": "CGRaBSJ2345-1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.621",
+            "Type": "quasar",
+            "Time": "NIR flare",
+            "Date": "January 29th, 2013"
+        },
+        {
+            "Name": "1FGLJ2344.6-1554",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.621",
+            "Type": "gamma ray source",
+            "Time": "NIR flare",
+            "Date": "January 29th, 2013"
+        }
+    ],
+    "References": "JD2456312.596559, JD2456279.6298, JD2455501",
+    "Event Type": "NIR flare",
+    "Time": "epoch JD2456312.596559",
+    "Date": "January 29th, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory, National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

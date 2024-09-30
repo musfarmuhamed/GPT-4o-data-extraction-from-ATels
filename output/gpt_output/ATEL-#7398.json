@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15hc",
+            "RA": "10:24:38.82",
+            "Dec": "-02:59:07.82",
+            "redshift": "0.030978",
+            "Type": "supernova",
+            "Time": "17.0",
+            "Date": "2015-04-15.20"
+        },
+        {
+            "Name": "LCRS B102206.7-024353",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.030978",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "LCOGT, Mt. Cuba Astronomical Foundation, NED",
+    "Event Type": "discovery",
+    "Time": "2015-04-15.20",
+    "Date": "2015-04-15",
+    "Telescope": "Cassius, RCOS 41-cm, 0.5m CDK, 30-cm",
+    "Instrument": "FLI PL-9000",
+    "Observatory": "Cerro Tololo, Siding Springs Observatory, Mt. Vernon Observatory"
+}

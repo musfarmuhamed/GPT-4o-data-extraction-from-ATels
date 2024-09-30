@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "00:19:00",
+            "Date": "2008-09-04"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Sidoli et al",
+            "Year": 2008,
+            "Journal": "ApJ",
+            "Status": "in press",
+            "arXiv": "arXiv0805.1808"
+        },
+        {
+            "Author": "Sidoli et al",
+            "Year": 2008,
+            "ATel": "#1454",
+            "arXiv": "arXiv0808.3085"
+        },
+        {
+            "ATel": "#1266"
+        }
+    ],
+    "Event Type": "bright flaring activity",
+    "Time": "00:19:00",
+    "Date": "2008-09-04",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

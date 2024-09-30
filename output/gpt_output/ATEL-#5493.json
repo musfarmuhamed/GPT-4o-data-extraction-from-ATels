@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "2013 October 20.14 UT",
+            "Date": "2013-10-20"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "2013 September 5.14 UT",
+            "Date": "2013-09-05"
+        }
+    ],
+    "References": [
+        "Shore et al. (ATEL #5378)",
+        "Page et al. (ATEL #5470)"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Steward Observatory 2.3 m Bok telescope",
+        "2.4 m Hiltner telescope of the MDM Observatory"
+    ],
+    "Instrument": [
+        "B&C spectrograph",
+        "OSU CCD spectrograph (CCDS)"
+    ],
+    "Observatory": [
+        "Kitt Peak",
+        "MDM Observatory"
+    ]
+}

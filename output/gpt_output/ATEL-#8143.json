@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "12:24 UT",
+            "Date": "2015 October 06"
+        },
+        {
+            "Name": "IGR J19566+0326",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "12:24 UT",
+            "Date": "2015 October 06"
+        },
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2015 May 11"
+        }
+    ],
+    "References": [
+        "ATel #7504",
+        "ATel #7506",
+        "ATel #7520"
+    ],
+    "Event Type": "X-ray flux increase",
+    "Time": "12:24 UT",
+    "Date": "2015 October 06",
+    "Telescope": "MAXI",
+    "Instrument": null,
+    "Observatory": null
+}

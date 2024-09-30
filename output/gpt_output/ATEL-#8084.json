@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E2ni",
+            "RA": "00:36:59.58",
+            "Dec": "-43:18:20.4",
+            "redshift": 0.226,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2015 Sep 15"
+        },
+        {
+            "Name": "DES15C2eap",
+            "RA": "03:37:52.29",
+            "Dec": "-29:10:53.8",
+            "redshift": 0.4715,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Sep 15"
+        }
+    ],
+    "References": "Howell et al, 2005, ApJ, 634, 1190",
+    "Event Type": "optical spectroscopy",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Keck-I",
+    "Instrument": "LRIS",
+    "Observatory": "Dark Energy Survey"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J084140.94+722732.6",
+            "RA": "08h 41m 40.94s",
+            "Dec": "+72d 27m 32.6s",
+            "redshift": null,
+            "Type": "high amplitude dwarf nova outburst",
+            "Time": "2016-02-22.89248 UT",
+            "Date": "2016-02-22"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "discovery and outburst",
+    "Time": {
+        "discovery": "2016-02-22.89248 UT",
+        "reference": "2013-12-30.89828 UT",
+        "previous_outburst": "2013-04-25 19:01:50 UT"
+    },
+    "Date": {
+        "discovery": "2016-02-22",
+        "reference": "2013-12-30",
+        "previous_outburst": "2013-04-25"
+    },
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00486-4241",
+            "RA": "00h 49m 14.9s",
+            "Dec": "-42d 46m 49.40s",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": "1449 sec",
+            "Date": null
+        },
+        {
+            "Name": "IGR J21485+4306",
+            "RA": "21h 48m 22.04s",
+            "Dec": "+43d 01m 24.61s",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": "3982 sec",
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. (2016 ApJS, 223, 15), Secrest et al. (2015 ApJS, 221, 12), Condon et al. (1998, AJ 115, 1693)",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "Swift-XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ahn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": "28.6",
+            "Date": "2017 Feb 28"
+        },
+        {
+            "Name": "NGC 3318",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10058",
+        "ATel #10059",
+        "ATel #10066",
+        "ATel #10067"
+    ],
+    "Event Type": "observation",
+    "Time": "28.6",
+    "Date": "2017 Feb 28",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": "CSIRO"
+}

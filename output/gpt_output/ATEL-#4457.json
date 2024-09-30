@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "between September 10th and October 1st"
+        },
+        {
+            "Name": "SN2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "after Oct 1st"
+        }
+    ],
+    "References": "Campana Atel #4444; Kalberla et al., 2005",
+    "Event Type": "Observation",
+    "Time": "~93 ks total",
+    "Date": "September 10th and October 1st and after Oct 1st",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

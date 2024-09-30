@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13dsm",
+            "RA": "03:33:12.83",
+            "Dec": "-26:12:24.02",
+            "redshift": 0.04,
+            "Type": "Type Ia supernova",
+            "Time": "00:00:00",
+            "Date": "2013-12-31"
+        }
+    ],
+    "References": [
+        {
+            "Name": "SN 2011fe",
+            "ATel": "#3581",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "00:00:00",
+    "Date": "2013-01-01",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

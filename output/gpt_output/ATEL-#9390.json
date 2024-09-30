@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-04a",
+            "RA": "004528.12",
+            "Dec": "+414117.6",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Not specified",
+            "Date": "2016-08-16.8"
+        },
+        {
+            "Name": "MASTER OT J004528.12+414117.6",
+            "RA": "004528.12",
+            "Dec": "+414117.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "Not specified",
+            "Date": "2016-08-16.8"
+        },
+        {
+            "Name": "TCP J00452804+4141168",
+            "RA": "004528.04",
+            "Dec": "+414116.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "Not specified",
+            "Date": "2016-08-16.8"
+        }
+    ],
+    "References": [
+        "ATel #8950",
+        "ATel #9116"
+    ],
+    "Event Type": "Sudden brightening",
+    "Time": "Not specified",
+    "Date": "2016-08-16.8",
+    "Telescope": "50cm@OAO, 61cm@SRO",
+    "Instrument": null,
+    "Observatory": "Sierra Remote Observatory, Okayama Astrophysical Observatory"
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15 12 50.5",
+            "Dec": "-09 06 00",
+            "redshift": "0.36",
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/source/1510-089",
+        "http://users.utu.fi/kani/1m",
+        "http://www.swift.psu.edu/monitoring/source.php?source=PKS1510-089"
+    ],
+    "Event Type": "increase in gamma-ray flux",
+    "Time": null,
+    "Date": "2015/05/18 to 2015/05/19",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": "MAGIC telescopes at La Palma, Spain"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown X-ray source 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unknown X-ray source 2",
+            "RA": "19h 35m 21s",
+            "Dec": "-52d 52' 19\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #12",
+        "ATEL #13",
+        "ATEL #14",
+        "BeppoSAX GRB MAIL N. 98/11"
+    ],
+    "Event Type": "TOO pointing",
+    "Time": "2 days",
+    "Date": null,
+    "Telescope": "BeppoSAX",
+    "Instrument": "NFI",
+    "Observatory": "BeppoSAX"
+}

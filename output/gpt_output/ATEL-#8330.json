@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS0646-176",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.232,
+            "Type": "blazar",
+            "Time": "2457348.997141",
+            "Date": null
+        },
+        {
+            "Name": "TXS0908+416",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.563,
+            "Type": "blazar",
+            "Time": "2457349.028924",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#7833",
+        "ATel#8219"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

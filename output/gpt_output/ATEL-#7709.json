@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "13:12",
+            "Date": "2015 June 17"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "12:10",
+            "Date": "2015 June 21"
+        },
+        {
+            "Name": "Cyg OB2 No. 12",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "highly reddened star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7646, ATel #7674, ATel #7678, Whittet et al. 1992, ApJ, 386, 562",
+    "Event Type": "optical and near-infrared polarimetry",
+    "Time": "13:12, 12:10",
+    "Date": "2015 June 17, 2015 June 21",
+    "Telescope": "1.6m Pirka telescope, 1.5m Kanata telescope",
+    "Instrument": "MSI, HONIR",
+    "Observatory": null
+}

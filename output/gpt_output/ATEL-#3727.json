@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00452885+4154094",
+            "RA": "00:45:28.85",
+            "Dec": "+41:54:09.4",
+            "redshift": "Null",
+            "Type": "Long-period (Mira) variable",
+            "Time": "2011-10-29.33 UT",
+            "Date": "2011-10-22.460 UT"
+        },
+        {
+            "Name": "PNV J00425571+4117524",
+            "RA": "00:42:55.71",
+            "Dec": "+41:17:52.4",
+            "redshift": "Null",
+            "Type": "Fe II nova",
+            "Time": "2011-10-29.33 UT",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATels #3693",
+        "ATels #3699",
+        "ATels #3712",
+        "ATels #3725"
+    ],
+    "Event Type": "Spectroscopic Observations",
+    "Time": "Null",
+    "Date": "2011-10-29.33 UT",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "Null"
+}

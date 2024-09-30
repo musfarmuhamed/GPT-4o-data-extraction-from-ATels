@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTERJ053953-275546",
+            "RA": "05:39:53.61",
+            "Dec": "-27:55:46.4",
+            "redshift": "0",
+            "Type": "stellar",
+            "Time": "Null",
+            "Date": "20150206"
+        },
+        {
+            "Name": "PSNJ10544216-2104138",
+            "RA": "10:54:42.16",
+            "Dec": "-21:04:13.7",
+            "redshift": "0.01246",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150210"
+        },
+        {
+            "Name": "OGLE-2015-SN-051",
+            "RA": "04:33:45.44",
+            "Dec": "-60:49:37.0",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20140815"
+        },
+        {
+            "Name": "OGLE-2015-SN-043",
+            "RA": "05:29:42.71",
+            "Dec": "-72:26:23.7",
+            "redshift": "0.14-0.16",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20140930"
+        },
+        {
+            "Name": "LSQ15gv",
+            "RA": "11:32:42.43",
+            "Dec": "-04:54:39.5",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150122"
+        },
+        {
+            "Name": "LSQ15ey",
+            "RA": "14:12:05.08",
+            "Dec": "-07:23:36.8",
+            "redshift": "0.036",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20150120"
+        },
+        {
+            "Name": "MASTERJ072940+141425",
+            "RA": "07:29:40.10",
+            "Dec": "+14:14:25.5",
+            "redshift": "0.026",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20150211"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299 http://www.pessto.org",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "Gorbovskoy et al. 2013, ARep, 57, 233; http://observ.pereplet.ru"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2015-02-11",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

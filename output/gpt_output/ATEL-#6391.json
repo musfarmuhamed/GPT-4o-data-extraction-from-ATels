@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0402-362",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.417,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2014-Aug-06"
+        },
+        {
+            "Name": "PKS 0402-362",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.417,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2014-Aug-08"
+        }
+    ],
+    "References": [
+        "Peterson et al. 1976, ApJ, 207, 5",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Verner et al. 1996, ApJ, 465, 487",
+        "Atel #3659"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2014-Aug-06",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "12h56m11.1665s",
+            "Dec": "-05d47m21.523s",
+            "redshift": 0.536,
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Marziani et al. ApJS, 1996, 104, 37",
+        "Hartman et al. 1999, ApJS, 123, 79",
+        "Albert et al. 2008, Science, 320, 5884",
+        "Wehrle et al. 1998, ApJ, 497, 178"
+    ],
+    "Event Type": "observation",
+    "Time": "weekly-averaged",
+    "Date": "last six weeks",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Science Support Center"
+}

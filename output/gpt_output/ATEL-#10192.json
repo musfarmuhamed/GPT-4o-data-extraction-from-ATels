@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17apq",
+            "RA": "19:24:02.19",
+            "Dec": "+42:17:21.08",
+            "redshift": "0.02",
+            "Type": "IIb",
+            "Time": "23:47:16",
+            "Date": "2017-03-06"
+        },
+        {
+            "Name": "Gaia17apv",
+            "RA": "17:58:52.09",
+            "Dec": "+34:00:09.32",
+            "redshift": "0.02",
+            "Type": "II",
+            "Time": "08:12:27",
+            "Date": "2016-07-12"
+        }
+    ],
+    "References": "ESA Gaia (http://cosmos.esa.int/gaia), DPAC Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts) (Rixon et al, 2014, ATel #6593)",
+    "Event Type": "classification",
+    "Time": "23:47:16",
+    "Date": "2017-03-06",
+    "Telescope": "Palomar 200-inch (P200)",
+    "Instrument": "Double Spectrograph (DBSP)",
+    "Observatory": "Palomar"
+}

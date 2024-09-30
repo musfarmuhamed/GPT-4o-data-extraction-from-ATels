@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "eta Carinae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": "U.T. July 13",
+            "Date": null
+        },
+        {
+            "Name": "eta Carinae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": "U.T. July 30",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Mehner et al 2011",
+        "http://etacar.umn.edu/download/Eta2014/",
+        "http://etacar.fcaglp.unlp.edu.ar/",
+        "ATel 6334"
+    ],
+    "Event Type": "photometric decline",
+    "Time": null,
+    "Date": null,
+    "Telescope": "HST/STIS",
+    "Instrument": "CCD",
+    "Observatory": null
+}

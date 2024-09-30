@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "24500 seconds",
+            "Date": "2012-09-12"
+        }
+    ],
+    "References": [
+        "CBET#3202",
+        "ATel#4224",
+        "ATel#4310",
+        "ATel#4352",
+        "ATel#4376",
+        "ATel#4408",
+        "Atel#4542",
+        "ATel#4320",
+        "ATel#4321",
+        "ATel#4365"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "24500 seconds",
+    "Date": "2012-09-12",
+    "Telescope": "Chandra",
+    "Instrument": "high-resolution X-ray grating",
+    "Observatory": null
+}

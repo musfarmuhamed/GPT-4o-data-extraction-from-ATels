@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1545-4550",
+            "RA": "15:50:25",
+            "Dec": "-46:10:20",
+            "redshift": 0.87,
+            "Type": "FRB",
+            "Time": "20:34:23.5",
+            "Date": "2017-12-09"
+        }
+    ],
+    "References": [
+        "Barsdell et al. 2012",
+        "Cordes & Lazio 2001",
+        "Keith et al. 2010",
+        "Manchester et al. 2013",
+        "Macquart & Ekers 2017",
+        "Yao et al. 2017"
+    ],
+    "Event Type": "Detection",
+    "Time": "20:34:23.5",
+    "Date": "2017-12-09",
+    "Telescope": "13-beam 20-cm multibeam receiver",
+    "Instrument": "Heimdall algorithm",
+    "Observatory": "Parkes"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PHL 881 (QSO B0050+106)",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.321,
+            "Type": "blue quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "new gamma-ray source/ Fermi J0052+1110",
+            "RA": 13.09,
+            "Dec": 11.16,
+            "redshift": "Null",
+            "Type": "gamma-ray source",
+            "Time": "Null",
+            "Date": "January 29, 2012"
+        }
+    ],
+    "References": "Schmidt 1974, ApJ, 193, 509",
+    "Event Type": "gamma-ray flare",
+    "Time": "Null",
+    "Date": "January 29, 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

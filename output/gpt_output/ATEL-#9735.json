@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole X-ray binary",
+            "Time": "Not detected",
+            "Date": "2016-11-06"
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole X-ray binary",
+            "Time": "Not detected",
+            "Date": "2016-11-07"
+        }
+    ],
+    "References": [
+        "ATel #546",
+        "ATel #9708",
+        "ATel #8782",
+        "Froning et al. 2014"
+    ],
+    "Event Type": "X-ray observations",
+    "Time": null,
+    "Date": [
+        "2016-06-08",
+        "2016-11-06",
+        "2016-11-07"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT"
+    ],
+    "Observatory": null
+}

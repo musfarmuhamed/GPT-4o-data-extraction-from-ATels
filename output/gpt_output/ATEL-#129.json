@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1200+521",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "12:08:12",
+            "Date": "2003-03-18"
+        },
+        {
+            "Name": "1RXS J120011.2+051056",
+            "RA": "12h 00m 11s.20",
+            "Dec": "+05d 10' 56\".5",
+            "redshift": null,
+            "Type": "Unidentified ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 104243",
+            "RA": "12h 00m 14s.39",
+            "Dec": "+05d 21' 48\".7",
+            "redshift": null,
+            "Type": "High-proper-motion G5 star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kuulkers et al., A&A, 2002",
+        "Bradt et al., 2000, astro-ph/0003438"
+    ],
+    "Event Type": "Rapid X-ray transient",
+    "Time": "12:08:12",
+    "Date": "2003-03-18",
+    "Telescope": "RXTE",
+    "Instrument": "All-Sky Monitor",
+    "Observatory": null
+}

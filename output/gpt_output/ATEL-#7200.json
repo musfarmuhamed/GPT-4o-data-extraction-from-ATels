@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0511-522",
+            "RA": 77.752,
+            "Dec": -52.204,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "03:06:21",
+            "Date": "2015-03-11"
+        },
+        {
+            "Name": "1H 0513-518",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://maxi.riken.jp/top/index.php?cid=1&jname=J0511-522",
+    "Event Type": "Nova alert",
+    "Time": "03:06:21",
+    "Date": "2015-03-11",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00430419+4115155",
+            "RA": "0h43m04s.19",
+            "Dec": "+41o15'15\".4",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "16.782",
+            "Date": "2017 Nov. 16"
+        },
+        {
+            "Name": "2017ifs",
+            "RA": "0h43m04s.19",
+            "Dec": "+41o15'15\".4",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "16.782",
+            "Date": "2017 Nov. 16"
+        }
+    ],
+    "References": [
+        "K. Nishiyama and F. Kabashima",
+        "G. Carey",
+        "H. Kucakova"
+    ],
+    "Event Type": "Discovery",
+    "Time": "16.782",
+    "Date": "2017 Nov. 16",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD",
+    "Observatory": "Ondrejov"
+}

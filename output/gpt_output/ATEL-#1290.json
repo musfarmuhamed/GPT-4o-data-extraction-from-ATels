@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006jd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018556,
+            "Type": "Type-IIn",
+            "Time": "2007-11-16.73 UT",
+            "Date": "2007-11-16"
+        },
+        {
+            "Name": "UGC 4179",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #673",
+        "CBET #679",
+        "Filippenko",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "NED",
+        "Poole et al., 2007, MNRAS, accepted [astro-ph/0708.2259]"
+    ],
+    "Event Type": "Observation",
+    "Time": "2007-11-16.73 UT",
+    "Date": "2007-11-16",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

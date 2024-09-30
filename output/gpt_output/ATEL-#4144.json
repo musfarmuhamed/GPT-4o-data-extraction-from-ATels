@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546 / MAXI1910-057",
+            "RA": "19:10:22.79",
+            "Dec": "-05:47:46.3",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "08:48 UT",
+            "Date": "June 1st"
+        },
+        {
+            "Name": "RXS J191024.6-054700",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm et al. 2012, ATel #4139; Usui et al. 2012, ATel #4140; Greiner et al. 2008, PASP 120, 405; Schlegel et al. 1998",
+    "Event Type": "Observation",
+    "Time": "08:48 UT",
+    "Date": "June 1st",
+    "Telescope": "2.2m MPG/ESO telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory (Chile)"
+}

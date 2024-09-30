@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TYC 2505-672-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M1III red giant",
+            "Time": null,
+            "Date": "2013 Feb. 10"
+        }
+    ],
+    "References": [
+        {
+            "Observer": "Denisenko et al.",
+            "ATel": "#4784"
+        },
+        {
+            "Observers": "Afanasiev and Moiseev",
+            "Source": "Astron. Lett., Vol. 31, No. 3, p. 194"
+        },
+        {
+            "Observer": "Henden",
+            "Communication": "private communication"
+        },
+        {
+            "Source": "Tycho2 catalog",
+            "Details": "Hog et al., 2000"
+        }
+    ],
+    "Event Type": "fading episode",
+    "Time": "2013 Feb. 11.61-11.62 UT and 2013 Feb. 22.62-22.63 UT",
+    "Date": "2013 Feb. 11 and 2013 Feb. 22",
+    "Telescope": "Russian 6-m BTA telescope, MASTER-Amur binocular telescope",
+    "Instrument": "SCORPIO instrument",
+    "Observatory": "SAO RAS, Nizhniy Arkhyz, Karachay-Cherkessia"
+}

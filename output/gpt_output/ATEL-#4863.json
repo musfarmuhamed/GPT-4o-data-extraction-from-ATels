@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SSS130304:055628-172343",
+            "RA": "05 56 28.13",
+            "Dec": "-17 23 42.8",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "20130304"
+        },
+        {
+            "Name": "OGLE2013-SN-017",
+            "RA": "04 27 22.29",
+            "Dec": "-74 42 09.2",
+            "redshift": "0.043",
+            "Type": "SN IIn",
+            "Time": "Null",
+            "Date": "20130108"
+        },
+        {
+            "Name": "SSS130304:114144-171349",
+            "RA": "11 41 44.14",
+            "Dec": "-17 13 48.7",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20130304"
+        },
+        {
+            "Name": "SSS130304:114445-203141",
+            "RA": "11 44 44.74",
+            "Dec": "-20 31 41.1",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20130304"
+        },
+        {
+            "Name": "MASTER OT J081031.62+111450.2",
+            "RA": "08 10 31.61",
+            "Dec": "+11 14 50.2",
+            "redshift": "0",
+            "Type": "Minor planet",
+            "Time": "Null",
+            "Date": "20130303"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Wyrzykowski et al., ATEL #4495",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2013 March 5",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

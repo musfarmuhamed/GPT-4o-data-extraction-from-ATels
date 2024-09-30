@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006bv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00838,
+            "Type": "Type-IIn",
+            "Time": null,
+            "Date": "2006-04-28.36"
+        },
+        {
+            "Name": "SN 2006bv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00838,
+            "Type": "Type-IIn",
+            "Time": null,
+            "Date": "2006-05-01.76"
+        }
+    ],
+    "References": [
+        "CBET #493",
+        "CBET #494"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2006-05-01.76",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

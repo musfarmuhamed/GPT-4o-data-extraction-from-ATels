@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": null,
+            "RA": 214.544,
+            "Dec": -0.3347,
+            "redshift": null,
+            "Type": "neutrino",
+            "Time": "01:55:04",
+            "Date": "2016-07-31"
+        },
+        {
+            "Name": null,
+            "RA": 214.48,
+            "Dec": 0.07,
+            "redshift": null,
+            "Type": "gamma-ray peak",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN/Circulars #19743",
+    "Event Type": "ICECUBE detection",
+    "Time": "01:55:04",
+    "Date": "2016-07-31",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17aiq",
+            "RA": "09 49 56.70",
+            "Dec": "+67 10 59.6",
+            "redshift": "0.01305",
+            "Type": "Supernova",
+            "Time": "08:18 to 08:28",
+            "Date": "2017-02-16"
+        },
+        {
+            "Name": "PGC 28268",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cometary nebula without a distinct nucleus in IR or UV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PGC 28299",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy with a bright nucleus and a 'tail' towards its neighbor",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J094942.68+671035.6",
+            "RA": "09 49 42.68",
+            "Dec": "+67 10 35.6",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "A. Henden et al., 2016",
+        "E. Falco et al., 1999",
+        "E. Schlafly et al., 2011"
+    ],
+    "Event Type": "optical transient",
+    "Time": "08:18 to 08:28",
+    "Date": "2017-02-16",
+    "Telescope": "iTelescope.Net T11",
+    "Instrument": "0.50-m f/6.8 reflector + FLI ProLine CCD + f/4.5 focal reducer",
+    "Observatory": "Mayhill, NM"
+}

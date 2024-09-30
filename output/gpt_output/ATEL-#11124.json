@@ -1,0 +1,93 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2017",
+            "Date": "2017",
+            "Photometry": [
+                {
+                    "Band": "V",
+                    "Magnitude": "18.91 \u00b1 0.08",
+                    "Total exposure [s]": 1800,
+                    "Date UT": "2018 01 01.723"
+                },
+                {
+                    "Band": "V",
+                    "Magnitude": "19.03 \u00b1 0.08",
+                    "Total exposure [s]": 2070,
+                    "Date UT": "2018 01 01.840"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "18.18 \u00b1 0.09",
+                    "Total exposure [s]": 1260,
+                    "Date UT": "2017 12 31.829"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "18.50 \u00b1 0.08",
+                    "Total exposure [s]": 1080,
+                    "Date UT": "2018 01 01.682"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "18.57 \u00b1 0.06",
+                    "Total exposure [s]": 1350,
+                    "Date UT": "2018 01 01.796"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "18.60 \u00b1 0.05",
+                    "Total exposure [s]": 1800,
+                    "Date UT": "2018 01 01.864"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "19.37 \u00b1 0.14",
+                    "Total exposure [s]": 1170,
+                    "Date UT": "2018 01 02.768"
+                },
+                {
+                    "Band": "R",
+                    "Magnitude": "19.42 \u00b1 0.11",
+                    "Total exposure [s]": 3510,
+                    "Date UT": "2018 01 02.921"
+                },
+                {
+                    "Band": "I",
+                    "Magnitude": "18.24 \u00b1 0.09",
+                    "Total exposure [s]": 1800,
+                    "Date UT": "2018 01 01.701"
+                },
+                {
+                    "Band": "I",
+                    "Magnitude": "18.43 \u00b1 0.10",
+                    "Total exposure [s]": 1800,
+                    "Date UT": "2018 01 01.816"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "ATels #11116",
+        "#11117",
+        "#11118",
+        "#11121",
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "Henze et al. 2015b",
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Darnley et al. 2016"
+    ],
+    "Event Type": "eruption",
+    "Time": "2017",
+    "Date": "2017",
+    "Telescope": "0.65-m",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

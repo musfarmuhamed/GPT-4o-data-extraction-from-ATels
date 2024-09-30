@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0418+5729",
+            "RA": "04h 18m 33.867s",
+            "Dec": "+57d 32m 22.91s",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "24 ks",
+            "Date": "2009 July 12"
+        },
+        {
+            "Name": "CXOU J041819.0+573341",
+            "RA": "04h 18m 19.097s",
+            "Dec": "+57d 33m 41.75s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J041812.5+573154",
+            "RA": "04h 18m 12.578s",
+            "Dec": "+57d 31m 54.99s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #9499",
+        "ATEL #2077",
+        "ATEL #2121",
+        "ATEL #2127"
+    ],
+    "Event Type": "Observation",
+    "Time": "24 ks",
+    "Date": "2009 July 12",
+    "Telescope": "Chandra, Palomar Hale telescope",
+    "Instrument": "HRC-I, WIRC",
+    "Observatory": "Chandra Observatory, Palomar Observatory"
+}

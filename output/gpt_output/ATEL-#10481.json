@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 3938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2017ein",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2017-05-25",
+            "Date": "2017"
+        }
+    ],
+    "References": "Xiang et al. (ATel #10434)",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2017",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": [
+        {
+            "Name": "Maidanak observatory",
+            "Telescope": "1.5m",
+            "Country": "Uzbekistan"
+        },
+        {
+            "Name": "Deok-Heong Optical Astronomy Observatory",
+            "Telescope": "1m",
+            "Country": "Korea"
+        },
+        {
+            "Name": "Mt. Lemmon Optical Astronomy Observatory",
+            "Telescope": "1m",
+            "Country": "USA"
+        },
+        {
+            "Name": "Sobaeksan Optical Astronomy Observatory",
+            "Telescope": "0.6m",
+            "Country": "Korea"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17mt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:23",
+            "Date": "2017-09-24"
+        }
+    ],
+    "References": [
+        "ATEL #10772",
+        "ATEL #10977"
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:23",
+    "Date": "2017-09-24",
+    "Telescope": [
+        "Fermi-LAT",
+        "Neil Gehrels Swift Observatory",
+        "SMARTS 1.3m telescope",
+        "SMARTS 1.5m telescope"
+    ],
+    "Instrument": [
+        "dual-channel photometer",
+        "Chiron echelle spectrograph"
+    ],
+    "Observatory": [
+        "Neil Gehrels Swift Observatory"
+    ]
+}

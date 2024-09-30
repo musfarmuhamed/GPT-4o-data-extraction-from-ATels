@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0402-362",
+            "RA": "04h02m02.5994s",
+            "Dec": "-36d13m11.947s",
+            "redshift": "1.417",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Johnston, K. J. et al.",
+            "Year": 1995,
+            "Journal": "AJ",
+            "Volume": 110,
+            "Page": 880
+        },
+        {
+            "Authors": "Peterson, B. A. et al.",
+            "Year": 1976,
+            "Journal": "ApJ",
+            "Volume": 207,
+            "Page": 5
+        }
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": null,
+    "Date": "February-01-2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

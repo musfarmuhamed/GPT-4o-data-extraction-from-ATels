@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14fyb",
+            "RA": "23 35 16.65",
+            "Dec": "-23 41 36.12",
+            "redshift": "0.041",
+            "Type": "Ic",
+            "Time": null,
+            "Date": {
+                "Discovery": "2014 10 23",
+                "Spectroscopic": "2014 11 13"
+            }
+        }
+    ],
+    "References": "Hadjiyska et al., ATel #3812; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic Classification",
+    "Time": {
+        "Phase": "2 weeks past max"
+    },
+    "Date": {
+        "Discovery": "2014 10 23",
+        "Spectroscopic": "2014 11 13"
+    },
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "Alfosc",
+    "Observatory": "La Silla-Quest"
+}

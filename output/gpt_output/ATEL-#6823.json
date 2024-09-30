@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "09:55",
+            "Date": "2014-12-05"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "09:15",
+            "Date": "2014-12-11"
+        }
+    ],
+    "References": [
+        "ATel #6819",
+        "ATEL #6465",
+        "ATEL #6630",
+        "ATEL #6656",
+        "ATEL #6664",
+        "Kretschmar et al., 2013, arXiv.1302.3434"
+    ],
+    "Event Type": "Re-brightening detection and flux increase",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "JEM-X"
+    ],
+    "Observatory": "INTEGRAL"
+}

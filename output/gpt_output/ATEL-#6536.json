@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ii",
+            "RA": "22:16:40.57",
+            "Dec": "-36:09:39.3",
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "ASASSN-14ih",
+            "RA": "22:34:29.75",
+            "Dec": "-24:39:49.9",
+            "redshift": "0.032",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "ASASSN-14il",
+            "RA": "00:45:32.54",
+            "Dec": "-14:15:34.5",
+            "redshift": "0.022",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "ASASSN-14ig",
+            "RA": "01:16:04.95",
+            "Dec": "-61:37:16.6",
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "PSN J08174339-3007211",
+            "RA": "08:17:43.39",
+            "Dec": "-30:07:21.1",
+            "redshift": "0.004",
+            "Type": "II",
+            "Time": null,
+            "Date": "2014-10-03"
+        }
+    ],
+    "References": [
+        {
+            "ATel": 6521,
+            "6dF": "Jones et al., 2009"
+        },
+        {
+            "ATel": 6525,
+            "2MASS": "Jones et al., 2009"
+        },
+        {
+            "ATel": 6517,
+            "2dF": "Colless et al., 2003"
+        },
+        {
+            "ESO": "Kraan-Korteweg & Huchtmeier, 1992"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2014-10-03",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "WiFeS",
+    "Observatory": "Siding Spring Observatory"
+}

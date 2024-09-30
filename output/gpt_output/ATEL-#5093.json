@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J0017-0512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "2013 May 25"
+        },
+        {
+            "Name": "PMN J0017-0512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2013 May 29"
+        }
+    ],
+    "References": [
+        "ATel #5089",
+        "CGraBS (Healey et al. 2008, ApJS 175, 97)"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": null,
+    "Date": "2013 May 25",
+    "Telescope": "SMARTS 1.3 meter telescope",
+    "Instrument": "ANDICAM",
+    "Observatory": "CTIO in Cerro Tololo, Chile"
+}

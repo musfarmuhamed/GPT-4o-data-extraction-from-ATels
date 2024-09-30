@@ -1,0 +1,90 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15bon",
+            "RA": "00 48 08.67",
+            "Dec": "-29 08 22.9",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20151113"
+        },
+        {
+            "Name": "OGLE15qk",
+            "RA": "03 30 00.33",
+            "Dec": "-71 30 08.6",
+            "redshift": "0.065",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150815"
+        },
+        {
+            "Name": "OGLE15qz",
+            "RA": "03 08 35.88",
+            "Dec": "-70 30 41.6",
+            "redshift": "0.063",
+            "Type": "SLSN Ic",
+            "Time": "Null",
+            "Date": "20150904"
+        },
+        {
+            "Name": "OGLE15rb",
+            "RA": "05 12 52.03",
+            "Dec": "-61 52 00.3",
+            "redshift": "0.028",
+            "Type": "Ic",
+            "Time": "Null",
+            "Date": "20151025"
+        },
+        {
+            "Name": "PS15cmq",
+            "RA": "09 48 22.98",
+            "Dec": "-03 27 41.2",
+            "redshift": "0.065",
+            "Type": "II",
+            "Time": "+11d",
+            "Date": "20151015"
+        },
+        {
+            "Name": "PS15cvn",
+            "RA": "00 09 21.67",
+            "Dec": "-00 04 06.5",
+            "redshift": "0.065",
+            "Type": "Ic",
+            "Time": "Null",
+            "Date": "20151107"
+        },
+        {
+            "Name": "PS15cwj",
+            "RA": "09 27 44.88",
+            "Dec": "-08 31 32.1",
+            "redshift": "0.135",
+            "Type": "Ia",
+            "Time": "+20d",
+            "Date": "20151013"
+        },
+        {
+            "Name": "PS15cwo",
+            "RA": "03 11 16.73",
+            "Dec": "+01 11 34.5",
+            "redshift": "0.02",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20151115"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40; http://www.pessto.org",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2015 Nov. 17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

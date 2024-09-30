@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B/Swift J123205.1-105602",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.134,
+            "Type": "Short GRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SRCX1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SRCX2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Afterglow of GRB 150101B",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings et al. GCN 17267",
+        "Troja et al. GCN 17289",
+        "Fong et al. GCN 17333",
+        "Levan et al. 17321",
+        "Levan et al. GCN 17281"
+    ],
+    "Event Type": "X-ray Observatory Observation",
+    "Time": "39 days after the burst",
+    "Date": "10 Feb 2015",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3",
+    "Observatory": "Chandra X-ray Observatory"
+}

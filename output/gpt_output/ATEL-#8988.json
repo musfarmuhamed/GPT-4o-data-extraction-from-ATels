@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0758-456",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft transient source",
+            "Time": "15:05UT",
+            "Date": "April 24th, 2016"
+        },
+        {
+            "Name": "1RXS J080114.6-462324",
+            "RA": "120.32057",
+            "Dec": "-46.39084",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J080114.6-462324",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "February 28th, 2007 to March 14th, 2007"
+        }
+    ],
+    "References": "Nakagawa et al., ATEL #8983; Landi et al., 2010, MNRAS, 403, 945",
+    "Event Type": "detection",
+    "Time": "15:05UT",
+    "Date": "April 24th, 2016",
+    "Telescope": "MAXI",
+    "Instrument": null,
+    "Observatory": null
+}

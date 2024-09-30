@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J125459.84-442516.5",
+            "RA": "12h 54m 59.84s",
+            "Dec": "-44d 25m 16.5s",
+            "redshift": null,
+            "Type": "Possible SuperNova",
+            "Time": "08.93131",
+            "Date": "2015-04-08"
+        },
+        {
+            "Name": "BZB J1254-4424",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "QSO galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1252-441",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Parkes radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J125457.57-442456.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GALEX catalog source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Discovery",
+    "Time": "08.93131",
+    "Date": "2015-04-08",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

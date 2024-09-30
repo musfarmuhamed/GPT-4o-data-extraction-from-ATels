@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15aj",
+            "RA": "10:52:53.26",
+            "Dec": "-32:55:34.86",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2015-01-08.3",
+            "Date": "2015-01-08"
+        },
+        {
+            "Name": "NGC 3449",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010921",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "List of all ASAS-SN transients"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2015-01-08.3",
+    "Date": "2015-01-08",
+    "Telescope": "double 14-cm \"Cassius\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

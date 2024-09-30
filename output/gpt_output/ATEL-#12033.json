@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18vc (AT 2018get)",
+            "RA": "07:34:09.121",
+            "Dec": "+04:32:57.68",
+            "redshift": "0.004086",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-09-10.6"
+        },
+        {
+            "Name": "UGC 03912",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.004086",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014"
+    ],
+    "Event Type": "discovery",
+    "Time": "2018-09-10.6",
+    "Date": "2018-09-10",
+    "Telescope": "Brutus and Leavitt",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii, and Fort Davis, Texas"
+}

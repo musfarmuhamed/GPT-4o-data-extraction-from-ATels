@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16akk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.115,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2016-04-06"
+        },
+        {
+            "Name": "ASASSN-16ek",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0142,
+            "Type": "IIb",
+            "Time": "00:00:00",
+            "Date": "2016-04-12"
+        },
+        {
+            "Name": "ASASSN-16eq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2016-04-22"
+        }
+    ],
+    "References": [
+        "ATEL #8944",
+        "ATEL #8979"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "00:00:00",
+    "Date": "2016-04-25",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "NOT"
+}

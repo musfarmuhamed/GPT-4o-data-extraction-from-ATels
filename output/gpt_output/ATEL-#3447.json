@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J164449.3+573451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Tidal Disruption Candidate, Black Hole",
+            "Time": "4x 25 ksec",
+            "Date": [
+                "16 April 2011",
+                "30 April 2011",
+                "16 May 2011",
+                "30 May 2011"
+            ]
+        }
+    ],
+    "References": [
+        "Nandra et al. 2007, MNRAS, 382, 194",
+        "Strohmayer 2001, ApJ, 552, L49",
+        "Miller et al. 2001, ApJ, 563, 928",
+        "Miller & Gultekin 2011, arxiv:1106.2502",
+        "Greene & Ho, 2007, ApJ, 670, 92"
+    ],
+    "Event Type": "Observation",
+    "Time": "4x 25 ksec",
+    "Date": [
+        "16 April 2011",
+        "30 April 2011",
+        "16 May 2011",
+        "30 May 2011"
+    ],
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn",
+    "Observatory": "XMM-Newton Observatory"
+}

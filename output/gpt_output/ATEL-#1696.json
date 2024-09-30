@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1812-182",
+            "RA": "18:12:28.37",
+            "Dec": "-18:12:36.0",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "13:12",
+            "Date": "2008-09-03"
+        },
+        {
+            "Name": "XMMU J181227.8-181234",
+            "RA": "18:12:28.37",
+            "Dec": "-18:12:36.0",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2003"
+        }
+    ],
+    "References": "Markwardt, Pereira & Swank 2008, ATEL #1685; Cackett, Wijnands & Remillard,2006,MNRAS,369,1965; Cackett et al, (2008)",
+    "Event Type": "Observation",
+    "Time": "13:12",
+    "Date": "2008-09-03",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

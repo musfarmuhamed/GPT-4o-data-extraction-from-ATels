@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UGC 09450",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014900",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16ai",
+            "RA": "14:39:44.73",
+            "Dec": "+23:23:43.27",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "12.58",
+            "Date": "2016-01-12"
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovered a new transient source, most likely a supernova",
+    "Time": "12.58",
+    "Date": "2016-01-12",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

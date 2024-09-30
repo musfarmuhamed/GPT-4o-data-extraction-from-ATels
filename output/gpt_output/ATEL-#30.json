@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1627-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SNR G337.0-0.1",
+            "RA": "16h35m50s",
+            "Dec": "-47o32'",
+            "redshift": null,
+            "Type": null,
+            "Time": "May 17.943917",
+            "Date": "May 17"
+        },
+        {
+            "Name": "SNR G337.0-0.1",
+            "RA": "16h35m50s",
+            "Dec": "-47o39'",
+            "redshift": null,
+            "Type": null,
+            "Time": "May 17.954243",
+            "Date": "May 17"
+        }
+    ],
+    "References": [
+        "ATEL #29",
+        "GCN #113",
+        "GCN #115"
+    ],
+    "Event Type": "Burst",
+    "Time": "May 17.943917, 17.954243, and 18.010803",
+    "Date": "May 17 and 18",
+    "Telescope": "ASM",
+    "Instrument": "SSC 3",
+    "Observatory": null
+}

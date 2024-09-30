@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:10",
+            "Date": "August 30, 2018"
+        }
+    ],
+    "References": [
+        "ATel #11941",
+        "ATel #11981",
+        "ATel #11957"
+    ],
+    "Event Type": "outburst",
+    "Time": "21:10",
+    "Date": "August 30-31, 2018",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X",
+        "NICER"
+    ],
+    "Observatory": null
+}

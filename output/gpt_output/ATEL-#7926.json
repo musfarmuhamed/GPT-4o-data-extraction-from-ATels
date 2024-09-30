@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ol",
+            "RA": "01:54:06.04",
+            "Dec": "-56:41:42.5",
+            "redshift": 0.02,
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20150815"
+        },
+        {
+            "Name": "ASASSN-14om",
+            "RA": "02:13:07.47",
+            "Dec": "-45:18:08.0",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20150815"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "NULL",
+    "Date": "2015-08-18",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

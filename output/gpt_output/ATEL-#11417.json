@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 180311",
+            "RA": 189.2,
+            "Dec": 62.3,
+            "redshift": null,
+            "Type": "FRB",
+            "Time": "04:11:54.80",
+            "Date": "2018-03-11"
+        },
+        {
+            "Name": "FRB 180301",
+            "RA": 216.5,
+            "Dec": -11.6,
+            "redshift": null,
+            "Type": "FRB",
+            "Time": "07:34:19.76",
+            "Date": "2018-03-01"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Oslowski, S.",
+            "ATEL": "#11396"
+        },
+        {
+            "Name": "Price, D. C.",
+            "ATEL": "#11376"
+        },
+        {
+            "ATEL": "#11413"
+        }
+    ],
+    "Event Type": "FRB",
+    "Time": [
+        "04:11:54.80",
+        "07:34:19.76"
+    ],
+    "Date": [
+        "2018-03-11",
+        "2018-03-01"
+    ],
+    "Telescope": "Astrosat",
+    "Instrument": "CZTI",
+    "Observatory": [
+        "TIFR-led consortium (including VSSC, ISAC, IUCAA, SAC, PRL)",
+        "Indian Space Research Organisation"
+    ]
+}

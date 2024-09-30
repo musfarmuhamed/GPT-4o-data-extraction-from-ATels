@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASD91",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:20 - 14:05",
+            "Date": "2013-09-27"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/NEO/MASTER-NEO-130927-Tunka-anim.gif, http://www.minorplanetcenter.net/iau/lists/Closest.html",
+    "Event Type": "observation/serendipitous detection",
+    "Time": "13:20 - 14:05",
+    "Date": "2013-09-27",
+    "Telescope": "MASTER-Tunka robotic telescope",
+    "Instrument": "double 0.40-m f2.5 reflector + 4kx4k CCD",
+    "Observatory": "Global MASTER Robotic Net"
+}

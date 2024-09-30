@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1833-0832",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft gamma-ray repeater",
+            "Time": null,
+            "Date": "2010-03-19"
+        },
+        {
+            "Name": "XTE J1810-197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1E 1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1833-0827",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #10526",
+        "Camilo et al. 2006, Nature, 442, 892",
+        "2007, ApJ, 666, L93",
+        "ATEL #2493",
+        "ATEL #2494"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": "2010-03-19",
+    "Telescope": "64-m Parkes",
+    "Instrument": null,
+    "Observatory": "ATNF"
+}

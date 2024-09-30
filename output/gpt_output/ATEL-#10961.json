@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017hcz",
+            "RA": "22 20 06.42",
+            "Dec": "-28 23 56.5",
+            "redshift": "0.081",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20171004"
+        },
+        {
+            "Name": "SN2017hya",
+            "RA": "23 20 21.07",
+            "Dec": "-34 37 28.1",
+            "redshift": "0.052",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20171110"
+        },
+        {
+            "Name": "SN2017hyy",
+            "RA": "04 33 05.95",
+            "Dec": "-26 07 40.5",
+            "redshift": "0.033",
+            "Type": "SN II/IIb",
+            "Time": null,
+            "Date": "20170921"
+        },
+        {
+            "Name": "SN2017hrh",
+            "RA": "02 00 25.20",
+            "Dec": "+03 19 20.6",
+            "redshift": "0.082",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20170922"
+        },
+        {
+            "Name": "SN2017hyn",
+            "RA": "02 38 26.95",
+            "Dec": "-08 02 09.7",
+            "redshift": "0.053",
+            "Type": "SN Ia/91T-like",
+            "Time": null,
+            "Date": "20171008"
+        },
+        {
+            "Name": "SN2017hop",
+            "RA": "02 59 35.03",
+            "Dec": "-21 52 07.7",
+            "redshift": "0.067",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20170921"
+        },
+        {
+            "Name": "SN2017huu",
+            "RA": "03 16 14.14",
+            "Dec": "-18 19 01.5",
+            "redshift": "0.044",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20171030"
+        },
+        {
+            "Name": "SN2017hxz",
+            "RA": "03 34 11.01",
+            "Dec": "-13 56 08.9",
+            "redshift": "0.080",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "20171110"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017 Nov. 11",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

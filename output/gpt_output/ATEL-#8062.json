@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2015-08-28.55 UT",
+            "Date": "2015-08-28"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source",
+            "Time": "2015-09-15.82 UT",
+            "Date": "2015-09-15"
+        }
+    ],
+    "References": [
+        "ATel #7964",
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "ATel #7965",
+        "ATel #7967",
+        "ATel #7968",
+        "ATel #7969",
+        "ATel #7974",
+        "ATel #7976",
+        "ATel #7979",
+        "ATel #7980",
+        "ATel #7984",
+        "ATel #8029",
+        "ATel #8033",
+        "ATel #8038",
+        "Henze et al. 2015b"
+    ],
+    "Event Type": "end of the supersoft X-ray source phase",
+    "Time": "2015-09-15.82 UT",
+    "Date": "2015-09-15",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

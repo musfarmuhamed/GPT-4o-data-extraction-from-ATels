@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 676",
+            "RA": 330.4314,
+            "Dec": 50.81566,
+            "redshift": 1.899,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": "2012-10-13"
+        },
+        {
+            "Name": "TXS 2159+505",
+            "RA": 330.4314,
+            "Dec": 50.81566,
+            "redshift": 1.899,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": "2012-10-13"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Sowards-Emmerd et al. 2005, ApJ, 626, 95",
+        "ATel #4182",
+        "http://fermi.gsfc.nasa.gov/FTP/glast/data/lat/catalogs/asp/current/lightcurves/NRAO676_86400.png"
+    ],
+    "Event Type": "Gamma-ray flaring activity",
+    "Time": null,
+    "Date": "2012-10-13",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

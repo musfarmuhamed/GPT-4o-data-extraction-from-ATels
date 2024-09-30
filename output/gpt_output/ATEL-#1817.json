@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 0748-676",
+            "RA": "07:48:33.73",
+            "Dec": "-67:45:07.9",
+            "redshift": null,
+            "Type": "eclipsing low-mass X-ray binary",
+            "Time": "08:07-08:18 UT",
+            "Date": "2008 Oct 02"
+        },
+        {
+            "Name": "UY Vol",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": "08:07-08:18 UT",
+            "Date": "2008 Oct 02"
+        }
+    ],
+    "References": [
+        "Wolff et al. 2008, ATel #1736",
+        "Wade et al. 1985, PASP,97,1092",
+        "Hynes & Jones 2008, ATel #1816"
+    ],
+    "Event Type": null,
+    "Time": "08:07-08:18 UT",
+    "Date": "2008 Oct 02",
+    "Telescope": "6.5m Magellan Clay telescope",
+    "Instrument": "LDSS3 imaging spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

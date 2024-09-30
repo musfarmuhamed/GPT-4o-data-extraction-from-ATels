@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ik",
+            "RA": "11:02:04.75",
+            "Dec": "+03:30:02.66",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "UT 2015-05-11.24",
+            "Date": "2015-05-11"
+        },
+        {
+            "Name": "ASASSN-15il",
+            "RA": "15:57:08.15",
+            "Dec": "-12:40:23.93",
+            "redshift": "0.023316",
+            "Type": "supernova",
+            "Time": "UT 2015-05-11.310",
+            "Date": "2015-05-11"
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "\"Brutus\" telescope, RCOS 51-cm telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; New Mexico"
+}

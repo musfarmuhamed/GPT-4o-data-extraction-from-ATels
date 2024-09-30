@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14bef",
+            "RA": "14 27 41.77",
+            "Dec": "-08 36 45.5",
+            "redshift": 0.05,
+            "Type": "Ic-BL",
+            "Time": null,
+            "Date": "2014-04-22"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "night",
+    "Date": "2014-04-23",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTERJ033333.26",
+            "RA": "03:33:33.25",
+            "Dec": "-62:33:14.6",
+            "redshift": 0.024,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161020"
+        },
+        {
+            "Name": "OGLE16esg",
+            "RA": "00:47:53.20",
+            "Dec": "-65:50:58.4",
+            "redshift": 0.148,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161021"
+        },
+        {
+            "Name": "OGLE16etd",
+            "RA": "05:39:08.83",
+            "Dec": "-70:37:13.5",
+            "redshift": 0.034,
+            "Type": "II",
+            "Time": null,
+            "Date": "20160917"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Smartt et al. 2015, A&A, 579, 40",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Reference": "Wyrzykowski et al. 2014",
+            "URL": "arxiv:1409.1095"
+        },
+        {
+            "Reference": "Lipunov et al. 2004, AN, 325, 580",
+            "URL": "http://observ.pereplet.ru/"
+        },
+        {
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+            "URL": null
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "using EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Date": "2016 October 21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

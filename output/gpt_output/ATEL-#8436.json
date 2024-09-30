@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ug",
+            "RA": "06:45:01.682",
+            "Dec": "+63:14:59.89",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-12-18.34",
+            "Date": "2015-12-18"
+        },
+        {
+            "Name": "ASASSN-15uh",
+            "RA": "09:30:13.694",
+            "Dec": "+69:07:02.54",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-12-18.50",
+            "Date": "2015-12-18"
+        }
+    ],
+    "References": {
+        "NSF grant": "AST-1515927",
+        "Mt. Cuba Astronomical Foundation": true,
+        "CCAPP at OSU": true,
+        "Robert Martin Ayers Sciences Fund": true,
+        "ASAS-SN Homepage": true
+    },
+    "Event Type": "supernova discovery",
+    "Time": "2015-12-18",
+    "Date": "2015-12-18",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

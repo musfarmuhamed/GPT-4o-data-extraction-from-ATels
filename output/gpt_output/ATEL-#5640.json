@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Probable Nova in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Red LPV",
+            "Time": [
+                "2013 Nov. 13.770 UT",
+                "2013 Nov. 13.791 UT",
+                "2013 Dec. 1.025 UT",
+                "2013 Dec. 1.027 UT"
+            ],
+            "Date": [
+                "2013-11-13",
+                "2013-11-13",
+                "2013-12-01",
+                "2013-12-01"
+            ]
+        }
+    ],
+    "References": "ATel #5569",
+    "Event Type": "Discovery",
+    "Time": "2013 Nov. 7.780 UT",
+    "Date": "2013-11-07",
+    "Telescope": [
+        "0.65-m telescope",
+        "Danish 1.54-m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Ondrejov",
+        "ESO La Silla Observatory"
+    ]
+}

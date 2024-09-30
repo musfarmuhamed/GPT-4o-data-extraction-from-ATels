@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova in M 31",
+            "RA": "00h42m27.77s",
+            "Dec": "+41d13'42.4\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "20.13 UT",
+            "Date": "2009-02-20"
+        },
+        {
+            "Name": "Nova in M 31",
+            "RA": "00h42m27.77s",
+            "Dec": "+41d13'42.4\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "21.13 UT",
+            "Date": "2009-02-21"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Local Group Survey M 31 catalogue",
+            "Author": "Massey et al.",
+            "Journal": "AJ",
+            "Volume": 131,
+            "Page": 2478,
+            "Year": 2006
+        },
+        {
+            "Title": "ApJ",
+            "Author": "Hubble",
+            "Volume": 69,
+            "Page": 103,
+            "Year": 1929
+        },
+        {
+            "Title": "A&A",
+            "Author": "Pietsch et al.",
+            "Volume": 465,
+            "Page": 375,
+            "Year": 2007
+        }
+    ],
+    "Event Type": "Nova Discovery",
+    "Time": "20.13 UT",
+    "Date": "2009-02-20",
+    "Telescope": "60cm robotic telescope",
+    "Instrument": "CCD (E2V CCD, 2kx2k, 13.5m sq. pixels)",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

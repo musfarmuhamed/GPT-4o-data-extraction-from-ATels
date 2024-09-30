@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18fe",
+            "RA": "07:28:27.53",
+            "Dec": "-37:25:13.04",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018 Mar 22"
+        },
+        {
+            "Name": "AT2018ael",
+            "RA": "13:16:05.00",
+            "Dec": "-14:03:29.10",
+            "redshift": "0.138",
+            "Type": "Ia",
+            "Time": "+16 d",
+            "Date": "2018 Mar 22"
+        },
+        {
+            "Name": "AT2018agn",
+            "RA": "13:37:19.20",
+            "Dec": "-01:17:46.70",
+            "redshift": "0.058",
+            "Type": "II",
+            "Time": null,
+            "Date": "2018 Mar 22"
+        },
+        {
+            "Name": "PS18mt",
+            "RA": "13:33:44.40",
+            "Dec": "-04:39:20.00",
+            "redshift": "0.151",
+            "Type": "Ia",
+            "Time": "-3 d",
+            "Date": "2018 Mar 22"
+        },
+        {
+            "Name": "PS18mv",
+            "RA": "13:47:35.70",
+            "Dec": "-05:20:31.60",
+            "redshift": "0.113",
+            "Type": "Ia",
+            "Time": "-3 d",
+            "Date": "2018 Mar 22"
+        }
+    ],
+    "References": [
+        "ATel #11344",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Classifications",
+    "Time": null,
+    "Date": "2018 Mar 22",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0144,
+            "Type": "Seyfert 2",
+            "Time": null,
+            "Date": "2008 May 5"
+        },
+        {
+            "Name": "IGR J20187+4041",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0144,
+            "Type": "Seyfert",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AGL2021+4029",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bassani et al. 2006, ApJ, 636, L65",
+        "Pandel et al., ATel #1595",
+        "Bykov et al. 2006, ApJ, 649, L21",
+        "Halpern, ATel #1498",
+        "Bykov et al.",
+        "Dubner et al., ATel #1518",
+        "Ho & Peng 2001, ApJ, 555, 650",
+        "Trejo et al., ATel #1597",
+        "Chen et al., ATel #1585"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": null,
+    "Date": "2008 May 5",
+    "Telescope": "Keck II",
+    "Instrument": "DEIMOS",
+    "Observatory": null
+}

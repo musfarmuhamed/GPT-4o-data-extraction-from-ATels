@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J174716.1-281048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very Faint X-ray Transient",
+            "Time": "04:14:17 UT",
+            "Date": "2011-06-19"
+        },
+        {
+            "Name": "XMMU J174716.1-281048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very Faint X-ray Transient",
+            "Time": "07:57:21 UT",
+            "Date": "2011-06-23"
+        }
+    ],
+    "References": [
+        "ATel #147",
+        "ATel #970",
+        "ATel #972",
+        "ATel #1207",
+        "Del Santo et al., 2007, A&A 468, L17",
+        "ATel #1078",
+        "ATel #1174",
+        "ATel #1496",
+        "ATel #2050",
+        "ATel #2624",
+        "Degenaar et al. 2011, astro-ph/1103.4153"
+    ],
+    "Event Type": "Type I X-ray burster",
+    "Time": "2011-06-19 04:14:17 UT",
+    "Date": "2011-06-19",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": null
+}

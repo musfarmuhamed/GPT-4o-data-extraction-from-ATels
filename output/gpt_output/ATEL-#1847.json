@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS081007:030559+054715",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ONe nova",
+            "Time": null,
+            "Date": "2008-11-10"
+        },
+        {
+            "Name": "CSS081007:030559+054715",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ONe nova",
+            "Time": null,
+            "Date": "2008-11-14"
+        }
+    ],
+    "References": [
+        "ATEL #1825",
+        "ATEL #1835",
+        "Jester et al. (2005, AJ, 130, 873)",
+        "Schlegel et al. (1998 ApJ, 500, 525)",
+        "Warner's 'Cataclysmic Variable Stars' 1995",
+        "Schwarz et al. 2007, ApJ, 657, 453"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "2008-11-10",
+        "2008-11-14"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

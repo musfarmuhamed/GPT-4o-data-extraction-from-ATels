@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16562-3301/SWIFT J1656.3-3302",
+            "RA": "16:56:16.82",
+            "Dec": "-33:02:12.5",
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J165616-330211",
+            "RA": "16:56:16.77",
+            "Dec": "-33:02:12.8",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 16561677-3302127",
+            "RA": "16:56:16.77",
+            "Dec": "-33:02:12.8",
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Okajima et al. 2006, ATel #799",
+        "Krivonos et al. 2007, astro-ph/0701836",
+        "Tueller et al. 2006, ATEL #835"
+    ],
+    "Event Type": "Position determination",
+    "Time": null,
+    "Date": null,
+    "Telescope": "SWIFT/XRT, Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": null,
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

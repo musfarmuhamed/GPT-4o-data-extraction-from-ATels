@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J113003.04+280647.6",
+            "RA": "11h 30m 03.04s",
+            "Dec": "+28d 06m 47.6s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare (UG)",
+            "Time": "00:48:11",
+            "Date": "2015-03-25"
+        },
+        {
+            "Name": "J113003.05+280647.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "00:48:11",
+    "Date": "2015-03-25",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

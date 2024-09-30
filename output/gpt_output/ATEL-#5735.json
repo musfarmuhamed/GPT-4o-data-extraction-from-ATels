@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0735+17",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.424,
+            "Type": "quasar",
+            "Time": "24:00",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "CGRaBSJ0738+1742",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.424,
+            "Type": "quasar",
+            "Time": "24:00",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "2FGL0738.0+1742",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.424,
+            "Type": "gamma-ray source",
+            "Time": "24:00",
+            "Date": "2014-01-07"
+        }
+    ],
+    "References": "2456664.848838, 2456306, 2454591",
+    "Event Type": "NIR brightening",
+    "Time": "24:00",
+    "Date": "2014-01-07",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

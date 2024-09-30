@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16493-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant star B0.5 Ib",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16492695-4349090",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kuiper et al. 2005, ATEL #654",
+        "Hanson et al. 1996",
+        "Hill et al. 2007"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2007-04-05",
+    "Telescope": "UT1",
+    "Instrument": "ISAAC spectrograph",
+    "Observatory": "Paranal"
+}

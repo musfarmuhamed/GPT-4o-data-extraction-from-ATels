@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17abb",
+            "RA": "09 44 32.57",
+            "Dec": "-08 10 47.0",
+            "redshift": 0.096,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "SN2017ag",
+            "RA": "09 44 32.57",
+            "Dec": "-08 10 47.0",
+            "redshift": 0.096,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "Gaia17aag",
+            "RA": "06 44 50.32",
+            "Dec": "-43 54 21.4",
+            "redshift": 0.067,
+            "Type": "Ia 91T-like",
+            "Time": null,
+            "Date": "2017-01-01"
+        },
+        {
+            "Name": "SN2017X",
+            "RA": "06 44 50.32",
+            "Dec": "-43 54 21.4",
+            "redshift": 0.067,
+            "Type": "Ia 91T-like",
+            "Time": null,
+            "Date": "2017-01-01"
+        },
+        {
+            "Name": "Gaia16cgd",
+            "RA": "06 39 36.67",
+            "Dec": "-65 44 16.1",
+            "redshift": 0.034,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-12-28"
+        },
+        {
+            "Name": "SN2016jfy",
+            "RA": "06 39 36.67",
+            "Dec": "-65 44 16.1",
+            "redshift": 0.034,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-12-28"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al. 2011, PASP, 123, 58; Tonry et al. (ATel #8680); Harutyunyan et al., 2008, A&A, 488, 383; Blondin & Tonry, 2007, ApJ, 666, 1024.",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017-01-04",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

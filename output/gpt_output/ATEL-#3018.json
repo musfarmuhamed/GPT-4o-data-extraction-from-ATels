@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": "280.26",
+            "Dec": "-5.51",
+            "redshift": "Null",
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "Null",
+            "Date": "2010 November 7"
+        },
+        {
+            "Name": "1E 1841-045",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Anomalous X-ray Pulsar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "De Pasquale et al. ATel #2661, Romano et al. ATel #2662",
+    "Event Type": "Enhanced X-ray Emission",
+    "Time": "15:03 (UT)",
+    "Date": "2010 November 7",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "Transient Alert System",
+    "Observatory": "Null"
+}

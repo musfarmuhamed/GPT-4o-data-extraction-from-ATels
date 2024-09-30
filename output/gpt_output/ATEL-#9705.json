@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016hnk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "Type-Ia supernova",
+            "Time": "30.3",
+            "Date": "2016 Oct 30"
+        },
+        {
+            "Name": "SN 2016hnk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "Type-Ia supernova",
+            "Time": "31.0",
+            "Date": "2016 Oct 31"
+        }
+    ],
+    "References": [
+        "Cannizzaro et al. (2016, ATel #9703)",
+        "Dimitriadis et al. (2016, ATel #9704)",
+        "Blondin & Tonry (2007, ApJ, 666, 1024)",
+        "Foley et al. (2010, ApJ, 708, 1748)",
+        "Maguire et al. (2011, MNRAS, 418, 747)",
+        "Sullivan et al. (2011, ApJ, 732, 118)"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": [
+        "2016 Oct 30",
+        "2016 Oct 31"
+    ],
+    "Telescope": [
+        "SOAR",
+        "SALT"
+    ],
+    "Instrument": [
+        "Goodman spectrograph",
+        "RSS"
+    ],
+    "Observatory": [
+        "Southern Astrophysical Research",
+        "Southern African Large Telescope"
+    ]
+}

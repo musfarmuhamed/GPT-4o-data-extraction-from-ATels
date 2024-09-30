@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": "Time of observations: ~1 GHz",
+            "Date": "2013 April 26"
+        }
+    ],
+    "References": [
+        "ATeL #5013",
+        "ATeL #5014",
+        "ATeL #5018",
+        "ATeL #5024",
+        "ATeL #5006",
+        "ATeL #5020",
+        "https://science.nrao.edu/science/service-observing/service-observing",
+        "http://astro.berkeley.edu/~gbower/fluxdifference_130426-130323.png"
+    ],
+    "Event Type": "Observations of changes in low frequency emission",
+    "Time": "Various frequencies: 1459.7 GHz, 2979.4 GHz, 5436.0 GHz, 8936.0 GHz",
+    "Date": "2013 April 26",
+    "Telescope": "Jansky Very Large Array (JVLA)",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

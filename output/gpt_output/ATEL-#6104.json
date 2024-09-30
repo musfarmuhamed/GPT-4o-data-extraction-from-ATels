@@ -1,0 +1,122 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J120525.84+621743.3",
+            "RA": "12h 05m 25.84s",
+            "Dec": "+62d 17m 43.3s",
+            "redshift": null,
+            "Type": "flaring red dwarf",
+            "Time": "2014-04-26.59837 UT",
+            "Date": "2014-04-26"
+        },
+        {
+            "Name": "USNO-B1.0 1522-0240463",
+            "RA": "12 05 25.939",
+            "Dec": "+62 17 43.67",
+            "redshift": null,
+            "Type": "M7 spectral class",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J120525.86+621743.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J12052592+6217427",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J120525.87+621743.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J191429.21+441950.5",
+            "RA": "19h 14m 29.21s",
+            "Dec": "+44d 19m 50.5s",
+            "redshift": null,
+            "Type": "flaring red dwarf in Kepler field",
+            "Time": "2014-04-27.76897 UT",
+            "Date": "2014-04-27"
+        },
+        {
+            "Name": "USNO-B1.0 1343-0344929",
+            "RA": "19 14 29.153",
+            "Dec": "+44 19 51.31",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J19142915+4419509",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J191429.15+441950.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KIC 8357282",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J140957.49+290922.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J140957.57+290921.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/120525.84621743.3.png",
+        "http://master.sai.msu.ru/static/OT/191429.21441950.5.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka auto-detection system, MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

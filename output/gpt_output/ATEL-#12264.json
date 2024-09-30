@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1810-222",
+            "RA": 272.634,
+            "Dec": -22.309,
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": "22:15",
+            "Date": "November 30"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray spectra",
+            "Time": null,
+            "Date": "2014"
+        },
+        {
+            "Name": "MAXI J1807+132",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray spectra",
+            "Time": null,
+            "Date": "2017"
+        }
+    ],
+    "References": "Negoro et al. ATel #12254, Sakurai et al. 2014, PASJ, 66, 10, Shidatsu et al. 2017, ApJ, 850, 115, Enoto et al. 2017, ApJS, 231, 8",
+    "Event Type": "newly discovered soft X-ray transient",
+    "Time": "22:15",
+    "Date": "November 30",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

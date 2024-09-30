@@ -1,0 +1,115 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017gfx",
+            "RA": "14 25 17.50",
+            "Dec": "-26 14 54.0",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170816"
+        },
+        {
+            "Name": "AT2017ggj",
+            "RA": "18 48 15.19",
+            "Dec": "+17 17 10.4",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170818"
+        },
+        {
+            "Name": "AT2017gfv",
+            "RA": "19 52 47.35",
+            "Dec": "-06 11 33.2",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170815"
+        },
+        {
+            "Name": "AT2017gfy",
+            "RA": "00 31 35.16",
+            "Dec": "-26 11 16.6",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20170816"
+        },
+        {
+            "Name": "SN2017ggi",
+            "RA": "00 58 52.76",
+            "Dec": "-35 51 49.8",
+            "redshift": "0.039",
+            "Type": "Ib",
+            "Time": "post-max",
+            "Date": "20170710"
+        },
+        {
+            "Name": "AT2017ggh",
+            "RA": "01 58 09.63",
+            "Dec": "-32 58 33.9",
+            "redshift": "0.355",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "20170809"
+        },
+        {
+            "Name": "SN2017ggg",
+            "RA": "01 29 35.90",
+            "Dec": "-19 07 05.6",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "+7",
+            "Date": "20170810"
+        }
+    ],
+    "References": [
+        {
+            "author": "Smartt et al.",
+            "year": 2015,
+            "journal": "A&A",
+            "volume": 579,
+            "page": 40,
+            "url": "http://www.pessto.org"
+        },
+        {
+            "author": "Chambers et al.",
+            "year": 2016,
+            "journal": "arXiv",
+            "identifier": "1612.05560",
+            "url": "http://pswww.ifa.hawaii.edu"
+        },
+        {
+            "author": "Tonry et al.",
+            "year": 2011,
+            "journal": "PASP",
+            "volume": 123,
+            "page": 58
+        },
+        {
+            "author": "Tonry et al.",
+            "identifier": "ATel #8680"
+        },
+        {
+            "author": "Blondin & Tonry",
+            "year": 2007,
+            "journal": "ApJ",
+            "volume": 666,
+            "page": 1024
+        },
+        {
+            "author": "Harutyunyan et al.",
+            "year": 2008,
+            "journal": "A&A",
+            "volume": 488,
+            "page": 383
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017-08-21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

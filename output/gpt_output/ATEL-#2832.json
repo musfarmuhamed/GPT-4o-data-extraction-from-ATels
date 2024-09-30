@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "various times",
+            "Date": [
+                "2010-08-24",
+                "2010-08-28",
+                "2010-09-01",
+                "2010-09-05"
+            ]
+        }
+    ],
+    "References": "ATel #2785",
+    "Event Type": "current outburst",
+    "Time": "approximately 40 days",
+    "Date": "starting around 2010-07-25",
+    "Telescope": [
+        "RXTE/PCA",
+        "Swift/XRT",
+        "RATAN-600"
+    ],
+    "Instrument": "Swift/XRT",
+    "Observatory": null
+}

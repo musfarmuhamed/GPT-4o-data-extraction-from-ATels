@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15gr",
+            "RA": "06 45 20.91",
+            "Dec": "-34 53 33.11",
+            "redshift": "0.024",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150410"
+        },
+        {
+            "Name": "LSQ15acf",
+            "RA": "10 22 22.68",
+            "Dec": "-12 42 55.08",
+            "redshift": "0.073",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150331"
+        },
+        {
+            "Name": "LSQ15ach",
+            "RA": "15 26 21.87",
+            "Dec": "-15 11 29.10",
+            "redshift": "0.108",
+            "Type": "Ia-91T",
+            "Time": "Null",
+            "Date": "20150316"
+        },
+        {
+            "Name": "LSQ15adm",
+            "RA": "20 14 21.82",
+            "Dec": "-58 08 20.20",
+            "redshift": "0.073",
+            "Type": "Ia-csm",
+            "Time": "Null",
+            "Date": "20150405"
+        },
+        {
+            "Name": "PS15zf",
+            "RA": "16 57 00.72",
+            "Dec": "+18 29 03.50",
+            "redshift": "0.052",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20150404"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "http://www.pessto.org",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "http://www.pessto.org"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2015 April 09",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

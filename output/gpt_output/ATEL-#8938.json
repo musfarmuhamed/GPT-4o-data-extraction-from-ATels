@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 150418",
+            "RA": "07:16:34.5550(4)",
+            "Dec": "-19:00:39.466(18)",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "Unspecified",
+            "Date": "March 22, 2016"
+        },
+        {
+            "Name": "FRB 150418",
+            "RA": "07:16:34.5550(1)",
+            "Dec": "-19:00:39.480(3)",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "Unspecified",
+            "Date": "March 8, 2016"
+        },
+        {
+            "Name": "WISE J071634.59-190039.2",
+            "RA": "07:16:34.556(7)",
+            "Dec": "-19:00:39.53(8)",
+            "redshift": "0.492",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "April 19, 2015"
+        }
+    ],
+    "References": [
+        "Keane et al. (2016, Nature, 530, 453)",
+        "Vedantham et al. (2016, arXiv:1603.04421)",
+        "ATel #8865"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "e-MERLIN",
+        "VLBA"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "NRAO"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15dbp",
+            "RA": "06 44 39.91",
+            "Dec": "-19 56 42.2",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2015 12 01"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": null,
+    "Date": "2015 12 05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

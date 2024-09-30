@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12js",
+            "RA": "00:41:41.00",
+            "Dec": "+41:19:43.8",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2012-01-05T03:21:00Z",
+            "Date": "2012-01-05"
+        },
+        {
+            "Name": "PTF12js",
+            "RA": "00:41:41.00",
+            "Dec": "+41:19:43.8",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2012-01-06T03:21:00Z",
+            "Date": "2012-01-06"
+        }
+    ],
+    "References": "Law et al. 2009",
+    "Event Type": "nova discovery",
+    "Time": null,
+    "Date": "2012-01-05",
+    "Telescope": "Palomar Transient Factory",
+    "Instrument": null,
+    "Observatory": null
+}

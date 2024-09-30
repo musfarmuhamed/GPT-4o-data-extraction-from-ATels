@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 0954+658",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "FSRQ",
+            "Time": "JD2457184.6502",
+            "Date": "June 11, 2015"
+        },
+        {
+            "Name": "CGRaBSJ0958+6533",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "gamma-ray source",
+            "Time": "JD2457184.6502",
+            "Date": "June 11, 2015"
+        },
+        {
+            "Name": "2FGL0958.6+6533",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "gamma-ray source",
+            "Time": "JD2457184.6502",
+            "Date": "June 11, 2015"
+        }
+    ],
+    "References": [
+        "#3220",
+        "#6709",
+        "#6996",
+        "#7001",
+        "#7007",
+        "#7046"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD2457184.6502",
+    "Date": "June 11, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17gqa/AT2017ens",
+            "RA": "12:04:09.36",
+            "Dec": "-01:55:52.2",
+            "redshift": null,
+            "Type": "superluminous supernova candidate",
+            "Time": "23:54 UT",
+            "Date": "2017-07-16"
+        }
+    ],
+    "References": [
+        "Tonry et al. 2017, TNSTR, 636, 1",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Chen et al. ATel #10510",
+        "Chen et al. ATel #10478",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Observation",
+    "Time": "23:54 UT",
+    "Date": "2017-07-16",
+    "Telescope": "2.2m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory"
+}

@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J203937.54+213904.7",
+            "RA": "20h 39m 37.54s",
+            "Dec": "+21d 39m 04.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-08-28.50743 UT",
+            "Date": "2013-08-28"
+        },
+        {
+            "Name": "USNO-B1.0 1116-0521901",
+            "RA": "20 39 37.587",
+            "Dec": "+21 39 06.34",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 20393757+2139060",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared counterpart",
+            "Time": "likely detected in outburst on 2000-05-01",
+            "Date": "2000-05-01"
+        },
+        {
+            "Name": "MASTER OT J235503.22+420010.2",
+            "RA": "23h 55m 03.22s",
+            "Dec": "+42d 00m 10.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (likely dwarf nova of SU UMa (UGSU) type in superoutburst)",
+            "Time": "2013-08-30.86859 UT",
+            "Date": "2013-08-30"
+        },
+        {
+            "Name": "GSC 2.3.2 (within 1\")",
+            "RA": "23 55 03.273",
+            "Dec": "+42 00 10.38",
+            "redshift": null,
+            "Type": "faint blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1320-0570515",
+            "RA": "23 55 03.146",
+            "Dec": "+42 00 09.92",
+            "redshift": null,
+            "Type": "faint blue star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J203937+213904-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/203937.54213904.7.jpg",
+        "http://master.sai.msu.ru/static/OT/J235503+420010-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/235503.22420010.2.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Amur",
+        "MASTER-Kislovodsk"
+    ],
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

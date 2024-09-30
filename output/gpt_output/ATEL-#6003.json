@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J124655.20+410205.3",
+            "RA": "12h 46m 55.20s",
+            "Dec": "+41d 02m 05.3s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-03-22.80884 UT",
+            "Date": "2014-03-22.80884"
+        },
+        {
+            "Name": "MASTER OT J184426.78+365140.7",
+            "RA": "18h 44m 26.78s",
+            "Dec": "+36d 51m 40.7s",
+            "redshift": null,
+            "Type": "new CV, most likely a dwarf nova of SU UMa (UGSU) type in superoutburst",
+            "Time": "2014-03-22.83331 UT",
+            "Date": "2014-03-22.83331"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J124655+410205-MASTER-Tunka.jpg",
+        "http://master.sai.msu.ru/static/OT/124655.20410205.3.png",
+        "http://master.sai.msu.ru/static/OT/J184426+365140-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/J184426+365140-DSS-anim.gif",
+        "http://master.sai.msu.ru/static/OT/184426.78365140.7.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

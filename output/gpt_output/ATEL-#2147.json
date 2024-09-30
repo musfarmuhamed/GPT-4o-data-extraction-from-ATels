@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m58.06s",
+            "Dec": "41d17'29.8\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "01:26:24",
+            "Date": "2009-08-04"
+        },
+        {
+            "Name": "nova M31N 2008-07a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "01:26:24",
+            "Date": "2009-08-04"
+        },
+        {
+            "Name": "nova candidates M31N 2009-02b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "01:26:24",
+            "Date": "2009-08-04"
+        },
+        {
+            "Name": "nova candidates M31N 2009-05a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "01:26:24",
+            "Date": "2009-08-04"
+        },
+        {
+            "Name": "nova candidates M31N 2009-05b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "01:26:24",
+            "Date": "2009-08-04"
+        }
+    ],
+    "References": [
+        "ATel #1602",
+        "ATels #1609",
+        "#1773",
+        "#1935"
+    ],
+    "Event Type": "discovery of nova candidates",
+    "Time": "01:26:24",
+    "Date": "2009-08-04",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Andor DZ436-BV CCD Camera",
+    "Observatory": "Skinakas Observatory, Crete, Greece"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J172543.25-732947.9",
+            "RA": "17h 25m 43.25s",
+            "Dec": "-73d 29m 47.9s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "23:58:56",
+            "Date": "2015-04-14"
+        },
+        {
+            "Name": "MASTER OT J223910.79+341826.0",
+            "RA": "22h 39m 10.79s",
+            "Dec": "+34d 18m 26.0s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "01:09:56",
+            "Date": "2015-04-17"
+        },
+        {
+            "Name": "MASTER OT J085416.79+183526.1",
+            "RA": "08h 54m 16.79s",
+            "Dec": "+18d 35m 26.1s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "18:29:54",
+            "Date": "2015-04-16"
+        },
+        {
+            "Name": "MASTER OT J165348.55-223445.0",
+            "RA": "16h 53m 48.55s",
+            "Dec": "-22d 34m 45.0s",
+            "redshift": null,
+            "Type": "Flare or variability of probable red star",
+            "Time": "21:36:34",
+            "Date": "2015-04-16"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "SDSS J223910.15+341828.2",
+        "GALEXMSC J223910.05+341828.9 UvS",
+        "CRTS",
+        "VIZIER database",
+        "USNO-B1"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO, MASTER-Kislovodsk"
+}

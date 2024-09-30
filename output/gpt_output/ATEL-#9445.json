@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transients",
+            "Time": null,
+            "Date": "2016-08-30"
+        },
+        {
+            "Name": "AT 2016cvk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transients",
+            "Time": null,
+            "Date": "2016-06-29"
+        },
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mauerhan et al. 2013, MNRAS, 430, 1801",
+    "Event Type": "Outbursts/Explosions",
+    "Time": "2016-06-16T23:00:00Z",
+    "Date": "2016-06-18",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "1.9",
+            "Date": "Dec 2009"
+        },
+        {
+            "Name": null,
+            "RA": "22:53:58.18",
+            "Dec": "+16:09:06.9",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "2001"
+        }
+    ],
+    "References": [
+        "ATel #2322",
+        "#2325",
+        "#2326",
+        "#2328",
+        "#2329",
+        "#2330",
+        "#2332",
+        "#2200",
+        "#2201"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2009",
+    "Telescope": "Kanata 1.5-m",
+    "Instrument": null,
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

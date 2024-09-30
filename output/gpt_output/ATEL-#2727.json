@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h43m20.11s",
+            "Dec": "+41d21'23.7\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2010-07-08.02 UT",
+                "2010-07-08.07 UT",
+                "2010-07-07.07 UT"
+            ],
+            "Date": [
+                "2010-07-08",
+                "2010-07-07"
+            ]
+        }
+    ],
+    "References": [
+        "Massey et al. 2006, AJ 131, 2478",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "nova candidate observation",
+    "Time": [
+        "2010-07-08.02 UT",
+        "2010-07-08.07 UT",
+        "2010-07-07.07 UT",
+        "2010-06-26.08 UT",
+        "2010-06-24.02 UT"
+    ],
+    "Date": [
+        "2010-07-08",
+        "2010-07-07",
+        "2010-06-26",
+        "2010-06-24"
+    ],
+    "Telescope": "PIRATE Schmidt-Cassegrain telescope",
+    "Instrument": "SBIG STL-1001E CCD camera",
+    "Observatory": "Costitx, Mallorca, Spain"
+}

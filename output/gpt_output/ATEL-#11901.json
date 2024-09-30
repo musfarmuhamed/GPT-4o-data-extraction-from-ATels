@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 180725A",
+            "RA": "06:13:54.7",
+            "Dec": "+67:04:00.1",
+            "redshift": null,
+            "Type": "FRB",
+            "Time": "17:59:43.115",
+            "Date": "2018 July 25"
+        },
+        {
+            "Name": "FRB 180725A",
+            "RA": "06:12:53.1",
+            "Dec": "+67:03:59.1",
+            "redshift": null,
+            "Type": "FRB",
+            "Time": "17:59:43.115",
+            "Date": "2018 July 25"
+        }
+    ],
+    "References": "CHIME/FRB Collaboration, ApJ, in press, arXiv:1803.11235",
+    "Event Type": "FRB",
+    "Time": "17:59:43.115",
+    "Date": "2018 July 25",
+    "Telescope": "CHIME",
+    "Instrument": "F-X correlator",
+    "Observatory": "Dominion Radio Astrophysical Observatory"
+}

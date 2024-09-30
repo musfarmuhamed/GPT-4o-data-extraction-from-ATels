@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2013-10d",
+            "RA": "00:44:21",
+            "Dec": "+40:55:22",
+            "redshift": null,
+            "Type": "He/N",
+            "Time": "1.72 UT",
+            "Date": "2013-11-01"
+        },
+        {
+            "Name": "2013-10g",
+            "RA": "00:43:24",
+            "Dec": "+41:21:21",
+            "redshift": null,
+            "Type": "Fe II",
+            "Time": "1.69 UT",
+            "Date": "2013-11-01"
+        }
+    ],
+    "References": "ATel #5475, #5502, #5522",
+    "Event Type": "Optical Spectroscopy and Photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian BTA",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

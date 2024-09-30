@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +21.35 (PKS 1222+21)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "22:11:51.89",
+            "Date": "June 19"
+        },
+        {
+            "Name": "4C +21.35 (PKS 1222+21)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "22:51:41.54",
+            "Date": "June 19"
+        },
+        {
+            "Name": "4C +21.35 (PKS 1222+21)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21:57:01.09",
+            "Date": "June 20"
+        },
+        {
+            "Name": "4C +21.35",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "March 23, 2002"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Drake, A.J., et al.",
+            "Year": 2009,
+            "Journal": "ApJ",
+            "Volume": 696,
+            "Page": 870
+        },
+        {
+            "Author": "Magalhaes, A.M., et al.",
+            "Year": 2006,
+            "Journal": "ASP Conf. Ser.",
+            "Volume": 355,
+            "Editors": "M. Kraus & A.S. Miroshnichenko",
+            "Page": 147
+        },
+        {
+            "Author": "Sluse, D. et al.",
+            "Year": 2005,
+            "Journal": "A&A",
+            "Volume": 433,
+            "Page": 757
+        }
+    ],
+    "Event Type": "optical polarimetric observations and gamma-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": "B&C 60 cm telescope, 3.6 m La Silla telescope",
+    "Instrument": "imaging polarimeter (IAGPOL), EFOSC2",
+    "Observatory": "Pico dos Dias Observatory (Brazopolis, MG, Brazil, MCT/LNA), La Silla"
+}

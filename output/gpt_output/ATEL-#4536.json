@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE J145427.41-374733.0",
+            "RA": "14h54m27.41s",
+            "Dec": "-37d47m33.1s",
+            "redshift": null,
+            "Type": "gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1451-375",
+            "RA": "14h54m27.4s",
+            "Dec": "-37d47m33s",
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZQ J1454-3747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #4534",
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. (2012 ApJ, 752, 61)",
+        "Massaro et al. (2012 ApJ, 750, 138)",
+        "Healey S.E. et al. 2007, ApJS 171, 61",
+        "ROMA-BZCAT (Massaro et al. 2009 A&A, 495, 691)",
+        "Massaro, F. et al. (2011 ApJ, 740L, 48)",
+        "D'Abrusco, R. et al. (2012 ApJ, 748, 68)"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer",
+    "Instrument": null,
+    "Observatory": null
+}

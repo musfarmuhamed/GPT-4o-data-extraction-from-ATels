@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ11jw",
+            "RA": "02:04:47.40",
+            "Dec": "00:50:06.0",
+            "redshift": "0.020",
+            "Type": "Type Ic supernova",
+            "Time": "18.6",
+            "Date": "Dec. 18.6 UTC"
+        },
+        {
+            "Name": "LSQ11pn",
+            "RA": "05:16:41.54",
+            "Dec": "06:29:29.4",
+            "redshift": "0.03268",
+            "Type": "Type Ia supernova",
+            "Time": "27.2",
+            "Date": "Dec. 27.2 UTC"
+        }
+    ],
+    "References": [
+        "Rabinowitz et al. 2011, ApJ, 732, 512",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Ostriker et al. 1988, AJ, 96, 1775"
+    ],
+    "Event Type": "Discovery of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "European Southern Observatory 1.0-m Schmidt Telescope",
+    "Instrument": "160-megapixel QUEST camera, SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "La Silla, Chile"
+}

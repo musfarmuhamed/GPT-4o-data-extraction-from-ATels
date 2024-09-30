@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J180312.78+114154.7",
+            "RA": "18h 03m 12.78s",
+            "Dec": "+11d 41m 54.7s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "2013-03-01.86645 UT",
+            "Date": "2013-03-01"
+        },
+        {
+            "Name": "MASTER OT J063332.19+265600.2",
+            "RA": "06h 33m 32.19s",
+            "Dec": "+26d 56m 00.2s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "2013-03-02.66922 UT",
+            "Date": "2013-03-02"
+        },
+        {
+            "Name": "MASTER OT J081031.62+111450.2",
+            "RA": "08h 10m 31.62s",
+            "Dec": "+11d 14m 50.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-03-03.49920 UT",
+            "Date": "2013-03-03"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/180312.78114154.7.png, http://master.sai.msu.ru/static/OT/063332.19265600.2.png, http://master.sai.msu.ru/static/OT/081031.62111450.2.png",
+    "Event Type": "New CV Discoveries",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

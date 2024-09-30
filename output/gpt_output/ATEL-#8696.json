@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J1740-0811",
+            "RA": "17:40:01.6",
+            "Dec": "-08:11:14.8",
+            "redshift": null,
+            "Type": "ESE",
+            "Time": null,
+            "Date": "MJD 57300"
+        },
+        {
+            "Name": "87GB 192724.2+090329",
+            "RA": "19:29:47.9",
+            "Dec": "+09:10:03.6",
+            "redshift": null,
+            "Type": "ESE",
+            "Time": null,
+            "Date": "MJD 57360"
+        }
+    ],
+    "References": [
+        "http://adsabs.harvard.edu/abs/1987Natur.326..675F",
+        "http://adsabs.harvard.edu/abs/2016Sci...351..354B",
+        "http://www.atnf.csiro.au/content/keith-bannister/atese/atel1"
+    ],
+    "Event Type": "Extreme Scattering Event",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATCA and VLBA",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": [
+                {
+                    "Date": "2013-03-02",
+                    "Start time (UTC)": "22:18:38",
+                    "Stop time (UTC)": "22:40:14"
+                },
+                {
+                    "Date": "2013-03-02",
+                    "Start time (UTC)": "22:45:59",
+                    "Stop time (UTC)": "23:04:53"
+                },
+                {
+                    "Date": "2013-03-03",
+                    "Start time (UTC)": "21:26:10",
+                    "Stop time (UTC)": "21:48:56"
+                },
+                {
+                    "Date": "2013-03-03",
+                    "Start time (UTC)": "21:53:07",
+                    "Stop time (UTC)": "22:17:18"
+                },
+                {
+                    "Date": "2013-03-03",
+                    "Start time (UTC)": "22:22:29",
+                    "Stop time (UTC)": "22:43:48"
+                },
+                {
+                    "Date": "2013-03-04",
+                    "Start time (UTC)": "18:31:43",
+                    "Stop time (UTC)": "19:31:46"
+                },
+                {
+                    "Date": "2013-03-04",
+                    "Start time (UTC)": "19:43:01",
+                    "Stop time (UTC)": "22:29:39"
+                }
+            ],
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4855",
+        "ATel #4856",
+        "ATel #4869",
+        "Germana` et al. 2013, A&A, 548, id. A47"
+    ],
+    "Event Type": "flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "182cm Copernico telescope",
+    "Instrument": "Aqueye",
+    "Observatory": "Asiago Cima-Ekar"
+}

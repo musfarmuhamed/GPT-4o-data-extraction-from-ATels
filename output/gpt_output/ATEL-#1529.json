@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J005527.6-721059",
+            "RA": "00:55:27.6",
+            "Dec": "-72:10:59",
+            "redshift": null,
+            "Type": "Probable background AGN",
+            "Time": null,
+            "Date": "March 2002"
+        },
+        {
+            "Name": "CXOU J005527.9-721058",
+            "RA": "00:55:27.9",
+            "Dec": "-72:10:58",
+            "redshift": null,
+            "Type": "Probably misidentified as Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": "March 2002"
+        }
+    ],
+    "References": [
+        "Edge et al. 2004, ATEL #217",
+        "Edge et al. 2004, MNRAS 353,1286",
+        "Zaritsky et al. 2002, AJ 123, 855"
+    ],
+    "Event Type": "Detection of celestial objects",
+    "Time": null,
+    "Date": "March 2002",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

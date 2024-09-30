@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS18qqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smartt et al., ATel #11727",
+        "Fremling et al. ATel #11738, 2018-06-13 00:00 UTC",
+        "ATel #11727, 2018-06-16 10:35 UTC"
+    ],
+    "Event Type": "neutrino detection",
+    "Time": [
+        "2018-06-14 19:51:09 UTC",
+        "2018-06-15 10:25:50 UTC"
+    ],
+    "Date": [
+        "2018-06-14",
+        "2018-06-15"
+    ],
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "IceCube Neutrino Observatory"
+}

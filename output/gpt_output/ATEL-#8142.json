@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sgr 2015#2 (V5668 Sgr)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HI lines and He I 1.0830 line",
+            "Time": null,
+            "Date": "2015-03-15T15:38"
+        },
+        {
+            "Name": "Nova Oph 2015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II class around maximum, HeI line emission during decline",
+            "Time": null,
+            "Date": "2015-03-29T18:23"
+        },
+        {
+            "Name": "PNV J19215012+1509248 in Aquila (ASASSN-15qd)",
+            "RA": "19h21m50.12s",
+            "Dec": "+15d09m24.8s",
+            "redshift": null,
+            "Type": "Fe II class of novae",
+            "Time": null,
+            "Date": "2015-10-08T00:00"
+        }
+    ],
+    "References": [
+        "ATel #8126",
+        "ATel #8127",
+        "Banerjee and Ashok (BASI, 2012, 40, 243)",
+        "ATel #7748",
+        "ATel #7862",
+        "ATel #7339",
+        "ATel #7367",
+        "ATel #7446"
+    ],
+    "Event Type": "near-infrared observations",
+    "Time": null,
+    "Date": "2015-10-07T00:00 to 2015-10-08T00:00",
+    "Telescope": "1.2m Mount Abu telescope",
+    "Instrument": "NICS imager-spectrograph system",
+    "Observatory": "Mount Abu Observatory"
+}

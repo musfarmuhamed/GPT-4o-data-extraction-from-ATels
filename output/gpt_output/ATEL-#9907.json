@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "2016-12-27.73 UT",
+            "Date": "2016-12-27"
+        }
+    ],
+    "References": [
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "Henze et al. 2015b",
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Darnley et al. 2016",
+        "ATel #9848",
+        "ATels #9852",
+        "ATels #9853",
+        "ATels #9857",
+        "ATels #9861",
+        "ATels #9864",
+        "ATels #9865",
+        "ATel #9874",
+        "ATel #9881",
+        "ATel #9883",
+        "ATel #9885",
+        "ATel #9891",
+        "ATel #9906",
+        "ATel #6604",
+        "ATel #8062"
+    ],
+    "Event Type": "End of SSS phase",
+    "Time": "2016-12-28.19",
+    "Date": "2016-12-28",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

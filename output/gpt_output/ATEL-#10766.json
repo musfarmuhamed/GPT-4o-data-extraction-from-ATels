@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017gtw",
+            "RA": "22 34 11.61",
+            "Dec": "-28 47 14.4",
+            "redshift": "0.064",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20170920"
+        },
+        {
+            "Name": "SN2017gut",
+            "RA": "23 31 56.56",
+            "Dec": "+26 19 32.9",
+            "redshift": "0.031",
+            "Type": "SN?",
+            "Time": null,
+            "Date": "20170920"
+        },
+        {
+            "Name": "SN2017gto",
+            "RA": "00 12 03.86",
+            "Dec": "+01 06 11.8",
+            "redshift": "0.086",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20170920"
+        },
+        {
+            "Name": "SN2017gts",
+            "RA": "02 18 36.13",
+            "Dec": "+05 15 15.4",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20170920"
+        },
+        {
+            "Name": "AT2017guq",
+            "RA": "21 48 16.09",
+            "Dec": "-21 10 59.7",
+            "redshift": null,
+            "Type": "-",
+            "Time": null,
+            "Date": "20170920"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20170920",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

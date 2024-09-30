@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bm",
+            "RA": "15:05:51.58",
+            "Dec": "-05:37:37.05",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2015-01-22.36",
+            "Date": "2015-01-22"
+        },
+        {
+            "Name": "GALEXASC J150551.56-053737.2",
+            "RA": "15:05:51.56",
+            "Dec": "-05:37:37.2",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "J. M. Fernandez",
+            "Time": "2015-01-23.27",
+            "Date": "2015-01-23",
+            "Telescope": "20-cm Celestron C8",
+            "Instrument": null,
+            "Observatory": "Observatory Inmaculada del Molina, Osuna, Spain"
+        },
+        {
+            "Name": "R. A. Koff",
+            "Time": "2015-01-23.48",
+            "Date": "2015-01-23",
+            "Telescope": "Meade LX-200 25-cm",
+            "Instrument": null,
+            "Observatory": "Antelope Hills Observatory"
+        },
+        {
+            "Name": "S. Kiyota",
+            "Time": "2015-01-23.57",
+            "Date": "2015-01-23",
+            "Telescope": "Planewave CDK 0.61-m",
+            "Instrument": null,
+            "Observatory": "Sierra Remote Observatory"
+        }
+    ],
+    "Event Type": "Discovery of a new transient source (likely supernova)",
+    "Time": "2015-01-22.36",
+    "Date": "2015-01-22",
+    "Telescope": "Double 14-cm 'Cassius'",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

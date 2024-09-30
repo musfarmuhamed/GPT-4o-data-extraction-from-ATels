@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "07:56:19",
+            "Date": "2018-06-03"
+        },
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "07:56:19",
+            "Date": "2018-06-05"
+        }
+    ],
+    "References": [
+        "https://gcn.gsfc.nasa.gov/gcn/other/1527865315_fermi.txt",
+        "https://gcn.gsfc.nasa.gov/gcn/other/1527951885_fermi.txt",
+        "https://www.astronomerstelegram.org/?read=11680"
+    ],
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": "07:56:19",
+    "Date": "2018-06-03",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

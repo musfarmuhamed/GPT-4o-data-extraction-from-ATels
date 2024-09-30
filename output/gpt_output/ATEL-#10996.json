@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17nan",
+            "RA": "02:09:33.02",
+            "Dec": "+21:14:56.84",
+            "redshift": 0.017,
+            "Type": "Ib",
+            "Time": "+8 d",
+            "Date": "2017 Nov 22 UT"
+        },
+        {
+            "Name": "ATLAS17ncr",
+            "RA": "20:50:07.52",
+            "Dec": "+05:59:08.92",
+            "redshift": 0.048,
+            "Type": "Ia",
+            "Time": "+6 d",
+            "Date": "2017 Nov 22 UT"
+        },
+        {
+            "Name": "ATLAS17ndw",
+            "RA": "02:24:35.35",
+            "Dec": "-11:45:01.72",
+            "redshift": 0.075,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2017 Nov 22 UT"
+        },
+        {
+            "Name": "ATLAS17nek",
+            "RA": "01:33:13.24",
+            "Dec": "-17:31:31.71",
+            "redshift": 0.046,
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2017 Nov 22 UT"
+        },
+        {
+            "Name": "ATLAS17nfs",
+            "RA": "10:48:49.53",
+            "Dec": "-04:16:13.94",
+            "redshift": 0.081,
+            "Type": "Ia",
+            "Time": "+15 d",
+            "Date": "2017 Nov 22 UT"
+        },
+        {
+            "Name": "ASASSN-17pl",
+            "RA": "21:13:53.00",
+            "Dec": "+02:13:14.00",
+            "redshift": 0.047,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2017 Nov 22 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": "Null",
+    "Date": "2017 Nov 22 UT",
+    "Telescope": "Shane",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Null"
+}

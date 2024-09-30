@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J09253+6929",
+            "RA": "09h 25m 47.61s",
+            "Dec": "+69d 27m 51.5s",
+            "redshift": null,
+            "Type": "2MASX J09254750+6927532",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J10448-5945",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Eta Carinae",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J10448-5945",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "W25 (HD 93162)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J11098-6457",
+            "RA": "11h 09m 47.7s",
+            "Dec": "-64d 52m 51.4s",
+            "redshift": null,
+            "Type": "1RXS J110944.4-645256",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J11098-6457",
+            "RA": "11h 09m 26.27s",
+            "Dec": "-65d 02m 23.2s",
+            "redshift": null,
+            "Type": "1RXS J110927.4-650245",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175; Leyder, Walter & Rauw 2008, A&A 477, L29",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

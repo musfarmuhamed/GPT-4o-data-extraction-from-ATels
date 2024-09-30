@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11caz",
+            "RA": "15:43:46.3",
+            "Dec": "+37:18:44.4",
+            "redshift": "0.192",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "March 31, 2011 UT"
+        },
+        {
+            "Name": "PTF11cey",
+            "RA": "16:40:57.39",
+            "Dec": "+23:07:44.0",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "April 14, 2011 UT"
+        },
+        {
+            "Name": "PTF11cmg",
+            "RA": "11:19:31.93",
+            "Dec": "+54:33:48.2",
+            "redshift": "0.1",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "April 27, 2011 UT"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "http://www.astro.caltech.edu/ptf/",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": "Unknown",
+    "Date": "Unknown",
+    "Telescope": [
+        "Palomar 5-m Hale telescope",
+        "University of Hawaii 2.2-m telescope"
+    ],
+    "Instrument": [
+        "Double-Beam Spectrograph (DBSP)",
+        "SNIFS (The SuperNova Integral Field Spectrograph)"
+    ],
+    "Observatory": [
+        "Unknown",
+        "Unknown"
+    ]
+}

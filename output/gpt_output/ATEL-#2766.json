@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16493-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant high-mass X-ray binary",
+            "Time": "19:59 to 22:29",
+            "Date": "2010-07-09"
+        }
+    ],
+    "References": [
+        "Corbet et al. 2010, ATel #2599",
+        "Cusumano et al. 2010, MNRAS, 406, L16",
+        "Markwardt et al. 2005, ATel #465",
+        "Liu et al. 2006, A&A, 445, 1165"
+    ],
+    "Event Type": "RXTE PCA observations",
+    "Time": "19:59 to 22:29",
+    "Date": "2010-07-09",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

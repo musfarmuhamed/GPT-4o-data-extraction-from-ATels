@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J022033.47+402248.8",
+            "RA": "02h 20m 33.47s",
+            "Dec": "+40d 22m 48.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable of AM Her type (polar)",
+            "Time": "2013-12-25.75934 UT",
+            "Date": "2013-12-25"
+        },
+        {
+            "Name": "MASTER OT J034045.31+471632.2",
+            "RA": "03h 40m 45.31s",
+            "Dec": "+47d 16m 32.2s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "2013-12-26.49604 UT",
+            "Date": "2013-12-26"
+        },
+        {
+            "Name": "MASTER OT J035733.12+640028.5",
+            "RA": "03h 57m 33.12s",
+            "Dec": "+64d 00m 28.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-12-26.79781 UT",
+            "Date": "2013-12-26"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J022033+402248-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/022033.47402248.8.png",
+        "http://master.sai.msu.ru/static/OT/J034045+471632-POSS-B.jpg",
+        "http://master.sai.msu.ru/static/OT/034045.31471632.2.png",
+        "http://master.sai.msu.ru/static/OT/J035733+640028-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/035733.12640028.5.png"
+    ],
+    "Event Type": "new CV",
+    "Time": "Various times listed under each celestial object",
+    "Date": "2013-12-25 to 2013-12-26",
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

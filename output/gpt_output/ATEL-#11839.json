@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018dfg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00948,
+            "Type": "IIn SNe",
+            "Time": "11.12",
+            "Date": "2018-07-11"
+        },
+        {
+            "Name": "NGC 5468",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00948,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "optical spectrum",
+    "Time": "11.12",
+    "Date": "2018-07-11",
+    "Telescope": "Magellan Clay telescope",
+    "Instrument": "LDSS3 spectrograph, VPH-all grism",
+    "Observatory": null
+}

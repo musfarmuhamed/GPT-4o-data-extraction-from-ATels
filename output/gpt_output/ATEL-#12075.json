@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018gwr",
+            "RA": "03 11 18.72",
+            "Dec": "+01 19 00.84",
+            "redshift": 0.032,
+            "Type": "II",
+            "Time": null,
+            "Date": "2018-09-17"
+        },
+        {
+            "Name": "SN2018gyr",
+            "RA": "00 49 47.24",
+            "Dec": "-61 39 12.89",
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-09-30"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Shappee et al. 2014, ApJ, 788, 48; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383.",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018-10-02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

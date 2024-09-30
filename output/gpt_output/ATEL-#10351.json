@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fx",
+            "RA": "12:31:43.688",
+            "Dec": "+36:12:34.93",
+            "redshift": "0.033364",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-05-04.27"
+        },
+        {
+            "Name": "2MASX J12314373+3612331",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033364",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ASAS-SN Homepage"
+        },
+        {
+            "Reference": "List of all ASAS-SN transients"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2017-05-04.27",
+    "Date": "2017-05-04",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

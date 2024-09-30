@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible Nova in M31",
+            "RA": "00h 42m 32.77s",
+            "Dec": "+41\u00b0 16' 49.2\"",
+            "redshift": null,
+            "Type": "Nova Candidate",
+            "Time": "00:28",
+            "Date": "2006-06-08"
+        },
+        {
+            "Name": "Fainter source in M31",
+            "RA": "00h 42m 32.77s",
+            "Dec": "+41\u00b0 16' 49.2\"",
+            "redshift": null,
+            "Type": "Fainter Source",
+            "Time": "01:18",
+            "Date": "2006-05-25"
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery",
+    "Time": "00:28",
+    "Date": "2006-06-08",
+    "Telescope": "Wendelstein telescope",
+    "Instrument": "1k x 1k CCD camera with 24\u00b5 sq. pixels",
+    "Observatory": null
+}

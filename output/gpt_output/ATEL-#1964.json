@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Optical Transient",
+            "RA": "14:23:55.82",
+            "Dec": "+35:11:05.2",
+            "redshift": "0.0555",
+            "Type": "Type Ia supernova",
+            "Time": "March 2.347 UT",
+            "Date": "2023-03-02"
+        },
+        {
+            "Name": "SN 2009an",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "March 2.255 UT",
+            "Date": "2023-03-02"
+        }
+    ],
+    "References": "CBET 1707, 1709",
+    "Event Type": "optical transient discovery",
+    "Time": "March 2.347 UT",
+    "Date": "2023-03-02",
+    "Telescope": "1.2-m Oschin telescope, 5.0-m Palomar Hale telescope",
+    "Instrument": "CFH12K camera, Double Beam Spectrograph",
+    "Observatory": "Palomar Observatory"
+}

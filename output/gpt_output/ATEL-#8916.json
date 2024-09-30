@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16akb",
+            "RA": "09:18:58.5",
+            "Dec": "35:54:41.3",
+            "redshift": "0.084",
+            "Type": "type Ia supernova",
+            "Time": "21:00:09",
+            "Date": "2016-04-05"
+        },
+        {
+            "Name": "SDSS J091858.70+355439.9",
+            "RA": "09:18:58.70",
+            "Dec": "35:54:39.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS16bkm (AT2016bkj Gaia16akf)",
+            "RA": "15:59:38.95",
+            "Dec": "19:05:05.00",
+            "redshift": "0.030",
+            "Type": "type Ib supernova",
+            "Time": "05:18:29",
+            "Date": "2016-04-06"
+        },
+        {
+            "Name": "SDSS J155938.96+190504.9",
+            "RA": "15:59:38.96",
+            "Dec": "19:05:04.9",
+            "redshift": "0.032",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observation",
+    "Time": "21:00:09",
+    "Date": "2016-04-05",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

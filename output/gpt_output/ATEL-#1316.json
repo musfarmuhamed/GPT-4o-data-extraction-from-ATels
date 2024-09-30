@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J0053-724 (SXP46.6)",
+            "RA": "00:53:53.8",
+            "Dec": "-72:26:35",
+            "redshift": null,
+            "Type": "X-ray pulsar; Be star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Buckley et al.",
+            "Year": 2001,
+            "Journal": "MNRAS",
+            "Volume": 320,
+            "Page": 281
+        },
+        {
+            "Author": "Laycock et al.",
+            "Year": 2005,
+            "Journal": "ApJS",
+            "Volume": 161,
+            "Page": 96
+        },
+        {
+            "Author": "Galache et al.",
+            "Year": 2005,
+            "Journal": "ATEL",
+            "Number": 674
+        }
+    ],
+    "Event Type": "Optical and X-ray outbursts",
+    "Time": null,
+    "Date": "First 3 years of OGLE-III data; Seasons 4 through 7",
+    "Telescope": "OGLE-III",
+    "Instrument": "I-band",
+    "Observatory": "Chandra (for X-ray position)"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1756.9-2508",
+            "RA": "17h 56m 57.1s (269.23794)",
+            "Dec": "-25d 06m 26.7s (-25.10743)",
+            "redshift": null,
+            "Type": "millisecond pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 5-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1105",
+        "ATel #1107",
+        "ATel #1108"
+    ],
+    "Event Type": "observation",
+    "Time": "19:00 UTC",
+    "Date": "13 June 2007",
+    "Telescope": [
+        "Swift",
+        "RXTE"
+    ],
+    "Instrument": [
+        "XRT",
+        "PCA"
+    ],
+    "Observatory": null
+}

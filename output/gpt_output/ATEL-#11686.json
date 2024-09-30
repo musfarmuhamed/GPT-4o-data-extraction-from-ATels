@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ll (AT 2018cdh)",
+            "RA": "15:11:42.606",
+            "Dec": "+06:25:12.00",
+            "redshift": "0.031916",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-06-02.31"
+        },
+        {
+            "Name": "ASASSN-18lk (AT 2017bwx)",
+            "RA": "09:09:04.716",
+            "Dec": "+20:05:45.06",
+            "redshift": "0.027616",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-31.98"
+        },
+        {
+            "Name": "ASASSN-18lh (AT 2018bzn)",
+            "RA": "10:37:46.107",
+            "Dec": "+05:28:01.91",
+            "redshift": "0.028242",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-26.06"
+        },
+        {
+            "Name": "ASASSN-18lg (AT 2018bzo)",
+            "RA": "13:03:58.010",
+            "Dec": "-30:24:05.68",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-27.06"
+        },
+        {
+            "Name": "ASASSN-18le (AT 2018byw)",
+            "RA": "21:38:16.820",
+            "Dec": "-27:33:28.16",
+            "redshift": "0.029991",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-24.27"
+        },
+        {
+            "Name": "ASASSN-18ld (AT 2018bxq)",
+            "RA": "16:36:53.509",
+            "Dec": "-85:09:00.29",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-24.13"
+        },
+        {
+            "Name": "ASASSN-18kz (AT 2018bwv)",
+            "RA": "00:57:09.857",
+            "Dec": "-43:43:38.28",
+            "redshift": "0.023770",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-05-23.41"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Ongoing",
+    "Telescope": "quadruple 14-cm telescopes",
+    "Instrument": "Null",
+    "Observatory": [
+        "Brutus telescope in Haleakala, Hawaii",
+        "Leavitt telescope in Fort Davis, Texas",
+        "Payne-Gaposchkin telescope in Sutherland, South Africa",
+        "Cassius and Paczynski telescopes in Cerro Tololo, Chile"
+    ]
+}

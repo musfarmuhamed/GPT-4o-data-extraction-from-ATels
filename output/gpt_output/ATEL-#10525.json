@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17gvn",
+            "RA": "14:18:27.70",
+            "Dec": "+12:53:04.78",
+            "redshift": 0.025,
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "ASASSN-17hp",
+            "RA": "13:09:36.02",
+            "Dec": "-18:58:19.56",
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": "+8d",
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "Gaia17bod",
+            "RA": "01:44:30.88",
+            "Dec": "+04:40:05.66",
+            "redshift": 0.026,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "ATLAS17hdh",
+            "RA": "19:41:12.29",
+            "Dec": "-23:30:01.17",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "ATLAS17hdo",
+            "RA": "21:17:50.88",
+            "Dec": "-25:06:23.97",
+            "redshift": 0.049,
+            "Type": "Ia-91T",
+            "Time": "-3d",
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "Gaia17bow",
+            "RA": "23:45:07.27",
+            "Dec": "+09:03:37.66",
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": "2017-06-21"
+        }
+    ],
+    "References": [
+        "ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2017-06-21",
+    "Telescope": "SOAR 4-m telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR) Telescope"
+}

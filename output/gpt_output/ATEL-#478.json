@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "09:40-09:50",
+            "Date": "2005 April 9"
+        },
+        {
+            "Name": "IGR J16283-4838",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "02:58-03:11",
+            "Date": "2005 April 21"
+        }
+    ],
+    "References": [
+        "ATEL#444",
+        "ATEL#456",
+        "ATEL#476",
+        "ATEL#459",
+        "ATEL#477",
+        "ATEL#460"
+    ],
+    "Event Type": "Optical and Infrared Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m Magellan-Baade",
+    "Instrument": [
+        "IMACS imaging spectrograph",
+        "PANIC camera"
+    ],
+    "Observatory": "Magellan-Baade Observatory"
+}

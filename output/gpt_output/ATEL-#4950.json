@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Cep 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "Feb 2.4",
+            "Date": "2013"
+        }
+    ],
+    "References": [
+        "CBET #3397",
+        "ATel #4893",
+        "Kraft, Burrows and Nousek (1991)",
+        "ApJ 374, 334"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2013",
+    "Telescope": "VLA",
+    "Instrument": [
+        "VLA",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": [
+        "Karl G. Jansky Very Large Array",
+        "Swift"
+    ]
+}

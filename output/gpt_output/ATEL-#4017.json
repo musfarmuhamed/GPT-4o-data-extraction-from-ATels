@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": "00:07:21 UT",
+            "Date": "April 4, 2012"
+        }
+    ],
+    "References": [
+        "ATels #3193",
+        "#3202",
+        "#3210",
+        "#3218",
+        "in't Zand et al. 1998, NuPhS, 69, 228",
+        "ATel #3926"
+    ],
+    "Event Type": "outburst detection",
+    "Time": "00:07:21 UT",
+    "Date": "April 4, 2012",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

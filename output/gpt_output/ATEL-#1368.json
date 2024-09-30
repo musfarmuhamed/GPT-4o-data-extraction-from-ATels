@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008D",
+            "RA": "09:09:30.625",
+            "Dec": "+33:08:20.16",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "20:41",
+            "Date": "2008-01-19"
+        },
+        {
+            "Name": "X1",
+            "RA": "09:09:31.800",
+            "Dec": "+33:08:05.03",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X2",
+            "RA": "09:09:31.215",
+            "Dec": "+33:08:21.83",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X3",
+            "RA": "09:09:30.686",
+            "Dec": "+33:08:05.79",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2007uy",
+            "RA": "09:09:35.273",
+            "Dec": "+33:07:09.09",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X4",
+            "RA": "09:09:36.962",
+            "Dec": "+33:06:33.97",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X5",
+            "RA": "09:09:33.092",
+            "Dec": "+33:07:18.83",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X6",
+            "RA": "09:09:36.170",
+            "Dec": "+33:07:08.12",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Berger & Soderberg, GCN 7159, ATEL #1353; Kong & Maccarone, ATEL #1355; Nakano et al., IAUC 8908",
+    "Event Type": "Observation",
+    "Time": "20:41",
+    "Date": "2008-01-19",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3",
+    "Observatory": "Chandra X-ray Observatory"
+}

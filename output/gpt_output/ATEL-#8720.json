@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adj",
+            "RA": "13:25:24.118",
+            "Dec": "-43:00:57.96",
+            "redshift": null,
+            "Type": null,
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Resolved Source in F814W image",
+            "RA": "13:25:24.119",
+            "Dec": "-43:00:57.90",
+            "redshift": null,
+            "Type": null,
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Ferrarese et al. 2007, ApJ, 654, 186; ATel #8657; ATel #8693",
+    "Event Type": "Supernova Observation",
+    "Time": "Null",
+    "Date": "17 February 2016 UT",
+    "Telescope": "Keck-II 10-m telescope",
+    "Instrument": "Near-Infrared Camera 2 (NIRC2)",
+    "Observatory": "Keck Observatory"
+}

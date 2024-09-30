@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGlb J174805.2-244647",
+            "RA": "17:48:05.236",
+            "Dec": "-24:46:47.38",
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "5:05:57 UTC",
+            "Date": "2011-Nov-03"
+        },
+        {
+            "Name": "EXO 1745-245",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3714",
+        "ATel #3718",
+        "ATel #3720",
+        "ATel #3723",
+        "ATel #3729",
+        "Heinke et al. 2006, ApJ, 651, 1098"
+    ],
+    "Event Type": "Chandra ToO observation",
+    "Time": "5:05:57 UTC",
+    "Date": "2011-Nov-03",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS S3 chip",
+    "Observatory": "Chandra Observatory"
+}

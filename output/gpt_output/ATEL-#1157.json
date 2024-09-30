@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-07d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": "various",
+            "Date": [
+                "2007-Jul-24.19",
+                "2007-Jul-25.52",
+                "2007-Jul-25.59",
+                "2007-Jul-26.46"
+            ]
+        },
+        {
+            "Name": "M31N 2007-07c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": "various",
+            "Date": [
+                "2007-Jul-12.90",
+                "2007-Jul-18.91",
+                "2007-Jul-24.19",
+                "2007-Jul-25.56",
+                "2007-Jul-26.46"
+            ]
+        },
+        {
+            "Name": "M31N 2007-07b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": "various",
+            "Date": [
+                "2007-Jul-12.90",
+                "2007-Jul-18.91",
+                "2007-Jul-24.19",
+                "2007-Jul-25.56",
+                "2007-Jul-26.46"
+            ]
+        },
+        {
+            "Name": "M31N 2007-07a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": "various",
+            "Date": [
+                "2007-Jun-02.47",
+                "2007-Jul-12.90",
+                "2007-Jul-18.91"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #1156",
+        "ATEL #1146",
+        "ATEL #1141",
+        "ATEL #1131"
+    ],
+    "Event Type": "Swift UVOT observations",
+    "Time": "various",
+    "Date": "July 2007",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

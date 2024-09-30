@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bsg",
+            "RA": "02:57:02.64",
+            "Dec": "+03:52:10.5",
+            "redshift": 0.19,
+            "Type": "Ia?",
+            "Time": "~1 week",
+            "Date": null
+        },
+        {
+            "Name": "PS15bsn",
+            "RA": "03:33:15.07",
+            "Dec": "+00:34:27.6",
+            "redshift": 0.071,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15bsp",
+            "RA": "23:24:03.18",
+            "Dec": "-09:56:32.8",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "~1 week",
+            "Date": null
+        },
+        {
+            "Name": "PS15bsq",
+            "RA": "23:41:52.17",
+            "Dec": "-08:38:16.4",
+            "redshift": 0.034,
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": null
+        },
+        {
+            "Name": "PS15bst",
+            "RA": "23:34:01.02",
+            "Dec": "-13:17:45.3",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": null
+        },
+        {
+            "Name": "PS15bsh",
+            "RA": "03:06:48.13",
+            "Dec": "+04:31:41.7",
+            "redshift": 0.048,
+            "Type": "Ia",
+            "Time": "+29d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15oi",
+            "RA": "20:39:09.09",
+            "Dec": "-30:45:20.71",
+            "redshift": 0.02,
+            "Type": "TDE?",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": "Night",
+    "Date": "2015-08-20",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR) observatory"
+}

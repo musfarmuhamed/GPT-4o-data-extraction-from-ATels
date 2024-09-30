@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J115113.3-623730",
+            "RA": "11:51:13.00 (optical/NIR counterpart); 11:51:13.4 (5.5 GHz & July 20); 11:51:12.9 (9 GHz & August 7)",
+            "Dec": "-62:37:28.8 (optical/NIR counterpart); -62:37:30.7 (5.5 GHz & July 20); -62:37:28.3 (9 GHz & August 7)",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "July 20, 22:16 UT",
+            "Date": "2010 July 20"
+        },
+        {
+            "Name": "XMMU J115113.3-623730",
+            "RA": "11:51:12.9",
+            "Dec": "-62:37:28.3",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "August 7, 01:00 UT",
+            "Date": "2010 August 7"
+        }
+    ],
+    "References": [
+        "ATel #2746",
+        "ATel #2777",
+        "ATel #2771",
+        "Bode and Evans (ed.) 1989, Classical Novae, Wiley, Oxford",
+        "Bode 2010, Astron. Nachr., 331, 160",
+        "Hjellming et al. 1979, AJ, 84, 1619-1631"
+    ],
+    "Event Type": "Radio Observation",
+    "Time": "July 20, 22:16 UT; August 7, 01:00 UT",
+    "Date": "2010 July 20; 2010 August 7",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": "Compact Array Broadband Backend",
+    "Observatory": "Australia Telescope National Facility"
+}

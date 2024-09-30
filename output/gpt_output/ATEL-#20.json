@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB980515",
+            "RA": "319.25",
+            "Dec": "-67.238",
+            "redshift": null,
+            "Type": "Gamma-Ray Burst",
+            "Time": "17:00:10",
+            "Date": "May 15, 1998"
+        },
+        {
+            "Name": "GRB980515",
+            "RA": "319.3527",
+            "Dec": "-67.2550",
+            "redshift": null,
+            "Type": "Gamma-Ray Burst",
+            "Time": null,
+            "Date": "May 18, 1998"
+        }
+    ],
+    "References": null,
+    "Event Type": "Gamma-Ray Burst",
+    "Time": "17:00:10",
+    "Date": "May 15, 1998",
+    "Telescope": "BeppoSAX",
+    "Instrument": [
+        "GRBM",
+        "WFC2",
+        "NFI"
+    ],
+    "Observatory": "BeppoSAX"
+}

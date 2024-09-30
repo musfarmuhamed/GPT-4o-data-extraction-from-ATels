@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13ar",
+            "RA": "1:18:41.76",
+            "Dec": "-7:26:39.70",
+            "redshift": null,
+            "Type": "probable supernova",
+            "Time": "2013 June 17.61",
+            "Date": "2013-06-17"
+        },
+        {
+            "Name": "PGC 004701",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01775",
+            "Type": "face-on spiral galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#4987",
+        "#4999",
+        "#5010",
+        "#5082",
+        "#5102",
+        "#5110"
+    ],
+    "Event Type": "discovery",
+    "Time": "2013 June 17.61",
+    "Date": "2013-06-17",
+    "Telescope": "double 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17dh",
+            "RA": "17:14:24.24",
+            "Dec": "+20:18:50.38",
+            "redshift": "0.020764",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-03-07.53"
+        },
+        {
+            "Name": "ASASSN-17dk",
+            "RA": "15:29:26.88",
+            "Dec": "+56:55:56.30",
+            "redshift": "0.050551",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-03-07.53"
+        }
+    ],
+    "References": "Shappee et al. 2014, NED (as mentioned for redshift and distance)",
+    "Event Type": "Discovery of new transient sources",
+    "Time": "Null",
+    "Date": "2017-03-07.53",
+    "Telescope": "ASAS-SN (All Sky Automated Survey for SuperNovae)",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

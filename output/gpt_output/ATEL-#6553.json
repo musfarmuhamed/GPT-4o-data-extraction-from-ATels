@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J2007-2518",
+            "RA": 302.371,
+            "Dec": -25.411,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J201019-252358",
+            "RA": 302.58218,
+            "Dec": -25.3998,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ackermann et al. 2013, ApJ, 771, 57"
+    ],
+    "Event Type": "gamma-ray activity from a previously unidentified transient source",
+    "Time": null,
+    "Date": "September 25th and October 3rd, 2014",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE partnership"
+}

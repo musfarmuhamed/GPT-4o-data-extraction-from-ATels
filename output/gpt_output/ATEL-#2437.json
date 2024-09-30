@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M87",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "21:40 UT",
+            "Date": "2010 Feb 10"
+        },
+        {
+            "Name": "HST-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "jet knot",
+            "Time": "21:40 UT",
+            "Date": "2010 Feb 10"
+        }
+    ],
+    "References": "ATel #2431",
+    "Event Type": "radio observations",
+    "Time": "21:40 UT",
+    "Date": "2010 Feb 10",
+    "Telescope": "EVN",
+    "Instrument": null,
+    "Observatory": "JIVE"
+}

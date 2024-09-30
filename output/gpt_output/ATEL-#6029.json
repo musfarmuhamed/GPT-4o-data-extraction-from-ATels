@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192123.07+193539.0",
+            "RA": "19h 21m 23.07s",
+            "Dec": "+19d 35m 39.0s",
+            "redshift": null,
+            "Type": "extremely red large-amplitude variable",
+            "Time": "2014-03-30.82148 UT",
+            "Date": "2014-03-30"
+        },
+        {
+            "Name": "USNO-B1.0 1095-0381286",
+            "RA": "19 21 22.947",
+            "Dec": "+19 35 39.20",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 19212303+1935400",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IRAS 19191+1929",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J192123.03+193539.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J192123+193539-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/192123.07193539.0.png",
+    "Event Type": "Discovery",
+    "Time": "2014-03-30.82148 UT",
+    "Date": "2014-03-30",
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

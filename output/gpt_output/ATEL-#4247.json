@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:00:59 to 15:53:55 UT",
+            "Date": "July 8, 2012"
+        }
+    ],
+    "References": [
+        "ATel #4162",
+        "ATel #196",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Lewis et al. 2008"
+    ],
+    "Event Type": "rapid fading to lowest observed X-ray flux level",
+    "Time": "14:00:59 to 15:53:55 UT",
+    "Date": "July 8, 2012",
+    "Telescope": "Swift, Faulkes Telescope South",
+    "Instrument": "UVOT, probably XRT for the X-ray observation",
+    "Observatory": "Las Cumbres Observatory Global Telescope Network"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "MJD 57090.5",
+            "Date": "March 3, 2015"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "MJD 57130.5",
+            "Date": "April 18, 2015"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "MJD 57097",
+            "Date": "March 16, 2015"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "MJD 57095",
+            "Date": "March 14, 2015"
+        }
+    ],
+    "References": [
+        "ATel #6649",
+        "ATel #6960",
+        "ATel #7009",
+        "ATel #7201",
+        "Coriat et al. 2009, MNRAS, 400, 123",
+        "ATel #2573"
+    ],
+    "Event Type": "Outburst",
+    "Time": "October 2014",
+    "Date": "October 2014",
+    "Telescope": "1-m network LCOGT telescopes",
+    "Instrument": "Swift/BAT, MAXI/GSC",
+    "Observatory": "Las Cumbres Observatory Global Telescope Network (LCOGT)"
+}

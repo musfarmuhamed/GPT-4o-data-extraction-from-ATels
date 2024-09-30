@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12eij",
+            "RA": "23 35 24.58",
+            "Dec": "-20 30 40.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20120812"
+        },
+        {
+            "Name": "SNhunt146",
+            "RA": "03 18 51.12",
+            "Dec": "-13:03:47.2",
+            "redshift": "0.031",
+            "Type": "SN Ia",
+            "Time": "+25",
+            "Date": "20120814"
+        },
+        {
+            "Name": "SSS120827:010014-304831",
+            "RA": "01 00 14.37",
+            "Dec": "-30 48 30.8",
+            "redshift": "0.055",
+            "Type": "SN Ia",
+            "Time": "+45",
+            "Date": "20120827"
+        },
+        {
+            "Name": "LSQ12eor",
+            "RA": "03 50 51.58",
+            "Dec": "-16 55 27.6",
+            "redshift": "0.04",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "20120827"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "http://crts.caltech.edu/",
+        "Howell et al. 2005",
+        "http://www.pessto.org",
+        "WISeREP",
+        "Nearby Supernova Factory II (http://snfactory.lbl.gov)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2012 September 07",
+    "Date": null,
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

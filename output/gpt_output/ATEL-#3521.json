@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11htb",
+            "RA": "21 55 37.06",
+            "Dec": "+00 41 32.2",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "Jul 11.34",
+            "Date": null
+        },
+        {
+            "Name": "PTF11hub",
+            "RA": "13 12 59.54",
+            "Dec": "+47 27 40.3",
+            "redshift": 0.0287,
+            "Type": "SN Ia",
+            "Time": "Jul 15.19",
+            "Date": null
+        },
+        {
+            "Name": "PTF11icm",
+            "RA": "14 00 59.44",
+            "Dec": "+52 52 17.5",
+            "redshift": 0.08,
+            "Type": "SN Ia",
+            "Time": "Jul 19.23",
+            "Date": null
+        },
+        {
+            "Name": "PTF11iho",
+            "RA": "17 37 06.46",
+            "Dec": "+34 29 21.7",
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "Jul 20.36",
+            "Date": null
+        },
+        {
+            "Name": "PTF11iid",
+            "RA": "17 48 07.75",
+            "Dec": "+57 45 58.1",
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "Jul 20.40",
+            "Date": null
+        },
+        {
+            "Name": "PTF11ilr",
+            "RA": "23 07 32.50",
+            "Dec": "+15 20 23.0",
+            "redshift": null,
+            "Type": "SN Ib",
+            "Time": "Jul 22.41",
+            "Date": null
+        },
+        {
+            "Name": "PTF11imf",
+            "RA": "02 41 45.35",
+            "Dec": "+40 02 19.5",
+            "redshift": 0.12,
+            "Type": "SN Ia",
+            "Time": "Jul 21.44",
+            "Date": null
+        },
+        {
+            "Name": "PTF11jar",
+            "RA": "16 46 11.90",
+            "Dec": "+54 34 03.0",
+            "redshift": 0.11,
+            "Type": "SN Ia",
+            "Time": "Jul 27.19",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "discovery of 8 new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

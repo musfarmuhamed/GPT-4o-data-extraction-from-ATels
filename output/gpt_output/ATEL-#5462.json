@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J211458.15+582259.3",
+            "RA": "21h 14m 58.15s",
+            "Dec": "+58d 22m 59.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova in outburst)",
+            "Time": "2013-10-09.51929",
+            "Date": "2013-10-09"
+        },
+        {
+            "Name": "MASTER OT J202506.02+582034.9",
+            "RA": "20h 25m 06.02s",
+            "Dec": "+58d 20m 34.9s",
+            "redshift": null,
+            "Type": "Flaring star",
+            "Time": "2013-10-09.54867",
+            "Date": "2013-10-09"
+        },
+        {
+            "Name": "MASTER OT J203220.79+660946.9",
+            "RA": "20h 32m 20.79s",
+            "Dec": "+66d 09m 46.9s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova in outburst)",
+            "Time": "2013-10-09.58638",
+            "Date": "2013-10-09"
+        }
+    ],
+    "References": "Discovered by MASTER-Tunka auto-detection system. Reference images without OT: MASTER OT J211458.15+582259.3 - 2011-05-22.70618 UT, MASTER OT J202506.02+582034.9 - 2011-08-17.66406 UT, MASTER OT J203220.79+660946.9 - 2012-09-07.59267 UT",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2013-10-09",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": null
+}

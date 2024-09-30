@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16km",
+            "RA": "01:53:12.541",
+            "Dec": "-49:33:39.47",
+            "redshift": "0.020588",
+            "Type": "Type Ia Supernova",
+            "Time": "UT 2016-09-12.34",
+            "Date": "2016-09-12"
+        },
+        {
+            "Name": "ESO 197-G 010",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.020588",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Mt. Cuba Astronomical Foundation",
+    "Event Type": "Discovery",
+    "Time": "UT 2016-09-12.34",
+    "Date": "2016-09-12",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "B&C spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

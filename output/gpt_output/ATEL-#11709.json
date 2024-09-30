@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17lbg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": "2017-08-01"
+        },
+        {
+            "Name": "Gaia17dbg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": "2017-11-25"
+        },
+        {
+            "Name": "AT2017gul",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.192",
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": "2017-08-01"
+        },
+        {
+            "Name": "GALEXASC J225413.32-214100.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11049, Kalberla et al. 2005 A&A, 440, 775, Bianchi et al. 2011 Ap&SS, 335, 161",
+    "Event Type": "X-ray detection, Optical Transient",
+    "Time": null,
+    "Date": "2017-12-05, 2017-12-29, 2018-06-08",
+    "Telescope": "SALT, Swift/XRT, Swift/UVOT",
+    "Instrument": "Spectroscopic observations, X-ray observations, Photometry",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

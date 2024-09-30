@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-06c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "13.17",
+            "Date": "2017-06-13"
+        },
+        {
+            "Name": "PNV J00423291+4112236",
+            "RA": "00:42:32.91",
+            "Dec": "+41:12:23.6",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "13.17",
+            "Date": "2017-06-13"
+        }
+    ],
+    "References": [
+        "Piascik et al. 2014",
+        "Steele et al. 2004"
+    ],
+    "Event Type": "Spectrum Observation",
+    "Time": "13.17",
+    "Date": "2017-06-13",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT",
+    "Observatory": null
+}

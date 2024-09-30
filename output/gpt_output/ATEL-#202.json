@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MX0656-072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsating transient X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J065815.0-071237",
+            "RA": "06:58:15.0",
+            "Dec": "-07:12:37",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GSC2.2 S100221215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J065817.7-071228",
+            "RA": "06:58:17.7",
+            "Dec": "-07:12:28",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Be star",
+            "RA": "06:58:17.30",
+            "Dec": "-07:12:35.3",
+            "redshift": null,
+            "Type": "variable reddened Be star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H(alpha) emission line star No. 33",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "H(alpha) emission line star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GSC2.2 S100221212",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #197",
+        "ATEL #199",
+        "Pakull 1978, The (ESO) Messenger 13, 17",
+        "MacConnell 1981 A&AS 44, 387"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "1993-09",
+    "Telescope": "ROSAT",
+    "Instrument": "PSPC",
+    "Observatory": "ROSAT Observatory"
+}

@@ -1,0 +1,134 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16bix",
+            "RA": "19:03:09.46",
+            "Dec": "-09:55:15.5",
+            "redshift": null,
+            "Type": "Var",
+            "Time": null,
+            "Date": "20160919"
+        },
+        {
+            "Name": "Gaia16bip",
+            "RA": "19:13:31.60",
+            "Dec": "-12:57:28.2",
+            "redshift": null,
+            "Type": "Var",
+            "Time": null,
+            "Date": "20160916"
+        },
+        {
+            "Name": "PS16ejh",
+            "RA": "23:59:26.19",
+            "Dec": "-24:25:26.7",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "+12",
+            "Date": "20160921"
+        },
+        {
+            "Name": "PTSS-16olg",
+            "RA": "23:28:54.51",
+            "Dec": "+19:46:28.6",
+            "redshift": null,
+            "Type": "unk",
+            "Time": null,
+            "Date": "20160920"
+        },
+        {
+            "Name": "Gaia16bjq",
+            "RA": "20:46:58.75",
+            "Dec": "-25:47:05.9",
+            "redshift": "0.063",
+            "Type": "unk",
+            "Time": null,
+            "Date": "20160921"
+        },
+        {
+            "Name": "Gaia16bjr",
+            "RA": "20:29:52.12",
+            "Dec": "-20:17:24.1",
+            "redshift": null,
+            "Type": "unk",
+            "Time": null,
+            "Date": "20160921"
+        },
+        {
+            "Name": "PS16ejp",
+            "RA": "23:36:14.00",
+            "Dec": "+23:41:45.3",
+            "redshift": "0.087",
+            "Type": "Ia",
+            "Time": "-5",
+            "Date": "20160919"
+        },
+        {
+            "Name": "PS16ejr",
+            "RA": "00:07:51.91",
+            "Dec": "-25:15:09.2",
+            "redshift": "0.156",
+            "Type": "Ia",
+            "Time": "-6",
+            "Date": "20160921"
+        },
+        {
+            "Name": "Gaia16bjd",
+            "RA": "00:56:11.50",
+            "Dec": "-46:44:35.8",
+            "redshift": "0.082",
+            "Type": "Ia",
+            "Time": "+8",
+            "Date": "20160906"
+        },
+        {
+            "Name": "Gaia16bjo",
+            "RA": "02:10:08.16",
+            "Dec": "-48:38:24.3",
+            "redshift": "0.046",
+            "Type": "II",
+            "Time": "+4",
+            "Date": "20160921"
+        },
+        {
+            "Name": "PTSS-16oqc",
+            "RA": "00:34:44.67",
+            "Dec": "-06:09:34.3",
+            "redshift": "0.058",
+            "Type": "Ia",
+            "Time": "-8",
+            "Date": "20160923"
+        },
+        {
+            "Name": "Gaia16bhg",
+            "RA": "04:17:50.45",
+            "Dec": "-04:47:42.3",
+            "redshift": "0.038",
+            "Type": "Ia",
+            "Time": "+6",
+            "Date": "20160914"
+        },
+        {
+            "Name": "OGLE16dmu",
+            "RA": "04:48:26.34",
+            "Dec": "-62:20:10.6",
+            "redshift": "0.426",
+            "Type": "SLSN",
+            "Time": "Peak",
+            "Date": "20160902"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2016 September 23rd",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

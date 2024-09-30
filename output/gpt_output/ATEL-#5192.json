@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "2 June 2013"
+        },
+        {
+            "Name": "GX 349+2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #5112, Wijnands et. al., 2012, MNRAS, 422, 91",
+    "Event Type": "Swift/XRT monitoring observations",
+    "Time": null,
+    "Date": "2 June 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

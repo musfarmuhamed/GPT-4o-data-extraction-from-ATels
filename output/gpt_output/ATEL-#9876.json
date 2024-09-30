@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1719-254",
+            "RA": 259.9,
+            "Dec": -25.4,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "13:37",
+            "Date": "2016 December 18"
+        },
+        {
+            "Name": "GRS 1716-249/GRO J1719-24",
+            "RA": 259.9,
+            "Dec": -25.4,
+            "redshift": null,
+            "Type": "X-ray nova",
+            "Time": null,
+            "Date": "1993"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016, PASJ, 68, S1",
+        "Ballet et al. 1993, IAU Circ. 5874",
+        "Harmon et al. 1993, IAU Circ. 5874",
+        "Revnivtsev et al. 1998, A&A, 331, 557",
+        "Borozdin et al. 1995, IAU Circ. 6141",
+        "Chaty et al. 2002, MNRAS, 331, 1065"
+    ],
+    "Event Type": "X-ray nova outburst",
+    "Time": "13:37",
+    "Date": "2016 December 18",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

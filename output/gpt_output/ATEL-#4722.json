@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J020106.28+115504.5",
+            "RA": "02h 01m 06.28s",
+            "Dec": "+11d 55m 04.5s",
+            "redshift": "Null",
+            "Type": "dwarf nova of UGSU or UGWZ type",
+            "Time": "00:11:43",
+            "Date": "2013-01-09"
+        },
+        {
+            "Name": "SDSS J020106.28+115502.4",
+            "RA": "02h 01m 06.28s",
+            "Dec": "+11d 55m 02.4s",
+            "redshift": "Null",
+            "Type": "GALAXY",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "GALEX J020106.4+115504",
+            "RA": "02h 01m 06.4s",
+            "Dec": "+11d 55m 04s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "MASTER OT J043941.97+291219.7",
+            "RA": "04h 39m 41.97s",
+            "Dec": "+29d 12m 19.7s",
+            "redshift": "Null",
+            "Type": "peculiar object of unknown nature",
+            "Time": "00:13:19",
+            "Date": "2013-01-09"
+        },
+        {
+            "Name": "PGC 1859062",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "GALAXY",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "2011-09-06.74266 UT, Palomar/NEAT, CRTS, 2012-09-26.79331 UT, SDSS, Vizier Query, DSS, NEAT, SkyMorph",
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "2013-01-09",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "MASTER-Amur auto-detection system"
+}

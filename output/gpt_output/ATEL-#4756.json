@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J062019.25+362511.7",
+            "RA": "06h 20m 19.25s",
+            "Dec": "+36d 25m 11.7s",
+            "redshift": null,
+            "Type": "dwarf nova of WZ Sge type in superoutburst",
+            "Time": "2013-01-21.63046 UT",
+            "Date": "2013-01-21"
+        },
+        {
+            "Name": "MASTER OT J165418.97+515236.9",
+            "RA": "16h 54m 18.97s",
+            "Dec": "+51d 52m 36.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-01-22.04169 UT",
+            "Date": "2013-01-22"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/062019.25362511.7.png, http://master.sai.msu.ru/static/OT/165418.97515237.0.png",
+    "Event Type": "dwarf nova and possible supernova (PSN)",
+    "Time": null,
+    "Date": "2013-01-21, 2013-01-22",
+    "Telescope": "MASTER-Amur, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

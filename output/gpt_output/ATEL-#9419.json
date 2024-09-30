@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016fes",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.052,
+            "Type": "SN Ia",
+            "Time": "2016-08-26.80",
+            "Date": "2016-08-11.28"
+        },
+        {
+            "Name": "SN 2016fev",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "SN Ia",
+            "Time": "2016-08-26.99",
+            "Date": "2016-08-14.57"
+        },
+        {
+            "Name": "SN 2016ffo",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028,
+            "Type": "SN Ia",
+            "Time": "2016-08-27.05",
+            "Date": "2016-08-21.51"
+        },
+        {
+            "Name": "SN 2016fhn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "SN Ic",
+            "Time": "2016-08-27.09",
+            "Date": "2016-08-21.56"
+        },
+        {
+            "Name": "SN 2016fho",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.044,
+            "Type": "SN II",
+            "Time": "2016-08-26.87",
+            "Date": "2016-08-18.43"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Huber et al. ATel #7153",
+    "Event Type": "spectroscopic classification of SNe",
+    "Time": "2016-08-26 to 2016-08-27",
+    "Date": "2016-08-11 to 2016-08-21",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

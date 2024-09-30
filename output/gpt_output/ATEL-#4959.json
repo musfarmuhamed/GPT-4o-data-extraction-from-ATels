@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": "18h 24m 32.20s",
+            "Dec": "-24\u00b0 52' 05.7\"",
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": "20:32:59",
+            "Date": "2013-04-07"
+        }
+    ],
+    "References": [
+        "ATel #4925",
+        "ATel #4927",
+        "ATel #4929",
+        "ATel #4924"
+    ],
+    "Event Type": "X-ray transient burst",
+    "Time": "20:32:59",
+    "Date": "2013-04-07",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

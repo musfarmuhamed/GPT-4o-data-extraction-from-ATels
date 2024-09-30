@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXO J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar",
+            "Time": "7 UT",
+            "Date": "Sept 27"
+        },
+        {
+            "Name": "AXP 1E 2259+586",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #893",
+        "ATEL #894",
+        "ATEL #896",
+        "Muno et al. (2006)",
+        "Woods et al ApJ 605, 378",
+        "Woods et al. 2004 ApJ 605, 378"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "7 UT",
+    "Date": "Sept 27",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S (S3 chip)",
+    "Observatory": "Chandra X-ray Observatory"
+}

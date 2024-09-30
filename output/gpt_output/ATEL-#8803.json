@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cx",
+            "RA": "16:11:58.48",
+            "Dec": "+54:56:42.9",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "10.48",
+            "Date": "2016-03-10"
+        }
+    ],
+    "References": [
+        "Schmidt et al. 2015, AJ, 149, 158",
+        "Dupuy et al. 2012, ApJs, 201, 19",
+        "Stanek et al. 2013, ATel #5276",
+        "Schmidt et al. 2015, ApJ, 781, 24",
+        "Simonian et al 2014, ATel #6771",
+        "Shappee et al 2016, ATel #8553"
+    ],
+    "Event Type": "Flare",
+    "Time": "10.48",
+    "Date": "2016-03-10",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

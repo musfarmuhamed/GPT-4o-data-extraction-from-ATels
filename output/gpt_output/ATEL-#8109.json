@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00432114+4124597",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "erupting nova",
+            "Time": "29.9 UT",
+            "Date": "2015 September 29",
+            "Additional Spectrum": {
+                "Time": "30.9 UT",
+                "Date": "2015 September 30"
+            }
+        }
+    ],
+    "References": [
+        "ATel #8108",
+        "CBAT TOC",
+        "Williams, 2012"
+    ],
+    "Event Type": "nova eruption",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

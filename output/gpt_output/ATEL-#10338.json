@@ -1,0 +1,99 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017dcg",
+            "RA": "05 16 05.04",
+            "Dec": "-16 07 31.1",
+            "redshift": "0.072",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170415"
+        },
+        {
+            "Name": "SN2017djt",
+            "RA": "08 51 21.34",
+            "Dec": "+22 56 39.6",
+            "redshift": "0.088",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170422"
+        },
+        {
+            "Name": "SN2017djz",
+            "RA": "11 47 51.81",
+            "Dec": "-33 49 35.6",
+            "redshift": "0.072",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170408"
+        },
+        {
+            "Name": "SN2017dia",
+            "RA": "12 17 28.84",
+            "Dec": "+03 02 54.1",
+            "redshift": "0.111",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170425"
+        },
+        {
+            "Name": "SN2017dcf",
+            "RA": "16 26 24.64",
+            "Dec": "+21 18 59.4",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170416"
+        },
+        {
+            "Name": "AT2017dhx",
+            "RA": "18 38 39.97",
+            "Dec": "-37 36 40.4",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20170424"
+        },
+        {
+            "Name": "SN2017dgw",
+            "RA": "19 06 51.82",
+            "Dec": "-36 57 31.5",
+            "redshift": "0.018",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170422"
+        },
+        {
+            "Name": "SN2017dgt",
+            "RA": "01 27 56.68",
+            "Dec": "-50 41 14.3",
+            "redshift": "0.064",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170422"
+        },
+        {
+            "Name": "SN2017dch",
+            "RA": "19 55 35.69",
+            "Dec": "-11 38 22.7",
+            "redshift": "0.048",
+            "Type": "Ic",
+            "Time": "Null",
+            "Date": "20170415"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "http://www.pessto.org",
+        "http://gsaweb.ast.cam.ac.uk/alerts"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "20170430",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

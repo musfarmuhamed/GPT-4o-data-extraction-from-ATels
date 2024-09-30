@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110457.10+300122.0",
+            "RA": "11h 04m 57.10s",
+            "Dec": "+30d 01m 22.0s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-01-13.66461 UT",
+            "Date": "2014-01-13"
+        },
+        {
+            "Name": "PGC 33487",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02889",
+            "Type": "interacting galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1955L",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "IBVS 612",
+    "Event Type": "discovery",
+    "Time": "2014-01-13.66461 UT",
+    "Date": "2014-01-13",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER-Amur auto-detection system"
+}

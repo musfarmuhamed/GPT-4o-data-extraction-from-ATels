@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT16am",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:19",
+            "Date": "2016-11-21"
+        },
+        {
+            "Name": "AT2016ija",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2016-11-21"
+        },
+        {
+            "Name": "SN2016aie",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "2016-11-07"
+        }
+    ],
+    "References": "Tartaglia, Sand & Valenti (ATel #9782); Tonry et al. (ATel 9754); PESSTO",
+    "Event Type": "Discovery and Monitoring",
+    "Time": null,
+    "Date": "2016-11-21",
+    "Telescope": "New Technology Telescope (NTT)",
+    "Instrument": "EFOSC2",
+    "Observatory": "PESSTO"
+}

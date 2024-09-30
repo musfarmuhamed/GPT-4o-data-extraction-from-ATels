@@ -1,0 +1,177 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018cxn",
+            "RA": "15:48:06.45",
+            "Dec": "+55:42:53.30",
+            "Redshift": "0.04",
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-07-20"
+        },
+        {
+            "Name": "AT2018dds",
+            "RA": "17:44:18.15",
+            "Dec": "+68:01:44.66",
+            "Redshift": "0.075",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-05"
+        },
+        {
+            "Name": "SN2018dbe",
+            "RA": "14:27:55.20",
+            "Dec": "+40:58:27.64",
+            "Redshift": "0.087",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        },
+        {
+            "Name": "SN2018ddg",
+            "RA": "14:12:18.24",
+            "Dec": "+62:38:34.72",
+            "Redshift": "0.073",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-12"
+        },
+        {
+            "Name": "SN2018dym",
+            "RA": "16:05:04.15",
+            "Dec": "+36:05:38.70",
+            "Redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-12"
+        },
+        {
+            "Name": "SN2018ddu",
+            "RA": "16:35:46.56",
+            "Dec": "+71:41:15.24",
+            "Redshift": "0.03",
+            "Type": "SN Ic",
+            "Time": null,
+            "Date": "2018-07-05"
+        },
+        {
+            "Name": "SN2018dvb",
+            "RA": "15:33:56.91",
+            "Dec": "+31:10:11.41",
+            "Redshift": "0.065",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018dcw",
+            "RA": "13:25:37.13",
+            "Dec": "+36:23:03.87",
+            "Redshift": "0.019",
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-07-25"
+        },
+        {
+            "Name": "SN2018dyo",
+            "RA": "20:32:18.60",
+            "Dec": "+58:11:54.35",
+            "Redshift": "0.044",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-12"
+        },
+        {
+            "Name": "SN2018dye",
+            "RA": "14:29:14.17",
+            "Dec": "+46:03:03.09",
+            "Redshift": "0.077",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-16"
+        },
+        {
+            "Name": "SN2018dje",
+            "RA": "17:52:50.56",
+            "Dec": "+21:22:57.51",
+            "Redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018des",
+            "RA": "17:20:08.94",
+            "Dec": "+09:29:32.20",
+            "Redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-17"
+        },
+        {
+            "Name": "SN2018ead",
+            "RA": "18:17:21.45",
+            "Dec": "+54:32:14.89",
+            "Redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-17"
+        },
+        {
+            "Name": "SN2018dsw",
+            "RA": "17:35:14.22",
+            "Dec": "+54:14:48.77",
+            "Redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-22"
+        },
+        {
+            "Name": "SN2018dyq",
+            "RA": "16:31:11.00",
+            "Dec": "+60:35:51.83",
+            "Redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "AT2018dyr",
+            "RA": "17:53:30.49",
+            "Dec": "+20:38:07.06",
+            "Redshift": "None",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018dfc",
+            "RA": "16:48:07.70",
+            "Dec": "+24:18:14.70",
+            "Redshift": "0.037",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-07-05"
+        }
+    ],
+    "References": [
+        "Blagorodnova et. al. 2018, PASP, 130, 5003",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATLAS18rud",
+        "Gaia18bvb",
+        "ATel #11825",
+        "Gaia18bvh",
+        "ATLAS18sei",
+        "Gaia18bux",
+        "ATEL #11266",
+        "NSF under AST MSIP Grant No 1440341",
+        "DIRAC@UW",
+        "NSF PIRE grant 1545949"
+    ],
+    "Event Type": "Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar Observatory"
+}

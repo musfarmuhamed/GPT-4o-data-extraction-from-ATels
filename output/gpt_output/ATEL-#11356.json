@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1813-095",
+            "RA": "18:13:34.073",
+            "Dec": "-9:32:07.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #11323",
+        "#11326",
+        "#11332",
+        "Juric et al 2008",
+        "McMillan 2011",
+        "Evans et al. 2009"
+    ],
+    "Event Type": "Observation",
+    "Time": "20:52 UT to 02:59 UT",
+    "Date": "2018-02-22 to 2018-02-23",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": null,
+    "Observatory": null
+}

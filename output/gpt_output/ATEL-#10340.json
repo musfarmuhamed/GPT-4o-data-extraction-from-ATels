@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C+38.41",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.814,
+            "Type": "Blazar",
+            "Time": "MJD 2457867.9050",
+            "Date": "April 24th, 2017"
+        },
+        {
+            "Name": "2FGLJ1635.2+3810",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[HB89]1633+382",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "2FGLJ1635.2+3810",
+        "[HB89]1633+382"
+    ],
+    "Event Type": "NIR brightening",
+    "Time": "MJD 2457867.9050",
+    "Date": "April 24th, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory (Mexico)"
+}

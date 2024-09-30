@@ -1,0 +1,98 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11hyh",
+            "RA": "01 45 50.50",
+            "Dec": "+14 35 00.0",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "Jul 14.41",
+            "Date": null
+        },
+        {
+            "Name": "PTF11ikv",
+            "RA": "22 34 22.46",
+            "Dec": "+27 37 38.4",
+            "redshift": "0.114",
+            "Type": "SN Ia",
+            "Time": "Jul 21.49",
+            "Date": null
+        },
+        {
+            "Name": "PTF11ipz",
+            "RA": "21 25 04.40",
+            "Dec": "-03 50 33.0",
+            "redshift": "0.163",
+            "Type": "SN Ia",
+            "Time": "Jul 23.41",
+            "Date": null
+        },
+        {
+            "Name": "PTF11ixp",
+            "RA": "23 05 25.14",
+            "Dec": "+16 07 22.6",
+            "redshift": "0.154",
+            "Type": "SN Ia",
+            "Time": "Jul 22.37",
+            "Date": null
+        },
+        {
+            "Name": "PTF11jct",
+            "RA": "01 53 20.68",
+            "Dec": "+27 04 06.5",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": "Jul 27.44",
+            "Date": null
+        },
+        {
+            "Name": "PTF11jpv",
+            "RA": "21 57 17.71",
+            "Dec": "+03 32 09.7",
+            "redshift": "0.179",
+            "Type": "SN Ia",
+            "Time": "Aug 01.33",
+            "Date": null
+        },
+        {
+            "Name": "PTF11kaw",
+            "RA": "23 10 53.62",
+            "Dec": "+13 21 22.7",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Aug 06.29",
+            "Date": null
+        },
+        {
+            "Name": "PTF11khk",
+            "RA": "17 02 58.05",
+            "Dec": "+40 31 06.8",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "Aug 09.31",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "#3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "P200",
+        "TNG"
+    ],
+    "Instrument": [
+        "DBSP",
+        "DOLORES"
+    ],
+    "Observatory": "PTF Collaboration (Caltech, LCOGT, Weizmann Institute, LBNL, Oxford, Columbia, IPAC, Berkeley)"
+}

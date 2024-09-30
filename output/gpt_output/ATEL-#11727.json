@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": "16:16:00.22",
+            "Dec": "+22:16:04.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "10:35:02",
+            "Date": "2018-06-16"
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014145",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tonry et al. ATel #8680",
+        "Tonry et al. 2018, PASP, 130, 4505",
+        "http://www.fallingstar.com",
+        "https://wis-tns.weizmann.ac.il/object/2018cow"
+    ],
+    "Event Type": "Transient",
+    "Time": "10:35:02",
+    "Date": "2018-06-16",
+    "Telescope": "ATLAS",
+    "Instrument": "camera covering 28.9 square degree field",
+    "Observatory": "Haleakala and Mauna Loa"
+}

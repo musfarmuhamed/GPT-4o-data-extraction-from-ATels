@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jc",
+            "RA": "07:35:35.288",
+            "Dec": "-62:46:12.64",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-10-19.34",
+            "Date": "2014-10-19"
+        },
+        {
+            "Name": "2MASX J07353554-6246099",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.011325,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN",
+        "NED"
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-10-19.34",
+    "Date": "2014-10-19",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": [
+        "Cerro Tololo",
+        "Siding Springs Observatory"
+    ]
+}

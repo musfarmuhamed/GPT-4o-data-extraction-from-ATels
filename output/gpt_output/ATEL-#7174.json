@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J100540.87+134751.1",
+            "RA": "10:05:40.87",
+            "Dec": "+13:47:51.1",
+            "redshift": "0.064 +/- 0.004",
+            "Type": "normal Type Ia SN 1996ab",
+            "Time": "26.844 UT",
+            "Date": "2015-02-26"
+        },
+        {
+            "Name": "MASTER OT J081659.74+511233.7",
+            "RA": "08:16:59.74",
+            "Dec": "+51:12:33.7",
+            "redshift": "0.044 +/- 0.004",
+            "Type": "normal Type Ia SN 1994ae",
+            "Time": "25.708",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "CSS150220:085109+443352",
+            "RA": "08:51:09",
+            "Dec": "+44:33:52",
+            "redshift": "0.152 +/- 0.005",
+            "Type": "Type Ia SN 1991T",
+            "Time": "25.763",
+            "Date": "2015-02-25"
+        }
+    ],
+    "References": [
+        "Afanasiev & Moiseev, 2005, Astronomy Letters, 31, 194",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Shumkov et al., ATel #7127",
+        "Balanutsa et al., ATel #7129"
+    ],
+    "Event Type": "SN candidates observation",
+    "Time": null,
+    "Date": "2015-02-25 to 2015-02-27",
+    "Telescope": "6-meter BTA telescope",
+    "Instrument": "Scorpio-I focal reducer",
+    "Observatory": "SAO RAS"
+}

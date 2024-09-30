@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTEJ1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate state",
+            "Time": "13:17",
+            "Date": "2010-03-25"
+        },
+        {
+            "Name": "XTEJ1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Detected at 6 sigma level",
+            "Time": {
+                "Start": "2010-03-25 13:17",
+                "End": "2010-03-27 02:08"
+            },
+            "Date": null
+        },
+        {
+            "Name": "XTEJ1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Detected at 21 sigma level",
+            "Time": {
+                "Start": "2010-03-27 10:03",
+                "End": "2010-03-30 02:08"
+            },
+            "Date": null
+        },
+        {
+            "Name": "XTEJ1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Detected at 15 sigma level",
+            "Time": {
+                "Start": "2010-03-30 09:52",
+                "End": "2010-03-30 13:33"
+            },
+            "Date": null
+        }
+    ],
+    "References": "Atel #2518",
+    "Event Type": "Spectral state transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "ISGRI"
+}

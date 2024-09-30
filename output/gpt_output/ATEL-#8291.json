@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01072038+3223598",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Ia",
+            "Time": "20151111.76",
+            "Date": "20151116.92"
+        },
+        {
+            "Name": "PSN J10081137+5150409",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0036,
+            "Type": "II",
+            "Time": "20151115.78",
+            "Date": "20151117.17"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Smith et al. 2000, MNRAS, 313, 469; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic classification",
+    "Time": "Various",
+    "Date": "20151116.92, 20151117.17",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

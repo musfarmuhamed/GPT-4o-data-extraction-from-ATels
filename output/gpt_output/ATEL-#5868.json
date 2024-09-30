@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary millisecond pulsar",
+            "Time": "02:34 UTC",
+            "Date": "2013-12-16"
+        },
+        {
+            "Name": "H-alpha emission line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H-beta emission line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H-gamma emission line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeI emission lines",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #5513",
+        "#5514",
+        "#5515",
+        "#5516",
+        "#5534",
+        "Halpern et al. 2013, ATel #5514",
+        "Takata et al. 2013, arXiv:1312.0605",
+        "Archibald et al. 2013, arXiv:1311.5161",
+        "Kong 2013, ATel #5515"
+    ],
+    "Event Type": "state change",
+    "Time": "02:34 UTC",
+    "Date": "2013-12-16",
+    "Telescope": "4-meter William Herschel Telescope",
+    "Instrument": "ACAM",
+    "Observatory": "La Palma"
+}

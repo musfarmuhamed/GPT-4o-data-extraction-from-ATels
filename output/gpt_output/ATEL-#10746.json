@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017gla",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0203,
+            "Type": "Ia",
+            "Time": "2017-09-10.02",
+            "Date": "2017-09-01.83"
+        },
+        {
+            "Name": "SN2017glz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "2017-09-10.09",
+            "Date": "2017-09-01.48"
+        },
+        {
+            "Name": "AT2017gop",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "CV",
+            "Time": "2017-09-09.94",
+            "Date": "2017-08-07.42"
+        },
+        {
+            "Name": "AT2017gqq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "CV",
+            "Time": "2017-09-10.24",
+            "Date": "2017-09-07.85"
+        },
+        {
+            "Name": "SN2017gmr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.005,
+            "Type": "II",
+            "Time": "2017-09-10.20",
+            "Date": "2017-09-04.20"
+        }
+    ],
+    "References": "Tonry et al. (2011, PASP, 123, 58); Tonry et al. (ATel #8680); Chambers et al. (2016, arXiv:1612.05560); Harutyunyan et al. (2008, A&A, 488, 383); Koribalski et al. (2004, AJ, 128, 16); Falco, E. E. et al., 1999, PASP, 111, 438; Gromadzki, M. et al., 2017 (ATel #10732); Schlafly & Finkbeiner 2011, ApJ, 737, 103; Turatto et al. 2003, LNP, 598, 21",
+    "Event Type": "Spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Monte Maggiore Observatory, Predappio, Italy"
+}

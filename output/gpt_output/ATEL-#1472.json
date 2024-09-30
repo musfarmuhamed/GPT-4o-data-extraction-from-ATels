@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750-2900",
+            "RA": "17:50:24.43",
+            "Dec": "-29:02:15.0",
+            "redshift": null,
+            "Type": "Neutron star X-ray transient",
+            "Time": "09:52-09:59",
+            "Date": "2008-03-30"
+        },
+        {
+            "Name": "SAX J1750-2900",
+            "RA": "17:50:24.43",
+            "Dec": "-29:02:15.0",
+            "redshift": null,
+            "Type": "Neutron star X-ray transient",
+            "Time": "09:06",
+            "Date": "2008-03-18"
+        }
+    ],
+    "References": [
+        "Markwardt & Swank 2008, ATel #1425",
+        "Torres et al. 2008, ATel #1446",
+        "Steeghs et al. 2008, ATel #1431"
+    ],
+    "Event Type": "Follow-up observations",
+    "Time": "09:52-09:59",
+    "Date": "2008-03-30",
+    "Telescope": "6.5m Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

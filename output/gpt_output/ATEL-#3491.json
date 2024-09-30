@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1822.3-1606",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "6.7 ks",
+            "Date": "2011-07-16"
+        },
+        {
+            "Name": "Swift J1626.6-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be-X-ray binary system",
+            "Time": null,
+            "Date": "2005"
+        },
+        {
+            "Name": "PSR J1846-0258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Rotation powered pulsar",
+            "Time": null,
+            "Date": "2008"
+        }
+    ],
+    "References": [
+        "Cummings et al. GCN Circ. 12159",
+        "Palmer et al. 2005",
+        "Gavriil et al. 2008"
+    ],
+    "Event Type": "Observation",
+    "Time": "6.7 ks",
+    "Date": "2011-07-16",
+    "Telescope": "RXTE/PCA",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-IIn supernova",
+            "Time": "16:28:53",
+            "Date": "2012-09-22"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Smith, Atel#4412; Breeveld et al. 2011, arXiv:1102.4717; Schlegel et al. 1998; Kalberla 2005",
+    "Event Type": "Swift ToO",
+    "Time": "16:28:53",
+    "Date": "2012-09-22",
+    "Telescope": "Swift",
+    "Instrument": "Swift-UVOT, Swift-XRT",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER161812.44+362852.8",
+            "RA": "16h 18m 12.44s",
+            "Dec": "+36d 28m 52.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "24.85193",
+            "Date": "2012-03-24"
+        },
+        {
+            "Name": "OT MASTER072351.31+635526.2",
+            "RA": "07h 23m 51.31s",
+            "Dec": "+63d 55m 26.2s",
+            "redshift": null,
+            "Type": "CV ?",
+            "Time": "18.50516",
+            "Date": "2012-03-18"
+        },
+        {
+            "Name": "OT MASTER112313.94+150241.4",
+            "RA": "11h 23m 13.94s",
+            "Dec": "+15d 02m 41.4s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "21.72434",
+            "Date": "2012-03-21"
+        },
+        {
+            "Name": "OT MASTER134629.13+512244.2",
+            "RA": "13h 46m 29.13s",
+            "Dec": "+51d 22m 44.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": "22.75551",
+            "Date": "2012-03-22"
+        },
+        {
+            "Name": "OT MASTER094545.44+125604.6",
+            "RA": "09h 45m 45.44s",
+            "Dec": "+12d 56m 04.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": "24.53999",
+            "Date": "2012-03-24"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/161812.44362852.8.png; http://master.sai.msu.ru/static/OT/072351.31635526.2.png; http://observ.pereplet.ru/images/MASTER134629.13+512244/MASTER134629.13+512244.jpg; http://master.sai.msu.ru/static/OT/094545.44125604.6.png",
+    "Event Type": "OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "GLOBAL MASTER Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20051020-000",
+            "RA": "04:13:05.51",
+            "Dec": "-25:04:00.5",
+            "redshift": "0.065",
+            "Type": "type Ia supernova",
+            "Time": "20.5 UT",
+            "Date": "Oct 20"
+        },
+        {
+            "Name": "SNF20051023-000",
+            "RA": "02:41:00.24",
+            "Dec": "+16:42:38.2",
+            "redshift": "0.075",
+            "Type": "type Ia supernova",
+            "Time": "23.3 UT",
+            "Date": "Oct 23"
+        }
+    ],
+    "References": "The Nearby Supernova Factory",
+    "Event Type": "discovery of two new type Ia supernovae",
+    "Time": "24.4 UT",
+    "Date": "Oct 24",
+    "Telescope": "Palomar Oschin 48-inch telescope and University of Hawaii 2.2-meter telescope",
+    "Instrument": "QUEST II camera and Supernova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "Palomar-QUEST survey"
+}

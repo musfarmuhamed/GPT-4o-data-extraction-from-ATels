@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17498-2921",
+            "RA": "17:49:55.38",
+            "Dec": "-29:19:19.7",
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "23:41",
+            "Date": "2006-10-29"
+        }
+    ],
+    "References": [
+        "ATels #3351",
+        "#3554",
+        "#3555",
+        "#3558",
+        "Grindlay et al. 2005",
+        "Bozzo et al. 2011, ATel #3358",
+        "Bozzo et al. ATel #3355"
+    ],
+    "Event Type": "archival Chandra observations",
+    "Time": "23:41 - 04:01",
+    "Date": "2006-10-29 to 2006-10-30",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra X-ray Center"
+}

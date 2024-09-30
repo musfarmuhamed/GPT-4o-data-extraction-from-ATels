@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1858+034",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "4-10 keV: 12 \u00b1 5 mCrab",
+            "Date": "2011 November 6 (MJD 55871)"
+        },
+        {
+            "Name": "XTE J1858+034",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "4-10 keV: 24 \u00b1 5 mCrab",
+            "Date": "2011 November 15 (MJD 55880)"
+        },
+        {
+            "Name": "XTE J1858+034",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "2-4 keV: <10 mCrab at 1-sigma upper limit",
+            "Date": "2011 November 6 to 2011 November 15"
+        },
+        {
+            "Name": "XTE J1858+034",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "2010 outburst peak flux: 30 mCrab",
+            "Date": "2010 September 19 (MJD 55458)"
+        }
+    ],
+    "References": [
+        "IAUC 6826",
+        "ATel #274",
+        "ATel #2846"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Ongoing",
+    "Date": "2011 November",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": "MAXI/RIKEN"
+}

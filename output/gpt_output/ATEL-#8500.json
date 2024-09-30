@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray Binary",
+            "Time": "01:43",
+            "Date": "2015-12-29"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray Binary",
+            "Time": "03:04",
+            "Date": "2015-12-31"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray Binary",
+            "Time": "15:43",
+            "Date": "2015-12-31"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray Binary",
+            "Time": "19:41",
+            "Date": "2016-01-02"
+        }
+    ],
+    "References": [
+        "ATel #8475",
+        "CGN circular 18785",
+        "ATel #8494"
+    ],
+    "Event Type": "Flaring Activity",
+    "Time": "01:43",
+    "Date": "2015-12-29",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "ESA"
+}

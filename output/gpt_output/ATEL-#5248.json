@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2155-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.117,
+            "Type": "high-energy peaked BL Lacertae",
+            "Time": "0.3-10 keV",
+            "Date": {
+                "Start": "2013-07-25",
+                "End": "2013-08-03"
+            }
+        },
+        {
+            "Name": "PKS 2155-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.117,
+            "Type": "high-energy peaked BL Lacertae",
+            "Time": "0.3-10 keV",
+            "Date": "2013-07-25"
+        },
+        {
+            "Name": "PKS 2155-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.117,
+            "Type": "high-energy peaked BL Lacertae",
+            "Time": "0.3-10 keV",
+            "Date": "2013-07-31"
+        },
+        {
+            "Name": "PKS 2155-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.117,
+            "Type": "high-energy peaked BL Lacertae",
+            "Time": "0.3-10 keV",
+            "Date": "2013-08-03"
+        }
+    ],
+    "References": "Kapanadze et al. 2013, submitted to the Monthly Notices of Royal Astronomical Society",
+    "Event Type": "X-ray flux increase",
+    "Time": "0.3-10 keV",
+    "Date": "2013-07-25 to 2013-08-03",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift satellite"
+}

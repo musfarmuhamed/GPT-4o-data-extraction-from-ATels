@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20050803-005",
+            "RA": "00:09:34.7",
+            "Dec": "+12:45:21.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "Aug 8.5 UT",
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "Aug 8.5 UT",
+    "Date": null,
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST II camera",
+    "Observatory": "Palomar-QUEST",
+    "Additional Observations": [
+        {
+            "Type": "confirmation",
+            "Time": "Aug 11.5 UT",
+            "Date": null,
+            "Telescope": "Lick 1-m Nickel Reflector",
+            "Instrument": null,
+            "Observatory": "Lick Observatory"
+        }
+    ]
+}

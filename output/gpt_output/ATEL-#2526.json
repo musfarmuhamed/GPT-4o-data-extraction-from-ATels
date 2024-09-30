@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": "17:53:31.89",
+            "Dec": "-23:49:14.8",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:19 - 09:31",
+            "Date": "2010-03-27"
+        }
+    ],
+    "References": [
+        "Chenevez et al. ATel #2505",
+        "Starling & Evans 2008, ATel #1814"
+    ],
+    "Event Type": "near-infrared follow-up observations",
+    "Time": "09:19 - 09:31",
+    "Date": "2010-03-27",
+    "Telescope": "6.5m Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

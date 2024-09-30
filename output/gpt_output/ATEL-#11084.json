@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17nph",
+            "RA": "13:39:36.25",
+            "Dec": "-11:28:55.86",
+            "redshift": 0.008,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 Dec 22 UT"
+        },
+        {
+            "Name": "AT2017ixx",
+            "RA": "07:14:52.73",
+            "Dec": "+49:08:15.20",
+            "redshift": 0.041,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 Dec 22 UT"
+        },
+        {
+            "Name": "ATLAS17nsg",
+            "RA": "07:47:03.03",
+            "Dec": "+26:46:25.77",
+            "redshift": 0.024,
+            "Type": "IIb",
+            "Time": null,
+            "Date": "2017 Dec 22 UT"
+        },
+        {
+            "Name": "ATLAS17nsd",
+            "RA": "10:07:00.81",
+            "Dec": "-14:15:58.38",
+            "redshift": 0.046,
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2017 Dec 22 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2017 Dec 22 UT",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

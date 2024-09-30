@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-013",
+            "RA": "3:53:38.01",
+            "Dec": "-71:45:32.3",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "12:50:39",
+            "Date": "2013-02-13"
+        },
+        {
+            "Name": "OGLE-2013-SN-014",
+            "RA": "3:53:07.78",
+            "Dec": "-71:20:46.6",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "13:36:00",
+            "Date": "2013-02-14"
+        },
+        {
+            "Name": "OGLE-2013-SN-015",
+            "RA": "2:02:21.56",
+            "Dec": "-65:44:08.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "13:36:00",
+            "Date": "2013-02-14"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. ATEL #4495",
+        "Kozlowski et al. 2013"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ax",
+            "RA": "01:31:23.180",
+            "Dec": "+60:19:13.65",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-01-26.23",
+            "Date": "2016-01-26"
+        },
+        {
+            "Name": "2MASX J01312331+6019128",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovery of a new transient source",
+    "Time": "2016-01-26.23",
+    "Date": "2016-01-26",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm quadruple",
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E2mlf",
+            "RA": "00:41:33.40",
+            "Dec": "-43:27:17.2",
+            "redshift": 1.86,
+            "Type": "SLSN",
+            "Time": {
+                "Discovery": "00:00",
+                "Spectrum": [
+                    {
+                        "Time": "00:00"
+                    },
+                    {
+                        "Time": "00:00"
+                    }
+                ]
+            },
+            "Date": {
+                "Discovery": "2015 Nov 07",
+                "Spectrum": [
+                    {
+                        "Date": "2015 Dec 06"
+                    },
+                    {
+                        "Date": "2015 Dec 15"
+                    },
+                    {
+                        "Date": "2015 Dec 12"
+                    },
+                    {
+                        "Date": "2015 Dec 14"
+                    }
+                ]
+            }
+        }
+    ],
+    "References": "ATEL #4668",
+    "Event Type": "Spectroscopic classification",
+    "Time": {
+        "Discovery": "00:00",
+        "Spectrum": "00:00"
+    },
+    "Date": {
+        "Discovery": "2015 Nov 07",
+        "Spectrum": [
+            "2015 Dec 06",
+            "2015 Dec 15",
+            "2015 Dec 12",
+            "2015 Dec 14"
+        ]
+    },
+    "Telescope": [
+        "Gemini-South",
+        "Anglo-Australian Telescope"
+    ],
+    "Instrument": [
+        "GMOS",
+        "AAOmega Spectrograph"
+    ],
+    "Observatory": [
+        "Gemini-South Observatory",
+        "Anglo-Australian Observatory"
+    ]
+}

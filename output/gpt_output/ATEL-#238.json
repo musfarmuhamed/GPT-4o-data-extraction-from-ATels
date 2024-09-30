@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2S 1711-339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "A1744-36",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "17:48:14.47",
+            "Dec": "-36:08:13.6",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "17:48:13.13",
+            "Dec": "-36:07:58.17",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #233",
+        "ATEL #205",
+        "Wilson et al. 2003, ApJ,596,1220",
+        "Bradt & McClintock 1983, ARA&A,21,13",
+        "ATEL #210"
+    ],
+    "Event Type": "Error and Position Update",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

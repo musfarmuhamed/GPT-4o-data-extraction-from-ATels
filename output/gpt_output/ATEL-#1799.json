@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.52,
+            "Dec": -23.86,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": "2008-10-11"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.4,
+            "Dec": -23.82,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": "2008-10-16"
+        },
+        {
+            "Name": "IGR J17536-2339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2006"
+        }
+    ],
+    "References": "in 't Zand et al. 1998, astro-ph/9802304v1, Turler et al. ATEL #790",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2008-10-11",
+    "Telescope": "RXTE, Swift, INTEGRAL",
+    "Instrument": "PCA, BAT, WFC",
+    "Observatory": "BeppoSAX"
+}

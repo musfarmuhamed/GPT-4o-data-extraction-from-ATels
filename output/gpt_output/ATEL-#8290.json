@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.07 UT",
+            "Date": "2015-11-14"
+        }
+    ],
+    "References": [
+        "ATels #8243",
+        "#8242",
+        "#8238",
+        "#8235",
+        "#8234",
+        "#8233",
+        "CBAT TOCP"
+    ],
+    "Event Type": "eruption",
+    "Time": "14.07 UT",
+    "Date": "2015-11-14",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

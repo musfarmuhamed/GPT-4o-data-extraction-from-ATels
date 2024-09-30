@@ -1,0 +1,180 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12bzz",
+            "RA": "10:35:18.70",
+            "Dec": "-04:26:04.2",
+            "redshift": 0.073,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120419"
+        },
+        {
+            "Name": "CSS120416:091631+075020",
+            "RA": "09:16:30.57",
+            "Dec": "+07:50:20.2",
+            "redshift": 0.119,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120416"
+        },
+        {
+            "Name": "CSS120418:113531+054254",
+            "RA": "11:35:31.02",
+            "Dec": "+05:42:54.1",
+            "redshift": 0.103,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120418"
+        },
+        {
+            "Name": "LSQ12bqn",
+            "RA": "08:28:43.49",
+            "Dec": "-09:04:25.7",
+            "redshift": 0.091,
+            "Type": "Ic?",
+            "Time": "unknown",
+            "Date": "20120402"
+        },
+        {
+            "Name": "LSQ12bxw",
+            "RA": "11:05:18.02",
+            "Dec": "-08:34:53.0",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120416"
+        },
+        {
+            "Name": "LSQ12bnb",
+            "RA": "11:48:27.79",
+            "Dec": "-02:27:46.1",
+            "redshift": 0.085,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120331"
+        },
+        {
+            "Name": "CSS120416:131835+213833",
+            "RA": "13:18:35.23",
+            "Dec": "+21:38:33.2",
+            "redshift": 0.063,
+            "Type": "IIP",
+            "Time": "unknown",
+            "Date": "20120416"
+        },
+        {
+            "Name": "LSQ12bov",
+            "RA": "13:57:10.44",
+            "Dec": "+16:17:07.8",
+            "redshift": 0.063,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120331"
+        },
+        {
+            "Name": "CSS120419:143825+175814",
+            "RA": "14:38:25.29",
+            "Dec": "+17:58:14.1",
+            "redshift": 0.179,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120419"
+        },
+        {
+            "Name": "LSQ12bpc",
+            "RA": "14:48:53.50",
+            "Dec": "+15:36:53.3",
+            "redshift": 0.05,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120331"
+        },
+        {
+            "Name": "LSQ12bqd",
+            "RA": "13:11:38.16",
+            "Dec": "-16:23:46.0",
+            "redshift": 0.041,
+            "Type": "IIn",
+            "Time": "unknown",
+            "Date": "20120329"
+        },
+        {
+            "Name": "LSQ12bjm",
+            "RA": "14:07:53.88",
+            "Dec": "-12:46:16.7",
+            "redshift": 0.053,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120321"
+        },
+        {
+            "Name": "LSQ12bjw",
+            "RA": "14:12:28.73",
+            "Dec": "-16:35:33.4",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120322"
+        },
+        {
+            "Name": "LSQ12caf",
+            "RA": "16:18:24.36",
+            "Dec": "-04:08:57.1",
+            "redshift": 0.095,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120419"
+        },
+        {
+            "Name": "LSQ12byu",
+            "RA": "12:16:05.88",
+            "Dec": "+09:38:07.1",
+            "redshift": 0.34,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "20120417"
+        },
+        {
+            "Name": "CSS120415:170824+030104",
+            "RA": "17:08:24.35",
+            "Dec": "+03:01:03.5",
+            "redshift": 0.077,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120415"
+        },
+        {
+            "Name": "SSS120420:204522-504405",
+            "RA": "20:45:22.09",
+            "Dec": "-50:44:05.2",
+            "redshift": 0.013,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120420"
+        },
+        {
+            "Name": "CSS120418:125049+222228",
+            "RA": "12:50:48.51",
+            "Dec": "+22:22:28.3",
+            "redshift": 0.072,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20120418"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "http://crts.caltech.edu/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2012 April 21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EO102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP 46.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0059.2-7138",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J0057-720",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Suzuki et al., ATEL #5925",
+        "Sturm et al., ATEL #2876",
+        "Krimm et al., ATELs #5756 and #5773",
+        "Coe et al., ATEL #5766"
+    ],
+    "Event Type": "target of opportunity observations",
+    "Time": "16:44UT",
+    "Date": "February 27th, 2013",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": null
+}

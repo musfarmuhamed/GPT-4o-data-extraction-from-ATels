@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J184546.55-352847.6",
+            "RA": "18h 45m 46.55s",
+            "Dec": "-35d 28m 47.6s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "01:35:41UT",
+            "Date": "2017-03-28"
+        },
+        {
+            "Name": "MASTER OT J184546.55-352847.6",
+            "RA": "18h 45m 46.55s",
+            "Dec": "-35d 28m 47.6s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "01:42:14UT",
+            "Date": "2017-03-28"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L; https://gcn.gsfc.nasa.gov/other/512353690.fermi",
+    "Event Type": "possibly Fermi trigger 512353690/GRB170328A counterpart detection",
+    "Time": "00:28:05.53",
+    "Date": "2017-03-28",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

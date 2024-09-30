@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01101191+3313536",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.018",
+            "Type": "Type IIb SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J02331624+1915252",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0135",
+            "Type": "Type IIn or AGN (favored: SN IIn)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, Ap.J. 666, 1024",
+        "Silverman et al. 2012, MNRAS, 425, 1789",
+        "Liu & Modjaz, 2014, arXiv:1405.1437",
+        "Kankare et al. 2012, MNRAS, 424, 855",
+        "ATel #7940"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": "August 24, 2015",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

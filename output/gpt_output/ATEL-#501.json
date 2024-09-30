@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1852+0040",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1210-5226",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": 2000
+        },
+        {
+            "Name": "Kes 79",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1209-51/52",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gotthelf et al. (astro-ph/0503424)",
+        "Taylor et al. 1995, unpublished data",
+        "Gotthelf et al. 2005",
+        "Zavlin et al. (ApJ 540, L25)"
+    ],
+    "Event Type": "radio pulses detection",
+    "Time": null,
+    "Date": "April-May 2005",
+    "Telescope": "Large Phased Array",
+    "Instrument": "multi-channel receiver",
+    "Observatory": "Pushchino Radio Astronomy Observatory (PRAO, Russia)"
+}

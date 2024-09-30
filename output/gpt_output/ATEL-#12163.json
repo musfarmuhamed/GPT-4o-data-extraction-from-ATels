@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1858.6-0814",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:32 UT",
+            "Date": "October 27"
+        },
+        {
+            "Name": "Swift J1858.6-0814",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "02:25",
+            "Date": "October 30"
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #12151",
+        "Ludlum et al. ATel #12158",
+        "Kennea et al. ATel #12160"
+    ],
+    "Event Type": "X-ray transient activity investigation",
+    "Time": null,
+    "Date": "October 9 onwards",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

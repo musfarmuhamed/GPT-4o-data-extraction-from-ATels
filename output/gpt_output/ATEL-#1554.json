@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19112+1358",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-04-24"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-04-24"
+        }
+    ],
+    "References": [
+        "ATel #1489"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2008-04-24",
+    "Telescope": [
+        "INTEGRAL",
+        "RXTE",
+        "Swift"
+    ],
+    "Instrument": [
+        "PCA/PCU2",
+        "XRT"
+    ],
+    "Observatory": null
+}

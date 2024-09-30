@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": null,
+            "Dec": null,
+            "redshift": "<0.1",
+            "Type": "Seyfert galaxy",
+            "Time": null,
+            "Date": "2006-06-29"
+        },
+        {
+            "Name": "IGR J2018+4043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "INTEGRAL source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J20187+4041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "INTEGRAL source",
+            "Time": null,
+            "Date": "2008-04-29"
+        },
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EGRET source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Longo et al. (ATel #1492)",
+        "Kennea et al. (ATel #788)",
+        "Bykov et al. (2006, ApJ, 649, L21)",
+        "Ajello et al., ATel #1497",
+        "Iyudin et al. (2007, A&A, 468, 919)"
+    ],
+    "Event Type": "observation",
+    "Time": "1880 s",
+    "Date": "2008-04-29",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "Swift XRT",
+    "Observatory": null
+}

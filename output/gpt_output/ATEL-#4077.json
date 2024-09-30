@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-47",
+            "RA": "16h 33m 59.6s",
+            "Dec": "-47d 26' 05.6\"",
+            "redshift": null,
+            "Type": "X-ray binary, black-hole candidate",
+            "Time": "15:50:31 UT",
+            "Date": "2012-04-28"
+        },
+        {
+            "Name": "4U 1630-47",
+            "RA": "16h 34m 1.51s",
+            "Dec": "-47d 23' 36.2\"",
+            "redshift": null,
+            "Type": "X-ray binary, black-hole candidate",
+            "Time": "15:57:07.4 UT",
+            "Date": "2012-04-28"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel #3830"
+        },
+        {
+            "Reference": "GCN 13270"
+        },
+        {
+            "Reference": "ATel #3945"
+        },
+        {
+            "Reference": "http://swift.gsfc.nasa.gov/docs/swift/results/transients/weak/4U1630-472/"
+        },
+        {
+            "Reference": "ATel #4075"
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "15:50:31 UT",
+    "Date": "2012-04-28",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Swift"
+}

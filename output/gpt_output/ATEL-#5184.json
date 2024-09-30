@@ -1,0 +1,114 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10 minute",
+            "Date": [
+                {
+                    "Range": "DOY= 40-50",
+                    "Observations": 3,
+                    "Snu": "1.1+/- 0.1 Jy"
+                },
+                {
+                    "Range": "DOY= 50-60",
+                    "Observations": 5,
+                    "Snu": "1.2 +/- 0.3 Jy"
+                },
+                {
+                    "Range": "DOY= 60-70",
+                    "Observations": 7,
+                    "Snu": "1.1+/- 0.2 Jy"
+                },
+                {
+                    "Range": "DOY= 70-80",
+                    "Observations": 4,
+                    "Snu": "1.0+/- 0.2 Jy"
+                },
+                {
+                    "Range": "DOY= 80-90",
+                    "Observations": 7,
+                    "Snu": "1.1+/- 0.2 Jy"
+                },
+                {
+                    "Range": "DOY= 90-100",
+                    "Observations": 6,
+                    "Snu": "1.4+/- 0.3 Jy"
+                },
+                {
+                    "Range": "DOY= 100-110",
+                    "Observations": 7,
+                    "Snu": "1.4+/- 0.2 Jy"
+                },
+                {
+                    "Range": "DOY= 110-120",
+                    "Observations": 3,
+                    "Snu": "1.6+/- 0.4 Jy"
+                },
+                {
+                    "Range": "DOY= 120-130",
+                    "Observations": 7,
+                    "Snu": "1.5+/- 0.4 Jy"
+                },
+                {
+                    "Range": "DOY= 130-140",
+                    "Observations": 2,
+                    "Snu": "1.6+/- 0.1 Jy"
+                },
+                {
+                    "Range": "DOY= 140-150",
+                    "Observations": 6,
+                    "Snu": "1.5+/- 0.5 Jy"
+                },
+                {
+                    "Range": "DOY= 150-160",
+                    "Observations": 8,
+                    "Snu": "1.2+/- 0.1 Jy"
+                },
+                {
+                    "Range": "DOY= 160-170",
+                    "Observations": 2,
+                    "Snu": "1.2+/- 0.3 Jy"
+                },
+                {
+                    "Range": "DOY= 170-180",
+                    "Observations": 4,
+                    "Snu": "1.4+/- 0.2 Jy"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "ATEL#4923",
+        "#5013"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": [
+        "DOY= 40-50",
+        "DOY= 50-60",
+        "DOY= 60-70",
+        "DOY= 70-80",
+        "DOY= 80-90",
+        "DOY= 90-100",
+        "DOY= 100-110",
+        "DOY= 110-120",
+        "DOY= 120-130",
+        "DOY= 130-140",
+        "DOY= 140-150",
+        "DOY= 150-160",
+        "DOY= 160-170",
+        "DOY= 170-180"
+    ],
+    "Telescope": [
+        "Mizusawa 10-m RT",
+        "Takahagi 32-m RT",
+        "Gifu 11-m RT",
+        "Tsukuba 32-m RT"
+    ],
+    "Instrument": null,
+    "Observatory": "Japanese VLBI Network"
+}

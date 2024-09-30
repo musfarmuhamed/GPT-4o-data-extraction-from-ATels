@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00421729+4109444 (M31N 2016-09b, ATel 9552)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": [
+                "27.771 UT",
+                "27.784 UT",
+                "27.802 UT"
+            ],
+            "Date": "2016 Sept"
+        }
+    ],
+    "References": "ATel 9552",
+    "Event Type": "H-alpha observation",
+    "Time": [
+        "27.771 UT",
+        "27.784 UT",
+        "27.802 UT"
+    ],
+    "Date": "2016 Sept",
+    "Telescope": "2m RCC telescope",
+    "Instrument": "focal reducer FoReRo2",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

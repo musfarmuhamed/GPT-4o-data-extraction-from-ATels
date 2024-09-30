@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M 31 nova candidate",
+            "RA": "00 42 45.76",
+            "Dec": "+41 15 57.1",
+            "redshift": "Null",
+            "Type": "FeII group nova",
+            "Time": "09.820 UT",
+            "Date": "2009 Oct 9"
+        },
+        {
+            "Name": "M31N 2009-08a",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Nova",
+            "Time": "09.806 UT",
+            "Date": "2009 Oct 9"
+        },
+        {
+            "Name": "M31N 2009-08e",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Nova",
+            "Time": "09.806 UT",
+            "Date": "2009 Oct 9"
+        }
+    ],
+    "References": "ATel #2234, ATel#2147, ATel#2208, ATel#2213",
+    "Event Type": "Spectrum observation and brightness measurement",
+    "Time": "09.820 UT",
+    "Date": "2009 Oct 9",
+    "Telescope": "Russian 6-m telescope (BTA)",
+    "Instrument": "SCORPIO spectral camera",
+    "Observatory": "Null"
+}

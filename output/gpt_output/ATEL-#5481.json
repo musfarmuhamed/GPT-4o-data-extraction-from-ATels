@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J061335.30+395714.7",
+            "RA": "06h 13m 35.30s",
+            "Dec": "+39d 57m 14.7s",
+            "redshift": null,
+            "Type": "dwarf nova of WZ Sge (UGWZ) type in superoutburst",
+            "Time": "15.72662",
+            "Date": "2013-10-15"
+        },
+        {
+            "Name": "MASTER OT J063943.46+361127.5",
+            "RA": "06h 39m 43.46s",
+            "Dec": "+36d 11m 27.5s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type in outburst",
+            "Time": "15.72884",
+            "Date": "2013-10-15"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J061335+395714-BRIR.jpg, http://master.sai.msu.ru/static/OT/061335.30395714.7.png, http://master.sai.msu.ru/static/OT/063943.46361127.5.jpg",
+    "Event Type": "discovery",
+    "Time": "various times",
+    "Date": "2013-10-15",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": null
+}

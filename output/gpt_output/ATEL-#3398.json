@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J13303600+4706330",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTF11eon",
+            "RA": "13 30 05.08",
+            "Dec": "+47 10 11.2",
+            "redshift": "0.002",
+            "Type": "SN II",
+            "Time": "Jun 01.19",
+            "Date": "Jun 01, 2011"
+        }
+    ],
+    "References": "ATEL #1964, #3253; http://www.astro.caltech.edu/ptf/ ; Law et al. 2009, PASP, 121, 1395; Rau et al. 2009, PASP, 121, 1334; Smith et al. 2011, MNRAS, 412, 1309; http://supernova.galaxyzoo.org; Rush, et al. 1996, ApJ, 473, 130",
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Keck I",
+    "Instrument": "LRIS",
+    "Observatory": "PTF"
+}

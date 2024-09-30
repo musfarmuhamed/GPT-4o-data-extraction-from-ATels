@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ab",
+            "RA": "14:03:06.24",
+            "Dec": "-38:28:29.9",
+            "redshift": null,
+            "Type": "Transient (Supernova)",
+            "Time": "2015-01-02.33",
+            "Date": "2015-01-02"
+        },
+        {
+            "Name": "6dF J1403085-382831",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0178",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "Discovery of a transient source",
+    "Time": "2015-01-02.33",
+    "Date": "2015-01-02",
+    "Telescope": "Cassius telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

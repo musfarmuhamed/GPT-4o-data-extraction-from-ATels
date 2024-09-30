@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14gh",
+            "RA": "17:15:09.35",
+            "Dec": "+41:48:39.3",
+            "redshift": null,
+            "Type": "transient source, most likely a supernova",
+            "Time": "2014-08-28.29",
+            "Date": "2014-08-28"
+        },
+        {
+            "Name": "SDSS J171509.41+414836.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage and the list of all ASAS-SN transients",
+    "Event Type": "discovery of a new transient source, most likely a supernova",
+    "Time": "2014-08-28.29",
+    "Date": "2014-08-28",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

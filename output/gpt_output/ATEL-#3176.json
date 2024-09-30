@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HDE 245770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "O9.7IIIe",
+            "Time": "18:40:40",
+            "Date": "2011-02-05"
+        },
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "2011-02-10"
+        }
+    ],
+    "References": [
+        "Giovannelli et al., 2007, A&A 475, 651",
+        "Giovannelli & Sabau-Graziati (2010, IBWS in Karlovy Vary, Czech Republic)",
+        "Giovannelli & Ziolkowski, 1990, AcA 40, 95",
+        "ATel #3166"
+    ],
+    "Event Type": "Optical Spectrophotometry and Spectroscopy",
+    "Time": "18:40:40 - 19:15:37",
+    "Date": "2011-02-05",
+    "Telescope": "Loiano 1.52 m telescope",
+    "Instrument": "BFOSC (Bologna Faint Object Spectrograph & Camera)",
+    "Observatory": "Loiano Observatory"
+}

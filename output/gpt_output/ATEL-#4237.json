@@ -1,0 +1,90 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V1647 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young eruptive star",
+            "Time": null,
+            "Date": "2008-09-28",
+            "V Magnitude": "18.95+/-0.03",
+            "R Magnitude": "17.01+/-0.01",
+            "I Magnitude": "14.96+/-0.01"
+        },
+        {
+            "Name": "V1647 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young eruptive star",
+            "Time": null,
+            "Date": "2012-01-17",
+            "V Magnitude": "19.21+/-0.04",
+            "R Magnitude": "17.26+/-0.02",
+            "I Magnitude": "15.24+/-0.02"
+        },
+        {
+            "Name": "V1647 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young eruptive star",
+            "Time": null,
+            "Date": "2009-10-24",
+            "J Magnitude": "10.71+/-0.05",
+            "H Magnitude": "8.88+/-0.05",
+            "K Magnitude": "7.44+/-0.02"
+        },
+        {
+            "Name": "V1647 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young eruptive star",
+            "Time": null,
+            "Date": "2011-12-04",
+            "J Magnitude": "11.24+/-0.1",
+            "H Magnitude": "9.25+/-0.1",
+            "K Magnitude": "8.08+/-0.1"
+        }
+    ],
+    "References": [
+        "IAUC #9079",
+        "#9006",
+        "#8969",
+        "#8968",
+        "#8694",
+        "#8681",
+        "#8600",
+        "#8396",
+        "#8354",
+        "#8284",
+        "CBET #2647",
+        "#2104",
+        "#1596",
+        "Ojha et al. 2006, MNRAS, 368, 825",
+        "Aspin et al. 2009, ApJ, 692, L67",
+        "Aspin et al. 2011, AJ, 142, id:135"
+    ],
+    "Event Type": "brightness dimming",
+    "Time": null,
+    "Date": {
+        "Start": "2009",
+        "End": "2012"
+    },
+    "Telescope": [
+        "2-m IUCAA Girawali Telescope",
+        "2-m Himalayan Chandra telescope"
+    ],
+    "Instrument": [
+        "+IFOSC spectrograph",
+        "TIRCAM2",
+        "+HFOSC spectrograph",
+        "NIR camera"
+    ],
+    "Observatory": [
+        "Girawali (Pune)",
+        "Hanle (Ladakh)"
+    ]
+}

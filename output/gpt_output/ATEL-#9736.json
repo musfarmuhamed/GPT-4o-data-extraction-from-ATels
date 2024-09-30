@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ma",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": null,
+            "Date": "2016-10-25"
+        },
+        {
+            "Name": "TCP J18102829-2729590",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1816.2-2726",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unassociated gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9669",
+        "ATel #9678",
+        "ATel #9699"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": null,
+    "Date": "2016-11-08",
+    "Telescope": "Fermi",
+    "Instrument": "LAT",
+    "Observatory": null
+}

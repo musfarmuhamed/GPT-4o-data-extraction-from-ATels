@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient gamma-ray source",
+            "RA": "17:17:34.69",
+            "Dec": "-51:55:31.9",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "April 7, 2012"
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": "17:17:34.691880",
+            "Dec": "-51:55:31.92535",
+            "redshift": null,
+            "Type": "Radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1710.5-5020",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Nolan et al. 2012, ApJS, 199, 31",
+    "Event Type": "Transgamma-ray source detection",
+    "Time": null,
+    "Date": "April 7, 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

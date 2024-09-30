@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J064533.25-425126.4",
+            "RA": "06h 45m 33.25s",
+            "Dec": "-42d 51m 26.4s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "2015-12-06.02329 UT",
+            "Date": "2015-12-06"
+        },
+        {
+            "Name": "PGC556833 (2MASS) galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "discovery",
+    "Time": "2015-12-06.02329 UT",
+    "Date": "2015-12-06",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

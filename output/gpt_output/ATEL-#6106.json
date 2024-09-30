@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J222900.37+263705.8",
+            "RA": "22h 29m 00.37s",
+            "Dec": "+26d 37m 05.8s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (likely dwarf nova of UGSU type)",
+            "Time": "2014-04-27.77581 UT",
+            "Date": "2014-04-27"
+        },
+        {
+            "Name": "SDSS J222900.35+263706.8",
+            "RA": "22h 29m 00.35s",
+            "Dec": "+26d 37m 06.8s",
+            "redshift": null,
+            "Type": "Blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J222900.3+263707",
+            "RA": "22h 29m 00.3s",
+            "Dec": "+26d 37m 07s",
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS J222900.3+263708",
+            "RA": "22h 29m 00.3s",
+            "Dec": "+26d 37m 08s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS130605:222900+263430",
+            "RA": "22h 29m 00s",
+            "Dec": "+26d 34m 30s",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J130303.20+243356.1",
+            "RA": "13h 03m 03.20s",
+            "Dec": "+24d 33m 56.1s",
+            "redshift": "0.993",
+            "Type": "Blazar",
+            "Time": "2014-04-28.64228 UT",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "2FGL J1303.1+2435",
+            "RA": "13h 03m 03.1s",
+            "Dec": "+24d 35m 00s",
+            "redshift": "0.993",
+            "Type": "Gamma-ray loud blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "FIRST J130303.2+243355",
+            "RA": "13h 03m 03.2s",
+            "Dec": "+24d 33m 55s",
+            "redshift": "0.993",
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J130303.21+243355.6",
+            "RA": "13h 03m 03.21s",
+            "Dec": "+24d 33m 55.6s",
+            "redshift": "0.993",
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J130303.21+243355.7",
+            "RA": "13h 03m 03.21s",
+            "Dec": "+24d 33m 55.7s",
+            "redshift": "0.993",
+            "Type": "Infrared detection",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/222900.37263705.8.png, http://master.sai.msu.ru/static/OT/130303.20243356.1.png",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur, MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

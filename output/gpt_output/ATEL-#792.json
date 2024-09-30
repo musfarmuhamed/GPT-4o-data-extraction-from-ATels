@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "A5-A7 supergiant",
+            "Time": "06.05 UT",
+            "Date": "April",
+            "Details": "The spectra show numerous absorption lines (HI, FeII, CaII). Emission seen in the spectrum includes P-Cygni component of H-alpha."
+        },
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": "07.05 UT",
+            "Date": "April",
+            "Details": "Estimate of V=8.80 mag."
+        },
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": "07.10 UT",
+            "Date": "April",
+            "Details": "Spectra show all HI lines from H-alpha to H8 in emission with weak absorption components. Wide blends of NII 6168A + OI 6157A and possibly 74rd multiplet of FeII seen as emissions with weak absorption components. H-alpha emission is the strongest line."
+        },
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": "08.06 UT",
+            "Date": "April",
+            "Details": "Spectra similar to those of April 7.10 UT. H-alpha emission component intensity is 3.2 times continuum, H-beta 2.5. Absorption components of H-alpha show RV of -800 and -1795 km/s."
+        }
+    ],
+    "References": "Niedzielski et al. 2003 AcA 53, 281, Allen 1973, Astrophysical Quantities",
+    "Event Type": "Optical spectral observations and V brightness estimate",
+    "Time": "April 6.05 UT - April 8.06 UT",
+    "Date": "April 6th to April 8th",
+    "Telescope": "60/90 cm Schmidt-Cassegrain",
+    "Instrument": "SAVS camera",
+    "Observatory": "Nicolaus Copernicus University Observatory in Piwnice"
+}

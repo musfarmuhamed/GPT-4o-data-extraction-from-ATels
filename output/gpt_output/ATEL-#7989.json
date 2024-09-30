@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15oz",
+            "RA": "19:19:33.49",
+            "Dec": "-33:46:02",
+            "redshift": "0.006929",
+            "Type": "supernova",
+            "Time": "2015-08-31.09",
+            "Date": "2015-08-31"
+        },
+        {
+            "Name": "HIPASS J1919-33",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006929",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-08-31.09",
+    "Date": "2015-08-31",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

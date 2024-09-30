@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ287",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "2456730.27541",
+                "2456731.25835",
+                "2456737.30408",
+                "2456738.36951",
+                "2456739.27900",
+                "2456742.32245",
+                "2456743.26370",
+                "2456744.25108",
+                "2456744.36149",
+                "2456745.41507",
+                "2456746.29703",
+                "2456746.32228",
+                "2456747.39331"
+            ],
+            "Date": [
+                "mid March",
+                "March 27th",
+                "March 30th"
+            ]
+        }
+    ],
+    "References": "Fiorucci & Tosti (A&AS 116, 403, 1996)",
+    "Event Type": "rapid changes of brightness",
+    "Time": [
+        "mid March",
+        "March 27th",
+        "March 30th"
+    ],
+    "Date": [
+        "mid March",
+        "March 27th",
+        "March 30th"
+    ],
+    "Telescope": [
+        "small telescopes",
+        "PROPMT telescope"
+    ],
+    "Instrument": "wide band R filter",
+    "Observatory": [
+        "Astronomical Observatory of the Jagiellonian University (KRK)",
+        "Mt. Suhora Observatory of the Pedagogical University (SUH)",
+        "PROPMT telescope in Chile"
+    ]
+}

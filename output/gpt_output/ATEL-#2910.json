@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 2247+381",
+            "RA": "22 50 06.6",
+            "Dec": "+38 25 58",
+            "redshift": "0.1187",
+            "Type": "High Frequency peaking BL Lac object",
+            "Time": "9.3 hour-long observation",
+            "Date": "2010 September 30th, October 1st, 2nd, 4th, 5th, 6th"
+        },
+        {
+            "Name": "1FGL J2250.1+3825",
+            "RA": "22 50 06.6",
+            "Dec": "+38 25 58",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tuorla blazar monitoring program (http://users.utu.fi/kani/1m/B3_2247+381.html)",
+    "Event Type": "discovery of Very High Energy (VHE; >100 GeV) gamma-ray emission",
+    "Time": "9.3 hour-long observation",
+    "Date": "2010 September 30th, October 1st, 2nd, 4th, 5th and 6th",
+    "Telescope": "two 17m diameter imaging Cherenkov telescopes",
+    "Instrument": null,
+    "Observatory": "La Palma, Canary Islands, Spain"
+}

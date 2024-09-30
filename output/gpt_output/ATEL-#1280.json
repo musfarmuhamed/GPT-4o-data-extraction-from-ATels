@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova",
+            "RA": "23:54:12.98",
+            "Dec": "+27:24:33.4",
+            "redshift": "undetermined",
+            "Type": "Ia",
+            "Time": "17.4",
+            "Date": "Nov 13.17 UT"
+        },
+        {
+            "Name": "Supernova",
+            "RA": "23:54:12.98",
+            "Dec": "+27:24:33.4",
+            "redshift": "undetermined",
+            "Type": "Ia",
+            "Time": "17.0",
+            "Date": "Nov 14.12 UT"
+        }
+    ],
+    "References": "ATEL #1241",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "Nov 13.17 UT",
+    "Telescope": "0.45m ROTSE-IIIb telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "McDonald Observatory, Texas"
+}

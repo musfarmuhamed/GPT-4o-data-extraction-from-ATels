@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19294+1816",
+            "RA": 292.42,
+            "Dec": 18.28,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "11:56 UT to 17:43 UT",
+            "Date": "2009-03-27"
+        },
+        {
+            "Name": "2E 1927.5+1805",
+            "RA": 292.44,
+            "Dec": 18.2,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SIMBAD, McDowell 1994",
+    "Event Type": "detection",
+    "Time": "11:56 UT to 17:43 UT",
+    "Date": "2009-03-27",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI and JEM-X",
+    "Observatory": "INTEGRAL gamma-ray observatory"
+}

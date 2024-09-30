@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[HB89] 0805-077",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.837",
+            "Type": "Blazar",
+            "Time": "May 15th, 2016",
+            "Date": "JD2457523.6334"
+        },
+        {
+            "Name": "CGRaBS J0898-751",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.837",
+            "Type": "Blazar",
+            "Time": "May 15th, 2016",
+            "Date": "JD2457523.6334"
+        },
+        {
+            "Name": "2FGLJ0808.2-0751",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.837",
+            "Type": "Gamma ray source",
+            "Time": "May 15th, 2016",
+            "Date": "JD2457523.6334"
+        }
+    ],
+    "References": [
+        "2mass NIR survey"
+    ],
+    "Event Type": "NIR Flaring event",
+    "Time": "May 15th, 2016",
+    "Date": "JD2457523.6334",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

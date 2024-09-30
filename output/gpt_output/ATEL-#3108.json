@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ12580+0134",
+            "RA": 194.5212,
+            "Dec": 1.5738,
+            "redshift": null,
+            "Type": "Seyfert 2 galaxy",
+            "Time": null,
+            "Date": "2011 January 2 to 11"
+        },
+        {
+            "Name": "NGC 4845",
+            "RA": 194.5048,
+            "Dec": 1.5753,
+            "redshift": null,
+            "Type": "Seyfert 2 galaxy",
+            "Time": null,
+            "Date": "2011 January 13"
+        }
+    ],
+    "References": [
+        "INTEGRAL",
+        "Swift XRT"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": [
+        "2011 January 2 to 11",
+        "2011 January 13"
+    ],
+    "Telescope": [
+        "INTEGRAL",
+        "Swift XRT"
+    ],
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEMX",
+        "Swift XRT TOO"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ey/MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "March 2019"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "September 17th"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "T21:23:57",
+            "Date": "September 17th"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "September 22nd"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "T03:34:57",
+            "Date": "September 22nd"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "September 25th"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "T01:45:57",
+            "Date": "September 25th"
+        }
+    ],
+    "References": [
+        "ATel #11820",
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #12057",
+        "ATel #12061"
+    ],
+    "Event Type": "outburst phase",
+    "Time": null,
+    "Date": "March 2019",
+    "Telescope": [
+        "MAXI",
+        "AMI",
+        "MAXI/GSC",
+        "Swift"
+    ],
+    "Instrument": [
+        "MAXI alerts",
+        "Swift/XRT"
+    ],
+    "Observatory": null
+}

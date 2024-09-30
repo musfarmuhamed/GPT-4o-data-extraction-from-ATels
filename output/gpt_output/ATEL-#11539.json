@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRS1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11439",
+        "ATel #11533",
+        "ATel #10459"
+    ],
+    "Event Type": "Monitoring",
+    "Time": null,
+    "Date": {
+        "Start": "MJD 58195",
+        "End": "MJD 58225"
+    },
+    "Telescope": "RATAN-600",
+    "Instrument": null,
+    "Observatory": null
+}

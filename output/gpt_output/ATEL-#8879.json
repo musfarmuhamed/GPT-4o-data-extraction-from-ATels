@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2023-07",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.388,
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00 UT",
+            "Date": [
+                "2016-03-25",
+                "2016-03-27"
+            ]
+        }
+    ],
+    "References": [
+        "Drinkwater et al. 1997, MNRAS, 284, 85",
+        "ATel #2175"
+    ],
+    "Event Type": "flaring gamma-ray activity",
+    "Time": "12:00 UT",
+    "Date": [
+        "2016-03-25",
+        "2016-03-27"
+    ],
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

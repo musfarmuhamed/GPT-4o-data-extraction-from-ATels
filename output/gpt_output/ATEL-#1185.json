@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1810.8-2609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient LMXB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN 6706",
+        "GCN 6707",
+        "ATel #1175",
+        "ATel #1005"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": "Aug. 19, 2007",
+    "Telescope": [
+        "IBIS/ISGRI",
+        "XRT"
+    ],
+    "Instrument": null,
+    "Observatory": "INTEGRAL, Swift"
+}

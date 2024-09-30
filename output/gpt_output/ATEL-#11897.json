@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB180728A",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.042,
+            "Type": "SN Type Ic",
+            "Time": "21:43:21",
+            "Date": "2018-07-28"
+        },
+        {
+            "Name": "GRB180728A Ca II 4393 & 4434\u212b",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.117,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Starling et al., GCN#23046",
+        "Lipunov et al., GCN#23048",
+        "Lipunov et al., GCN#23050",
+        "Rossi et al., GCN#23055"
+    ],
+    "Event Type": "Spectroscopy",
+    "Time": "21:43:21",
+    "Date": "2018-07-28",
+    "Telescope": "SALT",
+    "Instrument": "Robert Stobie Spectrograph (RSS)",
+    "Observatory": "SALT"
+}

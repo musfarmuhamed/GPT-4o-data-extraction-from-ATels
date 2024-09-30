@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN 2009ip-like transient",
+            "Time": "2016 Sep 4.6 UT",
+            "Date": "2016-09-04"
+        },
+        {
+            "Name": "SN 2016cvk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn-pec",
+            "Time": "2016 Sep 4.6 UT",
+            "Date": "2016-09-04"
+        }
+    ],
+    "References": [
+        "ATel #9439",
+        "#9445",
+        "http://wis-tns.weizmann.ac.il/object/2016cvk"
+    ],
+    "Event Type": "Observation",
+    "Time": "2016 Sep 4.6 UT",
+    "Date": "2016-09-04",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": "CSIRO"
+}

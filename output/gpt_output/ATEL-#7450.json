@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15hy",
+            "RA": "20:10:02.35",
+            "Dec": "-00:44:21.31",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2015-04-25.210",
+            "Date": "2015-04-25"
+        },
+        {
+            "Name": "ASASSN-15hz",
+            "RA": "22:29:38.08",
+            "Dec": "-65:27:56.24",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2015-04-26.38",
+            "Date": "2015-04-26"
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients",
+        "Mt. Cuba Astronomical Foundation"
+    ],
+    "Event Type": "discovery",
+    "Time": "Ongoing",
+    "Date": null,
+    "Telescope": "14-cm \"Cassius\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

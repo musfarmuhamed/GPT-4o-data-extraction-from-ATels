@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16358-4726",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "K or M spectral type, giant",
+            "Time": "Service mode",
+            "Date": "2007 April 5th"
+        },
+        {
+            "Name": "2MASS J16355369-4725398",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16393-4643",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "K or M spectral type, giant",
+            "Time": "Service mode",
+            "Date": "2007 April 5th"
+        },
+        {
+            "Name": "2MASS J16390535-4642137",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Kouveliotou et al.",
+            "Year": 2003,
+            "Reference": "IAUC 8109"
+        },
+        {
+            "Authors": "Bodaghee et al.",
+            "Year": 2006,
+            "Reference": "A&A 447, 1027"
+        },
+        {
+            "Authors": "Chaty et al.",
+            "Year": 2008,
+            "Reference": "arXiv:0802.1774"
+        }
+    ],
+    "Event Type": "Ks band spectroscopy",
+    "Time": "Service mode",
+    "Date": "2007 April 5th",
+    "Telescope": "UT1 at Paranal",
+    "Instrument": "ISAAC spectrograph",
+    "Observatory": "ESO"
+}

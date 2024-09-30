@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15rq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "Ia",
+            "Time": "09:07:42",
+            "Date": "2015-10-24"
+        },
+        {
+            "Name": "SN 2004dt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Brimacombe et al. 2015, ATEL#8202",
+        "Lyman et al. 2015, ATEL#8206",
+        "Brown et al 2014, Ap&SS, 354, 89, arXiv:1407.3808",
+        "Poole et al. 2008",
+        "Breeveld et al. 2011",
+        "Lyman et al. 2015",
+        "Altavilla et al. 2007",
+        "Wang et al. 2012",
+        "Brown 2014"
+    ],
+    "Event Type": "observation",
+    "Time": "09:07:42",
+    "Date": "2015-10-24",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

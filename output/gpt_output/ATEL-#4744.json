@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SSS130101:122222-311525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "WZ Sge-type dwarf nova (proposed)",
+            "Time": "various times including 60 sec, 20 min, 15 seconds, and 30 seconds",
+            "Date": [
+                "Dec 16, 2012",
+                "Jan 1, 2013",
+                "Jan 4, 2013",
+                "Jan 5, 2013",
+                "Jan 10, 2013",
+                "Jan 16, 2013",
+                "Jan 17, 2013"
+            ]
+        }
+    ],
+    "References": [
+        "ATel#4699",
+        "ATel#4700",
+        "ATel#4716",
+        "ATel#4704",
+        "vsnet-alert 15248"
+    ],
+    "Event Type": "Re-brightening and detection of photometric modulation",
+    "Time": "various times including 60 sec, 20 min, 15 seconds, and 30 seconds",
+    "Date": [
+        "Dec 16, 2012",
+        "Jan 1, 2013",
+        "Jan 4, 2013",
+        "Jan 5, 2013",
+        "Jan 10, 2013",
+        "Jan 16, 2013",
+        "Jan 17, 2013"
+    ],
+    "Telescope": "0.35-m Celestron C14 robotic telescope",
+    "Instrument": "SBIG ST-10XME CCD camera with Johnson-Cousins BVRI Astrodon Photometric filters",
+    "Observatory": "New Mexico Skies, Mayhill, New Mexico"
+}

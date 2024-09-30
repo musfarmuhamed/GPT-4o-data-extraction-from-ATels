@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J183012.04+093342.6",
+            "RA": "18h 30m 12.04s",
+            "Dec": "+09d 33m 42.6s",
+            "redshift": null,
+            "Type": "slow red variable",
+            "Time": "2013-04-22.73760 UT",
+            "Date": "2013-04-22"
+        },
+        {
+            "Name": "MASTER OT J011613.54+640832.0",
+            "RA": "01h 16m 13.54s",
+            "Dec": "+64d 08m 32.0s",
+            "redshift": null,
+            "Type": "new R CrB variable",
+            "Time": "2013-04-26.69067 UT",
+            "Date": "2013-04-26"
+        },
+        {
+            "Name": "MASTER OT J200748.53+592237.8",
+            "RA": "20h 07m 48.53s",
+            "Dec": "+59d 22m 37.8s",
+            "redshift": null,
+            "Type": "CV or PSN",
+            "Time": "2013-04-27.82855 UT",
+            "Date": "2013-04-27"
+        }
+    ],
+    "References": [
+        "Palomar plates USNO-B1.0 0995-0363063",
+        "IRAS 18278+0931",
+        "2MASS 18301210+0933425",
+        "Optical/near-IR atlas of OH/IR stars (Jimenez-Esteban et al., 2005)",
+        "OH observations of Arecibo OH/IR stars (Lewis, 1997)",
+        "Catalogue enriched with R CrB stars (Tisserand, 2012)",
+        "USNO-B catalog",
+        "SDSS DR7",
+        "SDSS DR8"
+    ],
+    "Event Type": "detection",
+    "Time": "2013-04-22.73760 UT",
+    "Date": "2013-04-22",
+    "Telescope": "MASTER-Amur, MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

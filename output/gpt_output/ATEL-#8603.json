@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004514.13+420007.2",
+            "RA": "00h 45m 14.13s",
+            "Dec": "+42d 00m 07.2s",
+            "redshift": null,
+            "Type": "possible Nova",
+            "Time": "81439",
+            "Date": "2016-01-28"
+        }
+    ],
+    "References": {
+        "Publication": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+        "Image Date": "2015-07-21",
+        "Image Time": "12653",
+        "Image URL": "http://master.sai.msu.ru/static/OT/004514.13420007.2.png"
+    },
+    "Event Type": "discovery",
+    "Time": "81439",
+    "Date": "2016-01-28",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0641-0317",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "transient",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "PMN J0641-0320",
+            "RA": "06h 41m 51.5s",
+            "Dec": "-03d 20' 49.2\"",
+            "redshift": "Null",
+            "Type": "bright flat-spectrum radio source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #6098",
+    "Event Type": "target of opportunity observation",
+    "Time": "3 ks",
+    "Date": "April 24, 2014",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": "Null"
+}

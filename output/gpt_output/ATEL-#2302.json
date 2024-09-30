@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": null,
+            "Date": "2009 Nov 15"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "2009 Nov 17, MJD=55152.17+/-0.02",
+            "Date": "2009 Nov 17"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "2009 Nov 17 (MJD=55152.072 +/- 0.009)",
+            "Date": "2009 Nov 17"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "2009 Nov 14 (55149.0796 +/- 0.009)",
+            "Date": "2009 Nov 14"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "2009 Nov 16 - Nov 17",
+            "Date": "2009 Nov 16"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "2009 Nov 17 (MJD=55152.00 +/- 0.04)",
+            "Date": "2009 Nov 17"
+        }
+    ],
+    "References": [
+        "Linares et al., ATEL #2288",
+        "Rodriguez et al. ATEL #2299"
+    ],
+    "Event Type": "transition from hard (extreme island) state to soft (banana) state",
+    "Time": "2009 Nov 15",
+    "Date": "2009 Nov 15",
+    "Telescope": [
+        "RXTE PCA",
+        "VLA",
+        "VLBA",
+        "FanCam",
+        "PAIRITEL"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "University of Virginia",
+        "Smithsonian Astrophysical Observatory (SAO)"
+    ]
+}

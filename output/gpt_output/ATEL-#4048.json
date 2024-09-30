@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1717-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "N/A",
+            "Date": "April 7, 2012"
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "N/A",
+            "Date": "N/A"
+        }
+    ],
+    "References": [
+        "ATel #4023",
+        "ATels #4029, #4032, #4042, #4045",
+        "Wright et al. 1994 ApJS 91, 111"
+    ],
+    "Event Type": "flare",
+    "Time": "21:00 - 22:00 UT",
+    "Date": "April 16, 2012",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": "CABB",
+    "Observatory": "Australia Telescope Compact Array (ATCA)"
+}

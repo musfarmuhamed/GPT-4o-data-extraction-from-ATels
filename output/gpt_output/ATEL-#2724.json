@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": [
+                "14:06:17",
+                "18:27:40",
+                "14:58:39",
+                "16:35:00",
+                "18:11:21"
+            ],
+            "Date": "2010-07-02"
+        }
+    ],
+    "References": [
+        "MAXI/GSC (ATel #2711)",
+        "RXTE/ASM (ATel #2714)",
+        "Zdziarski et al., ApJ, 578, 357 (2002)",
+        "Malzac et al., Procs. ESA SP-604 (2006)",
+        "Belloni et al., ApJ, 472, L107, 1996"
+    ],
+    "Event Type": "spectral softening",
+    "Time": "14:06:17 to 18:27:40",
+    "Date": "2010-07-02",
+    "Telescope": "SWIFT",
+    "Instrument": "XRT",
+    "Observatory": null
+}

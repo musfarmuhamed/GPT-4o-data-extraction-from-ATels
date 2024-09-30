@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 590 (NGC 0863)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026385,
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18pb (AT 2018djd)",
+            "RA": "02:14:33.986",
+            "Dec": "-00:45:55.60",
+            "redshift": 0.026385,
+            "Type": "Transient (likely supernova)",
+            "Time": "2018-07-12.36",
+            "Date": "2018-07-12"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "J. Brimacombe"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2018-07-12.36",
+    "Date": "2018-07-12",
+    "Telescope": [
+        "Brutus",
+        "Payne-Gaposchkin",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

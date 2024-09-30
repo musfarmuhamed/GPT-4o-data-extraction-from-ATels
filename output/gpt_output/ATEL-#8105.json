@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15py",
+            "RA": "08:05:19.50",
+            "Dec": "+22:57:49.59",
+            "redshift": "z=0.045",
+            "Type": "SN Ia",
+            "Time": "whole night",
+            "Date": "2015 September 29"
+        },
+        {
+            "Name": "ASASSN-15pz",
+            "RA": "03:08:48.443",
+            "Dec": "-35:13:50.89",
+            "redshift": "z=0.015",
+            "Type": "SN Ia",
+            "Time": "whole night",
+            "Date": "2015 September 29"
+        }
+    ],
+    "References": "Shappee et al. 2014, ApJ, 788, 48; Blondin & Tonry, 2007, ApJ, 666, 1024;",
+    "Event Type": "supernova classifications",
+    "Time": "whole night",
+    "Date": "2015 September 29",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC, grism 4",
+    "Observatory": "Nordic Optical Telescope Observatory"
+}

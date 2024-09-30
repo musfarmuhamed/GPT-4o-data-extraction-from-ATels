@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2018 Jan 05.832 UT",
+            "Date": "2018-01-05"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2018 Jan 06.069 UT",
+            "Date": "2018-01-06"
+        }
+    ],
+    "References": [
+        "ATels #11116",
+        "#11117",
+        "#11118",
+        "#11121",
+        "#11124",
+        "#11125",
+        "#11126",
+        "#11133",
+        "Henze et al. 2014, 2015a, 2015b",
+        "Darnley et al. 2014, 2015, 2016",
+        "Keel et al. 2017"
+    ],
+    "Event Type": "2017 eruption",
+    "Time": "2018 Jan 05.0 UT - Jan 06.5 UT",
+    "Date": "2018-01-05 to 2018-01-06",
+    "Telescope": "0.96 m and 1.0 SARA telescopes",
+    "Instrument": "ARC CCD camera",
+    "Observatory": "Kitt Peak National Observatory (SARA-KPNO), Arizona and Roque de los Muchachos, La Palma, Spain (SARA-ORM)"
+}

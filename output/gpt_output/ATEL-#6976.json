@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235652.57-580509.1",
+            "RA": "23h 56m 52.57s",
+            "Dec": "-58d 05m 09.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "19:56:23",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "GALEX J235652.7-580509",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quiescent UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J235652.67-580509.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., 2010, Advances in Astronomy, article id. 349171, pp. 1-7",
+    "Event Type": "discovery",
+    "Time": "2015-01-21 20:02:26",
+    "Date": "2015-01-21",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

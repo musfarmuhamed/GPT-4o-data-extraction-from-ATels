@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16C3bq",
+            "RA": "03:32:23.33",
+            "Dec": "-28:47:40.1",
+            "redshift": 0.237,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 25"
+        },
+        {
+            "Name": "DES16E2aoh",
+            "RA": "00:38:43.88",
+            "Dec": "-43:29:12.1",
+            "redshift": 0.403,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 25"
+        },
+        {
+            "Name": "DES16X3aqd",
+            "RA": "02:24:47.89",
+            "Dec": "-04:46:50.1",
+            "redshift": 0.033,
+            "Type": "II-P",
+            "Time": null,
+            "Date": "2016 Sep 25"
+        },
+        {
+            "Name": "DES16X3biz",
+            "RA": "02:22:57.55",
+            "Dec": "-04:18:45.8",
+            "redshift": 0.24,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 25"
+        },
+        {
+            "Name": "DES16C2aiy",
+            "RA": "03:36:11.95",
+            "Dec": "-28:33:38.1",
+            "redshift": 0.182,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 26"
+        },
+        {
+            "Name": "DES16C2ma",
+            "RA": "03:34:32.97",
+            "Dec": "-29:30:40.0",
+            "redshift": 0.24,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 26"
+        },
+        {
+            "Name": "DES16X1ge",
+            "RA": "02:16:30.84",
+            "Dec": "-04:37:51.9",
+            "redshift": 0.25,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 26"
+        },
+        {
+            "Name": "DES16X2auj",
+            "RA": "02:23:02.92",
+            "Dec": "-05:49:47.0",
+            "redshift": 0.144,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Sep 27"
+        }
+    ],
+    "References": "ATEL #4668, Saunders et al. 2004, SPIE, 5492, 389, Blondin & Tonry, 2007, ApJ, 666, 1024, Howell and Wang, 2002, BAAS, 34, 1256",
+    "Event Type": "supernovae classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Anglo-Australian Telescope",
+    "Instrument": "AAOmega Spectrograph",
+    "Observatory": "Anglo-Australian Telescope"
+}

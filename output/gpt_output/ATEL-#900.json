@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": "17h 49m 38.1s",
+            "Dec": "-28d 21m 16.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": "4 occasions",
+            "Date": "Sept 19th, 2006 to Sept 26th, 2006"
+        }
+    ],
+    "References": [
+        "Soldi et al., ATEL #885",
+        "Walter et al., ATEL #889",
+        "Chaty et al., ATEL #897",
+        "Burrows et al., GCN #5628"
+    ],
+    "Event Type": "Observation",
+    "Time": "since being initially detected on Sept 17th, 2006",
+    "Date": "Sept 19th, 2006 to Sept 26th, 2006",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

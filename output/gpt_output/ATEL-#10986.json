@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-11d",
+            "RA": "00h42m43.28s",
+            "Dec": "+41d17m15.2s",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "17.67 UT",
+            "Date": "2017-11-17"
+        },
+        {
+            "Name": "M31N 2017-11e",
+            "RA": "00h43m04.19s",
+            "Dec": "+41d15m15.5s",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "17.63 UT",
+            "Date": "2017-11-17"
+        }
+    ],
+    "References": "ATel #10955, ATel #10978, ATel #10981",
+    "Event Type": "optical spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian BTA telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J21247+5058",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "INTEGRAL source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4C 50.55",
+            "RA": "21h24m39.3s",
+            "Dec": "+50d58'26\"",
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 21243932+5058259",
+            "RA": "21h24m39.32784s",
+            "Dec": "+50d58'25.9284\"",
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #229",
+        "NVSS contour plot",
+        "K-band 2MASS plot",
+        "USNO B1.0 catalog"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

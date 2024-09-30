@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic micro-quasar",
+            "Time": "19.495 UT",
+            "Date": "2008-12-19"
+        },
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic micro-quasar",
+            "Time": "20.039 UT",
+            "Date": "2008-12-20"
+        }
+    ],
+    "References": [
+        "http://www.ncra.tifr.res.in/~spal/cygx3_dec08/c3_lc_2008dec.png",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/CygX-3/"
+    ],
+    "Event Type": "flaring activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RATAN",
+    "Instrument": null,
+    "Observatory": null,
+    "Additional Observations": {
+        "Telescope": "GMRT",
+        "Instrument": null,
+        "Observatory": null
+    }
+}

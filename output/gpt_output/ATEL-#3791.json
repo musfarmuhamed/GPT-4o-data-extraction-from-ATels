@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J0632+057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MWC 148 (HD 259440)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "massive Be star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Aharonian et al. 2006, A&A, 457, 899",
+        "Acciari, V.A. et al. 2009, ApJ, 698, L94",
+        "Bongiorno et al. 2011, ApJ, 737, L11",
+        "ATel #3153",
+        "ATel #3161",
+        "A. Falcone, private communication"
+    ],
+    "Event Type": "elevated gamma-ray flux",
+    "Time": "5.3 hours",
+    "Date": "21-29 November 2011",
+    "Telescope": "VERITAS",
+    "Instrument": null,
+    "Observatory": null
+}

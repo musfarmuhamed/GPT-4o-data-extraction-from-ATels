@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "00:00:00",
+            "Date": "2015-03-06"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "19:04:40",
+            "Date": "2015-03-30"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": null,
+            "Date": "2014-12-09"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": null,
+            "Date": "2015-01-28"
+        }
+    ],
+    "References": [
+        "ATels #7316",
+        "ATels #7322",
+        "Laurent, P., et al., 2011, Science, 332, 438",
+        "Del Monte, E., et al., 2010, A&A, 520, 67",
+        "Bodaghee, A., et al., 2013, ApJ, 775, 98",
+        "Malyshev, D., et al., 2013, MNRAS, 434, 2380"
+    ],
+    "Event Type": "possible transition from a soft state to a hard state",
+    "Time": "00:00:00",
+    "Date": "2015-03-06",
+    "Telescope": "Fermi/LAT",
+    "Instrument": null,
+    "Observatory": null
+}

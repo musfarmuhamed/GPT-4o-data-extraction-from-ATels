@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2155-304",
+            "RA": "21h58m52.0651s",
+            "Dec": "-30d13m32.118s",
+            "redshift": "0.116",
+            "Type": "TeV BL Lac object",
+            "Time": "First six hours of the day",
+            "Date": "January 21, 2013"
+        }
+    ],
+    "References": [
+        "Fey et al. 2004, AJ, 127, 3587",
+        "Falomo et al. 1993, ApJ, 411, L63",
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "ATel#2944"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": "First six hours of the day",
+    "Date": "January 21, 2013",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": {
+        "Name": "Fermi",
+        "Webpage": "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/source/PKS_2155-304",
+        "Contact People": [
+            {
+                "Name": "B. Giebels",
+                "Email": "berrie@llr.in2p3.fr"
+            },
+            {
+                "Name": "D. Sanchez",
+                "Email": "dsanchez@llr.in2p3.fr"
+            }
+        ]
+    }
+}

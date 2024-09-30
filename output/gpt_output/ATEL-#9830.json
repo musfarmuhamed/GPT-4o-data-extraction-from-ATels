@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J233104.07-214815.6",
+            "RA": "23h 31m 04.07s",
+            "Dec": "-21d 48m 15.6s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "00:18:53",
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "BZQJ2331-2148",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "ID": "GCN #20237"
+        },
+        {
+            "Author": "Lipunov et al.",
+            "Title": "\"MASTER Global Robotic Net\"",
+            "Journal": "Advances in Astronomy",
+            "Year": 2010,
+            "ID": "30L"
+        },
+        {
+            "Author": "D'Elia+",
+            "Year": 2013
+        }
+    ],
+    "Event Type": "optical flare",
+    "Time": "00:18:53",
+    "Date": "2016-12-01",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

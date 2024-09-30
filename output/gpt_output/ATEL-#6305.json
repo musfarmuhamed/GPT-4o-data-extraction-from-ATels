@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible nova in the disk of M 31",
+            "RA": "00h42m54.72s",
+            "Dec": "+40o56'33.5\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": [
+                "08.05 UT",
+                "09.06 UT"
+            ],
+            "Date": "2014 July 08 and 09"
+        }
+    ],
+    "References": "LGGS, Massey et al. 2006, AJ, 131, 2478",
+    "Event Type": "discovery",
+    "Time": [
+        "08.05 UT",
+        "09.06 UT"
+    ],
+    "Date": "2014 July 08 and 09",
+    "Telescope": "80 cm Ritchey-Chretien F/9.6 Joan Oro telescope",
+    "Instrument": "Finger Lakes PL4240-1-BI CCD Camera",
+    "Observatory": "Observatori Astronomic del Montsec"
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17418-12122",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E 1739.1-1210",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J174155.3-121157",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J174155-121201",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO 0778-0495204",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0372 +/- 0.0001",
+            "Type": "Seyfert 1 galaxy",
+            "Time": null,
+            "Date": "March 26.5 2004"
+        }
+    ],
+    "References": [
+        "Tsarevsky et al. 2004, ATEL #239",
+        "Bassani et al. 2004, ATEL #232",
+        "Rush et al.,1996, ApJ, 471, 190",
+        "Kriss et al.,1980, ApJ, 242, 492"
+    ],
+    "Event Type": "Acquisition of optical spectrum",
+    "Time": null,
+    "Date": "March 26.5 2004",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST spectrograph",
+    "Observatory": "F. L. Whipple Observatory"
+}

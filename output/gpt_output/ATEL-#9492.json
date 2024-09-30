@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016geo",
+            "RA": "16:14:27.44",
+            "Dec": "+25:41:37.1",
+            "redshift": "0.063800",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "20160906.25"
+        },
+        {
+            "Name": "AT2016gen",
+            "RA": "16:51:56.85",
+            "Dec": "+25:55:26.6",
+            "redshift": "0.035572",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "20160906.28"
+        },
+        {
+            "Name": "AT2016gep",
+            "RA": "18:07:29.93",
+            "Dec": "+26:06:02.9",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "20160906.31"
+        },
+        {
+            "Name": null,
+            "RA": "18:25:29.87",
+            "Dec": "-09:47:32.3",
+            "redshift": null,
+            "Type": "high amplitude galactic variable",
+            "Time": null,
+            "Date": "20160908.25"
+        }
+    ],
+    "References": [
+        "Tonry et al. ATel #8680",
+        "http://www.fallingstar.com"
+    ],
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": "twin 0.5m telescope system",
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

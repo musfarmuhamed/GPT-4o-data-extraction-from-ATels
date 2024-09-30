@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15al",
+            "RA": "04:57:49.63",
+            "Dec": "-21:35:34.11",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "10.33",
+            "Date": "2015-01-10"
+        },
+        {
+            "Name": "GALEXASC J045749.46-213526.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "name": "ASAS-SN",
+            "URL": "ASAS-SN Homepage"
+        },
+        {
+            "name": "list of all ASAS-SN transients",
+            "URL": null
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "10.33",
+    "Date": "2015-01-10",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii",
+    "Follow-up Telescope": "LCOGT 1-m robotic telescope",
+    "Follow-up Observatory": "Sutherland, South Africa",
+    "Confirmed Date": "2015-01-10.79"
+}

@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT103630.69-003523.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:53 UT",
+            "Date": "January 5th, 2012"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Year": 2012,
+            "ATel": 3844
+        },
+        {
+            "Author": "Greiner et al.",
+            "Year": 2008,
+            "PASP": 120,
+            "Page": 405
+        },
+        {
+            "Author": "Rau et al.",
+            "Year": 2006,
+            "A&A": 449,
+            "Page": 79
+        },
+        {
+            "Author": "Kulkarni & Rau et al.",
+            "Year": 2006,
+            "ApJ": 644,
+            "Page": "L63"
+        },
+        {
+            "Author": "Schlegel et al.",
+            "Year": 1998,
+            "Reference": "Galactic foreground extinction of E(B-V)=0.22"
+        }
+    ],
+    "Event Type": "Optical Transient",
+    "Time": "06:53 UT",
+    "Date": "January 5th, 2012",
+    "Telescope": "GROND",
+    "Instrument": null,
+    "Observatory": null
+}

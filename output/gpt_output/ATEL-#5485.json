@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013 October 17"
+        }
+    ],
+    "References": [
+        {
+            "Nolan et al. 2012": "ApJS, 199, 31",
+            "Mayer et al. 2013": "ApJL 775, 37",
+            "ATel": [
+                "#4855",
+                "#4867",
+                "#4869",
+                "#4878"
+            ]
+        }
+    ],
+    "Event Type": "Significant increase in gamma-ray activity",
+    "Time": null,
+    "Date": "2013 October 17",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

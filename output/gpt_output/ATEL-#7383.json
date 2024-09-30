@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15abk",
+            "RA": "14:44:22.84",
+            "Dec": "+13:00:32.8",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": "+7 d",
+            "Date": "20150410"
+        },
+        {
+            "Name": "PS15abq",
+            "RA": "14:01:02.30",
+            "Dec": "+14:49:52.4",
+            "redshift": "0.093",
+            "Type": "Ia",
+            "Time": "-3 d",
+            "Date": "20150410"
+        },
+        {
+            "Name": "PS15abb",
+            "RA": "13:00:03.30",
+            "Dec": "+14:29:37.3",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "-6 d",
+            "Date": "20150410"
+        }
+    ],
+    "References": [
+        {
+            "Smartt et al.": "arXiv:1411.0299",
+            "Huber et al.": "ATel #7153"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2015 April 12",
+    "Date": "20150412",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

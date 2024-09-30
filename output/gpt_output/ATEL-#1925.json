@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009H",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": "Jan 27.4 (UT); Feb 4.0",
+            "Date": "2009-01-27; 2009-02-04"
+        },
+        {
+            "Name": "SN 2009N",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": "Jan 27.4 (UT); Feb 4.5",
+            "Date": "2009-01-27; 2009-02-04"
+        }
+    ],
+    "References": "CBET #1656, #1667, #1670, #1761; ATEL #1914, #1915",
+    "Event Type": "VLA searches",
+    "Time": "Jan 27.4 (UT); Feb 4.0; Feb 4.5",
+    "Date": "2009-01-27; 2009-02-04",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

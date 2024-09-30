@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unnamed Nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "unknown",
+            "Date": "August 19"
+        },
+        {
+            "Name": "Unnamed Nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "unknown",
+            "Date": "September 1"
+        },
+        {
+            "Name": "Unnamed Nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "unknown",
+            "Date": "August 20"
+        }
+    ],
+    "References": [
+        "ATel5291",
+        "ATel 5297",
+        "ATel 5300"
+    ],
+    "Event Type": "spectrophotometric observations",
+    "Time": null,
+    "Date": "August 19 - September 1",
+    "Telescope": "2.6 m telescope",
+    "Instrument": "low resolution spectrograph (R=1000), high resolution echelle spectrograph (R=33000)",
+    "Observatory": "CrAO"
+}

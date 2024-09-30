@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016ccj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SNe 2006gz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-Chandrasekhar mass",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SNe 2009dc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-Chandrasekhar mass",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kiyota et al. 2016 ATEL#9020",
+        "Piascik & Steele 2016 ATEL#9023",
+        "Tomasella et al. 2016 ATEL#9024",
+        "Brown et al. 2014, Ap&SS, 354, 89, arXiv:1407.3808",
+        "Poole et al. 2008",
+        "Breeveld et al. 2011"
+    ],
+    "Event Type": "Observation",
+    "Time": "22:49:27",
+    "Date": "2016-05-05",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

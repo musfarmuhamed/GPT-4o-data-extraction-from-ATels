@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1842.5-1124",
+            "RA": "18:42:17.44",
+            "Dec": "-11:25:03.95",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:36 - 23:45 UT",
+            "Date": "2008 Sep 15"
+        }
+    ],
+    "References": [
+        "ATel #1706",
+        "ATel #1716",
+        "Markwardt et al. 2008, ATel #1716"
+    ],
+    "Event Type": "near-infrared follow-up observations",
+    "Time": "23:36 - 23:45 UT",
+    "Date": "2008 Sep 15",
+    "Telescope": "6.5m Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

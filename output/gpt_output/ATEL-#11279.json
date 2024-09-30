@@ -1,0 +1,80 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GSC 66-869",
+            "RA": "03h 53m 17.72s",
+            "Dec": "+00\u00b0 04' 22.4\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "FASTT89 = SA 95-107",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EPIC 205046529B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RIK 210",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V2551 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V116 in NGC 6791",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V857 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stauffer et al. (2017 AJ 153, 152)",
+        "Kjurkchieva et al. 2017, RAA 17, 69",
+        "Hartman et al. 2005, AJ 130, 2241",
+        "Qian et al. 2005, AJ 130, 1206",
+        "Santangelo et al., 2007, AN 328, 55"
+    ],
+    "Event Type": "photometric variability discovery",
+    "Time": null,
+    "Date": "63 days",
+    "Telescope": "0.25-m f/10 telescope",
+    "Instrument": "CCD",
+    "Observatory": "OAMH"
+}

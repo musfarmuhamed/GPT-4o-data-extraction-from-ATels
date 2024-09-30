@@ -1,0 +1,130 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016grk",
+            "RA": "21:19:41.31",
+            "Dec": "+21:57:56.3",
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": "at max",
+            "Date": "20160930"
+        },
+        {
+            "Name": "AT2016gsi",
+            "RA": "19:42:40.93",
+            "Dec": "-26:05:48.3",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "SN2016gtr",
+            "RA": "19:29:01.20",
+            "Dec": "-51:58:13.8",
+            "redshift": "0.014",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20160930"
+        },
+        {
+            "Name": "SMT16yox",
+            "RA": "22:36:40.82",
+            "Dec": "-06:14:28.5",
+            "redshift": "0.075",
+            "Type": "II",
+            "Time": "at max",
+            "Date": "20160827"
+        },
+        {
+            "Name": "MASTERJ0134",
+            "RA": "01:34:15.04",
+            "Dec": "-17:48:43.4",
+            "redshift": "0.046",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20160924"
+        },
+        {
+            "Name": "OGLE16ead",
+            "RA": "02:19:21.79",
+            "Dec": "-64:05:26.3",
+            "redshift": "0.076",
+            "Type": "Ia",
+            "Time": "-7 to -4",
+            "Date": "20160923"
+        },
+        {
+            "Name": "SN2016gqv",
+            "RA": "04:02:48.52",
+            "Dec": "+01:58:15.6",
+            "redshift": "0.012",
+            "Type": "Ic",
+            "Time": "> +20",
+            "Date": "20160928"
+        },
+        {
+            "Name": "OGLE16bsy",
+            "RA": "00:34:55.34",
+            "Dec": "-66:26:31.7",
+            "redshift": "0.145",
+            "Type": "IIn",
+            "Time": "at max",
+            "Date": "20160718"
+        },
+        {
+            "Name": "PS16elh",
+            "RA": "02:05:14.93",
+            "Dec": "-04:48:51.6",
+            "redshift": "0.161",
+            "Type": "unknown",
+            "Time": null,
+            "Date": "20160925"
+        },
+        {
+            "Name": "SN2016guu",
+            "RA": "23:54:57.92",
+            "Dec": "-63:27:13.3",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "+4 to +7",
+            "Date": "20160930"
+        },
+        {
+            "Name": "AT2016gvg",
+            "RA": "03:13:12.85",
+            "Dec": "+02:08:37.5",
+            "redshift": "0.048",
+            "Type": "Ia",
+            "Time": "+4 to +7",
+            "Date": "20161003"
+        },
+        {
+            "Name": "AT2016gkq",
+            "RA": "21:35:37.96",
+            "Dec": "-36:46:34.8",
+            "redshift": "0.58",
+            "Type": "QSO",
+            "Time": null,
+            "Date": "20160920"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "http://www.pessto.org",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Wyrzykowski et al. 2014 arxiv:1409.1095",
+        "http://ogle.astrouw.edu.pl/",
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2016 October 2nd, 3rd, and 4th",
+    "Date": null,
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

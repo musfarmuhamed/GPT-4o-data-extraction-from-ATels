@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "transient near M31",
+            "RA": "00h38m49.52s",
+            "Dec": "+40o19'54.1\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "01:23 UT",
+            "Date": "September 1"
+        },
+        {
+            "Name": "transient near M31",
+            "RA": "00h38m49.52s",
+            "Dec": "+40o19'54.1\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "02:23 UT",
+            "Date": "September 2"
+        },
+        {
+            "Name": "transient near M31",
+            "RA": "00h38m49.52s",
+            "Dec": "+40o19'54.1\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "01:23 UT",
+            "Date": "August 31"
+        }
+    ],
+    "References": "http://grad40.as.utexas.edu/~quimby/tss/nova5.png",
+    "Event Type": "discovery of a transient",
+    "Time": "01:23 UT",
+    "Date": "September 1",
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory"
+}

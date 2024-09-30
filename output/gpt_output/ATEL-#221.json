@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Seyfert-like warm absorber",
+            "Time": "75 ksec",
+            "Date": "2003 March 17.8"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "putative absorber",
+            "Time": "76 ksec",
+            "Date": "2002 Sept. 29.4"
+        },
+        {
+            "Name": "XTE J1650-500",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable warm absorber",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Miller, J. M., et al., 2004a, ApJ, in press, astro-ph/0307394",
+        "Miller, J. M., et al., 2004b, ApJ, subm., astro-ph/0312033"
+    ],
+    "Event Type": "observation",
+    "Time": {
+        "Chandra": "75 ksec",
+        "XMM-Newton": "76 ksec"
+    },
+    "Date": {
+        "Chandra": "2003 March 17.8",
+        "XMM-Newton": "2002 Sept. 29.4"
+    },
+    "Telescope": {
+        "Chandra": "Chandra",
+        "XMM-Newton": "XMM-Newton"
+    },
+    "Instrument": {
+        "Chandra": "HETGS",
+        "XMM-Newton": "RGS"
+    },
+    "Observatory": {
+        "Chandra": "Chandra",
+        "XMM-Newton": "XMM-Newton"
+    }
+}

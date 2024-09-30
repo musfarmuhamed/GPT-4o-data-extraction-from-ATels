@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15h12m50.5329s",
+            "Dec": "-09d05m59.828s",
+            "redshift": 0.36,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": "06:00 UT",
+            "Date": "April 25, 2009"
+        },
+        {
+            "Name": "3EG J1512-0849",
+            "RA": "15h12m50.5329s",
+            "Dec": "-09d05m59.828s",
+            "redshift": "Null",
+            "Type": "EGRET gamma-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL#1897",
+        "ATEL#1743"
+    ],
+    "Event Type": "GeV flare",
+    "Time": "06:00 UT",
+    "Date": "April 25, 2009",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

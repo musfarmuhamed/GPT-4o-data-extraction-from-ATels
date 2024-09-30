@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": "17:49:37",
+            "Dec": "-28:21:28",
+            "redshift": null,
+            "Type": "X-ray Nova",
+            "Time": "15:52",
+            "Date": "2006-09-19"
+        },
+        {
+            "Name": "2MASS J17493780-2821181",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17493774-2821173",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #885",
+    "Event Type": "observation",
+    "Time": "15:52",
+    "Date": "2006-09-19",
+    "Telescope": "SWIFT",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": [
+        "INTEGRAL",
+        "SWIFT"
+    ]
+}

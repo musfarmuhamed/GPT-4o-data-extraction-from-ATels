@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": "22h02m43.3s",
+            "Dec": "+42d16m40s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/source/BL_Lac",
+        "http://users.utu.fi/kani/1m/BL_Lac.html",
+        "http://www.swift.psu.edu/monitoring/source.php?source=BLLacertae"
+    ],
+    "Event Type": "VHE gamma-ray flux increase",
+    "Time": null,
+    "Date": "2015/06/14 to 2015/06/17",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": "La Palma, Spain"
+}

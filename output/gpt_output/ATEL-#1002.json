@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "08:45-08:58 UT",
+            "Date": "2007-02-10"
+        }
+    ],
+    "References": [
+        "Soldi et al., ATel #885",
+        "Torres et al. (ATel #909)",
+        "Paizis et al. ATel #907",
+        "astro-ph/0611344"
+    ],
+    "Event Type": "Follow-up observations confirming NIR counterpart",
+    "Time": "08:45-08:58 UT",
+    "Date": "2007-02-10",
+    "Telescope": "6.5m Magellan Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Magellan Observatory"
+}

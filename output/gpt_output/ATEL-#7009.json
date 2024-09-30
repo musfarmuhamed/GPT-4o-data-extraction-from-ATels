@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:01",
+            "Date": "2014-10-31"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard state",
+            "Time": "00:01",
+            "Date": "2014-10-31"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft state",
+            "Time": "00:00",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft state",
+            "Time": "00:00",
+            "Date": "2015-01-29"
+        }
+    ],
+    "References": [
+        "ATel #6649",
+        "ATel #6960",
+        "Hynes et al. 2004 ApJ 609, 317"
+    ],
+    "Event Type": "X-ray evolution",
+    "Time": "00:00",
+    "Date": "2015-01-21",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "MAXI"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star merger",
+            "Time": "21:55:17",
+            "Date": "2018-01-17"
+        },
+        {
+            "Name": "GRB170817A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray burst",
+            "Time": "21:55:17",
+            "Date": "2018-01-17"
+        },
+        {
+            "Name": "SSS17a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "D'Avanzo et al. 2018, arXiv: 1801.06164; Haggard et al. 2017; Ruan et al. 2018; D'Avanzo 2018, private communication",
+    "Event Type": "X-ray Observation",
+    "Time": "21:55:17",
+    "Date": "2018-01-17",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

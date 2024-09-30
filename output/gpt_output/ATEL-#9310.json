@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016eld",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039 +/- 0.006",
+            "Type": "Type Ic",
+            "Time": "18:55--19:27 UT",
+            "Date": "August 2, 2016"
+        },
+        {
+            "Name": "AT 2016eku",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.105 +/- 0.004",
+            "Type": "Type Ia",
+            "Time": "19:41--20:34 UT",
+            "Date": "August 2, 2016"
+        },
+        {
+            "Name": "MASTER OT J225939.54+020859.6",
+            "RA": "22:59:39.54",
+            "Dec": "+02:08:59.6",
+            "redshift": "0.061 +/- 0.003",
+            "Type": "Type Ia",
+            "Time": "23:08--23:41",
+            "Date": "August 2, 2016"
+        },
+        {
+            "Name": "AT 2016ekw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:06--23:13 UT",
+            "Date": "August 2, 2016"
+        },
+        {
+            "Name": "AT 2016elw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.160 +/- 0.004",
+            "Type": "Type Ia",
+            "Time": "23:26--00:31 UT",
+            "Date": "August 2/3, 2016"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, ApJ, 666, 1024, 2007",
+        "Balanutsa et al., ATel #9302",
+        "Hillebrandt & Niemeyer, Annual Review of Astronomy and Astrophysics, 38, 191, 2000"
+    ],
+    "Event Type": "SN candidates",
+    "Time": "August 2/3, 2016",
+    "Date": "August 2/3, 2016",
+    "Telescope": "BTA/Scorpio-I",
+    "Instrument": "Direct images in the V band and long-slit spectra",
+    "Observatory": null
+}

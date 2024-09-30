@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17511-3057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Millisecond Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nearby Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2197",
+        "ATEL #2235",
+        "ATEL #1051"
+    ],
+    "Event Type": "Follow-up observations",
+    "Time": "04:00 UT",
+    "Date": "2009-10-09",
+    "Telescope": [
+        "RXTE PCA",
+        "Swift XRT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

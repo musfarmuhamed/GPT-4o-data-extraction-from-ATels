@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J105908.57+103834.8",
+            "RA": "10h59m08.57s",
+            "Dec": "+10d38m34.8s",
+            "redshift": "0.035",
+            "Type": "Type Ia",
+            "Time": "02:24",
+            "Date": "2016-02-03"
+        }
+    ],
+    "References": "ATel #8620, Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectrum acquisition",
+    "Time": "02:24",
+    "Date": "2016-02-03",
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

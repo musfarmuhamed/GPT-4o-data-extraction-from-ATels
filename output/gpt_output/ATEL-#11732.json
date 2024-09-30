@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright transient",
+            "Time": "2018-06-18.951 UT",
+            "Date": "2018-06-18"
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0141",
+            "Type": "coincident galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Smartt et al. ATel #11727, Piascik et al. 2014",
+    "Event Type": null,
+    "Time": "2018-06-18.951 UT",
+    "Date": "2018-06-18",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT",
+    "Observatory": null
+}

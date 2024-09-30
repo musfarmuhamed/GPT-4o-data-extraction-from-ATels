@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J152535.1+174859",
+            "RA": "15:25:35.09",
+            "Dec": "17:48:59.7",
+            "redshift": "0.1254",
+            "Type": "QSO \"starburst broadline\"",
+            "Time": "01:52-03:42",
+            "Date": "2016-01-24"
+        },
+        {
+            "Name": "Source 1",
+            "RA": "15:25:35.45",
+            "Dec": "17:48:55.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "08:58",
+            "Date": "2016-02-02"
+        },
+        {
+            "Name": "Source 2",
+            "RA": "15:25:34.59",
+            "Dec": "17:49:00.0",
+            "redshift": "0.145",
+            "Type": null,
+            "Time": "08:58",
+            "Date": "2016-02-02"
+        }
+    ],
+    "References": "Voges et al. 1999, Greiner et al. 2008, Schlafly & Finkbeiner 2011",
+    "Event Type": null,
+    "Time": "08:58",
+    "Date": "2016-02-02",
+    "Telescope": "2.2 m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory"
+}

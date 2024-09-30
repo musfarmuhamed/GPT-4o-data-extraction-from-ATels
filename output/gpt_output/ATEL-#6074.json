@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS140310:074553+201404",
+            "RA": 116.46904,
+            "Dec": 20.23438,
+            "redshift": null,
+            "Type": "blazar",
+            "Disc. mag": 19.3,
+            "Alt. ID": "NVSS J074552+201401",
+            "Time": null,
+            "Date": "2014-03-10"
+        },
+        {
+            "Name": "MLS140208:082306+223854",
+            "RA": 125.77423,
+            "Dec": 22.64827,
+            "redshift": null,
+            "Type": "blazar",
+            "Disc. mag": 19.15,
+            "Alt. ID": "NVSS J082305+223855",
+            "Time": null,
+            "Date": "2014-02-08"
+        },
+        {
+            "Name": "MLS140110:113116+023450",
+            "RA": 172.81467,
+            "Dec": 2.58068,
+            "redshift": 1.069,
+            "Type": "blazar",
+            "Disc. mag": 17.72,
+            "Alt. ID": "NVSS J113115+023451",
+            "Time": null,
+            "Date": "2014-01-10"
+        },
+        {
+            "Name": "CSS140309:121509+350814",
+            "RA": 183.78687,
+            "Dec": 35.13713,
+            "redshift": 0.883,
+            "Type": "blazar",
+            "Disc. mag": 17.86,
+            "Alt. ID": "FIRST J121508.8+350813",
+            "Time": null,
+            "Date": "2014-03-09"
+        },
+        {
+            "Name": "MLS140111:122630-031800",
+            "RA": 186.62702,
+            "Dec": -3.30001,
+            "redshift": null,
+            "Type": "blazar",
+            "Disc. mag": 17.74,
+            "Alt. ID": "NVSS J122630-031758",
+            "Time": null,
+            "Date": "2014-01-11"
+        },
+        {
+            "Name": "CSS140312:130252+574838",
+            "RA": 195.71848,
+            "Dec": 57.81053,
+            "redshift": 1.088,
+            "Type": "blazar",
+            "Disc. mag": 18.52,
+            "Alt. ID": "NVSS J130252+574837",
+            "Time": null,
+            "Date": "2014-03-12"
+        },
+        {
+            "Name": "CSS140107:230108-015805",
+            "RA": 345.28333,
+            "Dec": -1.96798,
+            "redshift": 0.778,
+            "Type": "blazar",
+            "Disc. mag": 17.75,
+            "Alt. ID": "NVSS J230107-015803",
+            "Time": null,
+            "Date": "2014-01-07"
+        }
+    ],
+    "References": [
+        "#6038 (Balanutsa, 2014)",
+        "#6070 (Shumkov, 2014)"
+    ],
+    "Event Type": "blazar discoveries",
+    "Time": null,
+    "Date": "2014",
+    "Telescope": "CRTS",
+    "Instrument": null,
+    "Observatory": "CSS and MLS"
+}

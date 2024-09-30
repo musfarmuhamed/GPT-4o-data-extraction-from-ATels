@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KISS15q",
+            "RA": "13:12:53.70",
+            "Dec": "+28:47:55.3",
+            "redshift": 0.18,
+            "Type": "Type Ia supernova",
+            "Time": "19.60",
+            "Date": "May 19, 2015"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Kiso Supernova Survey (KISS)",
+            "Authors": "Morokuma et al.",
+            "Published": "2014",
+            "Journal": "PASJ",
+            "Volume": "66",
+            "Page": "118"
+        },
+        {
+            "Title": "Line Imager and Slit Spectrograph (LISS) on the 2.0-m Nayuta telescope",
+            "Authors": "Hashiba et al.",
+            "Published": "2014",
+            "Journal": "SPIE",
+            "Volume": "9147",
+            "Page": "2"
+        },
+        {
+            "Title": "Cross-correlation with a library of supernova spectra via the SNID code",
+            "Authors": "Blondin and Tonry",
+            "Published": "2007",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024"
+        }
+    ],
+    "Event Type": "Discovery and spectroscopic identification",
+    "Time": null,
+    "Date": "May 22, 2015",
+    "Telescope": "2.0-m Nayuta telescope",
+    "Instrument": "Line Imager and Slit Spectrograph (LISS)",
+    "Observatory": "Nishi-Harima Observatory"
+}

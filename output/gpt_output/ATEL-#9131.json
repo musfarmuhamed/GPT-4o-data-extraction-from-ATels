@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016csr",
+            "RA": "15:14:31.03",
+            "Dec": "+06:41:14.2",
+            "Redshift": null,
+            "Type": "rising",
+            "Time": "57543.40",
+            "Date": null
+        },
+        {
+            "Name": "AT2016csk",
+            "RA": "17:09:30.31",
+            "Dec": "+21:36:29.7",
+            "Redshift": "0.048703",
+            "Type": "rising",
+            "Time": "57542.43",
+            "Date": null
+        },
+        {
+            "Name": "AT2016csl",
+            "RA": "16:51:01.67",
+            "Dec": "+24:48:48.5",
+            "Redshift": "0.054514",
+            "Type": "rising",
+            "Time": "57542.42",
+            "Date": null
+        },
+        {
+            "Name": "AT2016csi",
+            "RA": "16:33:49.46",
+            "Dec": "+33:19:43.0",
+            "Redshift": "0.031782",
+            "Type": "rising",
+            "Time": "57542.41",
+            "Date": null
+        },
+        {
+            "Name": "AT2016csj",
+            "RA": "13:40:23.58",
+            "Dec": "+25:08:50.8",
+            "Redshift": null,
+            "Type": null,
+            "Time": "57542.34",
+            "Date": null
+        },
+        {
+            "Name": "AT2016csg",
+            "RA": "17:14:13.13",
+            "Dec": "+41:33:42.4",
+            "Redshift": null,
+            "Type": null,
+            "Time": "57541.42",
+            "Date": null
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": "57541.42 to 57543.40",
+    "Date": "09 June 2016",
+    "Telescope": "ATLAS",
+    "Instrument": "ATLAS",
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

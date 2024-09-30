@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sco 2015 (PNV J17032620-3504140)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Symbiotic system",
+            "Time": null,
+            "Date": {
+                "start": "2015-02-18",
+                "end": "2015-03-08"
+            }
+        },
+        {
+            "Name": "MASTER J004207.99+405501.1 (Nova M31N 2015-01a)",
+            "RA": "00:42:07.99",
+            "Dec": "+40:55:01.1",
+            "redshift": null,
+            "Type": "Luminous red nova (stellar merger)",
+            "Time": null,
+            "Date": "2015-03-06"
+        }
+    ],
+    "References": [
+        "ATel #7060",
+        "ATels #7085",
+        "ATels #7194",
+        "ATels #6911",
+        "ATels #6985",
+        "ATels #7150",
+        "ATels #7173",
+        "ATels #7208"
+    ],
+    "Event Type": "Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Mount Abu 1.2m telescope",
+    "Instrument": "1024x1024 HgCdTe NIR camera/spectrograph (NICS)",
+    "Observatory": null
+}

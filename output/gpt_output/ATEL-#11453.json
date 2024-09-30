@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018aik",
+            "RA": "12:41:50.05",
+            "Dec": "+68:15:38.34",
+            "redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-03-20"
+        },
+        {
+            "Name": "SN2018afm",
+            "RA": "07:59:25.03",
+            "Dec": "+16:25:35.40",
+            "redshift": "0.0163",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-20"
+        }
+    ],
+    "References": "Blagorodnova et. al. 2018, PASP, 130, 5003; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Bright Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

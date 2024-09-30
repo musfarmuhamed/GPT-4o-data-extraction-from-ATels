@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SSS130101:122222",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J122221.66-311524.6",
+            "RA": "12h22m21.67s (185.5902755 deg)",
+            "Dec": "-31d15m24.6s (-31.2568388 deg)",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "January 2010, July 2010"
+        }
+    ],
+    "References": [
+        {
+            "ATel": "4699",
+            "WISE": "Wright et al. 2010 AJ, 140, 1868"
+        }
+    ],
+    "Event Type": "detection of a new optical transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": null,
+    "Observatory": null
+}

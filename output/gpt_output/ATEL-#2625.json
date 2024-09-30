@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J1033.8+6048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "JD2455335.6830",
+            "Date": null
+        },
+        {
+            "Name": "SDSS J103351.42+605107.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATELs #2622",
+        "ATELs #2623"
+    ],
+    "Event Type": "outburst",
+    "Time": "JD2455335.6830",
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrof\u00edsico Guillermo Haro"
+}

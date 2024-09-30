@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[HB89]0048-071",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.95,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "2014-11-19"
+        },
+        {
+            "Name": "WMAP J005059-064",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": "2014-11-19"
+        },
+        {
+            "Name": "2FGL J0051.0-0648",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray Blazar",
+            "Time": null,
+            "Date": "2014-11-19"
+        }
+    ],
+    "References": "Atel#2945",
+    "Event Type": "NIR flare",
+    "Time": "JD2456980.8085",
+    "Date": "2014-11-19",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory of the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

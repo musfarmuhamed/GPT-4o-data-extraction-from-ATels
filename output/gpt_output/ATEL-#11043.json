@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J2251-1239",
+            "RA": 342.83,
+            "Dec": -12.66,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "12:00 UT - 12:00 UT",
+            "Date": "2017-12-05 to 2017-12-08"
+        },
+        {
+            "Name": "3FGL J2253.1-1237",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "5BZB J2249-1300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2WHSP J224910.7-13000",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac Blazar (5BZB J2249-1300)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "gamma-ray emission detection",
+    "Time": "12:00 UT - 12:00 UT",
+    "Date": "2017-12-05 to 2017-12-08",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12hjq",
+            "RA": "02 28 39",
+            "Dec": "-11 38 21.5",
+            "redshift": 0.16,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2012 12 09"
+        },
+        {
+            "Name": "LSQ12hja",
+            "RA": "02 38 30",
+            "Dec": "-21 18 32.2",
+            "redshift": 0.162,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2012 12 08"
+        },
+        {
+            "Name": "LSQ12hle",
+            "RA": "04 04 25",
+            "Dec": "-29 09 26.8",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2012 12 10"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037; http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+        "GELATO (Harutyunyan et al., 2008, A&A, 488, 383)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2012 12 12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

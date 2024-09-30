@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14mw",
+            "RA": "01:41:25.16",
+            "Dec": "-65:37:01.26",
+            "redshift": "0.027406",
+            "Type": "supernova",
+            "Time": "2014-12-29.08",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "PGC 006240",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027406",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, ASAS-SN Homepage",
+    "Event Type": "Discovery",
+    "Time": "2014-12-29.08",
+    "Date": "2014-12-29",
+    "Telescope": "Cassius, LCOGT 1-m robotic telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo Observatory"
+}

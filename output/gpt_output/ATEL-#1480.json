@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2491 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J194302.1+321913",
+            "RA": "19:43:02.1",
+            "Dec": "+32:19:13",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-04-11"
+        },
+        {
+            "Name": "Swift J194302.1+321913",
+            "RA": "19:43:02.1",
+            "Dec": "+32:19:13",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-04-15"
+        }
+    ],
+    "References": [
+        "IAUC #8934",
+        "IAUC #8935",
+        "CBET #1334",
+        "ATel #1475",
+        "ATel #1473",
+        "ATel #1478"
+    ],
+    "Event Type": "nova outburst",
+    "Time": null,
+    "Date": "2008-04-11",
+    "Telescope": [
+        "Swift",
+        "MERLIN"
+    ],
+    "Instrument": [
+        "XRT",
+        "unknown (radio)"
+    ],
+    "Observatory": [
+        "Swift Observatory",
+        "MERLIN Observatory"
+    ]
+}

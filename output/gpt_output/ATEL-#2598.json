@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14488-5942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary with a Be star primary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J1448.4-5945",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary with a Be star primary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart of IGR J14488-5942",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010, ApJ Supp, 186, 1",
+        "Tueller et al. 2010, ApJ Supp, 186, 376",
+        "Baumgartner et al. 2010, HEAD, 11, 1305",
+        "Landi et al. 2009, ATel #2355",
+        "Corbet 1986, MNRAS, 220, 1047"
+    ],
+    "Event Type": "Modulation and variability analysis",
+    "Time": "MJD 54,318.1",
+    "Date": "2009-09-25",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": null
+}

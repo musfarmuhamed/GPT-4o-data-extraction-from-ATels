@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "Approx. 3ks each",
+            "Date": "2017-08-06"
+        },
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "Approx. 3ks each",
+            "Date": "2017-08-07"
+        },
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "5ks exposure",
+            "Date": "2017-08-02"
+        }
+    ],
+    "References": [
+        "GCN #21369",
+        "ATel #10612"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "2017-08-06",
+        "2017-08-07",
+        "2017-08-02"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

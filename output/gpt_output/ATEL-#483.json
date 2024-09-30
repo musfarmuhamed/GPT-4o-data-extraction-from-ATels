@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0614+091",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": "unknown",
+            "Date": "March 12, 2005"
+        },
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Strohmayer & Bildsten astro-ph/0301544",
+        "ATel #68",
+        "ATel #482",
+        "Swank et al. 1978, MNRAS 182, 349",
+        "Brandt et al. 1992, A&A 262, L15"
+    ],
+    "Event Type": "superburst",
+    "Time": "unknown",
+    "Date": "March 12, 2005",
+    "Telescope": "RXTE",
+    "Instrument": "ASM",
+    "Observatory": null
+}

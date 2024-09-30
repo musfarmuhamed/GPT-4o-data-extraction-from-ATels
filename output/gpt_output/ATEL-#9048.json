@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051032.58-692130.4",
+            "RA": "05:10:32.58",
+            "Dec": "-69:21:30.5",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "2016-05-10.72797",
+            "Date": "2016-05-10"
+        },
+        {
+            "Name": "LMC_SC10_20872",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9039",
+        "ATel #9040"
+    ],
+    "Event Type": "classical nova outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/UVOT",
+        "Swift/XRT"
+    ],
+    "Observatory": null
+}

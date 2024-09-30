@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17gs",
+            "RA": "15:44:19.671",
+            "Dec": "-06:49:15.35",
+            "redshift": "Null",
+            "Type": "extragalactic transient",
+            "Time": "Null",
+            "Date": "2017-05-26 to 2017-08-09"
+        },
+        {
+            "Name": "2MASX J15441967-0649156",
+            "RA": "15:44:19.671",
+            "Dec": "-06:49:15.35",
+            "redshift": "Null",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATel #10482",
+        "ATel #10491",
+        "ATel #10495",
+        "Kalberla et al. 2005 A&A, 440, 775",
+        "Schlafly et al. 2011 ApJ, 737, 103",
+        "Zacharias et al. 2010 AJ, 139, 2184",
+        "Condon et al. 1998 AJ, 115, 1693",
+        "Hurley-Walker et al. 2017 MNRAS, 464, 1146"
+    ],
+    "Event Type": "transient event",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        "Swift",
+        "Loiano 1.5m",
+        "LCOGT 1m"
+    ],
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Null"
+}

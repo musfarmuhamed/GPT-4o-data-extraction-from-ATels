@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17hi",
+            "RA": "01:52:42.892",
+            "Dec": "-34:03:30.55",
+            "redshift": "0.049782",
+            "Type": "Supernova",
+            "Time": "2017-05-30.42",
+            "Date": "2017-05-30.42"
+        },
+        {
+            "Name": "2dFGRS S570Z253",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.049782",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2017-05-30.42",
+    "Date": "2017-05-30.42",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

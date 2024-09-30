@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18bu (AT 2018pg)",
+            "RA": "05:07:01.069",
+            "Dec": "-32:41:09.85",
+            "redshift": "0.066673",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2018-02-03.05"
+        },
+        {
+            "Name": "ASASSN-18bq (AT 2018mc)",
+            "RA": "18:01:00.832",
+            "Dec": "61:41:46.92",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2018-01-29.51"
+        },
+        {
+            "Name": "ASASSN-18bm (AT 2018lm)",
+            "RA": "10:32:04.874",
+            "Dec": "-36:37:29.29",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2018-01-28.31"
+        },
+        {
+            "Name": "ASASSN-18bk (AT 2018kz)",
+            "RA": "14:31:44.164",
+            "Dec": "45:46:41.94",
+            "redshift": "0.035171",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2018-01-26.45"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "Ongoing",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Payne-Gaposchkin",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017jdm",
+            "RA": "00 43 29.461",
+            "Dec": "+41 17 13.68",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2017-12-24.568",
+            "Date": "2017-12-24"
+        }
+    ],
+    "References": [
+        "F. Castellani et al.",
+        "TNS Discovery report",
+        "ATel #11088"
+    ],
+    "Event Type": "Recurrent outburst",
+    "Time": "2017-12-24.568",
+    "Date": "2017-12-24",
+    "Telescope": [
+        "35-cm telescope",
+        "60-cm telescope (NEXT)"
+    ],
+    "Instrument": null,
+    "Observatory": "Xingming Observatory (IAU Code C42), located at Nanshan, Xinjiang, China"
+}

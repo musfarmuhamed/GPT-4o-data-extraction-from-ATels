@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J1608-5253",
+            "RA": 242.12,
+            "Dec": -52.88,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2014-08-19 to 2014-08-26"
+        }
+    ],
+    "References": "ATel #6427",
+    "Event Type": "Transient Observation",
+    "Time": null,
+    "Date": "2014-08-19 to 2014-08-26",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

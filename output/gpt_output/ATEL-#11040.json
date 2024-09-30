@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017glq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "2017-09-19.182",
+            "Date": null
+        },
+        {
+            "Name": "Gaia17cfi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "2017-09-19.182",
+            "Date": null
+        }
+    ],
+    "References": [
+        "TNSDR 2017-13365",
+        "TNSCR 2017-1194"
+    ],
+    "Event Type": "optical photometry",
+    "Time": "2017-09-19.182",
+    "Date": "2017-09-19",
+    "Telescope": "OAUNI 51cm telescope",
+    "Instrument": "CCD",
+    "Observatory": "Huancayo Observatory"
+}

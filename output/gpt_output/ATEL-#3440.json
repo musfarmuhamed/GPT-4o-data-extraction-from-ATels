@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Optical/near-infrared transient",
+            "RA": "14:19:31.827",
+            "Dec": "+52:51:55.94",
+            "redshift": "0.3541",
+            "Type": "possible supernova",
+            "Time": null,
+            "Date": "2011-05-24"
+        },
+        {
+            "Name": "Host galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.3541",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Teddy F. Frederiksen",
+        "Steven Rodney",
+        "HST Higher-z SN team (PI A. Riess)",
+        "CANDELS: Cosmic Assembly Near-IR Deep Extragalactic Legacy Survey (HST program 12061, PI S. Faber and H. Ferguson)",
+        "GMOS on Gemini North under program GN-2011A-Q-14 (PI S. Jha)",
+        "T. Matheson",
+        "J. M. Silverman",
+        "S. B. Cenko",
+        "A. V. Filippenko"
+    ],
+    "Event Type": "discovery of an optical/near-infrared transient (possible supernova)",
+    "Time": null,
+    "Date": [
+        "2011-05-24",
+        "2011-05-25",
+        "2011-06-03"
+    ],
+    "Telescope": "HST/WFC3, GMOS, LRIS",
+    "Instrument": "HST/WFC3, GMOS, LRIS",
+    "Observatory": "Hubble Space Telescope, Gemini North, Keck I"
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black-hole binary",
+            "Time": "2.4-2.5 hours",
+            "Date": "27-28 September 2010"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Negoro et al.",
+            "Year": "2010",
+            "ID": "ATel #2873"
+        },
+        {
+            "Author": "Mangano et al.",
+            "Year": "2010",
+            "ID": "GCN #11296"
+        },
+        {
+            "Author": "Kuulkers et al.",
+            "Year": "2010",
+            "ID": "ATel #2887"
+        },
+        {
+            "Author": "Kennea et al.",
+            "Year": "2010",
+            "ID": "ATel #2877"
+        },
+        {
+            "Author": "Kuulkers et al.",
+            "Year": "2010",
+            "ID": "ATel #2888"
+        },
+        {
+            "Author": "Kalamkar et al.",
+            "Year": "2010",
+            "ID": "ATel #2881"
+        }
+    ],
+    "Event Type": "X-ray dips",
+    "Time": "2.4-2.5 hours",
+    "Date": "27-28 September 2010",
+    "Telescope": "XMM-Newton, INTEGRAL",
+    "Instrument": "XMM/EPIC-pn, XMM/RGS, INTEGRAL/JEM-X",
+    "Observatory": null
+}

@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bc (AT2016zd)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "Transients",
+            "Time": "03:21:58",
+            "Date": "2016-02-04"
+        },
+        {
+            "Name": "2MASX J12052488-2123572",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.032,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16bb (AT2016zc, Gaia16abk)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Transients",
+            "Time": "05:38:30",
+            "Date": "2016-02-04"
+        },
+        {
+            "Name": "SDSS J140557.36+435257.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8628",
+        "ATel #8621"
+    ],
+    "Event Type": "Spectroscopic Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT Spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

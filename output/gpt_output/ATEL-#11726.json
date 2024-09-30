@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18mr",
+            "RA": "23:39:31.21",
+            "Dec": "-03:08:55.18",
+            "redshift": "0.023763",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2018-06-14"
+        },
+        {
+            "Name": "PS15dkt",
+            "RA": "23:39:31.23",
+            "Dec": "-03:08:54.80",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Null",
+            "Date": "2015-12-09"
+        },
+        {
+            "Name": "2MASX J23393156-0308565",
+            "RA": "23:39:31.56",
+            "Dec": "-03:08:56.5",
+            "redshift": "Null",
+            "Type": "Host Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Holoien et al. 2017, MNRAS, 464, 2672; Huber et al. ATel #7153; Chambers et al. 2016, arXiv:1612.05560; Pastorello et al. 2013, ApJ, 767,1; Fraser et al. 2013, MNRAS, 433, 1312",
+    "Event Type": "Type IIn Supernova (SN)",
+    "Time": "2018-06-17.192 (UT)",
+    "Date": "2018-06-17",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT",
+    "Observatory": "Null"
+}

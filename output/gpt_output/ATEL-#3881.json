@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 5806",
+            "RA": "14:59:59.08",
+            "Dec": "+01:53:24.2",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2012-01-10T00:00:00Z",
+            "Date": "2012-01-10"
+        },
+        {
+            "Name": "PSN J14595904+0153251",
+            "RA": "14:59:59.08",
+            "Dec": "+01:53:24.2",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2012-01-22T00:00:00Z",
+            "Date": "2012-01-22"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2012-01-10T00:00:00Z",
+    "Date": "2012-01-10",
+    "Telescope": "Palomar 1.2m telescope",
+    "Instrument": null,
+    "Observatory": "Palomar"
+}

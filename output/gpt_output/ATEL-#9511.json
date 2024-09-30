@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16crq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "UT Sep 17.9",
+            "Date": "2016-09-17"
+        },
+        {
+            "Name": "ATLAS16crq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "UT Sep 20.0",
+            "Date": "2016-09-20"
+        }
+    ],
+    "References": "#9492",
+    "Event Type": "spectroscopic classification",
+    "Time": [
+        "UT Sep 17.9",
+        "UT Sep 20.0"
+    ],
+    "Date": [
+        "2016-09-17",
+        "2016-09-20"
+    ],
+    "Telescope": [
+        "Liverpool Telescope",
+        "SOAR telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Liverpool",
+        "SOAR"
+    ]
+}

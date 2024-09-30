@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J081110.46+660008.5",
+            "RA": "08h 11m 10.46s",
+            "Dec": "+66d 00m 08.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-10-20.79277 UT",
+            "Date": "2012-10-20"
+        },
+        {
+            "Name": "SDSS J081110.43+660010.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J081110.7+660013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J081110.8+660013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J182122.64+283211.4",
+            "RA": "18h 21m 22.64s",
+            "Dec": "+28d 32m 11.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-10-21.43522 UT",
+            "Date": "2012-10-21"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/081110.46660008.5.png",
+        "http://master.sai.msu.ru/static/OT/081110.4+660008.jpg",
+        "http://master.sai.msu.ru/static/OT/J182122+283211-anim-DDS-B.gif",
+        "http://master.sai.msu.ru/static/OT/182122.64283211.4.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Amur auto-detection system"
+}

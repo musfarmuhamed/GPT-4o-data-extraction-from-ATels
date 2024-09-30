@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J15539-6142",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ESO 136-6",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 141689",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16500-3307",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J164955.1-330713",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "U0525_24170526",
+            "RA": "16 49 55.64",
+            "Dec": "-33 07 01.8",
+            "redshift": "0",
+            "Type": "Galactic object (Cataclysmic Variable or Low-Mass X-ray Binary)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al., APJS in press, astro-ph/0611493",
+        "Keek et al., ATel #810",
+        "Masetti et al. 2006, A&A, 459, 21",
+        "Masetti et al. (ATel #815)",
+        "Voges et al. 1999, A&A, 349, 389"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": "During the night",
+    "Date": "2007 March 10-11",
+    "Telescope": "'Jorge Sahade' telescope",
+    "Instrument": "REOSC spectrograph",
+    "Observatory": "CASLEO (Argentina)"
+}

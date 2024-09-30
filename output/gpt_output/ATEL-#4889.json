@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 1217+71 = 2FGL J1219.2+7107",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OT source",
+            "RA": "12h 20m 03.60s",
+            "Dec": "+71d 05m 31.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2013-03-14.62424 UT",
+            "Date": "2013-03-14"
+        }
+    ],
+    "References": "Ciprini et al., ATel #4885",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "2013-03-14.62424 UT",
+    "Date": "2013-03-14",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

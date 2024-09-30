@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016epw",
+            "RA": "02:15:02.06",
+            "Dec": "+18:15:18.60",
+            "redshift": 0.035,
+            "Type": "II",
+            "Time": "-5 d",
+            "Date": null
+        },
+        {
+            "Name": "AT2016evd",
+            "RA": "22:28:27.70",
+            "Dec": "+22:24:44.00",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2016eve",
+            "RA": "23:28:27.70",
+            "Dec": "+22:24:44.00",
+            "redshift": 0.012,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16iq",
+            "RA": "23:55:07.63",
+            "Dec": "-31:34:39.02",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "-4",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Hicken et al., ApJL, 669, 17, 2007"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2016 Aug 10 UT",
+    "Telescope": "KPNO Mayall 4-m telescope",
+    "Instrument": "KOSMOS",
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00234+6141",
+            "RA": "0h 23m 24s",
+            "Dec": "+61o 41' 32\"",
+            "redshift": null,
+            "Type": "likely X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J002258.3+614111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ROSAT",
+        "RXTE-ASM",
+        "INTEGRAL"
+    ],
+    "Event Type": "discovery",
+    "Time": "2003-12 to 2004-02",
+    "Date": "2003-12 to 2004-02",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

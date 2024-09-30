@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "probable nova",
+            "RA": "00h44m01.86s",
+            "Dec": "+41d04'24.2\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:44:01.86",
+            "Date": "2000",
+            "R-band Magnitudes": [
+                {
+                    "Date": "May 28.040 UT",
+                    "Magnitude": "19.6+/-0.2"
+                },
+                {
+                    "Date": "May 29.033 UT",
+                    "Magnitude": "18.7+/-0.2"
+                },
+                {
+                    "Date": "June 6.029",
+                    "Magnitude": "18.1+/-0.1"
+                }
+            ]
+        },
+        {
+            "Name": "EO0851-0354288",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null,
+            "R-band Magnitude": "19.92"
+        }
+    ],
+    "References": "The APM-North Catalogue, (McMahon et al. 2000)",
+    "Event Type": "discovery",
+    "Time": "May 28.040 UT",
+    "Date": "2000",
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "SBIG STL-11000M CCD camera",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

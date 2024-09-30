@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017ggw",
+            "RA": "02 30 26.88",
+            "Dec": "-43 00 53.0",
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 08 22"
+        },
+        {
+            "Name": "AT2017gis",
+            "RA": "01 30 00.49",
+            "Dec": "-32 22 40.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017 07 26"
+        },
+        {
+            "Name": "SN2017git",
+            "RA": "01 54 44.47",
+            "Dec": "-07 00 14.2",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017 08 02"
+        },
+        {
+            "Name": "SN2017giu",
+            "RA": "01 47 39.84",
+            "Dec": "-22 41 11.0",
+            "redshift": "0.052",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 08 12"
+        },
+        {
+            "Name": "SN2017gir",
+            "RA": "01 39 44.84",
+            "Dec": "-23 15 17.1",
+            "redshift": "0.164",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2017 08 14"
+        },
+        {
+            "Name": null,
+            "RA": "00 40 02.29",
+            "Dec": "-67 59 32.4",
+            "redshift": "0.072",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 07 03"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al., ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Tomasella et al. 2012, CBET 3033, 2"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2017 08 27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT",
+            "RA": "188.552513",
+            "Dec": "-63.417673",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS nonstar object 12340720-6325129",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Barthelmy et al., GCN Circ 13166 http://gcn.gsfc.nasa.gov/gcn3/13166.gcn3",
+        "Evans and Osborne, GCN Circ 13167 http://gcn.gsfc.nasa.gov/gcn3/13167.gcn3"
+    ],
+    "Event Type": "GRB",
+    "Time": "02:34:16.391",
+    "Date": "2012-03-29",
+    "Telescope": "MASTER-ICATE robotic Very Wide Field Camera",
+    "Instrument": "unfiltered red CCD",
+    "Observatory": "MASTER-ICATE located in Argentina"
+}

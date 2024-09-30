@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMUJ174716.1-281048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very Faint X-ray Transient (VFXT)",
+            "Time": "16:19:21 to 19:14:52 UT",
+            "Date": "3 July 2007"
+        },
+        {
+            "Name": "XMMUJ174716.1-281048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very Faint X-ray Transient (VFXT)",
+            "Time": "03:27:56 to 18:00:58",
+            "Date": "8 August 2007"
+        }
+    ],
+    "References": [
+        "ATel #147",
+        "Sidoli et al., 2006, A&A 456, 287",
+        "Del Santo et al., 2007, A&A 468, L17",
+        "ATel #1078",
+        "ATel #1136",
+        "Degenaar et al. 2007 (ATel #1136)"
+    ],
+    "Event Type": "Monitoring",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

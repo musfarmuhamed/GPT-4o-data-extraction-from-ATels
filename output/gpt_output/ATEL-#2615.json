@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J171900.4-353217",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "XMM slew transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1719-356",
+            "RA": 259.97,
+            "Dec": -35.68,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "2010-03-10"
+        }
+    ],
+    "References": "Read & Saxton, ATEL #2607",
+    "Event Type": "transient outburst",
+    "Time": "2010-03-05 to 2010-04-15",
+    "Date": "2010-03-05 to 2010-04-15",
+    "Telescope": "RXTE PCA",
+    "Instrument": "PCA",
+    "Observatory": "RXTE"
+}

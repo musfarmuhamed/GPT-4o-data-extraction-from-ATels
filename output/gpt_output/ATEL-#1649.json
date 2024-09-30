@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16287-5021",
+            "RA": "16h 28m 26s.85",
+            "Dec": "-50d 22' 39\".6",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "Unknown",
+            "Date": "2008 Jan. 28"
+        },
+        {
+            "Name": "IGR J19267+1325",
+            "RA": "19h 26m 26s.98",
+            "Dec": "+13d 22' 05\".1",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "Unknown",
+            "Date": "2008 Feb. 27"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Rodriguez, Tomsick, & Chaty",
+            "Source": "submitted to A&A, 2008"
+        },
+        {
+            "Authors": "Landi et al.",
+            "Source": "ATEL#1323, 2007"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "Various",
+    "Date": [
+        "2008 Jan. 28",
+        "2008 Feb. 27"
+    ],
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": "Chandra X-ray Observatory"
+}

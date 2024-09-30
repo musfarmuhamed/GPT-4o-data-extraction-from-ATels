@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRO J0422+32",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3611",
+        "ATel #3613",
+        "ATel #3628",
+        "ATel #3652",
+        "ATel #3618",
+        "ATel #3628",
+        "ATel #3656",
+        "van Paradijs et al. 1994, ApJ, 429, 19",
+        "Fender et al. 2000, MNRAS, 312, 853",
+        "Corbel & Fender 2002, ApJ, 573, L35",
+        "Rahoui et al. 2011, ApJ, 736, 63",
+        "Gandhi et al. 2011, ApJ, 740, L13"
+    ],
+    "Event Type": "infrared detections",
+    "Time": "approximately one hour on each date",
+    "Date": "2011-09-16, 2011-09-27, 2011-10-11",
+    "Telescope": "Very Large Telescope (VLT)",
+    "Instrument": "Imager and Spectrometer for mid Infrared (VISIR)",
+    "Observatory": "European Southern Observatory, Chile"
+}

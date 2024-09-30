@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13cg",
+            "RA": "16:16:34.06",
+            "Dec": "-00:35:27.38",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "Aug. 28.24",
+            "Date": null
+        },
+        {
+            "Name": "SDSS J161633.82-003519.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01646",
+            "Type": "dwarf galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schlafly & Finkbeiner 2011",
+        "Pettini & Pagel 2004",
+        "Kennicutt 1998"
+    ],
+    "Event Type": "new transient source discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

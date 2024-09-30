@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galactic transient",
+            "Time": "07:38:55",
+            "Date": "2006-09-05"
+        },
+        {
+            "Name": "IGR J17497-2821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galactic transient",
+            "Time": "00:58:55",
+            "Date": "2006-09-19"
+        },
+        {
+            "Name": "IGR J17497-2821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galactic transient",
+            "Time": "06:22:55",
+            "Date": "2006-09-20"
+        }
+    ],
+    "References": [
+        "Soldi et al, ATel #885",
+        "Walter, ATel #889"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Burst Alert Telescope (BAT)",
+    "Instrument": "Swift",
+    "Observatory": null
+}

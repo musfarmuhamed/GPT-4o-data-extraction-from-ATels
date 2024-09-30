@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01463827+0413244",
+            "RA": "01h46m38.27s",
+            "Dec": "+04\u00b013'24.4\"",
+            "redshift": "0.017742",
+            "Type": "Type II",
+            "Time": "Dec. 6.84 UT",
+            "Date": "Dec. 6.84 UT"
+        },
+        {
+            "Name": "MASTER OT J010223.27+203321.2",
+            "RA": "01h02m23.27s",
+            "Dec": "+20\u00b033'21.2\"",
+            "redshift": "0.024",
+            "Type": "Type II",
+            "Time": "Dec. 6.88 UT",
+            "Date": "Dec. 6.88 UT"
+        },
+        {
+            "Name": "PSN J03095731+1912492",
+            "RA": "03h09m57.31s",
+            "Dec": "+19\u00b012'49.2\"",
+            "redshift": "0.03413",
+            "Type": "Type Ia",
+            "Time": "Dec. 06.92 UT",
+            "Date": "Dec. 06.92 UT"
+        }
+    ],
+    "References": "Ann et al. 1998, ApJ 496, 39Z; Leonard et al. 2002, A.J. 124, 2490; Giovanelli et al. 1993, AJ 105, 1271; Harutyunyan et al. 2008, A.Ap. 488, 383; Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "spectroscopic confirmation of supernovae",
+    "Time": "Null",
+    "Date": "Dec. 6.84 UT, Dec. 6.88 UT, Dec. 06.92 UT",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

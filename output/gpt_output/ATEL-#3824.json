@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT214351.21+315324.6",
+            "RA": "21h 43m 51.21s",
+            "Dec": "+31d 53m 24.6s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2011-12-15.49 UT",
+            "Date": "2011-12-15"
+        },
+        {
+            "Name": "MASTER OT015147.45+094946.3",
+            "RA": "01h 51m 47.45s",
+            "Dec": "+09d 49m 46.3s",
+            "redshift": null,
+            "Type": "very bright PSN",
+            "Time": "2011-12-21.60 UT",
+            "Date": "2011-12-21"
+        },
+        {
+            "Name": "MASTER OT084127.37+210054.4s",
+            "RA": "08h 41m 27.37s",
+            "Dec": "+21d 00m 54.4s",
+            "redshift": null,
+            "Type": "3 mag flare",
+            "Time": "2011-12-22.75 UT",
+            "Date": "2011-12-22"
+        }
+    ],
+    "References": null,
+    "Event Type": "OT (Optical Transient)",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ],
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Robotic Net"
+}

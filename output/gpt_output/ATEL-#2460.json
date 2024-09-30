@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J0109+6134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VCS2 J0109+6133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "2h total observing time",
+            "Date": "February 6"
+        },
+        {
+            "Name": "VCS2 J0109+6133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "8h total observing time",
+            "Date": "February 13"
+        }
+    ],
+    "References": [
+        "ATEL #2414",
+        "ATEL #2416",
+        "ATEL #2420",
+        "ATEL #2428"
+    ],
+    "Event Type": "gamma-ray transient and radio observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Westerbork Synthesis Radio Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02262331+2739348",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0324",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20141102.94"
+        },
+        {
+            "Name": "ASASSN-14dc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.04",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "20141102.97"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tomasella et al.",
+            "Year": "2014",
+            "Journal": "AN",
+            "Volume": "335",
+            "Page": "841"
+        },
+        {
+            "Authors": "Saintonge et al.",
+            "Year": "2008",
+            "Journal": "AJ",
+            "Volume": "135",
+            "Page": "588"
+        },
+        {
+            "Authors": "Turatto et al.",
+            "Year": "2000",
+            "Journal": "ApJ",
+            "Volume": "534",
+            "Page": "L57"
+        },
+        {
+            "Authors": "Aldering et al.",
+            "Year": "2006",
+            "Journal": "ApJ",
+            "Volume": "650",
+            "Page": "510"
+        },
+        {
+            "Authors": "Prieto et al.",
+            "Year": "2007",
+            "Journal": "arXiv",
+            "Page": "0706.4088"
+        },
+        {
+            "Authors": "Benetti et al.",
+            "Year": "2014",
+            "Journal": "MNRAS",
+            "Volume": "441",
+            "Page": "289"
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": "2008",
+            "Journal": "A&A",
+            "Volume": "488",
+            "Page": "383"
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Year": "2007",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J042609.34+354144.8",
+            "RA": "04h 26m 09.34s",
+            "Dec": "+35d 41m 44.8s",
+            "redshift": null,
+            "Type": "white dwarf",
+            "Time": "2012-09-30.66381 UT",
+            "Date": "2012-09-30"
+        },
+        {
+            "Name": "USNO-B1.0 1256-0072787",
+            "RA": "04 26 09.297",
+            "Dec": "+35 41 45.37",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 04260931+3541451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J042609.3+354145",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultraviolet object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J042608.9+354151",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 04261052+3541528",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J000820.50+773119.1",
+            "RA": "00h 08m 20.50s",
+            "Dec": "+77d 31m 19.1s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2012-09-27.88833 UT",
+            "Date": "2012-09-27"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J0426093+354145-BRIR.jpg, http://master.sai.msu.ru/static/OT/042609.34354144.8.png, http://master.sai.msu.ru/static/OT/000820.50773119.1.png",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur and MASTER-Kislovodsk auto-detection system",
+    "Instrument": "unfiltered magnitude",
+    "Observatory": "Global MASTER Robotic Net"
+}

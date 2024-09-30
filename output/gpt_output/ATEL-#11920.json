@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J165813.55-532904.7",
+            "RA": "16h 58m 13.55s",
+            "Dec": "-53d 29m 04.7s",
+            "redshift": null,
+            "Type": "OT (Optical Transient)",
+            "Time": "23:02:34",
+            "Date": "2018-08-05"
+        },
+        {
+            "Name": "MASTER OT J171613.75-405519.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "OT (Optical Transient)",
+            "Time": "01:02:50",
+            "Date": "2018-08-03"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": "2018-08-03",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

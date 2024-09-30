@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova 2010jr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2010-11-15.6 UT",
+            "Date": "2010-11-15"
+        },
+        {
+            "Name": "ESO 362-18",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": "2010-11-15.6 UT",
+            "Date": "2010-11-15"
+        }
+    ],
+    "References": [
+        "CBET #2545",
+        "CBET #2548"
+    ],
+    "Event Type": "Observation",
+    "Time": "2010-11-15.6 UT",
+    "Date": "2010-11-15",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": "Swift Satellite"
+}

@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:11",
+            "Date": "2010-02-04"
+        },
+        {
+            "Name": "MAXI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RXTE",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift-UVOT v band objects",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2258",
+        "ATEL #2387",
+        "ATEL #2269",
+        "ATEL #2391",
+        "ATEL #2261",
+        "ATEL #2263"
+    ],
+    "Event Type": null,
+    "Time": "14:11",
+    "Date": "2010-02-04",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT"
+    ],
+    "Observatory": null
+}

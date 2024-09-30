@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": null,
+            "Date": "April 24, 2007"
+        }
+    ],
+    "References": [
+        "ATEL #1028",
+        "ATEL #904",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/CygX-3/",
+        "http://xte.mit.edu/asmlc/srcs/cygx3.html"
+    ],
+    "Event Type": "Change in state",
+    "Time": null,
+    "Date": "April 24, 2007",
+    "Telescope": "Swift-BAT",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

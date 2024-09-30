@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RS Ophiuchi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "13.84",
+            "Date": "2007 June"
+        },
+        {
+            "Name": "RS Ophiuchi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "07.91",
+            "Date": "2007 July"
+        }
+    ],
+    "References": [
+        "ATel 832",
+        "IBVS 5733",
+        "Worters et al. 2007, MNRAS, 379, 1557"
+    ],
+    "Event Type": "flickering",
+    "Time": "minutes-to-hour",
+    "Date": "2007",
+    "Telescope": "60 cm telescope",
+    "Instrument": "CCD",
+    "Observatory": "Belogradchik Astronomical Observatory of Bulgarian Academy of Sciences"
+}

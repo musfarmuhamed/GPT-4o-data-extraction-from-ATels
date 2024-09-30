@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "16:36:43",
+            "Date": "2018-06-22"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2017, ATEL#11727",
+        "Roming et al. 2005",
+        "Gehrels et al. 2004",
+        "Brown et al. 2014",
+        "Rivera Sandoval & Maccarone, ATEL#11737",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Observation",
+    "Time": "16:36:43",
+    "Date": "2018-06-22",
+    "Telescope": "Neil Gehrels Swift Observatory",
+    "Instrument": "Ultra-Violet Optical Telescope (UVOT)",
+    "Observatory": "Swift Optical Ultraviolet Supernova Archive (SOUSA)"
+}

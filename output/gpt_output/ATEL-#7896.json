@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J23002463+0137368",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN",
+            "Time": "09.42 UT",
+            "Date": "2015 August 9"
+        },
+        {
+            "Name": "UGC 12295",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7886, Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al. 2005, ApJ, 634, 1190; Falco et al 1999, PASP, 111, 438F via NED",
+    "Event Type": "spectrum",
+    "Time": "09.42 UT",
+    "Date": "2015 August 9",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

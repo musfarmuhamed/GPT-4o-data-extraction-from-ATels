@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015584,
+            "Type": "Type-Ia Supernova",
+            "Time": "3.9 UT",
+            "Date": "2017 Feb 3"
+        },
+        {
+            "Name": "SN 2017yv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015584,
+            "Type": "Type-Ia Supernova",
+            "Time": "3.9 UT",
+            "Date": "2017 Feb 3"
+        },
+        {
+            "Name": "ESO 375-G018",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015584,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10033; Blondin & Tonry 2007, ApJ, 666, 1024; Jones et al. 2004, MNRAS, 355, 747; Jones et al. 2009, MNRAS, 399, 683",
+    "Event Type": "Spectroscopy",
+    "Time": "3.9 UT",
+    "Date": "2017 Feb 3",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

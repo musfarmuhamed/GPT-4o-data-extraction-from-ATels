@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": "01:04:00",
+            "Date": "2008 August 23rd"
+        }
+    ],
+    "References": [
+        "Holland et al., GCN 8112",
+        "Barthelmy et al., GCN 8113",
+        "Kennea et al., Atel 1675",
+        "Gogus et al., Atel 1677",
+        "Mangano et al., Atel 1682",
+        "Palmer et al., Atel 1678",
+        "Rea et al., GCN 8152"
+    ],
+    "Event Type": "Observation",
+    "Time": "01:04:00",
+    "Date": "2008 August 23rd",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-PN",
+    "Observatory": "XMM-Newton"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": "17:50:24.33",
+            "Dec": "-29:02:14.3",
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": [
+                "14:47-15:04 UT",
+                "21:18-21:34 UT"
+            ],
+            "Date": "March 24, 25, 2008"
+        },
+        {
+            "Name": "XTE J1810-189",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": "March 18, 2008"
+        }
+    ],
+    "References": [
+        "Natalucci et al. 1999, ApJ, 523, 45",
+        "Markwardt et al. 2008, ATel #1424, #1443",
+        "Steeghs et al. 2008, ATel #1431",
+        "Kaaret et al. 2002, ApJ, 575, 1018",
+        "Markwardt & Swank 2008, ATel #1425",
+        "Starling et al. 2008, ATel #1441"
+    ],
+    "Event Type": "Observations",
+    "Time": [
+        "14:47-15:04 UT",
+        "21:18-21:34 UT"
+    ],
+    "Date": "March 24, 25, 2008",
+    "Telescope": "Swift, 6.5m Magellan Baade telescope",
+    "Instrument": "XRT, PANIC camera",
+    "Observatory": "Swift Observatory, Magellan Observatory"
+}

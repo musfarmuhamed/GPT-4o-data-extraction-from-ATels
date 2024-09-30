@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bc",
+            "RA": "07:10:13.517",
+            "Dec": "+27:12:09.97",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-01-23.36",
+            "Date": "2017-01-23"
+        },
+        {
+            "Name": "2MASX J07101346+2712041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2017nh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "All Sky Automated Survey for SuperNovae (ASAS-SN)",
+        "Brutus telescope in Haleakala, Hawaii",
+        "J. Brimacombe",
+        "NED",
+        "Ohio State University",
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Mt. Cuba Astronomical Foundation",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2017-01-23.36",
+    "Date": "2017-01-23",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI/GSC",
+            "RA": "264.733",
+            "Dec": "-37.948",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "14:23 UT",
+            "Date": "March 19 2018"
+        },
+        {
+            "Name": "IGR J17379-3747",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016, PASJ, 68, S1",
+        "Bird et al. 2007, ApJS, 170, 175",
+        "Curran et al. 2013, arXiv 1107.2045v1",
+        "Krimm et al. 2013, ApJSS 209, 14",
+        "Kuulkers et al. 2003, A&A, 466, 595"
+    ],
+    "Event Type": "nova alert",
+    "Time": "19:01 UT",
+    "Date": "March 19 2018",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": "INTEGRAL"
+}

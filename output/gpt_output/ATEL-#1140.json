@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17098-3628",
+            "RA": "17h 09m 45.9s",
+            "Dec": "-36d 27' 58.8''",
+            "redshift": null,
+            "Type": null,
+            "Time": "14:47UT",
+            "Date": "July 9th 2007"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": "17h 09m 07.6s",
+            "Dec": "-36d 24' 24.9''",
+            "redshift": null,
+            "Type": null,
+            "Time": "14:47UT",
+            "Date": "July 9th 2007"
+        }
+    ],
+    "References": [
+        "Grebenev et al., ATEL #444",
+        "Kuulkers et al., ATEL #149",
+        "Capitanio et al., 2006",
+        "Rupen et al., ATEL #152",
+        "Pandey et al., 2006",
+        "Negueruela and Schurch, 2006",
+        "Kennea et al., ATEL #476",
+        "Rupen et al., ATEL #490"
+    ],
+    "Event Type": "observation",
+    "Time": "14:47UT",
+    "Date": "July 9th 2007",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017eaw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP supernova",
+            "Time": null,
+            "Date": "2017-05-14"
+        }
+    ],
+    "References": "ATel #10372",
+    "Event Type": "spectra observation",
+    "Time": [
+        "22 days after discovery",
+        "33 days after discovery",
+        "43 days after discovery",
+        "53 days after discovery",
+        "107 days after discovery",
+        "124 days after discovery"
+    ],
+    "Date": null,
+    "Telescope": "8.1 meter Gemini-North",
+    "Instrument": "GNIRS",
+    "Observatory": null
+}

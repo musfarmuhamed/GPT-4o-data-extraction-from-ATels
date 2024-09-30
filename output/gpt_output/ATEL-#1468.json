@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17473-2721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "13:36",
+            "Date": "2008-04-08"
+        },
+        {
+            "Name": "XTE J1747-274",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "13:36",
+            "Date": "2008-04-08"
+        }
+    ],
+    "References": [
+        "ATel #1459",
+        "ATel #1460",
+        "ATel #1461",
+        "ATel #467",
+        "ATel #498",
+        "ATel #1445",
+        "ATel #1385"
+    ],
+    "Event Type": "Renewed accretion activity",
+    "Time": "10:18",
+    "Date": "2008-04-08",
+    "Telescope": [
+        "Swift",
+        "XRT",
+        "XTE",
+        "PCA",
+        "INTEGRAL",
+        "IBIS",
+        "ISGRI",
+        "SuperAGILE",
+        "IBIS",
+        "ISGRI",
+        "JEM-X",
+        "Swift",
+        "BAT"
+    ],
+    "Instrument": [
+        "XRT",
+        "PCA",
+        "IBIS",
+        "ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

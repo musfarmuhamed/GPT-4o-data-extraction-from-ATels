@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EC 53",
+            "RA": "18:29:51.2",
+            "Dec": "+01:16:39.5",
+            "redshift": null,
+            "Type": "YSO",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Herczeg et al. 2017 ApJ, 849, 43",
+        "Johnstone et al. 2018 ApJ, 854, 31",
+        "Hodapp et al. 2012, ApJ, 744, 56",
+        "Yoo et al. 2017, ApJ, 849, 69",
+        "Mairs et al. 2017 ApJ, 843, 55"
+    ],
+    "Event Type": "Monitoring Programme",
+    "Time": "March 30, 2018 to April 25, 2018",
+    "Date": null,
+    "Telescope": [
+        "JCMT",
+        "Liverpool Telescope",
+        "UKIRT"
+    ],
+    "Instrument": [
+        "SCUBA2",
+        "Wide Field Camera (WFCAM)"
+    ],
+    "Observatory": "JCMT Transient Survey"
+}

@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16afq",
+            "RA": "04 54 49.00",
+            "Dec": "-30 10 06.9",
+            "redshift": 0.077,
+            "Type": "SNIa",
+            "Time": "around max light",
+            "Date": "2016-02-23"
+        },
+        {
+            "Name": "Gaia16afo",
+            "RA": "04 55 54.70",
+            "Dec": "-29 34 13.6",
+            "redshift": 0.074,
+            "Type": "SNIc-BL",
+            "Time": "around max light",
+            "Date": "2016-02-23"
+        },
+        {
+            "Name": "Gaia16afe",
+            "RA": "06 07 08.20",
+            "Dec": "-45 10 52.2",
+            "redshift": 0.039,
+            "Type": "SNI-pec",
+            "Time": "around max light",
+            "Date": "2016-02-21"
+        },
+        {
+            "Name": "Gaia16afr",
+            "RA": "09 33 45.49",
+            "Dec": "-41 18 44.4",
+            "redshift": null,
+            "Type": "variable",
+            "Time": null,
+            "Date": "2016-02-23"
+        },
+        {
+            "Name": "SN2016aqb",
+            "RA": "11 21 58.37",
+            "Dec": "-13 59 01.2",
+            "redshift": 0.063,
+            "Type": "SNIa",
+            "Time": "around max light",
+            "Date": "2016-02-01"
+        },
+        {
+            "Name": "SN2016aqa",
+            "RA": "11 23 52.74",
+            "Dec": "-05 33 06.5",
+            "redshift": 0.052,
+            "Type": "SNIa",
+            "Time": "around max light",
+            "Date": "2016-02-08"
+        },
+        {
+            "Name": "Gaia16aec",
+            "RA": "11 52 48.90",
+            "Dec": "-33 07 27.3",
+            "redshift": 0.061,
+            "Type": "SNII",
+            "Time": "young",
+            "Date": "2016-02-15"
+        },
+        {
+            "Name": "Gaia16afw",
+            "RA": "13 17 13.20",
+            "Dec": "-17 15 06.5",
+            "redshift": 0.008,
+            "Type": "SNIb/c",
+            "Time": "around max light",
+            "Date": "2016-02-24"
+        },
+        {
+            "Name": "SN2016ahb",
+            "RA": "13 33 16.85",
+            "Dec": "-16 07 34.4",
+            "redshift": 0.021,
+            "Type": "SNIa",
+            "Time": "around max light",
+            "Date": "2016-02-16"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Baltay et al. 2013, PASP, 125, 683; Drake et al. 2009, 696, 870; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-02-25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

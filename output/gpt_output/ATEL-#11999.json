@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018fgj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030978",
+            "Type": "Ia",
+            "Time": "Near max.",
+            "Date": "2018-08-29.46"
+        },
+        {
+            "Name": "AT 2018fgd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-08-28.24"
+        },
+        {
+            "Name": "AT 2018fjp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-08-28.27"
+        }
+    ],
+    "References": "ATel #11979, ATel #11266, Tonry et al. 2011, Tonry et al. ATel #8680, Blondin & Tonry, 2007, ApJ, 666, 1024, Fremling et al. in TNS",
+    "Event Type": "optical spectroscopic observation of supernova candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

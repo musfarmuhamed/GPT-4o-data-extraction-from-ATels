@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 0444+63",
+            "RA": "72.34717",
+            "Dec": "63.53595",
+            "redshift": "0.781",
+            "Type": "blazar",
+            "Time": "various times",
+            "Date": "various dates"
+        },
+        {
+            "Name": "TXS 0444+634",
+            "RA": "72.34717",
+            "Dec": "63.53595",
+            "redshift": "0.781",
+            "Type": "blazar",
+            "Time": "various times",
+            "Date": "various dates"
+        },
+        {
+            "Name": "GB6 J0449+6332",
+            "RA": "72.34717",
+            "Dec": "63.53595",
+            "redshift": "0.781",
+            "Type": "blazar",
+            "Time": "various times",
+            "Date": "various dates"
+        },
+        {
+            "Name": "2FAV J0449+63.5",
+            "RA": "72.34717",
+            "Dec": "63.53595",
+            "redshift": "0.781",
+            "Type": "blazar",
+            "Time": "various times",
+            "Date": "various dates"
+        }
+    ],
+    "References": [
+        "Abdollahi et al. 2017, ApJS, accepted",
+        "Fey et al. 2004, AJ, 127, 3587",
+        "Stickel & Kuhr 1993, A&AS, 101, 521",
+        "Ackermann et al. 2013, ApJ, 771, 57",
+        "Acero et al. 2015, ApJS 218, 23",
+        "Hartman et al, 1999 ApJS 123, 79",
+        "Kalberla et al. 2005, A&A, 440, 775"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "various times",
+    "Date": "July 11, 12 and 13, 2017",
+    "Telescope": "Fermi Gamma-ray Space Telescope, Swift",
+    "Instrument": "Large Area Telescope (LAT), XRT",
+    "Observatory": "NASA, Swift Observatory"
+}

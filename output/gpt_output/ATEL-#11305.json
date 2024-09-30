@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18bq",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035",
+            "Type": "IIb",
+            "Time": "2018-02-14.27",
+            "Date": "2018-01-29.51"
+        },
+        {
+            "Name": "SN2018mc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035",
+            "Type": "IIb",
+            "Time": "2018-02-14.27",
+            "Date": "2018-01-29.51"
+        }
+    ],
+    "References": "ATel #8992, ATEL #8944, #8979",
+    "Event Type": "spectroscopic classification",
+    "Time": "2018-02-14.27",
+    "Date": "2018-01-29.51",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope (NOT)"
+}

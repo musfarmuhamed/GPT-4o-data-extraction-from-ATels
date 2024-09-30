@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1834.9-0846",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2011 August 9-10"
+        },
+        {
+            "Name": "RXTE Pulsar (association with Swift J1834.9-0846)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": "2011 August 9"
+        }
+    ],
+    "References": [
+        "D'Elia et al. GCN Circ. 12253",
+        "Guiriec et al. 12255"
+    ],
+    "Event Type": "Observation",
+    "Time": "9.7 ks",
+    "Date": "2011 August 9-10",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

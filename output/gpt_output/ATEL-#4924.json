@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17446-2948",
+            "RA": "17 44 41.76",
+            "Dec": "-29 48 18.0",
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J174445.5-295044",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "moderately bright, rapidly variable transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Heinke et al., 2009; ATel #4000",
+    "Event Type": "Detection of a new hard X-ray transient",
+    "Time": "09:20",
+    "Date": "March 26, 2013",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

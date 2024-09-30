@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18jk",
+            "RA": "10 15 30.2",
+            "Dec": "-72 42 37.0",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180505"
+        },
+        {
+            "Name": "ASASSN-18jm",
+            "RA": "11 41 01.9",
+            "Dec": "-33 40 47.3",
+            "redshift": 0.053,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180505"
+        },
+        {
+            "Name": "SN2018bbv",
+            "RA": "15 55 48.8",
+            "Dec": "-68 52 14.4",
+            "redshift": 0.01,
+            "Type": "II",
+            "Time": null,
+            "Date": "20180425"
+        },
+        {
+            "Name": "C17-0117",
+            "RA": "13 34 34.0",
+            "Dec": "-13 25 45.3",
+            "redshift": 0.102,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "20180502"
+        },
+        {
+            "Name": "C17-0121",
+            "RA": "13 13 08.6",
+            "Dec": "-12 49 12.8",
+            "redshift": 0.15,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "20180424"
+        },
+        {
+            "Name": "Gaia18bcv",
+            "RA": "19 20 35.6",
+            "Dec": "-11 12 03.2",
+            "redshift": 0.0,
+            "Type": "stellar",
+            "Time": null,
+            "Date": "20180502"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.pessto.org",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "https://wis-tns.weizmann.ac.il/",
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 May 6",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

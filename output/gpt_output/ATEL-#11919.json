@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18sxr",
+            "IAU Name": "SN2018eoy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0701(0.0056)",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "ATLAS18sxt",
+            "IAU Name": "SN2018epa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0401(0.0032)",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "ATLAS18szp",
+            "IAU Name": "SN2018epf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0377(0.0087)",
+            "Type": "Ia/b",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "ATLAS18tay",
+            "IAU Name": "SN2018epw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0625(0.0049)",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "ATLAS18taz",
+            "IAU Name": "SN2018epx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0238(host)",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "PS18bfs",
+            "IAU Name": "SN2018emf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0722(0.0040)",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "Gaia18byl",
+            "IAU Name": "AT2018ems",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "2018-08-06"
+        }
+    ],
+    "References": null,
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2018-08-06",
+    "Telescope": "University of Hawaii 88-inch (UH88) telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "University of Hawaii"
+}

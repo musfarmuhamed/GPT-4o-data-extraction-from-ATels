@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 0619+33/VCS J0622+3326",
+            "RA": "06h22m52.221945s",
+            "Dec": "+33d26m10.41027s",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J0623.5+3330",
+            "RA": "06h22m40.96s",
+            "Dec": "+33d26m26.47s",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Kovalev et al. 2007, AJ 133, 1236; Abdo et al. 2010, ApJS 188, 405",
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "September 1-4, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

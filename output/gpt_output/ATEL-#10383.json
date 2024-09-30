@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AF And",
+            "RA": "J004333.08",
+            "Dec": "+411210.3",
+            "redshift": null,
+            "Type": "Luminous Blue Variable (LBV)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Var 19",
+            "RA": "J004333.08",
+            "Dec": "+411210.3",
+            "redshift": null,
+            "Type": "Luminous Blue Variable (LBV)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Humphreys & Davidson",
+            "Year": "1994"
+        },
+        {
+            "Author": "Hubble & Sandage",
+            "Year": "1953"
+        },
+        {
+            "Author": "Hornoch and Kucakova",
+            "Year": null
+        }
+    ],
+    "Event Type": "S Doradus outburst",
+    "Time": "0.088 UT and 0.064 UT",
+    "Date": "2017 May 8 and 2017 May 11",
+    "Telescope": [
+        "0.65-m telescope",
+        "20-inch telescope"
+    ],
+    "Instrument": "BVR imaging",
+    "Observatory": [
+        "Ondrejov observatory",
+        "University of Illinois Springfield Henry R. Barber Observatory in Pleasant Plains, IL, USA"
+    ]
+}

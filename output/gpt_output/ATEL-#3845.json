@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "10h 51m 23.02s",
+            "Dec": "+67d 25m 28.3s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2012-01-01.70 UT",
+            "Date": "2012-01-01"
+        }
+    ],
+    "References": {
+        "X-ray": "ROSAT",
+        "radio": "ARXA",
+        "optical": "USNO-A2.0 star"
+    },
+    "Event Type": "discovery",
+    "Time": "2012-01-01.70 UT",
+    "Date": "2012-01-01",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "V filter",
+    "Observatory": "MASTER Robotic Net"
+}

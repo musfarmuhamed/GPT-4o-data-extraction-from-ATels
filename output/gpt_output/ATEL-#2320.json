@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6 B1310+4844",
+            "RA": "13:12:54.1",
+            "Dec": "+48:27:58.2",
+            "redshift": null,
+            "Type": "Gamma-ray flare",
+            "Time": null,
+            "Date": "2009-11-28"
+        },
+        {
+            "Name": "Nearby star",
+            "RA": "13:12:54.1",
+            "Dec": "+48:27:58.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #2316, Lupton 2005; http://www.sdss.org/dr6/algorithms/sdssUBVRITransform.html",
+    "Event Type": "Gamma-ray flare",
+    "Time": null,
+    "Date": "2009-11-28",
+    "Telescope": "Kanata 1.5-m",
+    "Instrument": null,
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

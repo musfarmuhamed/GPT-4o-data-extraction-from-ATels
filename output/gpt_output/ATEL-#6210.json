@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J14354590+2443179",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": "07.97 UT",
+            "Date": "June 07"
+        },
+        {
+            "Name": "PSN J17423216+6735418",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": "08.04 UT",
+            "Date": "June 08"
+        }
+    ],
+    "References": [
+        "SDSS DR6 2007; via NED",
+        "Huchra et al 2012, ApJS, 199, 26; via NED",
+        "GELATO (Harutyunyan et al. 2008, A.Ap. 488, 383)",
+        "SNID (Blondin and Tonry 2007, Ap.J. 666, 1024)"
+    ],
+    "Event Type": "Spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

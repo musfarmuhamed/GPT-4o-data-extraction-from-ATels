@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 287",
+            "RA": "08h 54m 48.874s",
+            "Dec": "+20d 06m 30.64s",
+            "redshift": "0.306",
+            "Type": "BL Lac object",
+            "Time": "06:00 to 12:00 UT",
+            "Date": "10 October 2011"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Falomo, Scarpa, & Bersanelli 1994, ApJS, 93, 125",
+        "Sitko & Junkkarinen 1985, PASP, 97, 1158"
+    ],
+    "Event Type": "Gamma-ray flux observation",
+    "Time": "06:00 to 12:00 UT",
+    "Date": "10 October 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

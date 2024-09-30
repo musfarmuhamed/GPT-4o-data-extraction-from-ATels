@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16479-4514",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": "06:33:07",
+            "Date": "January 29"
+        }
+    ],
+    "References": "ATel#1435; Romano et al. 2008, ApJ, 680, L137",
+    "Event Type": "outburst",
+    "Time": "06:33:07",
+    "Date": "January 29",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

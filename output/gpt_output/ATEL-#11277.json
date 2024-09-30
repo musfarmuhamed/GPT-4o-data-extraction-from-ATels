@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "17:49:53 UT",
+            "Date": "2018-02-02"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 349+2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Altamirano, D., et al., 2011, ApJ, 742, L17",
+        "Court, J. M. C., et al., 2017, MNRAS, 468, 4748",
+        "King, A. L., et al., 2012, ApJ, 746, L20",
+        "Reis, R., et al., 2012, ATEL 4382",
+        "Xu, Y., et al., 2017, ApJ, 851, 103"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": "17:49:53 UT",
+    "Date": "2018-02-02",
+    "Telescope": "Neil Gehrels Swift Observatory",
+    "Instrument": "XRT",
+    "Observatory": "NASA"
+}

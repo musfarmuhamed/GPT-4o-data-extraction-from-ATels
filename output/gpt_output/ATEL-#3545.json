@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J160557.60+275921.1",
+            "RA": "16h 05m 58.15s",
+            "Dec": "+27d 59m 21s.6",
+            "redshift": null,
+            "Type": "possible SN candidate",
+            "Time": "16:22:25",
+            "Date": "2011-08-09"
+        },
+        {
+            "Name": "SDSS J160558.47+275931.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "anonymous galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J160558.95+275921.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "anonymous galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OT",
+            "RA": "16h 05m 58.15s",
+            "Dec": "+27d 59m 21s.6",
+            "redshift": null,
+            "Type": "possible SN candidate",
+            "Time": "16:22:25",
+            "Date": "2011-08-09"
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/SN110809/SN110809.jpg",
+    "Event Type": "detection of new transient source",
+    "Time": "16:22:25",
+    "Date": "2011-08-09",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "Tunka"
+}

@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": "05:30",
+            "Date": "2017-09-29"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": null,
+            "Date": "2017-10-01"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": null,
+            "Date": "2017-10-03"
+        }
+    ],
+    "References": [
+        "ATel #10797",
+        "ATel #10798",
+        "ATel #10808",
+        "Motch et al. 1982 A&A 109 L1",
+        "Gandhi et al. 2010 MNRAS 407 2166",
+        "Casella et al. 2010 MNRAS 404 L21",
+        "O'Donoghue et al. 2006 MNRAS 372 151",
+        "Merloni et al. 2000 MNRAS 318 L15",
+        "Yuan et al. 2005 ApJ 620 905",
+        "Durant et al. 2009 MNRAS 392 309",
+        "Gandhi et al. 2010",
+        "Veledina et al. 2013 MNRAS 430 3196",
+        "Malzac 2014 MNRAS 443 299",
+        "Gandhi et al. 2016 MNRAS 459 554"
+    ],
+    "Event Type": "New outburst",
+    "Time": "18:06",
+    "Date": "2017-10-01",
+    "Telescope": "SALT",
+    "Instrument": "SALTICAM",
+    "Observatory": "SALT"
+}

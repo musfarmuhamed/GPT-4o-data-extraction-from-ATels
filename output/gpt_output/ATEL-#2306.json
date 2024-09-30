@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6 B1310+4844",
+            "RA": "13:12:43.354",
+            "Dec": "+48:28:30.94",
+            "redshift": "0.501",
+            "Type": "flat spectrum radio quasar",
+            "Time": "high state",
+            "Date": "November 18, 2009"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Healey et al. 2008, ApJS, 175, 97",
+        "Falco et al. 1998, ApJ, 494, 47",
+        "Helmboldt et al. 2007 ApJ, 658, 203"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Large Area Telescope",
+    "Instrument": "LAT",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

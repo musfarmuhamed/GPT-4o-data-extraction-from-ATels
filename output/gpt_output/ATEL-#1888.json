@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J123939+044409",
+            "RA": "189.9",
+            "Dec": "4.7",
+            "redshift": "Null",
+            "Type": "GeV source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "3EG J1236+0457",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "EGRET source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SDSS J123932.75+044305",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "~1.76",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CRATES J1239+0443",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "CRATES source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Mattox, Hartman & Reimer 2001, ApJS 135",
+    "Event Type": "large flare",
+    "Time": "Null",
+    "Date": "December 27-31, 2008",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

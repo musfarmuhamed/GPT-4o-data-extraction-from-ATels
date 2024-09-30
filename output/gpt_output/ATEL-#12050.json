@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "3.8 mcrab (1-10 keV) around MJD 58362, 2.3 mcrab by MJD 58367, 5.4 mcrab as of MJD 58376.8",
+            "Date": "2018 August 18 (MJD 58348)"
+        }
+    ],
+    "References": [
+        "ATel #11957",
+        "Sanna et al. 2018, arXiv:1808.10195",
+        "ATel #12004",
+        "Altamirano et al. 2008, ApJL 674, 45",
+        "Galloway et al. 2007, ApJL 654, 73"
+    ],
+    "Event Type": "re-brightening",
+    "Time": "MJD 58362, MJD 58367, MJD 58376.8",
+    "Date": "2018 August 18 (MJD 58348)",
+    "Telescope": "NICER",
+    "Instrument": "0.2-12 keV X-ray telescope",
+    "Observatory": "International Space Station"
+}

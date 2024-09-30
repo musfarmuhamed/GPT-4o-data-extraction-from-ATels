@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQgki",
+            "RA": "01:10:24.55",
+            "Dec": "-22:28:32.8",
+            "redshift": 0.123,
+            "Type": "SNIa",
+            "Time": "few days after maximum",
+            "Date": "Nov. 03.16"
+        },
+        {
+            "Name": "OGLE-005",
+            "RA": "03:00:50.89",
+            "Dec": "-70:31:11.3",
+            "redshift": 0.076,
+            "Type": "SNIa",
+            "Time": "one month after maximum",
+            "Date": "Oct. 08.40"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Not specified",
+    "Date": "2012 November 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

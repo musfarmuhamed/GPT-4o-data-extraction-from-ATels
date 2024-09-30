@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0243-582",
+            "RA": 40.84,
+            "Dec": -58.2,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2014-03-24T19:24:10",
+            "Date": "2014-03-24"
+        },
+        {
+            "Name": "BZB J0244-5819",
+            "RA": 41.16707,
+            "Dec": -58.33188,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "2014-03-25T15:18:02",
+            "Date": "2014-03-25"
+        },
+        {
+            "Name": "MAXI J0243-582 (BL Lac candidate BZB J0244-5819)",
+            "RA": 41.16707,
+            "Dec": -58.33188,
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": "2014-03-25T15:18:02",
+            "Date": "2014-03-25"
+        }
+    ],
+    "References": [
+        "Hiroi et al., ApJS, 207, 36, 2013"
+    ],
+    "Event Type": "X-ray Nova Alert",
+    "Time": "2014-03-24T19:24:10",
+    "Date": "2014-03-24",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "MAXI/GSC"
+}

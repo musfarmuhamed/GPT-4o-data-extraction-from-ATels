@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080924:044524+182425",
+            "RA": "04:45:24.00",
+            "Dec": "18:24:25.1",
+            "redshift": "0.0155",
+            "Type": "SN",
+            "Time": "11:17:06",
+            "Date": "2008-09-24"
+        },
+        {
+            "Name": "CSS080923:011149+143826",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #1734, CBET1513",
+    "Event Type": "Supernova Detection",
+    "Time": null,
+    "Date": "2008-09-24",
+    "Telescope": "ROTSE-III",
+    "Instrument": null,
+    "Observatory": null
+}

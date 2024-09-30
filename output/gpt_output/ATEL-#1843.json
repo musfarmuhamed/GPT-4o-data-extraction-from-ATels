@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT20G J091058-504807",
+            "RA": "09 10 58.08",
+            "Dec": "-50 48 07.4",
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": null,
+            "Date": "October/November 2005"
+        },
+        {
+            "Name": "MGPS J091057-504808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-frequency Radio Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J0910-5041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi LAT Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1788",
+        "ATEL #1822",
+        "Massardi et al. (2008)",
+        "Murphy et al. 2009"
+    ],
+    "Event Type": "Detection of associated X-ray and radio sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Australia Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

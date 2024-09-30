@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVV-NOV-005",
+            "RA": "16:21:59.09",
+            "Dec": "-51:08:41.00",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2010-03-06"
+        }
+    ],
+    "References": [
+        "vvvsurvey.org",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "ATel#4426",
+        "ATel#4830",
+        "ATel#6022",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2010-2012",
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO"
+}

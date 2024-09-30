@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13ba",
+            "RA": "01:17:00.56",
+            "Dec": "-05:06:04.6",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "2.55",
+            "Date": "2013 July 2"
+        },
+        {
+            "Name": "ASASSN-13ax",
+            "RA": "18:00:05.78",
+            "Dec": "+52:56:35.3",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "1.41",
+            "Date": "2013 July 1"
+        }
+    ],
+    "References": "ATel #5168, #5181, #5183",
+    "Event Type": "New Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

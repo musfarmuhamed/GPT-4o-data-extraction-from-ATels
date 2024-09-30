@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ef (AT 2018yq)",
+            "RA": "12:15:23.136",
+            "Dec": "27:37:35.13",
+            "redshift": "0.035949",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-22.33"
+        },
+        {
+            "Name": "ASASSN-18dv (AT 2018yj)",
+            "RA": "05:03:19.689",
+            "Dec": "-10:58:18.06",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-25.11"
+        },
+        {
+            "Name": "ASASSN-18du (AT 2018yi)",
+            "RA": "13:38:20.190",
+            "Dec": "-06:15:10.14",
+            "redshift": "0.054971",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-17.23"
+        },
+        {
+            "Name": "ASASSN-18dt (AT 2018yh)",
+            "RA": "14:09:01.411",
+            "Dec": "-30:33:25.98",
+            "redshift": "0.023436",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-24.26"
+        },
+        {
+            "Name": "ASASSN-18dr (AT 2018yg)",
+            "RA": "12:25:58.541",
+            "Dec": "04:28:26.30",
+            "redshift": "0.018469",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-23.23"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery of transient sources",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Quadruple 14-cm telescopes",
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

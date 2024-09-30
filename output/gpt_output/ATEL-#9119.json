@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J83637.5+733504.8",
+            "RA": "08h 36m 37.5s",
+            "Dec": "+73d 35m 04.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "16:14:44.427UT",
+            "Date": "2016-06-04"
+        },
+        {
+            "Name": "PGC024209",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "barred spiral",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "OT source discovery",
+    "Time": "16:14:44.427UT",
+    "Date": "2016-06-04",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

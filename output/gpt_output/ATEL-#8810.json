@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTERJ075402.95-011355.8",
+            "RA": "07:54:02.95",
+            "Dec": "-01:13:55.80",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16awz",
+            "RA": "10:19:34.61",
+            "Dec": "-01:00:32.60",
+            "redshift": "0.043",
+            "Type": "Ib",
+            "Time": "pre-max",
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16ave",
+            "RA": "10:25:47.88",
+            "Dec": "-11:25:17.60",
+            "redshift": "0.038",
+            "Type": "IIb",
+            "Time": "~max",
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16axn",
+            "RA": "11:02:06.98",
+            "Dec": "-03:40:25.40",
+            "redshift": "0.057",
+            "Type": "?",
+            "Time": null,
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16avk",
+            "RA": "12:32:05.30",
+            "Dec": "+06:34:03.70",
+            "redshift": "0.088",
+            "Type": "?",
+            "Time": null,
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16atv",
+            "RA": "13:15:13.35",
+            "Dec": "-17:33:43.60",
+            "redshift": "0.065",
+            "Type": "Iax",
+            "Time": "+15d",
+            "Date": "2016 March 11"
+        },
+        {
+            "Name": "PS16awf",
+            "RA": "13:57:59.78",
+            "Dec": "-21:01:30.10",
+            "redshift": "0.15",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2016 March 11"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2016 March 11",
+    "Telescope": "Southern Astrophysical Research (SOAR)",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

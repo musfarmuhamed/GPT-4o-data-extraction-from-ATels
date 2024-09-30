@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J031145.65+440919.6 = PS1-13eet",
+            "RA": "03h 11m 45.65s",
+            "Dec": "+44d 09m 19.6s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "03.81796 UT",
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "SDSS J031145.76+440919.8",
+            "RA": "03h 11m 45.76s",
+            "Dec": "+44d 09m 19.8s",
+            "redshift": null,
+            "Type": "Rmag 23.1",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/MASTERJ031145.65+440919.6.jpg",
+    "Event Type": null,
+    "Time": "03.81796 UT",
+    "Date": "2014-10-03",
+    "Telescope": null,
+    "Instrument": "MASTER-Tunka auto-detection system",
+    "Observatory": "MASTER-Tunka"
+}

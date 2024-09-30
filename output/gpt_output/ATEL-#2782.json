@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray transient source",
+            "Time": "00:15",
+            "Date": "2010-08-08"
+        },
+        {
+            "Name": "2RXP J130159.6-635806",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Chernyakova et al. 2006",
+        "Chernyakova et al. 2005",
+        "ATel #2772"
+    ],
+    "Event Type": "gamma-ray transient source detection",
+    "Time": "00:15",
+    "Date": "2010-08-08",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

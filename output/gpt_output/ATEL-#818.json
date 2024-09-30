@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": "08:40:47.97",
+            "Dec": "-45:03:29.8",
+            "redshift": null,
+            "Type": "SF-XRT",
+            "Time": "10:46UT",
+            "Date": "May 22, 2006"
+        },
+        {
+            "Name": "HD 74194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #814",
+        "ATEL #817",
+        "ATEL #815",
+        "Schroeder et al., 2004"
+    ],
+    "Event Type": "Observation",
+    "Time": "10:46UT",
+    "Date": "May 22, 2006",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT photon counting mode",
+    "Observatory": "Swift"
+}

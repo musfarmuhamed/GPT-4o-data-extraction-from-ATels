@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15afx",
+            "RA": "10:10:56.26",
+            "Dec": "+02:53:46.9",
+            "redshift": "0.0973",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-04-10.23"
+        },
+        {
+            "Name": "iPTF15agv",
+            "RA": "10:58:59.07",
+            "Dec": "+46:40:25.2",
+            "redshift": "0.035",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-04-12.33"
+        },
+        {
+            "Name": "iPTF15ahf",
+            "RA": "12:22:27.74",
+            "Dec": "+53:25:18.0",
+            "redshift": "0.16",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-04-12.43"
+        },
+        {
+            "Name": "iPTF15ahk",
+            "RA": "13:35:07.93",
+            "Dec": "+54:18:23.1",
+            "redshift": "0.147",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-04-12.46"
+        },
+        {
+            "Name": "iPTF15aip",
+            "RA": "08:47:36.13",
+            "Dec": "+49:32:39.4",
+            "redshift": "0.117",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-04-14.26"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

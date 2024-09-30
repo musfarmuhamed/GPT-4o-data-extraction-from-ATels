@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ni",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "19:07 UT to 21:26 UT",
+            "Date": "July 28"
+        }
+    ],
+    "References": [
+        "ATels #7850",
+        "ATels #7854"
+    ],
+    "Event Type": "optical monitoring",
+    "Time": "19:07 UT to 21:26 UT",
+    "Date": "July 28",
+    "Telescope": "0.4m UCD Watcher robotic telescope",
+    "Instrument": [
+        "SDSS g'",
+        "r'",
+        "i' filters"
+    ],
+    "Observatory": "Boyden Observatory, South Africa"
+}

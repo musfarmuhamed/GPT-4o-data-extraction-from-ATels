@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2233-148",
+            "RA": 339.97,
+            "Dec": -14.61,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "10:00",
+            "Date": "2012-06-03"
+        },
+        {
+            "Name": "BZB J2236-1433",
+            "RA": 339.97,
+            "Dec": -14.61,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "22:00",
+            "Date": "2012-06-05"
+        }
+    ],
+    "References": [
+        "Massaro et al., 2011, A&A 495",
+        "Petrov et al. 2008 (AJ, 136, 580)",
+        "Atel #4152"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "10:00",
+    "Date": "2012-06-03",
+    "Telescope": "Fermi-LAT",
+    "Instrument": null,
+    "Observatory": "AGILE"
+}

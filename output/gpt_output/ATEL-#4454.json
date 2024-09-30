@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": "00:03",
+            "Date": "2012-09-30"
+        },
+        {
+            "Name": "SN 2010jl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Smith & Mauerhan ATel #4412, ATel #4427, Mauerhan et al. arXiv:1209.6320, Vernet et al. 2011, A&A, 536, A105, Burgasser et al. ATel #4431, Vinko et al. #4435, Smith et al. 2011, ApJ, 732, 63, Dwek et al. 1983, ApJ, 274, 168",
+    "Event Type": "outburst",
+    "Time": "00:03",
+    "Date": "2012-09-30",
+    "Telescope": "VLT",
+    "Instrument": "X-shooter spectrograph",
+    "Observatory": null
+}

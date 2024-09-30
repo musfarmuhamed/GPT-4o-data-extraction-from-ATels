@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J15035487+4206553",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016872",
+            "Type": "Ib/c",
+            "Time": "Dec. 23.10 UT",
+            "Date": "Dec. 23"
+        },
+        {
+            "Name": "PSN J04424114+1834597",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.012",
+            "Type": "Ia",
+            "Time": "Dec. 22.98 UT",
+            "Date": "Dec. 22"
+        }
+    ],
+    "References": [
+        "Bottinelli et al. 1993, A&AS 102, 57, via NED",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectral classification of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

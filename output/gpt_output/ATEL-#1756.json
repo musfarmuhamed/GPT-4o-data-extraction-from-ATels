@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1550-5418",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXP 1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al. GCN 8311, 8312",
+        "Gelfand & Gaensler 2007",
+        "Camilo et al. 2008",
+        "Halpern et al. 2008",
+        "http://staff.science.uva.nl/~nrea/1E1546_XMM_CXO_GCNs.jpg"
+    ],
+    "Event Type": "Galactic short bursts",
+    "Time": null,
+    "Date": "today",
+    "Telescope": "Swift-BAT",
+    "Instrument": [
+        "XRT",
+        "XMM-Newton",
+        "Chandra"
+    ],
+    "Observatory": null
+}

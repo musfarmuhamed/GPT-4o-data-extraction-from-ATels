@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+16",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.940",
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": "Sept 1st, 2008"
+        },
+        {
+            "Name": "3EG J0237+1635",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": "1999"
+        }
+    ],
+    "References": [
+        "Villata et al (ATEL #1724)",
+        "Balonek and Lam (ATEL #1735)",
+        "Cohen et al. 1987, ApJ, 18, 577",
+        "Hartman et al., 1999, ApJS, 123, 79"
+    ],
+    "Event Type": "Gamma-ray flux observation",
+    "Time": null,
+    "Date": "Sept 1st, 2008",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

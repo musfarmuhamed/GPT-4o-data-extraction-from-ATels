@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1036-56",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be high mass X-ray binary",
+            "Time": "14:27 to 07:45",
+            "Date": "11 Jun to 12 Jun"
+        }
+    ],
+    "References": [
+        "ATels #8425",
+        "ATels #8435",
+        "ATel #3936"
+    ],
+    "Event Type": "X-ray activity",
+    "Time": "14:27 to 07:45",
+    "Date": "11 Jun to 12 Jun",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X2"
+    ],
+    "Observatory": null
+}

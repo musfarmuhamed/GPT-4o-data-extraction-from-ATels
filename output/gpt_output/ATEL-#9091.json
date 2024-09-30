@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fq",
+            "RA": "11:20:19.09",
+            "Dec": "+12:58:57.2",
+            "redshift": "0.002425",
+            "Type": "Supernova",
+            "Time": "UT 2016-05-28.30",
+            "Date": "2016-05-28"
+        },
+        {
+            "Name": "M66",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002425",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NED"
+    ],
+    "Event Type": "Discovery",
+    "Time": "UT 2016-05-28.30",
+    "Date": "2016-05-28",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

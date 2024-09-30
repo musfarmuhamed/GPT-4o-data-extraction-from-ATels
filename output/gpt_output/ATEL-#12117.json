@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1724-298",
+            "RA": "265.734",
+            "Dec": "-29.891",
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "17:18",
+            "Date": "2018-10-14"
+        },
+        {
+            "Name": "1E 1740.7-2942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J174444.9-295042",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Dim X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXS 1737.9-2952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible black hole transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Negoro et al. 2016, PASJ, 68, S1; Bandyopadhyay et al. ATel #4111; Durouchoux et al. 1998, ApJ 507, 781",
+    "Event Type": "X-ray burst-like event",
+    "Time": "17:18",
+    "Date": "2018-10-14",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J023059.78-172027.1",
+            "RA": "02h 30m 59.78s",
+            "Dec": "-17d 20m 27.1s",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "2018-08-11.15934 UT",
+            "Date": "2018-08-11"
+        },
+        {
+            "Name": "SDSS galaxy",
+            "RA": "02h 30m 59.78s",
+            "Dec": "-17d 20m 27.1s",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "Adelman-McCarthy, 2012",
+        "Lipunov et al., GCN 23126"
+    ],
+    "Event Type": "discovery",
+    "Time": "2018-08-10 06:40:46.74 UT",
+    "Date": "2018-08-10",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "SAAO"
+}

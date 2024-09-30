@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS120327:110520-015205",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Supernova Ia/Ic/IIn",
+            "Time": "29.13UT",
+            "Date": "2012-03-27"
+        }
+    ],
+    "References": [
+        "Drake et al. 2012, ATel#4011",
+        "Aldering et al. 2006",
+        "Prieto et al. 2007",
+        "Germany et al. 2000",
+        "Schlegel et al. 1998, ApJ, 500, 525"
+    ],
+    "Event Type": "Transient Discovery",
+    "Time": "27.2UT",
+    "Date": "2012-03-27",
+    "Telescope": "Catalina Sky Survey (CSS) Schmidt telescope, Palomar 1.5m telescope, Gran Telescopio CANARIAS (GTC)",
+    "Instrument": "OSIRIS (range 370-785 nm)",
+    "Observatory": "Catalina Sky Survey (CSS), Palomar, Gran Telescopio CANARIAS (GTC)"
+}

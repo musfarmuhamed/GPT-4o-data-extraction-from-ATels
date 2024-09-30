@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15cz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN 1998aq",
+            "Time": "13.18 UT",
+            "Date": "2015-02-13"
+        },
+        {
+            "Name": "ASASSN-15da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN 1998aq",
+            "Time": "13.35 UT",
+            "Date": "2015-02-13"
+        }
+    ],
+    "References": "ATEL #7058, ATEL #7061, Blondin and Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "13.18 UT, 13.35 UT",
+    "Date": "2015-02-13",
+    "Telescope": "Hiltner 2.4 m",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM Observatory on Kitt Peak, Arizona"
+}

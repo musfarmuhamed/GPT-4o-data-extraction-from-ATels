@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift-XRT transient object in Terzan 5",
+            "RA": "17:48:5.20",
+            "Dec": "-24:46:48.7",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3720",
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Goad et al. (2007, A&A, 476, 1401)"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "07h 59m 17.19s",
+            "Dec": "+10d 12m 06.1s",
+            "redshift": null,
+            "Type": "OT (Optical Transient)",
+            "Time": "22:45:00",
+            "Date": "2012-01-22"
+        },
+        {
+            "Name": "PGC1376112 galaxy center",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/PGC1376112/PGC1376112.jpg",
+    "Event Type": "OT (Optical Transient) Detection",
+    "Time": "20:22:37",
+    "Date": "2012-01-22",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Robotic Net"
+}

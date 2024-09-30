@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IC 310",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active galaxy",
+            "Time": "16:08 until 19:39",
+            "Date": "2012-11-14"
+        }
+    ],
+    "References": [
+        {
+            "authors": "Kalberla et al.",
+            "year": 2005,
+            "title": "Astron. Astrophys. 440, 775"
+        },
+        {
+            "authors": "Sato et al.",
+            "year": 2005,
+            "title": "PASJ 57, 743"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "16:08 until 19:39",
+    "Date": "2012-11-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT",
+        "MAGIC telescopes"
+    ],
+    "Observatory": null
+}

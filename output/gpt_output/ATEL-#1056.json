@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 1048.1-5937",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar (AXP)",
+            "Time": null,
+            "Date": "2007 April 13"
+        },
+        {
+            "Name": "XTE J1810-197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar (AXP)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATEL": "#1041",
+            "Link": null
+        },
+        {
+            "ATEL": "#1043",
+            "Link": null
+        },
+        {
+            "ATEL": "#1044",
+            "Link": null
+        },
+        {
+            "Burgay et al. 2006, MNRAS, 372, 410": null
+        },
+        {
+            "Camilo et al. 2006, Nature, 442, 892": null
+        }
+    ],
+    "Event Type": "Search for radio emission",
+    "Time": "MJD 54203.2",
+    "Date": "2007 April 13",
+    "Telescope": "ATNF Parkes telescope",
+    "Instrument": "HOH receiver",
+    "Observatory": "Australia"
+}

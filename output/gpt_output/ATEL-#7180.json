@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15dz",
+            "RA": "16:41:20.87",
+            "Dec": "+08:54:31.7",
+            "redshift": "0.033",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Mar 06"
+        },
+        {
+            "Name": "ASASSN-15eb",
+            "RA": "08:06:07.40",
+            "Dec": "-22:33:48.9",
+            "redshift": "0.018",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Mar 06"
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATel #7145",
+        "Falco et al., 1999, PASP, 111, 438",
+        "ATel #7157",
+        "Huchra et al., 2012, ApJS, 199, 26"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "Null",
+    "Date": "2015 Mar 06",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS) using the B3000/R3000 gratings",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

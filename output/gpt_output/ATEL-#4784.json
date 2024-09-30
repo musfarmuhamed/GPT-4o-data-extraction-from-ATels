@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TYC 2505-672-1",
+            "RA": "09 53 10.00",
+            "Dec": "+33 53 52.7",
+            "redshift": null,
+            "Type": "M2III",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RZ LMi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ER UMa",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Pickles et al., 2010, UCAC4 catalogue (Zacharias et al., 2012), NSVS (ROTSE-I), Palomar plates, Palomar/NEAT images, 1RXS, IRAS bright source catalogs",
+    "Event Type": "fading of a star",
+    "Time": "2011-2013",
+    "Date": "2011-02-03 to 2013-02-01",
+    "Telescope": "MASTER",
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-Amur",
+        "MASTER-Kislovodsk"
+    ]
+}

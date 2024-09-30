@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J140957.49+290922.7",
+            "RA": "14h 09m 57.49s",
+            "Dec": "+29d 09m 22.7s",
+            "redshift": null,
+            "Type": "UV Ceti type (flaring red dwarf)",
+            "Time": "2014-04-03.67682 UT",
+            "Date": "2014-04-03"
+        },
+        {
+            "Name": "MASTER OT J072448.87+533952.1",
+            "RA": "07h 24m 48.87s",
+            "Dec": "+53d 39m 52.1s",
+            "redshift": null,
+            "Type": "UV Ceti type (flaring red dwarf)",
+            "Time": "2014-04-08.54936 UT",
+            "Date": "2014-04-08"
+        },
+        {
+            "Name": "MASTER OT J170025.50+573030.8",
+            "RA": "17h 00m 25.50s",
+            "Dec": "+57d 30m 30.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-04-12.99605 UT",
+            "Date": "2014-04-12"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/140957.49290922.7.png, http://master.sai.msu.ru/static/OT/072448.87533952.1.png, http://master.sai.msu.ru/static/OT/170025.50573030.8.jpg",
+    "Event Type": "Flare and Outburst of Celestial Objects",
+    "Time": "Various (see each celestial object)",
+    "Date": "Various (see each celestial object)",
+    "Telescope": "MASTER-Amur, MASTER-Tunka, MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

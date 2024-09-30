@@ -1,0 +1,117 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018beh",
+            "RA": "09 31 23.0",
+            "Dec": "+17 48 29.9",
+            "redshift": "0.06",
+            "Type": "Ib/c",
+            "Time": "Null",
+            "Date": "20180504"
+        },
+        {
+            "Name": "SN2018bae",
+            "RA": "14 52 49.5",
+            "Dec": "+18 04 48.7",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20180419"
+        },
+        {
+            "Name": "AT2018beg",
+            "RA": "13 51 20.1",
+            "Dec": "-48 01 28.9",
+            "redshift": "0.0",
+            "Type": "stellar",
+            "Time": "Null",
+            "Date": "20180503"
+        },
+        {
+            "Name": "AT2018bel",
+            "RA": "19 03 12.9",
+            "Dec": "-07 37 05.6",
+            "redshift": "0.0",
+            "Type": "stellar",
+            "Time": "Null",
+            "Date": "20180502"
+        },
+        {
+            "Name": "Null",
+            "RA": "15 08 03.2",
+            "Dec": "-27 01 54.9",
+            "redshift": "0.179",
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "20180318"
+        },
+        {
+            "Name": "SN2018bdm",
+            "RA": "18 28 02.0",
+            "Dec": "+16 07 40.6",
+            "redshift": "0.034",
+            "Type": "Ia-pec",
+            "Time": "Null",
+            "Date": "20180427"
+        },
+        {
+            "Name": "AT2018bdi",
+            "RA": "20 23 26.5",
+            "Dec": "+06 40 00.8",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20180426"
+        },
+        {
+            "Name": "AT2018bbv",
+            "RA": "15 55 48.8",
+            "Dec": "-68 52 14.4",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20180425"
+        },
+        {
+            "Name": "AT2018bee",
+            "RA": "17 30 58.7",
+            "Dec": "+12 44 20.9",
+            "redshift": "0.0",
+            "Type": "stellar",
+            "Time": "Null",
+            "Date": "20180430"
+        },
+        {
+            "Name": "AT2018bcb",
+            "RA": "22 43 42.9",
+            "Dec": "-16 59 08.1",
+            "redshift": "0.120",
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "20180427"
+        },
+        {
+            "Name": "SN2018bde",
+            "RA": "23:14:33.3",
+            "Dec": "-24 56 14.6",
+            "redshift": "0.048",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20180428"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Lipunov et al. 2004, AN, 325, 580",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 May 5",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

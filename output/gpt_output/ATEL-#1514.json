@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova V2491 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "20 sec",
+            "Date": [
+                "April 21, 2008",
+                "April 23, 2008",
+                "April 25, 2008",
+                "April 29, 2008",
+                "April 30, 2008",
+                "May 01, 2008"
+            ]
+        }
+    ],
+    "References": [
+        "IAUC 8934",
+        "CBET 1334",
+        "ATEL #1473",
+        "#1475",
+        "#1478",
+        "#1480",
+        "#1485"
+    ],
+    "Event Type": "Observation",
+    "Time": "3.5 - 4 hours",
+    "Date": [
+        "April 21, 2008",
+        "April 23, 2008",
+        "April 25, 2008",
+        "April 29, 2008",
+        "April 30, 2008",
+        "May 01, 2008"
+    ],
+    "Telescope": "Cassegrain 38-cm",
+    "Instrument": "CCD ST7",
+    "Observatory": "Crimean Astrophysical Observatory"
+}

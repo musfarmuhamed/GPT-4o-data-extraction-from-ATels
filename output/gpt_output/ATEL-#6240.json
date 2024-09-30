@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1725+123",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.588",
+            "Type": "QSO",
+            "Time": "JD2456803.859",
+            "Date": "May 26, 2014"
+        },
+        {
+            "Name": "CGRaBSJ1728+1215",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.588",
+            "Type": "QSO",
+            "Time": "JD2456803.859",
+            "Date": "May 26, 2014"
+        },
+        {
+            "Name": "2FGLJ1727.9+1220",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.588",
+            "Type": "Gamma-ray source",
+            "Time": "JD2456803.859",
+            "Date": "May 26, 2014"
+        }
+    ],
+    "References": "Atel #4201",
+    "Event Type": "NIR flare",
+    "Time": "JD2456803.859",
+    "Date": "May 26, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory"
+}

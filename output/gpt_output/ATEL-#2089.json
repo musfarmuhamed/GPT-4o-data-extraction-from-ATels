@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J21237+4218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RXJ2123.7+4217",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V2069 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate Polar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Motch et al. 1996 A&A 307, 459; Barlow et al. 2006, MNRAS 372, 224; Thorstensen et al. 2001, MNRAS 326, 1235",
+    "Event Type": "XMM-Newton observation",
+    "Time": "2009-04-30T10:45:58.000",
+    "Date": "April 30, 2009",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn, EPIC-MOS, OM",
+    "Observatory": "XMM-Newton Observatory"
+}

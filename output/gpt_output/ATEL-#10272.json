@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": "17h44m29.85s",
+            "Dec": "-27:45:57.51",
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "18:00 UT",
+            "Date": "April 16, 2017"
+        },
+        {
+            "Name": "XMMSL1 J174429.4-274609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10256",
+        "Landi et al. ATel #1273",
+        "Tomsik et al. 2008",
+        "Malizia et al. 2010",
+        "Heinke et al. ATel #10265"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "18:00 UT",
+    "Date": "April 16, 2017",
+    "Telescope": "SWIFT/XRT",
+    "Instrument": "XRT",
+    "Observatory": "SWIFT"
+}

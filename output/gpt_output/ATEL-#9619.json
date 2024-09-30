@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J015052.97-451015.9",
+            "RA": "01h 50m 52.97s",
+            "Dec": "-45d 10m 15.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-10-06.21896",
+            "Date": "2016-10-06"
+        },
+        {
+            "Name": "MASTER OT J024224.27+174259.0",
+            "RA": "02h 42m 24.27s",
+            "Dec": "+17d 42m 59.0s",
+            "redshift": null,
+            "Type": "QSO flare",
+            "Time": "2016-10-10.14709",
+            "Date": "2016-10-10"
+        },
+        {
+            "Name": "MASTER OT J024818.12+362104.7",
+            "RA": "02h 48m 18.12s",
+            "Dec": "+36d 21m 04.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-10-11.04424",
+            "Date": "2016-10-11"
+        },
+        {
+            "Name": "MASTER OT J152611.41-552752.3",
+            "RA": "15h 26m 11.41s",
+            "Dec": "-55d 27m 52.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-10-02.07558",
+            "Date": "2016-10-02"
+        },
+        {
+            "Name": "MASTER OT J154652.97-411626.1",
+            "RA": "15h 46m 52.97s",
+            "Dec": "-41d 16m 26.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-10-07.99705",
+            "Date": "2016-10-07"
+        },
+        {
+            "Name": "MASTER OT J152449.62-562005.1",
+            "RA": "15h 24m 49.62s",
+            "Dec": "-56d 20m 05.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-09-30.03502",
+            "Date": "2016-09-30"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-OAFA, MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

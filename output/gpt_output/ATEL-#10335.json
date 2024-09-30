@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17ewe",
+            "IAU Name": "AT2017diy",
+            "RA": "08:38:55.11",
+            "Dec": "+52:49:18.23",
+            "redshift": 0.044,
+            "Type": "Ia",
+            "Phase": "+1 d",
+            "Notes": "(1)"
+        },
+        {
+            "Name": "Gaia17ayg",
+            "IAU Name": "AT2017cxo",
+            "RA": "11:12:48.74",
+            "Dec": "+31:55:15.20",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Phase": "+13 d",
+            "Notes": null
+        },
+        {
+            "Name": "Gaia17bci",
+            "IAU Name": "AT2017dit",
+            "RA": "15:27:58.92",
+            "Dec": "+42:50:48.70",
+            "redshift": 0.019,
+            "Type": "Ia",
+            "Phase": "-9 d",
+            "Notes": "(2)"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2017 Apr 30 UT",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

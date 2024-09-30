@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond pulsar",
+            "Time": "4:10-4:33 UT",
+            "Date": "2007-05-29"
+        },
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond pulsar",
+            "Time": "3:42-4:17 UT",
+            "Date": "2007-05-30"
+        }
+    ],
+    "References": "Galloway et al. 2007, ATel #1086; Fox et al. 2005, ATel #526; Steeghs et al, ATel #543",
+    "Event Type": "decline of the X-ray flux",
+    "Time": "4:10-4:33 UT, 3:42-4:17 UT",
+    "Date": "2007-05-29, 2007-05-30",
+    "Telescope": "2.5m Isaac Newton Telescope",
+    "Instrument": "Wide Field Camera",
+    "Observatory": "La Palma"
+}

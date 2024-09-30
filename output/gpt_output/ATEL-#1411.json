@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080304:090240+052500",
+            "RA": "09:02:39.70",
+            "Dec": "05:25:01.0",
+            "redshift": "150 km/s",
+            "Type": "nova-like phenomenon",
+            "Time": "05:34:11",
+            "Date": "2008-03-04"
+        }
+    ],
+    "References": [
+        "http://voeventnet.caltech.edu/feeds/ATEL/CSS",
+        "http://voeventnet.caltech.edu/feeds/Catalina.shtml"
+    ],
+    "Event Type": "optical transient",
+    "Time": "approximately 5 hours after initial detection",
+    "Date": "2008-03-04",
+    "Telescope": "WMKO Keck-II 10m telescope",
+    "Instrument": "ESI spectrograph",
+    "Observatory": "Mt. Bigelow 0.7m Catalina Schmidt Telescope"
+}

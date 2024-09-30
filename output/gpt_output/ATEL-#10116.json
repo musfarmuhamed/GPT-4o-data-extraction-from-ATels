@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16byk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.031,
+            "Type": "IIL",
+            "Time": "about three month old",
+            "Date": "2016-11-26.24"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2017-02-23",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

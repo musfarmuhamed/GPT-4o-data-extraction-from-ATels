@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1753.5-2745",
+            "RA": "17h 53m 33.32s",
+            "Dec": "-27d 46m 26.76s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17348-2045",
+            "RA": "17h 34m 58.89s",
+            "Dec": "-20d 45m 31.0s",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al. 2012, arXiv:1205.3941; Bird et al. 2010, ApJS, 186, 1; Degenaar et al. 2012, A&A 540, 22; Massaro et al. 2012, ApJ, 750, 13",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XMM-Newton",
+    "Instrument": null,
+    "Observatory": null
+}

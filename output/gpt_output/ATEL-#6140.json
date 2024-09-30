@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14at",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01043",
+            "Type": "II",
+            "Time": "08.06",
+            "Date": "May 8",
+            "Host Galaxy": "UGC 11037",
+            "Recessional Velocity": "3127 km/s"
+        },
+        {
+            "Name": "PSN J13324911+4152151",
+            "RA": "13h 32m 49.11s",
+            "Dec": "+41d 52' 15.1\"",
+            "redshift": "0.02697",
+            "Type": "Ia",
+            "Time": "14.84",
+            "Date": "May 14",
+            "Host Galaxy": "NGC 5214",
+            "Recessional Velocity": "8077 km/s"
+        },
+        {
+            "Name": "PSN J15024996+4847062",
+            "RA": "15h 02m 49.96s",
+            "Dec": "+48d 47' 06.2\"",
+            "redshift": "0.02613",
+            "Type": "Ia",
+            "Time": "14.92",
+            "Date": "May 14",
+            "Host Galaxy": "PGC 2325560",
+            "Recessional Velocity": "7836 km/s"
+        }
+    ],
+    "References": [
+        "Schneider S. E., et al., 1990, ApJS, 72, 245",
+        "Woods 2006, AJ, 132, 197",
+        "SDSS DR3 2004",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmation of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.22-m Galileo Telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Asiago"
+}

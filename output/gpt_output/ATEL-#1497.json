@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift/BAT source",
+            "RA": "304.650",
+            "Dec": "+40.700",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "INTEGRAL source IGR J20187+4041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": "20:18:38.5",
+            "Dec": "+40:41:00",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BAT/XRT/2MASX source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": [
+                "blazar",
+                "absorbed Seyfert",
+                "absorbed HMXB"
+            ],
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Longo et al. 2008, ATEL #1492",
+        "Bykov et al. 2006, ApJ 649, 21",
+        "Kennea et al. 2006, ATEL #788",
+        "Iyudin et al. 2007, A&A, 468, 919"
+    ],
+    "Event Type": null,
+    "Time": "April 2006",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

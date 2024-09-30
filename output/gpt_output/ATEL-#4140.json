@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1916-053",
+            "RA": 287.516,
+            "Dec": -5.819,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "22:36:28",
+            "Date": "2012/05/31"
+        },
+        {
+            "Name": "MAXI J1910-057",
+            "RA": 287.516,
+            "Dec": -5.819,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2012/05/31"
+        }
+    ],
+    "References": "http://maxi.riken.jp/alert/novae/6078777285/6078777285.htm",
+    "Event Type": "New X-ray transient source",
+    "Time": "22:36:28",
+    "Date": "2012/05/31",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

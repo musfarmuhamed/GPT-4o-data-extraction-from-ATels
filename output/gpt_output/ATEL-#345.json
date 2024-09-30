@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17407-2808",
+            "RA": "17h 40.7m",
+            "Dec": "-28s 08'",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "MJD 53287.6310",
+            "Date": "Oct 9, 2004"
+        },
+        {
+            "Name": "2RXP J174040.9-280852",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J17407-2808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IGR Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SLX 1737-282",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "[AX J1740.7-2818]",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sidoli, Belloni & Mereghetti 2001, A&A 368, 835",
+        "Gotz et al., GCN Circ. #2793",
+        "in't Zand et al. 2002, A&A 389, L43"
+    ],
+    "Event Type": "hard X-ray flares",
+    "Time": "MJD 53287.6310 to MJD 53287.6327",
+    "Date": "Oct 9, 2004",
+    "Telescope": "Integral",
+    "Instrument": "IBIS",
+    "Observatory": null
+}

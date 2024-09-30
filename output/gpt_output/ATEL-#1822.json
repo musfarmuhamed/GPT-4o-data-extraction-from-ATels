@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source n.1",
+            "RA": "09h 10m 57.52s",
+            "Dec": "-50deg 48m 10.7s",
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": "October 17, 2008"
+        },
+        {
+            "Name": "Source n.1",
+            "RA": "09h 10m 57.52s",
+            "Dec": "-50deg 48m 10.7s",
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": "October 18, 2008"
+        },
+        {
+            "Name": "Source n.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J091143.6-504411",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MGPS J091057-504808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MGPS J091042-504103",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #1788",
+    "Event Type": "transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

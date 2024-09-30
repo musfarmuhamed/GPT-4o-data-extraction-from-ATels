@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "apparent nova",
+            "RA": "00h 41m 58.33s",
+            "Dec": "+41\u00b0 14' 10.6",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31 V0708",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCVS4.2, 2004",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

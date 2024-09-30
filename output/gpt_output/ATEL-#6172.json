@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J145426.01+615015.9",
+            "RA": "14h 54m 26.01s",
+            "Dec": "+61d 50m 15.9s",
+            "redshift": null,
+            "Type": "CATACLYSMIC VARIABLE or SUPERNOVA",
+            "Time": "Null",
+            "Date": "2014-05-24.67833 UT"
+        },
+        {
+            "Name": "SDSS J145425.96+615015.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GALAXY",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J170623.60+012018.0",
+            "RA": "17h 06m 23.60s",
+            "Dec": "+01d 20m 18.0s",
+            "redshift": null,
+            "Type": "VARIABLE of UV Ceti type",
+            "Time": "16:45:22 UT",
+            "Date": "2014-05-24.69940 UT"
+        },
+        {
+            "Name": "MASTER OT J165219.43+574523.9",
+            "RA": "16h 52m 19.43s",
+            "Dec": "+57d 45m 23.9s",
+            "redshift": null,
+            "Type": "VARIABLE of UV Ceti type",
+            "Time": "17:15:35 UT",
+            "Date": "2014-05-24.72037 UT"
+        },
+        {
+            "Name": "2MASS J16521966+5745213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J165219.53+574522.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/145426.01615015.9.png",
+        "http://master.sai.msu.ru/static/OT/J170623+012018-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/170623.60012018.0.png",
+        "http://master.sai.msu.ru/static/OT/165219.43574523.9.png"
+    ],
+    "Event Type": [
+        "new cataclysmic variable or supernova",
+        "fast transient of unknown nature",
+        "flaring red dwarf"
+    ],
+    "Time": [
+        "Null",
+        "16:45:22 UT",
+        "17:15:35 UT"
+    ],
+    "Date": [
+        "2014-05-24.67833 UT",
+        "2014-05-24.69940 UT",
+        "2014-05-24.72037 UT"
+    ],
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Tunka auto-detection system"
+}

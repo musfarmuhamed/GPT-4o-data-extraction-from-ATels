@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0109+6134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray",
+            "Time": "Peak",
+            "Date": "1 Feb 2010"
+        },
+        {
+            "Name": "X-ray source (associated with VCS2 J0109+6133)",
+            "RA": "01:09:46.86",
+            "Dec": "+61:33:29.3",
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": "3 Feb 2010"
+        },
+        {
+            "Name": "VCS2 J0109+6133 (GT 0106+613)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio",
+            "Time": null,
+            "Date": "3 Feb 2010"
+        },
+        {
+            "Name": "Marginal X-ray source",
+            "RA": "01:10:18.64",
+            "Dec": "+61:39:53.8",
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2414",
+        "ATEL #2416",
+        "A&A, 440, 775"
+    ],
+    "Event Type": "gamma-ray transient",
+    "Time": "05:30 - 10:00 UTC",
+    "Date": "3 Feb 2010",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

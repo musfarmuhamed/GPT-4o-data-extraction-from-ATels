@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZUJ1048+7143",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.15,
+            "Type": "quasar",
+            "Time": "JD2456663.09816",
+            "Date": "January 6th, 2014"
+        },
+        {
+            "Name": "CGRaBSJ1048+7143",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.15,
+            "Type": "quasar",
+            "Time": "JD2456663.09816",
+            "Date": "January 6th, 2014"
+        },
+        {
+            "Name": "1FGLJ1048.8+7145",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.15,
+            "Type": "gamma ray source",
+            "Time": "JD2456663.09816",
+            "Date": "January 6th, 2014"
+        },
+        {
+            "Name": "S51044_71",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.15,
+            "Type": "radio source",
+            "Time": "JD2456663.09816",
+            "Date": "January 6th, 2014"
+        }
+    ],
+    "References": "JD24534592, JD2456609.0471",
+    "Event Type": "NIR flare",
+    "Time": "JD2456663.09816",
+    "Date": "January 6th, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

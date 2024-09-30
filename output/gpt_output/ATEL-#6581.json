@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia14aat",
+            "RA": "03:31:4.44",
+            "Dec": "17:25:40.22",
+            "redshift": null,
+            "Type": "dwarf nova outburst in a hydrogen-rich cataclysmic variable",
+            "Time": "15.08",
+            "Date": "2014 Oct 15"
+        },
+        {
+            "Name": "SDSS object at RA 03:31:4.44 DEC 17:25:40.22",
+            "RA": "03:31:4.44",
+            "Dec": "17:25:40.22",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ESA Gaia (cosmos.esa.int/gaia), and the DPAC Photometric Science Alerts Team (http://gaia.ac.uk/selected-gaia-science-alerts)",
+    "Event Type": "detection of dwarf nova outburst",
+    "Time": "10.59",
+    "Date": "2014 Oct 10",
+    "Telescope": "2.0m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

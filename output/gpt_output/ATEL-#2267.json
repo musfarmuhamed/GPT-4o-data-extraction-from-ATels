@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 287",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2009-10-22"
+        }
+    ],
+    "References": [
+        "Ciprini et al. 2009, ATel #2256",
+        "Kalberla et al. 2005",
+        "Seta et al. 2009"
+    ],
+    "Event Type": "optical and gamma-ray flare",
+    "Time": null,
+    "Date": "2009-10-22",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Suzaku/XIS"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12os",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J14595904+0153251",
+            "RA": "14:59:59.04",
+            "Dec": "+01:53:25.1",
+            "redshift": null,
+            "Type": "Type IIb supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 5608",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schuyler D. Van Dyk (Spitzer Science Center/Caltech)",
+        "Avishay Gal-Yam, Iair Arcavi (Weizmann Institute)",
+        "Mansi M. Kasliwal (OCIW/Princeton)",
+        "Assaf Horesh (Caltech)",
+        "PTF collaboration",
+        "ATel 3881",
+        "Schlegel, Finkbeiner, & Davis (1998, ApJ, 500, 525)",
+        "Dolphin (2000, PASP, 112, 1383)"
+    ],
+    "Event Type": "Attempt to identify the progenitor",
+    "Time": "00:00:00",
+    "Date": "2005-03-10",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "ACS/WFC F435W, F555W, and F814W",
+    "Observatory": null
+}

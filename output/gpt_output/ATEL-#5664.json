@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-134",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Ic",
+            "Time": "~1 week past max",
+            "Date": "Dec 14.24"
+        },
+        {
+            "Name": "PSN J11500016+2120166",
+            "RA": "11h50m00.16s",
+            "Dec": "+21\u00b020'16.6\"",
+            "redshift": 0.026,
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": "Dec 14.36"
+        }
+    ],
+    "References": "ATel #5663",
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J204200.48+041839.9",
+            "RA": "20h 42m 00.48s",
+            "Dec": "+04d 18m 39.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-07-31.59277",
+            "Date": "2013-07-31"
+        },
+        {
+            "Name": "USNO-A2.0 0900-18910404",
+            "RA": "20h 42m 00.42s",
+            "Dec": "+04d 18m 40.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0943-0535946",
+            "RA": "20h 42m 00.425s",
+            "Dec": "+04d 18m 40.02s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J204200.44+041839.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J204200.4+041840",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J204200+041839-DSS-Red.jpg",
+        "http://master.sai.msu.ru/static/OT/204200.48041839.9.png"
+    ],
+    "Event Type": "new bright CV",
+    "Time": "2013-07-31.59277",
+    "Date": "2013-07-31",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

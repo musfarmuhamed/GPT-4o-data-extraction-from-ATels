@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017hq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Ia",
+            "Time": "Jan.13.9",
+            "Date": "2017"
+        },
+        {
+            "Name": "ASASSN-17am",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005eu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGCG 73-79",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "Jan.13.9",
+    "Date": "2017",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

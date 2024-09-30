@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15pe",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03793,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-09-12"
+        },
+        {
+            "Name": "ASASSN-15pm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048784,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-09-12"
+        },
+        {
+            "Name": "ASASSN-15pn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038393,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-09-12"
+        },
+        {
+            "Name": "ASASSN-15pr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033093,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-09-18"
+        }
+    ],
+    "References": "ATel #8012, #8041, #8051",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2015-09-12, 2015-09-18",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

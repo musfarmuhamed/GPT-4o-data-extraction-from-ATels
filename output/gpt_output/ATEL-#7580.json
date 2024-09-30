@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-05b",
+            "RA": "J00431911+4116082",
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "24.2 UT",
+            "Date": "2015 May 24"
+        },
+        {
+            "Name": "M31N 2015-05b",
+            "RA": "J00431911+4116082",
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "30.2 UT",
+            "Date": "2015 May 30"
+        }
+    ],
+    "References": [
+        "ATel #7554",
+        "ATel #7564"
+    ],
+    "Event Type": "spectroscopic observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT low-resolution spectrograph",
+    "Observatory": null
+}

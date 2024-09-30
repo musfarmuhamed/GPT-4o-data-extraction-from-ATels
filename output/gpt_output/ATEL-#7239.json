@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1275",
+            "RA": 50.45,
+            "Dec": 42.08,
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "04:00",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "1AGLR J0321+4137",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:00",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "3FGL J0319.8+4130",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:00",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "Perseus A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:00",
+            "Date": "2015-03-15"
+        }
+    ],
+    "References": [
+        "Verrecchia et al. 2013, A&A, 558, 137",
+        "Acero et al. 2015",
+        "ATel #4753",
+        "ATel #2737"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "04:00",
+    "Date": "2015-03-15",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

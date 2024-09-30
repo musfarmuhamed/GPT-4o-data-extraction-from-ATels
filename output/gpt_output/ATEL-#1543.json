@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous transient",
+            "Time": "00:01",
+            "Date": "2008-05-20"
+        },
+        {
+            "Name": "UVOT/UVW2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous transient",
+            "Time": "00:01",
+            "Date": "2008-05-20"
+        }
+    ],
+    "References": "IAUC # 8946",
+    "Event Type": "target-of-opportunity observation",
+    "Time": "00:01",
+    "Date": "2008-05-20",
+    "Telescope": "Swift satellite",
+    "Instrument": "X-ray telescope and UV/optical telescope",
+    "Observatory": "Swift"
+}

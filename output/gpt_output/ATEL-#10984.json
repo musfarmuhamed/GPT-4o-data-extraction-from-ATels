@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1630-276",
+            "RA": "247.682 deg",
+            "Dec": "-27.607 deg",
+            "redshift": null,
+            "Type": "faint uncatalogued X-ray transient",
+            "Time": "11:42 UT",
+            "Date": "2017 November 17"
+        }
+    ],
+    "References": [
+        {
+            "Name": "1RXS J163200.2-273335",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT X-ray Survey source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J163035.5-275500",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT X-ray Survey source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Event Type": "nova-alert system triggered",
+    "Time": "11:42 UT",
+    "Date": "2017 November 17",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

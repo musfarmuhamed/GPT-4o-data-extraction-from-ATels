@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "20:38:51.0 UT",
+            "Date": "Jul 18 2018"
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#11723"
+        },
+        {
+            "ATel": "#11824"
+        },
+        {
+            "ATel": "#11899"
+        },
+        {
+            "ATel": "#11820"
+        },
+        {
+            "ATel": "#11823"
+        },
+        {
+            "ATel": "#11827"
+        },
+        {
+            "ATel": "#11831"
+        },
+        {
+            "ATel": "#11833"
+        },
+        {
+            "ATel": "#11855"
+        },
+        {
+            "ATel": "#11887"
+        }
+    ],
+    "Event Type": "optical timing monitoring",
+    "Time": "20:38:51.0 UT",
+    "Date": "Jul 18 2018",
+    "Telescope": "1.2 m Galileo telescope",
+    "Instrument": "IFI+IQUEYE",
+    "Observatory": "Asiago"
+}

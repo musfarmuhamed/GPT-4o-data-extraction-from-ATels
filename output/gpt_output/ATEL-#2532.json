@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010al",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIN supernova",
+            "Time": "Mar 26.25 UT",
+            "Date": null
+        },
+        {
+            "Name": "SN 1998S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 4286",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Rich et al, CBET #2207; Cooke et al. ATel #2491; Perley et al. 2009, IEEEP, 97, 1448",
+    "Event Type": "observation",
+    "Time": "Mar 26.25 UT",
+    "Date": null,
+    "Telescope": "Expanded VLA (EVLA)",
+    "Instrument": null,
+    "Observatory": null
+}

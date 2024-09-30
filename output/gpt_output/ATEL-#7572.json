@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004207.99+405501.1 / M31N 2015-01a / M31LRN 2015",
+            "RA": "00:42:08.065",
+            "Dec": "+40:55:01.33",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2015-05-01"
+        },
+        {
+            "Name": "Other source (seen by Massey et al. 2006)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "I~21.1 source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7150",
+        "ATel #6911",
+        "Williams et al. 2015",
+        "ATel #7272",
+        "Massey et al. 2006",
+        "Kurtenkov et al. 2015, submitted to A&A",
+        "ATel #7173",
+        "ATel #7537",
+        "ATel #7555",
+        "ATel #7236"
+    ],
+    "Event Type": "transient observations",
+    "Time": "beginning of the astronomical twilight/end of the night",
+    "Date": "2015-05-01",
+    "Telescope": "Nordic Optical Telescope (NOT)",
+    "Instrument": "ALFOSC",
+    "Observatory": "Observatorio Roque de Los Muchachos (ORM)"
+}

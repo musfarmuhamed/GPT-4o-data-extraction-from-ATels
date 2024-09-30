@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004056.15+405819.1",
+            "RA": "00h 40m 56s.15",
+            "Dec": "+40d 58m 19s.1",
+            "redshift": null,
+            "Type": "possible Nova in M31",
+            "Time": "01:17:02.572UT",
+            "Date": "2017-04-13"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2017-02-06",
+            "Time": "15:33:18UT",
+            "MLim": 19.0,
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2017-03-31",
+            "Time": "18:00:33UT",
+            "MLim": 18.5,
+            "Observatory": "MASTER-Tavrida"
+        }
+    ],
+    "Event Type": "detection",
+    "Time": "01:17:02.572UT",
+    "Date": "2017-04-13",
+    "Telescope": "MASTER-Tavrida",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray pulsar",
+            "Time": "August 1 - 8",
+            "Date": "2016"
+        }
+    ],
+    "References": [
+        "GCNs #19735",
+        "GCNs #19736",
+        "ATel #9274",
+        "Acero et al. 2015 ApJS, 218, 23",
+        "Parent et al. 2011, ApJ, 743, 170P",
+        "ATel #9365",
+        "Archibald et al. 2016",
+        "Kuiper et al. 2006 ApJ, 645, 556",
+        "Archibald et al. 2016 (arXiv:1608.01007)",
+        "Ng et al. 2012 ApJ, 761, 65"
+    ],
+    "Event Type": "TOO observations",
+    "Time": null,
+    "Date": "2016 July 27 - August 12",
+    "Telescope": "Fermi LAT",
+    "Instrument": "LAT, Swift XRT",
+    "Observatory": "Fermi"
+}

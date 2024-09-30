@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J12320498-1056010",
+            "RA": "12:32:05.08",
+            "Dec": "-10:56:03.16",
+            "redshift": 0.134,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2015 Jan 12.326 UT"
+        }
+    ],
+    "References": [
+        "Cummings, GCN #17267",
+        "Fong et al., GCN #17271",
+        "Levan et al., ATel #6963, GCN #17321",
+        "Fong et al., ATel #6881, GCN #17285",
+        "Cummings et al., ATel #6871, GCN #17268",
+        "Levan et al., ATel #6873, GCN #17281",
+        "Troja et al., ATel #6893, GCN #17289"
+    ],
+    "Event Type": "GRB (Gamma-Ray Burst)",
+    "Time": "10.7 days after the BAT trigger and 9.0 days after initial Magellan observations",
+    "Date": "2015 Jan 12.326 UT",
+    "Telescope": "Gemini-South 8-m telescope",
+    "Instrument": "Gemini Multi-Object Spectrograph (GMOS)",
+    "Observatory": "Gemini Observatory"
+}

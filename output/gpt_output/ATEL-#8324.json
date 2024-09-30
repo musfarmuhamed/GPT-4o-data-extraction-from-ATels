@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J084232.51-843025.5",
+            "RA": "08h 42m 32.51s",
+            "Dec": "-84d 30m 25.5s",
+            "redshift": null,
+            "Type": "possible SN in ESO006-004",
+            "Time": "UT",
+            "Date": "2015-11-22.03715"
+        },
+        {
+            "Name": "ESO006-004",
+            "RA": null,
+            "Dec": null,
+            "redshift": "165Mpc",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171"
+    ],
+    "Event Type": "discovery",
+    "Time": "UT",
+    "Date": "2015-11-22",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

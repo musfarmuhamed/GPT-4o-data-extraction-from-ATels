@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J053041.9-665426",
+            "RA": "05:30:41.9",
+            "Dec": "-66:54:26",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "03:57 to 04:03 UT",
+            "Date": "2011 Nov. 6"
+        },
+        {
+            "Name": "Possible optical counterpart (USNO-B1.0 catalogue)",
+            "RA": "05:30:42.158",
+            "Dec": "-66:54:30.20",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS near infrared detection",
+            "RA": "05:30:42.151",
+            "Dec": "-66:54:30.30",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ROSAT/PSPC observation (RP900553N00)",
+        "USNO-B1.0 catalogue",
+        "2MASS catalogue"
+    ],
+    "Event Type": "X-ray transient detection",
+    "Time": "03:57 to 04:03 UT",
+    "Date": "2011 Nov. 6",
+    "Telescope": "Swift",
+    "Instrument": null,
+    "Observatory": null
+}

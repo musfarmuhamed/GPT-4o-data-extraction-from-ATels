@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XRT1",
+            "RA": "09:02:05.90",
+            "Dec": "-46:22:48.49",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:31 - 09:59",
+            "Date": "17 March 2012"
+        },
+        {
+            "Name": "XRT2",
+            "RA": "09:02:13.37",
+            "Dec": "-46:30:36.10",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:31 - 09:59",
+            "Date": "17 March 2012"
+        },
+        {
+            "Name": "XRT3",
+            "RA": "09:02:45.99",
+            "Dec": "-46:17:53.36",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:31 - 09:59",
+            "Date": "17 March 2012"
+        },
+        {
+            "Name": "XRT4",
+            "RA": "09:02:34.81",
+            "Dec": "-46:14:00.05",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:31 - 09:59",
+            "Date": "17 March 2012"
+        }
+    ],
+    "References": "ATEL #3972",
+    "Event Type": "Galactic plane gamma-ray transient",
+    "Time": "17 March 2012, 04:31 - 09:59 UT",
+    "Date": "15 March 2012",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

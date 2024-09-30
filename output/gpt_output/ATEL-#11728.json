@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-18fdb (AT 2018cni)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.032,
+            "Type": "peculiar type Ia supernova",
+            "Time": "UT 2018 June 17.7",
+            "Date": "2018-06-17"
+        },
+        {
+            "Name": "SN 2005hk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "t = - 3 days",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "spectrum observation",
+    "Time": "UT 2018 June 17.7",
+    "Date": "2018-06-17",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

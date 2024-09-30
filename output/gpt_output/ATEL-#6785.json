@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS I +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.swift.psu.edu/monitoring/source.php?source=LSI+61303",
+        "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/source/LSI_p61_303"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": [
+        {
+            "MJD": 57000,
+            "Time (UTC)": "02:00-03:00"
+        },
+        {
+            "MJD": 57001,
+            "Time (UTC)": "02:00-04:00"
+        },
+        {
+            "MJD": 57002,
+            "Time (UTC)": "02:00-05:00"
+        },
+        {
+            "MJD": 57003,
+            "Time (UTC)": "03:00-05:00"
+        }
+    ],
+    "Date": [
+        {
+            "Start Date": "October 2014",
+            "End Date": "November 2014"
+        }
+    ],
+    "Telescope": "VERITAS",
+    "Instrument": [
+        "VERITAS",
+        "Swift-XRT",
+        "Fermi-LAT"
+    ],
+    "Observatory": "VERITAS Observatory"
+}

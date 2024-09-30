@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": 338.07,
+            "Dec": 11.876,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "00:00",
+            "Date": "2015-12-28"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": 338.07,
+            "Dec": 11.876,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "00:00",
+            "Date": "2015-12-30"
+        }
+    ],
+    "References": [
+        "ATel #8374",
+        "http://gcn.gsfc.nasa.gov/other/1451404243_fermi.txt"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "00:00",
+    "Date": "2015-12-28",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546/MAXI J1910-057",
+            "RA": "19:10:22.79",
+            "Dec": "-05:47:56.3",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "MJD 56090.078",
+            "Date": "12 June 2012"
+        }
+    ],
+    "References": [
+        "Krimm et al. 2012, ATel #4139",
+        "Usui et al. 2012, ATel #4140",
+        "Rau et al. 2012 ATel #4144",
+        "Kennea et al. 2012, ATel #4145"
+    ],
+    "Event Type": "observation",
+    "Time": "MJD 56090.078",
+    "Date": "12 June 2012",
+    "Telescope": "European VLBI Network (EVN)",
+    "Instrument": null,
+    "Observatory": "European VLBI Network (EVN)"
+}

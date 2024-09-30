@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13aw",
+            "RA": "17:19:30.195",
+            "Dec": "+47:42:06.50",
+            "redshift": "0.016835",
+            "Type": "supernova",
+            "Time": "2013 July 1.4",
+            "Date": "2013-07-01"
+        },
+        {
+            "Name": "PGC 060077",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016835",
+            "Type": "spiral galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5110",
+        "ATel #5138",
+        "ATel #5168",
+        "ATel #5177",
+        "ATel #5181"
+    ],
+    "Event Type": "discovery",
+    "Time": "2013 July 1.4",
+    "Date": "2013-07-01",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

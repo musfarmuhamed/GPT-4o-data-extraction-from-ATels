@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": "17h 44m 33.06s",
+            "Dec": "-28d 44' 27.1\"",
+            "redshift": "Null",
+            "Type": "bursting accretion-powered pulsar",
+            "Time": "06:55",
+            "Date": "2014-02-16"
+        }
+    ],
+    "References": [
+        "ATel #5790",
+        "ATel #5810",
+        "ATel #5845",
+        "ATel #5858",
+        "ATel #5883"
+    ],
+    "Event Type": [
+        "burst",
+        "pulsations"
+    ],
+    "Time": "06:55",
+    "Date": "2014-02-16",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": "Null"
+}

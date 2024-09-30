@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient",
+            "RA": "261.38",
+            "Dec": "-32.85",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "02:42:38",
+            "Date": "2010-03-11"
+        },
+        {
+            "Name": "IGR J17254-3257",
+            "RA": "261.35625",
+            "Dec": "-32.9548",
+            "redshift": "Null",
+            "Type": "X-ray burster",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #2415, Chenevez et al. 2007",
+    "Event Type": "X-ray burst",
+    "Time": "02:42:38",
+    "Date": "2010-03-11",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "MAXI/GSC",
+    "Observatory": "MAXI"
+}

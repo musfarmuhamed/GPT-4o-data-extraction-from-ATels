@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-A2.0 0525_28851523",
+            "RA": "17 40 26.85",
+            "Dec": "-36 55 37.6",
+            "redshift": "Null",
+            "Type": "Galactic Low-Mass X-Ray Binary",
+            "Time": "Null",
+            "Date": "July 2, 2008"
+        },
+        {
+            "Name": "IGR J18173-2509",
+            "RA": "18 17 22.25",
+            "Dec": "-25 08 42.9",
+            "redshift": "0",
+            "Type": "Galactic Cataclysmic Variable",
+            "Time": "Null",
+            "Date": "July 2, 2008"
+        }
+    ],
+    "References": [
+        "Landi et al., ATels #1539 and #1437",
+        "Ibarra et al., ATel #1397",
+        "Bird et al. 2007, ApJS, 170, 175",
+        "Masetti et al. 2006, A&A, 459, 21",
+        "Masetti et al. 2008, A&A, 482, 113"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Night",
+    "Date": "July 2, 2008",
+    "Telescope": "CTIO 1.5m telescope",
+    "Instrument": "R-C spectrograph",
+    "Observatory": "Cerro Tololo"
+}

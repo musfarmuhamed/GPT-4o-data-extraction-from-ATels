@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "r3-8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B[e] star",
+            "Time": "1000 s",
+            "Date": "2015/9/9"
+        }
+    ],
+    "References": [
+        "Chiosi et al. 2014, MNRAS 443, 1821",
+        "Lamers et al., 1998, A&A, 340, 117",
+        "Clark et al. 2013, A&A, 560, A10"
+    ],
+    "Event Type": "Spectra obtained",
+    "Time": "1000 s",
+    "Date": "2015/9/9",
+    "Telescope": "Gemini North",
+    "Instrument": "GMOS with B600 grating",
+    "Observatory": "Gemini Observatory"
+}

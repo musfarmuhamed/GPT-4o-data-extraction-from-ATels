@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17en",
+            "RA": "18:23:17.876",
+            "Dec": "-43:08:32.84",
+            "redshift": "0.020104",
+            "Type": "Supernova",
+            "Time": "2017-04-08.31",
+            "Date": "2017-04-08"
+        },
+        {
+            "Name": "ESO 280-G 013",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.020104",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "J. Brimacombe"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2017-04-08.31",
+    "Date": "2017-04-08",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

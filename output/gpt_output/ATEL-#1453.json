@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J004911.4-724939",
+            "RA": "00 49 11.4",
+            "Dec": "-72 49 39",
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "39 ks",
+            "Date": "2007 March 12-13"
+        },
+        {
+            "Name": "XTE J0055-727",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Corbet et al. 2003, ATEL #214",
+        "Zaritsky et al. 2002, AJ 123, 855",
+        "Mennickent et al. 2002, A&A 393, 887"
+    ],
+    "Event Type": "X-ray Observation",
+    "Time": "39 ks",
+    "Date": "2007 March 12-13",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

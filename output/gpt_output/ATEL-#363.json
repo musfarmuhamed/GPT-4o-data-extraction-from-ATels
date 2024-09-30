@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": "05:15 UT",
+            "Date": "2004 Dec 8"
+        },
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": "01:35 UT and 03:20 UT",
+            "Date": "2004 Dec 9"
+        },
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": "02:46-03:02 UT",
+            "Date": "2004 Dec 9"
+        }
+    ],
+    "References": [
+        "ATEL #352",
+        "ATEL #354"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": "2004 Dec 8, 2004 Dec 9",
+    "Telescope": [
+        "1.3m robotic PAIRITEL telescope",
+        "FLWO 1.2m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": "Mt. Hopkins, AZ"
+}

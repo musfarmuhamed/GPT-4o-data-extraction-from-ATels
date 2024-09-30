@@ -1,0 +1,98 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11203+4531",
+            "RA": "11h 20m 27.15s",
+            "Dec": "+45d 34m 53.5s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112027.30+453453.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112027.33+453449.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112028.37+452912.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112034.21+452815.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112034.53+452818.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17427-3018",
+            "RA": "17h 42m 40.82s",
+            "Dec": "-30d 22m 36.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1742.6-3022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J174240-302239",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2010, A&A, 523, 61",
+        "Krivonos et al. 2010, A&A, 519, 107",
+        "Sakano et al. 2002, ApJS 138, 34",
+        "Nord et al. 2004, AJ, 128, 1646",
+        "Lazio & Cordes 1998, ApJS, 118, 201"
+    ],
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

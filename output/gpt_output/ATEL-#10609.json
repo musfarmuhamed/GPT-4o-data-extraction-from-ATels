@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17bvp",
+            "RA": "00:34:14.21",
+            "Dec": "-06:51:38.38",
+            "redshift": 0.086,
+            "Type": "SN Ia",
+            "Time": "R = 350",
+            "Date": "2017-07-27"
+        },
+        {
+            "Name": "ASASSN-17jl",
+            "RA": "20:15:25.38",
+            "Dec": "-37:30:43.16",
+            "redshift": 0.02,
+            "Type": "SN Ia",
+            "Time": "R = 350",
+            "Date": "2017-07-27"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": "R = 350",
+    "Date": "2017-07-27",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": "SALT Large Programme on transients (2016-2-LSP-001)"
+}

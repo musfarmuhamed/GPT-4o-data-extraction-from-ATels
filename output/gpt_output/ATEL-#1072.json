@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1856+053",
+            "RA": "18:56:42.92",
+            "Dec": "+05:18:34.3",
+            "redshift": null,
+            "Type": "X-ray transient and black hole candidate",
+            "Time": "9:47-10:03 UT",
+            "Date": "2007 Mar 11"
+        },
+        {
+            "Name": "XTE J1856+053",
+            "RA": "18:56:42.92",
+            "Dec": "+05:18:34.3",
+            "redshift": null,
+            "Type": "X-ray transient and black hole candidate",
+            "Time": "8:12-8:25 UT",
+            "Date": "2007 May 8"
+        }
+    ],
+    "References": [
+        "Marshall et al. 1996, IAUC # 6504",
+        "Barret et al. 1996, IAUC # 6519",
+        "Levine et al. 2007, ATel #1024",
+        "Steeghs et al. 2007, ATel #1026"
+    ],
+    "Event Type": "Outburst detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m Magellan Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

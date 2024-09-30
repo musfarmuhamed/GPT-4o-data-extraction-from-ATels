@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5020",
+        "ATel #5058",
+        "ATel #5035"
+    ],
+    "Event Type": "polarisation measurement",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Effelsberg telescope",
+    "Instrument": null,
+    "Observatory": null
+}

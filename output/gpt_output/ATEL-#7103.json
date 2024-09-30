@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15dc",
+            "RA": "15:01:30.82",
+            "Dec": "-00:32:24.38",
+            "redshift": 2000,
+            "Type": "Ia normal",
+            "Time": "00:00:00",
+            "Date": "2015-02-19"
+        },
+        {
+            "Name": "ASASSN-15dd",
+            "RA": "15:43:59.07",
+            "Dec": "+19:12:40.74",
+            "redshift": 2000,
+            "Type": "Ia normal",
+            "Time": "00:00:00",
+            "Date": "2015-02-19"
+        },
+        {
+            "Name": "ASASSN-15de",
+            "RA": "11:28:49.65",
+            "Dec": "+29:54:52.51",
+            "redshift": 2000,
+            "Type": "Ia-91T",
+            "Time": "00:00:00",
+            "Date": "2015-02-19"
+        },
+        {
+            "Name": "ASASSN-15df",
+            "RA": "10:35:29.77",
+            "Dec": "+34:34:26.44",
+            "redshift": 2000,
+            "Type": "Ia normal",
+            "Time": "00:00:00",
+            "Date": "2015-02-19"
+        }
+    ],
+    "References": [
+        "ATel #7090",
+        "ATel #7094",
+        "ATel #7097"
+    ],
+    "Event Type": "Spectra",
+    "Time": "00:00:00",
+    "Date": "2015-02-19",
+    "Telescope": "F. L. Whipple Observatory 1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

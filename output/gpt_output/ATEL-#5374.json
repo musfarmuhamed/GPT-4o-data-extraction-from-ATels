@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J011539.70+381750.3",
+            "RA": "01h 15m 39.70s",
+            "Dec": "+38d 17m 50.3s",
+            "redshift": "Null",
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "Null",
+            "Date": "2013-09-05.64799 UT"
+        },
+        {
+            "Name": "MASTER OT J062719.22+152305.3",
+            "RA": "06h 27m 19.22s",
+            "Dec": "+15d 23m 05.3s",
+            "redshift": "Null",
+            "Type": "flaring red dwarf UV Ceti type",
+            "Time": "Null",
+            "Date": "2013-09-06.80420 UT"
+        },
+        {
+            "Name": "MASTER OT J073105.40+575610.8",
+            "RA": "07h 31m 05.40s",
+            "Dec": "+57d 56m 10.8s",
+            "redshift": "0.04245",
+            "Type": "possible supernova",
+            "Time": "Null",
+            "Date": "2013-09-06.81447 UT"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J011539+381751-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/J011539+381751-NEAT.jpg",
+        "http://master.sai.msu.ru/static/OT/011539.70381750.3.png",
+        "http://master.sai.msu.ru/static/OT/J062719+152305-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/J062719.22152305.3.jpg",
+        "http://master.sai.msu.ru/static/OT/073105.40575610.8.png"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": "Null",
+    "Date": "2013-09-05 to 2013-09-06",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": "Null",
+    "Observatory": "Global MASTER Robotic Net"
+}

@@ -1,0 +1,100 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15sh",
+            "RA": "19 32 06.94",
+            "Dec": "-62 26 31.5",
+            "redshift": "0.033",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151102"
+        },
+        {
+            "Name": "CSS151109-032647-163538",
+            "RA": "03 26 47.31",
+            "Dec": "-16 35 37.9",
+            "redshift": "0.134",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151109"
+        },
+        {
+            "Name": "CSS151109-101502+074830",
+            "RA": "10 15 02.42",
+            "Dec": "+07 48 30.1",
+            "redshift": "0.027",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151109"
+        },
+        {
+            "Name": "OGLE15ng",
+            "RA": "00 22 19.88",
+            "Dec": "-75 12 26.3",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151017"
+        },
+        {
+            "Name": "OGLE15oa",
+            "RA": "04 36 25.63",
+            "Dec": "-62 47 51.7",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151016"
+        },
+        {
+            "Name": "OGLE15pf",
+            "RA": "05 17 12.37",
+            "Dec": "-71 52 39.6",
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": null,
+            "Date": "20151030"
+        },
+        {
+            "Name": "PS15cox",
+            "RA": "03 08 04.79",
+            "Dec": "-03 14 54.2",
+            "redshift": "0.031",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151025"
+        },
+        {
+            "Name": "PS15ctg",
+            "RA": "04 13 58.45",
+            "Dec": "+02 08 43.0",
+            "redshift": "0.078",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151102"
+        },
+        {
+            "Name": "PS15ctw",
+            "RA": "22 52 05.94",
+            "Dec": "-05 50 50.0",
+            "redshift": "0.089",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151102"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Drake et al. 2009, 696, 870",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2015 Nov. 9",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

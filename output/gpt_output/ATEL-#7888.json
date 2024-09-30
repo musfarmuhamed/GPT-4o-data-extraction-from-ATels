@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15np",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Ia",
+            "Time": "2015-08-06.89",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15nq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "2015-08-07.04",
+            "Date": null
+        },
+        {
+            "Name": "PSN J23470615+2929074",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "II",
+            "Time": "2015-08-07.09",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "ATel #7878",
+        "The Bright Supernova website",
+        "The ATel",
+        "CBAT Transient Object Followup Reports",
+        "Atel #7885"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J024414.72+413413.5",
+            "RA": "02h 44m 14.72s",
+            "Dec": "+41d 34m 13.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-10-12.63367 UT",
+            "Date": "2012-10-12"
+        },
+        {
+            "Name": "MASTER OT J001952.31+464933.0",
+            "RA": "00h 19m 52.31s",
+            "Dec": "+46d 49m 33.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-10-15.84042 UT",
+            "Date": "2012-10-15"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J024414+413413-BRIR.jpg, http://master.sai.msu.ru/static/OT/024414.72413413.5.png, http://master.sai.msu.ru/static/OT/J001952+464933-BRIR.jpg, http://master.sai.msu.ru/static/OT/001952.31464933.0.png",
+    "Event Type": "new CV",
+    "Time": null,
+    "Date": "2012-10-12",
+    "Telescope": "MASTER-Amur, MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

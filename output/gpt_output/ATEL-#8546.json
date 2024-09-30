@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016D",
+            "RA": "04:01:25.99",
+            "Dec": "-54:45:30.8",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": "02:13",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16hy",
+            "RA": "08:10:19.86",
+            "Dec": "+19:26:48.2",
+            "redshift": "0.103",
+            "Type": "Ibn",
+            "Time": "02:37",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16jb",
+            "RA": "09:17:34.63",
+            "Dec": "+18:57:07.0",
+            "redshift": "0.03",
+            "Type": "IIP",
+            "Time": "03:51",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16ij",
+            "RA": "10:17:07.04",
+            "Dec": "+15:48:35.9",
+            "redshift": "0.094",
+            "Type": "IIn",
+            "Time": "04:29",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16hx",
+            "RA": "07:45:43.36",
+            "Dec": "+31:00:27.8",
+            "redshift": "0.062",
+            "Type": "II",
+            "Time": "05:13",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16gs",
+            "RA": "10:34:19.27",
+            "Dec": "+03:24:25.5",
+            "redshift": "0.074",
+            "Type": "IIb",
+            "Time": "05:55",
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "PS16gy",
+            "RA": "11:17:05.67",
+            "Dec": "-05:31:13.7",
+            "redshift": "0.01",
+            "Type": "IIP",
+            "Time": "07:08",
+            "Date": "2016-01-14"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "classifications of optical transients",
+    "Time": "Multiple",
+    "Date": "2016-01-14",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR)"
+}

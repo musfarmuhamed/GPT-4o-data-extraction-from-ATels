@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017egm",
+            "RA": "10:19:05.62",
+            "Dec": "+46:27:14.08",
+            "redshift": null,
+            "Type": "hydrogen poor superluminous supernova (SLSN)",
+            "Time": "unresolved",
+            "Date": "2017-05-23"
+        },
+        {
+            "Name": "Host Galaxy of SN 2017egm",
+            "RA": "10:19:6.3",
+            "Dec": "+46:27:10.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "4-hour observation",
+            "Date": "2017-06-17"
+        },
+        {
+            "Name": "NGC 3191",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "archival",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10442",
+        "ATel #10498",
+        "ATel #10499",
+        "ATel #10531",
+        "ATel #10537"
+    ],
+    "Event Type": "Observation",
+    "Time": "multiple dates",
+    "Date": [
+        "2017-05-23",
+        "2017-06-17",
+        "2017-06-22",
+        "2017-06-26"
+    ],
+    "Telescope": "Arcminute Microkelvin Imager Large Array (AMI-LA), eMERLIN, Gaia Satellite, Nordic Optical Telescope, Swift",
+    "Instrument": null,
+    "Observatory": "Mullard Radio Astronomy Observatory, Jodrell Bank Observatory"
+}

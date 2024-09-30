@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J15213475-0722183",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova impostor",
+            "Time": "07:38",
+            "Date": "Feb 7",
+            "Observation Details": {
+                "H-alpha": "narrow emission with FWHM expansion velocities < 750 km/s",
+                "H-beta": "narrow emission with FWHM expansion velocities < 750 km/s",
+                "Ca II": "in emission",
+                "Na I": "weak absorption"
+            }
+        }
+    ],
+    "References": [
+        "ATEL #4795",
+        "ATEL #4796",
+        "Smith et al., 2009, ApJ, 697, L49",
+        "Botticella et al. 2009, MNRAS, 398, 1041"
+    ],
+    "Event Type": "Transient",
+    "Time": "07:38",
+    "Date": "Feb 7",
+    "Telescope": "Gemini-South Telescope",
+    "Instrument": "GMOS-S",
+    "Observatory": "Cerro Pachon"
+}

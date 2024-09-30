@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J103747.94-270507.2",
+            "RA": "10h 37m 47.94s",
+            "Dec": "-27d 05m 07.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20.09346",
+            "Date": "2015-10-20"
+        },
+        {
+            "Name": "IC2597",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "elliptical galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1SWXRT J103747.7-270510",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "20.09346",
+    "Date": "2015-10-20",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

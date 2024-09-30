@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10mwb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03 +/- 0.01",
+            "Type": "Type Ia supernova",
+            "Time": "June 30",
+            "Date": null
+        }
+    ],
+    "References": "ATEL#1964, Howell et al. 2005",
+    "Event Type": "Discovery",
+    "Time": "June 24",
+    "Date": "June 29",
+    "Telescope": [
+        "Gemini North",
+        "Palomar 48 inch",
+        "Hubble SpaceTelescopes"
+    ],
+    "Instrument": [
+        "Superfit",
+        "STIS/UV spectroscopic"
+    ],
+    "Observatory": "Hubble Space Telescope"
+}

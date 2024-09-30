@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J181751.42+594937.6",
+            "RA": "18h 17m 51.42s",
+            "Dec": "+59d 49m 37.6s",
+            "redshift": null,
+            "Type": "UV Ceti type (flaring red dwarf)",
+            "Time": "18h 17m 51.42s",
+            "Date": "2013-07-08.77560 UT"
+        },
+        {
+            "Name": "MASTER OT J000028.33+013632.9",
+            "RA": "00h 00m 28.33s",
+            "Dec": "+01d 36m 32.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00h 00m 28.33s",
+            "Date": "2013-07-06.98731 UT"
+        },
+        {
+            "Name": "MASTER OT J183915.11+141656.4",
+            "RA": "18h 39m 15.11s",
+            "Dec": "+14d 16m 56.4s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "18h 39m 15.11s",
+            "Date": "2013-07-08.82010 UT"
+        },
+        {
+            "Name": "MASTER OT J012016.45+301055.7",
+            "RA": "01h 20m 16.45s",
+            "Dec": "+30d 10m 55.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "01h 20m 16.45s",
+            "Date": "2013-07-09.97456 UT"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J181751+594937-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/000028.33013632.9.png",
+        "http://master.sai.msu.ru/static/OT/183915.11141656.4.png",
+        "http://master.sai.msu.ru/static/OT/012016.45301055.8.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

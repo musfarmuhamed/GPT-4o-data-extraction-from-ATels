@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "Feb. 12.0 (mean JD 2456700.47)",
+            "Date": "Feb. 12.0 (mean JD 2456700.47)"
+        },
+        {
+            "Name": "BD+75325",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1997do",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "10\u00b11 days after maximum light",
+            "Date": null
+        },
+        {
+            "Name": "2001bg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "10\u00b11 days after maximum light",
+            "Date": null
+        },
+        {
+            "Name": "2006cp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "10\u00b11 days after maximum light",
+            "Date": null
+        },
+        {
+            "Name": "2007le",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "10\u00b11 days after maximum light",
+            "Date": null
+        },
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Dust features and Spectral Lines",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin et al. (2012, AJ 142, 126)",
+        "Phillips et al. (2013; ApJ 779, 38)",
+        "Goobar et al. (2014, arXiv:1402.0849v2)",
+        "Ritchey et al. (ATEL #5859)"
+    ],
+    "Event Type": "Observation",
+    "Time": "Six 2400s spectra",
+    "Date": "Feb. 12.0",
+    "Telescope": "2-m Alfred Jensch Telescope",
+    "Instrument": "Coude echelle spectrograph",
+    "Observatory": "Th\u00fcringer Landessternwarte Tautenburg"
+}

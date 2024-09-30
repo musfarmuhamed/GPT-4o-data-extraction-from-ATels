@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS17chm",
+            "RA": "14:14:17.08",
+            "Dec": "+35:25:43.47",
+            "redshift": "0.01062",
+            "Type": "LBV",
+            "Time": "UT",
+            "Date": "2017-04-19"
+        },
+        {
+            "Name": "AT2017dau",
+            "RA": "14:14:17.08",
+            "Dec": "+35:25:43.47",
+            "redshift": "0.01062",
+            "Type": "LBV",
+            "Time": "UT",
+            "Date": "2017-04-19"
+        }
+    ],
+    "References": "Chambers et al. 2016, arXiv:1612.05560, and http://pswww.ifa.hawaii.edu",
+    "Event Type": "classification",
+    "Time": "UT",
+    "Date": "2017-04-19",
+    "Telescope": "Palomar 200-inch (P200) telescope",
+    "Instrument": "Double Spectrograph (DBSP)",
+    "Observatory": "Palomar"
+}

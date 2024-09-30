@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016ccl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024",
+            "Type": "type-Ia (normal) supernova",
+            "Time": "10.32",
+            "Date": "May 10"
+        },
+        {
+            "Name": "IC 3895",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "SDSS 2006"
+    ],
+    "Event Type": "spectrum obtained",
+    "Time": "10.32",
+    "Date": "May 10",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

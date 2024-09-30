@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174045.80+115828.5",
+            "RA": "17h 40m 45.80s",
+            "Dec": "+11d 58m 28.5s",
+            "redshift": null,
+            "Type": "highly variable object likely a binary system with a hot compact object",
+            "Time": "2014-02-09.06939 UT",
+            "Date": "2014-02-09"
+        },
+        {
+            "Name": "USNO-B1.0 1019-0338114",
+            "RA": "17h 40m 45.735s",
+            "Dec": "+11d 58m 28.80s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-06-14.93800 UT",
+            "Limit Magnitude": "19.7m"
+        }
+    ],
+    "Event Type": "highly variable object detection",
+    "Time": "2014-02-09.06939 UT",
+    "Date": "2014-02-09",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2011-10d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII-type",
+            "Time": "26.94 UT",
+            "Date": "2011 October 26"
+        },
+        {
+            "Name": "M31N 2011-10e",
+            "RA": "00h45m28.85s",
+            "Dec": "+41d54m09.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2011/10/22"
+        }
+    ],
+    "References": "ATel #3699",
+    "Event Type": "low resolution spectrum",
+    "Time": "26.94 UT",
+    "Date": "2011 October 26",
+    "Telescope": "Russian 6-m BTA telescope",
+    "Instrument": "SCORPIO spectral camera",
+    "Observatory": "Ondrejov observatory"
+}

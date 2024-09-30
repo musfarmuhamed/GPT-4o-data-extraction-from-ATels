@@ -1,0 +1,137 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E1cwz",
+            "RA": "00:33:23.85",
+            "Dec": "-42:34:16.8",
+            "redshift": 0.494,
+            "Type": "Ia",
+            "Time": "2015 Sep 17",
+            "Date": "2015 Aug 30"
+        },
+        {
+            "Name": "DES15S2eco",
+            "RA": "02:46:57.32",
+            "Dec": "-00:14:08.1",
+            "redshift": 0.4117,
+            "Type": "Ia",
+            "Time": "2015 Sep 17",
+            "Date": "2015 Sep 11"
+        },
+        {
+            "Name": "DES15S2dye",
+            "RA": "02:43:35.22",
+            "Dec": "-01:07:47.7",
+            "redshift": 0.25,
+            "Type": "Ia",
+            "Time": "2015 Sep 17",
+            "Date": "2015 Aug 30"
+        },
+        {
+            "Name": "DES15E2cwm",
+            "RA": "00:40:42.94",
+            "Dec": "-43:56:54.0",
+            "redshift": 0.2904,
+            "Type": "Ia",
+            "Time": "2015 Sep 17",
+            "Date": "2015 Aug 30"
+        },
+        {
+            "Name": "DES15E1lew",
+            "RA": "00:32:08.73",
+            "Dec": "-42:33:15.0",
+            "redshift": 0.23,
+            "Type": "Ia",
+            "Time": "2015 Oct 20",
+            "Date": "2015 Oct 09"
+        },
+        {
+            "Name": "DES15C1mat",
+            "RA": "03:39:08.05",
+            "Dec": "-26:11:27.0",
+            "redshift": 0.12,
+            "Type": "Ib/c",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 29"
+        },
+        {
+            "Name": "DES15S1lrp",
+            "RA": "02:50:44.79",
+            "Dec": "-00:27:35.5",
+            "redshift": 0.223,
+            "Type": "II?",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 16"
+        },
+        {
+            "Name": "DES15X2mei",
+            "RA": "02:25:31.10",
+            "Dec": "-05:52:44.4",
+            "redshift": 0.235,
+            "Type": "Ia",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 31"
+        },
+        {
+            "Name": "DES15X2lxw",
+            "RA": "02:23:00.71",
+            "Dec": "-06:15:51.1",
+            "redshift": 0.197,
+            "Type": "Ia",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 31"
+        },
+        {
+            "Name": "DES15E1mar",
+            "RA": "00:29:28.16",
+            "Dec": "-43:23:17.3",
+            "redshift": 0.456,
+            "Type": "Ia",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 29"
+        },
+        {
+            "Name": "DES15X2lxv",
+            "RA": "02:20:25.73",
+            "Dec": "-05:46:21.1",
+            "redshift": 0.2891,
+            "Type": "Ia",
+            "Time": "2015 Nov 12",
+            "Date": "2015 Oct 31"
+        },
+        {
+            "Name": "DES15X1oox",
+            "RA": "02:14:49.55",
+            "Dec": "-04:40:29.1",
+            "redshift": 0.46,
+            "Type": "Ia",
+            "Time": "2016 Jan 11",
+            "Date": "2015 Dec 31"
+        },
+        {
+            "Name": "DES15C2npz",
+            "RA": "03:36:03.91",
+            "Dec": "-28:46:57.3",
+            "redshift": 0.123,
+            "Type": "II",
+            "Time": "2016 Jan 11",
+            "Date": "2015 Dec 08"
+        },
+        {
+            "Name": "DES15C1okz",
+            "RA": "03:37:49.77",
+            "Dec": "-26:43:38.9",
+            "redshift": 0.07,
+            "Type": "II",
+            "Time": "2016 Jan 11",
+            "Date": "2015 Dec 28"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al, 2005, ApJ, 634, 119",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "425-1050nm",
+    "Date": "2015-2016",
+    "Telescope": "6.5m Clay telescope",
+    "Instrument": "LDSS3",
+    "Observatory": "Las Campanas Observatory"
+}

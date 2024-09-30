@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new gamma-ray source",
+            "RA": 207.51,
+            "Dec": -11.68,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "2011-11-20 to 2011-11-26"
+        },
+        {
+            "Name": "PKS 1346-112",
+            "RA": 207.381,
+            "Dec": -11.5483,
+            "redshift": 0.3407,
+            "Type": "flat spectrum radio source",
+            "Time": null,
+            "Date": "2002"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 38",
+        "Eracleous & Halpern 2004, ApJS, 150, 181"
+    ],
+    "Event Type": "gamma-ray flare observation",
+    "Time": null,
+    "Date": "2011-11-25",
+    "Telescope": "Fermi Gamma-ray satellite",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

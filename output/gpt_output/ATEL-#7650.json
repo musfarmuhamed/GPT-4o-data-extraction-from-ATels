@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole Low mass X-ray binary",
+            "Time": "18:58",
+            "Date": "2015-06-15"
+        },
+        {
+            "Name": "USNO 1200-15039207",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO 1200-15046396",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Barthelmy et al. GCN #17929, ATel #7646, ATel #7647",
+    "Event Type": "X-ray activity detection, Optical follow-up",
+    "Time": "18:32",
+    "Date": "2015-06-15",
+    "Telescope": "0.40 m f/8 robotic telescope",
+    "Instrument": null,
+    "Observatory": "University of Athens (Greece)"
+}

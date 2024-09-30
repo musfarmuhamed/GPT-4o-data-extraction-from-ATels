@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018,
+            "Type": "IIn",
+            "Time": "2017-05-17.88",
+            "Date": "2017-05-04.04"
+        },
+        {
+            "Name": "ASASSN-17gd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": "2017-05-17.92",
+            "Date": "2017-05-14.38"
+        },
+        {
+            "Name": "ASASSN-17ge",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024,
+            "Type": "Ia",
+            "Time": "2017-05-17.90",
+            "Date": "2017-05-14.30"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATEL #8944",
+        "ATEL #8979"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": "2017-05-17",
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

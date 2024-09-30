@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13anm",
+            "RA": "13:56:01.82",
+            "Dec": "-23:44:56.4",
+            "redshift": "zero",
+            "Type": "possible CV or high amplitude stellar variable or outburst",
+            "Time": "May 19.17",
+            "Date": "May 19"
+        }
+    ],
+    "References": "ATel # 3812",
+    "Event Type": "spectroscopic classification",
+    "Time": "May 25.39 UT",
+    "Date": "May 25",
+    "Telescope": [
+        "Faulkes Telescope South",
+        "ANU 2.3m telescope"
+    ],
+    "Instrument": [
+        "GMOS-S",
+        "FLOYDS spectrograph",
+        "Wide Field Spectrograph (WiFeS)"
+    ],
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

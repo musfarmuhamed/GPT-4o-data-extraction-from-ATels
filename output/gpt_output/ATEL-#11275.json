@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ca",
+            "RA": "00:42:34.40",
+            "Dec": "+40:44:26.02",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2018-02-08.07",
+            "Date": "2018-02-08"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Stanek & Garnavich",
+            "Title": "ApJ",
+            "Year": 1998,
+            "Volume": 503,
+            "Page": "L131"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2018-02-08.07",
+    "Date": "2018-02-08",
+    "Telescope": "Leavitt",
+    "Instrument": null,
+    "Observatory": "Fort Davis, Texas"
+}

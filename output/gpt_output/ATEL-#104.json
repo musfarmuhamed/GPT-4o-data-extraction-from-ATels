@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1650-500",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:06 UT",
+            "Date": "03 Aug 2002"
+        },
+        {
+            "Name": "brighter star (1.5 arcsec to the West)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "Groot et al",
+            "IAUC": 7708
+        },
+        {
+            "Name": "Castro-Tirado et al",
+            "IAUC": 7707
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "04:06 UT and 04:12 UT",
+    "Date": "03 Aug 2002",
+    "Telescope": "Magellan 1",
+    "Instrument": "Sackler MagIC CCD camera",
+    "Observatory": null
+}

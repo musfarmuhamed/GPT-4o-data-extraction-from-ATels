@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing binary radio millisecond pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Archibald et al. 2009, Science, 324, 1411",
+        "Tam et al. 2010, ApJ, 724, 207",
+        "Nolan et al. 2012, ApJS, 199, 31"
+    ],
+    "Event Type": "change in state and disappearance as a radio pulsar",
+    "Time": [
+        "between 19-23 June 2013"
+    ],
+    "Date": [
+        "June 23, 2013",
+        "August 11, 2013",
+        "August 28, 2013"
+    ],
+    "Telescope": [
+        "Lovell Telescope",
+        "Westerbork Synthesis Radio Telescope",
+        "Green Bank Telescope",
+        "Arecibo telescope",
+        "Swift/BAT",
+        "Fermi LAT"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Jodrell Bank",
+        "Green Bank",
+        "Arecibo"
+    ]
+}

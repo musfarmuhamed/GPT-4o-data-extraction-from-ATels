@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fs",
+            "RA": "18:58:40.816",
+            "Dec": "+43:28:07.88",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-03-25.56",
+            "Date": "2015-03-25"
+        },
+        {
+            "Name": "CGCG 229-010",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02902",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "We thank LCOGT and its staff for their continued support of ASAS-SN. For more information about the ASAS-SN project, see the ASAS-SN Homepage and the list of all ASAS-SN transients.",
+    "Event Type": "discovery",
+    "Time": "2015-03-25.56",
+    "Date": "2015-03-25",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

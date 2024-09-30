@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient, possibly a hard state black hole binary",
+            "Time": "08:45 to 10:10",
+            "Date": "2018-03-16"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient, possibly a hard state black hole binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "URAT1 486-270264",
+            "RA": "18h20m26.43s",
+            "Dec": "+07d10m11.8s",
+            "redshift": null,
+            "Type": "comparison star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #11403",
+        "ATel #11404",
+        "ATel #11406",
+        "ATel #11418",
+        "ATel #11420",
+        "ATel #11421",
+        "ATel #11423",
+        "ATel #11424",
+        "ATel #11425",
+        "ATel #11426",
+        "ATel #11427",
+        "ATel #11432",
+        "Dhillon et al. 2007 378 825",
+        "Schlafly & Finkbeiner 2011 ApJ 737 103",
+        "Zacharias et al. 2015 ApJ 150 4",
+        "Vaughan et al. 2003 MNRAS 345 1271",
+        "Gandhi et al. 2010 MNRAS 407 2166",
+        "Casella et al. 2010 MNRAS 404 L21",
+        "Gandhi et al. 2017 Nat. Astron. 1 859"
+    ],
+    "Event Type": "Observation",
+    "Time": "08:45 to 10:10",
+    "Date": "2018-03-16",
+    "Telescope": "NTT",
+    "Instrument": "ULTRACAM",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1756.9-2508",
+            "RA": "17:56:57.2",
+            "Dec": "-25:06:26.28",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "3000s",
+            "Date": "15 June 2007"
+        }
+    ],
+    "References": [
+        "ATel #1105",
+        "ATel #1107",
+        "ATel #1108",
+        "ATel #1111",
+        "ATel #1114",
+        "ATel #1117",
+        "ATel #1128"
+    ],
+    "Event Type": "Radio Observation",
+    "Time": "3000s",
+    "Date": "15 June 2007",
+    "Telescope": "Westerbork Synthesis Radio Telescope (WSRT)",
+    "Instrument": "PuMa pulsar backend",
+    "Observatory": "WSRT in the Netherlands"
+}

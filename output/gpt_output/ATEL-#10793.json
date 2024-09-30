@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17my",
+            "RA": "21:55:48.81",
+            "Dec": "-17:48:56.5",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "20170926"
+        },
+        {
+            "Name": "SN2017gwt",
+            "RA": "22:02:05.06",
+            "Dec": "-07:07:11.3",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "20170912"
+        },
+        {
+            "Name": "SN2017gwy",
+            "RA": "22:23:34.51",
+            "Dec": "+11:51:35.9",
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "20170926"
+        },
+        {
+            "Name": "AT2017gum",
+            "RA": "02:38:37.95",
+            "Dec": "-28:01:01.2",
+            "redshift": "?",
+            "Type": "?",
+            "Time": "?",
+            "Date": "20170917"
+        },
+        {
+            "Name": "SN2017gww",
+            "RA": "00:03:49.21",
+            "Dec": "+07:28:00.1",
+            "redshift": "0.017",
+            "Type": "II",
+            "Time": "+3d",
+            "Date": "20170926"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "not specified",
+    "Date": "2017 Sept. 27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

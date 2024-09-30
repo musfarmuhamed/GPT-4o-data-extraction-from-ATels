@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AXP CXO J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AXP (Anomalous X-ray Pulsar)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #893",
+        "ATel #896",
+        "ATel #894",
+        "ATel #902",
+        "GCN Circ. #5581",
+        "ATel #929"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "2006-09-21 to 2006-10-28",
+    "Telescope": [
+        "Swift",
+        "XMM-Newton"
+    ],
+    "Instrument": [
+        "BAT"
+    ],
+    "Observatory": null
+}

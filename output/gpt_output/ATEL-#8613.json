@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS160129:074030+105600",
+            "RA": "07:40:29.65",
+            "Dec": "+10:55:59.9",
+            "redshift": 0.066,
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016-01-29"
+        },
+        {
+            "Name": "SN2016ys",
+            "RA": "07:12:14.35",
+            "Dec": "+07:14:23.2",
+            "redshift": 0.028,
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016-01-28"
+        },
+        {
+            "Name": "SN2016yr",
+            "RA": "05:39:57.44",
+            "Dec": "-40:30:57.8",
+            "redshift": 0.037,
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016-01-29"
+        },
+        {
+            "Name": "SN2016ut",
+            "RA": "11:36:36.16",
+            "Dec": "-03:04:38.3",
+            "redshift": 0.099,
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016-01-18"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Drake et al. 2009, 696, 870",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Pantoja et al. 1997, AJ 113, 905 via NED",
+        "Jones et al 2009, The 6dF Galaxy Survey Data Release 3 via NED"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2016-01-30",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

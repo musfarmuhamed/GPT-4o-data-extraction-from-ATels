@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mr",
+            "RA": "19:39:56.82",
+            "Dec": "+50:55:28.49",
+            "redshift": "0.026759",
+            "Type": "Supernova",
+            "Time": "2015-07-18.42",
+            "Date": "2015-07-18"
+        },
+        {
+            "Name": "ASASSN-15ms",
+            "RA": "14:50:27.50",
+            "Dec": "+06:37:11.69",
+            "redshift": "0.044107",
+            "Type": "Supernova",
+            "Time": "2015-07-18.32",
+            "Date": "2015-07-18"
+        }
+    ],
+    "References": "All Sky Automated Survey for SuperNovae (ASAS-SN)",
+    "Event Type": "Discovery",
+    "Time": "2015-07-18",
+    "Date": "2015-07-18",
+    "Telescope": "Brutus, 0.41-m telescope, 0.43m CDK + STL-11000M",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii; Observatoire Chante-Perdrix-Dauban, France; ITelescope.NET site at Nerpio, Spain"
+}

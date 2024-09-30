@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0035+6131",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "Jan 14, 2016"
+        },
+        {
+            "Name": "87GB 003232.7+611352",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable radio source",
+            "Time": null,
+            "Date": "Jan, 2016"
+        },
+        {
+            "Name": "HD 3191",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B1IV star",
+            "Time": null,
+            "Date": "Jan, 2016"
+        }
+    ],
+    "References": [
+        "ATel #8554",
+        "ATel #8783",
+        "ATel #8718",
+        "ATel #8706",
+        "Gregory and Taylor, 1981, ApJ 248, 596",
+        "Petrie and Pearce (1961)"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "Jan 14, 2016",
+    "Telescope": "Varese 0.61m telescope",
+    "Instrument": "mk.III Multi Mode Spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J045558.9-702001",
+            "RA": "04:55:58.9",
+            "Dec": "-70:20:01",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J04555883-7019599",
+            "RA": "04:55:58.840",
+            "Dec": "-70:19:59.98",
+            "redshift": null,
+            "Type": "B 1-2 star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[L63] 42",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMC129.6 23",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "OGLE III counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMC530.18 23149",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "OGLE IV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": {
+        "Dickey & Lockman, 1990": "ARAA, 28, 215",
+        "Haberl et al. 2008": "A&A 489, 327-348",
+        "Massey et al. 2002": "ApJS, 141, 81",
+        "Howarth 2013": "A&A 555, 141"
+    },
+    "Event Type": "detection and analysis of HMXB",
+    "Time": "0.023\u00b10.008s",
+    "Date": "2013 October 11",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

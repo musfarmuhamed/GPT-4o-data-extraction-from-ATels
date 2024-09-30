@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140424-123226+154840",
+            "RA": "12:32:25.66",
+            "Dec": "+15:48:39.5",
+            "redshift": 0.17,
+            "Type": "SN Ia",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "CSS140424-133007-212728",
+            "RA": "13:30:07.18",
+            "Dec": "-21:27:28.0",
+            "redshift": 0.019,
+            "Type": "-",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "CSS140426-171938-010130",
+            "RA": "17:19:38.28",
+            "Dec": "-01:01:30.0",
+            "redshift": 0.033,
+            "Type": "SN Ia",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "CSS140427-222246+192845",
+            "RA": "22:22:46.07",
+            "Dec": "+19:28:45.4",
+            "redshift": 0.06,
+            "Type": "SN Ia",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "PS1-14xv",
+            "RA": "16:02:20.35",
+            "Dec": "+05:12:40.2",
+            "redshift": 0.064,
+            "Type": "SN Ia",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        },
+        {
+            "Name": "PS1-14xw",
+            "RA": "16:52:57.63",
+            "Dec": "+02:23:36.5",
+            "redshift": 0.02,
+            "Type": "SN Ia",
+            "Time": "Night starting",
+            "Date": "2014-04-28"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Smartt et al., ATel #5850",
+        "http://crts.caltech.edu/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Night starting",
+    "Date": "2014-04-28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

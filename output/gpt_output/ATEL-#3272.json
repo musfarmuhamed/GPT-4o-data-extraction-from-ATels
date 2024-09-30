@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18219-1347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMSL1 J182155.0-134719",
+            "RA": "18h 21m 55.06s",
+            "Dec": "+13d 47m 18.6s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16336-4733",
+            "RA": "16h 33m 29.88s",
+            "Dec": "-47d 33m 33.1s",
+            "redshift": null,
+            "Type": "Variable X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2037.2+4151",
+            "RA": "20h 37m 05.51s",
+            "Dec": "+41d 50m 05.7s",
+            "redshift": null,
+            "Type": "Transient X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2010, A&A, 523, 61",
+        "Westergaard et al 2006, ATel #967",
+        "Tueller et al. 2010, ApJS, 186, 378"
+    ],
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 92063",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "K1 III",
+            "Time": null,
+            "Date": "2018-02-15"
+        },
+        {
+            "Name": "ASASSN-18fv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible, Very Bright Galactic Nova",
+            "Time": "18.2",
+            "Date": "2018-03-18"
+        }
+    ],
+    "References": "ATel #11454",
+    "Event Type": "Optical Photometry",
+    "Time": "20.32",
+    "Date": "2018-03-20",
+    "Telescope": "BRITE-Toronto",
+    "Instrument": "Custom red filter (550-700 nm), Detector",
+    "Observatory": "BRITE-Constellation"
+}

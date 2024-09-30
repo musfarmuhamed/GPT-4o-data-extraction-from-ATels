@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13awl",
+            "RA": "22:13:42.44",
+            "Dec": "-11:37:05.1",
+            "redshift": "~0.05",
+            "Type": "Gal",
+            "Time": null,
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "LSQ13beu",
+            "RA": "00:08:23.14",
+            "Dec": "-20:52:15.3",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "0d",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "LSQ13bfo",
+            "RA": "21:27:12.25",
+            "Dec": "-30:03:38.5",
+            "redshift": "0.02",
+            "Type": "SN Ia",
+            "Time": "+20d",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "LSQ13bgg",
+            "RA": "02:18:35.52",
+            "Dec": "-25:45:19.5",
+            "redshift": "0.036",
+            "Type": "SN Ia",
+            "Time": "+17d",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "OGLE-2013-SN-032",
+            "RA": "00:19:17.52",
+            "Dec": "-65:24:42.8",
+            "redshift": "~0.09",
+            "Type": "SN Ia",
+            "Time": "+15d",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "OGLE-2013-SN-038",
+            "RA": "23:39:24.83",
+            "Dec": "-67:02:55.1",
+            "redshift": "---",
+            "Type": "---",
+            "Time": "---",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "OGLE-2013-SN-039",
+            "RA": "00:22:33.01",
+            "Dec": "-72:53:41.8",
+            "redshift": "~0.08",
+            "Type": "SN Ia",
+            "Time": "-7d",
+            "Date": "2013-07-28"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al., 2005, ApJ, 634, 1190",
+        "Yaron & Gal-Yam, 2012, PASP, 124, 668"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "Various",
+    "Date": "2013-07-28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": "2005"
+        },
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": 0.0096625,
+            "Date": "MJD 55055"
+        }
+    ],
+    "References": "ATel #2142, ATel #504, ATel #1725, ATel #2146",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "July 26 (ATel #2142)",
+    "Telescope": "Swift/BAT, RXTE, INTEGRAL, IBIS/ISGRI",
+    "Instrument": "Swift/BAT, IBIS/ISGRI",
+    "Observatory": "INTEGRAL, INTEGRAL Core Program"
+}

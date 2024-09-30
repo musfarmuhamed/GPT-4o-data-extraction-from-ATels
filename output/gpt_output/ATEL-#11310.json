@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": 254.537,
+            "Dec": -42.712,
+            "redshift": null,
+            "Type": "Galactic Transient",
+            "Time": "T+210 to T+963 sec",
+            "Date": "Feb. 14, 2018"
+        },
+        {
+            "Name": "VVV J165812.62-424154.78",
+            "RA": 254.55266,
+            "Dec": -42.69845,
+            "redshift": null,
+            "Type": "IR Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "G343.2514+00.0537",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Source in GLIMPSE Catalog",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Barthelmy et al., GCN Circ. 22416",
+        "Krimm et al. 2013",
+        "Grebenev et al., ATEL 11306",
+        "Minniti et al., 2017"
+    ],
+    "Event Type": "Galactic Transient",
+    "Time": "T+210 s to T+963 s",
+    "Date": "Feb. 14, 2018",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "NASA's GSFC Swift"
+}

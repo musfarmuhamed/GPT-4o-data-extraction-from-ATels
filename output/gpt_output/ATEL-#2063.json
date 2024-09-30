@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V1280 Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V2362 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "carbon-rich dust-forming nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1974 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V458 Vul",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #8803",
+        "ATel #1011",
+        "CBET #866",
+        "CBET #1809",
+        "IAUC # 9046",
+        "IAUC #8845",
+        "IAUC #8807",
+        "Chesneau et al. 2008, A&A 487, 223",
+        "Schlegel et al. 1998, ApJ, 500, 525",
+        "Krautter et al. 1996, ApJ, 456, 789",
+        "Ness et al. 2008, AJ, 137, 4160"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": [
+        "2007-Feb-21.5",
+        "2007-Apr-9.9",
+        "2009-May-18.7"
+    ],
+    "Date": [
+        "2007-Feb-21.5",
+        "2007-Apr-9.9",
+        "2009-May-18.7"
+    ],
+    "Telescope": "Steward Observatory Bok 2.29-m telescope",
+    "Instrument": "Swift X-ray Telescope (XRT)",
+    "Observatory": "Steward Observatory"
+}

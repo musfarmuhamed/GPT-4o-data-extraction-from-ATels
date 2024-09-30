@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KS 1947+300 (2MASS J19493548+3012317)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2014 June 3 (MJD 56811.097)",
+            "Date": "2014-06-03"
+        },
+        {
+            "Name": "KS 1947+300 (2MASS J19493548+3012317)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2014 June 18 (MJD 56826.994)",
+            "Date": "2014-06-18"
+        },
+        {
+            "Name": "V490 Cep",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2014 June 18 (MJD 56826.933)",
+            "Date": "2014-06-18"
+        },
+        {
+            "Name": "V490 Cep",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2014 June 20 (MJD 56828.067)",
+            "Date": "2014-06-20"
+        }
+    ],
+    "References": [
+        "Riquelme et al., 2012, A&A, 539, 114",
+        "ATels #6123",
+        "ATels #6129",
+        "ATels #6212",
+        "ATels #6243"
+    ],
+    "Event Type": "Photometric and spectroscopic observations",
+    "Time": {
+        "Start": "2014 June 18",
+        "End": "2014 June 20"
+    },
+    "Date": "2014-06-18 to 2014-06-20",
+    "Telescope": [
+        "1.5-m Russian-Turkish Telescope (RTT150)",
+        "51-cm telescope of the Observatorio de Aras de los Olmos"
+    ],
+    "Instrument": [
+        "TUG Faint Object Spectrograph and Camera (TFOSC)",
+        "Spectrograph"
+    ],
+    "Observatory": [
+        "T\u00dcB\u0130TAK National Observatory (Antalya, Turkey)",
+        "Observatorio de Aras de los Olmos of the University of Valencia"
+    ]
+}

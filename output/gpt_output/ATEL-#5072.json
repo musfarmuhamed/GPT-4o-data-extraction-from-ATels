@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible supernova",
+            "RA": "13:22:47.9",
+            "Dec": "+31:39:10.22",
+            "redshift": "0.31",
+            "Type": "Possible Type Ia supernova",
+            "Time": "00:00",
+            "Date": "2013-05-14"
+        },
+        {
+            "Name": "Rich galaxy cluster GHO1320",
+            "RA": "13:22:48.00",
+            "Dec": "+31:39:17.0",
+            "redshift": "0.31",
+            "Type": "Galaxy cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Survey at Intermediate Redshifts for Cluster and Lensed Supernovae (SIRCLS)",
+    "Event Type": "Discovery",
+    "Time": "00:00",
+    "Date": "2013-05-14",
+    "Telescope": "Canada-France-Hawaii Telescope",
+    "Instrument": "MegaCam",
+    "Observatory": "Canada-France-Hawaii Telescope"
+}

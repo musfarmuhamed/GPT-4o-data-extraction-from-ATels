@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14X1oes",
+            "RA": "02:19:19.90",
+            "Dec": "-05:47:22.0",
+            "redshift": 0.3,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Dec 19"
+        },
+        {
+            "Name": "DES14E1rph",
+            "RA": "00:27:25.54",
+            "Dec": "-42:51:01.5",
+            "redshift": 0.105,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Dec 30"
+        }
+    ],
+    "References": "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024), superfit (Howell et al. 2005, Ap.J. 634, 1190), ATEL 6932",
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Southern African Large Telescope (SALT)",
+    "Instrument": "Robert Stobie Spectrograph (RSS)",
+    "Observatory": null
+}

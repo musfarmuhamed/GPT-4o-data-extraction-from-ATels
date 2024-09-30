@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553246+6903202",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "apparent nova",
+            "Time": "11.899",
+            "Date": "2014-02-11"
+        },
+        {
+            "Name": "M81N 2007-04b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M81N 2013-02a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09555123+6901482",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Hornoch et al. 2008, A&A 492, 301 and ATel #4794",
+    "Event Type": "additional photometry",
+    "Time": "11.899",
+    "Date": "2014-02-11",
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

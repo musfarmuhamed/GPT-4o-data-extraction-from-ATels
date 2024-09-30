@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016hkn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.022,
+            "Type": "SN II",
+            "Time": "2016-11-01.11",
+            "Date": "2016-10-22.16"
+        },
+        {
+            "Name": "ASASSN-16mx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Stellar",
+            "Time": "2016-11-06.81",
+            "Date": "2016-11-02.15"
+        }
+    ],
+    "References": "ATel #8992, ATel #9696",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

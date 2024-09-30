@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2123-463",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.52+0.14/-0.24 or 1.51+/-0.07",
+            "Type": "high redshift flat spectrum radio quasar",
+            "Time": "14:00",
+            "Date": "2011-12-14"
+        },
+        {
+            "Name": "1FGL J2126.1-4603",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high redshift flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J2125.0-4632",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high redshift flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Abdo et al.",
+            "Year": 2010,
+            "Source": "ApJS, 188, 405"
+        },
+        {
+            "Author": "Abdo et al.",
+            "Year": 2011,
+            "Source": "submitted to ApJS, arXiv:1108.1435"
+        },
+        {
+            "Author": "Savage & Wright",
+            "Year": 1981,
+            "Source": "MNRAS, 196, 927"
+        },
+        {
+            "Author": "Kalberla et al.",
+            "Year": 2005,
+            "Source": "A&A, 440, 775"
+        }
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "14:00",
+    "Date": "2011-12-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Fermi LAT"
+}

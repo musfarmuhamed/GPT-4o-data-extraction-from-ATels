@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1712.7-3946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2011 Feb. 07 to 2011 Feb. 08"
+        },
+        {
+            "Name": "IGRJ17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": null,
+            "Date": "2011 Feb. 07 to 2011 Feb. 08"
+        }
+    ],
+    "References": [
+        "#3144",
+        "#3148",
+        "#3150"
+    ],
+    "Event Type": "outburst",
+    "Time": "2011 Feb. 07 at 11:53 to 2011 Feb. 08 at 18:56 (UTC)",
+    "Date": "2011 Feb. 07 to 2011 Feb. 08",
+    "Telescope": [
+        "INTEGRAL",
+        "JEM-X"
+    ],
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "ISDC"
+}

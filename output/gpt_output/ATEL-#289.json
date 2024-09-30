@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": "18h41m0s.54",
+            "Dec": "-05\u00b035'46.8",
+            "redshift": null,
+            "Type": "X-ray pulsar, Be/X-ray binary",
+            "Time": "4.74 s",
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "18h41m0s.43",
+            "Dec": "-05\u00b035'46.5",
+            "redshift": null,
+            "Type": "B star, Be star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bamba et al., PASJ, 53, 1179 (2001)",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2004 May 12",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

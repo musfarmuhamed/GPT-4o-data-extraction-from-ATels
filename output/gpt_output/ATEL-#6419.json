@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J230448.20+324534.1",
+            "RA": "23h 04m 48.20s",
+            "Dec": "+32d 45m 34.1s",
+            "redshift": null,
+            "Type": "possible GRB afterglow candidate",
+            "Time": "0.62245",
+            "Date": "2014-08-25"
+        },
+        {
+            "Name": "SDSS9 J230447.99+324540.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN 16745",
+    "Event Type": "Fermi Trigger",
+    "Time": "0.62245",
+    "Date": "2014-08-25",
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

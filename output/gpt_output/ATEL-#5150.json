@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Type IIb supernova 2013df",
+            "RA": "12h26m29.52s",
+            "Dec": "+31d13m37.5s",
+            "redshift": 0.002395,
+            "Type": "supernova",
+            "Time": "N/A",
+            "Date": "2013 June 13"
+        },
+        {
+            "Name": "hard X-ray source",
+            "RA": "12h26m29.52s",
+            "Dec": "+31d13m37.5s",
+            "redshift": "N/A",
+            "Type": "X-ray source",
+            "Time": "N/A",
+            "Date": "2013 June 13 - 2013 June 19"
+        }
+    ],
+    "References": "CBET #3557, ATel #5139",
+    "Event Type": "X-Ray observation",
+    "Time": "N/A",
+    "Date": "2013 June 13 - 2013 June 19",
+    "Telescope": "Swift, Chandra",
+    "Instrument": "X-Ray Telescope (XRT), Chandra",
+    "Observatory": "N/A"
+}

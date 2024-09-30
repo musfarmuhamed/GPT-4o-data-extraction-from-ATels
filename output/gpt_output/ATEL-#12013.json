@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HAWC J0635+070",
+            "RA": "98.71\u00b10.20",
+            "Dec": "7.00\u00b10.22",
+            "redshift": null,
+            "Type": "TeV gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J0633+0632",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "[Abeysekara et al. 2017, ApJ, 843, 40]",
+        "[Manchester et al., 2005, AJ, 129]",
+        "[Abeysekara et al. 2017, Science, 358, 911]",
+        "[Linden et al., 2017, PRD, 96, 103016]"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "High Altitude Water Cherenkov (HAWC)",
+    "Instrument": null,
+    "Observatory": null
+}

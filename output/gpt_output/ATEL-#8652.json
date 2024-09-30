@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bl",
+            "RA": "11:42:26.680",
+            "Dec": "-36:54:23.41",
+            "redshift": "0.029547",
+            "Type": "Supernova",
+            "Time": "02:08",
+            "Date": "2016-02-08"
+        },
+        {
+            "Name": "ASASSN-16bm",
+            "RA": "11:51:56.238",
+            "Dec": "-13:25:03.07",
+            "redshift": "Null",
+            "Type": "Supernova",
+            "Time": "02:08",
+            "Date": "2016-02-08"
+        }
+    ],
+    "References": [
+        "GALEXASC J115153.52-132447.1"
+    ],
+    "Event Type": "Discovery of transient sources",
+    "Time": "02:08",
+    "Date": "2016-02-08",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

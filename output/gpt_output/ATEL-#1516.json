@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J2058+42",
+            "RA": "20:58:47.301",
+            "Dec": "+41:46:37.342",
+            "redshift": null,
+            "Type": "high-mass X-ray binary and pulsar",
+            "Time": "14:32:51",
+            "Date": "May 9, 2008"
+        },
+        {
+            "Name": "CXOU J205847.5+414637",
+            "RA": "20:58:47.5",
+            "Dec": "+41:46:37",
+            "redshift": null,
+            "Type": "high-mass X-ray binary and pulsar",
+            "Time": null,
+            "Date": "May 2, 2008"
+        }
+    ],
+    "References": [
+        "Wilson, Finger and Harmon, ApJ, 499, 820 (1998)",
+        "C.A. Wilson et al, ApJ, 622, 1024 (2005)"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": "14:32:51",
+    "Date": "May 9, 2008",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": null
+}

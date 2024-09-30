@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018bfx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "20.0",
+            "Date": "2018-04-14.31"
+        },
+        {
+            "Name": "SN2018bbz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "18.2",
+            "Date": "2018-04-14.42"
+        },
+        {
+            "Name": "SN2018ahe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "19.0",
+            "Date": "2018-04-21.36"
+        },
+        {
+            "Name": "SN2018bdo",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "19.5",
+            "Date": "2018-04-24.38"
+        }
+    ],
+    "References": [
+        "ATel #11266",
+        "Bellm & Kulkarni 2017",
+        "Masci et al. 2018",
+        "ATel #11615"
+    ],
+    "Event Type": "public alerts",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Zwicky Transient Facility (ZTF)",
+    "Instrument": null,
+    "Observatory": "IPAC-Caltech"
+}

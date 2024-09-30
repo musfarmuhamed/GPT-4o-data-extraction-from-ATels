@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKSJ0339-0146",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Highly polarized quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WMAP J033924-0143",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Highly polarized quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "2Mass survey"
+    ],
+    "Event Type": "NIR flare detection",
+    "Time": [
+        {
+            "Time": null,
+            "Date": "October 14th, 2010",
+            "Flux measurement": {
+                "Value": 14.72,
+                "Error": 0.03
+            }
+        },
+        {
+            "Time": null,
+            "Date": "December 1st, 2008",
+            "Flux measurement": {
+                "Value": 15.8,
+                "Error": 0.05
+            }
+        },
+        {
+            "Time": null,
+            "Date": "2Mass survey",
+            "Flux measurement": {
+                "Value": 15.381,
+                "Error": 0.075
+            }
+        }
+    ],
+    "Telescope": "Unknown",
+    "Instrument": "Unknown",
+    "Observatory": "Unknown"
+}

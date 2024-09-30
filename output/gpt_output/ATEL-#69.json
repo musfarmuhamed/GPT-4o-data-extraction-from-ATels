@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 1740.7-2942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "Abrupt transition on May 12, hard power law on May 14",
+            "Date": "1996-02 to 1996-05"
+        },
+        {
+            "Name": "GRS 1758-258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "astro-ph/0103304",
+        "Astronomer's Telegram #66",
+        "astro-ph/0103381"
+    ],
+    "Event Type": "Spectral Transition",
+    "Time": "Abrupt transition to hard power law on May 14",
+    "Date": "1996-05-14",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

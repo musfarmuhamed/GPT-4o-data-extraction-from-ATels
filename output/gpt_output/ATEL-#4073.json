@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "~100 sec",
+            "Date": "April 25"
+        },
+        {
+            "Name": "EXO 0748-676",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4024",
+        "ATel #4044",
+        "ATel #4060",
+        "ATel #4070",
+        "ATel #4071",
+        "Homan et al. (2003, A&A 412, 799)"
+    ],
+    "Event Type": "absorption dips",
+    "Time": [
+        "~100 sec",
+        "~1.5 hrs",
+        "~2.7 hrs"
+    ],
+    "Date": [
+        "April 11",
+        "April 25"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

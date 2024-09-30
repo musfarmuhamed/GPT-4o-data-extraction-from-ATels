@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J171921.40+640309.8",
+            "RA": "17h 19m 21.40s",
+            "Dec": "+64d 03m 09.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-03-10.58719 UT",
+            "Date": "2014-03-10"
+        },
+        {
+            "Name": "SDSS J171921.26+640311.0",
+            "RA": "17h 19m 21.186s",
+            "Dec": "+64d 03m 10.20s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1540-0207100",
+            "RA": "17h 19m 21.186s",
+            "Dec": "+64d 03m 10.20s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J200904.69+825153.6",
+            "RA": "20h 09m 04.69s",
+            "Dec": "+82d 51m 53.6s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-03-10.59524 UT",
+            "Date": "2014-03-10"
+        },
+        {
+            "Name": "GALEX J200904.5+825153",
+            "RA": "20h 09m 04.5s",
+            "Dec": "+82d 51m 53s",
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J171921+640309-POSS-B.jpg, http://master.sai.msu.ru/static/OT/171921.40640309.8.png, http://master.sai.msu.ru/static/OT/J200904+825153-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/200904.69825153.6.png",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Amur"
+}

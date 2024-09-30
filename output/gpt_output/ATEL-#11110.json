@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "QSO B2 1420+32",
+            "RA": "14:22:30.37",
+            "Dec": "+32:23:10.4",
+            "redshift": "0.68",
+            "Type": "QSO broadline",
+            "Time": null,
+            "Date": "2017-12-28"
+        }
+    ],
+    "References": [
+        {
+            "Name": "SDSS",
+            "Details": "SDSS J142230.37+322310.4"
+        },
+        {
+            "Name": "CRTS",
+            "Details": "Optically variable"
+        },
+        {
+            "Name": "ASAS-SN",
+            "Details": "790 data points since February 2013, never brighter than V~17"
+        },
+        {
+            "Name": "PS1",
+            "Details": "g=18.5"
+        },
+        {
+            "Name": "Gaia",
+            "Details": "g=18.2"
+        }
+    ],
+    "Event Type": "Optical brightening",
+    "Time": "2017-12-28.48",
+    "Date": "2017-12-28",
+    "Telescope": [
+        {
+            "Name": "\"Brutus\" telescope",
+            "Size": "14 cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "\"Leavitt\" telescope",
+            "Size": "14 cm",
+            "Location": "Fort Davis, Texas"
+        }
+    ],
+    "Instrument": null,
+    "Observatory": "Las Cumbres Observatory"
+}

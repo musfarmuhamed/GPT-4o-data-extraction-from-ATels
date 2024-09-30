@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11kly",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M101",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nugent et al., ATel 3581",
+        "Gilfanov & Gilfanov, arXiv 1103.3659",
+        "Izumi et al. 2010, ApJ 724, 212",
+        "Kalberla 2005",
+        "Stetson et al. 1998, ApJ 508, 491",
+        "Shappee & Stanek 2011, ApJ, 733, 124"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2004",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": null
+}

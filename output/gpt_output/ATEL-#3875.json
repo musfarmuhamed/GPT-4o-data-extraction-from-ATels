@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER035135.98+162606.2",
+            "RA": "03:51:35.98",
+            "Dec": "+16:26:06.2",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "17:10:01.68",
+            "Date": "2012-01-19"
+        },
+        {
+            "Name": "MASTER034131.75+144333.9",
+            "RA": "03:41:31.75",
+            "Dec": "+14:43:33.9",
+            "redshift": null,
+            "Type": "?",
+            "Time": "16:26:00.27",
+            "Date": "2012-01-19"
+        },
+        {
+            "Name": "MASTER073721.02+854323.7",
+            "RA": "07:37:21.02",
+            "Dec": "+85:43:23.7",
+            "redshift": null,
+            "Type": "?",
+            "Time": "16:22:58.43",
+            "Date": "2012-01-19"
+        },
+        {
+            "Name": "MASTER034337.42+164329.4",
+            "RA": "03:43:37.42",
+            "Dec": "+16:43:29.4",
+            "redshift": null,
+            "Type": "?",
+            "Time": "15:57:32.14",
+            "Date": "2012-01-19"
+        },
+        {
+            "Name": "MASTER063113.68+341715.5",
+            "RA": "06:31:13.68",
+            "Dec": "+34:17:15.5",
+            "redshift": null,
+            "Type": "?",
+            "Time": "19:48:49.34",
+            "Date": "2012-01-20"
+        },
+        {
+            "Name": "MASTER124819.37+072049.6",
+            "RA": "12:48:19.37",
+            "Dec": "+07:20:49.6",
+            "redshift": null,
+            "Type": "?",
+            "Time": "01:05:57.72",
+            "Date": "2012-01-21"
+        },
+        {
+            "Name": "MASTER040821.86+141516.1",
+            "RA": "04:08:21.86",
+            "Dec": "+14:15:16.1",
+            "redshift": null,
+            "Type": "?",
+            "Time": "18:50:27.18",
+            "Date": "2012-01-21"
+        },
+        {
+            "Name": "MASTER041352.74+170348.3",
+            "RA": "04:13:52.74",
+            "Dec": "+17:03:48.3",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "18:44:51.65",
+            "Date": "2012-01-21"
+        }
+    ],
+    "References": "SDSS J042605.89+074351.8, SDSS A1588017729228308707, SDSS J041352.29+170356.4",
+    "Event Type": "Detection of OT sources",
+    "Time": null,
+    "Date": "2012-01-19 to 2012-01-21",
+    "Telescope": "MASTER-Net",
+    "Instrument": "Auto-detection system",
+    "Observatory": "Kislovodsk"
+}

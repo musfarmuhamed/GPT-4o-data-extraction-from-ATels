@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "MJD 57396.66",
+            "Date": "2016-01-09"
+        },
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "MJD 57397.67",
+            "Date": "2016-01-10"
+        },
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "2016-01-06"
+        },
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "2016-01-07"
+        }
+    ],
+    "References": [
+        "ATel #8517",
+        "ATel #8513"
+    ],
+    "Event Type": "outburst",
+    "Time": "MJD 57396.66",
+    "Date": "2016-01-09",
+    "Telescope": "1m telescope",
+    "Instrument": "SDSS g and r-band filters",
+    "Observatory": "Lulin Observatory"
+}

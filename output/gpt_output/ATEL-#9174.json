@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J211223.35+144645.1",
+            "RA": "21h 12m 23.35s",
+            "Dec": "+14d 46m 45.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "21.08257",
+            "Date": "2016-06-21"
+        },
+        {
+            "Name": "MASTER OT J012303.34-492007.7",
+            "RA": "01h 23m 03.34s",
+            "Dec": "-49d 20m 07.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, ampl>4m",
+            "Time": "17.09588",
+            "Date": "2016-06-17"
+        },
+        {
+            "Name": "MASTER OT J095958.98-190100.6",
+            "RA": "09h 59m 58.98s",
+            "Dec": "-19d 01m 00.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, ampl>7m",
+            "Time": "17.77954",
+            "Date": "2016-06-17"
+        }
+    ],
+    "References": [
+        {
+            "Reference Name": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+            "URL": "http://master.sai.msu.ru/static/OT/211223.35144645.1.png"
+        },
+        {
+            "Reference Name": "Discovery Images",
+            "URL": "http://master.sai.msu.ru/static/OT/012303.34-492007.7.png"
+        },
+        {
+            "Reference Name": "Discovery Images",
+            "URL": "http://master.sai.msu.ru/static/OT/095958.98-190100.6.png"
+        }
+    ],
+    "Event Type": "Optical Transients discovered by MASTER",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC, MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J113551.09+532246.2",
+            "RA": "11h35m51.12s",
+            "Dec": "+53o22'46.1\"",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "24.40",
+            "Date": "2006 March 24"
+        },
+        {
+            "Name": "SDSS J120231+450349",
+            "RA": "12h02m30.99s",
+            "Dec": "+45o03'48.7\"",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "21.15",
+            "Date": "2006 March 21"
+        }
+    ],
+    "References": "Szkody, P. et al. 2006, AJ, 131, 973",
+    "Event Type": "discoveries of two optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": null,
+    "Observatory": "McDonald Observatory"
+}

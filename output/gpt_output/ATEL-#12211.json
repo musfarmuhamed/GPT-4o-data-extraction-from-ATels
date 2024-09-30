@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1153-1124",
+            "RA": 178.44,
+            "Dec": -11.11,
+            "redshift": null,
+            "Type": "gamma-ray event",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS J1153-1105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "07:55:40.37",
+            "Date": "2018-11-14"
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "Giroletti et al. ATel #12206",
+        "Lucarelli et al. ATel #12208",
+        "IceCube - ATel #12210"
+    ],
+    "Event Type": "gamma-ray event",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "MASTER-OAFA",
+    "Observatory": "AGILE, IceCube, MASTER-OAFA, MASTER-SAAO, MASTER-Tunka, MASTER-IAC"
+}

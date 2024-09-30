@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J214436.17-644347.7",
+            "RA": "21h 44m 36.17s",
+            "Dec": "-64d 43m 47.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-12-16.87483 UT",
+            "Date": "2015-12-16"
+        },
+        {
+            "Name": "MASTER OT J002543.46+260619.4",
+            "RA": "00h 25m 43.46s",
+            "Dec": "+26d 06m 19.4s",
+            "redshift": null,
+            "Type": "PSN in Sloan galaxy",
+            "Time": "2015-12-10.95512 UT",
+            "Date": "2015-12-10"
+        },
+        {
+            "Name": "MASTER OT J070855.64+334109.7",
+            "RA": "07h 08m 55.64s",
+            "Dec": "+33d 41m 09.7s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-12-15.76228 UT",
+            "Date": "2015-12-15"
+        },
+        {
+            "Name": "MASTER OT J134942.04-754405.8",
+            "RA": "13h 49m 42.04s",
+            "Dec": "-75d 44m 05.8s",
+            "redshift": null,
+            "Type": "OT with ampl>2.6m",
+            "Time": "2015-12-17.04424 UT",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "MASTER OT J080826.00+314125.6",
+            "RA": "08h 08m 26.00s",
+            "Dec": "+31d 41m 25.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-12-15.65125 UT",
+            "Date": "2015-12-15"
+        },
+        {
+            "Name": "CSS 101010:223019+292849 (UG)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-12-16 20:18:57.352",
+            "Date": "2015-12-16"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "Astronomical Transient Discoveries",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-SAAO",
+        "MASTER-IAC",
+        "MASTER-Tunka",
+        "MASTER-Kislovodsk"
+    ]
+}

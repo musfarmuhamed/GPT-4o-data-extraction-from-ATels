@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018cng",
+            "RA": "15:45:29.11",
+            "Dec": "+35:51:18.8",
+            "redshift": "0.066",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-19"
+        },
+        {
+            "Name": "SN2018bxs",
+            "RA": "15:28:10.43",
+            "Dec": "+16:55:44.79",
+            "redshift": "0.046",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-19"
+        },
+        {
+            "Name": "SN2018coc",
+            "RA": "16:38:31.99",
+            "Dec": "+5:07:35.30",
+            "redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-19"
+        },
+        {
+            "Name": "SN2018coe",
+            "RA": "16:51:37.36",
+            "Dec": "+61:32:43.34",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-18"
+        },
+        {
+            "Name": "SN2018cjg",
+            "RA": "13:31:55.36",
+            "Dec": "+23:16:59.60",
+            "redshift": "0.045",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-20"
+        },
+        {
+            "Name": "SN2018crr",
+            "RA": "16:59:37.23",
+            "Dec": "+59:04:23.73",
+            "redshift": "0.073",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-13"
+        },
+        {
+            "Name": "AT2018crq",
+            "RA": "19:40:06.58",
+            "Dec": "+60:28:59.4",
+            "redshift": "None",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-06-21"
+        },
+        {
+            "Name": "SN2018cqp",
+            "RA": "15:22:50.3",
+            "Dec": "+8:04:49.11",
+            "redshift": "0.032",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-06-21"
+        }
+    ],
+    "References": [
+        "ATel #11266",
+        "ATel #11688",
+        "Blagorodnova et. al. 2018, PASP, 130, 5003",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "classifications of targets",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": null
+}

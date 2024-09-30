@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1843.5-0343",
+            "RA": "18 43 34.75",
+            "Dec": "-03 42 56.6",
+            "redshift": null,
+            "Type": "binary pulsar system",
+            "Time": "00:27:25 UT, 03:46:37 UT",
+            "Date": "2011 Feb 15"
+        }
+    ],
+    "References": [
+        "Krimm et al, ATel #3109",
+        "Strohmayer & Markwardt, ATel #3121",
+        "Evans et al, 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:27:25 UT, 03:46:37 UT",
+    "Date": "2011 Feb 15",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT, BAT",
+    "Observatory": null
+}

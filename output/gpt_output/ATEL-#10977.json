@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17mt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "UT",
+            "Date": "2017-10-24"
+        }
+    ],
+    "References": [
+        "ATel #10772",
+        "ATel #10785",
+        "ATel #10795"
+    ],
+    "Event Type": "likely Fermi-LAT detection",
+    "Time": "UT",
+    "Date": "2017-10-24 to 2017-11-13",
+    "Telescope": "Fermi LAT",
+    "Instrument": null,
+    "Observatory": {
+        "Name": "Fermi LAT Collaboration",
+        "Structures": [
+            {
+                "Name": "NASA and DOE",
+                "Country": "U.S."
+            },
+            {
+                "Name": "many scientific institutions across",
+                "Country": [
+                    "France",
+                    "Italy",
+                    "Japan",
+                    "Sweden"
+                ]
+            }
+        ]
+    }
+}

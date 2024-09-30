@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14hp",
+            "RA": "21:30:31.42",
+            "Dec": "-70:38:34.35",
+            "redshift": null,
+            "Type": "transient, likely supernova",
+            "Time": "21:30:31.42",
+            "Date": "2014-09-22.13"
+        },
+        {
+            "Name": "2MASX J21303015-7038489",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.038920",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "2014-09-22.13",
+    "Date": "2014-09-22",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

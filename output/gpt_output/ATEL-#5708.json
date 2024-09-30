@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J073208.11+064149.5",
+            "RA": "07h 32m 08.11s",
+            "Dec": "+06d 41m 49.5s",
+            "redshift": null,
+            "Type": "dwarf nova of WZ Sge (UGWZ) type",
+            "Time": "15.4m",
+            "Date": "2013-12-29.62851"
+        },
+        {
+            "Name": "MASTER OT J073208.11+064149.5",
+            "RA": "07h 32m 08.11s",
+            "Dec": "+06d 41m 49.5s",
+            "redshift": null,
+            "Type": "dwarf nova of WZ Sge (UGWZ) type",
+            "Time": "15.2m",
+            "Date": "2013-12-30.63075"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2011-01-22.54389",
+            "Filter": "'V'",
+            "Magnitude Limit": "17.3m"
+        },
+        {
+            "Date": "2002 Feb. 07 and 17",
+            "Magnitude Limit": "21m"
+        }
+    ],
+    "Event Type": "discovered",
+    "Time": "2013-12-29.62851",
+    "Date": "2013-12-29",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

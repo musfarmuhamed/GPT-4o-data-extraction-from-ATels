@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J015031.44+161329.3",
+            "RA": "01h 50m 31.44s",
+            "Dec": "+16d 13m 29.3s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "10.22429",
+            "Date": "2018-08-10"
+        },
+        {
+            "Name": "SDSS galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "spiral galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "http://skyserver.sdss.org/dr9/en/tools/quicklook/quickobj.asp?id=1237678601316794576",
+        "http://observ.pereplet.ru/images/MASTEROTJ015031.44+161329.3.jpg"
+    ],
+    "Event Type": "discovery",
+    "Time": "10.22429",
+    "Date": "2018-08-10",
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": null,
+    "Observatory": null
+}

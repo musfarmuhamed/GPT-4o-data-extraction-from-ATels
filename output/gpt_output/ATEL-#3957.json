@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11ncy",
+            "RA": "17 53 11.70",
+            "Dec": "+53 40 06.7",
+            "redshift": "0.176",
+            "Type": "SN Ia",
+            "Time": "Sep 16.14",
+            "Date": "Sep 30"
+        },
+        {
+            "Name": "PTF12tr",
+            "RA": "04 40 08.80",
+            "Dec": "+03 15 24.8",
+            "redshift": "0.089",
+            "Type": "SN Ia",
+            "Time": "Jan 18.20",
+            "Date": "Feb 01"
+        },
+        {
+            "Name": "PTF12aki",
+            "RA": "10 21 34.93",
+            "Dec": "+05 18 24.6",
+            "redshift": "0.064",
+            "Type": "SN Ia",
+            "Time": "Feb 03.41",
+            "Date": "Mar 02"
+        },
+        {
+            "Name": "PTF12alp",
+            "RA": "13 07 39.48",
+            "Dec": "+06 20 08.9",
+            "redshift": "0.0232",
+            "Type": "SN Ia",
+            "Time": "Feb 04.36",
+            "Date": "Feb 21"
+        },
+        {
+            "Name": "PTF12aob",
+            "RA": "07 48 04.92",
+            "Dec": "+37 10 27.8",
+            "redshift": "0.0845",
+            "Type": "SN Ia",
+            "Time": "Feb 03.25",
+            "Date": "Feb 21"
+        },
+        {
+            "Name": "PTF12art",
+            "RA": "17 05 54.34",
+            "Dec": "+04 51 42.5",
+            "redshift": "0.055",
+            "Type": "SN Ia",
+            "Time": "Feb 11.48",
+            "Date": "Feb 21"
+        },
+        {
+            "Name": "PTF12ass",
+            "RA": "15 10 05.22",
+            "Dec": "+01 12 58.2",
+            "redshift": "0.073",
+            "Type": "SN Ia",
+            "Time": "Feb 18.46",
+            "Date": "Mar 02"
+        },
+        {
+            "Name": "PTF12ast",
+            "RA": "12 51 52.24",
+            "Dec": "+38 31 29.7",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": "Feb 18.50",
+            "Date": "Feb 21"
+        },
+        {
+            "Name": "PTF12asw",
+            "RA": "13 05 32.54",
+            "Dec": "+27 20 29.4",
+            "redshift": "0.13",
+            "Type": "SN Ia",
+            "Time": "Feb 18.31",
+            "Date": "Feb 21"
+        },
+        {
+            "Name": "PTF12awi",
+            "RA": "10 03 13.71",
+            "Dec": "+01 53 43.4",
+            "redshift": "0.0455",
+            "Type": "SN Ia",
+            "Time": "Feb 21.38",
+            "Date": "Mar 01"
+        },
+        {
+            "Name": "PTF12bdp",
+            "RA": "12 58 10.54",
+            "Dec": "-26 21 17.4",
+            "redshift": "0.048",
+            "Type": "SN II",
+            "Time": "Feb 26.37",
+            "Date": "Mar 02"
+        }
+    ],
+    "References": "ATEL #1964, #3253; Law et al. 2009, PASP, 121, 1395; Rau et al. 2009, PASP, 121, 1334; Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B; Smith et al. 2011, MNRAS, 412, 1309",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "PTF"
+}

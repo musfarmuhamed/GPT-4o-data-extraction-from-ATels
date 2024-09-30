@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES17X1amf",
+            "RA": "02:17:46.70",
+            "Dec": "-05:36:01.0",
+            "redshift": 0.92,
+            "Type": "SLSN-I",
+            "Time": "near-max",
+            "Date": "2017 Nov 10"
+        },
+        {
+            "Name": "DES17C1bzd",
+            "RA": "03:39:07.80",
+            "Dec": "-26:11:28.9",
+            "redshift": 0.1199,
+            "Type": "SNIIb",
+            "Time": "pre-max",
+            "Date": "2017 Nov 10"
+        },
+        {
+            "Name": "DES17X2cvc",
+            "RA": "02:24:15.00",
+            "Dec": "-06:54:53.2",
+            "redshift": 0.3238,
+            "Type": "SNIa",
+            "Time": "near-max",
+            "Date": "2017 Nov 10"
+        },
+        {
+            "Name": "DES17E1ckd",
+            "RA": "00:32:40.00",
+            "Dec": "-42:42:38.4",
+            "redshift": 0.513,
+            "Type": "SNIa?",
+            "Time": "near-max",
+            "Date": "2017 Nov 11"
+        },
+        {
+            "Name": "DES17S2cud",
+            "RA": "02:45:34.37",
+            "Dec": "-01:11:31.4",
+            "redshift": 0.5124,
+            "Type": "SNIa?",
+            "Time": "near-max",
+            "Date": "2017 Nov 11"
+        }
+    ],
+    "References": [
+        "ATel #4668",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al, 2005, ApJ, 634, 119",
+        "ATEL #10913"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m Baade telescope",
+    "Instrument": "IMACS",
+    "Observatory": "Las Campanas Observatory"
+}

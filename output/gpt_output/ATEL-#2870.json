@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1728-295",
+            "RA": "17:28:38.86",
+            "Dec": "-29:21:44.0",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:55 - 00:23",
+            "Date": "2010 Sep 8 - Sep 9"
+        }
+    ],
+    "References": [
+        "ATel #2869",
+        "ATel #2823",
+        "ATel #2824",
+        "ATel #2825",
+        "ATel #2827"
+    ],
+    "Event Type": "optical observations",
+    "Time": "23:55 - 00:23",
+    "Date": "2010 Sep 8 - Sep 9",
+    "Telescope": "Magellan Clay telescope",
+    "Instrument": "MagIC camera",
+    "Observatory": "6.5m Magellan"
+}

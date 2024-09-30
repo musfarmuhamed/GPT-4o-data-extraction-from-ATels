@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "03:09 UT",
+            "Date": "June 3"
+        },
+        {
+            "Name": "V1333 Aql",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "03:09 UT",
+            "Date": "June 3"
+        },
+        {
+            "Name": "stars 'a' and 'e'",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Chevalier et al 1999, A&A, 347, L51",
+        "ATEL #1232"
+    ],
+    "Event Type": "Observation",
+    "Time": "03:09 UT",
+    "Date": "June 3",
+    "Telescope": "OHP 1.2-m telescope",
+    "Instrument": "RXTE ASM",
+    "Observatory": "OHP"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1712.6-3739",
+            "RA": 258.161,
+            "Dec": -37.649,
+            "redshift": null,
+            "Type": "LMXB",
+            "Time": "20:11:28 UT",
+            "Date": "September 26, 2011"
+        },
+        {
+            "Name": "SAX J1712.6-3739",
+            "RA": 258.1528,
+            "Dec": -37.6469,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20:13:25.9 UT",
+            "Date": "September 26, 2011"
+        },
+        {
+            "Name": "1RXS J171237.1-373834",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#2717",
+            "Authors": "Strohmeyer & Baumgartner",
+            "Year": 2010
+        },
+        {
+            "ATel": "#2141",
+            "Authors": "Kuulkers",
+            "Year": 2009
+        }
+    ],
+    "Event Type": "intermediate duration burst",
+    "Time": "20:11:28 UT",
+    "Date": "September 26, 2011",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

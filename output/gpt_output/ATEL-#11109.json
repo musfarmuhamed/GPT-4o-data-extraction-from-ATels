@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017jan",
+            "RA": "03 07 22",
+            "Dec": "-64 23 00.9",
+            "redshift": "0.396",
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": "20171218"
+        },
+        {
+            "Name": "SN2017jfd",
+            "RA": "09 58 13",
+            "Dec": "+00 33 39.4",
+            "redshift": "0.082",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20171117"
+        },
+        {
+            "Name": "SN2017jfa",
+            "RA": "07 27 46",
+            "Dec": "+06 28 00.9",
+            "redshift": "0.033",
+            "Type": "II",
+            "Time": null,
+            "Date": "20171123"
+        },
+        {
+            "Name": "SN2017jeb",
+            "RA": "08 26 18",
+            "Dec": "+20 39 52.2",
+            "redshift": "0.064",
+            "Type": "I",
+            "Time": null,
+            "Date": "20171223"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017 Dec 28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

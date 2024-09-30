@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17nj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic Nova",
+            "Time": "2017-10-14.01",
+            "Date": "UT 2017-10-14.01"
+        },
+        {
+            "Name": "G356.4269+01.5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. 2017 (ATel #10850)",
+        "Joshi, Banerjee and Srivastava 2017 (ATel #10852)",
+        "Saito and Minniti 2017 (ATel #10857)",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "European Space Agency (ESA) mission Gaia (https://www.cosmos.esa.int/gaia)",
+        "Gaia Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium)"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2017-10-14.01",
+    "Date": "UT 2017-10-14.01",
+    "Telescope": [
+        "VVV Survey (vvvsurvey.org)",
+        "GAIA",
+        "Spitzer GLIMPSE 3D",
+        "Spitzer Space Telescope",
+        "Two Micron All Sky Survey"
+    ],
+    "Instrument": "NIR Spectroscopy",
+    "Observatory": [
+        "Jet Propulsion Laboratory, California Institute of Technology",
+        "NASA",
+        "University of Massachusetts",
+        "Infrared Processing and Analysis Center/California Institute of Technology",
+        "National Science Foundation"
+    ]
+}

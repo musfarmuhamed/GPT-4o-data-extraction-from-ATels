@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black-hole candidate and X-ray transient",
+            "Time": null,
+            "Date": "2008-10-10 to 2008-10-11"
+        }
+    ],
+    "References": [
+        "Kuulkers et al. 2008, ATel #1739",
+        "Prat et al. 2008, ATel #1745",
+        "Corbel et al. 2008, ATel #1766",
+        "Titarchuk et al. 1994",
+        "Kuulkers et al. 2007, A&A 466, 595"
+    ],
+    "Event Type": "Outburst",
+    "Time": [
+        "2008-10-10T05:19 until 2008-10-10T11:19",
+        "2008-10-10T21:34 until 2008-10-11T21:57"
+    ],
+    "Date": "2008-10-10 to 2008-10-11",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X1 (3-20 keV)",
+        "IBIS/ISGRI (20-200 keV)",
+        "SPI (25-200 keV)"
+    ],
+    "Observatory": null
+}

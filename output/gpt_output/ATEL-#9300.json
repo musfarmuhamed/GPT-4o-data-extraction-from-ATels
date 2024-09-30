@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.036 (0.002; SNID)",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16gz",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033 (0.003; SNID)",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16ha",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022529 (host/NED)",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16hw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015 (0.005; SNID)",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "ATel #9188",
+        "ATel #9222",
+        "ATel #9278",
+        "ATel #9289"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": [
+        "July 31 2016",
+        "Aug. 01 2016"
+    ],
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17mz (AT 2017haf)",
+            "RA": "23:56:21.849",
+            "Dec": "+32:27:24.09",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:00",
+            "Date": "2017-09-30"
+        },
+        {
+            "Name": "ASASSN-17nb (AT 2017hbg)",
+            "RA": "7:27:37.320",
+            "Dec": "+35:36:30.64",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:00",
+            "Date": "2017-09-25"
+        },
+        {
+            "Name": "ASASSN-17nc (AT 2017hdn)",
+            "RA": "3:35:32.635",
+            "Dec": "-61:16:46.62",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:00",
+            "Date": "2017-10-08"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "Discovery",
+    "Time": "00:00",
+    "Date": "2017-09-30",
+    "Telescope": [
+        "Brutus",
+        "Cassius"
+    ],
+    "Instrument": "14-cm telescope",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

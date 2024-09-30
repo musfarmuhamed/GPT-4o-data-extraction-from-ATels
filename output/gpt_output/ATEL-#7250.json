@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15ml",
+            "RA": "15:27:17.60",
+            "Dec": "+37:50:50.3",
+            "redshift": "0.033",
+            "Type": "II",
+            "Time": "+5 d",
+            "Date": "2015-03-18"
+        },
+        {
+            "Name": "PS15mt",
+            "RA": "09:54:44.17",
+            "Dec": "+23:11:53.1",
+            "redshift": "0.071",
+            "Type": "Ia",
+            "Time": "-6 d",
+            "Date": "2015-03-18"
+        },
+        {
+            "Name": "PS15oh",
+            "RA": "13:10:03.03",
+            "Dec": "+10:04:28.9",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "+12 d",
+            "Date": "2015-03-18"
+        }
+    ],
+    "References": "Huber et al. ATel #7153",
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2015-03-18",
+    "Telescope": "Keck II",
+    "Instrument": "DEIMOS spectrograph",
+    "Observatory": "Null"
+}

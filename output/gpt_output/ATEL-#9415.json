@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "night",
+            "Date": "August 24 2016"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "night",
+            "Date": "August 25 2016"
+        }
+    ],
+    "References": [
+        "Darnley et al. 2016",
+        "Henze et al. 2015",
+        "Steele et al. 2004",
+        "Henze et al. in prep"
+    ],
+    "Event Type": "potential detection",
+    "Time": "night",
+    "Date": "August 24-25 2016",
+    "Telescope": [
+        "Liverpool Telescope",
+        "LCOGT 2m (Hawaii; aka Faulkes Telescope North)"
+    ],
+    "Instrument": "u'-band",
+    "Observatory": "LCOGT"
+}

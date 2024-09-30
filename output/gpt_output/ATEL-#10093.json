@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017aub",
+            "RA": "06:40:24.70",
+            "Dec": "+64:33:02.75",
+            "redshift": 0.014,
+            "Type": "II",
+            "Time": "+2d",
+            "Date": "2017 Feb. 17"
+        },
+        {
+            "Name": "SN2017auf",
+            "RA": "05:02:19.56",
+            "Dec": "-10:21:22.86",
+            "redshift": 0.0133,
+            "Type": "II",
+            "Time": "-3d",
+            "Date": "2017 Feb. 17"
+        },
+        {
+            "Name": "MASTER OT J083256.92-035128.1",
+            "RA": "08:32:56.92",
+            "Dec": "-03:51:28.1",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "-10",
+            "Date": "2017 Feb. 17"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classification",
+    "Time": null,
+    "Date": "2017 Feb. 17",
+    "Telescope": "Xinglong 2.16-m",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong"
+}

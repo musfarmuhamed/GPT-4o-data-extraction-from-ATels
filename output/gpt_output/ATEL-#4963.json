@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J075942.06+560045.8",
+            "RA": "07h 59m 42.06s",
+            "Dec": "+56d 00m 45.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-03-31.79620 UT",
+            "Date": "2013-03-31"
+        },
+        {
+            "Name": "MASTER OT J175502.06-005141.2",
+            "RA": "17h 55m 02.06s",
+            "Dec": "-00d 51m 41.2s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-04-06.05674 UT",
+            "Date": "2013-04-06"
+        },
+        {
+            "Name": "MASTER OT J063215.44+420046.1",
+            "RA": "06h 32m 15.44s",
+            "Dec": "+42d 00m 46.1s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2013-04-08.53383 UT",
+            "Date": "2013-04-08"
+        }
+    ],
+    "References": "1. http://master.sai.msu.ru/static/OT/J075942+560045-BRIR5x5.jpg 2. http://master.sai.msu.ru/static/OT/075942.06560045.8.png 3. http://master.sai.msu.ru/static/OT/J175502-005141-BRIR5x5.jpg 4. http://master.sai.msu.ru/static/OT/175502.06-005141.2.png 5. http://master.sai.msu.ru/static/OT/J063215+420046-BRIR.jpg 6. http://master.sai.msu.ru/static/OT/063215.44420046.1.png",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER auto-detection system",
+    "Instrument": "Unfiltered magnitude limit",
+    "Observatory": "MASTER-Kislovodsk, MASTER-Amur"
+}

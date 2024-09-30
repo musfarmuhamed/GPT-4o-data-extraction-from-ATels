@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova 2017eaw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": "21:43:52",
+            "Date": "May 15 2017"
+        },
+        {
+            "Name": "star",
+            "RA": "20:34:47.05",
+            "Dec": "+60:12:07.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10372",
+        "ATel #10374",
+        "ATel #10376",
+        "ATel #10377"
+    ],
+    "Event Type": "optical follow-up",
+    "Time": "21:43:52",
+    "Date": "May 15 2017",
+    "Telescope": "1.3m Ruths telescope",
+    "Instrument": "SBIG STL-1001E CCD",
+    "Observatory": "INAF-Brera Astronomical Observatory"
+}

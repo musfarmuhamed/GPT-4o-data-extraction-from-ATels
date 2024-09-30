@@ -1,0 +1,108 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fwv",
+            "RA": "19:55:09.31",
+            "Dec": "-28:51:24.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20180906"
+        },
+        {
+            "Name": "AT2018fvq",
+            "RA": "21:31:32.38",
+            "Dec": "-27:15:43.5",
+            "redshift": "0.073",
+            "Type": "Ia",
+            "Time": "-4d",
+            "Date": "20180906"
+        },
+        {
+            "Name": "AT2018frk",
+            "RA": "22:46:16.77",
+            "Dec": "-07:50:13.9",
+            "redshift": "0.080",
+            "Type": "Ia",
+            "Time": "+2d",
+            "Date": "20180901"
+        },
+        {
+            "Name": "AT2018fqn",
+            "RA": "22:39:38.20",
+            "Dec": "-15:05:10.1",
+            "redshift": "0.052",
+            "Type": "Ia",
+            "Time": "-6d",
+            "Date": "20180902"
+        },
+        {
+            "Name": "AT2018fqd",
+            "RA": "20:51:51.48",
+            "Dec": "-36:50:13.3",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "20180901"
+        },
+        {
+            "Name": "AT2018fvy",
+            "RA": "01:32:16.22",
+            "Dec": "-33:06:05.6",
+            "redshift": "0.036",
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "20180906"
+        },
+        {
+            "Name": "AT2018fvx",
+            "RA": "05:49:29.39",
+            "Dec": "-19:33:20.8",
+            "redshift": "0.029",
+            "Type": null,
+            "Time": null,
+            "Date": "20180906"
+        },
+        {
+            "Name": "AT2018fuj",
+            "RA": "04:30:58.48",
+            "Dec": "-26:46:54.0",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "20180905"
+        },
+        {
+            "Name": "AT2018fuk",
+            "RA": "05:45:08.16",
+            "Dec": "-79:23:47.5",
+            "redshift": "0.018",
+            "Type": "Ia",
+            "Time": "-6d",
+            "Date": "20180905"
+        },
+        {
+            "Name": "AT2018fmt",
+            "RA": "01:21:00.86",
+            "Dec": "-13:51:46.6",
+            "redshift": "0.055",
+            "Type": "Ibn",
+            "Time": "+2w",
+            "Date": "20180827"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. (ATel #8680)",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 September 7",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

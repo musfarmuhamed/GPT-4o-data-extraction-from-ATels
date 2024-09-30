@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1652-453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star A",
+            "RA": "16 52 20.4",
+            "Dec": "-45 20 38.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star B",
+            "RA": "16 52 20.3",
+            "Dec": "-45 20 39.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #2107, ATEL #2120",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Infrared Survey Facility 1.4m telescope",
+    "Instrument": "Sirius simultaneous 3 channel NIR imager",
+    "Observatory": "SAAO"
+}

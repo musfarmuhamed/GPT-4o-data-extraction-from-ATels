@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac-type blazar",
+            "Time": "02:23 to 17:48 UTC",
+            "Date": "29 Sep 2017"
+        },
+        {
+            "Name": "IceCube-170922A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "likely-cosmic IceCube EHE neutrino",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #21916",
+        "GCN #21930",
+        "ATel #10791",
+        "ATel #10801",
+        "ATel #10817",
+        "ATel #10833"
+    ],
+    "Event Type": "joint Swift and NuSTAR observations",
+    "Time": "02:23 to 17:48 UTC",
+    "Date": "29 Sep 2017",
+    "Telescope": "Swift, NuSTAR",
+    "Instrument": null,
+    "Observatory": [
+        "UK Swift Science Data Centre",
+        "University of Leicester"
+    ]
+}

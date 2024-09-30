@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown",
+            "RA": 212.26,
+            "Dec": -61.95,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J141108.2-615601",
+            "RA": 212.79,
+            "Dec": -61.93,
+            "redshift": null,
+            "Type": "dMe star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Torres et al.",
+            "Year": 2006,
+            "Journal": "A&A",
+            "Volume": 460,
+            "Page": 695
+        },
+        {
+            "Authors": "Riaz, Gizis, and Harvin",
+            "Year": 2006,
+            "Journal": "AJ",
+            "Volume": 132,
+            "Page": 866
+        }
+    ],
+    "Event Type": "Detection of X-ray transient source",
+    "Time": null,
+    "Date": "2023-10-17 to 2023-10-18",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

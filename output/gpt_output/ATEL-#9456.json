@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT",
+            "RA": "13h 08m 45.02s",
+            "Dec": "-32d 32m 54.9s",
+            "redshift": null,
+            "Type": "variable star",
+            "Time": "2016-08-24.73811 UT",
+            "Date": "2016-08-24"
+        },
+        {
+            "Name": "OT",
+            "RA": "13h 08m 45.02s",
+            "Dec": "-32d 32m 54.9s",
+            "redshift": null,
+            "Type": "variable star",
+            "Time": "2016-09-04.7627 UT",
+            "Date": "2016-09-04"
+        },
+        {
+            "Name": "AR Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "white dwarf radiopulsar",
+            "Time": null,
+            "Date": "2016"
+        },
+        {
+            "Name": "AR Scorpii",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "delta-Scuti star",
+            "Time": null,
+            "Date": "1970s"
+        },
+        {
+            "Name": "MASTER OT J130845.02-323254.9",
+            "RA": "13h 08m 45.02s",
+            "Dec": "-32d 32m 54.9s",
+            "redshift": null,
+            "Type": "variable star or CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., MASTER Global Robotic Net, Advances in Astronomy, 2010, 30L",
+        "Dornic et al. ATEL #9440",
+        "V. Savchenko et al., Atel #9391",
+        "T.R. Marsh et.al., 2016, \"A pulsing, radio emitting white dwarf\". Nature doi:10.1038/nature18620,16 (2016)",
+        "Lipunov, V.M., Ecology of Rotators,1987, Astrophysics and Space Science, vol. 132, no. 1, April 1987, p. 1-51",
+        "Lipunov, V. Nazin, S.N., \"Recycled\" white dwarfs?\", Astronomical and Astrophysical Transactions, 1, 153-157, 1992",
+        "Lipunov, V. M.; Postnov, K. A. \"The joint evolution of normal and compact magnetized stars in close binaries - Analytical description and statistical simulation\", 1988, Astrophys. and Space Sci. 145, 1-45",
+        "Satyvaldiev, V. \"On seventeen variable stars\". Astron. Tsirk. 633, 7\u20138 (1971)"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-08-24",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "Global MASTER Net"
+}

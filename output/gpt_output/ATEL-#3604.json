@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": "2.0-ks pointing",
+            "Date": "2011 August 23"
+        },
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": "1.9 ks",
+            "Date": "2011 August 27"
+        }
+    ],
+    "References": [
+        "ATel #1618",
+        "ATel #1569",
+        "ATel #2814",
+        "Swank & Markwardt 2001, ASP conference series 251, 94",
+        "Gehrels 1986 (ApJ 303, 336)"
+    ],
+    "Event Type": "Decrease in X-ray intensity",
+    "Time": null,
+    "Date": "2011 August 9",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

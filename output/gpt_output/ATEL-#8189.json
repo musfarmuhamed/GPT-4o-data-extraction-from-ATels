@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI Nova ID=7310899999",
+            "RA": 266.9,
+            "Dec": -29.6,
+            "redshift": null,
+            "Type": "X-ray Nova",
+            "Time": "1:22 UTC",
+            "Date": "Oct. 15"
+        },
+        {
+            "Name": "1A 1742-294",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Persistent low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SLX 1744-299",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Persistent low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SLX 1744-300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Persistent low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient burster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #6991",
+        "Atel #5041",
+        "Galloway et al. 2008, ApJS, 179, 360",
+        "GCN #18421",
+        "Atel #8058"
+    ],
+    "Event Type": "X-ray Burst",
+    "Time": "1:22 UTC",
+    "Date": "Oct. 15",
+    "Telescope": "MAXI",
+    "Instrument": "All-sky monitor",
+    "Observatory": null
+}

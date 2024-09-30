@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017dht",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.091,
+            "Type": "II-pec",
+            "Time": "unknown",
+            "Date": "2017-05-02.91"
+        },
+        {
+            "Name": "SN2017dps",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.012,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2017-05-02.99"
+        }
+    ],
+    "References": "ATel #8992, ATel #10339, Tonry et al. 2011, PASP, 123, 58, Tonry et al. ATel #8680, ATEL #8944, #8979, Russell et al. 2000 (MNRAS 313)",
+    "Event Type": "spectroscopic classification",
+    "Time": "unknown",
+    "Date": "unknown",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope (NOT)"
+}

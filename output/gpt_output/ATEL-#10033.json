@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bu",
+            "RA": "10:23:40.431",
+            "Dec": "-35:49:31.65",
+            "redshift": "0.015584",
+            "Type": "supernova",
+            "Time": "2017-01-31.19",
+            "Date": "2017-01-31"
+        }
+    ],
+    "References": [
+        "The quadruple 14-cm 'Cassius' telescope in Cerro Tololo, Chile",
+        "G. Bock",
+        "NED",
+        "Las Cumbres Observatory",
+        "Gordon and Betty Moore Foundation",
+        "Ohio State University",
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Mt. Cuba Astronomical Foundation"
+    ],
+    "Event Type": "transient event",
+    "Time": "2017-01-31.19",
+    "Date": "2017-01-31",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

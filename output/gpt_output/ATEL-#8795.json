@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "09:20 UT",
+            "Date": "2016-03-07"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Greiner et al. 1996, ApJ 473, L107",
+        "Altamirano et al. 2011, ApJ 742, 17",
+        "Altamirano & Belloni 2012, ApJ 747, 4",
+        "Miller et al. 2016, ATel #8742",
+        "Grinberg et al. 2016, ATel #8761",
+        "Barthelmy et al. 2016, GCN #19155",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Chaty et al. 2008, A&A 484, 783",
+        "Schlafly & Finkbeiner 2011, ApJ 737, 103",
+        "Chaty et al. 2008, A&A 484, 783",
+        "Torres et al. 2011, ATel #3150"
+    ],
+    "Event Type": "outburst",
+    "Time": "09:20 UT",
+    "Date": "2016-03-07",
+    "Telescope": "2.2 m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory (Chile)"
+}

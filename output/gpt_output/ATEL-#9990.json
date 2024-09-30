@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017jt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.175,
+            "Type": "?",
+            "Time": "2017-01-22.89",
+            "Date": "2017-01-14.89"
+        },
+        {
+            "Name": "SN 2017lc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "2017-01-23.11",
+            "Date": "2017-01-11.88"
+        },
+        {
+            "Name": "AT 2017lu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": "2017-01-23.04",
+            "Date": "2017-01-17.60"
+        },
+        {
+            "Name": "SN 2017jl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Ia",
+            "Time": "2017-01-22.87",
+            "Date": "2017-01-16.22"
+        }
+    ],
+    "References": "ATel #8992",
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

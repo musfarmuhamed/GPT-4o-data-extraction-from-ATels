@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": 266.434,
+            "Dec": -28.9876,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "11:17:26",
+            "Date": "2013-06-07"
+        }
+    ],
+    "References": [
+        "Kennea et al., 2013, ApJL, 770, 24",
+        "Mori et al., 2013, ApJL, 770, 23",
+        "Barthelmy et al., GCN #14805",
+        "Rea et al., ATEL #5032",
+        "Degenaar et al., ATEL #5006",
+        "Kennea et al., ATEL #5009"
+    ],
+    "Event Type": "burst",
+    "Time": "11:17:26",
+    "Date": "2013-06-07",
+    "Telescope": "Swift/BAT",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

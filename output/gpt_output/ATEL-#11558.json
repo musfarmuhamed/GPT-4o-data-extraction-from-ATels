@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ii",
+            "RA": "SDSS J130026.83+183711.1",
+            "Dec": null,
+            "redshift": "0.053",
+            "Type": "Ia",
+            "Time": "2018-04-21.81",
+            "Date": "2018-04-16.25"
+        },
+        {
+            "Name": "ASASSN-18it",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "2018-04-21.91",
+            "Date": "2018-04-19.92"
+        },
+        {
+            "Name": "ASASSN-18iv",
+            "RA": "SDSS J094110.41+240122.2",
+            "Dec": null,
+            "redshift": "0.070",
+            "Type": "Ia pec",
+            "Time": "2018-04-21.86",
+            "Date": "2018-04-19.97"
+        },
+        {
+            "Name": "ASASSN-18iw",
+            "RA": "2MASX J14433925+1852124",
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "Ia",
+            "Time": "2018-04-21.95",
+            "Date": "2018-04-21.27"
+        },
+        {
+            "Name": "ASASSN-18iu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017",
+            "Type": "Ia",
+            "Time": "2018-04-21.99",
+            "Date": "2018-04-21.31"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Shappee et al. 2014",
+        "Atel #11178"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2018-04-21.99",
+    "Date": "2018-04-16.25 to 2018-04-21.31",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

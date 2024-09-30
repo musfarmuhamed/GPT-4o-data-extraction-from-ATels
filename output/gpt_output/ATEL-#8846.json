@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J131405.90+335509.7",
+            "RA": "13h 14m 05.90s",
+            "Dec": "+33d 55m 09.7s",
+            "redshift": "0.03528",
+            "Type": "PSN",
+            "Time": "18:26:56 UT",
+            "Date": "2016-03-18.76802"
+        },
+        {
+            "Name": "MASTER OT J125609.81+623704.6",
+            "RA": "12h 56m 09.81s",
+            "Dec": "+62d 37m 04.6s",
+            "redshift": null,
+            "Type": "possible QSO flare",
+            "Time": "23:21:37 UT",
+            "Date": "2016-03-19.97355"
+        },
+        {
+            "Name": "MASTER OT J055502.52-234506.5",
+            "RA": "05h 55m 02.52s",
+            "Dec": "-23d 45m 06.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "20:00:49 UT",
+            "Date": "2016-03-19.834346"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, 2010, 30L",
+        "Sloan SDSS J131405.99+335507.0 galaxy - z=0.03528",
+        "SDSS DR10 catalogue of candidate quasars (Brescia+, 2015)"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-03-18 to 2016-03-19",
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": null,
+    "Observatory": null
+}

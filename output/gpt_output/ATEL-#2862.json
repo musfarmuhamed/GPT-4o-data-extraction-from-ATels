@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10vdl",
+            "RA": "23:05:49.001",
+            "Dec": "03:31:20.50",
+            "redshift": "consistent with the redshift of NGC 7483",
+            "Type": "Type II supernova",
+            "Time": "2010 Sep 15.243",
+            "Date": "2010-09-15"
+        },
+        {
+            "Name": "NGC 7483",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NGC 7483",
+    "Event Type": "optical transient discovery",
+    "Time": "2010 Sep 15.243",
+    "Date": "2010-09-15",
+    "Telescope": "Palomar Transient Factory",
+    "Instrument": "PTF",
+    "Observatory": "Palomar Observatory"
+}

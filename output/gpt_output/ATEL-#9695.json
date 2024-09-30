@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016hgd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026,
+            "Type": "Ia",
+            "Time": "27.47",
+            "Date": "2016-10-27"
+        },
+        {
+            "Name": "SN 2016hli",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Ia",
+            "Time": "30.32",
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "SN 2016hot",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.074,
+            "Type": "Ia",
+            "Time": "27.43",
+            "Date": "2016-10-27"
+        },
+        {
+            "Name": "SN 2016hnv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048,
+            "Type": "Ia",
+            "Time": "27.39",
+            "Date": "2016-10-27"
+        }
+    ],
+    "References": [
+        "ATel #9651",
+        "ATel #9685",
+        "http://nesssi.cacr.caltech.edu/catalina/AllSN.html"
+    ],
+    "Event Type": "optical spectroscopic classification of supernova candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

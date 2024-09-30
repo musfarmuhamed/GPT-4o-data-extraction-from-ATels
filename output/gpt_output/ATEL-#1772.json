@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS081009:012523-181020",
+            "RA": "01:25:23.04",
+            "Dec": "-18:10:20.2",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "07:20:41",
+            "Date": "2008-10-09"
+        },
+        {
+            "Name": "NGC 539",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://voeventnet.cacr.caltech.edu/feeds/ATEL/CRTS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "Supernova",
+    "Time": "07:20:41",
+    "Date": "2008-10-09",
+    "Telescope": "CSS",
+    "Instrument": null,
+    "Observatory": "Catalina Real-Time Transient Survey"
+}

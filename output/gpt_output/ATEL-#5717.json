@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J13165936-1637570",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005811",
+            "Type": "Type II supernova (Type IIP)",
+            "Time": "2.35 UT",
+            "Date": "Jan 2",
+            "References": [
+                "ATel #5715",
+                "ATel #5716"
+            ],
+            "Event Type": "Spectroscopic classification",
+            "Telescope": "6.5-m Magellan Baade Telescope",
+            "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+            "Observatory": "Las Campanas Observatory"
+        }
+    ],
+    "References": [
+        "ATel #5715",
+        "ATel #5716"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "2.35 UT",
+    "Date": "Jan 2",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

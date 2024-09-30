@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N class nova",
+            "Time": "Unspecified time on 1 and 2 November 2012",
+            "Date": "1 and 2 November 2012"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Unspecified time on 22 June 2012 (gamma ray detection) and 9 August 2012 (optical discovery)",
+            "Date": "22 June 2012 and 9 August 2012"
+        }
+    ],
+    "References": [
+        "ATel # 4224",
+        "CBET # 3202",
+        "ATel # 4310",
+        "ATel # 4320",
+        "ATel # 4321",
+        "ATel # 4352",
+        "ATel # 4365",
+        "ATel # 4376",
+        "ATel # 4408"
+    ],
+    "Event Type": "observation",
+    "Time": "Unspecified time on 1 and 2 November 2012",
+    "Date": "1 and 2 November 2012",
+    "Telescope": "1.2m Mount Abu Observatory telescope",
+    "Instrument": "NICMOS-3 Imager/Spectrograph",
+    "Observatory": "Physical Research Laboratory, India"
+}

@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:30 - 05:30",
+            "Date": "2016 November 07"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "23:00 - 05:00",
+            "Date": "2016 November 07 to 08"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2016 October 29"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2016 October 26 to 27"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "mid-September 2016"
+        }
+    ],
+    "References": [
+        "ATel #9676",
+        "ATel #8598",
+        "ATel #9130"
+    ],
+    "Event Type": "optical observations of outburst",
+    "Time": null,
+    "Date": "2016 November 07 to 08",
+    "Telescope": [
+        "Ferson 0.4-m telescope",
+        "LX-200 0.4-m telescope",
+        "1.8-m Perkins telescope"
+    ],
+    "Instrument": [
+        "FLI PL1001 CCD camera",
+        "ST7-XME camera",
+        null
+    ],
+    "Observatory": [
+        "Colgate University Foggy Bottom Observatory",
+        "St. Petersburg University",
+        "Lowell Observatory"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18alm",
+            "RA": "20 47 17.63",
+            "Dec": "-84 37 27.73",
+            "redshift": "0.050",
+            "Type": "Ib/Ic",
+            "Time": null,
+            "Date": "20180212"
+        },
+        {
+            "Name": "ATLAS16abn",
+            "RA": "12 38 24.42",
+            "Dec": "-19 59 13.73",
+            "redshift": null,
+            "Type": "Bl Lac",
+            "Time": null,
+            "Date": "20180129"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al., 2011, PASP, 123, 58",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 Feb 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

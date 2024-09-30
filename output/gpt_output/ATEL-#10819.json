@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J062010.45+544657.8",
+            "RA": "06h 20m 10.45s",
+            "Dec": "+54d 46m 57.8s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-09-28 13:35:51.31",
+            "Date": "2017-09-28"
+        }
+    ],
+    "References": {
+        "Discovery Paper": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+        "Fermi Trigger": "https://gcn.gsfc.nasa.gov/other/528294089.fermi",
+        "Discovery and Reference Images": "http://master.sai.msu.ru/static/OT/MASTEROTJ062010.45+544657.8.jpg"
+    },
+    "Event Type": "Outburst",
+    "Time": "12:21:24.31",
+    "Date": "2017-09-28",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

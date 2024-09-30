@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17dek",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.04,
+            "Type": "SN Ia",
+            "Time": "21:58",
+            "Date": "2017-03-27"
+        },
+        {
+            "Name": "ATLAS17deh",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.037,
+            "Type": "core-collapse",
+            "Time": "02:29",
+            "Date": "2017-03-28"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": "spectroscopic observation",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

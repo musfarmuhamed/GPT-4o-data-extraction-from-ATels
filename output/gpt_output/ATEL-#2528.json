@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new gamma-ray source",
+            "RA": "228.04 deg",
+            "Dec": "-32.36 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": "6:00-12:00 UTC",
+            "Date": "March 29, 2010"
+        },
+        {
+            "Name": "PKS 1510-319",
+            "RA": "15h13m21.780s",
+            "Dec": "-32d09m32.50s",
+            "redshift": "1.71",
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "S. Healey, et al. 2008 ApJS, 175, 97",
+    "Event Type": "flare",
+    "Time": "6:00-12:00 UTC",
+    "Date": "March 29, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

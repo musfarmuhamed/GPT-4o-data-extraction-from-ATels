@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS17bgn",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.133,
+            "Type": "candidate tidal disruption event (TDE)",
+            "Time": "Null",
+            "Date": "2017-02-18"
+        },
+        {
+            "Name": "SDSS J113152.97+295944.8",
+            "RA": "11h 31m 52.97s",
+            "Dec": "+29d 59m 44.8s",
+            "redshift": "Null",
+            "Type": "host galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #10105, Kalberla et al. 2005 A&A, 440, 775, Schlafly et al. 2011 ApJ, 737, 103",
+    "Event Type": [
+        "SLSN-II",
+        "AGN flare",
+        "TDE"
+    ],
+    "Time": "Null",
+    "Date": "2017-02-18",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Swift"
+}

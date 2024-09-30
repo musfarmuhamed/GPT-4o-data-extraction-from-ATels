@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New Gamma-ray Source",
+            "RA": 108.33,
+            "Dec": 57.66,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-03-05"
+        },
+        {
+            "Name": "RX J0712.3+5719",
+            "RA": 108.07792,
+            "Dec": 57.32278,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2000"
+        },
+        {
+            "Name": "SHBL J071219.0+571948",
+            "RA": 108.07792,
+            "Dec": 57.32278,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2000"
+        },
+        {
+            "Name": "BZB J0712+5719",
+            "RA": 108.07792,
+            "Dec": 57.32278,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2000"
+        }
+    ],
+    "References": "Bauer et al., 2000, ApJS, 129, 547",
+    "Event Type": "Gamma-ray emission detection",
+    "Time": null,
+    "Date": "2017-03-05",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

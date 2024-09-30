@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF16qw",
+            "RA": "07:56:34.244",
+            "Dec": "+19:59:50.38",
+            "redshift": 0.12,
+            "Type": "SN II",
+            "Time": "2016-05-04",
+            "Date": "2016-03-04.15"
+        },
+        {
+            "Name": "iPTF16wf",
+            "RA": "12:08:39.634",
+            "Dec": "+18:17:29.68",
+            "redshift": 0.043,
+            "Type": "SN II",
+            "Time": "2016-05-04",
+            "Date": "2016-03-09.29"
+        },
+        {
+            "Name": "iPTF16alo",
+            "RA": "12:15:06.306",
+            "Dec": "+13:35:34.89",
+            "redshift": 0.025,
+            "Type": "SN II",
+            "Time": "2016-05-04",
+            "Date": "2016-04-30.18"
+        },
+        {
+            "Name": "iPTF16alp",
+            "RA": "13:03:37.173",
+            "Dec": "+55:06:11.35",
+            "redshift": 0.03,
+            "Type": "SN II",
+            "Time": "2016-05-04",
+            "Date": "2016-04-30.30"
+        },
+        {
+            "Name": "iPTF16ama",
+            "RA": "16:46:25.886",
+            "Dec": "+40:02:42.15",
+            "redshift": 0.03,
+            "Type": "SN II",
+            "Time": "2016-05-04",
+            "Date": "2016-05-02.46"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Brink et al. 2013",
+            "Code": "MNRAS.435.1047B"
+        },
+        {
+            "Title": "Rebbapragada et al. 2015",
+            "Code": "AAS...22543402R"
+        },
+        {
+            "Title": "Wozniak et al. 2013",
+            "Code": "AAS...22143105W"
+        },
+        {
+            "Title": "Yaron & Gal-Yam 2012",
+            "Code": null
+        },
+        {
+            "Title": "ATel #7112",
+            "Code": null
+        }
+    ],
+    "Event Type": "Discovery and classification of core-collapse SNe",
+    "Time": "2016-05-04",
+    "Date": "2016-03-04.15",
+    "Telescope": "Keck2",
+    "Instrument": "DEIMOS",
+    "Observatory": null
+}

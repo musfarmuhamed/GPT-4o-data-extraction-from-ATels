@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J010603.18-744715.8",
+            "RA": "01:06:03.27",
+            "Dec": "-74:47:15.8",
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "14.11706 UT",
+            "Date": "2016 October 14"
+        },
+        {
+            "Name": "Progenitor of MASTER OT J010603.18-744715.8",
+            "RA": "01:06:03.27",
+            "Dec": "-74:47:15.8",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shumkov et al. (ATel #9621)",
+    "Event Type": "bright optical transient",
+    "Time": "14.11706 UT",
+    "Date": "2016 October 14",
+    "Telescope": "OGLE-IV Survey",
+    "Instrument": null,
+    "Observatory": null
+}

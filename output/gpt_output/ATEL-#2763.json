@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1833-0832",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Unknown",
+            "Date": "2010-03-19"
+        }
+    ],
+    "References": [
+        "GCN #10526",
+        "ATEL #2691",
+        "ATEL #2550",
+        "ATEL #2553",
+        "Gogus et al. 2010",
+        "Esposito et al. 2010"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2010-03-19",
+    "Telescope": [
+        "Swift",
+        "XMM-Newton",
+        "RossiXTE"
+    ],
+    "Instrument": [
+        "BAT"
+    ],
+    "Observatory": null
+}

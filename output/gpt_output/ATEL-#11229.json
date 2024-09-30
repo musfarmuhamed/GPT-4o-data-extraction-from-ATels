@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova impostor",
+            "Time": "2909s",
+            "Date": "April 25th, 2016"
+        },
+        {
+            "Name": "NGC 300 ULX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ULX (Ultraluminous X-ray source)",
+            "Time": "2909s",
+            "Date": "April 25th, 2016"
+        }
+    ],
+    "References": [
+        "ATEL #11158",
+        "ATEL #11174",
+        "ATEL #11179",
+        "ATEL #11228"
+    ],
+    "Event Type": "Observation",
+    "Time": "April 25th, 2016 to January 25th, 2018",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT (X-ray Telescope)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2013-05a (PNV J00424351+4116196)",
+            "RA": "J00424351",
+            "Dec": "+4116196",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2013-05-27"
+        },
+        {
+            "Name": "M31N 2013-05b (PNV J00425563+4114125)",
+            "RA": "J00425563",
+            "Dec": "+4114125",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2013-05-27"
+        },
+        {
+            "Name": "M31N 2013-06a (PNV J00424894+4115163)",
+            "RA": "J00424894",
+            "Dec": "+4115163",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2013-06-01"
+        },
+        {
+            "Name": "M31N 2013-06b (PNV J00425987+4120379)",
+            "RA": "J00425987",
+            "Dec": "+4120379",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2013-06-06"
+        }
+    ],
+    "References": [
+        "ATel #5099",
+        "ATel #5091",
+        "ATel #5123",
+        "ATel #5133",
+        "ATel #5157",
+        "ATel #5173"
+    ],
+    "Event Type": "monitoring observations",
+    "Time": "Multiple times between 2013-05-27 and 2013-08-07",
+    "Date": "2013-05-27 to 2013-08-07",
+    "Telescope": "Ultra-violet/Optical Telescope (UVOT)",
+    "Instrument": "UVW1 filter",
+    "Observatory": "Swift satellite"
+}

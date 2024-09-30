@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S3 0218+35",
+            "RA": "35.27279",
+            "Dec": "35.93715",
+            "redshift": "0.944",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2FGL J0221.0+3555",
+            "RA": "35.27279",
+            "Dec": "35.93715",
+            "redshift": "0.944",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "B2 0218+35",
+            "RA": "35.27279",
+            "Dec": "35.93715",
+            "redshift": "0.944",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "OD 330",
+            "RA": "35.27279",
+            "Dec": "35.93715",
+            "redshift": "0.944",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "lens B0218+357",
+            "RA": "35.27279",
+            "Dec": "35.93715",
+            "redshift": "0.944",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Patnaik et al. 1992, MNRAS, 254, 655",
+        "Patnaik et al. 1993, MNRAS, 261, 435",
+        "Browne et al. 1993, MNRAS, 263, 32",
+        "Lehar et al. 2000, ApJ, 536, 584",
+        "Cohen et al. 2003, ApJ, 583, 67",
+        "Zeiger et al. 2010, ApJ, 709, 386",
+        "Biggs et al. 1999, MNRAS, 304, 349",
+        "Heidt et al. 2004, A&A, 418, 813",
+        "Oguri 2007, ApJ, 660, 1",
+        "Jethava et al. 2007, A&A, 472, 435"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "Null",
+    "Date": "2012-08-26",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "LAT",
+    "Observatory": "Fermi"
+}

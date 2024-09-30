@@ -1,0 +1,132 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J1614-518",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5 ks",
+            "Date": null
+        },
+        {
+            "Name": "#3",
+            "RA": "16h 14m 01.5s",
+            "Dec": "-51d 54m 25.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "#4",
+            "RA": "16h 14m 08.8s",
+            "Dec": "-51d 53m 57.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "#5",
+            "RA": "16h 14m 48.0s",
+            "Dec": "-51d 48m 30.7s",
+            "redshift": null,
+            "Type": "Star, B9V",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "#6",
+            "RA": "16h 14m 59.6s",
+            "Dec": "-51h 39m 02.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD145542",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star, K3III",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD140753",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star, B9V",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "#1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unclear spectral classification",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "#2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star, Intermediate spectral type",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "C 1609-517",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Young open cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TeV J2032+4130",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unidentified gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HESS J1303-631",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unidentified gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Landi et al. (ApJ 651, 190, 2006)"
+        },
+        {
+            "Reference": "Piatti, Claria & Bica, A&A 360, 529, 2000"
+        },
+        {
+            "Reference": "Aharonian et al., A&A, 393, L37, 2002"
+        },
+        {
+            "Reference": "Aharonian et al., A&A, 439, 1013, 2005"
+        }
+    ],
+    "Event Type": "X-ray detection",
+    "Time": "5 ks",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

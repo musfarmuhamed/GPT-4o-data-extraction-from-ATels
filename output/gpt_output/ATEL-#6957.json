@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "~20:15",
+            "Date": "18.01.2015"
+        },
+        {
+            "Name": "S5 0716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "~20:30",
+            "Date": "19.01.2015"
+        }
+    ],
+    "References": [
+        "ATel#6902",
+        "ATel#6942",
+        "ATel#6944",
+        "ATel#6953",
+        "Nesci et al. 2006, Mem.S. A.It.Sup., 9, 325"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "18.01.2015",
+        "19.01.2015"
+    ],
+    "Telescope": "60cm telescope",
+    "Instrument": null,
+    "Observatory": "Belogradchik observatory"
+}

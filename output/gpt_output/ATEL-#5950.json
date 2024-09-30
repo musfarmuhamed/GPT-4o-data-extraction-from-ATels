@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051042.59+513540.0",
+            "RA": "05h 10m 42.59s",
+            "Dec": "+51d 35m 40.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-02-28.52878 UT",
+            "Date": "2014-02-28"
+        },
+        {
+            "Name": "MASTER OT J151922.15+392537.5",
+            "RA": "15h 19m 22.15s",
+            "Dec": "+39d 25m 37.5s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type in superoutburst",
+            "Time": "2014-03-02.78428 UT",
+            "Date": "2014-03-02"
+        },
+        {
+            "Name": "MASTER OT J105545.20+573109.7",
+            "RA": "10h 55m 45.20s",
+            "Dec": "+57d 31m 09.7s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type in superoutburst",
+            "Time": "2014-03-04.74875 UT",
+            "Date": "2014-03-04"
+        }
+    ],
+    "References": [
+        {
+            "Reference Image Date": "2012-02-17.61772 UT",
+            "Reference Image Date Formatted": "2012-02-17",
+            "Object Name": "MASTER OT J051042.59+513540.0"
+        },
+        {
+            "Reference Image Date": "2012-09-07.53039 UT",
+            "Reference Image Date Formatted": "2012-09-07",
+            "Object Name": "MASTER OT J151922.15+392537.5"
+        },
+        {
+            "Reference Image Date": "2011-04-05.57701 UT",
+            "Reference Image Date Formatted": "2011-04-05",
+            "Object Name": "MASTER OT J105545.20+573109.7"
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

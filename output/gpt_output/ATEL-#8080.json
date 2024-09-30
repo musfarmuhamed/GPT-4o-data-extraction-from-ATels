@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15cma",
+            "RA": "01:32:33.109",
+            "Dec": "+42:38:34.69",
+            "redshift": "0.084",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-08-21.48"
+        },
+        {
+            "Name": "iPTF15cpp",
+            "RA": "00:20:28.228",
+            "Dec": "-01:03:40.73",
+            "redshift": "0.064",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-09-05.36"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W, ATel #7112, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "DCT",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

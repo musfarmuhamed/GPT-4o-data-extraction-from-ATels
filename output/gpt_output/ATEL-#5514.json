@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary MSP",
+            "Time": "12:18",
+            "Date": "2013-10-22"
+        }
+    ],
+    "References": [
+        "Stappers et al., ATel #5513",
+        "Thorstensen & Armstrong (2005)",
+        "Archibald et al. (2009)",
+        "Wang et al. (2009)"
+    ],
+    "Event Type": "optical monitoring",
+    "Time": "morning twilight",
+    "Date": "2013-10-16 to 2013-10-23",
+    "Telescope": "1.3m McGraw-Hill, 2.4m Hiltner",
+    "Instrument": "V-band photometry, Modspec",
+    "Observatory": "MDM Observatory on Kitt Peak"
+}

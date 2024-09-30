@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017eaw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "Dong & Stanek",
+            "ATel": "#10372"
+        },
+        {
+            "Name": "Schlafly & Finkbeiner",
+            "ApJ": "737, 103, 2011"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

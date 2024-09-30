@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-SN-005",
+            "RA": "3:00:50.89",
+            "Dec": "-70:31:11.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2012-10-12.29171",
+            "Date": "2012-10-12"
+        },
+        {
+            "Name": "2MASX J03005080-7031070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "detection of possible supernova",
+    "Time": "2012-10-12.29171",
+    "Date": "2012-10-12",
+    "Telescope": "Warsaw 1.3 Telescope",
+    "Instrument": null,
+    "Observatory": "Las Campanas Observatory"
+}

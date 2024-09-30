@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174510.8-262411",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate X-ray Binary",
+            "Time": "19:00",
+            "Date": "2012-09-16"
+        },
+        {
+            "Name": "Sw J1725-26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #13744",
+        "ATel #4383",
+        "ATel #4393",
+        "ATel #4394",
+        "ATel #4450",
+        "ATel #4380",
+        "ATel #4388",
+        "ATel #4436",
+        "ATel #4410",
+        "ATel #4401",
+        "Russell et al. 2011",
+        "Homan et al. 2005",
+        "Coriat et al. 2009",
+        "Russell et al. 2007",
+        "Buxton et al. 2012",
+        "Dincer et al. 2012",
+        "Lewis et al. 2008"
+    ],
+    "Event Type": "Outburst",
+    "Time": "09:34",
+    "Date": "2012-09-16",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "SDSS i'-band, Bessel R, Bessel V filters",
+    "Observatory": "Las Cumbres Observatory Global Telescope Network"
+}

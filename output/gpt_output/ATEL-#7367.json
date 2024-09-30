@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Oph 2015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N-type (initial), FeII-type (at maximum)",
+            "Time": [
+                {
+                    "Date": "March 29.766",
+                    "Time": "UT"
+                },
+                {
+                    "Date": "March 30.7",
+                    "Time": "UT"
+                },
+                {
+                    "Date": "March 30.8",
+                    "Time": "UT"
+                },
+                {
+                    "Date": "April 1.459",
+                    "Time": "UT"
+                },
+                {
+                    "Date": "April 10.112",
+                    "Time": "UT"
+                },
+                {
+                    "Date": "April 11.094",
+                    "Time": "UT"
+                }
+            ],
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #4086",
+        "ATel #7339",
+        "Seitter 1990, LNP 369, 79",
+        "Williams 1992, AJ 104, 725"
+    ],
+    "Event Type": "Discovery and classification of nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "ANS Collaboration telescopes",
+        "Asiago 1.22m telescope",
+        "Asiago 1.82m telescope"
+    ],
+    "Instrument": [
+        "B&C+CCD spectrograph",
+        "Echelle spectroscopy"
+    ],
+    "Observatory": "Asiago"
+}

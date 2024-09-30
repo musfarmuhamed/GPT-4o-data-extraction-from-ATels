@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PQT081001:230004+105741",
+            "RA": "23:00:04.8",
+            "Dec": "+10:57:41.8",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080921:230620+094038",
+            "RA": "23:06:20.0",
+            "Dec": "+09:40:37.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080924:040630+145214",
+            "RA": "04:06:29.5",
+            "Dec": "+14:52:13.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080922:231617+114248",
+            "RA": "23:16:17.0",
+            "Dec": "+11:42:48.0",
+            "redshift": null,
+            "Type": "SN II",
+            "Time": "near maximum",
+            "Date": "Oct 1"
+        }
+    ],
+    "References": "ATel#1734, CBET#1524, CBET#1533",
+    "Event Type": "supernova discovery",
+    "Time": "spectroscopically observed on Oct 1",
+    "Date": "Oct 1",
+    "Telescope": "Palomar 200\", SMARTS 1.5m",
+    "Instrument": "spectrum",
+    "Observatory": "Catalina Real-time Transient Survey (CRTS), Palomar-Quest digital sky survey (PQ)"
+}

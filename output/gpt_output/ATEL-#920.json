@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174540.2-290005.3",
+            "RA": "17h 45m 40.2s",
+            "Dec": "-29m 00m 05.3s",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2006-10-20"
+        },
+        {
+            "Name": "CXOGC J174540.0-290005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Muno et al. 2005 ApJ, 622, L113",
+    "Event Type": "Detection of a faint transient source",
+    "Time": null,
+    "Date": "2006-10-20",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

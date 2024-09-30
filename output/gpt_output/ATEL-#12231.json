@@ -1,0 +1,128 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Halpha",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Hbeta",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fe II 4923",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fe II 5018",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fe II 5169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 4922",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 5013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 5876",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 6678",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Na I",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Si II 6347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "potential emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Si II 6371",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "potential emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[O I] 6300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "forbidden line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #12227",
+    "Event Type": "Spectra Observation",
+    "Time": "2018 Nov. 19.1 UT and 2018 Oct. 31.1 UT",
+    "Date": "2018-11-19 and 2018-10-31",
+    "Telescope": "280 cm C11 telescope and 30 cm LH2400 telescope",
+    "Instrument": "LHIRES III",
+    "Observatory": "Pisa and Tata"
+}

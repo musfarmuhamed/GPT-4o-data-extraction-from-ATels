@@ -1,0 +1,103 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS160617:211830+095501",
+            "RA": "211830",
+            "Dec": "+095501",
+            "redshift": "0.13",
+            "Type": "SN Ia-91T",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160616:175555+434723",
+            "RA": "175555",
+            "Dec": "+434723",
+            "redshift": "0.069",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160616:160420+392813",
+            "RA": "160420",
+            "Dec": "+392813",
+            "redshift": "0.18",
+            "Type": "SN SLSN-I",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160613:160158+154203",
+            "RA": "160158",
+            "Dec": "+154203",
+            "redshift": "0.037",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS160615:174311+170014",
+            "RA": "174311",
+            "Dec": "+170014",
+            "redshift": "0.083",
+            "Type": "SN Ia-91T",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS160607:162521+574415",
+            "RA": "162521",
+            "Dec": "+574415",
+            "redshift": "0.063",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160702:153017+104945",
+            "RA": "153017",
+            "Dec": "+104945",
+            "redshift": "1.20",
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160614:220201+043654",
+            "RA": "220201",
+            "Dec": "+043654",
+            "redshift": "1.06",
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160613:165527+430121",
+            "RA": "165527",
+            "Dec": "+430121",
+            "redshift": "1.53",
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS160607:231133+164715",
+            "RA": "231133",
+            "Dec": "+164715",
+            "redshift": "1.22",
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic follow-up of CRTS-II SN candidates and unclassified sources",
+    "Time": "UT",
+    "Date": "July 3rd",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": "Catalina Sky Survey's 1.5m Mt. Lemmon telescope"
+}

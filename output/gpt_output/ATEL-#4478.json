@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U1608-52",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low Mass X-ray Binary",
+            "Time": "56210.7, 56211.7",
+            "Date": "2012 October 10.7, 2012 October 11.7"
+        }
+    ],
+    "References": [
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/H1608-522/",
+        "http://arxiv.org/abs/1206.3927",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1612-524"
+    ],
+    "Event Type": "Fast-type outburst",
+    "Time": null,
+    "Date": "2012 October 10-11",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

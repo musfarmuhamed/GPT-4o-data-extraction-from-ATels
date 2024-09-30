@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J214949.1-452644.3",
+            "RA": "21h 49m 49.1s",
+            "Dec": "-45d 26m 44.3s",
+            "redshift": "unknown",
+            "Type": "PSN",
+            "Time": "08:48:24 UT",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "PGC526702",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J151112.38-030146.1",
+            "RA": "15h 11m 12.38s",
+            "Dec": "-03d 01m 46.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00:11:05 UT",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "SDSS151112.47-030145.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Date": "2016-10-21",
+            "Time": "02:03:37 UT",
+            "magnitude_limit": "19.9",
+            "Object_Name": "MASTER OT J214949.1-452644.3"
+        },
+        {
+            "Date": "2016-03-12",
+            "Time": "15:37 UT",
+            "magnitude_limit": "20.5",
+            "Object_Name": "MASTER OT J151112.38-030146.1"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2017-03-29 08:48:24 UT",
+    "Date": "2017-03-29",
+    "Telescope": "MASTER-OAFA, MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

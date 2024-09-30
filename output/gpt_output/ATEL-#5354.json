@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible GRB 130901A",
+            "RA": "17h 34m 27.2s",
+            "Dec": "-30d 27' 14.1\"",
+            "redshift": null,
+            "Type": "Gamma-ray burst",
+            "Time": "09:13:17 UT",
+            "Date": "Not specified"
+        },
+        {
+            "Name": "uncatalogued X-ray source",
+            "RA": "17h 34m 24.48s",
+            "Dec": "-30d 23' 54.0\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "09:15:20.0 UT",
+            "Date": "Not specified"
+        }
+    ],
+    "References": null,
+    "Event Type": "Possible Gamma-ray burst or Galactic source",
+    "Time": "09:13:17 UT",
+    "Date": "Not specified",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT) and X-ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NVSS J141922-083830",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2FGL J1419.4-0835",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma ray source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "ATel#7133": "Null",
+            "ATel#7168": "Null",
+            "Kalberla et al. 2005, A&A, 440, 775": "Null",
+            "Wilms et al. (2000, ApJ, 542, 914)": "Null",
+            "Verner et al. (1996, ApJ, 465, 487)": "Null"
+        }
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "Null",
+    "Date": "2015 March 3",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic microquasar",
+            "Time": "04:44:28 UT",
+            "Date": "2008-11-04"
+        },
+        {
+            "Name": "AGL J2030+4043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tavani et al. (ATel #1827)",
+        "Pooley 2008 (ATel #1828)",
+        "Moore et al. 2008 (ATel #1655)"
+    ],
+    "Event Type": "Observation",
+    "Time": "04:44:28 UT",
+    "Date": "2008-11-04",
+    "Telescope": "SWIFT",
+    "Instrument": "SWIFT-XRT",
+    "Observatory": null
+}

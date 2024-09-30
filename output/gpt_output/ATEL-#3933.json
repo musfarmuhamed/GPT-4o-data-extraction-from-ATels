@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J182155.0-134719",
+            "RA": "18 21 54.86",
+            "Dec": "-13 47 26.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "06:52:12.52",
+            "Date": "2012 Feb. 15"
+        },
+        {
+            "Name": "IGR J18219-1347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J1821.8-1348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "G017.3244+00.1344",
+            "RA": "275.478202",
+            "Dec": "-13.790732",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al. 2010, A&A, 523, 61; Evans et al. 2009, MNRAS, 397, 1177; Goad et al. 2007, A&A, 476, 1401; Kalberla et al. 2005; Landi et al. ATel #3272",
+    "Event Type": "Galactic Transient Source",
+    "Time": "06:52:12.52",
+    "Date": "2012 Feb. 15",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT), Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017cff",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.019,
+            "Type": "IIP",
+            "Time": "19.76",
+            "Date": "2017-03-19"
+        },
+        {
+            "Name": "GALEXASC J133917.08+350841.1",
+            "RA": "13:39:17.08",
+            "Dec": "+35:08:41.1",
+            "redshift": 0.019,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": null,
+    "Time": "19.76",
+    "Date": "2017-03-19",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Gaomeigu Observatory of Yunnan Observatories (YNAO)"
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1838.0-0655",
+            "RA": "18 38 3.216",
+            "Dec": "-06 55 33.85",
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1846-0258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1811-1925",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1930+1852",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1617-5055",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gotthelf et al.; ATEL #1392",
+        "Malizia et al. 2005, ApJ 630, L157"
+    ],
+    "Event Type": "Monitoring observations",
+    "Time": "43.5 ks",
+    "Date": "2008, February 17 and 26",
+    "Telescope": "Rossi X-ray timing Explorer",
+    "Instrument": "PCA",
+    "Observatory": null
+}

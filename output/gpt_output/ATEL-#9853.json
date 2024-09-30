@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2016-12-12.652 UT",
+            "Date": "2016-12-12"
+        }
+    ],
+    "References": "ATels #9848,#9852; Henze et al. 2014, 2015a, 2015b; Darnley et al. 2014, 2015, 2016; Poole et al. 2008",
+    "Event Type": "eruption",
+    "Time": "4-ks observation starting on 2016-12-12.652 UT",
+    "Date": "2016-12-12",
+    "Telescope": "Swift observatory ultra-violet/optical telescope (UVOT)",
+    "Instrument": "UVOT",
+    "Observatory": "Swift"
+}

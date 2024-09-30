@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS I +61 303 (V615 Cas)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": "12:52:21",
+            "Date": "Sept. 10, 2008"
+        },
+        {
+            "Name": "LS I +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "de Pasquale et al. GCN 8209",
+        "Evans et al. GCN 8211",
+        "Leahy et al. 1997",
+        "Greiner & Rau 2001",
+        "Albert et al. 2008",
+        "Barthelmy et al. GCN 8215",
+        "Gregory et al. 1979",
+        "Woods & Thompson 2006",
+        "Mirabel 2006, Science, 312, 1759"
+    ],
+    "Event Type": "burst",
+    "Time": "12:52:21",
+    "Date": "Sept. 10, 2008",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

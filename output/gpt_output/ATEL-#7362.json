@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J104708.93-432829.5",
+            "RA": "10h 47m 08.93s",
+            "Dec": "-43d 28m 29.5s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare",
+            "Time": "2015-04-09.83035 UT",
+            "Date": "2015-04-09"
+        },
+        {
+            "Name": "MASTER164710.25-692460.0",
+            "RA": "16h 47m 10.25s",
+            "Dec": "-69d 24m 60.0s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare",
+            "Time": "2015-04-09.99854 UT",
+            "Date": "2015-04-09"
+        }
+    ],
+    "References": "( Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010 )",
+    "Event Type": "Dwarf Nova flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

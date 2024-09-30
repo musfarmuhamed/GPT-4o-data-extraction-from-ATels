@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PQT 071008:224527+103932",
+            "RA": "22:45:27",
+            "Dec": "+10:39:32",
+            "redshift": 0.046,
+            "Type": "SN Ia similar to SN2000cx around max",
+            "Time": "Night",
+            "Date": "2007-10-10"
+        },
+        {
+            "Name": "PQT 071008:230627+095342",
+            "RA": "23:06:27",
+            "Dec": "+09:53:42",
+            "redshift": "~0.07",
+            "Type": "SN Ia about 1 month past max",
+            "Time": "Night",
+            "Date": "2007-10-10"
+        },
+        {
+            "Name": "PQT 071010:015849-022627",
+            "RA": "01:58:49",
+            "Dec": "-02:26:27",
+            "redshift": null,
+            "Type": "Possibly a SN Ia before the maximum",
+            "Time": "Night",
+            "Date": "2007-10-10"
+        },
+        {
+            "Name": "PQT 071009:024105-033814",
+            "RA": "02:41:05",
+            "Dec": "-03:38:14",
+            "redshift": "~0.135",
+            "Type": "SN Ia similar to SN1999aa about 9 days before max",
+            "Time": "Night",
+            "Date": "2007-10-09"
+        },
+        {
+            "Name": "PQT 071011:031515-034914",
+            "RA": "03:15:15",
+            "Dec": "-03:49:14",
+            "redshift": 1.26,
+            "Type": "QSO",
+            "Time": "Night",
+            "Date": "2007-10-11"
+        },
+        {
+            "Name": "PQT 071010:034520-012111",
+            "RA": "03:45:20",
+            "Dec": "-01:21:11",
+            "redshift": null,
+            "Type": "Probable blazar, spectrum shows a featureless continuum",
+            "Time": "Night",
+            "Date": "2007-10-10"
+        }
+    ],
+    "References": "Drake et al. (ATel #1234)",
+    "Event Type": "Optical transients",
+    "Time": "Night",
+    "Date": [
+        "2007-10-10",
+        "2007-10-11"
+    ],
+    "Telescope": "200-inch Hale telescope",
+    "Instrument": "Double Spectrograph",
+    "Observatory": "Palomar Observatory"
+}

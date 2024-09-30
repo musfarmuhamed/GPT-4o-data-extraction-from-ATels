@@ -1,0 +1,128 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12bwc",
+            "RA": "12 40 08.11",
+            "Dec": "+09 47 50.3",
+            "redshift": "0.109",
+            "Type": "SN Ia",
+            "Time": "Mar 21.16",
+            "Date": "Mar 23"
+        },
+        {
+            "Name": "PTF12grb",
+            "RA": "15 55 34.25",
+            "Dec": "+18 44 32.9",
+            "redshift": "0.1367",
+            "Type": "SN Ia",
+            "Time": "Jul 16.27",
+            "Date": "Jul 16"
+        },
+        {
+            "Name": "PTF12gvq",
+            "RA": "04 09 59.19",
+            "Dec": "+28 00 39.2",
+            "redshift": "0.042",
+            "Type": "SN Ia",
+            "Time": "Jul 20.45",
+            "Date": "Jul 26"
+        },
+        {
+            "Name": "PTF12hdq",
+            "RA": "15 58 39.33",
+            "Dec": "+05 15 58.4",
+            "redshift": "0.0658",
+            "Type": "SN Ia",
+            "Time": "Jul 30.21",
+            "Date": "Aug 21"
+        },
+        {
+            "Name": "PTF12hmx",
+            "RA": "22 47 09.01",
+            "Dec": "+00 10 28.0",
+            "redshift": "0.0851",
+            "Type": "SN Ia",
+            "Time": "Aug 07.29",
+            "Date": "Aug 09"
+        },
+        {
+            "Name": "PTF12hnl",
+            "RA": "07 23 11.17",
+            "Dec": "+73 20 19.9",
+            "redshift": "0.048",
+            "Type": "SN Ia",
+            "Time": "Aug 08.50",
+            "Date": "Aug 22"
+        },
+        {
+            "Name": "PTF12hnm",
+            "RA": "07 54 55.49",
+            "Dec": "+72 36 33.9",
+            "redshift": "0.011548",
+            "Type": "SN Ia",
+            "Time": "Aug 08.50",
+            "Date": "Aug 21"
+        },
+        {
+            "Name": "PTF12hno",
+            "RA": "23 04 55.63",
+            "Dec": "-06 32 11.7",
+            "redshift": "0.019",
+            "Type": "SN II",
+            "Time": "Aug 08.27",
+            "Date": "Aug 21"
+        },
+        {
+            "Name": "PTF12hod",
+            "RA": "07 18 39.63",
+            "Dec": "+72 11 16.5",
+            "redshift": "0.067",
+            "Type": "SN Ia",
+            "Time": "Aug 08.50",
+            "Date": "Aug 22"
+        },
+        {
+            "Name": "PTF12hpc",
+            "RA": "00 17 38.00",
+            "Dec": "-05 22 57.5",
+            "redshift": "0.065",
+            "Type": "SN Ia",
+            "Time": "Aug 09.44",
+            "Date": "Aug 22"
+        },
+        {
+            "Name": "PTF12hsx",
+            "RA": "00 55 03.33",
+            "Dec": "+42 19 52.0",
+            "redshift": "0.019",
+            "Type": "SN II",
+            "Time": "Aug 14.25",
+            "Date": "Aug 21"
+        },
+        {
+            "Name": "PTF12hwb",
+            "RA": "22 33 33.53",
+            "Dec": "-01 09 45.3",
+            "redshift": "0.056",
+            "Type": "SN Ia",
+            "Time": "Aug 19.36",
+            "Date": "Aug 21"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "PTF collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley"
+}

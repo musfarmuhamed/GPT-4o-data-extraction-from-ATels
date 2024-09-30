@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": 194.046527,
+            "Dec": -5.789312,
+            "redshift": 0.536,
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": "21:56:26",
+            "Date": "2014 March 31"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Marziani et al. ApJS, 1996, 104, 37",
+        "Nolan et al. 2012, ApJS 199, 31",
+        "ATel#5680"
+    ],
+    "Event Type": "gamma-ray outburst",
+    "Time": "21:56:26",
+    "Date": "2014 March 31",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

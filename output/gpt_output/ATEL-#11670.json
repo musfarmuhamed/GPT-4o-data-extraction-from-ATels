@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Ophiuchi 2018, No.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET 4492",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null,
+    "Observations": [
+        {
+            "Date": "2018-05-06",
+            "Time": null,
+            "Telescope": "Infrared Telescope Facility",
+            "Instrument": "Spex",
+            "Observatory": null
+        },
+        {
+            "Date": "2018-05-14",
+            "Time": null,
+            "Telescope": "3.6 meter Advanced Electro-Optical Systems telescope",
+            "Instrument": "Broadband Array Spectrograph System",
+            "Observatory": null
+        },
+        {
+            "Date": "2018-05-19",
+            "Time": null,
+            "Telescope": "Aerospace Corporation's one meter telescope",
+            "Instrument": "VNIRIS spectrograph",
+            "Observatory": null
+        }
+    ]
+}

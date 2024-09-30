@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bb (AT 2017ng)",
+            "RA": "15:20:40.748",
+            "Dec": "+04:39:34.42",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-01-23.65",
+            "Date": "2017-01-23"
+        },
+        {
+            "Name": "2MASX J15204087+0439331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SDSS, J. Brimacombe, NED",
+    "Event Type": "transient discovery",
+    "Time": "2017-01-23.65",
+    "Date": "2017-01-23",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm",
+    "Observatory": "Haleakala, Hawaii"
+}

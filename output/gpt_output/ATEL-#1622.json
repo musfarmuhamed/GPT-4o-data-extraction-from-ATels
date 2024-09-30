@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J004626+410714",
+            "RA": "00:46:25.65",
+            "Dec": "+41:07:14.2",
+            "redshift": null,
+            "Type": "galactic CV",
+            "Time": "15.4 mag",
+            "Date": "2008 Jun 5.41 UT"
+        }
+    ],
+    "References": {
+        "finding_chart": "http://rotse.net/rsvp/ROTSE3%20J004626+410714.jpg",
+        "light_curve": "http://rotse.net/rsvp/cv0046+4107.jpg"
+    },
+    "Event Type": "discovery of optical transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas"
+}

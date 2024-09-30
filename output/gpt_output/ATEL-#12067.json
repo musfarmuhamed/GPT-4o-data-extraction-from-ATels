@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": "16h16m00.2243s",
+            "Dec": "+22d16'04.893\"",
+            "redshift": "0.014",
+            "Type": "transient",
+            "Time": "Null",
+            "Date": "2018 September 18"
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.014",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "J1619+2247",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Smartt et al. ATel #11727",
+        "Xu et al. ATel#11740",
+        "Izzo et al. ATel#11753",
+        "Rivera Sandoval & Maccarone ATel#11737",
+        "Kuin et al. 2018",
+        "Perley et al. 2018",
+        "Prentice et al. 2018",
+        "Bietenholz et al. ATel#11900",
+        "Nayana & Chandra ATel#11950"
+    ],
+    "Event Type": "very long baseline interferometry (VLBI) observations",
+    "Time": "Null",
+    "Date": "2018 September 18",
+    "Telescope": "European VLBI Network (EVN)",
+    "Instrument": "high-precision phase-referencing technique",
+    "Observatory": [
+        "Effelsberg",
+        "Jodrell Bank",
+        "Medicina",
+        "Onsala",
+        "Sardinia",
+        "Torun",
+        "Westerbork",
+        "three e-MERLIN stations (Cambridge, Defford, Knockin)"
+    ]
+}

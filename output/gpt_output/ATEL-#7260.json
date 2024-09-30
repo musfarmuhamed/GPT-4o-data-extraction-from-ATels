@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fd",
+            "RA": "05:56:41.11",
+            "Dec": "-75:09:38.00",
+            "redshift": null,
+            "Type": "CV (likely)",
+            "Time": "12:00",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "ASASSN-15fc",
+            "RA": "18:08:30.49",
+            "Dec": "47:46:23.10",
+            "redshift": null,
+            "Type": "CV (likely)",
+            "Time": "18:36",
+            "Date": "2015-03-18"
+        },
+        {
+            "Name": "ASASSN-15fh",
+            "RA": "05:52:29.28",
+            "Dec": "12:39:16.90",
+            "redshift": null,
+            "Type": "CV (likely)",
+            "Time": "6:00",
+            "Date": "2015-03-19"
+        },
+        {
+            "Name": "ASASSN-15fo",
+            "RA": "12:39:56.19",
+            "Dec": "-47:16:24.00",
+            "redshift": null,
+            "Type": "CV (likely)",
+            "Time": "4:48",
+            "Date": "2015-03-20"
+        },
+        {
+            "Name": "ASASSN-15fp",
+            "RA": "12:02:51.49",
+            "Dec": "-45:41:15.30",
+            "redshift": null,
+            "Type": "CV (likely)",
+            "Time": "5:31",
+            "Date": "2015-03-20"
+        }
+    ],
+    "References": "ASAS-SN Homepage, ASAS-SN CV Patrol",
+    "Event Type": "Discovery of Cataclysmic Variables (CVs)",
+    "Time": null,
+    "Date": "2015-03-15",
+    "Telescope": "Brutus, Cassius",
+    "Instrument": "14-cm quadruple telescope (Brutus), 14-cm double telescope (Cassius)",
+    "Observatory": "Haleakala, Hawaii; Cerro Tololo, Chile"
+}

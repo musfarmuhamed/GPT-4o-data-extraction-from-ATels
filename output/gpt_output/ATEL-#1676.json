@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": "05h 01m 6.78s",
+            "Dec": "+45d 16' 34.0\"",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J050107.9+451631",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN 8112, Holland et al.; GCN 8113, Barthelmy et al.; GCN 8115, Palmer & Barthelmy",
+    "Event Type": "Short bursts of soft gamma-rays",
+    "Time": "12:41:59, 13:09:04, 13:12:52, 17:29:29",
+    "Date": "2008-08-22",
+    "Telescope": "Swift-BAT",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16cdi",
+            "RA": "10:16:34.21",
+            "Dec": "+22:05:14.60",
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": "18:33:23",
+            "Date": "2016-12-17"
+        }
+    ],
+    "References": "ESA Gaia (http://cosmos.esa.int/gaia), and the DPAC Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts) (Rixon et al, 2014, ATel #6593)",
+    "Event Type": "classification",
+    "Time": "18:33:23",
+    "Date": "2016-12-17",
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

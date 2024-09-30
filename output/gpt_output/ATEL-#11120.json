@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17dkc / SN2017jfo",
+            "RA": "J013336.84+332552.0",
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "2017-12-31.9",
+            "Date": "2017-12-31"
+        },
+        {
+            "Name": "SDSS J013336.84+332552.0",
+            "RA": "J013336.84+332552.0",
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+        "IAU Transient Name Server",
+        "ESA Gaia",
+        "DPAC",
+        "Photometric Science Alerts Team"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2017-12-31.9",
+    "Date": "2017-12-31",
+    "Telescope": "Nordic Optical Telescope (2.56 m)",
+    "Instrument": "ALFOSC (range 350-950 nm; resolution 1.6 nm FWHM)",
+    "Observatory": "Nordic Optical Telescope"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18xk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023863,
+            "Type": "IIn",
+            "Time": "2018-10-11.07",
+            "Date": "2018-10-09.49"
+        },
+        {
+            "Name": "ASASSN-18xl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.008087,
+            "Type": "?",
+            "Time": "2018-10-11.15",
+            "Date": "2018-10-09.63"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Shappee et al. 2014",
+        "Fisher et al. 1995 (ApJS 100, 69 via NED)",
+        "SDSS DR3, 2004 (via NED)",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82m Copernico Telescope",
+    "Instrument": "+AFOSC",
+    "Observatory": "Padova-Asiago SN Group"
+}

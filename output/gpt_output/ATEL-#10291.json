@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J122100.9-533150.1",
+            "RA": "12 21 00.9",
+            "Dec": "-53 31 50.1",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "02:12:09.126UT",
+            "Date": "2017-04-20"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2017-03-17",
+            "Time": "05:32:16UT",
+            "Magnitude Limit": "18.9"
+        },
+        {
+            "Date": "2016-04-24",
+            "Time": "18:11:37UT",
+            "Magnitude Limit": "20.0"
+        }
+    ],
+    "Event Type": "OT",
+    "Time": "02:12:09.126UT",
+    "Date": "2017-04-20",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

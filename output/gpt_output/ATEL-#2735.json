@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10nlg",
+            "RA": "16:50:34.48",
+            "Dec": "+60:16:35.0",
+            "redshift": "0.05",
+            "Type": "Type Ia supernova",
+            "Time": "UT",
+            "Date": "July 2"
+        },
+        {
+            "Name": "PTF10ndc",
+            "RA": "17:19:50.18",
+            "Dec": "+28:41:57.5",
+            "redshift": "Null",
+            "Type": "Type Ia supernova",
+            "Time": "UT",
+            "Date": "July 3"
+        }
+    ],
+    "References": "ATEL#1964",
+    "Event Type": "Discovery",
+    "Time": "UT",
+    "Date": "July 2, 3, 7, and 9",
+    "Telescope": "Palomar 48 inch, Keck, Palomar 200 inch, Hubble Space Telescope",
+    "Instrument": "DBSP",
+    "Observatory": [
+        "Palomar",
+        "Keck",
+        "Hubble Space Telescope"
+    ]
+}

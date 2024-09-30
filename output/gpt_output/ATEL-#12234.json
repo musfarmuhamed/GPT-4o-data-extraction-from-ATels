@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J005139.2-721704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary pulsar",
+            "Time": null,
+            "Date": "2018-11-15 to 2018-11-17"
+        },
+        {
+            "Name": "SXP 4.78 (XTE J0052-723)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[M2002]20671= [2dFS]0811",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "early-type star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #12209",
+        "ATel #12222",
+        "ATel #12224"
+    ],
+    "Event Type": "observation",
+    "Time": "75ksec",
+    "Date": "2018-11-15 to 2018-11-17",
+    "Telescope": "NuSTAR",
+    "Instrument": null,
+    "Observatory": null
+}

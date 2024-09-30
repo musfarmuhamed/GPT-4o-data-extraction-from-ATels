@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHiTS15al",
+            "RA": "10:39:11.74",
+            "Dec": "00:26:01.52",
+            "redshift": "0.200",
+            "Type": "Ia",
+            "Time": "+6d",
+            "Date": "2015-02-24"
+        },
+        {
+            "Name": "SNHiTS15be",
+            "RA": "10:27:26.66",
+            "Dec": "01:48:12.50",
+            "redshift": "0.15",
+            "Type": "Ia",
+            "Time": "+9d",
+            "Date": "2015-02-26"
+        },
+        {
+            "Name": "SNHiTS15bs",
+            "RA": "09:23:52.48",
+            "Dec": "-00:01:20.75",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "2015-03-14"
+        },
+        {
+            "Name": "SNHiTS15by",
+            "RA": "10:00:01.05",
+            "Dec": "-05:23:34.00",
+            "redshift": "0.0524",
+            "Type": "IIP",
+            "Time": "+2d",
+            "Date": "2015-03-14"
+        }
+    ],
+    "References": [
+        "ATels #5949",
+        "#7099",
+        "#7146",
+        "#7149",
+        "#7289"
+    ],
+    "Event Type": "optical wavelength spectroscopy",
+    "Time": null,
+    "Date": "2015-03-21",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman",
+    "Observatory": "CTIO"
+}

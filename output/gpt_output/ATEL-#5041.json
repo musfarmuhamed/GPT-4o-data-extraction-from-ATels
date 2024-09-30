@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "17:39UT",
+            "Date": "April 26th, 2013"
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": null,
+            "Date": "April 26th, 2013"
+        },
+        {
+            "Name": "KS 1741-293",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "April 26th, 2013"
+        }
+    ],
+    "References": [
+        "ATel #5006",
+        "ATel #5009",
+        "ATel #5020",
+        "ATel #5037",
+        "ATel #4840",
+        "ATel #3123",
+        "ATel #3163",
+        "ATel #3930"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "Around April 11th, 2012",
+    "Date": "April 11th, 2012",
+    "Telescope": "MAXI/GSC, Swift",
+    "Instrument": "GSC, XRT",
+    "Observatory": "International Space Station (for MAXI)"
+}

@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17qg (AT 2017isj)",
+            "RA": "11:10:44.477",
+            "Dec": "04:50:50.96",
+            "redshift": "0.019330",
+            "Type": "supernova",
+            "Time": "Not specified",
+            "Date": "2017-12-02.35"
+        },
+        {
+            "Name": "ASASSN-17qc (AT 2017ipi)",
+            "RA": "08:59:39.327",
+            "Dec": "61:45:18.11",
+            "redshift": "0.037845",
+            "Type": "supernova",
+            "Time": "Not specified",
+            "Date": "2017-11-28.35"
+        },
+        {
+            "Name": "ASASSN-17pw (AT 2017inu)",
+            "RA": "04:15:22.760",
+            "Dec": "-12:04:13.80",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Not specified",
+            "Date": "2017-11-25.27"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Gordon and Betty Moore Foundation through grant GBMF5490 to the Ohio State University",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery of several new transient sources",
+    "Time": "Not specified",
+    "Date": "Between 2017-11-25 and 2017-12-02",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": "Not specified",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Cerro Tololo, Chile"
+    ]
+}

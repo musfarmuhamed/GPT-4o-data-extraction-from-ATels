@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00421951+4111137",
+            "RA": "0h42m19s.51",
+            "Dec": "+41o11'13\".7",
+            "redshift": null,
+            "Type": "apparent nova",
+            "Time": "6.806",
+            "Date": "2016 Mar",
+            "magnitudes": {
+                "2016 Feb 26.737 UT": "[19.8]",
+                "2016 Feb 27.785 UT": "18.9 \u00b1 0.15 (prediscovery)",
+                "2016 Mar 6.806 UT": "18.1 \u00b1 0.15"
+            }
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "6.806",
+    "Date": "2016 Mar",
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

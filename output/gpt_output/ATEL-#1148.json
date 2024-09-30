@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070718-007",
+            "RA": "14:47:49.47",
+            "Dec": "29:30:16.5",
+            "redshift": 0.05,
+            "Type": "II",
+            "Time": "20.0",
+            "Date": "Jul 18.2"
+        },
+        {
+            "Name": "SNF20070718-018",
+            "RA": "16:02:05.41",
+            "Dec": "29:43:34.8",
+            "redshift": 0.01,
+            "Type": "II",
+            "Time": "16.5",
+            "Date": "Jul 18.2"
+        },
+        {
+            "Name": "SNF20070718-025",
+            "RA": "22:22:07.95",
+            "Dec": "-14:18:48.3",
+            "redshift": 0.03,
+            "Type": "II",
+            "Time": "19.0",
+            "Date": "Jul 18.3"
+        },
+        {
+            "Name": "SNF20070718-026",
+            "RA": "22:42:37.33",
+            "Dec": "28:18:56.4",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": "19.4",
+            "Date": "Jul 18.5"
+        }
+    ],
+    "References": null,
+    "Event Type": "supernova discovery",
+    "Time": "Jul 18",
+    "Date": "2007",
+    "Telescope": "Palomar Oschin 48-inch telescope, University of Hawaii 2.2-meter telescope",
+    "Instrument": "QUEST-II camera, SuperNova Integral Field Spectrograph",
+    "Observatory": "Palomar-QUEST Consortium"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16418-4532",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient (SFXT) with intermediate properties",
+            "Time": "02:13-05:55 UTC",
+            "Date": "2013-09-18"
+        },
+        {
+            "Name": "IGR J18483-0311",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient (SFXT)",
+            "Time": "15:18-19:00 UTC",
+            "Date": "2013-09-18"
+        }
+    ],
+    "References": [
+        "Sidoli et al., MNRAS., 420, 554-561, 2012",
+        "Romano et al., MNRAS, 419, 2695-2702, 2012",
+        "Romano et al., MNRAS, 401, 1564-1569, 2010",
+        "ATEL #5398"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "2013-09-18",
+    "Telescope": null,
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

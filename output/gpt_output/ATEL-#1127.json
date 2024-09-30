@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007cv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": [
+                "2007-06-30.76 UT",
+                "2007-07-02.77 UT"
+            ],
+            "Date": [
+                "2007-06-30",
+                "2007-07-02"
+            ]
+        }
+    ],
+    "References": [
+        "CBET #989",
+        "Poznanski, Gal-Yam, Maoz, Filippenko, Leonard, & Matheson, 2002, PASP, 114, 833",
+        "Brown et al., 2005, ApJ, 635, 1192",
+        "Immler et al., 2006, ApJL, 648, 119"
+    ],
+    "Event Type": null,
+    "Time": [
+        "2007-06-30.76 UT",
+        "2007-07-02.77 UT"
+    ],
+    "Date": [
+        "2007-06-30",
+        "2007-07-02"
+    ],
+    "Telescope": "Swift's Ultraviolet/Optical Telescope (UVOT)",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017frc",
+            "RA": "16:25:34.03",
+            "Dec": "+41:40:58.7",
+            "redshift": 0.028,
+            "Type": "II",
+            "Time": "2017-08-31.9",
+            "Date": "2017-08-31.9"
+        },
+        {
+            "Name": "ATLAS17ixz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-07-03.4",
+            "Date": "2017-07-03.4"
+        }
+    ],
+    "References": "ATel #8992, Harutyunyan et al. 2008, A&A, 488, 383, Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic classification of supernova",
+    "Time": "2017-08-31.9",
+    "Date": "2017-08-31.9",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "2.56 m Nordic Optical Telescope"
+}

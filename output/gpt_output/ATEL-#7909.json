@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02090990+3159515",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0167,
+            "Type": "II",
+            "Time": "2015-08-13.980",
+            "Date": "2015-08-13"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Tomasella et al.",
+            "Year": 2014,
+            "Source": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Author": "Pastorello et al.",
+            "Year": 2009,
+            "Source": "MNRAS",
+            "Volume": 394,
+            "Page": 2266
+        },
+        {
+            "Author": "Blondin and Tonry",
+            "Year": 2007,
+            "Source": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2015-08-13.980",
+    "Date": "2015-08-13",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago SN group"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J142117.5-063736.1",
+            "RA": "14h 21m 17.5s",
+            "Dec": "-06d 37m 36.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2018-01-26.1918UT",
+            "Date": "2018-01-26"
+        },
+        {
+            "Name": "PGC 1030654",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": "2018-01-26.1918UT",
+    "Date": "2018-01-26",
+    "Telescope": "MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

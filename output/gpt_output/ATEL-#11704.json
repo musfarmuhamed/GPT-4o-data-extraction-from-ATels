@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cdc / DLT18y",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": "2018-06-03"
+        },
+        {
+            "Name": "NGC 274",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005837",
+            "Type": null,
+            "Time": null,
+            "Date": "2018-06-03"
+        }
+    ],
+    "References": "ATel #11678; Dopita et al., 2007, ApSS, 310, 255; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "optical transient observation",
+    "Time": null,
+    "Date": "2018-06-03",
+    "Telescope": "2.3m ANU telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory"
+}

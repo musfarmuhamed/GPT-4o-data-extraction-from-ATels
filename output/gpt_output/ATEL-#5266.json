@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF13cab",
+            "RA": "22 13 17.71",
+            "Dec": "+14 26 06.7",
+            "redshift": "0.03",
+            "Type": "SN Ib",
+            "Time": "Jul 30.29",
+            "Date": "Aug 03"
+        },
+        {
+            "Name": "PTF13cac",
+            "RA": "22 15 09.84",
+            "Dec": "+13 58 33.2",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "Jul 30.29",
+            "Date": "Aug 03"
+        },
+        {
+            "Name": "PTF13cbf",
+            "RA": "23 13 07.02",
+            "Dec": "+14 17 53.6",
+            "redshift": "0.039",
+            "Type": "SN Ic",
+            "Time": "Jul 30.32",
+            "Date": "Aug 03"
+        }
+    ],
+    "References": "ATel #4807, Yaron & Gal-Yam 2012",
+    "Event Type": "discovery and classification of three new core collapse SNe",
+    "Time": "Not provided",
+    "Date": "Not provided",
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": "Not provided"
+}

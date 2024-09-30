@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "11:00:00",
+            "Date": "2018-06-29"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tavani et al.",
+            "Journal": "Nature",
+            "Volume": "462",
+            "Page": "620",
+            "Year": "2009"
+        },
+        {
+            "Authors": "Abdo et al.",
+            "Journal": "Science",
+            "Volume": "326",
+            "Page": "1512",
+            "Year": "2009"
+        },
+        {
+            "Authors": "Piano et al.",
+            "Journal": "A&A",
+            "Volume": "545",
+            "Page": "A110",
+            "Year": "2012"
+        }
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "11:00:00",
+    "Date": "2018-06-29",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

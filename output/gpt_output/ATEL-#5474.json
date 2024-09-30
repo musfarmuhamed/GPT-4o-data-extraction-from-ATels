@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS 1826-238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:55:19",
+            "Date": "2013-10-15"
+        },
+        {
+            "Name": "MAXI J1828-249",
+            "RA": "277.118 deg",
+            "Dec": "-24.906 deg",
+            "redshift": null,
+            "Type": "X-ray transient source",
+            "Time": "21:55:19",
+            "Date": "2013-10-15"
+        }
+    ],
+    "References": "MAXI/GSC nova alert system",
+    "Event Type": "bright uncatalogued X-ray transient source",
+    "Time": "21:55:19",
+    "Date": "2013-10-15",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

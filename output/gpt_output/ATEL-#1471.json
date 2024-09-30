@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-302/IGR J17391-3021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "16:18",
+            "Date": "2008-04-08"
+        }
+    ],
+    "References": [
+        "ATEL #1466",
+        "ATEL #1385",
+        "ATEL #1468"
+    ],
+    "Event Type": "outburst",
+    "Time": "2008-04-08T14:01",
+    "Date": "2008-04-08",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

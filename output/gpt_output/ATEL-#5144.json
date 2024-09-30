@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J142023.5-485540",
+            "RA": "14h 20m 23.5s",
+            "Dec": "-48d 55m 40s",
+            "redshift": null,
+            "Type": "cataclysmic variable, likely a dwarf nova of UGSU or ER UMa subtype",
+            "Time": "2013-06-08.048 UT",
+            "Date": "2013-06-08"
+        },
+        {
+            "Name": "1RXS J142023.5-485554",
+            "RA": "14h 20m 23.5s",
+            "Dec": "-48d 55m 54s",
+            "redshift": null,
+            "Type": "ROSAT X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0410-0368216",
+            "RA": "14h 20m 23.472s",
+            "Dec": "-48d 55m 58.68s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J142023.5-485557",
+            "RA": "14h 20m 23.5s",
+            "Dec": "-48d 55m 57s",
+            "redshift": null,
+            "Type": "ultraviolet counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASAS 142023-4856.0",
+            "RA": "14h 20m 23s",
+            "Dec": "-48d 56m 0s",
+            "redshift": null,
+            "Type": "variable object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J142023-485554-BRIR.jpg, http://master.sai.msu.ru/static/OT/142023.5-485540.jpg",
+    "Event Type": "discovery",
+    "Time": "2013-06-08.048 UT",
+    "Date": "2013-06-08",
+    "Telescope": "MASTER-ICATE very wide-field camera",
+    "Instrument": "11 Mpix CCD, f/1.2 lens",
+    "Observatory": "located near San Juan, Argentina"
+}

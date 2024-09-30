@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012cg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "May 18 through June 20 UT",
+            "Date": 2012
+        },
+        {
+            "Name": "SN 2002cv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": 2002
+        }
+    ],
+    "References": [
+        "ATEL #4115",
+        "#4159",
+        "Elias-Rosa et al. 2008, MNRAS, 384, 107",
+        "Mandel, Narayan, & Kirshner 2011, ApJ 730, 120",
+        "Wood-Vasey et al. 2008, ApJ, 689, 377",
+        "Silverman et al. 2012, ApJL (submitted) arXiv1206.1328",
+        "Kasen 2010, ApJ, 708, 1025",
+        "Ramsey et al. 1998",
+        "Hill et al. 1998",
+        "Wang et al., 2009, ApJL, 699, 139"
+    ],
+    "Event Type": "Photometric and spectroscopic observations",
+    "Time": "May 18 through June 20 UT",
+    "Date": 2012,
+    "Telescope": "F. L. Whipple Observatory 1.2m, Peters Automated Infrared Imaging Telescope (PAIRITEL), FLWO 1.5m telescope, Hobby-Eberly Telescope",
+    "Instrument": "KeplerCam, Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory"
+}

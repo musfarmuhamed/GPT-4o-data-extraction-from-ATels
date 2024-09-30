@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17254-3257",
+            "RA": "261.420",
+            "Dec": "-33.181",
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "22:08",
+            "Date": "2017-02-23"
+        }
+    ],
+    "References": [
+        "Chenevez et al. 2007, A&A, 469, L27",
+        "Brandt et al. ATel, 778",
+        "MAXI archival data"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "22:08",
+    "Date": "2017-02-23",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

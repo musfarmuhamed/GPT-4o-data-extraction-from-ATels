@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +38.41",
+            "RA": 248.44,
+            "Dec": 37.54,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "22:00",
+            "Date": "2012-09-15"
+        },
+        {
+            "Name": "BZQ J1635+3808",
+            "RA": 248.44,
+            "Dec": 37.54,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "22:00",
+            "Date": "2012-09-15"
+        },
+        {
+            "Name": "3EG J1635+3813",
+            "RA": 248.44,
+            "Dec": 37.54,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "22:00",
+            "Date": "2012-09-15"
+        },
+        {
+            "Name": "2FGL J1635.2+3810",
+            "RA": 248.44,
+            "Dec": 37.54,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "22:00",
+            "Date": "2012-09-15"
+        }
+    ],
+    "References": [
+        "ATel #3333"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "22:00",
+    "Date": "2012-09-15",
+    "Telescope": "AGILE satellite",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

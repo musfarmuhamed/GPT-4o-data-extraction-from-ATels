@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1909+07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X 1908+075",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16418-4532",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "approximately 0.25 in phase after minimum flux",
+            "Date": "MJD 55994.6 +/- 0.4"
+        },
+        {
+            "Name": "IGR J16479-4514",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "approximately 0.25 in phase after minimum flux",
+            "Date": "MJD 55993 +/- 1"
+        }
+    ],
+    "References": "ATel #5119, ATel #779; Levine et al. 2011, ApJS, 196, 6; Jain et al. 2009, MNRAS, 397, L11",
+    "Event Type": "Detection of superorbital period",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/BAT",
+    "Instrument": "transient monitor",
+    "Observatory": null
+}

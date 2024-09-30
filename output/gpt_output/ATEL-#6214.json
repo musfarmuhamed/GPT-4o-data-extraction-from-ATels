@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140603:160725+364736",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "08.90",
+            "Date": "June 08"
+        },
+        {
+            "Name": "CSS140605:153631+465414",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "08.95",
+            "Date": "June 08"
+        },
+        {
+            "Name": "PSN J21151330+0211224",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "09.01",
+            "Date": "June 09"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, posted at http://arxiv.org/abs/1403.7233",
+        "Huchra et al. 1999, ApJS 121, 28, via NED",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmation of three supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

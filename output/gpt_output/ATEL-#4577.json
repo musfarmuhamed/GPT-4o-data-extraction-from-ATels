@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II outburst",
+            "Time": "93.65 s",
+            "Date": "2012 November 13"
+        }
+    ],
+    "References": [
+        "ATEL #4561",
+        "ATEL #4573",
+        "ATEL #3805",
+        "ATEL #4564",
+        "ATEL #1304"
+    ],
+    "Event Type": "Transient X-ray Binary Outburst",
+    "Time": "93.65 s",
+    "Date": "2012 November 13",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

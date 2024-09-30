@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016coj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "2016 May 28.18",
+            "Date": "2016-05-28"
+        },
+        {
+            "Name": "NGC 4125",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Zheng et al., ATel #9095",
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2016-06-03 to 2016-06-09",
+    "Telescope": [
+        "AMI Large Array",
+        "Jansky VLA"
+    ],
+    "Instrument": [
+        "AMI",
+        "VLA"
+    ],
+    "Observatory": null
+}

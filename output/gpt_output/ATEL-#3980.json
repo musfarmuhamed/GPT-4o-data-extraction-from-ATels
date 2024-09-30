@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12qn",
+            "RA": "11:44:53.81",
+            "Dec": "+09:11:07.3",
+            "redshift": "0.101",
+            "Type": "Ia SN",
+            "Time": "Feb 2.5 UT",
+            "Date": "Feb 2"
+        },
+        {
+            "Name": "PS1-12pd",
+            "RA": "11:20:52.43",
+            "Dec": "+51:32:30.3",
+            "redshift": "0.08",
+            "Type": "Ia SN",
+            "Time": "Feb 22.5 UT",
+            "Date": "Feb 22"
+        },
+        {
+            "Name": "PS1-12ql",
+            "RA": "15:36:58.16",
+            "Dec": "+03:59:49.4",
+            "redshift": "0.04",
+            "Type": "Ia SN",
+            "Time": "Feb 27.6 UT",
+            "Date": "Feb 27"
+        },
+        {
+            "Name": "PS1-12qh",
+            "RA": "11:42:56.40",
+            "Dec": "+04:21:47.4",
+            "redshift": "0.67",
+            "Type": "QSO",
+            "Time": "Feb 3.7 UT",
+            "Date": "Feb 3"
+        }
+    ],
+    "References": [
+        "Valenti et al. (ATels #2668, #3351)",
+        "Drake et al. ATel #3941",
+        "Anupama, G. C. et al 2005, A&A, 429, 667",
+        "Elias-Rosa, N. et al 2006, MNRAS, 369, 1880"
+    ],
+    "Event Type": "Discovery",
+    "Time": "Feb 2022 UT",
+    "Date": "Feb 2022",
+    "Telescope": "Isaac Newton Telescope",
+    "Instrument": "IDS",
+    "Observatory": "PS1 3Pi sky survey"
+}

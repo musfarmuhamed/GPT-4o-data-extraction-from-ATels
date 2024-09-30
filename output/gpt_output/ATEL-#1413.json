@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080303:075520+203908",
+            "RA": "07:55:19.52",
+            "Dec": "20:39:08.0",
+            "redshift": null,
+            "Type": "possibly a supernova",
+            "Time": "03:04:14",
+            "Date": "2008-03-03"
+        },
+        {
+            "Name": "CSS080229:115214+301037",
+            "RA": "11:52:14.19",
+            "Dec": "30:10:37.0",
+            "redshift": null,
+            "Type": "possibly an AGN",
+            "Time": "08:10:57",
+            "Date": "2008-02-29"
+        },
+        {
+            "Name": "CSS080228:105301-075656",
+            "RA": "10:53:00.81",
+            "Dec": "-07:56:56.0",
+            "redshift": null,
+            "Type": "possibly a supernova",
+            "Time": "07:55:02",
+            "Date": "2008-02-28"
+        },
+        {
+            "Name": "CSS080228:142427-063345",
+            "RA": "14:24:26.63",
+            "Dec": "-06:33:45.0",
+            "redshift": null,
+            "Type": "possibly an AGN or SN",
+            "Time": "12:12:46",
+            "Date": "2008-02-28"
+        },
+        {
+            "Name": "CSS080130:021110+171624",
+            "RA": "02:11:10.22",
+            "Dec": "17:16:24.0",
+            "redshift": null,
+            "Type": "significantly variable transient",
+            "Time": "03:38:17",
+            "Date": "2008-01-30"
+        },
+        {
+            "Name": "CSS080219:151457+234110",
+            "RA": "15:14:56.75",
+            "Dec": "23:41:10.0",
+            "redshift": null,
+            "Type": "possibly a supernova",
+            "Time": "11:26:29",
+            "Date": "2008-02-19"
+        }
+    ],
+    "References": "http://voeventnet.caltech.edu/feeds/ATEL/CSS",
+    "Event Type": "processed six additional optical transients in Catalina Sky Survey (CSS) images",
+    "Time": null,
+    "Date": "2008-01-30 to 2008-03-03",
+    "Telescope": "Mt. Bigelow 0.7m Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

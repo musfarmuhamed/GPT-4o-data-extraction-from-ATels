@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016itl",
+            "RA": "02 13 03.16",
+            "Dec": "-33 38 06.0",
+            "redshift": 0.043,
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "20161203"
+        },
+        {
+            "Name": "SN2016iyv",
+            "RA": "09 00 13.36",
+            "Dec": "-13 38 03.1",
+            "redshift": 0.031,
+            "Type": "Ia 91T-like",
+            "Time": "null",
+            "Date": "20161220"
+        },
+        {
+            "Name": "SN2016ixf",
+            "RA": "10 39 44.56",
+            "Dec": "+15 02 04.7",
+            "redshift": 0.068,
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "20161217"
+        },
+        {
+            "Name": "AT2016iym",
+            "RA": "15 03 00.86",
+            "Dec": "-67 42 13.3",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": "null",
+            "Date": "20161217"
+        },
+        {
+            "Name": "AT2016iyp",
+            "RA": "12 02 49.63",
+            "Dec": "-54 22 47.0",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": "null",
+            "Date": "20161219"
+        },
+        {
+            "Name": "SN2016iyk",
+            "RA": "10 41 06.40",
+            "Dec": "+06 31 42.8",
+            "redshift": 0.016,
+            "Type": "II",
+            "Time": "null",
+            "Date": "20161217"
+        },
+        {
+            "Name": "OGLE16fxq",
+            "RA": "04 51 38.22",
+            "Dec": "-66 48 49.3",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": "null",
+            "Date": "20161211"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "IAU Transient Name Server"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "null",
+    "Date": "2016 12 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

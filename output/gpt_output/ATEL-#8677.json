@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "likely Type II SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J132523.9-430059",
+            "RA": "13h25m23.9s",
+            "Dec": "-43d00m59s",
+            "redshift": null,
+            "Type": "unclassified X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Heikkila et al. (2016, MNRAS 457, 1107), ATel #8651, ATels #8655, #8664, Tully et al, 2013, AJ 146, 86",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

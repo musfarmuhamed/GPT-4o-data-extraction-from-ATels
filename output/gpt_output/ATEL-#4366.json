@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SFXT",
+            "Time": "23:34:14",
+            "Date": "2012-09-09"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Sidoli et al.",
+            "Year": 2009,
+            "Details": "ApJ, 690, 120"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": 2009,
+            "Details": "MNRAS, 397, 1528"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": 2011,
+            "Details": "MNRAS, 410, 1825"
+        },
+        {
+            "Authors": "Farinelli et al.",
+            "Year": 2012,
+            "Details": "MNRAS, 424, 2854"
+        },
+        {
+            "Authors": "Krimm et al.",
+            "Year": 2006,
+            "Details": "ATel #904"
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "23:34:14",
+    "Date": "2012-09-09",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

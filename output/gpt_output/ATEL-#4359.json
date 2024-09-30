@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M 31",
+            "RA": "00h42m47.96s",
+            "Dec": "+41d11'14.9\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2012-08-12.48",
+            "Date": "2012-08-12"
+        },
+        {
+            "Name": "Bol 128",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kaaret 2002, ApJ, 578, 114",
+        "Galleti et. al. 2004, A&A, 416, 917",
+        "Stiele et. al. 2008, A&A, 480, 599",
+        "Primini et. al. 1993, ApJ, 410, 615",
+        "Voss & Gilfanov 2007, A&A, 468, 49"
+    ],
+    "Event Type": "X-ray transient outburst",
+    "Time": "2012-08-12.48",
+    "Date": "2012-08-12",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": "Swift satellite"
+}

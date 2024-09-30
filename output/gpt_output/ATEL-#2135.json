@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1652-453",
+            "RA": "16h52m20.33s",
+            "Dec": "-45d20'39.99\"",
+            "redshift": null,
+            "Type": "X-Ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2107",
+        "ATel #2120",
+        "ATel #2125"
+    ],
+    "Event Type": "radio observations",
+    "Time": null,
+    "Date": [
+        "06-07-2009",
+        "07-07-2009",
+        "13-07-2009"
+    ],
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": "CABB back-end in the H75 configuration",
+    "Observatory": null
+}

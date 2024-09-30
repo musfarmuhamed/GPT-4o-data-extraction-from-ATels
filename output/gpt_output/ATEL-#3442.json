@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11foq",
+            "RA": "16 53 56.45",
+            "Dec": "+26 46 43.3",
+            "redshift": 0.22,
+            "Type": "SN Ia",
+            "Time": "Jun 07.38",
+            "Date": "Jun 07"
+        },
+        {
+            "Name": "PTF11for",
+            "RA": "12 34 07.11",
+            "Dec": "+11 29 31.0",
+            "redshift": 0.128,
+            "Type": "SN Ia",
+            "Time": "Jun 08.24",
+            "Date": "Jun 08"
+        },
+        {
+            "Name": "PTF11fqf",
+            "RA": "14 11 40.09",
+            "Dec": "+59 41 22.6",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Jun 09.36",
+            "Date": "Jun 09"
+        },
+        {
+            "Name": "PTF11fqh",
+            "RA": "15 52 55.48",
+            "Dec": "+41 57 59.1",
+            "redshift": 0.19,
+            "Type": "SN Ia",
+            "Time": "Jun 09.41",
+            "Date": "Jun 09"
+        },
+        {
+            "Name": "PTF11ftc",
+            "RA": "21 06 39.24",
+            "Dec": "-13 33 09.5",
+            "redshift": 0.03,
+            "Type": "SN II",
+            "Time": "Jun 10.46",
+            "Date": "Jun 10"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery of Supernovae",
+    "Time": "Jun 07 - Jun 10",
+    "Date": "June 2011",
+    "Telescope": "WHT",
+    "Instrument": "ISIS",
+    "Observatory": "PTF collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley"
+}

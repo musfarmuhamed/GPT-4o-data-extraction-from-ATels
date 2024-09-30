@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J212444.87+321738.3",
+            "RA": "21h 24m 44.87s",
+            "Dec": "+32d 17m 38.3s",
+            "redshift": null,
+            "Type": "large amplitude variable of C or S spectral type",
+            "Time": "20:11:30",
+            "Date": "2013-03-13"
+        },
+        {
+            "Name": "USNO-B1.0 1222-0647260",
+            "RA": "21 24 45.007",
+            "Dec": "+32 17 38.09",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 21244500+3217377",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J212444.98+321737.73.440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J212444+321738-BRIR.jpg, http://master.sai.msu.ru/static/OT/212444.87321738.3.png",
+    "Event Type": "discovery",
+    "Time": "20:11:30",
+    "Date": "2013-03-13",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

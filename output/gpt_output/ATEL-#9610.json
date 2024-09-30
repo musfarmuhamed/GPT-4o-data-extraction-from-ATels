@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16lg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021,
+            "Type": "Ia",
+            "Time": "2016-10-09.84",
+            "Date": "2016-10-06.20"
+        },
+        {
+            "Name": "ASASSN-16ll",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026,
+            "Type": "II",
+            "Time": "2016-10-09.85",
+            "Date": "2016-09-26.29"
+        },
+        {
+            "Name": "AT 2016gsd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "II",
+            "Time": "2016-10-10.06",
+            "Date": "2016-09-29.24"
+        },
+        {
+            "Name": "Gaia16bhj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.031,
+            "Type": "Ia",
+            "Time": "2016-10-10.20",
+            "Date": "2016-09-15.11"
+        }
+    ],
+    "References": "ATel #8992, ATel# 9601, ATel# 9602",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

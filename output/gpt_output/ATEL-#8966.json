@@ -1,0 +1,84 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF16aas",
+            "RA": "12:06:36.91",
+            "Dec": "+25:33:50.2",
+            "redshift": "0.123",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-04-01.15"
+        },
+        {
+            "Name": "iPTF16aaw",
+            "RA": "16:54:30.86",
+            "Dec": "+23:15:40.2",
+            "redshift": "0.089",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-04-01.46"
+        },
+        {
+            "Name": "iPTF16acg",
+            "RA": "12:06:10.07",
+            "Dec": "+30:55:10.9",
+            "redshift": "0.126",
+            "Type": "SN Ia",
+            "Time": "2016-04-06",
+            "Date": "2016-04-01.18"
+        },
+        {
+            "Name": "iPTF16afx",
+            "RA": "14:29:38.63",
+            "Dec": "+37:58:28.0",
+            "redshift": "0.125",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-04-03.52"
+        },
+        {
+            "Name": "iPTF16td",
+            "RA": "14:40:53.69",
+            "Dec": "+09:18:41.4",
+            "redshift": "0.121",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-03-15.49"
+        },
+        {
+            "Name": "iPTF16xi",
+            "RA": "13:58:33.83",
+            "Dec": "+38:47:57.2",
+            "redshift": "0.064",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-04-01.36"
+        },
+        {
+            "Name": "iPTF16ym",
+            "RA": "16:44:54.39",
+            "Dec": "+21:01:53.5",
+            "redshift": "0.131",
+            "Type": "SN Ia",
+            "Time": "2016-04-10",
+            "Date": "2016-04-01.46"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "ATel #7112",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "WISeREP (Yaron & Gal-Yam 2012)",
+        "Transient Name Server",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+        "Pan-Starrs1 as PS16brq"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Keck1+LRIS, DCT+Deveny+LMI",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

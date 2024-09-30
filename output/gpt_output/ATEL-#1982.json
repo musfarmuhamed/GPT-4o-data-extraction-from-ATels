@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18284-0345",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "11:48",
+            "Date": "2009-03-21"
+        },
+        {
+            "Name": "Swift XRT counterpart",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "18h28m30.1s",
+            "Dec": "-03d45'44\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2005-03-22"
+        }
+    ],
+    "References": [
+        "Blanchard et al. (ATel #1981)",
+        "Schlegel et al. (1998, ApJ, 500, 525)",
+        "Predehl & Schmitt (1995, A&A, 293, 889)"
+    ],
+    "Event Type": "Observation",
+    "Time": "11:48",
+    "Date": "2009-03-21",
+    "Telescope": "MDM 1.3m",
+    "Instrument": null,
+    "Observatory": "MDM Observatory"
+}

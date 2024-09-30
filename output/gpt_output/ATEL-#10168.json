@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016coj",
+            "RA": "12:08:06.80",
+            "Dec": "+65:10:37.9",
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "28.18 May 2016",
+            "Date": "2016-05-28"
+        }
+    ],
+    "References": [
+        "ATel #9095",
+        "Kundu et al. (submitted to The Astrophysical Journal)",
+        "Perez-Torres et al. (2014, ApJ, 792, 38)",
+        "ATel #9193"
+    ],
+    "Event Type": "radio observations",
+    "Time": "3-4 June 2016",
+    "Date": "2016-06-03 to 2016-06-04",
+    "Telescope": "e-MERLIN",
+    "Instrument": null,
+    "Observatory": [
+        "Cambridge",
+        "Pickmere",
+        "Darnhall",
+        "Knockin",
+        "Defford"
+    ]
+}

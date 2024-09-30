@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017eaw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.000133,
+            "Type": "II",
+            "Time": "05:42:43",
+            "Date": "2017-05-14"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Atel#10372",
+        "Atel#10374",
+        "Atel#10376",
+        "Leonard et al. 2002, AJ 124, 2490",
+        "Turatto et al. 2003",
+        "ESO ASTROPHYSICS SYMPOSIA",
+        "Polshaw et al. 2016, A&A 588, 1",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "12:00:00",
+    "Date": "2017-05-14",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

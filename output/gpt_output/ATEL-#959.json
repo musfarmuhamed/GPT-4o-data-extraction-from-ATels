@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J06074+2205",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2003-02"
+        },
+        {
+            "Name": "NVSS J060718+220452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Be star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "06h 07m 26.62s",
+            "Dec": "+22d 05' 47.6\"",
+            "redshift": null,
+            "Type": "bright source",
+            "Time": null,
+            "Date": "2006-12-02"
+        }
+    ],
+    "References": [
+        "Chenevez et al. 2004, ATEL#223",
+        "Pooley et al. 2004, ATEL#226",
+        "Pandey et al. 2006",
+        "Halpern & Tyagi 2005, ATEL#682",
+        "Masetti et al. 2006"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2003-02",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2009-11-12"
+        }
+    ],
+    "References": [
+        "Krimm et al. 2009, ATel #2292",
+        "Lockman & Savage 1995",
+        "Donnarumma et al. 2009, ApJ, 691, L13",
+        "Fossati et al. 2008, ApJ, 677, 906",
+        "Lichti et al. 2008, A&A, 486, 721"
+    ],
+    "Event Type": "Flaring activity",
+    "Time": null,
+    "Date": "2009-11-10",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary system",
+            "Time": [
+                "2017-02-06",
+                "2017-03-17",
+                "2016-11-18"
+            ],
+            "Date": [
+                "2017-02-06",
+                "2017-03-17",
+                "2016-11-18"
+            ]
+        }
+    ],
+    "References": [
+        "Swift/BAT"
+    ],
+    "Event Type": "renewed optical activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "0.4-m LX-200",
+        "0.7-m AZT-8"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "St.Petersburg, Russia",
+        "CrAO, Russia"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER 113122.95-075714.5",
+            "RA": "11h 31m 22.95s",
+            "Dec": "-07d 57m 14.5s",
+            "redshift": null,
+            "Type": "Rapid Transient",
+            "Time": "00:05:11.145",
+            "Date": "2012-01-30"
+        },
+        {
+            "Name": "MASTER OT221306.74+581605.9",
+            "RA": "22h 13m 06.74s",
+            "Dec": "+58d 16m 05.9s",
+            "redshift": null,
+            "Type": "Variable",
+            "Time": null,
+            "Date": "2012-01-24.56623"
+        },
+        {
+            "Name": "MASTER OT021216.01+461154.5",
+            "RA": "02h 12m 16.01s",
+            "Dec": "+46d 11m 54.5s",
+            "redshift": null,
+            "Type": "New Variable Star",
+            "Time": null,
+            "Date": "2012-01-29.57678"
+        },
+        {
+            "Name": "MASTER OT083221.37+280630.3",
+            "RA": "08h 32m 21.37s",
+            "Dec": "+28d 06m 30.3s",
+            "redshift": null,
+            "Type": "PSN?",
+            "Time": null,
+            "Date": "2012-01-28.80788"
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/113122.95-075714.5/MASTER113122.95-075714.jpg",
+        "http://master.sai.msu.ru/static/OT/221306.74581605.9_1.png",
+        "http://master.sai.msu.ru/static/OT/021216.01461154.5_1.png",
+        "http://master.sai.msu.ru/static/OT/083221.37280630.3.png"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-Kislovodsk",
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ]
+}

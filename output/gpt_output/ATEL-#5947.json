@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF14yb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2014 Feb 27.7 UT",
+            "Date": "2014-02-27"
+        },
+        {
+            "Name": "iPTF14yb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2014 Feb 28.5 UT",
+            "Date": "2014-02-28"
+        }
+    ],
+    "References": [
+        "GCN 15883",
+        "ATel #5924"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "JVLA",
+        "CARMA"
+    ],
+    "Instrument": [
+        "C band, K band",
+        "95 GHz"
+    ],
+    "Observatory": [
+        "JVLA",
+        "CARMA"
+    ]
+}

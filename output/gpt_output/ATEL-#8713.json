@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016ajf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Type Ia Supernova",
+            "Time": "19.6",
+            "Date": "2016-02-19"
+        },
+        {
+            "Name": "NGC 1278",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005bl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "-6 days",
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "19.6",
+    "Date": "2016-02-19",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Astronomical Observatories"
+}

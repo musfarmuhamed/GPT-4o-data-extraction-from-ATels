@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J143358.97+401420.7",
+            "RA": "14h 33m 58.97s",
+            "Dec": "+40d 14m 20.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "05.92826",
+            "Date": "2013-05-05"
+        },
+        {
+            "Name": "UGC 9379",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J143358.88+401417.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/PSNinUGC9379-anim.gif http://master.sai.msu.ru/static/OT/143358.97401420.7.jpg",
+    "Event Type": "Auto-detection",
+    "Time": "05.92826",
+    "Date": "2013-05-05",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

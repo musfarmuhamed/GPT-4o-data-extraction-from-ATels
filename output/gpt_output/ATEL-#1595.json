@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source #1",
+            "RA": "20:18:38.40",
+            "Dec": "+40:40:58.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "8:19 UT",
+            "Date": "2008-06-01"
+        },
+        {
+            "Name": "Source #2",
+            "RA": "20:18:49.92",
+            "Dec": "+40:28:23.5",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "8:19 UT",
+            "Date": "2008-06-01"
+        },
+        {
+            "Name": "Source #3",
+            "RA": "20:17:34.32",
+            "Dec": "+40:31:42.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "8:19 UT",
+            "Date": "2008-06-01"
+        },
+        {
+            "Name": "Source #4",
+            "RA": "20:18:45.12",
+            "Dec": "+40:37:26.0",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "8:19 UT",
+            "Date": "2008-06-01"
+        },
+        {
+            "Name": "Source #5",
+            "RA": "20:18:21.84",
+            "Dec": "+40:23:46.3",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "8:19 UT",
+            "Date": "2008-06-01"
+        }
+    ],
+    "References": [
+        "ATel #1547",
+        "ATel #1492",
+        "ATel #1585",
+        "ATel #788",
+        "ATel #1497",
+        "ATel #1518",
+        "Bykov et al. 2006, ApJ 649, 21"
+    ],
+    "Event Type": "Observations of variable gamma-ray source re-brightening and associated X-ray sources",
+    "Time": "8:19 UT",
+    "Date": "2008-06-01",
+    "Telescope": "XMM-Newton",
+    "Instrument": null,
+    "Observatory": null
+}

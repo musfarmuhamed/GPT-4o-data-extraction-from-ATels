@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible Nova in M 31",
+            "RA": "00h42m10.36s",
+            "Dec": "+41o12'19.9\"",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "2009 June 30.045 UT",
+            "Date": "2009-06-30"
+        },
+        {
+            "Name": "Possible Nova in M 31",
+            "RA": "00h42m10.37s",
+            "Dec": "+41o12'19.8\"",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "2009 June 30.114 UT",
+            "Date": "2009-06-30"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478",
+    "Event Type": "Discovery",
+    "Time": "2009 June 30.045 UT",
+    "Date": "2009-06-30",
+    "Telescope": "40-cm Cassegrain, 80 cm Ritchey-Chretien",
+    "Instrument": "ST-10XME CCD camera, Finger Lakes PL4240-1-BI CCD Camera",
+    "Observatory": "Athens University Observatory, Observatori Astronomic del Montsec"
+}

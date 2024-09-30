@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13cc",
+            "RA": "05:32:46.62",
+            "Dec": "-14:02:45.41",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "19.62",
+            "Date": "Aug. 19"
+        },
+        {
+            "Name": "NGC 1954",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01044",
+            "Type": "Sbc galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2010ko",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2011fi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #2569, #2575, #2800, #2815",
+    "Event Type": "supernova discovery",
+    "Time": "20.77",
+    "Date": "Aug. 20",
+    "Telescope": "RCOS telescope",
+    "Instrument": "IR filter (close to I-band)",
+    "Observatory": "Coral Towers Observatory (Cairns, Australia)"
+}

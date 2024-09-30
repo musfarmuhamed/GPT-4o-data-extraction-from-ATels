@@ -1,0 +1,111 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMT16zeo",
+            "RA": "22:02:44.97",
+            "Dec": "-13:04:49.2",
+            "redshift": 0.039,
+            "Type": "Gal",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "OGLE16dpg",
+            "RA": "00:33:08.45",
+            "Dec": "-66:46:54.1",
+            "redshift": 0.087,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "OGLE16dwh",
+            "RA": "03:01:29.68",
+            "Dec": "-64:25:40.7",
+            "redshift": 0.134,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "SN2016gqc",
+            "RA": "05:08:05.21",
+            "Dec": "-41:41:13.7",
+            "redshift": 0.046,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "SN2016glo",
+            "RA": "02:39:43.34",
+            "Dec": "-16:00:08.2",
+            "redshift": 0.048,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "SN2016gom",
+            "RA": "03:18:13.24",
+            "Dec": "-50:53:05.3",
+            "redshift": 0.062,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160928"
+        },
+        {
+            "Name": "OGLE16dwy",
+            "RA": "05:22:30.67",
+            "Dec": "-64:56:34.1",
+            "redshift": 0.074,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160928"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Smartt et al.",
+            "Year": 2015,
+            "Title": "A&A, 579, 40",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Authors": "Wyrzykowski et al.",
+            "Year": 2014,
+            "Title": "arxiv:1409.1095",
+            "URL": "http://ogle.astrouw.edu.pl/"
+        },
+        {
+            "Authors": "Huber et al.",
+            "Year": null,
+            "Title": "ATel #7153",
+            "URL": null
+        },
+        {
+            "Authors": "Shappee et al.",
+            "Year": 2014,
+            "Title": "ApJ, 788, 48",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Authors": "Blondin & Tonry",
+            "Year": 2007,
+            "Title": "ApJ, 666, 1024",
+            "URL": null
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Title": "A&A, 488, 383",
+            "URL": null
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-09-28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15tx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "2 ks",
+            "Date": "2015 December 11"
+        }
+    ],
+    "References": [
+        "Atel #8400",
+        "Gehrels (1986)",
+        "Willingale et al. 2013"
+    ],
+    "Event Type": "observation",
+    "Time": "2 ks",
+    "Date": "2015 December 11",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

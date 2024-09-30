@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DDE 47",
+            "RA": "19 22 38.80",
+            "Dec": "-31 16 28.6",
+            "Redshift": null,
+            "Type": "eclipsing cataclysmic variable (most likely a dwarf nova, but a polar in the high state is not excluded)",
+            "Time": "11:02 to 12:14 UT",
+            "Date": "2016-08-08"
+        },
+        {
+            "Name": "NSV 11918",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CMC15 192236.0-311646",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8842",
+    "Event Type": "observation of new optical transient",
+    "Time": "11:02 to 12:14 UT",
+    "Date": "2016-08-08",
+    "Telescope": "iTelescope.Net's T31",
+    "Instrument": "0.51-m astrograph + 3kx3k CCD with 55'x55' FOV",
+    "Observatory": "Siding Spring, Australia"
+}

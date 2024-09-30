@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13dd",
+            "RA": "09:07:36.75",
+            "Dec": "+03:23:39.7",
+            "redshift": "0.01255",
+            "Type": "supernova",
+            "Time": "24.63",
+            "Date": "2013 Sep. 24.63"
+        },
+        {
+            "Name": "NGC 2765",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01255",
+            "Type": "S0 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "ASAS-SN Transients page",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "discovery",
+    "Time": "24.63",
+    "Date": "2013 Sep. 24.63",
+    "Telescope": "Brutus telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1418+3541",
+            "RA": "14:18:31",
+            "Dec": "+35:41:23",
+            "redshift": null,
+            "Type": "gamma-ray point source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J141828+354250",
+            "RA": "14:18:28",
+            "Dec": "+35:42:50",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS110512:141829+354249",
+            "RA": "14:18:29",
+            "Dec": "+35:42:49",
+            "redshift": null,
+            "Type": "highly variable source",
+            "Time": "UT",
+            "Date": "2011-05-12"
+        },
+        {
+            "Name": "FIRST J141828.5+354249",
+            "RA": "14:18:28.5",
+            "Dec": "+35:42:49",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Dutka et al. (2012, ATEL#4643)",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J115649.1+542726",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.08-0.09",
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": {
+                "First Detection": "2008 April 25",
+                "Peak Emission": "2008 May 13",
+                "Follow-up Spectrum": "2008 June 1",
+                "First Epoch Swift": "2008 May 14 to June 7",
+                "Significant Evolution Spectrum": "2008 May 1-8"
+            }
+        }
+    ],
+    "References": [
+        "Yuan et al. 2008 (ATel #1515)",
+        "Gezari et al. (ATel #1524)",
+        "Miller et al. (ATel #1576)"
+    ],
+    "Event Type": "Optical transient",
+    "Time": null,
+    "Date": {
+        "First Detection": "2008 April 25",
+        "Peak Emission": "2008 May 13",
+        "Follow-up Spectrum": "2008 June 1"
+    },
+    "Telescope": [
+        "ROTSE",
+        "Palomar 60\"",
+        "MDM 1.3m",
+        "Swift satellite",
+        "9.2m Hobby-Eberly Telescope"
+    ],
+    "Instrument": [
+        "Swift UVOT",
+        "Swift XRT",
+        "Marcario Low-Resolution Spectrograph"
+    ],
+    "Observatory": [
+        "Palomar",
+        "MDM",
+        "Hobby-Eberly Telescope"
+    ]
+}

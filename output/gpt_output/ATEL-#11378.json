@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1004-217",
+            "RA": "10h06m46.4136s",
+            "Dec": "-21d59m20.410s",
+            "redshift": 0.331,
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": "00:00:00 / 06:00:00 UTC",
+            "Date": "4 March 2018"
+        }
+    ],
+    "References": [
+        "3FGL J1006.7-2159",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Hewitt & Burbidge 1989, ApJS, 69, 1",
+        "third Fermi LAT catalog (3FGL)",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "ATel #10952"
+    ],
+    "Event Type": "high-flux state",
+    "Time": "00:00:00 / 06:00:00 UTC",
+    "Date": "4 March 2018",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA, DOE, and institutions in France, Italy, Japan, and Sweden"
+}

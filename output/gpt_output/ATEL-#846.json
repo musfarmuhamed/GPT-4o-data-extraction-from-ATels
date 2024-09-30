@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J2114.3+8206",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J211400.5+820447",
+            "RA": "21 14 00.50",
+            "Dec": "+82 04 47.1",
+            "redshift": "0.08",
+            "Type": "flat spectrum radio quasar",
+            "Time": "14:52:38 - 00:40:57",
+            "Date": "2006-06-25 - 2006-06-26"
+        },
+        {
+            "Name": "1RXS J211400.0+820447",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XSS J21128+8216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J21140128+8204483",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "S5 2116+81",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.08",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Apr 1998 - Oct 1998"
+        }
+    ],
+    "References": [
+        "Revnivtsev et al. 2004",
+        "Donato et al. 2005",
+        "Donato, Sambruna, Gliozzi 2005, A&A, 433, 1163"
+    ],
+    "Event Type": "Observation",
+    "Time": "2006-06-25T14:52:38 UT - 2006-06-26T00:40:57 UT",
+    "Date": "2006-06-25 - 2006-06-26",
+    "Telescope": "Swift/BAT, Swift/XRT",
+    "Instrument": null,
+    "Observatory": "Swift"
+}

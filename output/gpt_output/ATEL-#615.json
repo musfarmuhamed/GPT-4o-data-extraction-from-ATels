@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-285",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possibly black hole system",
+            "Time": [
+                "2005-08-25",
+                "2005-09-26T19:32:00",
+                "2005-09-28T22:42:06"
+            ],
+            "Date": [
+                "2005-08-25",
+                "2005-09-26",
+                "2005-09-28"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #592",
+        "ATel #602"
+    ],
+    "Event Type": "X-ray transient detection and observation",
+    "Time": [
+        "2005-08-25",
+        "2005-09-26T19:32:00",
+        "2005-09-28T22:42:06"
+    ],
+    "Date": [
+        "2005-08-25",
+        "2005-09-26",
+        "2005-09-28"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "ISGRI"
+    ],
+    "Observatory": "INTEGRAL Galactic Bulge Monitoring"
+}

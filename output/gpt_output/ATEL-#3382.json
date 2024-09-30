@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19491-1035",
+            "RA": "297.28",
+            "Dec": "-10.59",
+            "redshift": "0.02458",
+            "Type": "Hard X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LDCE 1363",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02458",
+            "Type": "Group of Galaxies",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J19490928-1034253",
+            "RA": "19h49m08.69s",
+            "Dec": "-10h34m34.46s",
+            "redshift": "0.02402",
+            "Type": "Seyfert type 1 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J04221+4856",
+            "RA": "65.53",
+            "Dec": "48.95",
+            "redshift": null,
+            "Type": "Hard X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J042201.0+485610",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.114",
+            "Type": "ROSAT Source/Seyfert 1 Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al., A&A, 475, 775, 2007; A&A, 523, A61, 2010, Crook et al., ApJ, 655, 790, 2007, Jones et al., MNRAS, 355, 747, 2004; MNRAS, 399, 683, 2009, Marti et al., A&A, 413, 309-315, 2004",
+    "Event Type": "Detection of hard X-ray sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": "INTEGRAL Observatory"
+}

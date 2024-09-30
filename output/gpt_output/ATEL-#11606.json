@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB180309",
+            "RA": "21:24:43.8",
+            "Dec": "-33:58:44.5",
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": "09:34:51",
+            "Date": "2018-03-09"
+        },
+        {
+            "Name": "PSR J2124-3358",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11387",
+    "Event Type": "Follow-up Observation",
+    "Time": "09:34:51",
+    "Date": "2018-03-09",
+    "Telescope": "Lovell Telescope",
+    "Instrument": "L-band receiver, Apollo backend",
+    "Observatory": "Jodrell Bank Observatory"
+}

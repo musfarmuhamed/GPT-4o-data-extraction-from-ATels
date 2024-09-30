@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS1244-255",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.633",
+            "Type": "quasar",
+            "Time": "MJD 2458145.970579",
+            "Date": "January 27th, 2017"
+        },
+        {
+            "Name": "CGRaBSJ1246-2547",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.633",
+            "Type": "quasar",
+            "Time": "MJD 2458145.970579",
+            "Date": "January 27th, 2017"
+        },
+        {
+            "Name": "3FGL1246.7-2547",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.633",
+            "Type": "Gamma-ray source",
+            "Time": "MJD 2458145.970579",
+            "Date": "January 27th, 2017"
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR photometry observation",
+    "Time": "MJD 2458145.970579",
+    "Date": "January 27th, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

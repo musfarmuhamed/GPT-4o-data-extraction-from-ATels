@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-09b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "15.13 UT",
+            "Date": "2017-09-15"
+        },
+        {
+            "Name": "M31N 2017-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "15.11 UT",
+            "Date": "2017-09-15"
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "TNS",
+        "ATel #10726"
+    ],
+    "Event Type": "spectrum observation",
+    "Time": "15.11 UT and 15.13 UT",
+    "Date": "2017-09-15",
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

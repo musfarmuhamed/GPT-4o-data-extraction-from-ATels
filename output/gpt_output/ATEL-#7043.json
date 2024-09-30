@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2015-SN-035",
+            "RA": "06:03:25.87",
+            "Dec": "-66:39:21.3",
+            "redshift": "0.04",
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-02-09"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Smartt et al.",
+            "arXiv": "1411.0299",
+            "Link": "http://www.pessto.org"
+        },
+        {
+            "Author": "Wyrzykowski et al.",
+            "arXiv": "1409.1095",
+            "Link": "http://ogle.astrouw.edu.pl/"
+        },
+        {
+            "Author": "Blondin & Tonry",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024",
+            "Year": "2007"
+        },
+        {
+            "Author": "Harutyunyan et al.",
+            "Journal": "A&A",
+            "Volume": "488",
+            "Page": "383",
+            "Year": "2008"
+        }
+    ],
+    "Event Type": "supernova classification",
+    "Time": null,
+    "Date": "2015-02-09",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

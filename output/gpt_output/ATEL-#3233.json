@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "11:51 UTC",
+            "Date": "2011-03-23"
+        }
+    ],
+    "References": [
+        "ATel #3139",
+        "Stephane Corbel (stephane.corbel@cea.fr)"
+    ],
+    "Event Type": "transition to hard state, gamma-ray flux increase, and radio flux variation",
+    "Time": "11:51 UTC",
+    "Date": "2011-03-23",
+    "Telescope": [
+        "Large Area Telescope (LAT)",
+        "OVRO 40-m Telescope",
+        "RATAN-600 radio telescope",
+        "AMI Large Array"
+    ],
+    "Instrument": [
+        "Swift/BAT",
+        "Fermi Gamma-ray Space Telescope"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J09063070-7549015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": "07:17",
+            "Date": "January 7"
+        },
+        {
+            "Name": "ESO 036- G 019",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015487",
+            "Type": "assumed host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ 1024, 666",
+    "Event Type": "supernova observation",
+    "Time": "07:17",
+    "Date": "January 7",
+    "Telescope": "Las Campanas 2.5-m du Pont",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

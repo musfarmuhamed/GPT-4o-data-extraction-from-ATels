@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN15-tz",
+            "RA": "02:41:08.86",
+            "Dec": "+43:40:48.8",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J23244903+1516520",
+            "RA": "23:24:49.03",
+            "Dec": "+15:16:52.0",
+            "redshift": null,
+            "Type": "IIn",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN15-tx",
+            "RA": "02:30:24.44",
+            "Dec": "+45:07:18.2",
+            "redshift": null,
+            "Type": "IIn or II with blue continuum",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN15-ua",
+            "RA": "13:34:54.47",
+            "Dec": "+10:59:04.6",
+            "redshift": null,
+            "Type": "IIn, balmer series in emission",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL 8404",
+        "CBAT TOCP",
+        "ATEL 8400",
+        "ATEL 8408",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": "December 14, 2015",
+    "Telescope": "F. L. Whipple Observatory 1.5-m",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

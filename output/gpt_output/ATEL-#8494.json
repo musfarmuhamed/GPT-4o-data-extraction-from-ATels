@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": "08:40",
+            "Date": "2015-12-30"
+        },
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": "16:23",
+            "Date": "2015-12-30"
+        },
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": "22:34",
+            "Date": "2015-12-30"
+        },
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": "18:38:04",
+            "Date": "2015-12-31"
+        }
+    ],
+    "References": [
+        "Barthelmy et al 2015 GCN #18716",
+        "ATel #8455",
+        "Jenke at al 2015, GCN #18719",
+        "ATel #8457",
+        "Malyshev et al. ATel #8458",
+        "Motta et al. ATel #8475",
+        "Heinz et al ATel #8489"
+    ],
+    "Event Type": "X-ray flares",
+    "Time": "Since 2015 December 23",
+    "Date": "2015-12-23",
+    "Telescope": [
+        "Swift-BAT",
+        "Fermi-GBM",
+        "INTEGRAL-IBIS/ISGRI",
+        "MAXI/GSC"
+    ],
+    "Instrument": [
+        "MAXI ML [X-ray-star:418]"
+    ],
+    "Observatory": [
+        "MAXI"
+    ]
+}

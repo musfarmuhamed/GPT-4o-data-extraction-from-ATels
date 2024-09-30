@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J0813+2420",
+            "RA": "123.4",
+            "Dec": "24.6",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "18:00",
+            "Date": "2010-10-23 to 2010-10-26"
+        },
+        {
+            "Name": "CRATES J0813+2435",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "gamma-ray emission",
+    "Time": "18:00 UT",
+    "Date": "2010-10-23 to 2010-10-26",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

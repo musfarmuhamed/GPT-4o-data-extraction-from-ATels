@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15re",
+            "RA": "20:48:07.78",
+            "Dec": "+16:23:01.33",
+            "redshift": "0.030314",
+            "Type": "Supernova",
+            "Time": "2015-10-13.30",
+            "Date": "2015-10-13"
+        },
+        {
+            "Name": "CGCG 448-007",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030314",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "J. Brimacombe",
+        "W. Wiethoff",
+        "R. A. Koff",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Science Fund"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2015-10-13.30",
+    "Date": "2015-10-13",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

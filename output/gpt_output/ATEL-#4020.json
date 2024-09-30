@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ287",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "Night",
+            "Date": "2012-03-28"
+        },
+        {
+            "Name": "OJ287",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "Night",
+            "Date": "2012-03-29"
+        },
+        {
+            "Name": "OJ287",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "Night",
+            "Date": "2012-04-01"
+        },
+        {
+            "Name": "M67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dipper asterism",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sundelius et al. (ApJ 484,180,1997)",
+        "Sillanpaa et al. (A&A 315, L13, 1996)",
+        "Valtonen (2007, ApJ 659, 1074)",
+        "Dultzin-Hacyan et al. (1997, Rev.Mex.A&A 33, 17)"
+    ],
+    "Event Type": "photometric monitoring",
+    "Time": "Night",
+    "Date": "2012-03-28 to 2012-04-01",
+    "Telescope": "0.30-m f/10 telescope",
+    "Instrument": "SBIG ST-9XE CCD camera + BVRI (Johnson/Cousins) filters",
+    "Observatory": "Astronomical Observatory of Capannori (OAC)"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15X2kvt",
+            "RA": "02:21:46:25",
+            "Dec": "-05:38:23.4",
+            "redshift": 0.405,
+            "Type": "SNIa?",
+            "Time": "2015 Oct 13",
+            "Date": "2015 Oct 02"
+        },
+        {
+            "Name": "DES15C3hav",
+            "RA": "03:31:52.17",
+            "Dec": "-28:15:09.5",
+            "redshift": 0.392,
+            "Type": "SLSN-I",
+            "Time": "2015 Nov 09",
+            "Date": "2015 Oct 15"
+        },
+        {
+            "Name": "DES15X3lya",
+            "RA": "02:23:19.50",
+            "Dec": "-04:04:04.2",
+            "redshift": 0.29,
+            "Type": "SNIa",
+            "Time": "2015 Nov 09",
+            "Date": "2015 Oct 31"
+        },
+        {
+            "Name": "DES15S1lyi",
+            "RA": "02:48:51.28",
+            "Dec": "-00:09:07.9",
+            "redshift": 0.359,
+            "Type": "SNIa?",
+            "Time": "2015 Nov 09",
+            "Date": "2015 Oct 29"
+        },
+        {
+            "Name": "DES15X2men",
+            "RA": "02:20:53.60",
+            "Dec": "-06:35:36.0",
+            "redshift": 0.334,
+            "Type": "SNIa",
+            "Time": "2015 Nov 09",
+            "Date": "2015 Oct 31"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al, 2005, ApJ, 634, 119",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Unknown",
+    "Date": "Unknown",
+    "Telescope": "MMT",
+    "Instrument": "Blue Channel Spectrograph",
+    "Observatory": "Dark Energy Survey (DES)"
+}

@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16pd/2016jab",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021",
+            "Type": "SNe Ia-norm",
+            "Time": "UT 2016-12-24.24",
+            "Date": "2016-12-24"
+        }
+    ],
+    "References": [
+        {
+            "Article": "ATel #9898"
+        },
+        {
+            "Article": "Shappee et al. 2014, ApJ, 788, 48"
+        },
+        {
+            "Article": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "UT 2016-12-24.24",
+    "Date": "2016-12-24",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

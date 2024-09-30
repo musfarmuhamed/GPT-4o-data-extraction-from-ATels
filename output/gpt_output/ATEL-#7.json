@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 971214",
+            "RA": null,
+            "Dec": null,
+            "redshift": "3.43",
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "December 28, 1997"
+        },
+        {
+            "Name": "Galaxy G1",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.50",
+            "Type": "Nearby Galaxy",
+            "Time": null,
+            "Date": "December 28, 1997"
+        }
+    ],
+    "References": [
+        "IAUC #6788",
+        "GCN #27",
+        "ATEL #5",
+        "GCN #12",
+        "GCN #13"
+    ],
+    "Event Type": "Spectroscopic Observation",
+    "Time": null,
+    "Date": "December 28, 1997",
+    "Telescope": "Keck II telescope",
+    "Instrument": "Low Resolution Imaging Spectrograph (LRIS)",
+    "Observatory": "Keck Observatory"
+}

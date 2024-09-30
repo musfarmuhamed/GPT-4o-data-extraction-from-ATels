@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": "20 18 38.73",
+            "Dec": "40 41 00.2",
+            "redshift": null,
+            "Type": "Radio point source",
+            "Time": "23:15:40 to 06:54:40 and 06:05:50 to 07:48:50, 22:32:50 to 23:16:10 UT",
+            "Date": "December 9-10, 2006 and December 12, 2006"
+        },
+        {
+            "Name": "IGR J2018-4043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1492",
+        "ATEL #1497",
+        "ATEL #1498",
+        "ApJ v.649, L21, 2006",
+        "MNRAS, v.386, p. 1729, 2008"
+    ],
+    "Event Type": "Dynamic scheduling observations",
+    "Time": "23:15:40 to 06:54:40 and 06:05:50 to 07:48:50, 22:32:50 to 23:16:10 UT",
+    "Date": "December 9-10, 2006 and December 12, 2006",
+    "Telescope": "VLA",
+    "Instrument": "Radio telescope",
+    "Observatory": null
+}

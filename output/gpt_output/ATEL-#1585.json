@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J20187+4041",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "2MASX J20183871+4041003",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1492",
+        "ATel #1547",
+        "ATel #1497",
+        "ATel #1498",
+        "ATel #1518",
+        "ATel #1584"
+    ],
+    "Event Type": "gamma-ray detection",
+    "Time": "12:00 UT",
+    "Date": "2007-11-02",
+    "Telescope": "AGILE",
+    "Instrument": "Gamma-Ray Imaging Detector",
+    "Observatory": null
+}

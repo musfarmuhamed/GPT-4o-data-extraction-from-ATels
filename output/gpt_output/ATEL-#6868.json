@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0502+049",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.954,
+            "Type": "QSO",
+            "Time": "2457021.8899",
+            "Date": "December 30th, 2014"
+        },
+        {
+            "Name": "CGRaBS J0505+0459",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.954,
+            "Type": "QSO",
+            "Time": "2457021.8899",
+            "Date": "December 30th, 2014"
+        },
+        {
+            "Name": "2FGLJ0505.1+0501",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma ray source",
+            "Time": "2457021.8899",
+            "Date": "December 30th, 2014"
+        }
+    ],
+    "References": "Atel#6633",
+    "Event Type": "NIR flare",
+    "Time": "2457021.8899",
+    "Date": "December 30th, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18410-0535",
+            "RA": "18h 41m 04s",
+            "Dec": "-05d 36' 53\"",
+            "redshift": null,
+            "Type": "Supergiant Fast X-Ray Transient",
+            "Time": "17:23:30 UT",
+            "Date": null
+        },
+        {
+            "Name": "IGR J18410-0535",
+            "RA": "18h 41m 0.40s",
+            "Dec": "-05d 35' 46.5\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "17:51:50.5 UT",
+            "Date": null
+        }
+    ],
+    "References": "http://www.swift.ac.uk/sper",
+    "Event Type": null,
+    "Time": "17:23:30 UT",
+    "Date": null,
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift"
+}

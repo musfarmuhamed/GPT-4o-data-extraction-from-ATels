@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J161630.50+591520.6",
+            "RA": "16h 16m 30.50s",
+            "Dec": "+59d 15m 20.6s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2012-05-24.76459 UT",
+            "Date": "2012-05-24"
+        },
+        {
+            "Name": "SDSS J161630.70+591519.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/J1616+5915-MASTER-anim.gif",
+    "Event Type": "discovery",
+    "Time": "2012-05-24",
+    "Date": "2012-05-24",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "MASTER-Tunka auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

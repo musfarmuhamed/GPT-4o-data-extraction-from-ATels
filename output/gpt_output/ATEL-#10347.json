@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J141551.21-480802.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016 +/- 0.002",
+            "Type": "Type Ia SN",
+            "Time": "02:15",
+            "Date": "2017-05-02"
+        },
+        {
+            "Name": "NGC 5516",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01375",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10287",
+    "Event Type": "Optical Spectrum",
+    "Time": "02:15",
+    "Date": "2017-05-02",
+    "Telescope": "Magellan/Clay 6.5m",
+    "Instrument": "LDSS3",
+    "Observatory": "LCO"
+}

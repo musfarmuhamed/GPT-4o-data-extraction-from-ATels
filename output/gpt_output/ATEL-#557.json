@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tueller et al. (ATEL #504)",
+        "Finger, Wilson and Harmon 1996, ApJ 459, 288",
+        "Mukherjee and Paul 2005, A&A 431, 667"
+    ],
+    "Event Type": "major outburst",
+    "Time": {
+        "start": "2005-06-11",
+        "end": "2005-06-24"
+    },
+    "Date": "2005-06-03",
+    "Telescope": "Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI)",
+    "Instrument": null,
+    "Observatory": null
+}

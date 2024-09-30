@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2155-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HBL blazar",
+            "Time": "21 May 2014",
+            "Date": "21 May 2014"
+        }
+    ],
+    "References": [
+        "Kalberla, P. M. W. et al. 2005, A&A 440, 775",
+        "Abramoswki et al., 2012, A&A 539, 149",
+        "Foschini et al. 2008, A&A 484, L35"
+    ],
+    "Event Type": "flare",
+    "Time": "21 May 2014",
+    "Date": "21 May 2014",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

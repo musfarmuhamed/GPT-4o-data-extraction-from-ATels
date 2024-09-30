@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:36UT",
+            "Date": "September 29th, 2016"
+        },
+        {
+            "Name": "IGR J19566+0326",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:36UT",
+            "Date": "September 29th, 2016"
+        }
+    ],
+    "References": [
+        "Negoro et al., ATEL #9565",
+        "Cherepashchuk et al., ATEL #7506",
+        "Kennea et al., ATEL #8146"
+    ],
+    "Event Type": "new outburst",
+    "Time": "16:36UT",
+    "Date": "September 29th, 2016",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

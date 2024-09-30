@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ezd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0181",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-06-17.97"
+        },
+        {
+            "Name": "SN 2017faw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-06-30.26"
+        },
+        {
+            "Name": "SN 2017frr",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-07-27.23"
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova candidates",
+    "Time": null,
+    "Date": "2017-06-28",
+    "Telescope": "2.3-m ANU",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory"
+}

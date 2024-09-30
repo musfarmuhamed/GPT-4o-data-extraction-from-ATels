@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +50.11",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "2014-01-29"
+        },
+        {
+            "Name": "NRAO 150",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "2014-02-02"
+        }
+    ],
+    "References": "ATel #5838",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": "2014-01-29",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

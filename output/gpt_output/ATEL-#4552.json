@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J21450963+1006126",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027536",
+            "Type": "Type II supernova",
+            "Time": "06.82",
+            "Date": "Nov. 06"
+        }
+    ],
+    "References": [
+        {
+            "authors": "Falco et al.",
+            "year": 1999,
+            "journal": "PASP",
+            "volume": 111,
+            "page": 438,
+            "source": "NED database"
+        },
+        {
+            "authors": "Baron et al.",
+            "year": 2000,
+            "journal": "ApJ",
+            "volume": 545,
+            "page": 444
+        },
+        {
+            "authors": "Elmhamdi et al.",
+            "year": 2003,
+            "journal": "MNRAS",
+            "volume": 338,
+            "page": 939
+        },
+        {
+            "authors": "Harutyunyan et al.",
+            "year": 2008,
+            "journal": "A.Ap.",
+            "volume": 488,
+            "page": 383
+        },
+        {
+            "authors": "Blondin and Tonry",
+            "year": 2007,
+            "journal": "Ap.J.",
+            "volume": 666,
+            "page": 1024
+        }
+    ],
+    "Event Type": null,
+    "Time": "06.82",
+    "Date": "Nov. 06",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

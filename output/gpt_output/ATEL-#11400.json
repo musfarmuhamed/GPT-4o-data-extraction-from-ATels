@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "17:47-18:12 UT",
+            "Date": "2018-03-11"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "17:47-18:12 UT",
+            "Date": "2018-03-11"
+        }
+    ],
+    "References": "T. Kawamuro et al. (ATel #11399)",
+    "Event Type": null,
+    "Time": "17:47-18:12 UT",
+    "Date": "2018-03-11",
+    "Telescope": "iTelescope.Net T32",
+    "Instrument": "0.43-m f/6.8 reflector + CCD",
+    "Observatory": "Siding Spring, Australia"
+}

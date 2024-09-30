@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080227:113034-130905",
+            "RA": "11:30:33.955",
+            "Dec": "+13:09:05.26",
+            "redshift": "0.082",
+            "Type": "Supernova",
+            "Time": "07:58:40.64",
+            "Date": "2008-02-27"
+        },
+        {
+            "Name": "CSS080227:112633--100210",
+            "RA": "11:26:33.979",
+            "Dec": "-10:02:10.18",
+            "redshift": null,
+            "Type": "Dwarf nova variable",
+            "Time": "09:01:30.17",
+            "Date": "2008-02-27"
+        },
+        {
+            "Name": "CSS080227:160549-192717",
+            "RA": "16:05:49.166",
+            "Dec": "+19:27:17.24",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "12:02:29.10",
+            "Date": "2008-02-27"
+        }
+    ],
+    "References": [
+        "http://voeventnet.caltech.edu/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "Detection of optical transients",
+    "Time": null,
+    "Date": "2008-02-27",
+    "Telescope": "Mt. Bigelow 0.7m Catalina Schmidt Telescope",
+    "Instrument": "CSS",
+    "Observatory": "Mt. Bigelow"
+}

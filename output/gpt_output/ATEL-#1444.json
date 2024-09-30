@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11215-5952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "00:16:42 UT",
+            "Date": "2008-03-25"
+        },
+        {
+            "Name": "IGR J11215-5952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "00:26:47 UT",
+            "Date": "2008-03-27"
+        }
+    ],
+    "References": "Sidoli et al. 2006, A&A,450,L9; Smith et al. 2006, ATel #766; Romano et al. 2007, ATel #1151; Sidoli et al. 2007, A&A,476,1307",
+    "Event Type": "Observation",
+    "Time": [
+        "00:16:42 UT",
+        "00:26:47 UT"
+    ],
+    "Date": [
+        "2008-03-25",
+        "2008-03-27"
+    ],
+    "Telescope": "Swift/XRT",
+    "Instrument": "X-Ray Telescope",
+    "Observatory": "Swift"
+}

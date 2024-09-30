@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17nhp",
+            "RA": "09:41:30.91",
+            "Dec": "-11:11:58.16",
+            "redshift": 0.05,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2017 Nov 26"
+        },
+        {
+            "Name": "ASASSN-17pp",
+            "RA": "09:16:44.88",
+            "Dec": "+18:57:16.09",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "-1",
+            "Date": "2017 Nov 26"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2017 Nov 26",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR) telescope"
+}

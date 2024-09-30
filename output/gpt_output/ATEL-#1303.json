@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MXB 0656-072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1281",
+        "ATEL #1293"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": {
+        "before_outburst": "JD 2454402-2454406",
+        "during_outburst": "JD 2454421"
+    },
+    "Telescope": "2.16m telescope",
+    "Instrument": null,
+    "Observatory": "Xinglong station, National Astronomical Observatories, Chinese Academy of Sciences"
+}

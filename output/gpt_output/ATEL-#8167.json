@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15X3kxu",
+            "RA": "02:25:03.19",
+            "Dec": "-05:32:30.9",
+            "redshift": 0.345,
+            "Type": "Ia",
+            "Time": "At max",
+            "Date": "2015 Oct 10"
+        },
+        {
+            "Name": "DES15X3itc",
+            "RA": "02:26:25.58",
+            "Dec": "-04:09:18.6",
+            "redshift": 0.338,
+            "Type": "Ia",
+            "Time": "+2-5 days post max",
+            "Date": "2015 Oct 10"
+        },
+        {
+            "Name": "DES15X3iv",
+            "RA": "02:23:13.19",
+            "Dec": "-04:31:02.0",
+            "redshift": 0.018,
+            "Type": "Ia",
+            "Time": "1 month post max",
+            "Date": "2015 Oct 10"
+        },
+        {
+            "Name": "DES15C3efn",
+            "RA": "03:30:59.18",
+            "Dec": "-28:10:04.6",
+            "redshift": 0.077,
+            "Type": "Ia",
+            "Time": "2 weeks post max",
+            "Date": "2015 Oct 10"
+        },
+        {
+            "Name": "DES15E1kvp",
+            "RA": "00:32:44.90",
+            "Dec": "-43:34:36.9",
+            "redshift": 0.442,
+            "Type": "Ia",
+            "Time": "At max",
+            "Date": "2015 Oct 11"
+        },
+        {
+            "Name": "DES15X1ith",
+            "RA": "02:17:08.52",
+            "Dec": "-04:17:53.4",
+            "redshift": 0.16,
+            "Type": "Ia",
+            "Time": "1 week post max",
+            "Date": "2015 Oct 11"
+        }
+    ],
+    "References": [
+        "ATEL #4668",
+        "Saunders et al. 2004, SPIE, 5492, 389",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell and Wang, 2002, BAAS, 34, 1256",
+        "ATEL #7907",
+        "ATEL #7913"
+    ],
+    "Event Type": "Spectroscopic Classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph and the 2dF fibre positioner",
+    "Observatory": "OzDES"
+}

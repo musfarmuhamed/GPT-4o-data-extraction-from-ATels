@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-SN-007",
+            "RA": "03 01 13.44",
+            "Dec": "-75 01 16.1",
+            "redshift": "0.059438",
+            "Type": "Ia",
+            "Time": "around a month after maximum",
+            "Date": "20120730"
+        },
+        {
+            "Name": "OGLE-2012-SN-032",
+            "RA": "05 22 08.05",
+            "Dec": "-66 09 47.2",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": "around maximum",
+            "Date": "20121104"
+        },
+        {
+            "Name": "PSN J05005007-3839114",
+            "RA": "05 00 50.07",
+            "Dec": "-38 39 11.4",
+            "redshift": "0.055969",
+            "Type": "Ia",
+            "Time": "3-4 weeks after maximum",
+            "Date": "20121122"
+        },
+        {
+            "Name": "PSN J10565746-1417378",
+            "RA": "10 56 57.46",
+            "Dec": "-14 17 37.8",
+            "redshift": "0.015497",
+            "Type": "Ic",
+            "Time": "about a week before maximum",
+            "Date": "20121122"
+        },
+        {
+            "Name": "PSN J01140746-3239077",
+            "RA": "01 14 07.46",
+            "Dec": "-32 39 07.7",
+            "redshift": "0.012",
+            "Type": "Ia",
+            "Time": "a few days before maximum",
+            "Date": "20121120"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org",
+    "Event Type": "Supernova classifications",
+    "Time": "Null",
+    "Date": "20121122",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

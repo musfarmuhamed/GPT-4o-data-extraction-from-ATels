@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bc",
+            "RA": "04:06:14.64",
+            "Dec": "-08:53:08.28",
+            "redshift": "0.036715",
+            "Type": "supernova",
+            "Time": "2015-01-16.31",
+            "Date": "2015-01-16"
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": "2015-01-16.31",
+    "Date": "2015-01-16",
+    "Telescope": [
+        "quadruple 14-cm 'Brutus' telescope",
+        "RCOS 51-cm telescope",
+        "Planewave CDK 0.61-m telescope",
+        "30-cm telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "New Mexico",
+        "Sierra Remote Observatory",
+        "Mt. Vernon Observatory"
+    ]
+}

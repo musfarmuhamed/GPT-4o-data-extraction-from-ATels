@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "epsilon AUR",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "F0 Ia or A9 Ia",
+            "Time": null,
+            "Date": "July 17th to September 28th 2009"
+        },
+        {
+            "Name": "lambda AUR",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "July 17th to September 28th 2009"
+        },
+        {
+            "Name": "phi CAS",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "F0 Ia standard star",
+            "Time": null,
+            "Date": "July 10th to September 7th 2009"
+        }
+    ],
+    "References": [
+        "Saito & Kitamura 1986, Ap&SS 122, 387",
+        "Blanco et al., 1970, USNO Pub. 21, 178",
+        "Torres-Dodgen & Weaver 1993, PASP 105, 693"
+    ],
+    "Event Type": "Eclipse observation and photometry",
+    "Time": null,
+    "Date": "July 10th to September 28th 2009",
+    "Telescope": "0.30-m f/10 telescope",
+    "Instrument": "SSP-5A photometer and Sbig DSS-7 spectrometer + ST9-XE CCD camera",
+    "Observatory": "OAC"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT",
+            "RA": "11h 44m 44.53s",
+            "Dec": "+32d 30m 11s.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:06:07.2",
+            "Date": "2011-12-11"
+        },
+        {
+            "Name": "A",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1",
+            "Type": "galaxy-like",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/OT114444+323011/OT114444+323011.html",
+    "Event Type": "OT Source Discovery",
+    "Time": "21:06:07.2",
+    "Date": "2011-12-11",
+    "Telescope": "MASTER II, 6-m telescope",
+    "Instrument": "SCORPIO-2 focal reducer",
+    "Observatory": "Special Astrophysical Observatory, Russia"
+}

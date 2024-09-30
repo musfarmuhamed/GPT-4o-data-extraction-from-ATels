@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OH17.7-2.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "proto-planetary nebula",
+            "Time": "during the receiver commissioning",
+            "Date": "2013 Feb 11"
+        },
+        {
+            "Name": "IRAS18276-1431",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "proto-planetary nebula",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V445 Sct",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "proto-planetary nebula",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sanchez Contreras et al., 2007, ApJ, 656, 1150",
+        "Bains et al., 2003, MNRAS, 338, 287",
+        "Nyman et al., 1986, AA, 160, 352",
+        "Engels, 2002, AA, 388, 252"
+    ],
+    "Event Type": "water maser detection",
+    "Time": "during the receiver commissioning",
+    "Date": "2013 Feb 11",
+    "Telescope": "Torun 32m radio telescope",
+    "Instrument": "new K-band receiver",
+    "Observatory": "Torun"
+}

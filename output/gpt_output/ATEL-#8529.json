@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032 (IGR J19566+0326)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "08:27",
+            "Date": "2016-01-07"
+        }
+    ],
+    "References": [
+        "ATel. #7504",
+        "#7506",
+        "#8143",
+        "#8146",
+        "#8149",
+        "#8197"
+    ],
+    "Event Type": "short-term X-ray activity",
+    "Time": "08:27",
+    "Date": "2016-01-07",
+    "Telescope": "MAXI nova-alert system",
+    "Instrument": [
+        "MAXI/GSC"
+    ],
+    "Observatory": "MAXI"
+}

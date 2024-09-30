@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00h42m07.99s",
+            "Dec": "+40d55m01.1s",
+            "redshift": null,
+            "Type": "stellar merger",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER J004207.99+405501.1",
+            "RA": "00h42m07.99s",
+            "Dec": "+40d55m01.1s",
+            "redshift": null,
+            "Type": "stellar merger",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shumkov et al. ATEL #6911",
+        "Wagner et al. ATEL #7208",
+        "Adams et al. ATEL #7485",
+        "Pessev et al. ATEL #7272; Williams et al. 2015"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool",
+    "Instrument": "IO:O camera",
+    "Observatory": null
+}

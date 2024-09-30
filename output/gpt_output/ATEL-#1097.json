@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source #1",
+            "RA": "20 20 43.4",
+            "Dec": "+36 49 27.8",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "5.5 ks",
+            "Date": "November 8, 2006"
+        },
+        {
+            "Name": "Source #2",
+            "RA": "20 20 34.7",
+            "Dec": "+36 50 57.1",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "5.5 ks",
+            "Date": "November 8, 2006"
+        },
+        {
+            "Name": "Source #3",
+            "RA": "20 19 40.8",
+            "Dec": "+36 45 02.1",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "5.5 ks",
+            "Date": "November 8, 2006"
+        }
+    ],
+    "References": "Abdo et al. 2007 (astroph.0705.0707)",
+    "Event Type": null,
+    "Time": "5.5 ks",
+    "Date": "November 8, 2006",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15lj",
+            "RA": "10:23:11.98",
+            "Dec": "+07:54:46.9",
+            "redshift": "0.150",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150213"
+        },
+        {
+            "Name": "LSQ15mc",
+            "RA": "10:15:01.45",
+            "Dec": "-17:15:09.9",
+            "redshift": "0.053",
+            "Type": "II",
+            "Time": null,
+            "Date": "20150215"
+        },
+        {
+            "Name": "LSQ15mj",
+            "RA": "15:32:52.11",
+            "Dec": "-15:16:54.3",
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": null,
+            "Date": "20150216"
+        },
+        {
+            "Name": "PS15aw",
+            "RA": "12:39:18.20",
+            "Dec": "-00:58:03.9",
+            "redshift": "0.085",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150215"
+        },
+        {
+            "Name": "CSS141223-113342+004332/PS15ae",
+            "RA": "11:33:41.57",
+            "Dec": "+00:43:32.2",
+            "redshift": "0.11",
+            "Type": "SLSN Ic",
+            "Time": null,
+            "Date": "20141223"
+        },
+        {
+            "Name": "PSNJ19235601-5955321",
+            "RA": "19:23:56.01",
+            "Dec": "-59:55:32.0",
+            "redshift": "0.013",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150216"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Smartt et al., ATel #5850",
+        "Drake et al. 2009, 696, 870"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2015-02-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

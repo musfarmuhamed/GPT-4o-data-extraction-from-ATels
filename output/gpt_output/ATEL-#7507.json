@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jb",
+            "RA": "11:20:06.399",
+            "Dec": "+34:07:43.00",
+            "redshift": "0.035661",
+            "Type": "supernova",
+            "Time": "UT 2015-05-13.37",
+            "Date": "2015-05-13"
+        },
+        {
+            "Name": "2MASX J11200680+3407396",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NED",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery",
+    "Time": "UT 2015-05-13.37",
+    "Date": "2015-05-13",
+    "Telescope": "Brutus telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

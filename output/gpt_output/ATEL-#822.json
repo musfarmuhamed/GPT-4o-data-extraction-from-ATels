@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20060520-007",
+            "RA": "14:33:56.76",
+            "Dec": "+03:47:55.6",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "May 20.3 UT",
+            "Date": "2006-05-20"
+        },
+        {
+            "Name": "SNF20060520-011",
+            "RA": "16:19:48.80",
+            "Dec": "-10:03:25.2",
+            "redshift": 0.025,
+            "Type": "II",
+            "Time": "May 20.4 UT",
+            "Date": "2006-05-20"
+        }
+    ],
+    "References": null,
+    "Event Type": "supernova discovery",
+    "Time": "May 20.3 UT",
+    "Date": "2006-05-20",
+    "Telescope": "Palomar Oschin 48-inch",
+    "Instrument": "QUEST II camera",
+    "Observatory": "Palomar Observatory"
+}

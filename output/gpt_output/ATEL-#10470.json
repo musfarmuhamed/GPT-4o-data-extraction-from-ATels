@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J230148.65+411904.2",
+            "RA": "23h 01m 48.65s",
+            "Dec": "+41d 19m 04.2s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "23:24:32.336,23:18:32.825",
+            "Date": "2017-06-04"
+        },
+        {
+            "Name": "MASTER OT J132501.0+431846.1",
+            "RA": "13h 25m 01.0s",
+            "Dec": "+43d 18m 46.1s",
+            "redshift": null,
+            "Type": "high amplitude (>7m) new dwarf nova outburst",
+            "Time": "22:55:12.053",
+            "Date": "2017-06-05"
+        },
+        {
+            "Name": "MASTER OT J090351.95+575403.0",
+            "RA": "09h 03m 51.95s",
+            "Dec": "+57d 54m 03.0s",
+            "redshift": null,
+            "Type": "preliminary UVCet type",
+            "Time": null,
+            "Date": "2017-06-05"
+        },
+        {
+            "Name": "MASTER OT J233638.01-582227.1",
+            "RA": "23h 36m 38.01s",
+            "Dec": "-58d 22m 27.1s",
+            "redshift": null,
+            "Type": "UVCet type",
+            "Time": "00:20:10.565, 00:23:53.377, 00:27:34.305",
+            "Date": "2017-05-30"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT",
+    "Event Type": "short GRB",
+    "Time": "14:28:05.09",
+    "Date": "2017-06-04",
+    "Telescope": "MASTER-Kislovodsk, MASTER-IAC, MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

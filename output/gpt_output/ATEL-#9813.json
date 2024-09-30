@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16dyi",
+            "RA": "10:24:10.70",
+            "Dec": "+43:24:24.73",
+            "redshift": 0.024,
+            "Type": "IIp",
+            "Time": "+4 d",
+            "Date": "2016 Nov 30"
+        },
+        {
+            "Name": "ATLAS16dyh",
+            "RA": "11:36:21.83",
+            "Dec": "+44:40:05.54",
+            "redshift": 0.059,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2016 Nov 30"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2016 Nov 30",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

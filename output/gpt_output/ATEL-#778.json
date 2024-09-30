@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17254-3257",
+            "RA": "17h25m27s",
+            "Dec": "-32d57'50''",
+            "redshift": null,
+            "Type": "type I X-ray burst",
+            "Time": "19:44:00",
+            "Date": "Feb 17, 2004"
+        },
+        {
+            "Name": "1RXS J172525.5-325717",
+            "RA": "17h25m27s",
+            "Dec": "-32d57'50''",
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "J.B. Stephen et al., A&A 432, L49, 2005",
+    "Event Type": "type I X-ray burst",
+    "Time": "19:44:00",
+    "Date": "Feb 17, 2004",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X X-ray monitor",
+    "Observatory": null
+}

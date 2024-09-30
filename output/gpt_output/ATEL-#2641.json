@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C+21.35",
+            "RA": "185.597558",
+            "Dec": "21.656435",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1222+21",
+            "RA": "12h 25m 1.72s",
+            "Dec": "21h 24m 29.8s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #2021, #2348, #2349, #2584, #2617, #2626",
+    "Event Type": "gamma-ray flux detection",
+    "Time": "14:30 UT to 05:22 UT",
+    "Date": "2010-05-23 to 2010-05-26",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

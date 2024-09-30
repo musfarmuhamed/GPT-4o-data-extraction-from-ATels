@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1620.1-5002",
+            "RA": "245.03",
+            "Dec": "-50.01",
+            "redshift": null,
+            "Type": "candidate magnetically accreting white dwarf",
+            "Time": "15:06:58",
+            "Date": "2018-01-29"
+        },
+        {
+            "Name": "MAXI J1621-501",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-10"
+        }
+    ],
+    "References": "ATel #10869, Degenaar et al. 2012 A&A, 540, 22, Gemma et al. 2014, ApJSS, 212, 13",
+    "Event Type": "X-ray transient detection",
+    "Time": "15:06:58",
+    "Date": "2018-01-29",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": "INTEGRAL observatory"
+}

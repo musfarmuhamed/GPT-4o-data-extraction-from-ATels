@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J073252.76+292953.0",
+            "RA": "07h 32m 52.76s",
+            "Dec": "+29d 29m 53.0s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2013-12-23.88166 UT",
+            "Date": "2013-12-23"
+        },
+        {
+            "Name": "SDSS J073252.61+292958.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J07325276+2929530",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J084319.20+480131.5",
+            "RA": "08h 43m 19.20s",
+            "Dec": "+48d 01m 31.5s",
+            "redshift": null,
+            "Type": "flaring red dwarf",
+            "Time": "2013-12-23.91519 UT",
+            "Date": "2013-12-23"
+        },
+        {
+            "Name": "SDSS J084319.19+480132.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J073252+292953-MASTER-Kislovodsk.jpg, http://master.sai.msu.ru/static/OT/073252.76292953.0.png, http://master.sai.msu.ru/static/OT/084319.20480131.5.png",
+    "Event Type": "Optical Transients discovery",
+    "Time": "2013-12-23",
+    "Date": "2013-12-23",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

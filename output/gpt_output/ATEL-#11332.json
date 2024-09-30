@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSO J181334.004-093159.456",
+            "RA": "18:13:34.015",
+            "Dec": "-09:31:59.20",
+            "redshift": null,
+            "Type": null,
+            "Time": "09:18 UT",
+            "Date": "February 22nd"
+        },
+        {
+            "Name": "PSO J181333.964-093158.045",
+            "RA": "18:13:33.970",
+            "Dec": "-09:31:57.94",
+            "redshift": null,
+            "Type": null,
+            "Time": "09:18 UT",
+            "Date": "February 22nd"
+        }
+    ],
+    "References": [
+        "Kawase et al. 2018, ATel #11323",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Kennea et al. 2018, ATel #11326",
+        "PanSTARRS DR1 (https://panstarrs.stsci.edu)"
+    ],
+    "Event Type": "New transient",
+    "Time": "09:18 UT",
+    "Date": "February 22nd",
+    "Telescope": "MPG 2.2m telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory"
+}

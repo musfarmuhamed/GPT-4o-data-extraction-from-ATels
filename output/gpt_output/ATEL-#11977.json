@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J014523.44+210208.2",
+            "RA": "01h 45m 23.44s",
+            "Dec": "+21d 02m 08.2s",
+            "redshift": null,
+            "Type": "preliminary dwarf nova outburst",
+            "Time": "21:27:26/22:19:25 UT",
+            "Date": "2018-08-21"
+        }
+    ],
+    "References": [
+        {
+            "Image DateTime": "2014-10-21 00:00:00",
+            "Magnitude Limit": 20.2,
+            "Telescope": "MASTER-Kislovodsk"
+        },
+        {
+            "Image DateTime": "2014-11-14 15:23:18",
+            "Magnitude Limit": 20.3,
+            "Telescope": "MASTER-Tunka"
+        },
+        {
+            "Image DateTime": "2016-09-28 03:21:49",
+            "Magnitude Limit": 20.5,
+            "Telescope": "MASTER-IAC"
+        },
+        {
+            "Image DateTime": "2015-08-16 05:14:10",
+            "Magnitude Limit": 20.5,
+            "Telescope": "MASTER-IAC"
+        },
+        {
+            "Image DateTime": "2016-08-06 02:27:11",
+            "Magnitude Limit": 20.1,
+            "Telescope": "MASTER-SAAO"
+        }
+    ],
+    "Event Type": "OT with ampl>4.6m",
+    "Time": "21:27:26/22:19:25 UT",
+    "Date": "2018-08-21",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

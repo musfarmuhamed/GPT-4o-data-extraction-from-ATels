@@ -1,0 +1,103 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER J231043.82+265220.2",
+            "RA": "23h 10m 43.82s",
+            "Dec": "+26d 52m 20.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-09-17.48176 UT",
+            "Date": "2012-09-17"
+        },
+        {
+            "Name": "SDSS J231044.01+265228.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OT MASTER J013223.46+474752.8",
+            "RA": "01h 32m 23.46s",
+            "Dec": "+47d 47m 52.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-09-16.95323 UT",
+            "Date": "2012-09-16"
+        },
+        {
+            "Name": "OT MASTER J013058.75+482135.0",
+            "RA": "01h 30m 58.75s",
+            "Dec": "+48d 21m 35.0s",
+            "redshift": null,
+            "Type": "PSN or CV?",
+            "Time": "2012-09-16.93247 UT",
+            "Date": "2012-09-16"
+        },
+        {
+            "Name": "SDSS J013059.05+482134.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J013058.46+482136.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OT MASTER J021352.35-071208.9",
+            "RA": "02h 13m 52.35s",
+            "Dec": "-07d 12m 08.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-09-18.01832 UT",
+            "Date": "2012-09-18"
+        },
+        {
+            "Name": "SDSS8 J021352.29-071211.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Time": "2011-08-25.71939 UT",
+            "Date": "2011-08-25"
+        },
+        {
+            "Time": "2011-10-30.95304 UT",
+            "Date": "2011-10-30"
+        },
+        {
+            "Time": "2011-10-30.95304 UT",
+            "Date": "2011-10-30"
+        },
+        {
+            "Time": "2011-12-16.72034 UT",
+            "Date": "2011-12-16"
+        }
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": null,
+    "Observatory": [
+        "Amur",
+        "Kislovodsk"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J180409.47-761337.3",
+            "RA": "18h 04m 09.47s",
+            "Dec": "-76d 13m 37.3s",
+            "redshift": null,
+            "Type": "dwarf nova?",
+            "Time": "2017-06-30.81575 UT",
+            "Date": "2017-06-30"
+        },
+        {
+            "Name": "MASTER OT J035348.19-704040.5",
+            "RA": "03h 53m 48.19s",
+            "Dec": "-70d 40m 40.5s",
+            "redshift": null,
+            "Type": "blue OT (dwarf nova?)",
+            "Time": "2017-06-24.12387 UT",
+            "Date": "2017-06-24"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": null
+}

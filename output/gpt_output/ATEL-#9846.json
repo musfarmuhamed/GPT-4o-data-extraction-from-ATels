@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J081340.07-830140.1",
+            "RA": "08h 13m 40.07s",
+            "Dec": "-83d 01m 40.1s",
+            "redshift": null,
+            "Type": "bright short optical transient",
+            "Time": "06:02:56, 05:44:43 UT",
+            "Date": "2016-12-11"
+        },
+        {
+            "Name": "MASTER OT J135709.65-453910.9",
+            "RA": "13h 57m 09.65s",
+            "Dec": "-45d 39m 10.9s",
+            "redshift": null,
+            "Type": "new dwarf nova outburst",
+            "Time": "00:00:00 UT",
+            "Date": "2016-12-06, 2016-12-08, 2016-12-10"
+        },
+        {
+            "Name": "MASTER OT J024502.93-360752.6",
+            "RA": "02h 45m 02.93s",
+            "Dec": "-36d 07m 52.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00:00 UT",
+            "Date": "2016-12-02"
+        },
+        {
+            "Name": "MASTER OT J205106.57+424355.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young stellar object",
+            "Time": "00:00:00 UT",
+            "Date": "2016-12-05"
+        },
+        {
+            "Name": "MASTER OT J134046.06-525242.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young stellar object",
+            "Time": "00:00:00 UT",
+            "Date": "2016-12-02"
+        }
+    ],
+    "References": {
+        "MASTER OT J081340.07-830140.1": "2016-10-25.20573",
+        "MASTER OT J135709.65-453910.9": [
+            "2015-06-21.74311",
+            "2016-09-17 17:35:22"
+        ],
+        "MASTER OT J024502.93-360752.6": "not available",
+        "MASTER OT J205106.57+424355.8": "2016-08-27 20:52:03",
+        "MASTER OT J134046.06-525242.3": "2016-10-10 23:54:55"
+    },
+    "Event Type": "detection, discovery",
+    "Time": "varies",
+    "Date": "2016-12",
+    "Telescope": "MASTER-OAFA, MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": null
+}

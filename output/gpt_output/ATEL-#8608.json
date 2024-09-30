@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016wq",
+            "RA": "05:14:45.14",
+            "Dec": "-14:26:49.2",
+            "redshift": "0.044",
+            "Type": "SNII",
+            "Time": "~+100",
+            "Date": "2016-01-24"
+        },
+        {
+            "Name": "OGLE16ahz",
+            "RA": "06:15:07.10",
+            "Dec": "-64:30:04.7",
+            "redshift": "0.11",
+            "Type": "SNIa",
+            "Time": "~max",
+            "Date": "2016-01-15"
+        },
+        {
+            "Name": "SN2016vv",
+            "RA": "13:29:20.57",
+            "Dec": "+12:13:36.5",
+            "redshift": "0.11",
+            "Type": "SNIa",
+            "Time": "~max",
+            "Date": "2016-01-20"
+        },
+        {
+            "Name": "SN2016sr",
+            "RA": "13:46:52.20",
+            "Dec": "+07:23:49.4",
+            "redshift": "0.024",
+            "Type": "SNII",
+            "Time": "~+270",
+            "Date": "2016-01-20"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Atel #8577"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "NA",
+    "Date": "2016-01-29",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

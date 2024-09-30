@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": "05:45 UT",
+            "Date": "2013-06-09"
+        }
+    ],
+    "References": [
+        "https://science.nrao.edu/enews/5.10/index.shtml#g2_encounter",
+        "https://science.nrao.edu/science/service-observing"
+    ],
+    "Event Type": "Monitoring",
+    "Time": "05:45 UT",
+    "Date": "2013-06-09",
+    "Telescope": "Very Large Array",
+    "Instrument": "VLA CASA pipeline",
+    "Observatory": "NRAO"
+}

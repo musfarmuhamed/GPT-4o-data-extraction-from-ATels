@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER 022011.63-531848.9",
+            "RA": "02h 20m 11.63s",
+            "Dec": "-53d 18m 48.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2015-10-06.03044 UT",
+            "Date": "2015-10-06"
+        },
+        {
+            "Name": "MASTER OT J095045.47-300121.6",
+            "RA": "09h 50m 45.47s",
+            "Dec": "-30d 01m 21.6s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2015-10-06.11071 UT",
+            "Date": "2015-10-06"
+        },
+        {
+            "Name": "MASTER OT J030825.67-510254.3",
+            "RA": "03h 08m 25.67s",
+            "Dec": "-51d 02m 54.3s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2015-10-06.03791 UT",
+            "Date": "2015-10-06"
+        },
+        {
+            "Name": "MASTER OT J164126.34-193729.2",
+            "RA": "16h 41m 26.34s",
+            "Dec": "-19d 37m 29.2s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2015-10-06.75594 UT",
+            "Date": "2015-10-06"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

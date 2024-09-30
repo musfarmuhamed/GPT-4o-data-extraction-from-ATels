@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": "Jan 01.01 UT - Jan 02.00 UT",
+            "Date": "2018"
+        }
+    ],
+    "References": [
+        "#11116",
+        "#11117",
+        "#11118",
+        "#11121",
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "Henze et al. 2015b",
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Darnley et al. 2016",
+        "Keel et al. 2017"
+    ],
+    "Event Type": "Optical photometric observations",
+    "Time": "Jan 01.01 UT - Jan 02.00 UT",
+    "Date": "2018",
+    "Telescope": "Jacobus Kapteyn Telescope",
+    "Instrument": "ARC CCD camera",
+    "Observatory": "Roque de los Muchachos, La Palma, Spain"
+}

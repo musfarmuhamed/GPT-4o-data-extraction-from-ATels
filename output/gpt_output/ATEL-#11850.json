@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IceCube-171106A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:39:39.21",
+            "Date": "2017-11-06"
+        },
+        {
+            "Name": "J223810.3+072413",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Taboada et al.  GCN 22105",
+        "Lipunov et al. GCN #22945",
+        "Keivani et al. ATEL #10942"
+    ],
+    "Event Type": "IceCube EHE event",
+    "Time": "18:39:39.21",
+    "Date": "2017-11-06",
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-IAC (Tenerife)",
+        "MASTER-SAAO (South Africa)",
+        "MASTER-Kislovodsk (Russia)",
+        "MASTER-Tavrida (Russia)"
+    ]
+}

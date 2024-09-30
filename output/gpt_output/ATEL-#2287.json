@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0043.2+4127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent X-ray transient",
+            "Time": "19.1 ks",
+            "Date": "2009-11-07"
+        },
+        {
+            "Name": "CXO J004317.8+412745",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent X-ray transient",
+            "Time": "19.1 ks",
+            "Date": "2009-11-07"
+        },
+        {
+            "Name": "Swift J004159.3+410539",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2009-11-07"
+        }
+    ],
+    "References": "Trudolyubov & Priedorsky 2004, ApJ 616, 821; Supper et al. (2001, A&A 373, 63); ATel #2262",
+    "Event Type": "Discovery",
+    "Time": "2009-11-07.227 UT",
+    "Date": "2009-11-07",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": null
+}

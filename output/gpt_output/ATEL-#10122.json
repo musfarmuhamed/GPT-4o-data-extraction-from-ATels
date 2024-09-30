@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17cr",
+            "RA": "16:23:49.85",
+            "Dec": "+15:04:48.31",
+            "redshift": "0.034419",
+            "Type": "Transient",
+            "Time": "UT 2017-02-20.64",
+            "Date": "2017-02-20"
+        },
+        {
+            "Name": "SDSS J162349.91+150448.3",
+            "RA": "16:23:49.91",
+            "Dec": "+15:04:48.3",
+            "redshift": "0.034419",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014, Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "Discovery",
+    "Time": "UT 2017-02-20.64",
+    "Date": "2017-02-20",
+    "Telescope": "'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

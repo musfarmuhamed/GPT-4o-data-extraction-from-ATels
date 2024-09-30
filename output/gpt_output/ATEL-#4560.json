@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J202857.00+211533.2",
+            "RA": "20h 28m 57.00s",
+            "Dec": "+21d 15m 33.2s",
+            "redshift": null,
+            "Type": "flare of OH maser",
+            "Time": "13:15:26.000",
+            "Date": "2012-11-06"
+        },
+        {
+            "Name": "IRAS 20267+2105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J20285710+2115370",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "reference image without OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:37:33.000",
+            "Date": "2011-08-31"
+        },
+        {
+            "Name": "2nd epoch Palomar red plates - below plate limit",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "1990-09-15"
+        },
+        {
+            "Name": "2nd epoch Palomar red plates - R=18.56",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "1992-08-31"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

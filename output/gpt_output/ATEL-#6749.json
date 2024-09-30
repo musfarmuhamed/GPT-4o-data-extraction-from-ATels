@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jz",
+            "RA": "18 44 44.34",
+            "Dec": "-52 48 05.4",
+            "redshift": "0.012",
+            "Type": "Ia",
+            "Time": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+            "Date": "2014-11-24"
+        },
+        {
+            "Name": "LSQ14gfc",
+            "RA": "03 33 07.94",
+            "Dec": "-33 06 55.9",
+            "redshift": "0.125",
+            "Type": "Ia",
+            "Time": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+            "Date": "2014-11-24"
+        },
+        {
+            "Name": "LSQ14gfb",
+            "RA": "05 10 05.76",
+            "Dec": "-36 18 43.5",
+            "redshift": "0.050",
+            "Type": "Ia",
+            "Time": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+            "Date": "2014-11-24"
+        },
+        {
+            "Name": "ASASSN-14ko",
+            "RA": "05 25 18.13",
+            "Dec": "-46 00 20.3",
+            "redshift": "0.042",
+            "Type": "IIn",
+            "Time": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+            "Date": "2014-11-24"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+        "GELATO (Harutyunyan et al., 2008, A&A, 488, 383)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Date": "2014-11-24",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

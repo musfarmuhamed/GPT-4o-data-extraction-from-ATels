@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-IIn supernova",
+            "Time": "05:32:41",
+            "Date": "2012-09-26"
+        }
+    ],
+    "References": [
+        "Smith, Atel#4412",
+        "Margutti et al., Atel #4414",
+        "Martin et al., Atel #4416",
+        "Breeveld et al. 2011, arXiv:1102.4717",
+        "Schlegel et al. 1998",
+        "Brimacombe in the I-band (Atel # 4423)",
+        "Kalberla 2005"
+    ],
+    "Event Type": "re-brightening",
+    "Time": "05:32:41",
+    "Date": "2012-09-26",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

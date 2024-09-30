@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J004420.1+413702",
+            "RA": "00:44:20.12",
+            "Dec": "+41:37:02.1",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2008 May 28.11 UT",
+            "Date": "2008 May 28"
+        },
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard source",
+            "Time": "2008 May 26.30 UT",
+            "Date": "2008 May 26"
+        },
+        {
+            "Name": "XMMU J004241.2+411821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard source",
+            "Time": "2008 May 26.70 UT",
+            "Date": "2008 May 26"
+        },
+        {
+            "Name": "M31N 2007-06b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pietsch et al. 2005, A&A 434, 483",
+        "Supper et al. 2001, A&A 373, 63",
+        "Supper et al. 1997, A&A 317, 328",
+        "White et al. 2000, http://wgacat.gsfc.nasa.gov/wgacat/wgacat.html",
+        "http://www.xray.mpe.mpg.de/rosat/rra/roshri/",
+        "Zacharias et al. 2003, 2005",
+        "ATels #1647, #1658, #1118, #1294, #1333, #1344"
+    ],
+    "Event Type": "Detection of X-ray transients and related sources",
+    "Time": [
+        "2008 May 25",
+        "2008 May 28.11 UT",
+        "2008 May 26.30 UT",
+        "2008 May 26.70 UT"
+    ],
+    "Date": [
+        "from 2008 May 25 to July 26",
+        "2008 May 28",
+        "2008 May 26",
+        "2008 May 26"
+    ],
+    "Telescope": "Swift satellite",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": "M 31"
+}

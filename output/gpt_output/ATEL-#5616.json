@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASDB2",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Object",
+            "Time": "17:45 to 18:46 UT",
+            "Date": "2013 Nov. 28"
+        },
+        {
+            "Name": "TA29DCF",
+            "RA": "07 48 24.5",
+            "Dec": "-07 04 03",
+            "redshift": "Null",
+            "Type": "Man-made Object (RadioAstron upper stage)",
+            "Time": "17:00 UT",
+            "Date": "2013 Nov. 28"
+        }
+    ],
+    "References": [
+        "ATel #5610",
+        "Minor Planet Mailing List message [MPML 29194]",
+        "DASO Circulars"
+    ],
+    "Event Type": "Detection",
+    "Time": "17:45 to 18:46 UT",
+    "Date": "2013 Nov. 28",
+    "Telescope": "MASTER-Amur robotic telescope",
+    "Instrument": "Null",
+    "Observatory": "MASTER-Amur"
+}

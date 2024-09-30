@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15kx",
+            "RA": "22:16:11.81",
+            "Dec": "+37:28:26.12",
+            "redshift": 0.018019,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "2015-06-10.57"
+        },
+        {
+            "Name": "PGC 068459",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018019,
+            "Type": "galaxy",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": "ASAS-SN Homepage and the list of all ASAS-SN transients",
+    "Event Type": "transient",
+    "Time": [
+        "2015-06-10.57",
+        "2015-06-11.410"
+    ],
+    "Date": "2015-06-10.57",
+    "Telescope": [
+        "Brutus telescope",
+        "LCOGT 1-m robotic telescope"
+    ],
+    "Instrument": "Unknown",
+    "Observatory": "McDonald Observatory"
+}

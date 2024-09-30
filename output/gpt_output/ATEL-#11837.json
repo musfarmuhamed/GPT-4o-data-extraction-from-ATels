@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ll",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ibn",
+            "Time": "2018-06-17.28",
+            "Date": "2018-06-17"
+        },
+        {
+            "Name": "ASASSN-18ll",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ibn",
+            "Time": "2018-07-06.23",
+            "Date": "2018-07-06"
+        },
+        {
+            "Name": "ASASSN-18od",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018229",
+            "Type": "Ia",
+            "Time": "2018-07-06.42",
+            "Date": "2018-07-06"
+        }
+    ],
+    "References": [
+        "ATel #11686",
+        "ATel #11832"
+    ],
+    "Event Type": "Supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

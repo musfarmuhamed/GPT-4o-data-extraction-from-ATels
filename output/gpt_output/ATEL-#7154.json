@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2015-SN-060",
+            "RA": "04:06:21.84",
+            "Dec": "-78:09:15.5",
+            "redshift": 0.081,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-02-26"
+        },
+        {
+            "Name": "SNHiTS15I",
+            "RA": "10:25:27.63",
+            "Dec": "+01:20:52.3",
+            "redshift": 0.15,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-02-26"
+        },
+        {
+            "Name": "SNHiTS15J",
+            "RA": "09:47:05.67",
+            "Dec": "+02:31:49.8",
+            "redshift": 0.108,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-02-26"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299 http://www.pessto.org",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "Forster et al., ATel #5949"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2015-02-26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

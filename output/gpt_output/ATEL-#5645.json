@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13des",
+            "RA": "03 25 18.82",
+            "Dec": "-23 42 33.4",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ13div",
+            "RA": "04 27 42.55",
+            "Dec": "-32 44 34.1",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Hadjiyska et al., ATel #3812; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013 December 8",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

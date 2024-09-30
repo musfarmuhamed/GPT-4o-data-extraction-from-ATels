@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J060938.37-582158.2",
+            "RA": "06h 09m 38.37s",
+            "Dec": "-58d 21m 58.2s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-10-05.07265 UT",
+            "Date": "2015-10-05"
+        },
+        {
+            "Name": "MASTER OT J031121.54-601851.0",
+            "RA": "03h 11m 21.54s",
+            "Dec": "-60d 18m 51.0s",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "2015-10-05.03351 UT",
+            "Date": "2015-10-05"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-04-08.77456 UT",
+            "LimitMagnitude": 20.6
+        },
+        {
+            "Date": "2015-07-03, 2015-03-26, 2015-02-09, 2015-01-04",
+            "OT_m": "17.0"
+        }
+    ],
+    "Event Type": [
+        "dwarf nova outburst",
+        "optical transient"
+    ],
+    "Time": [
+        "2015-10-05.07265 UT",
+        "2015-10-05.03351 UT"
+    ],
+    "Date": "2015-10-05",
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15bci",
+            "RA": "01:15:03.27",
+            "Dec": "-31:47:09.5",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-09-30"
+        },
+        {
+            "Name": "ASASSN-15qc",
+            "RA": "00:39:18.04",
+            "Dec": "+03:56:59.6",
+            "redshift": 0.0176,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-10-01"
+        },
+        {
+            "Name": "OGLE15iy",
+            "RA": "05:04:34.21",
+            "Dec": "-73:49:27.0",
+            "redshift": 0.045,
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2015-09-26"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "Shappee et al. 2014, ApJ, 788, 48 and http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2015-10-04",
+    "Date": "2015-10-04",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "ESO at La Silla"
+}

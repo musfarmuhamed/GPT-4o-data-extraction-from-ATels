@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "0FGL J0449.7-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 0447-439",
+            "RA": "04h49m24.7s",
+            "Dec": "-43d50'09''",
+            "redshift": "0.2",
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 0447-439",
+            "RA": "04h49m24.7s",
+            "Dec": "-43d50'09''",
+            "redshift": "0.107",
+            "Type": "Seyfert 1 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al. 2009, ApJ 700, 597",
+        "Perlman et al. 1998, ApJ 115, 1253",
+        "Craig & Fruscione 1997, AJ, 114, 4"
+    ],
+    "Event Type": "very-high energy (VHE; E>100 GeV) gamma-ray emission discovery",
+    "Time": "12h",
+    "Date": "between November 10 and December 16, 2009",
+    "Telescope": "H.E.S.S. imaging atmospheric Cherenkov telescope array",
+    "Instrument": null,
+    "Observatory": "Khomas highlands in Namibia"
+}

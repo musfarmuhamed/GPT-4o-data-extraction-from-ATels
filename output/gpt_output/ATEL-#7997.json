@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15oz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.007,
+            "Type": "Type II SN 1999gi one week after explosion",
+            "Time": 4.5,
+            "Date": "2015-09-04"
+        },
+        {
+            "Name": "ASASSN-15os",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039,
+            "Type": "Type Ia SN 1998bu 12 days after maximum light",
+            "Time": 4.6,
+            "Date": "2015-09-04"
+        }
+    ],
+    "References": [
+        "ATel #7989",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Meyer et al. 2004, MNRAS, 350, 1195, via SIMBAD",
+        "Chugai, Chevalier, & Utrobin 2007, ApJ, 662, 1136",
+        "Valenti et al. 2014, MNRAS, 438, L101",
+        "ATel #7941"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "robotic FLOYDS instrument",
+    "Observatory": null
+}

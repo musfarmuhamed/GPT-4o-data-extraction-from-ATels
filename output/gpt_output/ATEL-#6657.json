@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14fvy",
+            "RA": "05 29 06.07",
+            "Dec": "-35 11 38.2",
+            "redshift": 0.057,
+            "Type": "Ia-norm",
+            "Time": "unknown",
+            "Date": "20141011"
+        },
+        {
+            "Name": "LSQ14gac",
+            "RA": "03 45 39.82",
+            "Dec": "-32 07 04.5",
+            "redshift": 0.072,
+            "Type": "Ib",
+            "Time": "unknown",
+            "Date": "20141023"
+        },
+        {
+            "Name": "CSS141028-081814+044553",
+            "RA": "08 18 13.89",
+            "Dec": "+04 45 52.6",
+            "redshift": 0.009,
+            "Type": "Ib",
+            "Time": "unknown",
+            "Date": "20141028"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org; Baltay et al., PASP, 2013, 125, 683; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2014-11-01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

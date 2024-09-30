@@ -1,0 +1,107 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425563+4114125",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-05-31.445",
+                "2013-05-31.470",
+                "2013-06-01.455",
+                "2013-06-01.469"
+            ],
+            "Date": [
+                "2013-05-31",
+                "2013-05-31",
+                "2013-06-01",
+                "2013-06-01"
+            ]
+        },
+        {
+            "Name": "PNV J00424351+4116196",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-05-31.445",
+                "2013-05-31.470"
+            ],
+            "Date": [
+                "2013-05-31",
+                "2013-05-31"
+            ]
+        },
+        {
+            "Name": "PNV J00425838+4118556",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-05-31.445",
+                "2013-05-31.470",
+                "2013-06-01.455"
+            ],
+            "Date": [
+                "2013-05-31",
+                "2013-05-31",
+                "2013-06-01"
+            ]
+        },
+        {
+            "Name": "PNV J00425469+4110257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-06-01.455",
+                "2013-06-01.469"
+            ],
+            "Date": [
+                "2013-06-01",
+                "2013-06-01"
+            ]
+        },
+        {
+            "Name": "PNV J00425509+4115560",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-05-31.445",
+                "2013-05-31.470"
+            ],
+            "Date": [
+                "2013-05-31",
+                "2013-05-31"
+            ]
+        },
+        {
+            "Name": "PNV J00424629+4113517",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2013-05-31.445",
+                "2013-05-31.470"
+            ],
+            "Date": [
+                "2013-05-31",
+                "2013-05-31"
+            ]
+        }
+    ],
+    "References": "ATel #4833, #4913, #4962, #5091, #5092",
+    "Event Type": "nova candidate discoveries",
+    "Time": "May 31.43 - June 1.48 UT",
+    "Date": "2013-05-31 to 2013-06-01",
+    "Telescope": "3.5-m WIYN telescope",
+    "Instrument": "pODI",
+    "Observatory": "Kitt Peak"
+}

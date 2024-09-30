@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:31",
+            "Date": "2013-04-12"
+        },
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:42",
+            "Date": "2013-04-12"
+        }
+    ],
+    "References": [
+        "ATel #4974",
+        "ATel #4976",
+        "ATel #4977",
+        "MAXI transient email alert ID = 6394252311",
+        "PASJ 62, L55, 2010"
+    ],
+    "Event Type": "Flare",
+    "Time": null,
+    "Date": "2013-04-11 to 2013-04-13",
+    "Telescope": [
+        "NuSTAR",
+        "MAGIC",
+        "VERITAS",
+        "Fermi-LAT",
+        "Swift-XRT",
+        "MAXI-GSC"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

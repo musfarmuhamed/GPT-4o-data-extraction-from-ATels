@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017egm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "H-stripped SLSN",
+            "Time": "22:52:39.0",
+            "Date": "June 29"
+        },
+        {
+            "Name": "NGC3191",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10442",
+        "#10498",
+        "#10499",
+        "#10503",
+        "#10531",
+        "#10537",
+        "#10538",
+        "Nicholl et al. 2017 arXiv:1706.08517",
+        "White et al. 1997"
+    ],
+    "Event Type": "Observation",
+    "Time": "22:52:39.0",
+    "Date": "June 29",
+    "Telescope": "Karl G. Jansky Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": null
+}

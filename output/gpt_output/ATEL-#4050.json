@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J180408.9-342058",
+            "RA": "271.020",
+            "Dec": "-34.344",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "08:37:09",
+            "Date": "2012-04-16"
+        }
+    ],
+    "References": [
+        {
+            "Title": "ATel #438",
+            "Authors": "Kuulkers et al.",
+            "Journal": "A&A",
+            "Volume": "466",
+            "Page": "595",
+            "Year": 2007
+        },
+        {
+            "Title": "ApJS 179, 360",
+            "Authors": "Galloway et al.",
+            "Year": 2008
+        },
+        {
+            "Title": "A&A 349, 389",
+            "Authors": "Voges et al.",
+            "Year": 1999
+        },
+        {
+            "Title": "A&A 399, 663",
+            "Authors": "Kuulkers et al.",
+            "Year": 2003
+        }
+    ],
+    "Event Type": "Type I (thermonuclear) X-ray burst",
+    "Time": "08:37:09",
+    "Date": "2012-04-16",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": null
+}

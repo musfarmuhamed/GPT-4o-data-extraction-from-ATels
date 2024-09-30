@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TT Ari",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "July 6, 7"
+        }
+    ],
+    "References": [
+        "vsnet-alert 11316",
+        "Goetz 1985, IBVS 2823",
+        "Efimov et al., 1998, BCrAO, 94, 115",
+        "Kim et al., 2009&A, 496, 765",
+        "Andronov, 2003, ASPC, 292, 391"
+    ],
+    "Event Type": "simultaneous X-ray/optical observations",
+    "Time": null,
+    "Date": "July 6, 7",
+    "Telescope": [
+        "two 40-cm telescopes in Ukraine (V filter)",
+        "Greece (no filter, i.e. 'wide R')"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Ukraine",
+        "Greece"
+    ]
+}

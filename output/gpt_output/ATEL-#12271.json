@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018HCO",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TDE candidate",
+            "Time": "2018-12-03.8",
+            "Date": "2018-12-03"
+        }
+    ],
+    "References": [
+        "ATel #12263",
+        "TNS Report No. 23352",
+        "Zwart et al. 2008",
+        "Hickish et al. 2018",
+        "Perrott et al. 2015"
+    ],
+    "Event Type": "Observation",
+    "Time": "4 hours",
+    "Date": "2018-12-03",
+    "Telescope": "Arcminute Microkelvin Imager Large Array (AMI-LA)",
+    "Instrument": "custom pipeline REDUCE_DC",
+    "Observatory": "MRAO"
+}

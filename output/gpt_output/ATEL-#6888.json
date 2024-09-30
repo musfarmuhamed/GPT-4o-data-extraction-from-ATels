@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150316.62-421827.5",
+            "RA": "15h 03m 16.62s",
+            "Dec": "-42d 18m 27.5s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2015-01-08.07747 UT",
+            "Date": "2015-01-08"
+        },
+        {
+            "Name": "MASTER OT J150316.62-421827.5",
+            "RA": "15h 03m 16.62s",
+            "Dec": "-42d 18m 27.5s",
+            "redshift": null,
+            "Type": "New CV",
+            "Time": "2015-01-08.07747 UT",
+            "Date": "2015-01-08"
+        },
+        {
+            "Name": "MASTER OT J182948.42+554255.9",
+            "RA": "18h 29m 48.42s",
+            "Dec": "+55d 42m 55.9s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2015-01-08.94564 UT",
+            "Date": "2015-01-08"
+        }
+    ],
+    "References": "We have reference image without OT on 2015-01-01.09128 UT with unfiltered magnitude limit 19.2m. We have reference image without OT on 2011-10-01.53238 UT with unfiltered magnitude limit 19.9m. There is GALEX-DR5 and AllWISE object with 3 arcsec offset.",
+    "Event Type": "Discovery",
+    "Time": "Varies (15h 03m 16.62s, 18h 29m 48.42s)",
+    "Date": "2015-01-08",
+    "Telescope": "MASTER-SAAO, MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Net"
+}

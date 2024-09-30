@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J06280368+7418338",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017652",
+            "Type": "IIP",
+            "Time": "2015-09-06.091",
+            "Date": "2015-09-02.100"
+        }
+    ],
+    "References": [
+        {
+            "Source": "Tomasella et al. 2014, AN, 335, 841",
+            "URL": "http://www.rochesterastronomy.org/snimages/"
+        },
+        {
+            "Source": "CBAT Transient Object Followup Reports",
+            "URL": "http://www.cbat.eps.harvard.edu/index.html"
+        },
+        {
+            "Source": "RC3, via NED",
+            "URL": null
+        }
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "2015-09-06.091",
+    "Date": "2015-09-02.100",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

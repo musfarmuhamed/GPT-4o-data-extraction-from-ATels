@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1855-026",
+            "RA": 283.87685,
+            "Dec": -2.60516,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "01:18 to 17:33 UT",
+            "Date": "2008-11-19"
+        }
+    ],
+    "References": [
+        "Goad et al. 2007, A&A, 476, 1401",
+        "Corbet & Mukai 2002, ApJ 577, 923",
+        "Verrecchia et al (ATel #102)"
+    ],
+    "Event Type": "Observation",
+    "Time": "01:18 to 17:33 UT",
+    "Date": "2008-11-19",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

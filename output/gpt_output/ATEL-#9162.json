@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sco 2016",
+            "RA": "17:38:19.22",
+            "Dec": "-37:25:07.8",
+            "redshift": null,
+            "Type": "Fe II",
+            "Time": "10.629",
+            "Date": "2016-06-10"
+        },
+        {
+            "Name": "2MASS star J17381931-3725087",
+            "RA": "17:38:19.32",
+            "Dec": "-37:25:08.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET 4285, Banerjee and Ashok, BASI, 40, 243, Das et al. 2008, MNRAS, 391, 1874",
+    "Event Type": "Nova Outburst",
+    "Time": "10.629",
+    "Date": "2016-06-10",
+    "Telescope": "1.2m Mount Abu telescope",
+    "Instrument": "NICS imager-spectrograph",
+    "Observatory": "Mount Abu Observatory"
+}

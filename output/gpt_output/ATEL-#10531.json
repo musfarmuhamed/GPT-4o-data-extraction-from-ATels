@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova 2017egm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-June-16 - June-24"
+        },
+        {
+            "Name": "NGC 3191",
+            "RA": "10 19 05.04",
+            "Dec": "46 27 17.0",
+            "redshift": null,
+            "Type": "star forming region",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "TNS Astronomical Transient Report No 11679",
+            "Reference": "Delgado et al."
+        },
+        {
+            "Title": "ATel #10498",
+            "Reference": null
+        },
+        {
+            "Title": "ATel #10499",
+            "Reference": "Grupe et al."
+        },
+        {
+            "Title": "Evans et al. 2007",
+            "Reference": null
+        },
+        {
+            "Title": "Goad et al. 2007",
+            "Reference": null
+        }
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "26048s",
+    "Date": "2017-June-16 - June-24",
+    "Telescope": "Swift",
+    "Instrument": "Swift XRT",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

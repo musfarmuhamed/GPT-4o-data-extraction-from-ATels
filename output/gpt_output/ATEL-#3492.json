@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11gdh",
+            "RA": "13 00 38.06",
+            "Dec": "+28 03 24.2",
+            "redshift": "0.026151",
+            "Type": "SN Ia",
+            "Time": "Jun 21.19 2011",
+            "Date": "2011-06-21"
+        },
+        {
+            "Name": "PTF11gjh",
+            "RA": "16 32 13.82",
+            "Dec": "+38 39 20.3",
+            "redshift": "0.0393",
+            "Type": "SN Ia",
+            "Time": "Jun 25.22 2011",
+            "Date": "2011-06-25"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": "Jul 05 2011",
+    "Date": "2011-07-05",
+    "Telescope": "Lick 3-m",
+    "Instrument": "KAST",
+    "Observatory": "Lick Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J015516.98+405606.5",
+            "RA": "09h 36m 50.26s",
+            "Dec": "+27d 53m 37.3s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2012-12-12.08302 UT",
+            "Date": "2012-12-12"
+        },
+        {
+            "Name": "SDSS galaxy J093650.28+275334.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/093650.26275337.4.png",
+    "Event Type": "OT source",
+    "Time": "2012-12-12.08302 UT",
+    "Date": "2012-12-12",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Kislovodsk auto-detection system"
+}

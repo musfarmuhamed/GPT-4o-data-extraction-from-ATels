@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0507+17",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.416,
+            "Type": "quasar",
+            "Time": "NIR",
+            "Date": "December 11th, 2012"
+        },
+        {
+            "Name": "1FGL J0510.0+1800",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#4424",
+        "#4528",
+        "#4531",
+        "#4546"
+    ],
+    "Event Type": "NIR rebrightening",
+    "Time": "epoch JD2456272.916366",
+    "Date": "December 11th, 2012",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

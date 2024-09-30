@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Transient",
+            "Time": "22:00 UTC",
+            "Date": "July 5"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Transient",
+            "Time": "22:00 UTC",
+            "Date": "July 5"
+        }
+    ],
+    "References": "ATel #11820, Heil et al., MNRAS, 448, 3339 (2015), Fender et al., MNRAS, 396,1370 (2009)",
+    "Event Type": "State Transition",
+    "Time": "22:00 UTC",
+    "Date": "July 5",
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

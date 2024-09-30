@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J111725.04+293457.6",
+            "RA": "11h 17m 25.04s",
+            "Dec": "+29d 34m 57.6s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-04-03.80535 UT",
+            "Date": "2014-04-03"
+        },
+        {
+            "Name": "MASTER OT J161143.92+194436.5",
+            "RA": "16h 11m 43.92s",
+            "Dec": "+19d 44m 36.5s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-04-06.96306 UT",
+            "Date": "2014-04-06"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/111725.04293457.6.png, http://master.sai.msu.ru/static/OT/161143.92194436.5.png",
+    "Event Type": "Optical Transients discovered by MASTER Global",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray burst",
+            "Time": "02:57:43",
+            "Date": "2009-10-09"
+        },
+        {
+            "Name": "Null",
+            "RA": "294.3635",
+            "Dec": "-23.7796",
+            "redshift": "Null",
+            "Type": "X-ray burst",
+            "Time": "02:57:43",
+            "Date": "2009-10-09"
+        }
+    ],
+    "References": [
+        "Suzuki et al. PASJ 2007",
+        "Falanga et al. A&A 2008",
+        "Watts et al., ATel #2004"
+    ],
+    "Event Type": "Detection of type I X-ray burst",
+    "Time": "02:57:43",
+    "Date": "2009-10-09",
+    "Telescope": "SuperAGILE",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

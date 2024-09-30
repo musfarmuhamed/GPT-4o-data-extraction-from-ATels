@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER 185737.57+684156.9",
+            "RA": "18h 57m 37.57s",
+            "Dec": "+68d 41m 56.9s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare",
+            "Time": "2015-04-28.96310 UT",
+            "Date": "2015-04-28"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Publication": "Advances in Astronomy, MASTER Global Robotic Net, 2010",
+            "Images": "http://master.sai.msu.ru/static/OT/185737.57684156.9_3.png",
+            "Reference Date": "2010-05-13.93987 UT",
+            "Magnitude": "20.6 unfiltered magnitude limit",
+            "Instrument Observations": [
+                "MASTER-Kislovodsk",
+                "MASTER-Tunka"
+            ]
+        }
+    ],
+    "Event Type": "OT source",
+    "Time": "2015-04-28.96310 UT",
+    "Date": "2015-04-28",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

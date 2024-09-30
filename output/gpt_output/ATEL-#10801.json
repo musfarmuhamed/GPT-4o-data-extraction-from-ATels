@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IceCube-170922A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutrino",
+            "Time": "20:54:30.43",
+            "Date": "17/09/22"
+        },
+        {
+            "Name": "3FGL J0509.4+0541",
+            "RA": "77.13",
+            "Dec": "4.79",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2017-09-18"
+        },
+        {
+            "Name": "Galactic coordinates",
+            "RA": "196.1",
+            "Dec": "-20.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IceCube-160731",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutrino",
+            "Time": null,
+            "Date": "2016-07-31"
+        }
+    ],
+    "References": [
+        "https://gcn.gsfc.nasa.gov/gcn3/21916.gcn3",
+        "ATel #10791",
+        "Lucarelli et al., ApJ 846 (2017)",
+        "ATel #6457"
+    ],
+    "Event Type": "Gamma-ray activity",
+    "Time": "20:54:30.43",
+    "Date": "17/09/22",
+    "Telescope": "AGILE-GRID",
+    "Instrument": null,
+    "Observatory": "AGILE"
+}

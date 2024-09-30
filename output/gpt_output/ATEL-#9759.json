@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ne",
+            "RA": "11 43 39.42",
+            "Dec": "-10 16 11.2",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova with outburst amplitude more than 6m)",
+            "Time": null,
+            "Date": "2016-11-05"
+        },
+        {
+            "Name": "USNO-B1.0 0797-0223782",
+            "RA": "11 43 41.0",
+            "Dec": "-10 15 50",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al., 2014; Henden et al., 2016; S. Pravdo et al.",
+    "Event Type": "rapidly rising optical transient",
+    "Time": "07:54:51; 08:10:26; 08:26:37",
+    "Date": "2002-03-23",
+    "Telescope": "iTelescope.Net's T21",
+    "Instrument": "0.43-m f/6.8 reflector equipped with 6-Mpix FLI CCD and f/4.5 focal reducer",
+    "Observatory": "Mayhill (New Mexico, USA)"
+}

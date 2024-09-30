@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14axu",
+            "RA": "14 45 11.86",
+            "Dec": "-19 58 52.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "Night",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "LSQ14ayl",
+            "RA": "12 57 35.20",
+            "Dec": "-14 36 31.7",
+            "redshift": "0.06",
+            "Type": "Ic",
+            "Time": "Night",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "LSQ14azl",
+            "RA": "14 17 33.44",
+            "Dec": "-30 10 20.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "Night",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "LSQ14bdg",
+            "RA": "19 52 59.51",
+            "Dec": "-58 48 42.3",
+            "redshift": "0.070",
+            "Type": "Ia",
+            "Time": "+1d",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "LSQ14bdw",
+            "RA": "15 24 47.92",
+            "Dec": "-13 16 02.4",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": "-3d",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "SNhunt241",
+            "RA": "14 19 28.91",
+            "Dec": "-05 37 36.0",
+            "redshift": "0.035",
+            "Type": "II",
+            "Time": "2-3 weeks past explosion",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "CSS140407:170408+090904",
+            "RA": "17 04 08.38",
+            "Dec": "+09 09 04.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "Night",
+            "Date": "2014 April 22"
+        },
+        {
+            "Name": "CSS140421:142042+031602",
+            "RA": "14 20 41.71",
+            "Dec": "+03 16 01.5",
+            "redshift": "0.07",
+            "Type": "Ibn",
+            "Time": "2 weeks after maximum",
+            "Date": "2014 April 22"
+        }
+    ],
+    "References": [
+        "Valenti et al.",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "Night",
+    "Date": "2014 April 22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

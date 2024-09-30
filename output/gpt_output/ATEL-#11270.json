@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "2018-02-06",
+            "Date": "07:25:58.47"
+        },
+        {
+            "Name": "PSR J1647-4552",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "2018-02-06",
+            "Date": "12:33:36.17"
+        }
+    ],
+    "References": [
+        "GCN #22389",
+        "ATel #11264",
+        "GCN #22402"
+    ],
+    "Event Type": "Short Bursts",
+    "Time": [
+        "2018-02-06 07:25:58.47",
+        "2018-02-06 12:33:36.17"
+    ],
+    "Date": "2018-02-06",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "ISGRI"
+    ],
+    "Observatory": "ESA's INTEGRAL"
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:52:35",
+            "Date": "2017-10-05"
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": "17:48:52.34",
+            "Dec": "-20:21:32.2",
+            "redshift": null,
+            "Type": "transient X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 6440 CX1",
+            "RA": "17:48:52.34",
+            "Dec": "-20:21:32.2",
+            "redshift": null,
+            "Type": "transient X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 6440 CX3",
+            "RA": "17:48:52.34",
+            "Dec": "-20:21:32.2",
+            "redshift": null,
+            "Type": "quiescent X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Altamirano et al., 2008, ApJ, 674, 45A",
+        "Pooley et al. 2002, ApJ, 573, 184",
+        "Bahramian et al. 2015, MNRAS 452, 3475"
+    ],
+    "Event Type": "enhanced X-ray brightness",
+    "Time": "18:52:35",
+    "Date": "2017-10-05",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15qd",
+            "RA": "19215012",
+            "Dec": "+1509248",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": "2015-10-01.29"
+        },
+        {
+            "Name": "PNV J19215012+1509248",
+            "RA": "19215012",
+            "Dec": "+1509248",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": "2015-10-05.5566"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2015, ATel #8126",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J19215012+1509248.html",
+        "http://otobs.org/FBO/etc/asassn-15qd.png",
+        "http://kws.cetus-net.org/~maehara/VSdata.py?object=192150%2B1509.4&resolver=&plot=1&obs_ys=2015&obs_ms=09&obs_ds=01&obs_ye=&obs_me=&obs_de=&submit=Send+query"
+    ],
+    "Event Type": "Spectroscopic Identification",
+    "Time": "2015-10-05.598",
+    "Date": "2015-10-05",
+    "Telescope": "40-cm telescope",
+    "Instrument": null,
+    "Observatory": "Fujii Kurosaki Observatory, Oakayama, Japan"
+}

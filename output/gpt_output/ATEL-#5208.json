@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0516.3+1928",
+            "RA": "05h 16m 22.7s",
+            "Dec": "+19\u00b0 27' 11\"",
+            "redshift": "0.0187",
+            "Type": "Seyfert 2 galaxy",
+            "Time": "null",
+            "Date": "null"
+        },
+        {
+            "Name": "Swift J1852.8+3002",
+            "RA": "null",
+            "Dec": "null",
+            "redshift": "0.057",
+            "Type": "type 1.9 Seyfert galaxy",
+            "Time": "null",
+            "Date": "null"
+        },
+        {
+            "Name": "Swift J2124.6+0500",
+            "RA": "21h 24m 12.44s",
+            "Dec": "+05\u00b0 02' 43.6\"",
+            "redshift": "0",
+            "Type": "probable LMXB",
+            "Time": "null",
+            "Date": "null"
+        },
+        {
+            "Name": "Swift J2157.4\u22120615",
+            "RA": "21h 57m 26.7s",
+            "Dec": "\u221206\u00b0 10' 19\"",
+            "redshift": "0.176",
+            "Type": "broad-lined QSO",
+            "Time": "null",
+            "Date": "null"
+        }
+    ],
+    "References": [
+        "Baumgartner et al. 2012",
+        "Lutovinov et al. 2013",
+        "Lampton et al. 1997",
+        "Berger & Fringant 1984"
+    ],
+    "Event Type": "Spectroscopic classifications",
+    "Time": "null",
+    "Date": "2013 July 4",
+    "Telescope": "MDM Observatory 2.4m Hiltner telescope",
+    "Instrument": "Boller and Chivens CCD spectrograph",
+    "Observatory": "MDM Observatory"
+}

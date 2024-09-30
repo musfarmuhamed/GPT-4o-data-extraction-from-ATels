@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1734.5-3027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic X-ray transient",
+            "Time": [
+                {
+                    "Event": "Long outburst",
+                    "Start": "May 13 2013",
+                    "Peak": "May 30 2013",
+                    "End": "June 12 2013"
+                },
+                {
+                    "Event": "Fainter outburst",
+                    "Start": "April 10 2013",
+                    "Peak": null,
+                    "End": "April 22 2013"
+                }
+            ],
+            "Date": [
+                "May 13 2013",
+                "April 10 2013"
+            ]
+        }
+    ],
+    "References": [
+        "ATel# 5354",
+        "GCN #15157",
+        "GCN #15172",
+        "ATel #5361"
+    ],
+    "Event Type": "X-ray transient outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "BAT",
+    "Instrument": null,
+    "Observatory": "Swift"
+}

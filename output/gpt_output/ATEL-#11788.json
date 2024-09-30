@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "18:38 UTC",
+            "Date": "2018-06-22"
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "ATel #11775",
+        "ATel #11739",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "observation",
+    "Time": "18:38 UTC",
+    "Date": "2018-06-22",
+    "Telescope": "INTEGRAL, NuSTAR, Swift",
+    "Instrument": "IBIS/ISGRI, XRT",
+    "Observatory": "INTEGRAL, NuSTAR, Swift"
+}

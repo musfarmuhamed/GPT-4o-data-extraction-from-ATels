@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15db",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "GAIA 15aay",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.023",
+            "Type": "IIP",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "GAIA 15aba",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.046",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "GAIA 15abu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.075",
+            "Type": "Ia-pec",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "GAIA 15aby",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.079",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "PSN J11495885+2119018",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026",
+            "Type": "Ia-91bg",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        },
+        {
+            "Name": "PSN J10234760+3348477",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": "IIb?",
+            "Time": null,
+            "Date": "February 15 and 16 UT"
+        }
+    ],
+    "References": [
+        "ATel #7078",
+        "GAIA Alert",
+        "CBAT TOCP",
+        "ATel #7086"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "February 15 and 16 UT",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

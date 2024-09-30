@@ -1,0 +1,105 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HSC-SN15ay",
+            "RA": "21:09:10.32",
+            "Dec": "-01:01:11.2",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15az",
+            "RA": "21:10:41.47",
+            "Dec": "-01:40:52.0",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15ba",
+            "RA": "21:12:33.25",
+            "Dec": "-01:04:24.7",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bb",
+            "RA": "21:12:39.03",
+            "Dec": "-00:59:00.8",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bc",
+            "RA": "21:12:45.71",
+            "Dec": "-00:49:02.3",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bd",
+            "RA": "21:31:59.14",
+            "Dec": "+10:02:06.3",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15be",
+            "RA": "21:32:08.06",
+            "Dec": "+09:39:46.4",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bf",
+            "RA": "23:22:57.69",
+            "Dec": "+28:09:20.4",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bg",
+            "RA": "23:24:01.71",
+            "Dec": "+28:23:28.8",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        },
+        {
+            "Name": "HSC-SN15bh",
+            "RA": "23:25:55.00",
+            "Dec": "+28:29:56.3",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-08-19"
+        }
+    ],
+    "References": [
+        "Toyota Foundation",
+        "JST CREST",
+        "JSPS Grants-in-Aid for Scientific Research (15H05440, 25800103, 15H02075)"
+    ],
+    "Event Type": "Supernova discovery",
+    "Time": null,
+    "Date": "2015-08-19",
+    "Telescope": "Subaru",
+    "Instrument": "Hyper Suprime-Cam (HSC)",
+    "Observatory": "Subaru Observatory"
+}

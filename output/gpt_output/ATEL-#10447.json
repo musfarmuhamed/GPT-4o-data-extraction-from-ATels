@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05511-1218",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "X-ray Bright, Optically Normal Galaxy",
+            "Time": "2400s",
+            "Date": "February 20, 2017"
+        },
+        {
+            "Name": "LEDA 148076",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "X-ray Bright, Optically Normal Galaxy",
+            "Time": "2400s",
+            "Date": "February 20, 2017"
+        },
+        {
+            "Name": "IGR J07072-1227",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.071,
+            "Type": "Seyfert 2 galaxy",
+            "Time": "5400s",
+            "Date": "March 30, 2017"
+        },
+        {
+            "Name": "IGR J17259+2603",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.597,
+            "Type": "Type 1 QSO",
+            "Time": null,
+            "Date": "March 17, 2017"
+        },
+        {
+            "Name": "IGR J21095+4322",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "Cataclysmic Variable",
+            "Time": null,
+            "Date": "October 2, 2016"
+        },
+        {
+            "Name": "2MASS J21092386+4319371",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "Cataclysmic Variable",
+            "Time": null,
+            "Date": "October 2, 2016"
+        }
+    ],
+    "References": [
+        "ATel #10363",
+        "ATel #10364"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "1.5m 'Cassini'",
+        "2.1m telescope"
+    ],
+    "Instrument": [
+        "BFOSC",
+        "B&C spectrograph"
+    ],
+    "Observatory": [
+        "Loiano, Italy",
+        "San Pedro Martir Observatory, Mexico"
+    ]
+}

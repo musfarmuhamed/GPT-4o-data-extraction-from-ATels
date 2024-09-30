@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J165616.5-330209",
+            "RA": "16 56 16.56",
+            "Dec": "-33 02 09.3",
+            "redshift": null,
+            "Type": "x-ray source",
+            "Time": "03:32:01",
+            "Date": "2006-06-09"
+        },
+        {
+            "Name": "SWIFT J165557.5-325944",
+            "RA": "16 55 57.50",
+            "Dec": "-32 59 44.3",
+            "redshift": null,
+            "Type": "x-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #799",
+    "Event Type": "Detection",
+    "Time": "03:32:01",
+    "Date": "2006-06-09",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J05415876+6921409",
+            "RA": "05h 41m 58.76s",
+            "Dec": "+69d 21m 40.9s",
+            "redshift": null,
+            "Type": "Type-II SN",
+            "Time": "04.86",
+            "Date": "May 04",
+            "host galaxy": "NGC 1961"
+        },
+        {
+            "Name": "PSN J13265132-1001322",
+            "RA": "13h 26m 51.32s",
+            "Dec": "-10d 01m 32.2s",
+            "redshift": null,
+            "Type": "peculiar SNIa",
+            "Time": "04.96",
+            "Date": "May 04",
+            "host galaxy": null
+        },
+        {
+            "Name": "PSN J08164900+6029285",
+            "RA": "08h 16m 49.00s",
+            "Dec": "+60d 29m 28.5s",
+            "redshift": null,
+            "Type": "SNI (likely type Ia)",
+            "Time": "05.02",
+            "Date": "May 05",
+            "host galaxy": null
+        },
+        {
+            "Name": "PSN J11355080+3417027",
+            "RA": "11h 35m 50.80s",
+            "Dec": "+34d 17m 02.7s",
+            "redshift": "0.021",
+            "Type": "SNII",
+            "Time": "04.82",
+            "Date": "May 04",
+            "host galaxy": "PGC 35860"
+        },
+        {
+            "Name": "PSN J11350174+1607168",
+            "RA": "11h 35m 01.74s",
+            "Dec": "+16d 07m 16.8s",
+            "redshift": "0.054127",
+            "Type": "SNIa",
+            "Time": "04.86",
+            "Date": "May 04",
+            "host galaxy": null
+        },
+        {
+            "Name": "PSN J11343649+5453244",
+            "RA": "11h 34m 36.49s",
+            "Dec": "+54d 53m 24.4s",
+            "redshift": null,
+            "Type": "SNII",
+            "Time": "04.90",
+            "Date": "May 04",
+            "host galaxy": "PGC 213858"
+        },
+        {
+            "Name": "PSN J17045368+0907596",
+            "RA": "17h 04m 53.68s",
+            "Dec": "+09d 07m 59.6s",
+            "redshift": "0.036",
+            "Type": "SNIa",
+            "Time": "05.06",
+            "Date": "May 05",
+            "host galaxy": null
+        }
+    ],
+    "References": [
+        "Strauss et al. 1992, ApJS, 83, 29",
+        "Haan et al. 2008, AJ, 135, 232",
+        "Quimby et al. 2007, ApJ, 666, 1093",
+        "Nicolaci da Costa et al. 1998, AJ, 116, 1",
+        "Taubenberger et al. 2011, MNRAS, 412, 2735",
+        "Huchra et al. 2012, ApJS, 199, 26",
+        "SDSS Release 5, 2006",
+        "SDSS Release 6, 2007",
+        "SDSS Data Release 3, 2004",
+        "Sahu et al. 2006, MNRAS 372, 1315",
+        "Maguire et al. 2010, MNRAS, 404, 981",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope, Asiago 1.22-m Galileo Telescope",
+    "Instrument": "AFOSC, B&C",
+    "Observatory": "Asiago"
+}

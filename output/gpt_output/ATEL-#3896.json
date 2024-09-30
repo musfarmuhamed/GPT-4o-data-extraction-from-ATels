@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J014956.7+533504",
+            "RA": "01:49:56.77",
+            "Dec": "+53:35:01.8",
+            "redshift": "null",
+            "Type": "X-ray source",
+            "Time": "null",
+            "Date": "2012-01-29"
+        },
+        {
+            "Name": "USNO-B1.0 1435-0053799",
+            "RA": "01:49:56.77",
+            "Dec": "+53:35:01.8",
+            "redshift": "null",
+            "Type": "optical object",
+            "Time": "null",
+            "Date": "2012-01-29"
+        },
+        {
+            "Name": "2MASS 01495682+5335017",
+            "RA": "01:49:56.82",
+            "Dec": "+53:35:01.7",
+            "redshift": "null",
+            "Type": "near-infrared object",
+            "Time": "null",
+            "Date": "2012-01-29"
+        }
+    ],
+    "References": [
+        "Saxton et al. 2008, A&A, 480, 611",
+        "Monet et al. 2003, AJ, 125, 984",
+        "Skrutskie et al. 2006, AJ, 131, 1163",
+        "Hog et al., 2000, A&A, 355L, 27"
+    ],
+    "Event Type": "optical flare",
+    "Time": "null",
+    "Date": "2012-01-29",
+    "Telescope": "null",
+    "Instrument": "wide-field survey camera (F=135mm f/2.0 telephoto lens equipped with ST8300M CCD)",
+    "Observatory": "Ka-Dar Observatory at Karachay-Cherkessia (MPC code C32), Russia"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14es",
+            "RA": "14:35:01.754",
+            "Dec": "+26:32:38.91",
+            "redshift": null,
+            "Type": "Transient source, most likely a supernova",
+            "Time": "UT 2014-07-27.28",
+            "Date": "2014-07-27"
+        },
+        {
+            "Name": "IC 4462",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030705",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage and the list of all ASAS-SN transients",
+    "Event Type": "Discovery of a new transient source, most likely a supernova",
+    "Time": "UT 2014-07-27.28",
+    "Date": "2014-07-27",
+    "Telescope": "Quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

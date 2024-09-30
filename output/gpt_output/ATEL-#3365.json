@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1543-564 A",
+            "RA": "15:43:17.37",
+            "Dec": "-56:24:49.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "05:06 UT",
+            "Date": "10 May 2011"
+        },
+        {
+            "Name": "MAXI J1543-564 B",
+            "RA": "15:43:17.35",
+            "Dec": "-56:24:48.1",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1543-564 C",
+            "RA": "15:43:17.22",
+            "Dec": "-56:24:48.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Greiner et al. 2008, PASP 120, 405",
+        "Negoro et al. 2011, ATEL #3330",
+        "Kennea et al. 2011, ATEL #3331",
+        "Russel et al. 2011, ATEL #3359",
+        "Miller-Jones et al., ATEL #3364",
+        "Schlegel et al. 1998",
+        "Kennea et al. 2011, ATEL #3336"
+    ],
+    "Event Type": "Transient Source Follow-up",
+    "Time": "05:06 UT",
+    "Date": "10 May 2011",
+    "Telescope": "2.2m MPI/ESO telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory"
+}

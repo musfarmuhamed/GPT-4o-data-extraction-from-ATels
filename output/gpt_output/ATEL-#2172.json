@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MGRO J0632+17",
+            "RA": "6h 32m 28s",
+            "Dec": "17d 22m",
+            "redshift": null,
+            "Type": "gamma-ray emission region",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "0FGL J0634.0+1745",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "The Geminga pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MGRO J2228+61",
+            "RA": "22h 28m 44s",
+            "Dec": "61d 10m",
+            "redshift": null,
+            "Type": "gamma-ray emission region",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "0FGL J2229.0+6114",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "The Boomerang pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al. 2009, ApJ 700:L127",
+        "Abdo et al. 2007, ApJ 664:L91",
+        "Abdo et al. 2009, erratum in press"
+    ],
+    "Event Type": "Detection of multi-TeV gamma-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Milagro",
+    "Instrument": null,
+    "Observatory": null
+}

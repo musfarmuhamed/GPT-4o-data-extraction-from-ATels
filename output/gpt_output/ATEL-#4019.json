@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CRTS Transient CSS120330:101639-064636",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0415,
+            "Type": "IIn SN 1995G",
+            "Time": "31.81",
+            "Date": "Mar. 31.81"
+        },
+        {
+            "Name": "CRTS Transient CSS120328:122417+185529",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.019,
+            "Type": "IIP SN 2004et",
+            "Time": "01.06 UT",
+            "Date": "Apr. 01.06"
+        },
+        {
+            "Name": "CRTS Transient CSS120328:152302+071141",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.066,
+            "Type": "Ia SN",
+            "Time": "01.12 UT",
+            "Date": "Apr. 01.12"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Harutyuyan et al.",
+            "Year": 2008,
+            "Journal": "A.Ap.",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Author": "Pastorello et al.",
+            "Year": 2002,
+            "Journal": "MNRAS",
+            "Volume": 333,
+            "Page": 27
+        },
+        {
+            "Author": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "Ap.J.",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15agj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient, likely supernova",
+            "Time": "05:00 UT, 21:00 UT",
+            "Date": "2015-06-03, 2015-06-09"
+        },
+        {
+            "Name": "SDSS J095058.70+375758.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.04",
+            "Type": "Active Galactic Nucleus",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NED",
+        "SIMBAD",
+        "2MASS",
+        "DSS",
+        "SDSS"
+    ],
+    "Event Type": "Transient observation",
+    "Time": "05:00 UT, 21:00 UT",
+    "Date": "2015-06-03, 2015-06-09",
+    "Telescope": "Flemish 1.2m Mercator telescope",
+    "Instrument": "Maia",
+    "Observatory": "Roque de los Muchachos observatory, La Palma, Canary Islands, Spain"
+}

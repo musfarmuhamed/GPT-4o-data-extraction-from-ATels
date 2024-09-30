@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transitional redback millisecond pulsar",
+            "Time": null,
+            "Date": "2016-04-07"
+        },
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transitional redback millisecond pulsar",
+            "Time": null,
+            "Date": "2016-04-26"
+        }
+    ],
+    "References": [
+        "Deller et al. 2012",
+        "Papitto et al. 2013"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": [
+        "2016-04-07",
+        "2016-04-26"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

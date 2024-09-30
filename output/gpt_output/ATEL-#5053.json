@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray magnetar",
+            "Time": "03:49:31",
+            "Date": "2013-05-06"
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #5006",
+        "ATels #5020",
+        "ATels #5027",
+        "ATels #5032",
+        "ATels #5033",
+        "ATels #5035",
+        "ATels #5040",
+        "ATels #5043",
+        "ATels #5046"
+    ],
+    "Event Type": null,
+    "Time": "03:49:31",
+    "Date": "2013-05-06",
+    "Telescope": "Sardinia Radio Telescope (SRT)",
+    "Instrument": "Beam Wave Guide focus cryogenically cooled receiver",
+    "Observatory": null
+}

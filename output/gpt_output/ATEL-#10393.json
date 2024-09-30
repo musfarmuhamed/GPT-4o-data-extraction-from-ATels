@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2017-05a",
+            "RA": "9h55m24.61s",
+            "Dec": "+69\u00b006'59.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03.89 UT",
+            "Date": "2017-05-03"
+        },
+        {
+            "Name": "M81N 2017-05b",
+            "RA": "9h55m38.85s",
+            "Dec": "+69\u00b005'52.0\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "14.01 UT",
+            "Date": "2017-05-14"
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2-m Liverpool Telescope (LT), 0.65-m telescope at Ondrejov (OND)",
+    "Instrument": "IO:O optical CCD camera (LT), Moravian Instruments G2-3200 CCD camera (OND)",
+    "Observatory": "Spanish Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias, Ondrejov observatory"
+}

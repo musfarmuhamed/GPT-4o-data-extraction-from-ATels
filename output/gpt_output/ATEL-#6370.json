@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": [
+                {
+                    "Value": "9ks",
+                    "Unit": "seconds"
+                },
+                {
+                    "Value": "75ks",
+                    "Unit": "seconds"
+                }
+            ],
+            "Date": [
+                "15th July 2014",
+                "28th July 2014"
+            ]
+        }
+    ],
+    "References": "GCN Circ. 16520, 16521, 16522 and 16530",
+    "Event Type": "Swift-BAT detection of a short and relatively soft burst",
+    "Time": null,
+    "Date": "15th and 28th of July 2014",
+    "Telescope": "Chandra",
+    "Instrument": [
+        {
+            "Name": "ACIS-S",
+            "Sub-array": "1/8",
+            "Mode": "TE-mode",
+            "Sampling Time": {
+                "Value": 0.44,
+                "Unit": "seconds"
+            }
+        },
+        {
+            "Name": "ACIS-S",
+            "Mode": "CC-mode",
+            "Sampling Time": {
+                "Value": 2.85,
+                "Unit": "ms"
+            }
+        }
+    ],
+    "Observatory": "Chandra"
+}

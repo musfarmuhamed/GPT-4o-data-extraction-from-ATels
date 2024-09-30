@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15acz",
+            "RA": "09:11:01.62",
+            "Dec": "+34:44:27.2",
+            "redshift": "~0.018",
+            "Type": "SN II",
+            "Time": "UT 2015 Apr. 12.0",
+            "Date": "2015-03-12"
+        },
+        {
+            "Name": "Gaia15aek",
+            "RA": "06:47:02.70",
+            "Dec": "+64:56:03.7",
+            "redshift": "~0.012",
+            "Type": "SN II",
+            "Time": [
+                "UT 2015 Apr. 9.9",
+                "UT 2015 Apr. 11.9"
+            ],
+            "Date": "2015-03-30"
+        }
+    ],
+    "References": [
+        "Harutyunyan et al, 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593",
+        "http://cosmos.esa.int/gaia",
+        "http://gaia.ac.uk/selected-gaia-science-alerts"
+    ],
+    "Event Type": "Spectroscopic Classification of Supernova",
+    "Time": {
+        "Gaia15acz": "UT 2015 Apr. 12.0",
+        "Gaia15aek": [
+            "UT 2015 Apr. 9.9",
+            "UT 2015 Apr. 11.9"
+        ]
+    },
+    "Date": {
+        "Gaia15acz": "2015-03-12",
+        "Gaia15aek": "2015-03-30"
+    },
+    "Telescope": [
+        "Nordic Optical Telescope",
+        "Liverpool Telescope"
+    ],
+    "Instrument": [
+        "ALFOSC",
+        "SPRAT"
+    ],
+    "Observatory": "Null"
+}

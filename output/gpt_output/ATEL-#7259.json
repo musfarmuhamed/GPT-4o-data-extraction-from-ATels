@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fk",
+            "RA": "05:40:12.18",
+            "Dec": "-38:48:42.51",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2015-03-19.12",
+            "Date": "2015-03-19"
+        },
+        {
+            "Name": "2MASX J05401415-3848285",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035972",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Transient Discovery",
+    "Time": "2015-03-19.12",
+    "Date": "2015-03-19",
+    "Telescope": "Cassius",
+    "Instrument": "Double 14-cm",
+    "Observatory": "Cerro Tololo, Chile"
+}

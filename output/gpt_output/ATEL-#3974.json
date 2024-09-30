@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12axx",
+            "RA": "08:17:50.67",
+            "Dec": "-05:43:11.1",
+            "redshift": "0.0399",
+            "Type": "Ib",
+            "Time": "08.083",
+            "Date": "Mar 08"
+        },
+        {
+            "Name": "LSQ12ayn",
+            "RA": "08:48:21.87",
+            "Dec": "09:26:16.2",
+            "redshift": "0.048",
+            "Type": "IIP",
+            "Time": "10.092",
+            "Date": "Mar 10"
+        },
+        {
+            "Name": "LSQ12ayu",
+            "RA": "09:21:59.69",
+            "Dec": "16:52:50.4",
+            "redshift": "0.0732",
+            "Type": "Ia",
+            "Time": "10.116",
+            "Date": "Mar 10"
+        }
+    ],
+    "References": null,
+    "Event Type": "Spectroscopic Classification",
+    "Time": "UT",
+    "Date": "March 15",
+    "Telescope": null,
+    "Instrument": "LRIS",
+    "Observatory": "La Silla-QUEST"
+}

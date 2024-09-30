@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18410-0535/AX1841.0-0536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "14:27:04.9",
+            "Date": "2011-06-24"
+        }
+    ],
+    "References": [
+        "Romano et al. 2011 (MNRAS,412,L30)",
+        "Romano et al. 2009 (MNRAS,399,2021)",
+        "Krimm et al, 2006, ATel #904",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/weak/IGRJ18410-0535/"
+    ],
+    "Event Type": "outburst",
+    "Time": "14:27:04.9",
+    "Date": "2011-06-24",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ke (AT 2016gcl)",
+            "RA": "23:37:56.621",
+            "Dec": "+27:16:37.73",
+            "redshift": "0.027999",
+            "Type": "supernova",
+            "Time": "00:00",
+            "Date": "2016-09-08"
+        },
+        {
+            "Name": "AGC 331536",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027999",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Mt. Cuba Astronomical Foundation",
+    "Event Type": "discovery of a supernova",
+    "Time": "00:00",
+    "Date": "2016-09-08",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

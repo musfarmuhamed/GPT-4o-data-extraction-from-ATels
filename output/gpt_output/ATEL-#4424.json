@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "QSO B0507+179",
+            "RA": "05h 10m 02.32s",
+            "Dec": "+18d 00m 41.5s",
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "2012-09-25.07681",
+            "Date": "2012-09-25"
+        },
+        {
+            "Name": "PKS 0507+179",
+            "RA": "05h 10m 02.32s",
+            "Dec": "+18d 00m 41.5s",
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "2012-09-25.07681",
+            "Date": "2012-09-25"
+        },
+        {
+            "Name": "NVSS J051002+180041",
+            "RA": "05h 10m 02.32s",
+            "Dec": "+18d 00m 41.5s",
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": "2012-09-25.07681",
+            "Date": "2012-09-25"
+        },
+        {
+            "Name": "USNO-B1.0 1080-0080773",
+            "RA": "05h 10m 02.32s",
+            "Dec": "+18d 00m 41.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-09-25.07681",
+            "Date": "2012-09-25"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/PKS0507+179-MASTER-20120925.jpg",
+    "Event Type": "OT source discovery",
+    "Time": "2012-09-25.07681",
+    "Date": "2012-09-25",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

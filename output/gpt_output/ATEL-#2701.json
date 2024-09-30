@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray source",
+            "RA": "18h 07m 24.15s",
+            "Dec": "+19d 42m 20.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:13UT",
+            "Date": "June 29th, 2010"
+        },
+        {
+            "Name": "HD 347929 (AKA 1RXS J180724.2+194217)",
+            "RA": "18h 07m 24.15s",
+            "Dec": "+19d 42m 20.0s",
+            "redshift": null,
+            "Type": "RS CVn type star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Usui et al., ATEL #2700",
+        "Kalberla et al. 2005",
+        "Voges et al., 1999",
+        "Evans et al. (2009, MNRAS, 2009, 397, 1177)"
+    ],
+    "Event Type": "transient observation",
+    "Time": "00:13UT",
+    "Date": "June 29th, 2010",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

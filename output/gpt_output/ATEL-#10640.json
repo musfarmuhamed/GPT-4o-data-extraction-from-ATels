@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT17ch",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova type-Ib/c",
+            "Time": "15.1",
+            "Date": "2017 Aug 15"
+        },
+        {
+            "Name": "SN 2017gax",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova type-Ib/c",
+            "Time": "15.1",
+            "Date": "2017 Aug 15"
+        },
+        {
+            "Name": "NGC 1672",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0044",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2004gq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ib supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Koribalski et al. 2004, AJ, 128, 16, via NED; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopy",
+    "Time": "15.1",
+    "Date": "2017 Aug 15",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": "SALT"
+}

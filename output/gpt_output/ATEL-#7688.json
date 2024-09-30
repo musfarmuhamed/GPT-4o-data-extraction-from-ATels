@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "00:12 - 01:00",
+            "Date": "21 June 2015"
+        },
+        {
+            "Name": "Reference star",
+            "RA": "306.00126",
+            "Dec": "33.77704",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #17929",
+        "ATel #7677",
+        "ATel #7681",
+        "ATel #7686"
+    ],
+    "Event Type": "outburst",
+    "Time": "00:12 - 01:00",
+    "Date": "21 June 2015",
+    "Telescope": "University of Leicester 0.5m telescope",
+    "Instrument": null,
+    "Observatory": "University of Leicester"
+}

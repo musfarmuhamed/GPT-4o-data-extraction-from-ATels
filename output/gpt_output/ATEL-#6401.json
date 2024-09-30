@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": "14:30 UT",
+            "Date": "August 18"
+        }
+    ],
+    "References": [
+        "ATel #5485",
+        "ATel #5971",
+        "Nolan et al. 2012, ApJS, 199, 31"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": "14:30 UT",
+    "Date": "August 18",
+    "Telescope": "Fermi LAT",
+    "Instrument": "Fermi LAT",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

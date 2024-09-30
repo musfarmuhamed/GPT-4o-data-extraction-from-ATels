@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": "16.16",
+            "Date": "2010-09-16"
+        }
+    ],
+    "References": [
+        "ATEL #2742",
+        "ATEL #2744",
+        "ATEL #2748"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2010-09-01",
+    "Telescope": [
+        "All Sky Monitor (ASM)",
+        "Burst Alert Telescope (BAT)"
+    ],
+    "Instrument": [
+        "ASM",
+        "BAT"
+    ],
+    "Observatory": [
+        "Rossi X-ray Timing Explorer",
+        "Swift"
+    ]
+}

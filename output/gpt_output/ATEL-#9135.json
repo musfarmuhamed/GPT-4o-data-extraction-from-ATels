@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16bcb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0488,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J17093078+2136344",
+            "RA": "17:09:30.78",
+            "Dec": "+21:36:34.4",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL 8126, Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Spectra",
+    "Time": null,
+    "Date": "June 08, 2016",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016cok",
+            "RA": "11h20m19.10s",
+            "Dec": "+12d 58min 56s",
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC3627 (Messier 66)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #9091",
+        "ATEL #9093",
+        "ATEL #9094"
+    ],
+    "Event Type": "X-ray observations",
+    "Time": "00:16:13.728 UTC to 13:12:00.000 UTC",
+    "Date": "2016-05-30 to 2016-06-14",
+    "Telescope": "Swift XRT",
+    "Instrument": "Swift",
+    "Observatory": null
+}

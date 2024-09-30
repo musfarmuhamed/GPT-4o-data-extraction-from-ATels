@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J201053.41+441046.3",
+            "RA": "20h 10m 53.41s",
+            "Dec": "+44d 10m 46.3s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-11-23.67038 UT",
+            "Date": "2012-11-23"
+        },
+        {
+            "Name": "MASTER OT J200456.30+542600.5",
+            "RA": "20h 04m 56.30s",
+            "Dec": "+54d 26m 00.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-11-28.37030 UT",
+            "Date": "2012-11-28"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/201053.41441046.3_2.png, http://master.sai.msu.ru/static/OT/J201053+441046-BRIR5x5.jpg",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

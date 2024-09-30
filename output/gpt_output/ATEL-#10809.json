@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0243.6+6124",
+            "RA": "02h 43m 40.33s",
+            "Dec": "+61d 26m 02.8s",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "02:37:00",
+            "Date": "October 3, 2017"
+        },
+        {
+            "Name": "USNO-B1.0 1514-0083050",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSI +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cenko et al., GCN #21960",
+        "Kennea et al., GCN #21963",
+        "Sugita et al., ATEL #10803",
+        "Krimm et al. 2013"
+    ],
+    "Event Type": "Galactic transient",
+    "Time": "02:37:00",
+    "Date": "October 3, 2017",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

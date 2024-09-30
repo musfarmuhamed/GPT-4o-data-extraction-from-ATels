@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1145-619",
+            "RA": 177.00083,
+            "Dec": -62.20676,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "04:45-10:15",
+            "Date": "2015 March 11"
+        },
+        {
+            "Name": "1E1145.1-6141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stevens et al. 1997",
+        "White et al. 1980",
+        "Corbet and Remillard 1996",
+        "Warwick et al. 1985"
+    ],
+    "Event Type": "outburst",
+    "Time": "04:45-10:15",
+    "Date": "2015 March 11",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

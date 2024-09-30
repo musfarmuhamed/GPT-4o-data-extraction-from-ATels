@@ -1,0 +1,75 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15bsn",
+            "RA": "15:22:31.95",
+            "Dec": "+30:01:20.30",
+            "redshift": 0.06577,
+            "Type": "SN Ia",
+            "Time": "Unknown",
+            "Date": "2015-07-18"
+        },
+        {
+            "Name": "iPTF15bvw",
+            "RA": "16:36:19.04",
+            "Dec": "+22:45:14.50",
+            "redshift": 0.15,
+            "Type": "SN Ia",
+            "Time": "Unknown",
+            "Date": "2015-08-07"
+        },
+        {
+            "Name": "iPTF15bvx",
+            "RA": "16:04:29.80",
+            "Dec": "+09:32:42.54",
+            "redshift": 0.147,
+            "Type": "SN Ia",
+            "Time": "Unknown",
+            "Date": "2015-08-07"
+        },
+        {
+            "Name": "iPTF15bwe",
+            "RA": "21:55:15.97",
+            "Dec": "+31:20:14.93",
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "Unknown",
+            "Date": "2015-08-07"
+        },
+        {
+            "Name": "iPTF15bwu",
+            "RA": "22:35:56.44",
+            "Dec": "+23:58:42.70",
+            "redshift": 0.173,
+            "Type": "SN Ia",
+            "Time": "Unknown",
+            "Date": "2015-08-07"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATel #4807",
+        "ATel #7112"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Unknown",
+    "Date": "Varies",
+    "Telescope": {
+        "iPTF15bsn": "FTN+FLOYDS",
+        "iPTF15bvw": "P200+DBSP",
+        "iPTF15bvx": "P200+DBSP",
+        "iPTF15bwe": "P200+DBSP",
+        "iPTF15bwu": "P200+DBSP"
+    },
+    "Instrument": {
+        "iPTF15bsn": "FTN+FLOYDS",
+        "iPTF15bvw": "P200+DBSP",
+        "iPTF15bvx": "P200+DBSP",
+        "iPTF15bwe": "P200+DBSP",
+        "iPTF15bwu": "P200+DBSP"
+    },
+    "Observatory": "LCOGT"
+}

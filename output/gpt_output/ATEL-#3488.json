@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1822.3-1606",
+            "RA": "275.595",
+            "Dec": "-16.100",
+            "redshift": "Null",
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": "12:47:47.1",
+            "Date": "2011-07-14"
+        }
+    ],
+    "References": [
+        {
+            "Fermi-GBM trigger": "#332340476",
+            "Swift-BAT trigger": "#457261",
+            "Swift-BAT on-board rate trigger": [
+                "#457263",
+                "#457253"
+            ]
+        }
+    ],
+    "Event Type": "Source detection",
+    "Time": "12:47:47.1",
+    "Date": "2011-07-14",
+    "Telescope": "Swift-BAT",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

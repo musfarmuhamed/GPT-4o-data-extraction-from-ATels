@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "outbursting black hole X-ray transient",
+            "Time": "4 hours",
+            "Date": "2015 June 18.26-18.44 UT"
+        },
+        {
+            "Name": "IPHAS2 J202403.00+335129.3",
+            "RA": "20 24 03.00",
+            "Dec": "+33 51 29.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #17929",
+        "GCN #17931",
+        "GCN #17933",
+        "GCN #17938",
+        "GCN #17940",
+        "GCN #17944",
+        "GCN #17945",
+        "GCN #17946",
+        "GCN #17948",
+        "ATel #7646",
+        "ATel #7647",
+        "ATel #7650",
+        "ATel #7655",
+        "ATel #7658",
+        "ATel #7659",
+        "ATel #7661",
+        "ATel #7662",
+        "ATel #7663",
+        "ATel #7665",
+        "ATel #7666",
+        "ATel #7667",
+        "ATel #7669",
+        "ATel #7671",
+        "ATel #7674"
+    ],
+    "Event Type": "Observation",
+    "Time": "4 hours",
+    "Date": "2015 June 18.26-18.44 UT",
+    "Telescope": "2.1m Otto Struve Telescope",
+    "Instrument": "Argos photometer",
+    "Observatory": "McDonald Observatory"
+}

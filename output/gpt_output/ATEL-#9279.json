@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016czr",
+            "RA": "16:45:37.3",
+            "Dec": "+21:49:19.3",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "08:14:58.9",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "SN 2016ejc",
+            "RA": "16:18:18.3",
+            "Dec": "+42:36:14.9",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "07:23:17.4",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "AT 2016eki",
+            "RA": "17:09:03.6",
+            "Dec": "-06:31:18.7",
+            "redshift": "0.00",
+            "Type": "CV",
+            "Time": "05:22:38.6",
+            "Date": "2016-07-29"
+        }
+    ],
+    "References": "PTSS: http://119.78.210.3/ptss2/ , Rixon et al,2014, ATel #6593, Shappee et al. 2014, ApJ, 788, 48, http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+    "Event Type": "Classification of Optical Transients",
+    "Time": "Multiple Times",
+    "Date": "2016-07-28 and 2016-07-29",
+    "Telescope": "Palomar 60-inch (P60) telescope",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar Observatory"
+}

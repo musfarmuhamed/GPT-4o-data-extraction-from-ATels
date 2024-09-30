@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS121026:164652+565105",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.07",
+            "Type": "Ia",
+            "Time": "05.78 UT",
+            "Date": "Nov. 05"
+        },
+        {
+            "Name": "PSN J22305042-1411163",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01679",
+            "Type": "II",
+            "Time": "05.84 UT",
+            "Date": "Nov. 05"
+        },
+        {
+            "Name": "PSN J01514770+2116206",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.055",
+            "Type": "Ia",
+            "Time": "06.02 UT",
+            "Date": "Nov. 06"
+        },
+        {
+            "Name": "CSS121027:043611-050453",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.03",
+            "Type": "II",
+            "Time": "06.07 UT",
+            "Date": "Nov. 06"
+        }
+    ],
+    "References": [
+        "Tanaka et al. 2008, ApJ 689, 1191",
+        "Valenti et al. 2008, ApJ 673, L155",
+        "de Vaucouleurs et al. 1991, RC3; via NED database",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

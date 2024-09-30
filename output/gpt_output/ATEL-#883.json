@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01528-0326",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01691,
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02343+3229",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01574,
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2006, in preparation",
+        "Jones et al., 2005",
+        "Veilleux & Osterbrock, 1987"
+    ],
+    "Event Type": "optical spectroscopic identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": "TUG Faint Object Spectrograph and Camera (TFOSC)",
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

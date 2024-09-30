@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16cy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034811",
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8712",
+        "ATel #8801"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2016 March 14-15",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

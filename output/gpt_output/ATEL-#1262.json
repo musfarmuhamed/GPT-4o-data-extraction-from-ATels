@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS 071102:022517-071212",
+            "RA": "02:25:17.31",
+            "Dec": "-07:12:12.4",
+            "redshift": null,
+            "Type": "UV Ceti type variable star",
+            "Time": "06:25:07",
+            "Date": "2007-11-02"
+        },
+        {
+            "Name": "CSS 071102:014557-114526",
+            "RA": "01:45:57.83",
+            "Dec": "-11:45:26.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "07:54:23",
+            "Date": "2007-11-02"
+        },
+        {
+            "Name": "CSS 071102:002805-092841",
+            "RA": "00:28:05.36",
+            "Dec": "-09:28:41.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:20:07",
+            "Date": "2007-11-02"
+        },
+        {
+            "Name": "CSS 071102:010234-034253",
+            "RA": "01:02:34.04",
+            "Dec": "-03:42:53.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:51:13",
+            "Date": "2007-11-02"
+        }
+    ],
+    "References": "VOEventNet, SIMBAD, NED, FIRST, NVSS, Palomar-Quest",
+    "Event Type": "optical transients",
+    "Time": "Detected at multiple times",
+    "Date": "2007-11-02",
+    "Telescope": "Mt. Bigelow 0.76m Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey"
+}

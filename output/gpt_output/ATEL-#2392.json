@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KT Eri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2009-11-14.572",
+            "Date": "2009-11-25.536"
+        },
+        {
+            "Name": "LMC 2009a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2009"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2006"
+        },
+        {
+            "Name": "YY Dor",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N LMC 2009a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2009"
+        }
+    ],
+    "References": [
+        "IAUC # 9098",
+        "ATEL #2025",
+        "ATEL #770",
+        "ATel #2327",
+        "ATel #1930"
+    ],
+    "Event Type": "observations",
+    "Time": "N/A",
+    "Date": "2009-11-27 to 2010-01-19",
+    "Telescope": "Swift, SMARTS",
+    "Instrument": "XRT",
+    "Observatory": "Cerro Tololo, Chile"
+}

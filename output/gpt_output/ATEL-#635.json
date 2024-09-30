@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2005gn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0397,
+            "Type": "IIn",
+            "Time": "18.6 UT",
+            "Date": "October 18"
+        },
+        {
+            "Name": "SN2005hb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "18.6 UT",
+            "Date": "October 18"
+        }
+    ],
+    "References": "IAUC # 8616, Andreuzzi et al. 1998 A&A 337, 17, Clochiatti et al. 1996 AJ 111, 1286",
+    "Event Type": "supernovae spectra observation",
+    "Time": "18.6 UT",
+    "Date": "October 18",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "Supernova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

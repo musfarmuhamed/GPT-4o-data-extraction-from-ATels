@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J101037.19+715747.2",
+            "RA": "10h 10m 37.19s",
+            "Dec": "+71d 57m 47.2s",
+            "redshift": null,
+            "Type": "PSN or CV",
+            "Time": "00:15:02.23",
+            "Date": "2014-04-01"
+        },
+        {
+            "Name": "MASTER OT J073948.25+174303.6",
+            "RA": "07h 39m 48.25s",
+            "Dec": "+17d 43m 03.6s",
+            "redshift": "2.3",
+            "Type": "flaring quasar",
+            "Time": "17:22:23.49",
+            "Date": "2014-04-01"
+        }
+    ],
+    "References": [
+        {
+            "Time": "2011-03-25.53644 UT",
+            "Magnitude Limit": "19.3m"
+        },
+        {
+            "Time": "2013-11-09.99657 UT",
+            "Magnitude Limit": "19.4m"
+        }
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur and MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Robotic Net"
+}

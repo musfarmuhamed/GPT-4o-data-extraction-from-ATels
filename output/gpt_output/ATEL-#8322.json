@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cen X-3",
+            "RA": 173.76,
+            "Dec": -60.6,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "09:29",
+            "Date": "2015-11-22"
+        },
+        {
+            "Name": "MAXI J1135-606",
+            "RA": 173.76,
+            "Dec": -60.6,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:29",
+            "Date": "2015-11-22"
+        }
+    ],
+    "References": "MAXI mailing list",
+    "Event Type": "Detection",
+    "Time": "09:29",
+    "Date": "2015-11-22",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

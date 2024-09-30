@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": [
+                "20-22 June 2015",
+                "23-25 June 2015",
+                "MJD 57193.92",
+                "MJD 57194.0",
+                "MJD 57195.02",
+                "MJD 57197.0",
+                "MJD 57197.28"
+            ],
+            "Date": [
+                "20-22 June 2015",
+                "23-25 June 2015"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #7702",
+        "ATel #7646",
+        "ATel #7662",
+        "ATel #7695"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "20-22 June 2015",
+        "23-25 June 2015"
+    ],
+    "Date": [
+        "20-22 June 2015",
+        "23-25 June 2015"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "OMC",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

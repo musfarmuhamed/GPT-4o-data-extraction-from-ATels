@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast x-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Rampy et al. 2009, ApJ 707, 243",
+        "Krimm et al. 2007, ATEL #1265",
+        "Sidoli et al. 2008, ATEL #1454",
+        "Romano et al. 2008, ATEL #1697",
+        "Romano et al. 2011, MNRAS 418, 1825",
+        "Romano et al. 2010, ATEL #2463",
+        "Romano et al. 2011, ATEL #3235",
+        "Romano et al. 2012, ATEL #4040",
+        "Romano et al. 2012, ATEL #4275",
+        "Romano et al. 2013, ATEL #5179",
+        "Romano et al. 2013, ATEL #5388",
+        "Romano et al. 2014, ATEL #6173",
+        "C. Markwardt, http://asd.gsfc.nasa.gov/Craig.Markwardt/galscan/html/RXS_J175428.3.html, accessed 9 June 2014",
+        "Drave et al. 2014, MNRAS 439, 2175",
+        "from Kuulkers et al. 2007 using the OSA9 software, distributed by the ISDC (Courvoisier et al. 2003), at http://integral.esac.esa.int/BULGE/SOURCES/IGR_J17544-2619/IGR_J17544-2619_isgri_lc_18-40.all, accessed 9 June 2014"
+    ],
+    "Event Type": "bright outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "INTEGRAL",
+        "RXTE",
+        "Swift",
+        "Suzaku"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

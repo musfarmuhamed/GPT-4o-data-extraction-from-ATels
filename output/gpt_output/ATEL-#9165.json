@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC4708",
+            "RA": "12:49:41.374",
+            "Dec": "-11:05:34.42",
+            "redshift": "0.013896",
+            "Type": "Galaxy",
+            "Time": "21:03",
+            "Date": "2016-06-15"
+        },
+        {
+            "Name": "ATLAS16bdg",
+            "RA": "12:49:41.374",
+            "Dec": "-11:05:34.42",
+            "redshift": "0.013896",
+            "Type": "Type Ia Supernova",
+            "Time": "21:03",
+            "Date": "2016-06-15"
+        }
+    ],
+    "References": "Tonry et al. ATel #9151, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Transient Observation",
+    "Time": "21:03",
+    "Date": "2016-06-15",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "IO:O camera, SPRAT spectrograph",
+    "Observatory": "Liverpool Observatory"
+}

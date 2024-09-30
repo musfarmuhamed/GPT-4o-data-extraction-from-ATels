@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2006ej",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02045",
+            "Type": "SNe Ia",
+            "Time": "Aug 24.83 UT",
+            "Date": "Aug 24"
+        }
+    ],
+    "References": "CBET #603, CBET #604, Dickey & Lockman, 1990, ARAA. 28, p215",
+    "Event Type": "Observation",
+    "Time": "Aug 24.83 UT",
+    "Date": "Aug 24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

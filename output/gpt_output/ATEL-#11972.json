@@ -1,0 +1,103 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fdk",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.118",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018eyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032",
+            "Type": "IIP",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fbj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.099",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fbi",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.049",
+            "Type": "Ib-norm",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fdv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.094",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fer",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.136",
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "AT2018fea",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "AT2018exw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "AT2018fau",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "AT2018fcv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.095",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2018-08-17"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2018-08-17",
+    "Telescope": "University of Hawaii 88-inch (UH88)",
+    "Instrument": "SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "University of Hawaii"
+}

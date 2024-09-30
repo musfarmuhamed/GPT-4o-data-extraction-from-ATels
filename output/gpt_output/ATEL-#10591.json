@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17it",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.044",
+            "Type": "Type Ia supernova",
+            "Time": "2017-07-22.4",
+            "Date": "2017-07-22"
+        },
+        {
+            "Name": "ASASSN-17jl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.020",
+            "Type": "Type Ia supernova",
+            "Time": "2017-07-22.4",
+            "Date": "2017-07-22"
+        }
+    ],
+    "References": "ATel #10555, Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Optical spectra observation",
+    "Time": "2017-07-22.4",
+    "Date": "2017-07-22",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman Spectrograph",
+    "Observatory": "SOAR telescope"
+}

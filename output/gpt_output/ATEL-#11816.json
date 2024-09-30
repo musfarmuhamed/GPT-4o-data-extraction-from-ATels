@@ -1,0 +1,182 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS18xf",
+            "RA": "17:46:41.41",
+            "Dec": "+27:35:22.9",
+            "redshift": "0.094",
+            "Type": "Ia",
+            "Time": "> +20 d",
+            "Date": "2018-06-08"
+        },
+        {
+            "Name": "SN2018cjw",
+            "RA": "17:46:41.41",
+            "Dec": "+27:35:22.9",
+            "redshift": "0.094",
+            "Type": "Ia",
+            "Time": "> +20 d",
+            "Date": "2018-06-08"
+        },
+        {
+            "Name": "ATLAS18rrp",
+            "RA": "22:55:06.10",
+            "Dec": "+11:15:28.3",
+            "redshift": "0.025",
+            "Type": "II",
+            "Time": "+4 to +7 d",
+            "Date": "2018-05-28"
+        },
+        {
+            "Name": "SN2018coq",
+            "RA": "22:55:06.10",
+            "Dec": "+11:15:28.3",
+            "redshift": "0.025",
+            "Type": "II",
+            "Time": "+4 to +7 d",
+            "Date": "2018-05-28"
+        },
+        {
+            "Name": "ASASSN-18my",
+            "RA": "23:49:48.24",
+            "Dec": "-14:07:09.9",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "+11 to +20 d",
+            "Date": "2018-06-12"
+        },
+        {
+            "Name": "SN2018cov",
+            "RA": "23:49:48.24",
+            "Dec": "-14:07:09.9",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "+11 to +20 d",
+            "Date": "2018-06-12"
+        },
+        {
+            "Name": "ATLAS18qss",
+            "RA": "20:20:28.87",
+            "Dec": "-33:23:36.9",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "+4 to +7 d",
+            "Date": "2018-06-10"
+        },
+        {
+            "Name": "SN2018coy",
+            "RA": "20:20:28.87",
+            "Dec": "-33:23:36.9",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "+4 to +7 d",
+            "Date": "2018-06-10"
+        },
+        {
+            "Name": "ATLAS18qxw",
+            "RA": "23:18:28.70",
+            "Dec": "-25:59:25.3",
+            "redshift": "0.103",
+            "Type": "Ia",
+            "Time": "+4 to +7 d",
+            "Date": "2018-06-16"
+        },
+        {
+            "Name": "SN2018cqv",
+            "RA": "23:18:28.70",
+            "Dec": "-25:59:25.3",
+            "redshift": "0.103",
+            "Type": "Ia",
+            "Time": "+4 to +7 d",
+            "Date": "2018-06-16"
+        },
+        {
+            "Name": "ASASSN-18nr",
+            "RA": "22:01:08.35",
+            "Dec": "+20:03:05.2",
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": "> +20",
+            "Date": "2018-06-19"
+        },
+        {
+            "Name": "SN2018ctb",
+            "RA": "22:01:08.35",
+            "Dec": "+20:03:05.2",
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": "> +20",
+            "Date": "2018-06-19"
+        },
+        {
+            "Name": "SN2018ctw",
+            "RA": "01:57:57.67",
+            "Dec": "-38:01:14.8",
+            "redshift": "0.037",
+            "Type": "Ib",
+            "Time": "< -10",
+            "Date": "2018-06-21"
+        },
+        {
+            "Name": "ATLAS18rmn",
+            "RA": "22:05:21.37",
+            "Dec": "-28:29:43.8",
+            "redshift": "0.849",
+            "Type": "QSO",
+            "Time": "Null",
+            "Date": "2018-06-16"
+        },
+        {
+            "Name": "AT2018cuc",
+            "RA": "22:05:21.37",
+            "Dec": "-28:29:43.8",
+            "redshift": "0.849",
+            "Type": "QSO",
+            "Time": "Null",
+            "Date": "2018-06-16"
+        },
+        {
+            "Name": "ASASSN-18nx",
+            "RA": "19:55:31.95",
+            "Dec": "-49:53:11.2",
+            "redshift": "0.024",
+            "Type": "IIn",
+            "Time": "young",
+            "Date": "2018-06-23"
+        },
+        {
+            "Name": "SN2018cvk",
+            "RA": "19:55:31.95",
+            "Dec": "-49:53:11.2",
+            "redshift": "0.024",
+            "Type": "IIn",
+            "Time": "young",
+            "Date": "2018-06-23"
+        },
+        {
+            "Name": "ASASSN-18oa",
+            "RA": "01:30:27.12",
+            "Dec": "-26:47:06.7",
+            "redshift": "0.019",
+            "Type": "IIn",
+            "Time": "< -10 d",
+            "Date": "2018-06-22"
+        },
+        {
+            "Name": "SN2018cvn",
+            "RA": "01:30:27.12",
+            "Dec": "-26:47:06.7",
+            "redshift": "0.019",
+            "Type": "IIn",
+            "Time": "< -10 d",
+            "Date": "2018-06-22"
+        }
+    ],
+    "References": "Chambers et al. 2016, arXiv:1612.05560, http://pswww.ifa.hawaii.edu; Tonry et al. (2011, PASP, 123, 58), Tonry et al. (ATel #8680); Shappee et al. 2014, ApJ, 788, 48, http://www.astronomy.ohio-state.edu/~assassin/index.shtml; Backyard Observatory Supernova Search (BOSS; http://bosssupernova.com/ ); Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "supernova classification",
+    "Time": "night",
+    "Date": "2018-06-28",
+    "Telescope": "4.1m SOAR Telescope",
+    "Instrument": "Goodman High Throughput Spectrograph",
+    "Observatory": "Null"
+}

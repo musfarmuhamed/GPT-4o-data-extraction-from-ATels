@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1SXPS J1742150-291453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "14:43",
+            "Date": "May 19, 2017"
+        },
+        {
+            "Name": "Bright Star",
+            "RA": "17 42 14.9701",
+            "Dec": "-29 14 59.786",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10265",
+        "Evans et al. 2013, ApJS, 210, 1",
+        "Gaia collaboration, 2016, A&A, 595, 1",
+        "Zacharias et al. 2017, AJ, in prep; Vizier catalog I/340/ucac5",
+        "Drew et al. 2014, MNRAS, 440, 2036",
+        "Skrutsie et al., 2006, AJ, 131, 1163",
+        "Parker et al. 2005, MNRAS, 362, 689",
+        "Hackstein et al. 2015,AN, 336, 590"
+    ],
+    "Event Type": "Flaring activity",
+    "Time": "14:43",
+    "Date": "May 19, 2017",
+    "Telescope": "Swift, XMM",
+    "Instrument": "EPIC",
+    "Observatory": "Swift Bulge Survey"
+}

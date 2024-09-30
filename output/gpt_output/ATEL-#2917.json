@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10xgx",
+            "RA": "00:12:23.15",
+            "Dec": "+02:30:44.1",
+            "redshift": "0.14",
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": "September 19"
+        }
+    ],
+    "References": [
+        {
+            "Title": "ATEL#1964",
+            "Authors": "Maddox et al.",
+            "Journal": "MNRAS",
+            "Volume": "243",
+            "Pages": "692",
+            "Year": "1990"
+        },
+        {
+            "Title": "SN2003fg",
+            "Authors": "Howell et al.",
+            "Journal": "Nature",
+            "Volume": "443",
+            "Pages": "308",
+            "Year": "2006"
+        }
+    ],
+    "Event Type": "Discovery of a possible super-Chandrasekhar mass supernova",
+    "Time": null,
+    "Date": "September 19",
+    "Telescope": "Palomar 48-inch Oschin Schmidt telescope",
+    "Instrument": "CCD spectrum (range 340-1000 nm)",
+    "Observatory": "Lick Observatory"
+}

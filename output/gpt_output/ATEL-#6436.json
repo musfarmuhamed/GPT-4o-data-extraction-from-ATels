@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14gm",
+            "RA": "00:59:47.83",
+            "Dec": "-07:34:19.3",
+            "redshift": "0.005490",
+            "Type": "type-II SN",
+            "Time": "2014-09-02.47",
+            "Date": "2014-09-02"
+        },
+        {
+            "Name": "NGC 337",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005490",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2011dq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type IIP SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBAT 2749",
+    "Event Type": "SN candidate",
+    "Time": "2014-09-02.47",
+    "Date": "2014-09-02",
+    "Telescope": "\"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

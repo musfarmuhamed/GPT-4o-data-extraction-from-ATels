@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "16:11:00",
+            "Date": "2011-04-18"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "19:05:05",
+            "Date": "2011-04-19"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3144",
+        "ATEL #3159",
+        "ATEL #3167",
+        "ATEL #3203",
+        "ATEL #3225",
+        "ATEL #3230",
+        "Belloni et al. 2000, A&A, 355, 271",
+        "Markwardt et al, 1999, ApJL, 513, 37"
+    ],
+    "Event Type": "Heartbeat Oscillations and Quasi-Periodic Oscillations",
+    "Time": [
+        "16:11:00",
+        "19:05:05"
+    ],
+    "Date": [
+        "2011-04-18",
+        "2011-04-19"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": null,
+    "Observatory": null
+}

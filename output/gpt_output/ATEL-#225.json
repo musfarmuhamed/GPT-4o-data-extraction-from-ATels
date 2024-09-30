@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC X-3",
+            "RA": "00h52m05.7s",
+            "Dec": "-72d26m05s",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "23:03:50",
+            "Date": "2002-07-20"
+        }
+    ],
+    "References": [
+        "Clark et al. 1978, ApJ, 221, L37",
+        "Zezas et al. astro-ph/0310562, 2003",
+        "Crampton et al. 1978, ApJ, 223, L79",
+        "Corbet et al. 2003, AAS HEAD, 35, 1730C"
+    ],
+    "Event Type": "Observation",
+    "Time": "23:03:50",
+    "Date": "2002-07-20",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra X-ray Observatory"
+}

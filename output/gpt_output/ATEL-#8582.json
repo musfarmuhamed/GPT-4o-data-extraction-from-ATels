@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1543-564",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3330",
+        "ATEL #3331",
+        "ATEL #3341",
+        "ATEL #3355",
+        "ATEL #3362"
+    ],
+    "Event Type": "X-ray flux increase and spectral transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MAXI",
+        "Swift"
+    ],
+    "Instrument": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J13550-7218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SUMSS J135512.53-721916.2",
+            "RA": "13:55:12.53",
+            "Dec": "-72:19:16.2",
+            "redshift": null,
+            "Type": "Compact Radio Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1355-7219",
+            "RA": "13:55",
+            "Dec": "-72:19",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J13551345-7219150",
+            "RA": "13:55:13.45",
+            "Dec": "-72:19:15.0",
+            "redshift": null,
+            "Type": "Extended Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WKK2657",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Rodriguez et al. 2010, Atel #2557",
+        "Mauch et al. 2003, MNRAS, 342, 1117",
+        "Wright et al. 1994, ApJS, 91, 111",
+        "Kellerman et al. 1989, AJ, 98, 1195"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XRT",
+    "Instrument": null,
+    "Observatory": null
+}

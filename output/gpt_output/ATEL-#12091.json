@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235725.15-015215.4",
+            "RA": "23h 57m 25.15s",
+            "Dec": "-01d 52m 15.4s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "20:53:08 UT",
+            "Date": "2018-10-09"
+        },
+        {
+            "Name": "PKS 2354-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical flare",
+            "Time": null,
+            "Date": "2010"
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "Veron+ 2010"
+    ],
+    "Event Type": "detection",
+    "Time": "20:53:08 UT",
+    "Date": "2018-10-09",
+    "Telescope": "MASTER-Tavrida",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

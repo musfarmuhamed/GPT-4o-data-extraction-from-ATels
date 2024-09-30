@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016bln",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0235,
+            "Type": "over-luminous SN Ia",
+            "Time": "2016-04-05.27 UT",
+            "Date": "2016-04-05"
+        },
+        {
+            "Name": "AT 2016bln",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0235,
+            "Type": "over-luminous SN Ia",
+            "Time": "2016-04-05.38 UT",
+            "Date": "2016-04-05"
+        }
+    ],
+    "References": [
+        "Atel#8907",
+        "Blondin and Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al. 2005, ApJ, 634, 1190"
+    ],
+    "Event Type": "over-luminous SN Ia",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Discovery Channel Telescope",
+        "Gemini-N telescope"
+    ],
+    "Instrument": [
+        "DeVeny spectrograph",
+        "GMOS"
+    ],
+    "Observatory": [
+        "Discovery Channel Telescope",
+        "Gemini-N telescope in Hawaii"
+    ]
+}

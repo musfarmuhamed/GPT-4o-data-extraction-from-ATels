@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AXP",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "4th April 2007"
+        },
+        {
+            "Name": "AXP",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "6th April 2007"
+        },
+        {
+            "Name": "AXP",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "8th May 2007"
+        },
+        {
+            "Name": "AXP",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "10th May 2007"
+        },
+        {
+            "Name": "AXP",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "17th May 2007"
+        }
+    ],
+    "References": [
+        "Campana & Israel, ATEL #1043",
+        "Dib et al. (2007, ATEL #1041)",
+        "Gavriil et al. 2007, ATEL #1076",
+        "Mereghetti et al. (2005)"
+    ],
+    "Event Type": "X-ray and near-IR monitoring observations",
+    "Time": "0.3-10keV (Swift), near-IR (VLT-UT4)",
+    "Date": "4th April - 17th May 2007 (Swift), 6th April - 10th May 2007 (VLT)",
+    "Telescope": [
+        "Swift XRT",
+        "VLT-UT4"
+    ],
+    "Instrument": [
+        null,
+        "NAOS-CONICA camera"
+    ],
+    "Observatory": [
+        "Swift",
+        "Paranal"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ11215-5952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Romano et al., ATel #994",
+        "Mangano et al., ATel #995",
+        "Smith et al. 2006, ATel #773"
+    ],
+    "Event Type": "outburst monitoring",
+    "Time": "16:00",
+    "Date": "2023-02-09",
+    "Telescope": [
+        "Swift/XRT",
+        "RXTE",
+        "XMM-Newton",
+        "INTEGRAL"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

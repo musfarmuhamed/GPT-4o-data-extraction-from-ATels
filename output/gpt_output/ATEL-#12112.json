@@ -1,0 +1,118 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18xv (AT 2018hgp)",
+            "RA": "22:14:03.756",
+            "Dec": "+37:34:52.75",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-11.13"
+        },
+        {
+            "Name": "ASASSN-18xs (AT 2018hgd)",
+            "RA": "00:22:05.323",
+            "Dec": "+07:03:50.73",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-10.99"
+        },
+        {
+            "Name": "ASASSN-18xq (AT 2018hgb)",
+            "RA": "04:18:56.241",
+            "Dec": "-02:33:22.02",
+            "redshift": "0.017269",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-10.10"
+        },
+        {
+            "Name": "ASASSN-18xp (AT 2018hfu)",
+            "RA": "23:54:50.915",
+            "Dec": "+05:42:58.18",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-09.90"
+        },
+        {
+            "Name": "ASASSN-18xn (AT 2018hfr)",
+            "RA": "09:30:55.046",
+            "Dec": "-04:34:16.66",
+            "redshift": "0.022599",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-10.49"
+        },
+        {
+            "Name": "ASASSN-18xm (AT 2018hfp)",
+            "RA": "20:59:47.869",
+            "Dec": "-16:38:11.92",
+            "redshift": "0.029037",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-07.76"
+        },
+        {
+            "Name": "ASASSN-18xl (AT 2018hfm)",
+            "RA": "09:36:08.700",
+            "Dec": "+06:15:27.72",
+            "redshift": "0.008087",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-09.63"
+        },
+        {
+            "Name": "ASASSN-18xk (AT 2018hfg)",
+            "RA": "08:52:56.192",
+            "Dec": "+42:24:46.65",
+            "redshift": "0.023863",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-09.49"
+        },
+        {
+            "Name": "ASASSN-18xg (AT 2018hdp)",
+            "RA": "02:13:45.048",
+            "Dec": "+04:06:08.18",
+            "redshift": "0.011461",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-10-08.02"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "transient",
+    "Time": "Ongoing",
+    "Date": "Null",
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Diameter": "14-cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "Leavitt",
+            "Diameter": "14-cm",
+            "Location": "Fort Davis, Texas"
+        },
+        {
+            "Name": "Payne-Gaposchkin",
+            "Diameter": "14-cm",
+            "Location": "Sutherland, South Africa"
+        },
+        {
+            "Name": "Cassius",
+            "Diameter": "14-cm",
+            "Location": "Cerro Tololo, Chile"
+        },
+        {
+            "Name": "Paczynski",
+            "Diameter": "14-cm",
+            "Location": "Cerro Tololo, Chile"
+        }
+    ],
+    "Instrument": "Null",
+    "Observatory": "ASAS-SN"
+}

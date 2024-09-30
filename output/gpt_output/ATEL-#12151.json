@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1858.6-0814",
+            "RA": {
+                "J2000": "284.673",
+                "Sexagesimal": "18 58 41.5"
+            },
+            "Dec": {
+                "J2000": "-8.245",
+                "Sexagesimal": "-08 14 42.0"
+            },
+            "redshift": null,
+            "Type": "galactic X-ray transient",
+            "Time": null,
+            "Date": "2018-10-25"
+        }
+    ],
+    "References": null,
+    "Event Type": "detection",
+    "Time": null,
+    "Date": "2018-10-25",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

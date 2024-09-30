@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15us",
+            "RA": "22:09:09.641",
+            "Dec": "-47:08:02.48",
+            "redshift": "0.005839",
+            "Type": "supernova",
+            "Time": "2015-12-29.03",
+            "Date": "2015-12-29"
+        },
+        {
+            "Name": "NGC 7213",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005839",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Mt. Cuba Astronomical Foundation, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "discovery",
+    "Time": "2015-12-29.03",
+    "Date": "2015-12-29",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

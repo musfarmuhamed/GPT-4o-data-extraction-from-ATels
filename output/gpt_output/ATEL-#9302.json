@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J225939.54+020859.6",
+            "RA": "22h 59m 39.54s",
+            "Dec": "+02d 08m 59.6s",
+            "redshift": null,
+            "Type": "superluminous SN",
+            "Time": "2016-08-02.06248 UT",
+            "Date": "2016-08-02"
+        },
+        {
+            "Name": "MASTER OT J185345.80-532209.9",
+            "RA": "18h 53m 45.80s",
+            "Dec": "-53d 22m 09.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-08-01.84988 UT",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "MASTER OT J205158.57+153622.6",
+            "RA": "20h 51m 58.57s",
+            "Dec": "+15d 36m 22.6s",
+            "redshift": null,
+            "Type": "Sloan QSO flare",
+            "Time": "2016-07-29.00774 UT",
+            "Date": "2016-07-29"
+        },
+        {
+            "Name": "MASTER OT J160419.56+392813.1",
+            "RA": "16h 04m 19.56s",
+            "Dec": "+39d 28m 13.1s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-07-28.83310 UT",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "MASTER OT J190942.21-560124.0",
+            "RA": "19h 09m 42.21s",
+            "Dec": "-56d 01m 24.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-08-01.85499 UT",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "MASTER OT J183854.09-543958.4",
+            "RA": "18h 38m 54.09s",
+            "Dec": "-54d 39m 58.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-08-01.87297 UT",
+            "Date": "2016-08-01"
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "Brescia+, 2015, SDSS DR10 catalogue"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN in MRK 0477",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Ia",
+            "Time": "22.99 UT",
+            "Date": "2015-07-08.310"
+        },
+        {
+            "Name": "PSN J02513304+3730434",
+            "RA": "02:51:33.04",
+            "Dec": "+37:30:43.4",
+            "redshift": 0.02,
+            "Type": "Ib/c",
+            "Time": "23.02 UT",
+            "Date": "2015-07-12.735"
+        },
+        {
+            "Name": "PSN J23342383+2727196",
+            "RA": "23:34:23.83",
+            "Dec": "+27:27:19.6",
+            "redshift": 0.059,
+            "Type": "Ia",
+            "Time": "22.03 UT",
+            "Date": "2015-07-12.77"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "ATel #7800",
+        "Patat et al. 1996, MNRAS, 278, 111",
+        "Hunter et al. 2009, A&A, 508, 371",
+        "Wells et al. 1994, AJ, 108, 2233",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

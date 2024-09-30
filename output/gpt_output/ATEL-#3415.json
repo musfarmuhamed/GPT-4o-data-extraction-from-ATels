@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J132150.9-633350",
+            "RA": "13:21:50.9",
+            "Dec": "-63:33:50",
+            "redshift": null,
+            "Type": "supernova remnant",
+            "Time": null,
+            "Date": "2011-02-22"
+        },
+        {
+            "Name": "1RXS J132149.8-633426",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1ES 1318-632 (LS 3039)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Voges et al. 1999 A&A 349 389",
+        "Carey et al. 2009, PASP, 121, 76",
+        "Borkowski, Hendrick, & Reynolds 2007, ApJ, 671, L45"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2011-02-22",
+    "Telescope": "Chandra",
+    "Instrument": "Chandra ACIS-S",
+    "Observatory": "Chandra X-ray Center"
+}

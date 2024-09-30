@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16lz",
+            "RA": "06:05:51.159",
+            "Dec": "-50:46:50.29",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2016-10-25.25",
+            "Date": "2016-10-25"
+        }
+    ],
+    "References": [
+        {
+            "Name": "G. Bock",
+            "Role": "Follow-up observation",
+            "Date": "2016-10-25"
+        },
+        {
+            "Name": "J. Brimacombe",
+            "Role": "Follow-up observation",
+            "Date": "2016-10-25"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2016-10-25.25",
+    "Date": "2016-10-25",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

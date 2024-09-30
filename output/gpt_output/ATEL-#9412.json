@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 1722-363",
+            "RA": 261.3,
+            "Dec": -36.58,
+            "redshift": null,
+            "Type": "super-giant high mass X-ray binary pulsar",
+            "Time": "05:06",
+            "Date": "2016-08-23"
+        },
+        {
+            "Name": "MAXI J1725-365",
+            "RA": 261.3,
+            "Dec": -36.58,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "05:06",
+            "Date": "2016-08-23"
+        }
+    ],
+    "References": [
+        {
+            "Title": "A Systematic Uncertainty",
+            "Authors": [
+                "Takeuchi et al. 1990",
+                "Corbet et al. 2005",
+                "Manousakis & Walter 2011"
+            ],
+            "Journals": [
+                "PASJ, 42, 287",
+                "ApJ, 633, 377",
+                "A&A, 526, A62"
+            ]
+        }
+    ],
+    "Event Type": "X-ray enhancement",
+    "Time": "05:06",
+    "Date": "2016-08-23",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

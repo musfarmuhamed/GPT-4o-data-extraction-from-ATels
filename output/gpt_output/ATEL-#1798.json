@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2008-10-17T20:59 to 2008-10-19T10:17",
+            "Date": "2008-10-17 to 2008-10-19"
+        }
+    ],
+    "References": [
+        "ATEL #1779",
+        "Kuulkers et al. 2007, A&A 466, 595"
+    ],
+    "Event Type": "Spectral fits observation",
+    "Time": "2008-10-17T20:59 to 2008-10-19T10:17",
+    "Date": "2008-10-17 to 2008-10-19",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI",
+        "SPI"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J201013.27+203202.6",
+            "RA": "20h 10m 13.27s",
+            "Dec": "+20d 32m 02.6s",
+            "redshift": null,
+            "Type": "Cataclysmic variable",
+            "Time": "2014-12-27.64074 UT",
+            "Date": "2014-12-27"
+        },
+        {
+            "Name": "MASTER OT J073304.39+155500.1",
+            "RA": "07h 33m 04.39s",
+            "Dec": "+15d 55m 00.1s",
+            "redshift": null,
+            "Type": "Cataclysmic variable",
+            "Time": "2014-12-28.93227 UT",
+            "Date": "2014-12-28"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J201013+203202-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/201013.27203202.6.jpg",
+        "http://master.sai.msu.ru/static/OT/073304.39155500.1.png"
+    ],
+    "Event Type": "Discovery of Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

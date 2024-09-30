@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8751",
+        "Debnath et al. 2013",
+        "Zhou et al. 2013",
+        "Miller-Jones et al. 2012"
+    ],
+    "Event Type": "new outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT"
+    ],
+    "Observatory": null
+}

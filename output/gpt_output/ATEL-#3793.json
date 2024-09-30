@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 1343+451",
+            "RA": "13h45m33.172s",
+            "Dec": "+44d52m59.57s",
+            "redshift": "2.534",
+            "Type": "Flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2FGL J1345.4+4453",
+            "RA": "13h45m33.172s",
+            "Dec": "+44d52m59.57s",
+            "redshift": "2.534",
+            "Type": "Flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Kovalev, Y. Y. et al., 2007, AJ 133, 1236",
+        "Shaw, M. S. et al., ApJ, Submitted",
+        "Ackermann et al. 2011, ApJ, In Press, arXiv:1108.1420",
+        "ATel#2217"
+    ],
+    "Event Type": "Gamma-ray flux observation",
+    "Time": "Null",
+    "Date": [
+        "October 9th",
+        "November 24th",
+        "November 29th",
+        "September 25th, 2009"
+    ],
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

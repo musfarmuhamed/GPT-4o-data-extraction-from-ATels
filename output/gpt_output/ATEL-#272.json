@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19140+0951",
+            "RA": "19h14m02s",
+            "Dec": "09o53.3'",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1912+097",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lund et al., 2004",
+        "IAUC #8088"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "JEM-X2",
+        "IBIS/ISGRI"
+    ],
+    "Instrument": [
+        "JEM-X offline software",
+        "OSA V3.0"
+    ],
+    "Observatory": "INTEGRAL"
+}

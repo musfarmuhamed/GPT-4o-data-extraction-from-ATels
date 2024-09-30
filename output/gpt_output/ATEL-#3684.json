@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1836.6+0341",
+            "RA": "279.16441",
+            "Dec": "+3.68343",
+            "redshift": null,
+            "Type": null,
+            "Time": "14:01 UT",
+            "Date": "2011 October 14"
+        },
+        {
+            "Name": "XTE J1837+037",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Remillard et al, (2006, ApJ 646, 407); Evans et al. (2009, MNRAS, 397, 1177); Goad et al. (2007, A&A, 476, 1401)",
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "2011 September 25 - 2011 October 10",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), X-Ray Telescope (XRT)",
+    "Observatory": "RXTE/All-Sky Monitor (ASM)"
+}

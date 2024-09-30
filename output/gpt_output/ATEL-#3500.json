@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #3473",
+        "ATels #3470",
+        "ATels #3479"
+    ],
+    "Event Type": "Radio band behavior observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Effelsberg 100-m",
+        "IRAM 30-m",
+        "APEX 12-m"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Effelsberg Observatory",
+        "IRAM Observatory",
+        "APEX Observatory"
+    ]
+}

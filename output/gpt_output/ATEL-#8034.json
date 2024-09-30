@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "P17",
+            "RA": "16h 26m 02.1153s",
+            "Dec": "-27d 18' 14.143",
+            "redshift": null,
+            "Type": "PSC",
+            "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+            "Date": "2015 Sep 3; Sep 4"
+        },
+        {
+            "Name": "P22",
+            "RA": "16h 25m 54.4828s",
+            "Dec": "-27d 26' 36.604",
+            "redshift": null,
+            "Type": "PSC",
+            "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+            "Date": "2015 Sep 3; Sep 4"
+        },
+        {
+            "Name": "P23",
+            "RA": "16h 25m 50.9320s",
+            "Dec": "-27d 16' 04.675",
+            "redshift": null,
+            "Type": "PSC",
+            "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+            "Date": "2015 Sep 3; Sep 4"
+        },
+        {
+            "Name": "P46",
+            "RA": "16h 25m 19.4137s",
+            "Dec": "-27d 24' 34.449",
+            "redshift": null,
+            "Type": "PSC",
+            "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+            "Date": "2015 Sep 3; Sep 4"
+        },
+        {
+            "Name": "P49",
+            "RA": "16h 25m 15.0367s",
+            "Dec": "-27d 10' 10.515",
+            "redshift": null,
+            "Type": "PSC",
+            "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+            "Date": "2015 Sep 3; Sep 4"
+        }
+    ],
+    "References": [
+        "ATel #7987",
+        "ATel #7992",
+        "ATel #7993",
+        "ATel #7994",
+        "ATel #7996",
+        "ATel #7998",
+        "ATel #8000",
+        "ATel #8002",
+        "ATel #8006",
+        "ATel #7999",
+        "http://science.nrao.edu/science/service-observing/service-observing"
+    ],
+    "Event Type": "Neutrino and X-ray counterpart detection",
+    "Time": "22:19:34-23:19:22; 22:30:46-23:14:26",
+    "Date": "2015 Sep 3; Sep 4",
+    "Telescope": "Karl G. Jansky Very Large Array (VLA)",
+    "Instrument": "L-band (1-2 GHz)",
+    "Observatory": "NRAO"
+}

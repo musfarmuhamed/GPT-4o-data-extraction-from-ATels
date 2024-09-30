@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007bb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.020858,
+            "Type": "Type IIn supernova",
+            "Time": "00:00",
+            "Date": "2007-04-10"
+        },
+        {
+            "Name": "SN 2007bb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.020858,
+            "Type": "Type IIn supernova",
+            "Time": "00:00",
+            "Date": "2007-04-13"
+        },
+        {
+            "Name": "SN 2007bb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.020858,
+            "Type": "Type IIn supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #912",
+        "CBET #916",
+        "Dickey & Lockman, 1990, ARAA 28, p215",
+        "NED"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:00",
+    "Date": "2007-04-10",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

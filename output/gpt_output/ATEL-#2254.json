@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TT Ari",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova-like cataclysmic variable",
+            "Time": "01:31 UT and 09:02 UT",
+            "Date": "2009 October 16"
+        },
+        {
+            "Name": "SS Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "non-magnetic CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V603 Aql",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "non-magnetic CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Mauche & Mukai 2002, ApJLett, 566, L33",
+        "Gaensicke et al. 1999, A&A 347, 184"
+    ],
+    "Event Type": "fading episode",
+    "Time": "01:31 UT and 09:02 UT",
+    "Date": "2009 October 16",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray telescope (XRT)",
+        "UV/optical telescope (UVOT)"
+    ],
+    "Observatory": "Center for Backyard Astrophysics"
+}

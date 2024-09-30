@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J074610.09-712224.9",
+            "RA": "07h 46m 10.09s",
+            "Dec": "-71d 22m 24.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2015-04-26.75166 UT",
+            "Date": "2015-04-26"
+        },
+        {
+            "Name": "MASTER OT J224412.70+405714.2",
+            "RA": "22h 44m 12.77s",
+            "Dec": "+40d 57m 13.4s",
+            "redshift": null,
+            "Type": "blazar flare",
+            "Time": "2015-04-23.96197 UT",
+            "Date": "2015-04-23"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-02-26",
+            "Time": "2015-02-26.91948 UT",
+            "Observatory": "MASTER-SAAO",
+            "Instrument": "MASTER OT J074610.09-712224.9",
+            "Telescope": "MASTER Global Robotic Net"
+        },
+        {
+            "Date": "2015-03-27",
+            "Time": "2015-03-27.858",
+            "Observatory": "MASTER-SAAO",
+            "Instrument": "MASTER OT J074610.09-712224.9",
+            "Telescope": "MASTER Global Robotic Net"
+        },
+        {
+            "Date": "2014-12-31",
+            "Time": "2014-12-31.960",
+            "Observatory": "MASTER-SAAO",
+            "Instrument": "MASTER OT J074610.09-712224.9",
+            "Telescope": "MASTER Global Robotic Net"
+        },
+        {
+            "Date": "2010-11-06",
+            "Time": "2010-11-06.64476 UT",
+            "Observatory": "MASTER-Kislovodsk",
+            "Instrument": "MASTER OT J224412.70+405714.2",
+            "Telescope": "MASTER Global Robotic Net"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": null,
+    "Observatory": null
+}

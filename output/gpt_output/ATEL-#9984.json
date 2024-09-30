@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J081506.13+381123.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054,
+            "Type": "type Ia supernovae",
+            "Time": "20.6",
+            "Date": "2017-01-20"
+        },
+        {
+            "Name": "SN 2002er",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernovae",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PGC 2120251",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #9971, Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "20.6",
+    "Date": "2017-01-20",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

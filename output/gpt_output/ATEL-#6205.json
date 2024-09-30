@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J15583110+1251596",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.044,
+            "Type": "Ia supernova",
+            "Time": null,
+            "Date": "2014-06-02"
+        },
+        {
+            "Name": "SN 2003kf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "t = -7 days",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Optical spectrogram",
+    "Time": "2014-06-04.81",
+    "Date": "2014-06-04",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0626-0501169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "G/K-type star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift x-ray source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS1 iband Antares",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potentially a star or an x-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN 18231, ATel #7987, ATel #7153",
+    "Event Type": "Swift x-ray source detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": null,
+    "Observatory": null
+}

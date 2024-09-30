@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017hlt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027,
+            "Type": "Ia",
+            "Time": "19:43:40",
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "SN 2017hle",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015,
+            "Type": "Ia-91bg",
+            "Time": "22:08:38",
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "SN 2017hki",
+            "RA": "00:47:09.77",
+            "Dec": "+37:35:15.4",
+            "redshift": 0.13,
+            "Type": "Ia-91T",
+            "Time": "23:14:40",
+            "Date": "2017-10-20"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC (range 340-820 nm; resolution 1.4 nm)",
+    "Observatory": "Padova-Asiago SN group"
+}

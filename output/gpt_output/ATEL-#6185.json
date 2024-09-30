@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14az",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb supernova",
+            "Time": "00:00",
+            "Date": "2014-05-30"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tomasella et al.",
+            "Year": 2014,
+            "URL": "http://arxiv.org/abs/1403.7233"
+        },
+        {
+            "Authors": "Mahdavi & Geller",
+            "Year": 2004,
+            "Journal": "ApJ",
+            "Volume": 607,
+            "Page": 202
+        },
+        {
+            "Authors": "Taubenberger et al.",
+            "Year": 2011,
+            "Journal": "MNRAS",
+            "Volume": 413,
+            "Page": 2140
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A.Ap.",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "Ap.J.",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "Spectrogram Observation",
+    "Time": "00:00",
+    "Date": "2014-05-30",
+    "Telescope": "TNG",
+    "Instrument": "DOLORES spectrograph",
+    "Observatory": "Asiago"
+}

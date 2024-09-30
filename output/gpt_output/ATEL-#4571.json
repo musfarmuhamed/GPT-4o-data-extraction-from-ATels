@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02324096-3917562",
+            "RA": "02:32:40.96",
+            "Dec": "-39:17:56.2",
+            "redshift": 0.0048,
+            "Type": "II",
+            "Time": "1 week after explosion",
+            "Date": "Nov. 10.16"
+        },
+        {
+            "Name": "LSQggx",
+            "RA": "03:11:35.05",
+            "Dec": "-22:19:13.2",
+            "redshift": 0.069,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "Nov. 11.28"
+        },
+        {
+            "Name": "LSQggq",
+            "RA": "04:37:42.94",
+            "Dec": "-35:51:57.0",
+            "redshift": 0.119,
+            "Type": "Ia",
+            "Time": "1 week before maximum",
+            "Date": "Nov. 11.22"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Elmhamdi et al. 2003,MNRAS,338,939",
+        "Stanishev et al.,2007,A&A,469,645"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2012 November 12",
+    "Date": "2012 November 12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

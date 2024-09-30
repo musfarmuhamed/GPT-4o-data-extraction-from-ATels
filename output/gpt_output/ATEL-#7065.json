@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "probable nova",
+            "RA": "00h42m33.10s",
+            "Dec": "+41d13'08.50\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2015 Feb 13.75625 UT",
+            "Date": "2015 Feb 13",
+            "Magnitude": "R=18.52 +/- 0.15"
+        },
+        {
+            "Name": "probable nova",
+            "RA": "00h42m33.10s",
+            "Dec": "+41d13'08.50\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2015 Feb 13.76458 UT",
+            "Date": "2015 Feb 13",
+            "Magnitude": "B=18.80 +/- 0.16"
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "2015 Feb 13.75625 UT and 2015 Feb 13.76458 UT",
+    "Date": "2015 Feb 13",
+    "Telescope": "50/70 cm Schmidt",
+    "Instrument": null,
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star, Low-mass X-ray binary",
+            "Time": "08:51:15 - 12:32:57",
+            "Date": "2015-02-17"
+        }
+    ],
+    "References": [
+        "Ueno et al. 2015, ATel #7088",
+        "Meshcheryakov & Tsygankov 2014, ATel #6286"
+    ],
+    "Event Type": "Outburst Detection",
+    "Time": "08:51:15 - 12:32:57",
+    "Date": "2015-02-17",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

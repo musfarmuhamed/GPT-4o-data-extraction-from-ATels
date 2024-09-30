@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17gqa/AT2017ens",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:48 UT",
+            "Date": "2017-06-08"
+        },
+        {
+            "Name": "ATLAS17gqb/AT2017ent",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:48 UT",
+            "Date": "2017-06-08"
+        }
+    ],
+    "References": [
+        "Tonry et al. AT #11905",
+        "Tonry et al. AT #11906",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "IAU Transient Name Server",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Observation",
+    "Time": "23:48 UT",
+    "Date": "2017-06-08",
+    "Telescope": "2.2m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory (Chile)"
+}

@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOG1b J174804.8-244648",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Bursting pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #2919",
+        "#2920",
+        "#2922",
+        "#2924",
+        "#2929",
+        "#2932",
+        "#2933",
+        "#2935",
+        "#2937",
+        "#2939",
+        "#2946",
+        "#2952",
+        "#2958",
+        "ATel #2974",
+        "ATel #2940",
+        "Kuulkers et al. 2003, A&A 399, 663",
+        "Keek et al. 2010, ApJ 718, 292",
+        "Kouveliotou et al. 1996, Nature 379, 799",
+        "Finger et al. 1996, Nature 381, 291"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "Various",
+    "Date": "2010-10-13 to 2010-10-26",
+    "Telescope": "Rossi X-ray Timing Explorer",
+    "Instrument": null,
+    "Observatory": null
+}

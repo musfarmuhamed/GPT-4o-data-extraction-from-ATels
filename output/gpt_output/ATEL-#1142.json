@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007bg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": null,
+            "Time": "Apr 22.4 UT",
+            "Date": "2007"
+        },
+        {
+            "Name": "candidate host galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #927, #948, GCN #6618",
+    "Event Type": "observation",
+    "Time": "Apr 22.4 UT",
+    "Date": "2007",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": null
+}

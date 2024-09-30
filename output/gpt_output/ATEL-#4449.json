@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "22:32:36",
+            "Dec": "+11:43:51",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "55918.082",
+                "56175.536",
+                "56110.273",
+                "56185.872"
+            ],
+            "Date": null
+        }
+    ],
+    "References": [
+        "#4397",
+        "#4437",
+        "#4409"
+    ],
+    "Event Type": "flux density increase",
+    "Time": [
+        "MJD 55918.082",
+        "MJD 56175.536",
+        "MJD 56110.273",
+        "MJD 56185.872"
+    ],
+    "Date": null,
+    "Telescope": [
+        "Effelsberg 100-m radio telescope",
+        "IRAM 30-m telescope",
+        "APEX 12-m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

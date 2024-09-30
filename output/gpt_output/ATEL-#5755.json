@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140103:130555+112833",
+            "RA": "13:05:54.94",
+            "Dec": "+11:28:32.8",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "CSS140103:132615+160238",
+            "RA": "13:26:14.67",
+            "Dec": "+16:02:37.5",
+            "redshift": 0.06,
+            "Type": "II",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "CSS140103:082332+283814",
+            "RA": "08:23:32.10",
+            "Dec": "+28:38:14.0",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "CSS140104:002811-041606",
+            "RA": "00:28:10.90",
+            "Dec": "-04:16:06.2",
+            "redshift": 0.13,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "LSQ13dsh",
+            "RA": "09:24:57.13",
+            "Dec": "-06:11:06.2",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "LSQ14bl",
+            "RA": "04:26:54.13",
+            "Dec": "-06:47:03.5",
+            "redshift": 0.03,
+            "Type": "II",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "LSQ14ck",
+            "RA": "09:38:51.57",
+            "Dec": "-04:23:48.0",
+            "redshift": 0.068,
+            "Type": "Gal",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "LSQ14cx",
+            "RA": "10:49:31.39",
+            "Dec": "-23:44:20.1",
+            "redshift": 0.159,
+            "Type": "Gal",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        },
+        {
+            "Name": "LSQ14ds",
+            "RA": "03:48:14.38",
+            "Dec": "-27:00:46.4",
+            "redshift": 0.057,
+            "Type": "Ic",
+            "Time": "Unknown",
+            "Date": "2014 Jan 09"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2014 Jan 09",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

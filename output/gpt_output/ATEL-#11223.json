@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J0632+057",
+            "RA": "06h32m59.26s",
+            "Dec": "+05d48m01.2s",
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VER J0633+057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MWC 148",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B0pe star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J063259.3+054801",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Observations by the VERITAS collaboration and with the Swift XRT",
+    "Event Type": "gamma-ray and X-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "VERITAS",
+        "Swift XRT"
+    ],
+    "Instrument": null,
+    "Observatory": "Fred Lawrence Whipple Observatory"
+}

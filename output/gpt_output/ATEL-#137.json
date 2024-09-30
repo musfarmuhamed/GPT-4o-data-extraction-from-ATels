@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17464-3213",
+            "RA": "17 46 15.61",
+            "Dec": "-32 13 59.9",
+            "redshift": null,
+            "Type": "X-ray transient and black hole candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J17464-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient and black hole candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #132",
+        "ATEL #133",
+        "ATEL #136"
+    ],
+    "Event Type": "Detection of a probable radio counterpart",
+    "Time": "30 March and 1 April 2003 UT",
+    "Date": "30 March and 1 April 2003",
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory (NRAO)"
+}

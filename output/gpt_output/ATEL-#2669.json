@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J0238.3-6132",
+            "RA": "02h36m53.2457s",
+            "Dec": "-61d36m15.183",
+            "redshift": "0.465",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "00:00:00",
+            "Date": "2010-06-10"
+        }
+    ],
+    "References": [
+        {
+            "Title": "ApJ",
+            "Authors": "Abdo, A. et al",
+            "Year": "2010",
+            "Volume": "715",
+            "Page": "429"
+        },
+        {
+            "Title": "AJ",
+            "Authors": "Fey, A. et al.",
+            "Year": "2004",
+            "Volume": "127",
+            "Page": "1791"
+        },
+        {
+            "Title": "ApJS",
+            "Authors": "Healey, S. et al.",
+            "Year": "2008",
+            "Volume": "175",
+            "Page": "97"
+        }
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": "00:00:00",
+    "Date": "2010-06-10",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

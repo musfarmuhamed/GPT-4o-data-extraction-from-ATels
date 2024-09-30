@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J133253.32+355733.3",
+            "RA": "13h 32m 53.32s",
+            "Dec": "+35d 57m 33.3s",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "2013-02-11.69402",
+            "Date": "2013-02-11"
+        },
+        {
+            "Name": "SDSS J133253.27+355733.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "2013-01-10.88572 UT with unfiltered magnitude limit 18.6m",
+    "Event Type": "OT",
+    "Time": "2013-02-11.69402",
+    "Date": "2013-02-11",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

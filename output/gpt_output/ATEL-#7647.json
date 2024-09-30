@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": "18:32 and 19:09",
+            "Date": "June 15"
+        },
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": "17:39",
+            "Date": "June 16"
+        },
+        {
+            "Name": "IGR J16318-4848",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN 17929",
+        "GCN 17932",
+        "GCN 17935",
+        "ATel #7646",
+        "GCN 17931",
+        "Walter et al. 2003, A&A 411, L427",
+        "Terada et al. 1994, PASJ 46, 677",
+        "Oosterbroek et al. 1997, A&A 321, 776",
+        "Zycki et al. 1999, MNRAS 309, 561"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "18:32 and 19:09",
+    "Date": "June 15",
+    "Telescope": "Swift/BAT, Fermi/GBM, MAXI/GSC, Swift/XRT",
+    "Instrument": "Swift/BAT, Fermi/GBM, MAXI/GSC, Swift/XRT",
+    "Observatory": "Swift, Fermi, MAXI"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-038",
+            "RA": "23:39:24.835",
+            "Dec": "-67:02:55.14",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456494.70677",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-039",
+            "RA": "00:22:33.020",
+            "Dec": "-72:53:41.90",
+            "redshift": "0.08",
+            "Type": "supernova Ia",
+            "Time": "2456494.76434",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. ATEL #4495",
+        "Kozlowski et al. 2013",
+        "ATEL #5233"
+    ],
+    "Event Type": "discovery of on-going transient candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "OGLE-IV Transient Search"
+}

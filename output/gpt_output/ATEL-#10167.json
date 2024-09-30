@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017cbv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.004,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2017 March 10"
+        },
+        {
+            "Name": "SN 2013aa",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2011fe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tartaglia et al., ATEL #10158; Hosseinzadeh et al., ATEL #10164; Pereira et al., 2013, A&A, 554, 27; Childress et al., 2015, MNRAS, 454, 3816; Parker et al., CBET #3416",
+    "Event Type": "Observation",
+    "Time": "~5 hours",
+    "Date": "2017 March 10 - 2017 March 11",
+    "Telescope": "Swope 1-m",
+    "Instrument": null,
+    "Observatory": "Las Campanas Observatory"
+}

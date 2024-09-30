@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New soft gamma-ray repeater",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1721-3532",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1745-3040",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #5009",
+        "Atel #5020",
+        "Atel #5032"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "13:53 UT",
+        "18:13 UT",
+        "16:38 UT",
+        "13:48 UT",
+        "07:15 UT"
+    ],
+    "Date": [
+        "2013-04-27",
+        "2013-04-28",
+        "2013-04-29",
+        "2013-04-28",
+        "2012-04-29"
+    ],
+    "Telescope": [
+        "Parkes",
+        "Green Bank Telescope (GBT)"
+    ],
+    "Instrument": [
+        "PDFB3",
+        "PDFB4",
+        "GUPPI"
+    ],
+    "Observatory": [
+        "Parkes Observatory",
+        "Green Bank Observatory"
+    ]
+}

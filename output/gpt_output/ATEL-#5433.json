@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051529.15+560532.0",
+            "RA": "05h 15m 29.15s",
+            "Dec": "+56d 05m 32.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-09-27.71853 UT",
+            "Date": "2013-09-27"
+        },
+        {
+            "Name": "USNO-A2.0 1425-05899660",
+            "RA": "05 15 29.011",
+            "Dec": "+56 05 32.57",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J051528.9+560531",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J051531.4+560525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1SWXRT J051529.0+560531",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Swift X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "2012-10-19.72941 UT",
+    "Event Type": "CV with X-ray counterpart discovery, outburst",
+    "Time": null,
+    "Date": "2012-01-09, 2012-01-10",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

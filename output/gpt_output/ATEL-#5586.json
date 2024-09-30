@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235504.61+160854.7",
+            "RA": "23h 55m 04.61s",
+            "Dec": "+16d 08m 54.7s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable of SU UMa (UGSU) type",
+            "Time": "2013-11-16.50865 UT",
+            "Date": null
+        },
+        {
+            "Name": "SDSS J235504.70+160853.7",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "Faint Blue Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J235504.7+160854",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "UV Counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J215433.99+235400.8",
+            "RA": "21h 54m 33.99s",
+            "Dec": "+23d 54m 00.8s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable, most likely a dwarf nova of UGSS (SS Cyg) type",
+            "Time": "2013-11-16.70968 UT",
+            "Date": null
+        },
+        {
+            "Name": "SDSS J215433.96+235400.3",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "Faint Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1139-0532385",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "Faint Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J215434.0+235400",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": null,
+            "Type": "UV Counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/235504.61160854.7.jpg, http://master.sai.msu.ru/static/OT/215433.99235400.8.png",
+    "Event Type": "Discovery of new Cataclysmic Variables",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2491 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2008-04-10"
+        }
+    ],
+    "References": [
+        "IAUC #8934",
+        "CBET #1334",
+        "ATel #1480",
+        "IAUC #8935",
+        "ATel #1478",
+        "ATel #1514",
+        "ApJ 663, 505"
+    ],
+    "Event Type": "eruption",
+    "Time": null,
+    "Date": "2008-04-10",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

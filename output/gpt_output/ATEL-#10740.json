@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ra",
+            "RA": "15:41:45.24",
+            "Dec": "-53:08:05.9",
+            "redshift": null,
+            "Type": "Galactic Nova candidate",
+            "Time": "2016-03-08.35",
+            "Date": "2016-04-02.382"
+        },
+        {
+            "Name": "ASASSN-V J182456.34-305816.7",
+            "RA": "18:24:56.34",
+            "Dec": "-30:58:16.7",
+            "redshift": null,
+            "Type": "Microlensed source",
+            "Time": "2017-04-06.346",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Kochanek et al. 2017",
+        "Jayasinghe et al. 2017",
+        "ATel #10677",
+        "ATel #10710",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Discovery Report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ASAS-SN",
+    "Instrument": null,
+    "Observatory": null
+}

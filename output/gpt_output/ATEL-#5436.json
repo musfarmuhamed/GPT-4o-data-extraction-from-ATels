@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C+38.41",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.81,
+            "Type": "high redshift quasar",
+            "Time": "JD2456551.643762",
+            "Date": "September 16th, 2013"
+        },
+        {
+            "Name": "HB89 1633+382",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.81,
+            "Type": "high redshift quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1635.2+3810",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5411",
+        "ATel #5412",
+        "ATel #5418",
+        "ATel #5423"
+    ],
+    "Event Type": "NIR flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

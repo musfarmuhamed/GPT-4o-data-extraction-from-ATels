@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": "17:59:02.86",
+            "Dec": "-23:43:08.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "10:38 UT - 16:23 UT",
+            "Date": "2018-08-14"
+        }
+    ],
+    "References": [
+        "ATel #11941",
+        "ATel #11942",
+        "ATel #11946"
+    ],
+    "Event Type": "radio and X-ray observations",
+    "Time": "10:38 UT - 16:23 UT",
+    "Date": "2018-08-14",
+    "Telescope": "Australia Telescope Compact Array (ATCA)/Swift/XRT",
+    "Instrument": "ATCA (5.5 and 9.0 GHz standard procedures), Swift/XRT",
+    "Observatory": "ATNF"
+}

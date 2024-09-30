@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:09 UT - 09:24 UT",
+            "Date": "2017-10-25"
+        },
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:30:02 UT - 00:00:01 UT",
+            "Date": "2017-10-24/2017-10-25"
+        },
+        {
+            "Name": "1934-638",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1520-58",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "McMullin et al. 2007, ASPC, 376, 127; Evans et al. 2009, MNRAS 397, 1177; Kalamkar et al. 2013, ApJ, 766, 89",
+    "Event Type": "Radio and X-ray observations of outburst and QPOs",
+    "Time": "06:09 UT - 09:24 UT; 23:30:02 UT - 00:00:01 UT; various times on October 11, 22, and 24",
+    "Date": "2017-10-25 (Primary radio observation); 2017-10-24 (X-ray observation); 2017-10-11, 2017-10-22, 2017-10-24 (X-ray observations for QPOs)",
+    "Telescope": "Australia Telescope Compact Array (ATCA); Swift/XRT",
+    "Instrument": "ATCA radio frequencies (5.5, 9.0, 17.0, and 19.0 GHz); Swift/XRT",
+    "Observatory": null
+}

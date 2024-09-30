@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ex (AT2016ccj)",
+            "RA": "17:10:23.919",
+            "Dec": "+26:23:47.89",
+            "redshift": "0.040",
+            "Type": "early phase type Ia supernova, sub-type Ia-pec",
+            "Time": "02:40:26",
+            "Date": "2016-05-05"
+        },
+        {
+            "Name": "PTSS-16efwk (AT2016cck)",
+            "RA": "17:35:37.80",
+            "Dec": "+08:48:32.35",
+            "redshift": "0.041",
+            "Type": "type Ia supernova near maximum",
+            "Time": "02:23:52",
+            "Date": "2016-05-05"
+        },
+        {
+            "Name": "SDSS 171023.63+262350.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J17353788+0848387",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9020",
+    "Event Type": "spectroscopic observation",
+    "Time": "02:40:26 and 02:23:52",
+    "Date": "2016-05-05",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos, La Palma"
+}

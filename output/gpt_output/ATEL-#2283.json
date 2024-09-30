@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1999 AP10",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sa",
+            "Time": "5.5 min",
+            "Date": "2009 Oct 19"
+        },
+        {
+            "Name": "2000 TO64",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sk",
+            "Time": "35.0 min",
+            "Date": "2009 Oct 19"
+        },
+        {
+            "Name": "2000 UJ1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Xk",
+            "Time": "45.0 min",
+            "Date": "2009 Oct 19"
+        }
+    ],
+    "References": [
+        "[1]",
+        "[2]",
+        "[3]"
+    ],
+    "Event Type": "taxonomic classifications",
+    "Time": null,
+    "Date": "Oct-Nov 2009",
+    "Telescope": "Palomar 5-m telescope",
+    "Instrument": "CCD spectroscopy",
+    "Observatory": "Arecibo facility"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S3 1227+25",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.135",
+            "Type": "low-synchrotron-peaked BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pacciani et al. 2014, ApJ, 790, 45",
+        "ATEL#7516",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "ATEL#7523",
+        "ATEL#7365"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015-05-06 to 2015-05-15",
+    "Telescope": [
+        "FERMI-LAT",
+        "Swift",
+        "VERITAS"
+    ],
+    "Instrument": [
+        "FERMI-LAT",
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ox",
+            "RA": "03:20:39.266",
+            "Dec": "-32:11:54.74",
+            "redshift": 0.046499,
+            "Type": "supernova",
+            "Time": "00:27:36",
+            "Date": "2015-08-27"
+        },
+        {
+            "Name": "LSBG F418-058",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.046499,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, Mt. Cuba Astronomical Foundation",
+    "Event Type": "discovery",
+    "Time": "00:27:36",
+    "Date": "2015-08-27",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

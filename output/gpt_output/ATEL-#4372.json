@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sagittarii 2012 (PNV J17452791-2305213)",
+            "RA": "17:45:28.03",
+            "Dec": "-23:05:22.8",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "9.6 mag in unfiltered light",
+            "Date": "April 21 2012"
+        },
+        {
+            "Name": "Possible progenitor of Nova Sgr 2012",
+            "RA": "17:45:28.02",
+            "Dec": "-23:05:22.72",
+            "redshift": null,
+            "Type": "Stellar Source",
+            "Time": "Quasi simultaneous JHKs observations",
+            "Date": "March 18 2010"
+        }
+    ],
+    "References": [
+        "CBET 3089",
+        "ATel 4088",
+        "ATel 4093",
+        "ATel 4094",
+        "ATel 4110",
+        "ATel 4142",
+        "Minniti et al. 2010, New Astronomy, 15, 433"
+    ],
+    "Event Type": "Eruption/Outburst",
+    "Time": "2010-2012",
+    "Date": null,
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002, Cambridge Astronomical Survey Unit"
+}

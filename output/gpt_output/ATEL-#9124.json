@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016coi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broad-lined Type Ic supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #9086",
+        "ATEL #9090"
+    ],
+    "Event Type": "optical low-resolution spectroscopic observations",
+    "Time": null,
+    "Date": [
+        "May 31",
+        "Jun 1",
+        "Jun 2"
+    ],
+    "Telescope": [
+        "1.5-m Kanata telescope",
+        "Gunma 1.5-m telescope",
+        "2.0-m Nayuta telescope"
+    ],
+    "Instrument": [
+        "Hiroshima One-shot Wide-field Polarimeter (HOWPol)",
+        "Gunma Low-resolution Spectrograph (GLOWS)",
+        "Medium And Low-dispersion Long-slit Spectrograph (MALLS)"
+    ],
+    "Observatory": "Optical and Infrared Synergetic Telescopes for Education and Research (OISTER)"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1810-197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "02:38:32",
+            "Date": "December 12, 2018"
+        },
+        {
+            "Name": "PSR J1903+0135",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1644-4559",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bailes, M., et al., The UTMOST: A Hybrid Digital Signal Processor Transforms the Molonglo Observatory Synthesis Telescope PASA, 34, 045 (2017)",
+    "Event Type": "radio revival detection",
+    "Time": "02:38:32",
+    "Date": "December 12, 2018",
+    "Telescope": "1.6km Molonglo Observatory Synthesis Telescope",
+    "Instrument": "UTMOST",
+    "Observatory": "Molonglo"
+}

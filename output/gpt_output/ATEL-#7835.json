@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": "00 29 03.06",
+            "Dec": "+59 34 19.0",
+            "redshift": null,
+            "Type": "close binary system with low magnetized Neutron Stars on Accretion stage",
+            "Time": "05:42:03 UT",
+            "Date": "2015-07-24"
+        }
+    ],
+    "References": [
+        "Cummings et al., GCN 18051",
+        "Lipunov, V.M., Astrophysics of the Neutron Stars, Springer Verlag, 1992",
+        "Lipunov and Postnov, 1984",
+        "Friedman, J.L., Ipser, J.R. and Parker, L., 1985, ApJ., v.292, p.111-117",
+        "Derek B. Fox and S. R. Kulkarni, Atel #354"
+    ],
+    "Event Type": "Observational Detection",
+    "Time": "05:42:03 UT",
+    "Date": "2015-07-24",
+    "Telescope": "MASTER II robotic telescope",
+    "Instrument": null,
+    "Observatory": "IAC"
+}

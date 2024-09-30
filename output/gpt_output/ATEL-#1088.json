@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PQT 070519",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unidentified optical transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Nearby galaxy",
+            "RA": "218.26674",
+            "Dec": "15.12142",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1083"
+    ],
+    "Event Type": null,
+    "Time": "Total of 9.8 ks over 3 epochs",
+    "Date": [
+        "2007-05-24",
+        "2007-05-27",
+        "2007-05-28"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "UVOT V-band filter",
+    "Observatory": null
+}

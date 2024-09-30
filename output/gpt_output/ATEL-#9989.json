@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J11383367+2523532",
+            "RA": "11:38:33.662",
+            "Dec": "+25:23:50.17",
+            "redshift": 0.025356,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17at",
+            "RA": "11:38:33.662",
+            "Dec": "+25:23:50.17",
+            "redshift": null,
+            "Type": "Supernova (SN Ia)",
+            "Time": "2017-01-19.54",
+            "Date": "2017-01-19"
+        }
+    ],
+    "References": "ATEL #9980",
+    "Event Type": "Discovery",
+    "Time": "2017-01-19.54",
+    "Date": "2017-01-19",
+    "Telescope": "\"Brutus\"",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

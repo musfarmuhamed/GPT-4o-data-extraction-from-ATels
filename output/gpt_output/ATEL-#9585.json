@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16bji",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "SN Ia",
+            "Time": "2016-10-02.83",
+            "Date": "2016-10-02"
+        },
+        {
+            "Name": "SDSS J172057.55+245435.5",
+            "RA": "172057.55",
+            "Dec": "245435.5",
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Yaron & Gal-Yam 2012, PASP, 124, 668",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "2016-10-02.83",
+    "Date": "2016-10-02",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "NOT"
+}

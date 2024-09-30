@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J10081059+5150570",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova impostor",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 5460",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTF 09uj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2851",
+        "ATEL #3690",
+        "Smith et al. 2011, MNRAS, 415, 773",
+        "Li et al. 2011, MNRAS, 412, 1441",
+        "Kiewe et al. 2010, arXiv:1010.2689",
+        "Ofek et al. 2010, ApJ, 724, 1396"
+    ],
+    "Event Type": "V-band photometric observations",
+    "Time": null,
+    "Date": "Oct. 29, 2011",
+    "Telescope": "14-cm ASAS-SN telescope",
+    "Instrument": "Swift/UVOT",
+    "Observatory": "Haleakala, Hawaii"
+}

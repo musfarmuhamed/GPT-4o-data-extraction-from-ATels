@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "2014-01-18"
+        },
+        {
+            "Name": "Granat J1741.9-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2009-10"
+        }
+    ],
+    "References": [
+        "Fishman et al. 1995, IAUC 6272",
+        "Woods et al. 1999, ApJ, 517, 431",
+        "Chenevez et al. ATel #2235",
+        "Kennea ATel #2236"
+    ],
+    "Event Type": "Enhanced hard X-ray emission",
+    "Time": "2014-01-21",
+    "Date": "2014-01-21",
+    "Telescope": "MAXI/GSC, Swift/BAT",
+    "Instrument": "Hard X-ray transient monitor",
+    "Observatory": null
+}

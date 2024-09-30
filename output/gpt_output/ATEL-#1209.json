@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AXJ1538.3-5541",
+            "RA": "15h 38m 13.8s",
+            "Dec": "-55d 42m 11.9s",
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": null,
+            "Date": "2007-01-05 to 2007-03-16"
+        },
+        {
+            "Name": "2MASS 15381365-5542096",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 15381404-5542085",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Sugizaki et al. (2001, ApJS, 134, 77)",
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": "2007-08-30 to 2007-09-07",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

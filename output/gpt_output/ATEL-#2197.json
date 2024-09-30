@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17511-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low mass X-ray binary",
+            "Time": "17:50",
+            "Date": "2009-09-11"
+        },
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "435 Hz X-ray pulsar",
+            "Time": "19:30",
+            "Date": "2009-09-12"
+        },
+        {
+            "Name": "GRS 1747-312",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #2196",
+    "Event Type": "X-ray observation",
+    "Time": "17:50",
+    "Date": "2009-09-11",
+    "Telescope": "RXTE PCA",
+    "Instrument": null,
+    "Observatory": "RXTE"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ELISE",
+            "RA": "10 01 36.977",
+            "Dec": "+02 44 40.842",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BEL",
+            "RA": "10 23 12.303",
+            "Dec": "-06 36 04.261",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRETA",
+            "RA": "11 11 15.948",
+            "Dec": "+00 52 59.642",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EMILIA",
+            "RA": "11 34 31.961",
+            "Dec": "+01 08 32.431",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "https://www.dropbox.com/s/jiusl273iwq3ki4/final_Blind14A_04_S23_1682-1588_grid02_lanczos2_images_large.png",
+        "https://www.dropbox.com/s/zskvirpafco211p/final_Blind14A_10_N6_2808-0986_grid02_lanczos2_images_large.png",
+        "https://www.dropbox.com/s/cu06mtlsoh8zxer/final_Blind14A_30_S31_0211-1308_grid02_lanczos2_images_large.png",
+        "https://www.dropbox.com/s/4dx0r0d69sikoy7/final_Blind14A_37_N30_1187-1705_grid02_lanczos2_images_large.png"
+    ],
+    "Event Type": "Possible supernova explosions",
+    "Time": "High-cadence real-time",
+    "Date": "2014-02-28 to 2014-03-04",
+    "Telescope": "4m Blanco Telescope",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo (CTIO)"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016ios",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "II-P",
+            "Time": "2016-12-07.25",
+            "Date": "2016-12-07"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ESA Gaia",
+        "DPAC",
+        "Photometric Science Alerts Team",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

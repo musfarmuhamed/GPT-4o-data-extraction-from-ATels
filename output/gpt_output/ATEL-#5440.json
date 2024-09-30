@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-073",
+            "RA": "02:44:54.81",
+            "Dec": "-73:20:35.8",
+            "redshift": "0.091",
+            "Type": "SN Ia",
+            "Time": "around max",
+            "Date": "2013-09-20"
+        },
+        {
+            "Name": "OGLE-2013-SN-075",
+            "RA": "01:58:01.87",
+            "Dec": "-68:45:47.9",
+            "redshift": "~0.08",
+            "Type": "SN Ia",
+            "Time": "few days before max",
+            "Date": "2013-09-24"
+        },
+        {
+            "Name": "SNhunt213",
+            "RA": "04:08:02.35",
+            "Dec": "+23:17:39.4",
+            "redshift": "~0.02",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2013-09-28"
+        }
+    ],
+    "References": [
+        {
+            "Type": "Article",
+            "Author": "Valenti et al.",
+            "ATel": "#4037",
+            "Link": "http://www.pessto.org"
+        },
+        {
+            "Type": "Article",
+            "Author": "Wyrzykowski et al.",
+            "ATel": "#4495",
+            "Link": "http://nesssi.cacr.caltech.edu/catalina/current.html"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2013-10-03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

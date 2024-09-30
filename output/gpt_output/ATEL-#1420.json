@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008ax",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.001885,
+            "Type": "Supernova",
+            "Time": "2008-03-04.67 UT to 2008-03-10.56 UT",
+            "Date": null
+        },
+        {
+            "Name": "Ultra-luminous X-ray source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1412",
+        "ATel #1417",
+        "CBET #1280",
+        "CBET #1285",
+        "CBET #1286",
+        "CBET #1290",
+        "Dickey & Lockman, 1990, ARAA 28"
+    ],
+    "Event Type": "X-ray point-source detection",
+    "Time": "2008-03-04.67 UT to 2008-03-10.56 UT",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": null
+}

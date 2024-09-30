@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1816.7-1613",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Krimm et al.",
+            "Year": 2008,
+            "ATel": "#1456"
+        },
+        {
+            "Author": "Halpern & Gotthelf",
+            "Year": 2008,
+            "ATel": "#1457"
+        },
+        {
+            "Author": "Krimm et al.",
+            "Year": 2013,
+            "ApJ Supp": "209, 14"
+        },
+        {
+            "Author": "Corbet",
+            "Year": 1986,
+            "MNRAS": "220, 1047"
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": {
+        "Start": "2014-05-28",
+        "End": "2014-06-13",
+        "Peak": "2014-06-08"
+    },
+    "Telescope": "Swift BAT",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

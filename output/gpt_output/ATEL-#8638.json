@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16aay (AT2016xb, PS16zf)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "Type II Supernova",
+            "Time": "01:39:36.563",
+            "Date": "2016-02-05"
+        },
+        {
+            "Name": "SN2005cs",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "Type II Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J111403.11+675128.6",
+            "RA": "11:14:03.11",
+            "Dec": "+67:51:28.6",
+            "redshift": "0.0208",
+            "Type": "Proposed Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic Observation",
+    "Time": "01:39:36.563",
+    "Date": "2016-02-05",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

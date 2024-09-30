@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "QSO B0346-279",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.9874,
+            "Type": "QSO",
+            "Time": {
+                "Brightening Start": "2018-02-17.09",
+                "Peak Brightness": "2018-02-21.08"
+            },
+            "Date": {
+                "Brightening Start": "2018-02-17",
+                "Peak Brightness": "2018-02-21",
+                "Decay Observation": "2018-02-22.07"
+            }
+        }
+    ],
+    "References": [
+        "ASAS-SN",
+        "CRTS",
+        "Gaia",
+        "PS1",
+        "Las Cumbres Observatory",
+        "Gordon and Betty Moore Foundation",
+        "Ohio State University",
+        "NSF",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Villum Fonden (Denmark)"
+    ],
+    "Event Type": "Optical Brightening",
+    "Time": "Ongoing",
+    "Date": "From 2018-02-17 to 2018-02-22",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Payne-Gaposchkin",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

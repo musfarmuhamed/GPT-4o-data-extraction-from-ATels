@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ad",
+            "RA": "12:40:11.1",
+            "Dec": "+18:03:32.8",
+            "redshift": null,
+            "Type": "transient source, likely a supernova",
+            "Time": "26.47",
+            "Date": "2014 Jan."
+        },
+        {
+            "Name": "SDSS J124011.38+180341.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0264",
+            "Type": "star forming galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Schlafly & Finkbeiner 2011",
+    "Event Type": "discovery of a new transient source",
+    "Time": "26.47",
+    "Date": "2014 Jan.",
+    "Telescope": [
+        "ASAS-SN quadruple 14-cm 'Brutus'",
+        "LCOGT-1m robotic telescope",
+        "RCOS-51cm telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Siding Spring Observatory",
+        "New Mexico"
+    ]
+}

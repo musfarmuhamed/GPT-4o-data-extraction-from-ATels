@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J083537.30-585738.0",
+            "RA": "08h 35m 37.30s",
+            "Dec": "-58d 57m 38.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2016-02-11.94799 UT",
+            "Date": "2016-02-11"
+        },
+        {
+            "Name": "MASTER OT J143956.90-153150.4",
+            "RA": "14h 39m 56.90s",
+            "Dec": "-15d 31m 50.4s",
+            "redshift": null,
+            "Type": "Blazar flare",
+            "Time": "2016-02-11.11931 UT",
+            "Date": "2016-02-11"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "Discovery",
+    "Time": "2016-02-11",
+    "Date": "2016-02-11",
+    "Telescope": "MASTER-SAAO, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

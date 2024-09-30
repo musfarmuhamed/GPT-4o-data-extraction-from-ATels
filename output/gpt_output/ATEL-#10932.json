@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TON 599",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.724488,
+            "Type": "QSO",
+            "Time": "2458064.0247",
+            "Date": "November 6th, 2017"
+        },
+        {
+            "Name": "4C+29.45",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGLJ1159.5+2914",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10931",
+    "Event Type": "NIR flare",
+    "Time": "2458064.0247",
+    "Date": "November 6th, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J174540.7-290015",
+            "RA": 266.41974,
+            "Dec": -29.00407,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "21:02 UT",
+            "Date": "160206"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing neutron star transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J174540.1-290016",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.0-290014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very-faint X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Degenaar & Wijnands 2009, A&A 495, 547",
+        "Degenaar & Wijnands 2010, A&A 524, 69",
+        "Degenaar et al., 2015, JHEAp, 7, 137",
+        "Muno et al., 2005, ApJ 622, L113"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "21:02 UT",
+    "Date": "160206",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

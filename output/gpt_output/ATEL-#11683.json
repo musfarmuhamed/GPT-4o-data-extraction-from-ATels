@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1727-203",
+            "RA": 261.971,
+            "Dec": -20.389,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:41 UT to 12:46 UT",
+            "Date": "2018 June 05"
+        },
+        {
+            "Name": "1RXS J172854.8-202151",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J172903.6-202208",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Negoro et al. 2016, PASJ, 68, S1",
+    "Event Type": "nova alert",
+    "Time": "09:41 UT",
+    "Date": "2018 June 05",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

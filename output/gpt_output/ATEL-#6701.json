@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J191904.96-100652.5",
+            "RA": "19h 19m 04.96s",
+            "Dec": "-10d 06m 52.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-11-13.63007 UT",
+            "Date": "2014-11-13"
+        },
+        {
+            "Name": "Reference Image",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-07-15.91687 UT",
+            "Date": "2012-07-15"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J191904-100652-ORIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/191904.96-100652.5.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-11-13.63007 UT",
+    "Date": "2014-11-13",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

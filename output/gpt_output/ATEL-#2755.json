@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray state",
+            "Time": "00:30-05:30 UT",
+            "Date": "July 23rd"
+        }
+    ],
+    "References": [
+        "ATel #2711",
+        "ATel #2711",
+        "ATel #2721",
+        "ATel #2724",
+        "ATel #2751",
+        "ATel #2734"
+    ],
+    "Event Type": "X-ray state transition and radio observation",
+    "Time": "00:30-05:30 UT and 02:00-03:00 UT",
+    "Date": "July 23rd",
+    "Telescope": [
+        "WSRT",
+        "AMI"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

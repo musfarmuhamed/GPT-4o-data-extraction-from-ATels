@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting binary",
+            "Time": "23:52",
+            "Date": "2009-10-26"
+        },
+        {
+            "Name": "NIR counterpart of XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:48",
+            "Date": "2009-10-26"
+        }
+    ],
+    "References": [
+        "ATels #2258",
+        "ATels #2259",
+        "ATels #2261",
+        "ATels #2265",
+        "ATel #2263"
+    ],
+    "Event Type": "optical and near-infrared observations",
+    "Time": "23:52",
+    "Date": "2009-10-26",
+    "Telescope": [
+        "Magellan Clay telescope",
+        "Magellan Baade telescope"
+    ],
+    "Instrument": [
+        "MIKE echelle spectrograph",
+        "PANIC camera"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-07b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII class nova",
+            "Time": "19.925 to 19.957 UT",
+            "Date": "2007 July 19"
+        },
+        {
+            "Name": "M31N 2007-07c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hybrid or He/N class nova",
+            "Time": "11.007 to 11.012 UT",
+            "Date": "2007 Aug. 11"
+        },
+        {
+            "Name": "M31N 2007-07e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII class nova",
+            "Time": "8.972 to 9.002 UT",
+            "Date": "2007 Aug. 8"
+        },
+        {
+            "Name": "TSS J004054.4+405350",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII class or hybrid nova",
+            "Time": "10.977 to 10.999 UT",
+            "Date": "2007 Aug. 10"
+        }
+    ],
+    "References": [
+        "E. Ovcharov, et al., ATel#1139",
+        "V. Burwitz et al., ATel#1146",
+        "D. Hatzidimitriou, et al., ATel#1156",
+        "R. Quimby et al., ATel#1173"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian 6-m telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

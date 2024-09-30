@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HB890716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.30",
+            "Type": "QSO",
+            "Time": "Unknown",
+            "Date": "March 14th, 2015"
+        },
+        {
+            "Name": "CGRaBS J0721+7120",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.30",
+            "Type": "QSO",
+            "Time": "Unknown",
+            "Date": "March 14th, 2015"
+        },
+        {
+            "Name": "2FGLJ0721.9+7120",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.30",
+            "Type": "Gamma ray source",
+            "Time": "Unknown",
+            "Date": "March 14th, 2015"
+        }
+    ],
+    "References": [
+        "Atels #6902",
+        "#6944",
+        "#6953",
+        "#6957",
+        "#6999",
+        "#7026"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "Unknown",
+    "Date": "March 14th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory"
+}

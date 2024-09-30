@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": "17:49:37",
+            "Dec": "-28:21:28",
+            "redshift": null,
+            "Type": null,
+            "Time": "17:47",
+            "Date": "2006-09-22"
+        },
+        {
+            "Name": "IGR J17497-2821",
+            "RA": "17:49:37",
+            "Dec": "-28:21:28",
+            "redshift": null,
+            "Type": null,
+            "Time": "18:49",
+            "Date": "2006-09-23"
+        },
+        {
+            "Name": "IGR J17497-2821",
+            "RA": "17:49:37",
+            "Dec": "-28:21:28",
+            "redshift": null,
+            "Type": null,
+            "Time": "17:33",
+            "Date": "2006-09-24"
+        },
+        {
+            "Name": "2MASS 17493780-2821181",
+            "RA": "17:49:37.80",
+            "Dec": "-28:21:18",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 17493774-2821173",
+            "RA": "17:49:37.74",
+            "Dec": "-28:21:17.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Candidate 3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "atel #885",
+        "atel #889",
+        "atel #895",
+        "J. Zurita, priv. comm.",
+        "atel #888"
+    ],
+    "Event Type": null,
+    "Time": [
+        "17:47",
+        "18:39",
+        "20:17",
+        "18:49",
+        "17:33"
+    ],
+    "Date": "2006-09-22",
+    "Telescope": "1.4m IRSF",
+    "Instrument": "SIRIUS",
+    "Observatory": "South African Astronomical Observatory"
+}

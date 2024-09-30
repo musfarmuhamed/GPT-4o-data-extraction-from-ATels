@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2016-11e",
+            "RA": "9h55m15.30s",
+            "Dec": "+69\u00b005'11.4\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-21.080",
+            "Date": "2016-11-21"
+        },
+        {
+            "Name": "M81N 2016-11f",
+            "RA": "9h55m28.19s",
+            "Dec": "+69\u00b004'09.4\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-21.080",
+            "Date": "2016-11-21"
+        },
+        {
+            "Name": "M81N 2016-12c",
+            "RA": "9h55m39.72s",
+            "Dec": "+69\u00b004'34.0\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-15.016",
+            "Date": "2016-11-15"
+        },
+        {
+            "Name": "M81N 2016-12d",
+            "RA": "9h55m32.37s",
+            "Dec": "+69\u00b003'43.0\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-21.080",
+            "Date": "2016-11-21"
+        }
+    ],
+    "References": "Steele et al. 2004",
+    "Event Type": "nova discovery",
+    "Time": "2016-11-21.080",
+    "Date": "2016-11-21",
+    "Telescope": "LT, OND",
+    "Instrument": "IO:O optical CCD camera, Moravian Instruments G2-3200 CCD camera",
+    "Observatory": "Liverpool John Moores University, Spanish Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias, Ondrejov observatory"
+}

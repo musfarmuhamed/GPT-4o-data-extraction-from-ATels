@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004619.12+414436.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "26.486 UT",
+            "Date": "2012-12-26"
+        },
+        {
+            "Name": "PNV J00461912+4144364",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "25.585 UT",
+            "Date": "2012-12-25"
+        },
+        {
+            "Name": "M31N 2012-12b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-12"
+        }
+    ],
+    "References": "ATel #4680",
+    "Event Type": "outburst",
+    "Time": "27.16 UT",
+    "Date": "2012-12-27",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": null
+}

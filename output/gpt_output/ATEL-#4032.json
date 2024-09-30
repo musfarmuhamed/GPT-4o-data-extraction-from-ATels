@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1717-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~3",
+            "Type": "blazar",
+            "Time": "09:39 UT",
+            "Date": "April 11"
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "09:39 UT",
+            "Date": "April 11"
+        },
+        {
+            "Name": "WISE J171734.65-515532.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "09:39 UT",
+            "Date": "April 11"
+        }
+    ],
+    "References": [
+        "Schinzel et al., ATel #4023",
+        "Massaro et al., ATel #4029",
+        "Greiner et al. 2008, PASP, 120, 405",
+        "Schlegel et al. 1998",
+        "Rau et al. (2012, A&A, 538, A26)"
+    ],
+    "Event Type": "Observation",
+    "Time": "09:39 UT",
+    "Date": "April 11",
+    "Telescope": "2.2m MPI/ESO telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla"
+}

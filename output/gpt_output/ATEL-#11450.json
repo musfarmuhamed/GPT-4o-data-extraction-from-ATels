@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150803.15-270155.0",
+            "RA": "15h 08m 03.15s",
+            "Dec": "-27d 01m 55.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "01:43:02.836",
+            "Date": "2018-03-18"
+        },
+        {
+            "Name": "2MASXJ15080310-2701553",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy or AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "OT",
+    "Time": "01:43:02.836",
+    "Date": "2018-03-18",
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unspecified gamma-ray source",
+            "RA": "252.9",
+            "Dec": "53.7",
+            "redshift": null,
+            "Type": "gamma-ray",
+            "Time": "11:26",
+            "Date": "2012-01-09"
+        },
+        {
+            "Name": "2FGL J1649.6+5238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZQ J1656+5321",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "gamma-ray emission",
+    "Time": "11:26",
+    "Date": "2012-01-09",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

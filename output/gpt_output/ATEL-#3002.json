@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1730-13",
+            "RA": "17:33:02.7057",
+            "Dec": "-13:04:49.547",
+            "redshift": "0.902",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "NRAO 530",
+            "RA": "17:33:02.7057",
+            "Dec": "-13:04:49.547",
+            "redshift": "0.902",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1FGL J1733.0-1308",
+            "RA": "17:33:02.7057",
+            "Dec": "-13:04:49.547",
+            "redshift": "0.902",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Abdo et al.",
+            "Year": 2010,
+            "Journal": "ApJS",
+            "Volume": 188,
+            "Page": 405
+        },
+        {
+            "Author": "Johnston et al.",
+            "Year": 1995,
+            "Journal": "AJ",
+            "Volume": 110,
+            "Page": 880
+        },
+        {
+            "Author": "Junkkarinen",
+            "Year": 1984,
+            "Journal": "PASP",
+            "Volume": 96,
+            "Page": 539
+        }
+    ],
+    "Event Type": "High gamma-ray flux",
+    "Time": "Null",
+    "Date": "October 31 to November 2, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

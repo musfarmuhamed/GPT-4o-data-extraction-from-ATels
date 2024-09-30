@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Eri 2009 (KT Eri)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft source (SSS)",
+            "Time": null,
+            "Date": "2009 Nov 14.632"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V458 Vul",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMC 2009",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AGN Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2392",
+        "ATel #770",
+        "ATel #1721",
+        "ATel #2025",
+        "ATel #2418",
+        "Beardmore et al., 2008 ASPC 401 296",
+        "Ness et al., 2007 ApJ 665 1334",
+        "Nelson et al. 2008 ApJ 673 1067"
+    ],
+    "Event Type": "Supersoft Source (SSS) Variability",
+    "Time": null,
+    "Date": "2009 Nov 14.632",
+    "Telescope": "Swift X-ray Telescope (XRT)",
+    "Instrument": "LETG",
+    "Observatory": "Chandra"
+}

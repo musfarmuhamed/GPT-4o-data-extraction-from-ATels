@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15vk",
+            "RA": "01 24 40.98",
+            "Dec": "-74 47 15.2",
+            "redshift": "0.050",
+            "Type": "Ic",
+            "Time": "NULL",
+            "Date": "20151203"
+        },
+        {
+            "Name": "OGLE15tt",
+            "RA": "06 17 57.91",
+            "Dec": "-74 12 41.1",
+            "redshift": "0.039",
+            "Type": "II?",
+            "Time": "NULL",
+            "Date": "20151203"
+        },
+        {
+            "Name": "PS15cze",
+            "RA": "03 47 23.43",
+            "Dec": "+00 52 37.8",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20151203"
+        },
+        {
+            "Name": "PS15cyn",
+            "RA": "05 02 34.58",
+            "Dec": "-27 42 01.5",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20151203"
+        },
+        {
+            "Name": "PS15cyo",
+            "RA": "09 39 23.94",
+            "Dec": "+06 24 18.4",
+            "redshift": "0.031",
+            "Type": "Ic",
+            "Time": "NULL",
+            "Date": "20151203"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Valenti et al., ATel #4037",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Reference": "Huber et al., ATel #7153",
+            "URL": "NULL"
+        },
+        {
+            "Reference": "Wyrzykowski et al., 2014 arxiv:1409.1095",
+            "URL": "http://ogle.astrouw.edu.pl/"
+        },
+        {
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+            "URL": "NULL"
+        },
+        {
+            "Reference": "Harutyunyan et al., 2008, A&A, 488, 383",
+            "URL": "NULL"
+        }
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "NULL",
+    "Date": "20151203",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

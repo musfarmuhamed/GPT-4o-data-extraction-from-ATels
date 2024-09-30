@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS122+219",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.432,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4C+21.35",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.432,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGLJ1224.9+2122",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.432,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel#5981",
+        "Atel#5921"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "March 19th, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

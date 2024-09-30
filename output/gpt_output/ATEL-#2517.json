@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 150",
+            "RA": 59.87,
+            "Dec": 50.96,
+            "redshift": 1.517,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gamma-ray Source",
+            "RA": 60.03,
+            "Dec": 50.89,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "J.A. Acosta-Pulido et al. (arXiv:1003.3542)",
+    "Event Type": "observation",
+    "Time": "00:00 UTC",
+    "Date": "2008-08-04 to 2010-03-25",
+    "Telescope": "Fermi/LAT",
+    "Instrument": null,
+    "Observatory": null
+}

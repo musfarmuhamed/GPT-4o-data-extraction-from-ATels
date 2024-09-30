@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1747-312",
+            "RA": "17:50:46.37",
+            "Dec": "-31:16:29.6",
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Terzan 6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "in't Zand et al. 2003, A&A, 406, 233"
+        },
+        {
+            "Reference": "Bahramian et al. 2013, ApJ, 766, 136"
+        },
+        {
+            "Reference": "ATel #2139"
+        },
+        {
+            "Reference": "ATel #2974"
+        },
+        {
+            "Reference": "ATel #4302"
+        },
+        {
+            "Reference": "ATel #4883"
+        },
+        {
+            "Reference": "Harris, W.E. 1996, AJ, 112, 1487"
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "02:20:23 UTC",
+    "Date": "2013-03-24",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

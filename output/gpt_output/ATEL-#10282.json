@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J0523+0646",
+            "RA": 80.855,
+            "Dec": 6.777,
+            "redshift": null,
+            "Type": "unidentified source",
+            "Time": "11:50 UT",
+            "Date": "2017-04-16 to 2017-04-18"
+        },
+        {
+            "Name": "5BZQ J0517+0648",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.84,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "5th BZCAT Catalog, Massaro et al. 2015",
+    "Event Type": "gamma-ray emission detection",
+    "Time": "11:50 UT",
+    "Date": "2017-04-16 to 2017-04-18",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

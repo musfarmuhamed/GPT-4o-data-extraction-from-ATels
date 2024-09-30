@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supermassive black hole",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2013, ApJ 769, 155",
+        "Degenaar et al. 2014, IAUS 303, 315",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "Kennea et al. 2013, ApJ 770, L24",
+        "Mori et al. 2013, ApJ 770, L23",
+        "Ponti et al. 2015, MNRAS 446, 1536",
+        "Rea et al. 2013, ApJ 775, L34"
+    ],
+    "Event Type": "X-ray monitoring",
+    "Time": null,
+    "Date": "2015 February 3",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

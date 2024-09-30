@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1746-331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17464-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1746-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J1749.8-3312",
+            "RA": "17h49m50.6s",
+            "Dec": "-33d11m55s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J174948.4-331215",
+            "RA": "17h49m50.6s",
+            "Dec": "-33d11m55s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Skinner et al. 1990, MNRAS, 243, 72",
+        "White and van Paradijs (1996, ApJL, 473, L25)",
+        "Motch et al (1998, A&AS, 132, 341)"
+    ],
+    "Event Type": "X-ray flux",
+    "Time": "5.65, 7.99, 8.65",
+    "Date": "Apr",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": "NASA/GSFC"
+}

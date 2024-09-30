@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1819.3-2525",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "Null",
+            "Date": "1999 Sep. 15.420"
+        },
+        {
+            "Name": "GM Sgr",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "variable star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "XTE J1819-254",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "IAUC 7119, vsnet-alert 3475",
+    "Event Type": "X-ray observation",
+    "Time": "various times on Sep. 15, 1999",
+    "Date": "1999 Sep. 15",
+    "Telescope": "RXTE All-Sky Monitor (ASM)",
+    "Instrument": "ASM",
+    "Observatory": "MIT and NASA/GSFC"
+}

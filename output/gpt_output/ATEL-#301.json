@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate X-ray transient",
+            "Time": null,
+            "Date": "2003"
+        },
+        {
+            "Name": "IGR J1746-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate X-ray transient",
+            "Time": null,
+            "Date": "2003"
+        },
+        {
+            "Name": "XTE J17464-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate X-ray transient",
+            "Time": null,
+            "Date": "2003"
+        }
+    ],
+    "References": [
+        "ATEL#132",
+        "ATEL#133",
+        "ATEL#137"
+    ],
+    "Event Type": "Outburst",
+    "Time": {
+        "Start": "2003-03",
+        "End": "2004-02-07"
+    },
+    "Date": {
+        "Start": "2003-03",
+        "End": "2004-02-07",
+        "Detection again": "2004-07-03"
+    },
+    "Telescope": "RXTE",
+    "Instrument": [
+        "PCA",
+        "ASM"
+    ],
+    "Observatory": "RXTE"
+}

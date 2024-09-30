@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "15-80 keV",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2324",
+        "ATel #2336",
+        "Finger et al. 2006",
+        "ATel #2161",
+        "Finget et al. 1996ApJ...459..288F",
+        "ATel #504",
+        "Caballero et al. 2007A&A, 465, L21C"
+    ],
+    "Event Type": "Giant Outburst",
+    "Time": "MJD 55170.69",
+    "Date": "December 5, 2009",
+    "Telescope": [
+        "RXTE",
+        "Swift-BAT"
+    ],
+    "Instrument": [
+        "HEXTE"
+    ],
+    "Observatory": null
+}

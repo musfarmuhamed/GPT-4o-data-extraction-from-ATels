@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-12e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-12",
+            "Date": "2016-12"
+        },
+        {
+            "Name": "M31N 2007-11f",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #9912",
+        "ATel #9942",
+        "ATel #10001",
+        "ATel #1312",
+        "Shafter et al. 2015",
+        "ATel #7116",
+        "Gehrels et al. 2004",
+        "Roming et al. 2005",
+        "Burrows et al. 2005",
+        "Henze et al. 2014",
+        "Darnley et al. 2016",
+        "ATels #6604",
+        "ATel #8062",
+        "Page et al. 2015"
+    ],
+    "Event Type": "observation",
+    "Time": "2017-01-29.629",
+    "Date": "2017-01-29",
+    "Telescope": "Swift satellite",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

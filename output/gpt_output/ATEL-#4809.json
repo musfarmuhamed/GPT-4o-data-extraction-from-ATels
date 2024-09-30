@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12fkq",
+            "RA": "02:20:09.36",
+            "Dec": "-05:42:40.3",
+            "redshift": "0.08377",
+            "Type": "II",
+            "Time": ">~ Month after peak",
+            "Date": "2012 Dec 13"
+        },
+        {
+            "Name": "LSQ12gdd",
+            "RA": "03:34:24.94",
+            "Dec": "-26:46:26.4",
+            "redshift": "0.20",
+            "Type": "I",
+            "Time": "20-40 days after max",
+            "Date": "2012 Dec 13"
+        }
+    ],
+    "References": [
+        "Hadjiyska et al., ATel #3812",
+        "Howell et al 2002, BAAS, 34, 1256",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Anglo-Australian Telescope",
+    "Instrument": "AAOmega-2dF",
+    "Observatory": "La Silla-QUEST"
+}

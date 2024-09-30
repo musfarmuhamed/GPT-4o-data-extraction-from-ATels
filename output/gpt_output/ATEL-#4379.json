@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12evm",
+            "RA": "22 27 03.76",
+            "Dec": "-23:40:36.9",
+            "redshift": "0.136",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "20120916"
+        },
+        {
+            "Name": "LSQ12evl",
+            "RA": "20 38 11.35",
+            "Dec": "-20 54 24.5",
+            "redshift": "0.15",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20120916"
+        },
+        {
+            "Name": "LSQ12evo",
+            "RA": "21 10 05.63",
+            "Dec": "-25 35 23.6",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20120916"
+        },
+        {
+            "Name": "LSQ12ezn",
+            "RA": "03 37 45.57",
+            "Dec": "-37 15 56.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20120916"
+        },
+        {
+            "Name": "PSNJ02452841-6207214",
+            "RA": "02 45 28.41",
+            "Dec": "-62 07 21.3",
+            "redshift": "0.026",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "20120916"
+        },
+        {
+            "Name": "PSNJ04371913-6908254",
+            "RA": "04 37 19.13",
+            "Dec": "-69 08 25.4",
+            "redshift": "0.059",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20120916"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20120916",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

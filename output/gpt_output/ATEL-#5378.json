@@ -1,0 +1,186 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J20233073+2046041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H-gamma",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Component",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H-delta",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Component",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fe II 5018A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Component",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Ca II H and K",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Component",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Na I D1 and D2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Component",
+            "Time": "Sep. 8",
+            "Date": null
+        },
+        {
+            "Name": "Na I emission line (with possible He II)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission Line",
+            "Time": "Sep. 2",
+            "Date": null
+        },
+        {
+            "Name": "O I 5577, 6300, 6354, 8446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission Line",
+            "Time": "Aug. 18",
+            "Date": null
+        },
+        {
+            "Name": "Fe I 5052A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption Line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "O I 6726",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Feature",
+            "Time": "Sep. 18",
+            "Date": null
+        },
+        {
+            "Name": "C I 7115",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Feature",
+            "Time": "Sep. 22",
+            "Date": null
+        },
+        {
+            "Name": "Na I",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Interstellar Absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Ca II",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Interstellar Absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CH+ 4232A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CH 4300A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absence in spectra",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CN 3883, 4216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absence in spectra",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[N II]",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absence in spectra",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#5312",
+        "ATel#5370",
+        "ATel #5297"
+    ],
+    "Event Type": "Spectroscopic Observation Report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Nordic Optical Telescope, Ondrejov Observatory 2m Zeiss",
+    "Instrument": "FIbre-fed Echelle Spectrograph (FIES), coude spectrograph, ARAS group grating and echelle spectrographs",
+    "Observatory": null
+}

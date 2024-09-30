@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "14:27:48 UTC - 15:41:39 UTC",
+            "Date": "April 10, 2018"
+        }
+    ],
+    "References": [
+        "ATel #11497",
+        "ATel #11502",
+        "ATel #11505",
+        "ATel #11523",
+        "Patruno et al 2010"
+    ],
+    "Event Type": "outburst detection",
+    "Time": "14:27:48 UTC - 15:41:39 UTC",
+    "Date": "April 10, 2018",
+    "Telescope": "Astrosat",
+    "Instrument": [
+        "LAXPC",
+        "SXT"
+    ],
+    "Observatory": null
+}

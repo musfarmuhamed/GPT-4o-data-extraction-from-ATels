@@ -1,0 +1,149 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016enu",
+            "RA": "00:04:20.43",
+            "Dec": "+40:59:23.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "57581.55",
+            "Date": "2016-07-12"
+        },
+        {
+            "Name": "AT2016enx",
+            "RA": "01:14:22.24",
+            "Dec": "-13:09:11.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.56",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016enw",
+            "RA": "01:19:51.76",
+            "Dec": "-23:06:27.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.56",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016enz",
+            "RA": "01:24:47.65",
+            "Dec": "-16:51:50.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.58",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016epb",
+            "RA": "02:26:04.54",
+            "Dec": "-07:55:40.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "57602.59",
+            "Date": "2016-08-02"
+        },
+        {
+            "Name": "AT2016epa",
+            "RA": "02:26:10.81",
+            "Dec": "-23:23:54.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.59",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016epd",
+            "RA": "02:52:09.31",
+            "Dec": "-08:40:24.5",
+            "redshift": "0.057236",
+            "Type": null,
+            "Time": "57601.60",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016epc",
+            "RA": "15:37:42.43",
+            "Dec": "-22:36:16.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.27",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016eny",
+            "RA": "16:33:08.34",
+            "Dec": "-15:33:32.4",
+            "redshift": "0.027075",
+            "Type": null,
+            "Time": "57601.30",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016enm",
+            "RA": "17:09:04.98",
+            "Dec": "-17:36:21.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.32",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016enl",
+            "RA": "22:03:34.69",
+            "Dec": "-24:58:51.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.46",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016eno",
+            "RA": "23:25:17.78",
+            "Dec": "-18:52:42.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.50",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016epe",
+            "RA": "23:25:31.31",
+            "Dec": "-15:16:48.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "57602.52",
+            "Date": "2016-08-02"
+        },
+        {
+            "Name": "AT2016enn",
+            "RA": "23:28:55.08",
+            "Dec": "-08:52:01.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.51",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016enp",
+            "RA": "23:34:25.28",
+            "Dec": "-06:34:42.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "57601.51",
+            "Date": "2016-08-01"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": "2016-07-12",
+    "Telescope": "twin 0.5m telescope system",
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

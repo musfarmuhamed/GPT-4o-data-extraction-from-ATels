@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": "18:35:43.44587",
+            "Dec": "-19:19:10.462",
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "02:52-03:23 UT",
+            "Date": "2011 Sep 03"
+        }
+    ],
+    "References": [
+        "ATel #3611",
+        "ATel #3614",
+        "ATel #3618",
+        "ATel #3619",
+        "ATel #3626",
+        "ATel #3613"
+    ],
+    "Event Type": "observation",
+    "Time": "02:52-03:23 UT",
+    "Date": "2011 Sep 03",
+    "Telescope": "EVLA",
+    "Instrument": "4.6 and 7.9 GHz receivers",
+    "Observatory": "Very Large Array (VLA)"
+}

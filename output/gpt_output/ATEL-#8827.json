@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2E 161",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent X-ray transient",
+            "Time": "unknown",
+            "Date": "Jan 21, 2016"
+        },
+        {
+            "Name": "XMMU J004522.6+414802",
+            "RA": "00:45:22.64",
+            "Dec": "+41:48:02.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "Jan 21, 2016"
+        },
+        {
+            "Name": "XMMU J004421.0+414656",
+            "RA": "00:44:21.05",
+            "Dec": "+41:46:56.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "Jan 21, 2016"
+        }
+    ],
+    "References": [
+        "ATels #8825",
+        "ATels #8826",
+        "ATel #8227"
+    ],
+    "Event Type": "Observation of X-ray transients",
+    "Time": null,
+    "Date": "Jan 1 and 21, 2016",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

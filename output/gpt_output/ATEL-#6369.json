@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2FGLJ1800.5+7829",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "JD2456863.835",
+            "Date": "July 25, 2014"
+        },
+        {
+            "Name": "S5 1803+78",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "JD2456863.835",
+            "Date": "July 25, 2014"
+        },
+        {
+            "Name": "HB891803+784",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.68,
+            "Type": "quasar",
+            "Time": "JD2456863.835",
+            "Date": "July 25, 2014"
+        }
+    ],
+    "References": null,
+    "Event Type": "outburst state",
+    "Time": "JD2456863.835",
+    "Date": "July 25, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

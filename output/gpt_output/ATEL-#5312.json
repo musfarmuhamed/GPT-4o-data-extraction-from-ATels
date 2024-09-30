@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H14",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Balmer absorption component",
+            "Time": null,
+            "Date": "2013-08-22"
+        },
+        {
+            "Name": "Na I D",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption trough",
+            "Time": null,
+            "Date": "2013-08-22"
+        },
+        {
+            "Name": "Fe II 4921, 5018 A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption line",
+            "Time": "20:48",
+            "Date": "2013-08-22"
+        },
+        {
+            "Name": "O I 8446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Absorption profile",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5282",
+        "ATel #5300",
+        "ATel #5304",
+        "ATel #5305"
+    ],
+    "Event Type": "Spectroscopic Monitoring",
+    "Time": null,
+    "Date": "2013-04-14",
+    "Telescope": "Ondrejov Observatory 2m Zeiss coude spectrograph",
+    "Instrument": null,
+    "Observatory": "Ondrejov Observatory"
+}

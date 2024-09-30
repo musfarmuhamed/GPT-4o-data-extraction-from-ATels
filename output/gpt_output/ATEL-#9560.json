@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kv (AT 2016gqb)",
+            "RA": "05:07:39.480",
+            "Dec": "-19:32:55.90",
+            "redshift": 0.030434,
+            "Type": "Supernova",
+            "Time": "23:00",
+            "Date": "2016-09-27"
+        },
+        {
+            "Name": "2MASX J05073951-1932539",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.030434,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery",
+    "Time": "23:00",
+    "Date": "2016-09-27",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

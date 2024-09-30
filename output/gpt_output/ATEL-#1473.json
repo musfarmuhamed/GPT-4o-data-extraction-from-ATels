@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1943.0+3219",
+            "RA": "19h43m02.1s",
+            "Dec": "+32d19'12.8\"",
+            "redshift": null,
+            "Type": "X-ray Counterpart",
+            "Time": "00:00:00",
+            "Date": "2008-01-02"
+        },
+        {
+            "Name": "XMMSL1 J194301.9+321911",
+            "RA": "19h43m02.03s",
+            "Dec": "+32d19'10.5\"",
+            "redshift": null,
+            "Type": "X-ray Counterpart",
+            "Time": "00:00:00",
+            "Date": "2006-11-15"
+        },
+        {
+            "Name": "1RXS J194259.9+321940",
+            "RA": "19h42m59.90s",
+            "Dec": "+32d19'40.5\"",
+            "redshift": null,
+            "Type": "X-ray Counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC # 8934",
+        "CBET #1334"
+    ],
+    "Event Type": "Bright Nova",
+    "Time": "00:00:00",
+    "Date": "2008-01-02",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "NASA"
+}

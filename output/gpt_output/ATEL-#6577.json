@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0336-01",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray flare",
+            "Time": "2014-10-13.90",
+            "Date": "2014-10-13"
+        },
+        {
+            "Name": "2FGL J0339.4-0144",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray flare",
+            "Time": "2014-10-13.90",
+            "Date": "2014-10-13"
+        }
+    ],
+    "References": [
+        "ATel #6568 by Ciprini et al.",
+        "Wills & Lynds (ApJS 36,317, 1978)",
+        "Wills et al. 2011 (ApJS 194,19)",
+        "UCAC4 catalog",
+        "APM report",
+        "USNO-B1"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": "2014-10-13.90",
+    "Date": "2014-10-13",
+    "Telescope": "30cm telescope",
+    "Instrument": "IRAF/apphot",
+    "Observatory": "Foligno Observatory (MPC K56)"
+}

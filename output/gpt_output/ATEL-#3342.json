@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16413-4046",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "0.5-2.3 h",
+            "Date": "2011 May 9"
+        },
+        {
+            "Name": "CXOU J164119.4-404737",
+            "RA": "16h 41m 19s.49",
+            "Dec": "-40d 47' 37\".8",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16411948-4047378",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "near-IR source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16411927-4047323",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "near-IR source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010",
+        "Landi et al. 2010, ATEL#2731",
+        "Landi et al. 2011, ATEL#3178"
+    ],
+    "Event Type": "observation",
+    "Time": "0.5-2.3 h",
+    "Date": "2011 May 9",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

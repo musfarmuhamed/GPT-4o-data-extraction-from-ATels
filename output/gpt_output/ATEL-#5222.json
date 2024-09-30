@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174535.5-290124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unclassified very-faint X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unknown X-ray transient",
+            "RA": "17:45:36.42",
+            "Dec": "-29:01:31.7",
+            "redshift": null,
+            "Type": "Transient X-ray source",
+            "Time": null,
+            "Date": "2013-07-18"
+        }
+    ],
+    "References": [
+        "Degenaar & Wijnands 2009, A&A 495, 547",
+        "Degenaar & Wijnands 2010, A&A 524, 69",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "Kennea et al. 2013, ApJ 770, L24",
+        "Maeda et al. 1996, PASJ, 48, 417",
+        "Mori et al. 2013, ApJ 770, L23"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "1.0 ks",
+    "Date": "2013-07-18",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

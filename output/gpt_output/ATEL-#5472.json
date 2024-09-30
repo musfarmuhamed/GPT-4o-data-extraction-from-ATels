@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VER 0521+211",
+            "RA": "05h21m45.9658s",
+            "Dec": "+21d12m51.451s",
+            "redshift": "0.108",
+            "Type": "blazar",
+            "Time": "daily averaged",
+            "Date": "2013 October 14"
+        }
+    ],
+    "References": [
+        "Shaw et al. 2013, ApJ 764, 135",
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Ackerman et al. 2013, ApJS, submitted, arXiv1306.6772",
+        "VERITAS in 2009 (ATel #2309)"
+    ],
+    "Event Type": "gamma-ray outburst",
+    "Time": "daily averaged",
+    "Date": "2013 October 14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

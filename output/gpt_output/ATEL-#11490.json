@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole binary X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATels #11478, #11488",
+        "http://www.isdc.unige.ch/integral/analysis#QLAsources"
+    ],
+    "Event Type": "public Target-of-Opportunity observations",
+    "Time": null,
+    "Date": "16-27 March 2018",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X1",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL Science Data Centre (University of Geneva, Switzerland)"
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new optical transient (dwarf nova)",
+            "RA": "17 19 24.03",
+            "Dec": "-15 05 54.4",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "18:42:24 to 18:48:41 UT",
+            "Date": "2016 Mar. 18"
+        },
+        {
+            "Name": "NSV 8494",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable of VY Scl type (anti-nova)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J171856.6-152733",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17185668-1527336",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://scan.sai.msu.ru/~denis/DDE46-T31-2016Mar18-12.jpg",
+        "http://scan.sai.msu.ru/~denis/DDE46-BRIR5x5.jpg",
+        "http://scan.sai.msu.ru/~denis/NSV8494-DSS-Red-anim.gif"
+    ],
+    "Event Type": "Observation",
+    "Time": "18:42:24 to 18:48:41 UT",
+    "Date": "2016 Mar. 18",
+    "Telescope": "iTelescope.Net T31",
+    "Instrument": "0.51-m astrograph + 3kx3k CCD, 55'x55' FOV",
+    "Observatory": "Siding Spring Observatory"
+}

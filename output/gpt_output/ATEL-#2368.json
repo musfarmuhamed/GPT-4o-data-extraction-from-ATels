@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2009 December 27"
+        },
+        {
+            "Name": "Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2010 January 01"
+        }
+    ],
+    "References": [
+        "Donnarumma et al. 2009, ApJ, 691, L13",
+        "Krimm et al, ATEL #1449",
+        "Krimm et al. ATEL #2292",
+        "D'Ammando et al., ATEL #2295"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": null,
+    "Date": [
+        "2009 December 27",
+        "2010 January 01"
+    ],
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

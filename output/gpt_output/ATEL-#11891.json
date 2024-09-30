@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18sld/SN 2018ebt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02-0.03 or less",
+            "Type": "likely Ic-BL",
+            "Time": "11:52:48",
+            "Date": "2018-07-21"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel #8992",
+            "Mentioned Entity": "NUTS"
+        },
+        {
+            "Reference": "Atel #11727",
+            "Mentioned Entity": "ATLAS"
+        },
+        {
+            "Reference": "ApJ, 666, 1024",
+            "Mentioned Entity": "SNID (Blondin and Tonry 2007)"
+        },
+        {
+            "Reference": "A&A, 488, 383",
+            "Mentioned Entity": "GELATO (Harutyunyan et al. 2008)"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "11:52:48",
+    "Date": "2018-07-21",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

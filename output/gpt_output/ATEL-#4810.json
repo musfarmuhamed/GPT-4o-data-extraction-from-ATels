@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J133253.32+355733.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "Type-Ia supernova",
+            "Time": "13.26",
+            "Date": "2013-02-13"
+        },
+        {
+            "Name": "PSN J13275489+3022294",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-IIP supernova",
+            "Time": "10.13",
+            "Date": "2013-02-10"
+        }
+    ],
+    "References": "S. Shurpakov et al. (ATel #4805)",
+    "Event Type": "transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "4.2m William Herschel Telescope (WHT)",
+    "Instrument": "ISIS",
+    "Observatory": null
+}

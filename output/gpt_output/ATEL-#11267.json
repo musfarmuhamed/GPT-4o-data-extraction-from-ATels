@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018pc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009,
+            "Type": "Type Ia",
+            "Time": "-7 days relative to the maximum light",
+            "Date": "2018 Feb. 7.7"
+        },
+        {
+            "Name": "SN 2018pn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048,
+            "Type": "Type IIP",
+            "Time": "+0 days relative to the maximum light",
+            "Date": "2018 Feb. 7.7"
+        },
+        {
+            "Name": "ASASSN-18bt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.012,
+            "Type": "Type Ia",
+            "Time": "-8 days relative to the maximum light",
+            "Date": "2018 Feb. 7.7"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classifications",
+    "Time": "2018 Feb. 7.7",
+    "Date": "2018 Feb. 7.7",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories"
+}

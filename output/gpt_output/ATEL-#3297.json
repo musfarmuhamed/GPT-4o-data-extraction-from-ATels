@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.6",
+            "Date": "2011 April 14"
+        },
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "15.6",
+            "Date": "2011 April 15"
+        },
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "16.6",
+            "Date": "2011 April 16"
+        }
+    ],
+    "References": [
+        "ApJ, 653, L141",
+        "MNRAS, 408, L71",
+        "A Tel 3289"
+    ],
+    "Event Type": "outburst",
+    "Time": "14.6 to 16.6",
+    "Date": "2011 April 14 to April 16",
+    "Telescope": "1.2m Mount Abu telescope",
+    "Instrument": "NICMOS3 imager-cum-spectrograph",
+    "Observatory": "Mount Abu"
+}

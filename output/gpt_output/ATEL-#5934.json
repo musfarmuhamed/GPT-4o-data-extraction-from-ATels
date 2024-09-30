@@ -1,0 +1,100 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-022",
+            "RA": "04:03:27.76",
+            "Dec": "-72:11:26.9",
+            "redshift": "0.024",
+            "Type": "IIn",
+            "Time": "pre-max",
+            "Date": "2014-02-02"
+        },
+        {
+            "Name": "OGLE-2014-SN-020",
+            "RA": "06:24:30.22",
+            "Dec": "-73:58:10.5",
+            "redshift": "0.076",
+            "Type": "II",
+            "Time": "+40d",
+            "Date": "2014-01-20"
+        },
+        {
+            "Name": "LSQ14xi",
+            "RA": "12:30:41.17",
+            "Dec": "-13:46:21.9",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "2014-02-17"
+        },
+        {
+            "Name": "PS1-14on",
+            "RA": "13:05:54.26",
+            "Dec": "+08:56:55.2",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2014-02-25"
+        },
+        {
+            "Name": "PS1-14nv",
+            "RA": "15:02:44.81",
+            "Dec": "-28:19:40.3",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "2014-02-24"
+        },
+        {
+            "Name": "OGLE-2014-SN-023",
+            "RA": "08:26:16.29",
+            "Dec": "-69:52:22.0",
+            "redshift": "0.28?",
+            "Type": "?",
+            "Time": "?",
+            "Date": "2014-02-25"
+        },
+        {
+            "Name": "PS1-14op",
+            "RA": "13:10:43.42",
+            "Dec": "+18:47:53.5",
+            "redshift": "-",
+            "Type": "-",
+            "Time": "-",
+            "Date": "2014-02-25"
+        },
+        {
+            "Name": "LSQ14tc",
+            "RA": "13:27:29.80",
+            "Dec": "-30:33:31.3",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2014-02-14"
+        },
+        {
+            "Name": "CSS140222-141104+253050",
+            "RA": "14:11:04.41",
+            "Dec": "+25:30:49.9",
+            "redshift": "0.031",
+            "Type": "Ib",
+            "Time": "+7d",
+            "Date": "2014-02-22"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "OGLE-IV Transient Search, ATel #4495",
+        "Wyrzykowski et al. 2012",
+        "Valenti et al., ATel #2668",
+        "http://crts.caltech.edu/"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2014 Feb 27",
+    "Date": "2014-02-27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

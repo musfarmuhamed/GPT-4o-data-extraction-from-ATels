@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004131.52+410714.2",
+            "RA": "00h 41m 31.52s",
+            "Dec": "+41d 07m 14.2s",
+            "redshift": null,
+            "Type": "Possible Nova",
+            "Time": "15:12:10",
+            "Date": "2016-12-28"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2016-11-24",
+            "Time": "17:27:53",
+            "Details": "Reference image without OT with unfiltered magnitude limit 21.3m"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "15:12:10",
+    "Date": "2016-12-28",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

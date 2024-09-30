@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1814-338",
+            "RA": "18h13m40s",
+            "Dec": "-33o46'",
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "5.1",
+            "Date": "Jun 5"
+        }
+    ],
+    "References": [
+        {
+            "IAUC": "8144",
+            "Authors": [
+                "C. B. Markwardt",
+                "T. E. Strohmayer",
+                "J. H. Swank"
+            ],
+            "Affiliations": [
+                "University of Maryland",
+                "Goddard Space Flight Center (GSFC)"
+            ]
+        },
+        {
+            "Work": "Chakrabarty et al. 2003",
+            "Journal": "Nature",
+            "Status": "in press"
+        }
+    ],
+    "Event Type": "observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

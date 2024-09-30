@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A1744-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "April 7-8, 2004"
+        },
+        {
+            "Name": "XTE J1748-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "April 7-8, 2004"
+        }
+    ],
+    "References": [
+        "ATel #265",
+        "IAUC #2926",
+        "ApJ 1977 179, 27P",
+        "ATel #204"
+    ],
+    "Event Type": "Detection of X-ray transient",
+    "Time": null,
+    "Date": "April 7-8, 2004",
+    "Telescope": [
+        "ISGRI/IBIS",
+        "RXTE"
+    ],
+    "Instrument": [
+        "ISGRI",
+        "RXTE"
+    ],
+    "Observatory": [
+        "INTEGRAL"
+    ]
+}

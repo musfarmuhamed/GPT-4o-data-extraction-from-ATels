@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J135046.50-340016.9",
+            "RA": "13h 50m 46.5s",
+            "Dec": "-34d 0m 16.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2017-06-20.10488 UT",
+            "Date": "2017-06-20"
+        },
+        {
+            "Name": "MASTER OT J004127.19+410354.4",
+            "RA": "00h 41m 27.19s",
+            "Dec": "+41d 03m 54.4s",
+            "redshift": null,
+            "Type": "possible Nova in M31",
+            "Time": "2017-06-21.20471 UT",
+            "Date": "2017-06-21"
+        },
+        {
+            "Name": "MASTER OT J170623.96-600159.7",
+            "RA": "17h 06m 23.96s",
+            "Dec": "-60d 01m 59.7s",
+            "redshift": null,
+            "Type": "OT with ampl>5.3",
+            "Time": "2017-06-21.12775 UT",
+            "Date": "2017-06-21"
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "http://master.sai.msu.ru/static/OT/135046.50-340016.9.png",
+        "http://master.sai.msu.ru/static/OT/004127.19410354.4.png",
+        "http://master.sai.msu.ru/static/OT/170623.96-600159.7.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-OAFA",
+        "MASTER-IAC"
+    ],
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

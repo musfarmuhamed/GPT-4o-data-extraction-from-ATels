@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fo (AT 2016cob)",
+            "RA": "13:32:35.812",
+            "Dec": "-05:16:21.33",
+            "redshift": "0.026",
+            "Type": "Ia supernova, sub-type Ia-91T",
+            "Time": "23:40:07",
+            "Date": "2016-05-29"
+        },
+        {
+            "Name": "2MASX J13323577-0516218",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.029610",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9081",
+    "Event Type": "spectroscopic observation",
+    "Time": "23:40:07",
+    "Date": "2016-05-29",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos, La Palma"
+}

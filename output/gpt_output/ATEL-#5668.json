@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unidentified Source",
+            "RA": "95.93",
+            "Dec": "-33.85",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013-12-14"
+        },
+        {
+            "Name": "PMN J0623-3350",
+            "RA": "95.9163333",
+            "Dec": "-33.8373889",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "6dF J0621497-341150",
+            "RA": "95.456667",
+            "Dec": "-34.197167",
+            "redshift": "0.529",
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Healey et al., 2007 ApJS, 171, 61",
+        "Piranomonte et al. 2007 A&A, 470, 787",
+        "Giommi et al., 2005 A&A, 434, 385"
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": null,
+    "Date": "2013-12-14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

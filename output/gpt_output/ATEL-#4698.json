@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-SN-051",
+            "RA": "05 04 06.70",
+            "Dec": "-63 34 57.0",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2013-01-02"
+        },
+        {
+            "Name": "LSQ12hot",
+            "RA": "03 17 37.54",
+            "Dec": "+00 48 57.4",
+            "redshift": 0.024,
+            "Type": "?",
+            "Time": "00:00:00",
+            "Date": "2013-01-02"
+        },
+        {
+            "Name": "LSQ12hxn",
+            "RA": "09 24 40.15",
+            "Dec": "+22 26 03.0",
+            "redshift": 0.078,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2013-01-02"
+        },
+        {
+            "Name": "LSQ12hxt",
+            "RA": "03 47 22.00",
+            "Dec": "-31 12 01.5",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2013-01-02"
+        },
+        {
+            "Name": "LSQ12hzo",
+            "RA": "09 04 48.03",
+            "Dec": "+18 38 58.4",
+            "redshift": 0.111,
+            "Type": "-",
+            "Time": "00:00:00",
+            "Date": "2013-01-02"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "00:00:00",
+    "Date": "2013-01-02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

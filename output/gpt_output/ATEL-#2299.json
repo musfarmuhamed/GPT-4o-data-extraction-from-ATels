@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray binary/microquasar",
+            "Time": [
+                "18:55 UTC",
+                "00:54 UTC",
+                "13:25 UTC",
+                "19:10 UTC",
+                "14:04 UTC",
+                "19:45 UTC"
+            ],
+            "Date": [
+                "2009-10-31",
+                "2009-11-01",
+                "2009-11-07",
+                "2009-11-13"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #2288",
+        "ATel #2296",
+        "Rodriguez et al. 2008, ApJ, 675, 1436"
+    ],
+    "Event Type": "new outburst",
+    "Time": [
+        "18:55 UTC",
+        "00:54 UTC",
+        "13:25 UTC",
+        "19:10 UTC",
+        "14:04 UTC",
+        "19:45 UTC"
+    ],
+    "Date": [
+        "2009-10-31",
+        "2009-11-01",
+        "2009-11-07",
+        "2009-11-13"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

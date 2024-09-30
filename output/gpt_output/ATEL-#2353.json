@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0176+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21:50",
+            "Date": "2009-12-15"
+        }
+    ],
+    "References": [
+        "ATel#2342",
+        "ATel#2347",
+        "Gupta et al. 2008, AJ, 135, 1384"
+    ],
+    "Event Type": "strong millimeter band flaring, optical IDV polarization and strong optical IDV",
+    "Time": "2009-12-07 to 2009-12-15",
+    "Date": "2009-12-08 to 2009-12-15",
+    "Telescope": [
+        "1.04 meter telescope located in Nainital, India",
+        "1.3 meter telescope of MDM observatory"
+    ],
+    "Instrument": "ARIES CCD camera",
+    "Observatory": [
+        "Nainital, India",
+        "MDM observatory located on the southwest ridge of Kitt Peak, Arizona, USA"
+    ]
+}

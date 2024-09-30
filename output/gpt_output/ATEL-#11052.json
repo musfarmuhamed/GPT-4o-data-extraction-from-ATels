@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017imj",
+            "RA": "00 10 17.05",
+            "Dec": "-40 41 00.0",
+            "redshift": "0.047",
+            "Type": "II",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        },
+        {
+            "Name": "SN2017itp",
+            "RA": "03 00 15.20",
+            "Dec": "-10 31 47.2",
+            "redshift": "0.057",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        },
+        {
+            "Name": "SN2017its",
+            "RA": "05 36 36.50",
+            "Dec": "-31 43 18.1",
+            "redshift": "0.037",
+            "Type": "II",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        },
+        {
+            "Name": "SN2017itw",
+            "RA": "10 10 33.19",
+            "Dec": "-30 30 35.8",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        },
+        {
+            "Name": "SN2017iue",
+            "RA": "10 56 09.62",
+            "Dec": "-07 43 43.6",
+            "redshift": "0.052",
+            "Type": "II",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        },
+        {
+            "Name": "AT2017ivc",
+            "RA": "06 36 29.06",
+            "Dec": "-30 25 42.3",
+            "redshift": "0.0",
+            "Type": "?",
+            "Time": "00:00:00",
+            "Date": "2017-12-11"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "00:00:00",
+    "Date": "2017-12-11",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

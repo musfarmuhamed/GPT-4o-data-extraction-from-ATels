@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ol/AT2017hxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.062,
+            "Type": "Type Ia",
+            "Time": "13.2",
+            "Date": "2017-11-13"
+        },
+        {
+            "Name": "ASASSN-17op/AT2017hyt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "13.2",
+            "Date": "2017-11-13"
+        },
+        {
+            "Name": "ASASSN-17or/AT2017hyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "13.2",
+            "Date": "2017-11-13"
+        }
+    ],
+    "References": "ATel #10960",
+    "Event Type": "spectral observation",
+    "Time": "13.2",
+    "Date": "2017-11-13",
+    "Telescope": "du Pont 2.5m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

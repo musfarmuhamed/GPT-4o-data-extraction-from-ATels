@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J130409.61+463758.6",
+            "RA": "13h 04m 09.61s",
+            "Dec": "+46d 37m 58.6s",
+            "redshift": null,
+            "Type": "QSO?",
+            "Time": "2017-04-26.83281 UT",
+            "Date": "2017-04-26"
+        },
+        {
+            "Name": "MASTER OT J224910.38+340850.6",
+            "RA": "22h 49m 10.38s",
+            "Dec": "+34d 08m 50.6s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2017-04-28.98604 UT",
+            "Date": "2017-04-28"
+        },
+        {
+            "Name": "MASTER OT J231318.83+262628.2",
+            "RA": "23h 13m 18.83s",
+            "Dec": "+26d 26m 28.2s",
+            "redshift": null,
+            "Type": "PSN or CV?",
+            "Time": "2017-04-29.01071 UT",
+            "Date": "2017-04-29"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J130409.61+463758.6",
+            "Time": "2011-03-13.98235 UT",
+            "Date": "2011-03-13"
+        },
+        {
+            "Name": "MASTER OT J224910.38+340850.6",
+            "Time": "2014-10-14.78169 UT",
+            "Date": "2014-10-14"
+        },
+        {
+            "Name": "MASTER OT J231318.83+262628.2",
+            "Time": "2016-10-05.83032 UT",
+            "Date": "2016-10-05"
+        }
+    ],
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQJ1512-0905",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "QSO",
+            "Time": "JD2457219.7525",
+            "Date": "July 16th, 2015"
+        },
+        {
+            "Name": "PKS1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "QSO",
+            "Time": "JD2457219.7525",
+            "Date": "July 16th, 2015"
+        },
+        {
+            "Name": "2FGLJ1512.8-0906",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "gamma-ray source",
+            "Time": "JD2457219.7525",
+            "Date": "July 16th, 2015"
+        }
+    ],
+    "References": [
+        "ATEL #5416",
+        "ATEL #5422",
+        "ATEL #7587",
+        "ATEL #7799"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD2457219.7525",
+    "Date": "July 16th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

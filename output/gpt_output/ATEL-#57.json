@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1728-34",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "20:35",
+            "Date": "25 March 2000"
+        },
+        {
+            "Name": "MXB 1730-335 (Rapid Burster)",
+            "RA": "17h33m24s.61",
+            "Dec": "-33d23m19s.8",
+            "redshift": null,
+            "Type": "type II bursts",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Guerriero et al.",
+            "Year": 1999,
+            "ATEL": "#32"
+        },
+        {
+            "Authors": "Moore et al.",
+            "Year": 2000
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "20:35",
+    "Date": "25 March 2000",
+    "Telescope": "Rossi X-ray Timing Explorer",
+    "Instrument": "Proportional Counter Array (2-60 keV)",
+    "Observatory": "RXTE"
+}

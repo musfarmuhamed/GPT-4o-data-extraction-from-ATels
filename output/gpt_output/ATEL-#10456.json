@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 345",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.5928",
+            "Type": "flat-spectrum radio quasar",
+            "Time": "22:00",
+            "Date": "2017-06-02"
+        },
+        {
+            "Name": "3C 345",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.5928",
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2017-07-25"
+        },
+        {
+            "Name": "3C 345",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.5928",
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2017-05-24"
+        },
+        {
+            "Name": "3C 345",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.5928",
+            "Type": "flat-spectrum radio quasar",
+            "Time": "01:00",
+            "Date": "2017-06-03"
+        }
+    ],
+    "References": [
+        "Lynds, C.R., et al., 1965, ApJ, 142, 1667",
+        "Bottcher, M., 2005, ApJ, 630, 186"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": null,
+    "Date": "2017-05-31",
+    "Telescope": [
+        "81cm telescope",
+        "1.22m telescope",
+        "Asiago/Schmidt telescope"
+    ],
+    "Instrument": [
+        "B&C spectrograph",
+        "HeFeAr lamp",
+        "Standard star BD+332642"
+    ],
+    "Observatory": [
+        "Osservatorio astronomico della Regione Autonoma Valle d'Aosta",
+        "Asiago Astrophysical Observatory"
+    ]
+}

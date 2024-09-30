@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J12545218-1014502 (SNhunt117)",
+            "RA": "12:54:52.18",
+            "Dec": "-10:14:50.2",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2012-03-14"
+        }
+    ],
+    "References": {
+        "Host_Galaxy": {
+            "Name": "NGC 4790",
+            "Distance": "23.6 Mpc"
+        },
+        "HST_Observation": {
+            "Proposal": "Prop. 9042",
+            "PI": "Smartt",
+            "Year": "2001",
+            "Purpose": "An archive to detect the progenitors of massive, core-collapse supernovae"
+        },
+        "CSS_Discovery": {
+            "Date": "2012-03-14",
+            "Project": "Catalina Sky Survey (CSS)",
+            "CRTS": "CRTS Supernova Hunt project",
+            "Initial_Magnitude": "V=13.8"
+        },
+        "CSS_FollowUp": {
+            "Date": "2012-03-04 UT",
+            "Magnitude": "V=18.2"
+        },
+        "CSS_PreDiscovery": {
+            "Date": "2012-02-22 UT",
+            "Limit_Magnitude": "V > 19"
+        },
+        "FollowUp_Observations": {
+            "Date": "2012-04-13.165",
+            "Magnitude": "mag 13.5"
+        }
+    },
+    "Event Type": "Supernova Discovery",
+    "Time": null,
+    "Date": "2012-03-14",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey (CSS)"
+}

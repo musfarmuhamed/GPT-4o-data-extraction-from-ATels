@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "0.0-15.7 UT",
+            "Date": "2013-08-18"
+        }
+    ],
+    "References": [
+        "CBET #3628",
+        "ATEL #5283",
+        "ATEL #5302",
+        "Mukai et al. 2008 ApJ 677, 1248"
+    ],
+    "Event Type": "Observation",
+    "Time": "0.0-15.7 UT",
+    "Date": "2013-08-18",
+    "Telescope": "Swift satellite",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

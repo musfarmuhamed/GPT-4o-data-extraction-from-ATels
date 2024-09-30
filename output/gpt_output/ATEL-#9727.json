@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16na",
+            "RA": "04:09:10.271",
+            "Dec": "+21:26:24.77",
+            "redshift": 0.021191,
+            "Type": "Supernova",
+            "Time": "2016-11-06.34",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J04091030+2126244",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021191,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "J. Brimacombe",
+        "S. Kiyota",
+        "R. Post"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2016-11-06.34",
+    "Date": "2016-11-06",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19112+1358",
+            "RA": "19h 11m 22.3s",
+            "Dec": "+13d 55' 08.4\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "18:55",
+            "Date": "2009-10-31"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1489",
+        "ATel #1554"
+    ],
+    "Event Type": "Detection",
+    "Time": "18:55 - 00:40",
+    "Date": [
+        "2009-10-31",
+        "2009-11-01"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X, JEM-X1, ISGRI",
+    "Observatory": null
+}

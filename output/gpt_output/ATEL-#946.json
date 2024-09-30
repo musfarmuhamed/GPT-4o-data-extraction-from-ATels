@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20061113-003",
+            "RA": "02:04:24.02",
+            "Dec": "09:40:38.2",
+            "redshift": "0.0248",
+            "Type": "Type II",
+            "Time": "null",
+            "Date": "November 13.2 UTC"
+        },
+        {
+            "Name": "SN 2006il",
+            "RA": "null",
+            "Dec": "null",
+            "redshift": "0.02893",
+            "Type": "Type Ib",
+            "Time": "null",
+            "Date": "November 15.6 UTC"
+        }
+    ],
+    "References": "IAUC # 8770",
+    "Event Type": "Discovery and Spectral Analysis",
+    "Time": "null",
+    "Date": [
+        "November 13.2 UTC",
+        "November 15.5 UTC",
+        "November 11.2 UTC"
+    ],
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST II camera, SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "Palomar-QUEST Consortium, University of Hawaii"
+}

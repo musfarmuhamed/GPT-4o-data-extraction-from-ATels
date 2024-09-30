@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J23560655+2922423",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Type Ia Supernova",
+            "Time": "22.76",
+            "Date": "2014-10-22"
+        },
+        {
+            "Name": "SN 2005hk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 12850",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A, 488, 383; Springob et al. 2005, ApJ.Supp., 160, 149",
+    "Event Type": "Optical Spectrogram",
+    "Time": "22.76",
+    "Date": "2014-10-22",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

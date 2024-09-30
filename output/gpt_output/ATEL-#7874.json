@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "07:31:00",
+            "Date": "02/08/2015"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Evans et al.",
+            "Year": 2009,
+            "Journal": "MNRAS",
+            "Volume": 397,
+            "Page": 1177
+        },
+        {
+            "Authors": "MacDonald et al.",
+            "Year": 2014,
+            "Journal": "ApJ",
+            "Volume": 784,
+            "Page": 2
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "07:31:00",
+    "Date": "02/08/2015",
+    "Telescope": "Swift",
+    "Instrument": "XRT PC-mode",
+    "Observatory": "MAXI"
+}

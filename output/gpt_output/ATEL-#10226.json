@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17dv",
+            "RA": "09:52:31.221",
+            "Dec": "-21:57:54.59",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-03-22"
+        },
+        {
+            "Name": "ASASSN-17ed",
+            "RA": "04:42:28.250",
+            "Dec": "-44:15:04.43",
+            "redshift": "0.040308",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-03-16"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Chambers et al. 2016, arXiv:1612.05560"
+    ],
+    "Event Type": "transient sources discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Cassius, Brutus",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Haleakala"
+}

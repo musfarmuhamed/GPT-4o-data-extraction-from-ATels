@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1820-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultracompact X-ray binary",
+            "Time": "17:22:03",
+            "Date": "2010-03-17"
+        },
+        {
+            "Name": "4U 0614+09",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possibly superburster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Priedhorsky & Terrell, ApJ, 284, L17, 1984",
+        "Zdziarski et al., MNRAS 377, 1006, 2007",
+        "Galloway et al., ApJS 179, 360, 2008",
+        "Strohmayer & Brown, ApJ, 566, 1045, 2002",
+        "Cornelisse et al., A&A, 405, 1033, 2003",
+        "Keek & in 't Zand, Proc. 7th INTEGRAL Workshop, 2008"
+    ],
+    "Event Type": "superburst",
+    "Time": "17:22:03",
+    "Date": "2010-03-17",
+    "Telescope": [
+        "MAXI/GSC",
+        "RXTE/ASM",
+        "SWIFT-BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J0421+560/CI Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "peculiar B[e]/X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Barsukova, E. A. et al. (ATEL #416)",
+    "Event Type": "Periodic outburst, strong outburst, quiescent state",
+    "Time": null,
+    "Date": {
+        "periodic_outburst": "377+/-7 days",
+        "similar_variation": "372+/-15 days",
+        "observed_since": "2001",
+        "strong_outburst": "1998"
+    },
+    "Telescope": "RXTE",
+    "Instrument": "ASM",
+    "Observatory": null
+}

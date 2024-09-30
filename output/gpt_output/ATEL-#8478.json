@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "338.1517038",
+            "Dec": "11.7308067",
+            "redshift": "1.037",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2015 December 28"
+        },
+        {
+            "Name": "3FGL J2232.5+1143",
+            "RA": "338.1517038",
+            "Dec": "11.7308067",
+            "redshift": "1.037",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2015 December 28"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Schmidt 1965, ApJ, 141, 1295"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015 December 28",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

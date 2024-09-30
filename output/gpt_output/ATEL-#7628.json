@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15afx",
+            "RA": "11:09:31.15",
+            "Dec": "+04:09:47.4",
+            "redshift": "0.052",
+            "Type": "SN Ia",
+            "Time": "~1 month past max",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15agd",
+            "RA": "11:26:17.38",
+            "Dec": "+28:22:02.0",
+            "redshift": "0.030",
+            "Type": "SN II",
+            "Time": "~1 week past max",
+            "Date": "2015-05-29"
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A,488, 383; Blondin and Tonry 2007, ApJ, 666, 1024; Rixon et al, 2014, ATel #6593; ESA Gaia, DPAC Photometric Science Alerts Team",
+    "Event Type": "spectroscopic classification",
+    "Time": "Jun. 11.9 UT",
+    "Date": "2015-06-11",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Null"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J065608.28+744455.2",
+            "RA": "06h 56m 08.28s",
+            "Dec": "+74d 44m 55.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable, likely a dwarf nova of UGWZ type",
+            "Time": "03:30:36.372",
+            "Date": "2013-02-03"
+        },
+        {
+            "Name": "GALEX J065608.2+744456",
+            "RA": "06h 56m 08.2s",
+            "Dec": "+74d 44m 56s",
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/065608.28744455.2.png",
+    "Event Type": "discovery",
+    "Time": "03:30:36.372",
+    "Date": "2013-02-03",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Net"
+}

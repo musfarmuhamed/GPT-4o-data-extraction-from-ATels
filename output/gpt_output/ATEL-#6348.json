@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ep",
+            "RA": "15:23:44.06",
+            "Dec": "+68:37:55.6",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-07-27.21",
+            "Date": "2014-07-27"
+        },
+        {
+            "Name": "PGC 054973",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022829",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "transient",
+    "Time": "2014-07-27.21",
+    "Date": "2014-07-27",
+    "Telescope": "Brutus",
+    "Instrument": "0.35m f/11 Schmidt-Cassegrain + ST-10XME (Kodak KAF-3200E CCD)",
+    "Observatory": "Haleakala, Hawaii"
+}

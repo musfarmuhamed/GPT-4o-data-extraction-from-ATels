@@ -1,0 +1,135 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14fo",
+            "RA": "20:34:06.43",
+            "Dec": "-01:58:03.5",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "20140816",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14drn",
+            "RA": "20:39:04.63",
+            "Dec": "-61:10:27.0",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "20140724",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14drx",
+            "RA": "21:47:10.18",
+            "Dec": "-49:36:53.7",
+            "redshift": "0.07",
+            "Type": "IIn",
+            "Time": "20140726",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dsj",
+            "RA": "21:53:25.57",
+            "Dec": "-19:21:07.3",
+            "redshift": null,
+            "Type": "M-star",
+            "Time": "20140710",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dss",
+            "RA": "23:02:57.76",
+            "Dec": "-55:57:03.0",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "20140726",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dud",
+            "RA": "22:25:06.94",
+            "Dec": "+00:31:49.4",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "20140713",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dvq",
+            "RA": "21:03:10.63",
+            "Dec": "-60:30:28.9",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "20140724",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dvx",
+            "RA": "20:38:43.63",
+            "Dec": "-41:08:53.8",
+            "redshift": "0.05",
+            "Type": "II",
+            "Time": "20140724",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14dxa",
+            "RA": "22:08:39.89",
+            "Dec": "-56:09:24.9",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "20140724",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14ecb",
+            "RA": "21:53:41.32",
+            "Dec": "-13:17:27.4",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "20140725",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14edn",
+            "RA": "21:58:10.26",
+            "Dec": "-44:55:41.6",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "20140801",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "LSQ14eer",
+            "RA": "22:48:14.65",
+            "Dec": "+07:10:06.5",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": "20140802",
+            "Date": "2014 Aug 16"
+        },
+        {
+            "Name": "OGLE-2014-SN-046",
+            "RA": "01:09:06.73",
+            "Dec": "-74:30:46.4",
+            "redshift": "0.04",
+            "Type": "IIP",
+            "Time": "20140703",
+            "Date": "2014 Aug 16"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Liu et al. 1999, ApJS 122, 243",
+        "Liu et al. 1999, ApJS 122, 257"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2014 Aug 16 UT",
+    "Date": "2014 Aug 16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

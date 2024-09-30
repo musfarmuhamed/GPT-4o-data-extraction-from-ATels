@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-A2.0 1650-02316572",
+            "RA": "20h 44m 34.49s",
+            "Dec": "+75d 31m 58.9s",
+            "redshift": 0.095,
+            "Type": "Seyfert 1 Active Galactic Nucleus",
+            "Time": "23:54 UT",
+            "Date": "2010 August 2"
+        },
+        {
+            "Name": "IGR J20450+7530",
+            "RA": "20h 44m 34.49s",
+            "Dec": "+75d 31m 58.9s",
+            "redshift": 0.095,
+            "Type": "Seyfert 1 Active Galactic Nucleus",
+            "Time": "23:54 UT",
+            "Date": "2010 August 2"
+        }
+    ],
+    "References": "Landi et al. (ATel #2830), Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "Optical spectroscopic observation",
+    "Time": "23:54 UT",
+    "Date": "2010 August 2",
+    "Telescope": "1.52m Loiano Telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Loiano Telescope in Bologna"
+}

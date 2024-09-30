@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSNJ03033627+4656520",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Ia",
+            "Time": "+1 month",
+            "Date": null
+        },
+        {
+            "Name": "MASTERJ030831.74+142530.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "+10 d",
+            "Date": null
+        },
+        {
+            "Name": "PSNJ04133846+2528462",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.013,
+            "Type": "II",
+            "Time": "mid plateau",
+            "Date": null
+        },
+        {
+            "Name": "CSS140831:012531+070251",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "Catalina Real Time Transient Survey (CRTS)",
+            "Authors": "Drake et al. 2009",
+            "Journal": "ApJ",
+            "Volume": 696,
+            "Page": 870
+        },
+        {
+            "Title": "MASTER survey",
+            "Reference Number": 6434,
+            "URL": "http://observ.pereplet.ru/"
+        },
+        {
+            "Title": "CBAT Transient Object Confirmation Page",
+            "URL": null
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "3 September 2014",
+    "Telescope": "2.5m Isaac Newton Telescope",
+    "Instrument": "Intermediate Dispersion Spectrograph",
+    "Observatory": "La Palma"
+}

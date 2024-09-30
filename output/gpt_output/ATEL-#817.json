@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": "08h 40m 48.7s",
+            "Dec": "-45o 03' 41''",
+            "redshift": null,
+            "Type": "X-ray monitor",
+            "Time": null,
+            "Date": "2006-05-15"
+        },
+        {
+            "Name": "HD 74194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #813",
+        "ATEL #814",
+        "ATEL #815"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2006-05-15",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X X-ray monitor",
+    "Observatory": null
+}

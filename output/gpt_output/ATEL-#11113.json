@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17rh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": "2017-12-28.27",
+            "Date": "2017-12-28"
+        },
+        {
+            "Name": "ASASSN-17rm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028",
+            "Type": "Ia",
+            "Time": "2017-12-28.52",
+            "Date": "2017-12-28"
+        },
+        {
+            "Name": "ASASSN-17ro",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021",
+            "Type": "Ia",
+            "Time": "2017-12-28.40",
+            "Date": "2017-12-28"
+        },
+        {
+            "Name": "ASASSN-17rr",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.040",
+            "Type": "Ia-91T",
+            "Time": "2017-12-28.48",
+            "Date": "2017-12-28"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Robin Leadbeater"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2017-12-28",
+    "Telescope": "Hale 5m telescope",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

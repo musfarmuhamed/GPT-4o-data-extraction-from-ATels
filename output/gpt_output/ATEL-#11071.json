@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017ifu",
+            "RA": "02 50 55.03",
+            "Dec": "-02 08 06.3",
+            "redshift": "0.183",
+            "Type": "Ia-CSM",
+            "Time": null,
+            "Date": "20170928"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680"
+    ],
+    "Event Type": "supernova classification",
+    "Time": null,
+    "Date": "2017 Dec 15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

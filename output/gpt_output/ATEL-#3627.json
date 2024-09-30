@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17361-4441",
+            "RA": "17h36m17.418s",
+            "Dec": "-44:44:05.98",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "12:53",
+            "Date": "2011-08-29"
+        },
+        {
+            "Name": "Cluster Center (2005 Chandra frame)",
+            "RA": "17h36m17.175s",
+            "Dec": "-44:44:06.77",
+            "redshift": null,
+            "Type": "Cluster Center",
+            "Time": null,
+            "Date": "2005"
+        }
+    ],
+    "References": "#3565, #3566, #3595, #3617, Maxwell et al., in prep",
+    "Event Type": "Observation",
+    "Time": "12:53",
+    "Date": "2011-08-29",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS S3",
+    "Observatory": "Chandra X-ray Observatory"
+}

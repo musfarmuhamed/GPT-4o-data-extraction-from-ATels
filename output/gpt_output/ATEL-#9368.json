@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16io",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-08-08.43"
+        },
+        {
+            "Name": "ASASSN-16ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-08-09.210"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATel #9349",
+        "ATel #9353",
+        "ATel #9367"
+    ],
+    "Event Type": "Spectroscopic classifications of supernovae",
+    "Time": [
+        "2016-08-10",
+        "2016-08-11"
+    ],
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

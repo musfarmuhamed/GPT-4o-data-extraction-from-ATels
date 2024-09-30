@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13dum",
+            "RA": "00:43:24.92",
+            "Dec": "+41:21:22.3",
+            "redshift": null,
+            "Type": "apparent nova",
+            "Time": "UT Oct 22.1",
+            "Date": null
+        },
+        {
+            "Name": "PNV J00432496+4121219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "apparent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J00432496+4121219.html"
+    ],
+    "Event Type": "discovery of an apparent nova",
+    "Time": "UT Oct 22.1",
+    "Date": null,
+    "Telescope": "intermediate Palomar Transient Factory",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16nm",
+            "RA": "21:25:52.16",
+            "Dec": "-37:24:14.32",
+            "redshift": "0.030685",
+            "Type": "supernova",
+            "Time": "2016-11-23.09",
+            "Date": "2016-11-23"
+        },
+        {
+            "Name": "ASASSN-16nn",
+            "RA": "21:51:47.00",
+            "Dec": "-55:44:19.06",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-11-23.14",
+            "Date": "2016-11-23"
+        }
+    ],
+    "References": "ASAS-SN",
+    "Event Type": "discovery",
+    "Time": "2016-11-23",
+    "Date": "2016-11-23",
+    "Telescope": "Cassius",
+    "Instrument": "quadruple 14-cm telescope",
+    "Observatory": "Cerro Tololo, Chile"
+}

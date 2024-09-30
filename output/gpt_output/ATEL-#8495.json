@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15us",
+            "RA": "22:09:09.64",
+            "Dec": "-47:08:02.4",
+            "redshift": "0.005839",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-12-31"
+        },
+        {
+            "Name": "ASASSN-15ut",
+            "RA": "00:21:21.09",
+            "Dec": "-48:38:30.3",
+            "redshift": "0.003",
+            "Type": "Ia-91T",
+            "Time": null,
+            "Date": "2015-12-31"
+        },
+        {
+            "Name": "ASASSN-15uo",
+            "RA": "01:17:00.0",
+            "Dec": "-04:56:34.1",
+            "redshift": "0.038",
+            "Type": "IIn-pec",
+            "Time": null,
+            "Date": "2015-12-31"
+        },
+        {
+            "Name": "ASASSN-15uu",
+            "RA": "01:43:56.57",
+            "Dec": "+17:03:44.4",
+            "redshift": "0.02679",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-12-31"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": null,
+    "Date": "2015-12-31",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

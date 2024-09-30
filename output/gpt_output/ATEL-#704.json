@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-462",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "19:19:59",
+            "Date": "20 Jan",
+            "Telescope": "Swift/XRT",
+            "Instrument": "XRT",
+            "Observatory": "Swift"
+        }
+    ],
+    "References": [
+        "ATEL #696",
+        "ATEL #700",
+        "ATEL #702"
+    ],
+    "Event Type": "X-ray transient observation",
+    "Time": "19:19:59",
+    "Date": "20 Jan",
+    "Telescope": "Swift/UVOT",
+    "Instrument": "UVOT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova 2010bj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP",
+            "Time": "2010-04-13.4 UT",
+            "Date": "2010-04-13"
+        }
+    ],
+    "References": "CBET #2230, #2232",
+    "Event Type": "observation",
+    "Time": "2010-04-13.4 UT",
+    "Date": "2010-04-13",
+    "Telescope": "Swift satellite",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": "Swift"
+}

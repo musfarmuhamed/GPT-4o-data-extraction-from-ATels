@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jt",
+            "RA": "22:19:49.418",
+            "Dec": "-40:40:04.65",
+            "redshift": "0.010783",
+            "Type": "transient source, most likely a supernova",
+            "Time": "2016-08-31.09",
+            "Date": "2016-08-31"
+        },
+        {
+            "Name": "AT 2016cvk",
+            "RA": "22:19:49.390",
+            "Dec": "-40:40:03.20",
+            "redshift": null,
+            "Type": "previously reported transient",
+            "Time": null,
+            "Date": "2016-06-12"
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of a new transient source",
+    "Time": "2016-08-31.09",
+    "Date": "2016-08-31",
+    "Telescope": "Cassius",
+    "Instrument": "14-cm quadruple",
+    "Observatory": "Cerro Tololo, Chile"
+}

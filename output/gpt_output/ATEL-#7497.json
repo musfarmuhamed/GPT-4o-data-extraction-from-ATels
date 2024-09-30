@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ik",
+            "RA": "11:02:04.75",
+            "Dec": "+03:30:02.6",
+            "redshift": "2000.0",
+            "Type": "IIn",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15il",
+            "RA": "15:57:08.15",
+            "Dec": "-12:40:23.93",
+            "redshift": "2000.0",
+            "Type": "Ia normal",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7491",
+    "Event Type": null,
+    "Time": null,
+    "Date": "May 11, 2015",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J043254.33+205641.8",
+            "RA": "04h 32m 54.33s",
+            "Dec": "+20d 56m 41.8s",
+            "redshift": null,
+            "Type": "PLSN or CV",
+            "Time": "2013-01-02.53763",
+            "Date": "2013-01-02"
+        },
+        {
+            "Name": "SDSS J043254.50+205640.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/043254.33205641.8.png",
+    "Event Type": "OT",
+    "Time": "2013-01-02.53763",
+    "Date": "2013-01-02",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Net"
+}

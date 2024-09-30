@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017hix",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Ic",
+            "Time": "18:21:21",
+            "Date": "2017-10-17"
+        },
+        {
+            "Name": "AT 2017hkm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "21:56:10",
+            "Date": "2017-10-17"
+        },
+        {
+            "Name": "SN 2017hiq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.091,
+            "Type": "Ia",
+            "Time": "22:59:43",
+            "Date": "2017-10-17"
+        },
+        {
+            "Name": "SN 2017hjy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.007,
+            "Type": "Ia",
+            "Time": "00:36:15",
+            "Date": "2017-10-18"
+        },
+        {
+            "Name": "SN 2017hjw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016161,
+            "Type": "Ia",
+            "Time": "01:06:56",
+            "Date": "2017-10-18"
+        },
+        {
+            "Name": "SN 2017hju",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.022,
+            "Type": "Ia",
+            "Time": "01:53:53",
+            "Date": "2017-10-18"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

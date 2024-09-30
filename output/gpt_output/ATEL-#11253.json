@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18bt",
+            "RA": "09:06:39.541",
+            "Dec": "+19:20:17.77",
+            "redshift": "0.010981",
+            "Type": "supernova",
+            "Time": "2018-02-04.41",
+            "Date": "2018-02-04"
+        },
+        {
+            "Name": "UGC 04780",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010981",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "transient source discovery",
+    "Time": "2018-02-04.41",
+    "Date": "2018-02-04",
+    "Telescope": "Brutus",
+    "Instrument": "quadruple 14-cm",
+    "Observatory": "Haleakala, Hawaii"
+}

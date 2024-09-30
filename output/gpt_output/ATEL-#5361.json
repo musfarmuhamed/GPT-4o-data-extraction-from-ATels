@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1734.5-3027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": [
+                "20:43",
+                "00:25"
+            ],
+            "Date": [
+                "2013-09-03",
+                "2013-09-04"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #5354",
+        "GCN #15157",
+        "GCN #15172"
+    ],
+    "Event Type": "detection",
+    "Time": [
+        "20:43",
+        "00:25"
+    ],
+    "Date": [
+        "2013-09-03",
+        "2013-09-04"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL Galactic bulge monitoring"
+}

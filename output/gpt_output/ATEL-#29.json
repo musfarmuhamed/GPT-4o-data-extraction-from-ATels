@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR1627-41",
+            "RA": "16h27m12.0s",
+            "Dec": "-41d06.0'",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater (SGR)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "BATSE",
+        "RXTE"
+    ],
+    "Event Type": "soft gamma-ray bursts",
+    "Time": [
+        "June 15.109 UT",
+        "June 15.296 UT",
+        "June 15.411 UT",
+        "June 17.873 UT",
+        "June 17.901 UT",
+        "June 18.004 UT",
+        "June 18.035 UT",
+        "June 18.071 UT"
+    ],
+    "Date": [
+        "June 15",
+        "June 17",
+        "June 18"
+    ],
+    "Telescope": [
+        "BATSE"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

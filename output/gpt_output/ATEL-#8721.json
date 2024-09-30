@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1654-1055",
+            "RA": "248.19",
+            "Dec": "-10.93",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "February 8 to February 15, 2016"
+        },
+        {
+            "Name": "3FGL J1630.2-1052",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "3FGL source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1632-1052",
+            "RA": "248.20900",
+            "Dec": "-10.87578",
+            "redshift": null,
+            "Type": "flat-spectrum radio source",
+            "Time": null,
+            "Date": "1998"
+        },
+        {
+            "Name": "WISE J163250.09-105231.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "WISE source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Condon et al. 1998, AJ, 115, 1693; Massaro et al. 2011, ApJL, 740, 48; Ackermann et al. 2013, ApJ, 771, 57",
+    "Event Type": "gamma-ray activity",
+    "Time": null,
+    "Date": "February 8 to February 15, 2016",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA, DOE"
+}

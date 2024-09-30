@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12hno",
+            "RA": "03:42:43.26",
+            "Dec": "-02:40:09.8",
+            "redshift": 0.05,
+            "Type": "Ia-norm",
+            "Time": "13.108",
+            "Date": "December 13, 2023"
+        },
+        {
+            "Name": "LSQ12hnx",
+            "RA": "02:35:17.80",
+            "Dec": "-30:57:49.4",
+            "redshift": 0.16,
+            "Type": "Ia-norm",
+            "Time": "16.072",
+            "Date": "December 16, 2023"
+        },
+        {
+            "Name": "LSQ12htu",
+            "RA": "10:11:37.11",
+            "Dec": "-07:23:11.6",
+            "redshift": 0.04,
+            "Type": "IIb?",
+            "Time": "21.246",
+            "Date": "December 21, 2023"
+        }
+    ],
+    "References": "LSQ and Carnegie Supernova Project II",
+    "Event Type": "discovery and classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "WFCCD",
+    "Observatory": null
+}

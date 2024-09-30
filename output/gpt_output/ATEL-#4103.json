@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J02341+0228",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active galactic nucleus",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "QSO B0231+022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J023349.19+022925.1",
+            "RA": "02h33m49.20s (38.4549913 deg)",
+            "Dec": "02d29m25.20s (2.4903327 deg)",
+            "redshift": null,
+            "Type": "gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #4102",
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. 2011 ApJ, 740L, 48",
+        "Massaro, F. et al. 2012 ApJ in press",
+        "Massaro, F. et al. 2012 ApJ, 750L, 35",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. 2012 ApJ, 750, 138"
+    ],
+    "Event Type": "identification of counterparts",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": null,
+    "Observatory": null
+}

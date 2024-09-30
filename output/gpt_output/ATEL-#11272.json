@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1621-501",
+            "RA": "245.09",
+            "Dec": "-50.03",
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "21:51:08",
+            "Date": "2018-02-03"
+        },
+        {
+            "Name": "AX J1620.1-5002",
+            "RA": "245.05",
+            "Dec": "-50.033",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10869",
+        "ATel #10874",
+        "ATel #11067",
+        "ATel #11252",
+        "Kuulkers et al. 2003; A&A 399, 663"
+    ],
+    "Event Type": "Thermonuclear X-ray burst",
+    "Time": "21:51:08",
+    "Date": "2018-02-03",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": "INTEGRAL"
+}

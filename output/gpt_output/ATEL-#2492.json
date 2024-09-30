@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10cwr",
+            "RA": "11:25:46.67",
+            "Dec": "-08:49:41.2",
+            "redshift": "0.23",
+            "Type": "supernova",
+            "Time": "18.8",
+            "Date": "March 13.25"
+        }
+    ],
+    "References": [
+        "Mahabal et al. ATel #2490",
+        "Law et al., 2009",
+        "Rau et al., 2009",
+        "Quimby et al. 2007",
+        "arXiv:0910.0059"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.2-m Oschin telescope",
+    "Instrument": null,
+    "Observatory": "Palomar Observatory"
+}

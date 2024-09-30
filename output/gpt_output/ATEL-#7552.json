@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15abr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-P supernova",
+            "Time": "21.7",
+            "Date": "2015-05-21"
+        },
+        {
+            "Name": "SN 2006bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J120235.31+202439.6",
+            "RA": "12:02:35.31",
+            "Dec": "+20:24:39.6",
+            "redshift": "0.025",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7390",
+    "Event Type": "obtained optical spectrum",
+    "Time": "21.7",
+    "Date": "2015-05-21",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "+YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

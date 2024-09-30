@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "07:58:37 UT to 06:02:51 UT",
+            "Date": "2011-05-28 to 2011-05-29"
+        },
+        {
+            "Name": "PSR J2021+3651",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J2021+4026",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J2032+4127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tavani et al., 2009",
+    "Event Type": "gamma-ray emission detection",
+    "Time": "07:58:37 UT to 06:02:51 UT",
+    "Date": "2011-05-28 to 2011-05-29",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

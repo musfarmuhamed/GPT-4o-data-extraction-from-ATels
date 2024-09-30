@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J190141.0+012618",
+            "RA": "19h01m41.0s",
+            "Dec": "+1 26' 18\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1901+014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL 88",
+    "Event Type": null,
+    "Time": null,
+    "Date": "1994-10-03",
+    "Telescope": "ROSAT",
+    "Instrument": [
+        "PSPC",
+        "HRI"
+    ],
+    "Observatory": "RXTE/ASM"
+}

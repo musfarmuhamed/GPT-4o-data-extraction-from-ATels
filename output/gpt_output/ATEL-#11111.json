@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2017-12c",
+            "RA": "9h54m54.87s",
+            "Dec": "+69\u00b006'33.6\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:02",
+            "Date": "2017-12-27"
+        },
+        {
+            "Name": "M81N 2017-12d",
+            "RA": "9h55m35.89s",
+            "Dec": "+69\u00b003'37.6\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:02",
+            "Date": "2017-12-27"
+        },
+        {
+            "Name": "M81N 2017-12e",
+            "RA": "9h55m18.20s",
+            "Dec": "+69\u00b004'31.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:02",
+            "Date": "2017-12-27"
+        }
+    ],
+    "References": [
+        "Steele et al. 2004",
+        "SDSS DR7 photometry catalogue",
+        "Perelmuter & Racine (1995)"
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:02",
+    "Date": "2017-12-27",
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "IO:O optical CCD camera",
+    "Observatory": "La Palma, Observatorio del Roque de los Muchachos, Instituto de Astrofisica de Canarias"
+}

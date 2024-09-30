@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16393-4643",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant wind-accretion powered HMXB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Thompson et al. (2006, ApJ 649, 373); Nespoli et al. (2010, A&A in press, arXiv:0910.0990); Corbet (1986, MNRAS, 220, 1047)",
+    "Event Type": "Observation",
+    "Time": "MJD 54,352.50 (+/- 0.09)",
+    "Date": "Between 2005-02-12 and 2010-04-13 (Swift BAT); Between 2004-06-07 and 2010-04-11 (RXTE PCA)",
+    "Telescope": [
+        "Swift BAT",
+        "RXTE PCA"
+    ],
+    "Instrument": [
+        "BAT (15 - 50 keV)",
+        "PCA (2 - 10 keV)"
+    ],
+    "Observatory": [
+        "Swift Observing Team",
+        "RXTE PCA Team"
+    ]
+}

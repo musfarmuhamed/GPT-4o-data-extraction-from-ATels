@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09561209+6902134",
+            "RA": "9h56m12s.09",
+            "Dec": "+69o02'13\".4",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "18.966",
+            "Date": "2014-03-18"
+        },
+        {
+            "Name": "PNV J09553488+6910194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "18.963",
+            "Date": "2014-03-18"
+        }
+    ],
+    "References": "ATel #5918",
+    "Event Type": "discovery of nova",
+    "Time": "18.966",
+    "Date": "2014-03-18",
+    "Telescope": "Isaac Newton Telescope, 0.65-m telescope",
+    "Instrument": "CCD",
+    "Observatory": "ING in the Spanish Observatorio del Roque de los Muchachos, Ondrejov"
+}

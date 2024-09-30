@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "01:00:00",
+            "Date": "2017-11-17"
+        },
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "01:00:00",
+            "Date": "2017-11-22"
+        }
+    ],
+    "References": [
+        "ATels #10775",
+        "ATels #10818",
+        "ATels #10924",
+        "ATels #10925",
+        "ATels #10972"
+    ],
+    "Event Type": "GeV emission monitoring",
+    "Time": "01:00:00",
+    "Date": "2017-11-17 to 2017-11-22",
+    "Telescope": "Fermi LAT",
+    "Instrument": "Pair Conversion Telescope",
+    "Observatory": null
+}

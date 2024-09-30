@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J091047.21-622754.5",
+            "RA": "09h 10m 47.21s",
+            "Dec": "-62d 27m 54.5s",
+            "redshift": null,
+            "Type": "OT, possible dwarf nova",
+            "Time": "07:41:59",
+            "Date": "2018-01-03"
+        },
+        {
+            "Name": "MASTER OT J152804.66-673720.4",
+            "RA": "15h 28m 04.66s",
+            "Dec": "-67d 37m 20.4s",
+            "redshift": null,
+            "Type": "OT, possible dwarf nova",
+            "Time": "08:22:30",
+            "Date": "2018-01-04"
+        },
+        {
+            "Name": "MASTER OT J103830.90-640119.4",
+            "RA": "10h 38m 30.90s",
+            "Dec": "-64d 01m 19.4s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "02:49:17",
+            "Date": "2017-12-28"
+        }
+    ],
+    "References": null,
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-OAFA",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

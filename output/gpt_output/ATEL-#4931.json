@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J212444.87+321738.3",
+            "RA": "21h24m44.87s",
+            "Dec": "+32d17m38.3s",
+            "redshift": null,
+            "Type": "Mira or semi-regular variable",
+            "Time": "21.020 UT",
+            "Date": "2013-03-21"
+        },
+        {
+            "Name": "J212444.87+321738.3",
+            "RA": "21h24m44.87s",
+            "Dec": "+32d17m38.3s",
+            "redshift": null,
+            "Type": "Mira or semi-regular variable",
+            "Time": "23.010 UT",
+            "Date": "2013-03-23"
+        }
+    ],
+    "References": [
+        "ATel #4888",
+        "Smith et al., 2002, AJ, 123, 948",
+        "Lancon and Wood, 2000, A &A Suppl. Ser., 146, 217"
+    ],
+    "Event Type": "photometric and spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Mount Abu 1.2-m telescope",
+    "Instrument": "Near-IR Imager cum spectrograph (NICMOS-3)",
+    "Observatory": "Physical Research Laboratory, India"
+}

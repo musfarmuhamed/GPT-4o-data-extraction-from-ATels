@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bqc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "type-IIb supernova",
+            "Time": "10.8 UT",
+            "Date": "2015 Aug 10"
+        },
+        {
+            "Name": "CGCG 029-015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Marzke, Huchra, & Geller 1996, AJ, 112, 1803",
+        "Huber et al. 2015, ATel #7153"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "10.8 UT",
+    "Date": "2015 Aug 10",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

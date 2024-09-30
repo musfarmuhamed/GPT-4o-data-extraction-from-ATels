@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "09:43 - 10:03 UT (Swift XRT); 05:54 - 05:58 UT (VLA)",
+            "Date": "2015-08-22"
+        }
+    ],
+    "References": [
+        "ATel #7858",
+        "ATel #7874",
+        "ATel #7904",
+        "ATel #7908",
+        "MacDonald et al. 2014, ApJ, 784, 2",
+        "Deller et al. 2015, ApJ, 809, 13"
+    ],
+    "Event Type": "Outburst and accretion state transition",
+    "Time": "09:43 - 10:03 UT (Swift XRT); 05:54 - 05:58 UT (VLA)",
+    "Date": "2015-08-22",
+    "Telescope": "Swift X-ray Telescope (XRT), Karl G. Jansky Very Large Array (VLA)",
+    "Instrument": "Swift XRT, VLA",
+    "Observatory": "NRAO, Swift"
+}

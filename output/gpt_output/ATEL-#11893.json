@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1566",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "September 2017"
+        },
+        {
+            "Name": "ASASSN-14ha",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II Supernova",
+            "Time": null,
+            "Date": 2014
+        }
+    ],
+    "References": [
+        "Kochanek et al. 2017, PASP, 129, 4502",
+        "ATel #11786",
+        "ATel #11783",
+        "ATel #11754"
+    ],
+    "Event Type": "AGN Brightening",
+    "Time": null,
+    "Date": "June 2018",
+    "Telescope": "Integral, Swift",
+    "Instrument": null,
+    "Observatory": "Las Cumbres Observatory"
+}

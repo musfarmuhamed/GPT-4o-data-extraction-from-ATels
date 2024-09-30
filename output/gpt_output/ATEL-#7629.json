@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15bai",
+            "RA": "16:22:05.54",
+            "Dec": "+37:19:19.9",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-28"
+        }
+    ],
+    "References": [
+        {
+            "Paper": "ATel #4807"
+        },
+        {
+            "Algorithm": "RB2",
+            "Reference": "Brink et al. 2013MNRAS.435.1047B"
+        },
+        {
+            "Algorithm": "RB4",
+            "Reference": "Rebbapragada et al. 2015AAS...22543402R"
+        },
+        {
+            "Algorithm": "RB5",
+            "Reference": "Wozniak et al. 2013AAS...22143105W"
+        },
+        {
+            "Paper": "ATel #7112"
+        },
+        {
+            "Tool": "WISeREP",
+            "Reference": "Yaron & Gal-Yam 2012"
+        },
+        {
+            "Tool": "SNID",
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "2015-05-28",
+    "Telescope": "FTN",
+    "Instrument": "FLOYDS",
+    "Observatory": "LCOGT"
+}

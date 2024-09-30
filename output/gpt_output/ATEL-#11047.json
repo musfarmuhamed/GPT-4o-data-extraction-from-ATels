@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS1502+106",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.839,
+            "Type": "blazar",
+            "Time": "12:17-12:35",
+            "Date": "December 9, 2017"
+        },
+        {
+            "Name": "PKS1506+106",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "February 2009"
+        }
+    ],
+    "References": "http://james.as.arizona.edu/~psmith/Fermi",
+    "Event Type": "Optical monitoring of gamma-ray-bright blazars",
+    "Time": "12:17-12:35",
+    "Date": "December 9, 2017",
+    "Telescope": "1.54-m Kuiper Telescope",
+    "Instrument": "SPOL spectropolarimeter",
+    "Observatory": "Steward Observatory (SO)"
+}

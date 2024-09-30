@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:55-14:54 UT",
+            "Date": "August 28"
+        }
+    ],
+    "References": [
+        "ATel #601",
+        "Coburn et. al. 2002, ApJ, 580, 394",
+        "ATel #595",
+        "ATel #597"
+    ],
+    "Event Type": "Current Outburst",
+    "Time": "13:55-14:54 UT",
+    "Date": "August 28",
+    "Telescope": "RXTE",
+    "Instrument": [
+        "HEXTE",
+        "PCA"
+    ],
+    "Observatory": null
+}

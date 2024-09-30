@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1909+07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray emission",
+            "Time": "MJD 53416 to 56452",
+            "Date": "2005-02-15 to 2013-06-09"
+        },
+        {
+            "Name": "2S 0114+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "wind-accretion high-mass X-ray binaries containing neutron stars",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16493-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "wind-accretion high-mass X-ray binaries containing neutron stars",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5079, Farrell et al. 2008, MNRAS 389, 608; ATel #2599, Pearlman et al. 2013, AAS 221, 142.38",
+    "Event Type": "enhanced hard X-ray emission detection",
+    "Time": "MJD 53416 to 56452",
+    "Date": "2005-02-15 to 2013-06-09",
+    "Telescope": "Swift BAT",
+    "Instrument": "INTEGRAL",
+    "Observatory": "Swift"
+}

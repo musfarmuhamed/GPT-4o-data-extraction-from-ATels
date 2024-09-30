@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2010fz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "21:30 UT",
+            "Date": "July 11"
+        },
+        {
+            "Name": "NGC 2967",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2361",
+        "CBET #2364"
+    ],
+    "Event Type": "observation",
+    "Time": "21:30 UT",
+    "Date": "July 11",
+    "Telescope": "EVLA",
+    "Instrument": "new capability of 2 GHz bandwidth",
+    "Observatory": null
+}

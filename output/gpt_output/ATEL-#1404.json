@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080228:044416-054730",
+            "RA": "04:44:16.05",
+            "Dec": "05:47:30.2",
+            "redshift": null,
+            "Type": "flare star",
+            "Time": "04:06:23",
+            "Date": "2008-02-28"
+        },
+        {
+            "Name": "CSS080228:142427--063345",
+            "RA": "14:24:26.63",
+            "Dec": "-06:33:44.8",
+            "redshift": null,
+            "Type": "supernova or AGN flare",
+            "Time": "12:12:46",
+            "Date": "2008-02-28"
+        },
+        {
+            "Name": "CSS080302:145726-232348",
+            "RA": "14:57:26.21",
+            "Dec": "23:23:48.2",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "11:54:23",
+            "Date": "2008-03-02"
+        }
+    ],
+    "References": [
+        "http://voeventnet.caltech.edu/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "optical transient",
+    "Time": null,
+    "Date": "2008-02-28 to 2008-03-02",
+    "Telescope": "Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Mt. Bigelow"
+}

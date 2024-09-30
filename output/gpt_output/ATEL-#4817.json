@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J14323388-4413278",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia supernova",
+            "Time": "15.70 UT",
+            "Date": "Feb 15"
+        },
+        {
+            "Name": "NGC 5643",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1199 km/s",
+            "Type": "host-galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Howell et al. 2005, Ap.J. 634, 1190",
+        "Pereira et al. 2013, pre-print, astro-ph/0008463"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": "Feb 13.62 UT",
+    "Date": "Feb 13",
+    "Telescope": [
+        "8-m Gemini South telescope"
+    ],
+    "Instrument": [
+        "FLOYDS (FTS) spectrograph",
+        "Gemini Multi-Object Spectrograph (GMOS)"
+    ],
+    "Observatory": [
+        "Gemini South"
+    ]
+}

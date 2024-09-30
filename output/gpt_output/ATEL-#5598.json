@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": "22h 02m 43s",
+            "Dec": "+42d 16m 40s",
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "19:35",
+            "Date": "2013 November 25"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Larionov et al.",
+            "ATEL": "#5597"
+        },
+        {
+            "Author": "Raiteri et al.",
+            "Journal": "MNRAS",
+            "Volume": "436",
+            "Page": "1530",
+            "Year": "2013"
+        }
+    ],
+    "Event Type": "high flux in the Optical/UV",
+    "Time": "19:35",
+    "Date": "2013 November 25",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, X-ray",
+    "Observatory": null
+}

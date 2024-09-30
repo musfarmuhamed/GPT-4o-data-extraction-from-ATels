@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J141023.42-431843.7",
+            "RA": "14h 10m 23.42s",
+            "Dec": "-43d 18m 43.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00:01:33",
+            "Date": "2015-12-15"
+        },
+        {
+            "Name": "NGC5483",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1771km/s",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "discovery",
+    "Time": "00:01:33",
+    "Date": "2015-12-15",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

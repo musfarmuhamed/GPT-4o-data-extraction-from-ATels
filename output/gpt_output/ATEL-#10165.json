@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017caw",
+            "RA": "08:07:50.10",
+            "Dec": "-61:46:15.60",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-03-08.078",
+            "Date": null
+        },
+        {
+            "Name": "AT2017bzc",
+            "RA": "23:16:14.69",
+            "Dec": "-42:34:10.90",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-03-07.219",
+            "Date": null
+        },
+        {
+            "Name": "AT2017bzb",
+            "RA": "22:57:17.30",
+            "Dec": "-41:00:57.60",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-03-07.213",
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of apparent supernovae",
+    "Time": "2017-03-07 and 2017-03-08",
+    "Date": null,
+    "Telescope": "30-cm Astro-Tech AT12RC Ritchey-Chretien astrograph",
+    "Instrument": "ST10 camera",
+    "Observatory": "Parkdale Observatory"
+}

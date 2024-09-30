@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ih",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.019827,
+            "Type": "Type Ia SN",
+            "Time": "12.0",
+            "Date": "2015 May 12.0"
+        },
+        {
+            "Name": "ASASSN-15ik",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0348,
+            "Type": "Type IIn SN",
+            "Time": "12.0",
+            "Date": "2015 May 12.0"
+        }
+    ],
+    "References": [
+        "ATel #7483",
+        "ATel #7491",
+        "ATel #7497"
+    ],
+    "Event Type": null,
+    "Time": "12.0",
+    "Date": "2015 May 12.0",
+    "Telescope": "Magellan Baade 6.5-m telescope",
+    "Instrument": "IMACS",
+    "Observatory": "LCO"
+}

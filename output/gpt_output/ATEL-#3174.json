@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16418-4532",
+            "RA": "16h 41m 50.74s",
+            "Dec": "-45d 32m 23.9s",
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "01:59:43 UT",
+            "Date": "2011-02-18"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Tomsick et al. 2004, Atel #224"
+        },
+        {
+            "Reference": "Sguera et al. 2006, ApJ, 646, 452"
+        },
+        {
+            "Reference": "Evans et al. 2009, MNRAS, 2009, 397, 1177"
+        },
+        {
+            "Reference": "Walter et al. 2006 A&A, 453, 133"
+        },
+        {
+            "Reference": "Chaty et al. 2008 (A&A, 484, 783)"
+        }
+    ],
+    "Event Type": "MAXI Nova alert",
+    "Time": "15:18:12 UT",
+    "Date": "2011-02-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

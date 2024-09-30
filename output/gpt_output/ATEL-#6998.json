@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS150117-104148-014721",
+            "RA": "10:41:47.99",
+            "Dec": "-01:47:21.2",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "CSS150124-114309+192629",
+            "RA": "11:43:08.87",
+            "Dec": "+19:26:28.8",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "LSQ15fg",
+            "RA": "13:44:51.47",
+            "Dec": "-06:55:38.6",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "OGLE-2015-SN-024",
+            "RA": "05:10:02.05",
+            "Dec": "-77:59:11.1",
+            "redshift": 0.075,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "OGLE-2015-SN-029",
+            "RA": "04:11:17.18",
+            "Dec": "-70:57:36.2",
+            "redshift": 0.06,
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "OGLE-2015-SN-035",
+            "RA": "06:03:24.67",
+            "Dec": "-66:39:23.8",
+            "redshift": 0.041,
+            "Type": "?",
+            "Time": null,
+            "Date": "2015-01-26"
+        }
+    ],
+    "References": "Smartt et al. 2014, arXiv:1411.0299; http://www.pessto.org, Baltay et al. 2013, PASP, 125, 683, Wyrzykowski et al. 2014, arxiv:1409.1095; http://ogle.astrouw.edu.pl, Drake et al. 2009, ApJ, 696, 870; http://crts.caltech.edu/",
+    "Event Type": "Supernova classifications",
+    "Time": null,
+    "Date": "2015-01-26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

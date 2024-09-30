@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15xx",
+            "RA": "05:35:40.35",
+            "Dec": "-66:20:48.5",
+            "redshift": "0.21:",
+            "Type": "SNIc-pec",
+            "Time": "~+10",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "AT 2016ad",
+            "RA": "09:16:40.72",
+            "Dec": "+22:17:52.7",
+            "redshift": "0.05",
+            "Type": "SNIa",
+            "Time": "+7",
+            "Date": "2016-01-08"
+        },
+        {
+            "Name": "PS16yx",
+            "RA": "13:37:36.31",
+            "Dec": "-29:21:20.7",
+            "redshift": "0.091",
+            "Type": "SNIa",
+            "Time": "max",
+            "Date": "2016-01-24"
+        },
+        {
+            "Name": "PS16uk",
+            "RA": "09:31:42.51",
+            "Dec": "-30:13:01.1",
+            "redshift": "0",
+            "Type": "CV?",
+            "Time": "---",
+            "Date": "2016-01-22"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40, Huber et al., ATel #7153, Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/, Blondin & Tonry, 2007, ApJ, 666, 1024, Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "2016 January 28th",
+    "Date": "2016 January 28th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

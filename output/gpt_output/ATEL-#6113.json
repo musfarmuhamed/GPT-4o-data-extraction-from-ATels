@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140425",
+            "RA": "16:10:23.61",
+            "Dec": "+47:04:40.3",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "2.5",
+            "Date": "May 2.5"
+        },
+        {
+            "Name": "ASASSN-14as",
+            "RA": "12:57:33.9",
+            "Dec": "+35:31:34.0",
+            "redshift": "0.0374",
+            "Type": "Ia",
+            "Time": "3.3",
+            "Date": "May 3.3"
+        }
+    ],
+    "References": [
+        "Howell et al. 2005, ApJ 634, 1190",
+        "ATel #6112"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 1.5-m Telescope",
+    "Instrument": "SED-Machine",
+    "Observatory": null
+}

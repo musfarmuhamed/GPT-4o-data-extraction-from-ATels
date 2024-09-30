@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J19435325-7037520",
+            "RA": "19:43:53.25",
+            "Dec": "-70:37:52.0",
+            "redshift": "0.017",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140720"
+        },
+        {
+            "Name": "NGC 6808",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011570",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Revised Shapley-Ames Catalog, 1981"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

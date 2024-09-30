@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FERMI GBM GRB151107B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "20:25:52",
+            "Date": "2015-11-07"
+        },
+        {
+            "Name": "MASTER OT J015539.85+485955.6",
+            "RA": "01h 55m 39.85s",
+            "Dec": "+48d 59m 55.6s",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2015-11-07"
+        }
+    ],
+    "References": [
+        "Stanbro, Meegan, GCN #18570",
+        "R.Rebolo et al., GCN #18576",
+        "Stanbro et. al. GCN 18570",
+        "Shumkov et al., ATEL #8262",
+        "Piascik and Steele, ATel #8265",
+        "Holoin et al., ATEL #8260"
+    ],
+    "Event Type": "Transient",
+    "Time": "20:25:52",
+    "Date": "2015-11-07",
+    "Telescope": [
+        "MASTER-IAC",
+        "MASTER-Kislovodsk",
+        "MASTER-SAAO",
+        "Liverpool Telescope"
+    ],
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": [
+        "IAC",
+        "Kislovodsk",
+        "La Palma"
+    ]
+}

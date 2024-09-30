@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J153105.22-260437.2",
+            "RA": "15h 31m 05.22s",
+            "Dec": "-26d 04m 37.2s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-05-07.99397 UT",
+            "Date": "2016-05-07"
+        },
+        {
+            "Name": "MASTER OT J070040.17-754730.4",
+            "RA": "07h 00m 40.17s",
+            "Dec": "-75d 47m 30.4s",
+            "redshift": null,
+            "Type": "possible dwarf nova",
+            "Time": "2016-05-10.71635 UT",
+            "Date": "2016-05-10"
+        },
+        {
+            "Name": "MASTER OT J140056.11+352727.1",
+            "RA": "14h 00m 56.11s",
+            "Dec": "+35d 27m 27.1s",
+            "redshift": null,
+            "Type": "red dwarf flare",
+            "Time": "2016-05-06.02993 UT",
+            "Date": "2016-05-06"
+        },
+        {
+            "Name": "MASTER OT J064233.16+295953.7",
+            "RA": "06h 42m 33.16s",
+            "Dec": "+29d 59m 53.7s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2016-05-04.58204 UT",
+            "Date": "2016-05-04"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/153105.22-260437.2.png",
+        "http://observ.pereplet.ru/images/MASTEROTJ070040.17-754730.4.png",
+        "http://observ.pereplet.ru/images/MASTEROTJ140056.11+352727.1.gif",
+        "http://observ.pereplet.ru/images/MASTEROTJ064233.16+295953.7.jpg"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

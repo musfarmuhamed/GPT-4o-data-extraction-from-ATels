@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18yc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia SN",
+            "Time": "0.0 UT",
+            "Date": "2018 October 18"
+        },
+        {
+            "Name": "2MASX J04005460-6640336",
+            "RA": null,
+            "Dec": null,
+            "redshift": "7515 +/- 30 km/s",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #12119, Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopy",
+    "Time": "0.0 UT",
+    "Date": "2018 October 18",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

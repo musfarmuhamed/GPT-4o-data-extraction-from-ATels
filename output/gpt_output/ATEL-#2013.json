@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0513.4-6547",
+            "RA": "05:13:28.29",
+            "Dec": "-65:47:18.9",
+            "redshift": null,
+            "Type": "High-mass X-ray binary",
+            "Time": "23:55",
+            "Date": "14 Apr 2009"
+        },
+        {
+            "Name": "2MASS 05132826-6547187",
+            "RA": "05:13:28.26",
+            "Dec": "-65:47:18.7",
+            "redshift": null,
+            "Type": "High-mass X-ray binary",
+            "Time": null,
+            "Date": "10 Dec 1998"
+        }
+    ],
+    "References": [
+        "Greiner et al. 2008, PASP 120, 405",
+        "Krimm et al. 2009, ATEL #2011",
+        "Coe et al. 2005, MN 356, 502"
+    ],
+    "Event Type": "Transient source follow-up",
+    "Time": "23:55",
+    "Date": "14 Apr 2009",
+    "Telescope": "2.2m ESO/MPI telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory, Chile"
+}

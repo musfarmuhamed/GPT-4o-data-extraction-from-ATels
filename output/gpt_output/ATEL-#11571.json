@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018avz",
+            "RA": "13:59:05.49",
+            "Dec": "+58:16:06.13",
+            "redshift": 0.0606,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-21"
+        },
+        {
+            "Name": "SN2018awd",
+            "RA": "12:50:28.57",
+            "Dec": "-22:40:36.11",
+            "redshift": 0.0451,
+            "Type": "SN I",
+            "Time": null,
+            "Date": "2018-04-22"
+        },
+        {
+            "Name": "SN2018azu",
+            "RA": "07:17:55.94",
+            "Dec": "+40:59:07.88",
+            "redshift": 0.023,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-24"
+        },
+        {
+            "Name": "SN2018bac",
+            "RA": "10:42:42.16",
+            "Dec": "+25:59:41.16",
+            "redshift": 0.0372,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-24"
+        }
+    ],
+    "References": [
+        "Blagorodnova et. al. 2018, PASP, 130, 5003",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "SDSS"
+    ],
+    "Event Type": "Bright transients classification",
+    "Time": null,
+    "Date": "During April 2018",
+    "Telescope": "Palomar 60-inch (P60) telescope",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

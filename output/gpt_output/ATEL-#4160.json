@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS120330:154450-115323",
+            "RA": "15:44:50.15",
+            "Dec": "-11:53:22.6",
+            "redshift": null,
+            "Type": "dwarf nova cataclysmic variable star",
+            "Time": "2012 May 27.12 UT",
+            "Date": "2012-05-27"
+        },
+        {
+            "Name": "1RXS J154449.5-115340",
+            "RA": "15:44:50.20",
+            "Dec": "-11:53:23.1",
+            "redshift": null,
+            "Type": "X-ray source, possibly associated with dwarf nova cataclysmic variable star",
+            "Time": "2012 June 8.5 UT",
+            "Date": "2012-06-08"
+        }
+    ],
+    "References": [
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Voges et al. 2000, IAUC 7432",
+        "Baskill, Wheatley, and Osborne 2005, MNRAS 357, 626"
+    ],
+    "Event Type": "Identification of variable optical source, optical spectrum observation, X-ray observation",
+    "Time": "2012 March 30 UT",
+    "Date": "2012-03-30",
+    "Telescope": "Catalina Sky Survey Schmidt telescope, Steward Observatory Bok 2.3m telescope, Swift",
+    "Instrument": "CRTS, B&C spectrograph, UVOT",
+    "Observatory": "Catalina Real-Time Transient Survey, Kitt Peak, Swift Observatory"
+}

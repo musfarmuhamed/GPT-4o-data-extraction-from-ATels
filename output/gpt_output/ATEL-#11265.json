@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018hu",
+            "RA": "03 10 31.62",
+            "Dec": "-71 15 18.40",
+            "redshift": "0.0513",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20180115"
+        },
+        {
+            "Name": "SN2018ph",
+            "RA": "08 11 02.30",
+            "Dec": "05 05 13.90",
+            "redshift": "0.0304",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20180205"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40, Wyrzykowski et al., 2014 arxiv:1409.1095, Blondin & Tonry, 2007, ApJ, 666, 1024, Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 Feb 5",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

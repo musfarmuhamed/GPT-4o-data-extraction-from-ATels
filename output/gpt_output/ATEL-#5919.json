@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-021",
+            "RA": "05 48 23.49",
+            "Dec": "-66 47 29.7",
+            "redshift": 0.039,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140224"
+        },
+        {
+            "Name": "PS1-14md",
+            "RA": "11 17 42.34",
+            "Dec": "-21 14 39.7",
+            "redshift": 0.071,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140214"
+        }
+    ],
+    "References": [
+        "ATel #5916",
+        "ATel #5850",
+        "Inserra et al. 2013, ApJ, 770, 128"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2014 Feb 24",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

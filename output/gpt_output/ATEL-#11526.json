@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 4151",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2018aoq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Akitaya et al. 2014, Proc. SPIE 9147, 91474",
+        "Nazarov et al. (ATEL #11498)",
+        "Henden et al. 2016"
+    ],
+    "Event Type": "pre-discovery detection",
+    "Time": "0.5 days prior",
+    "Date": "Mar 31.5",
+    "Telescope": "1.5-m Kanata telescope",
+    "Instrument": "Hiroshima Optical and Near-InfraRed camera (HONIR)",
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

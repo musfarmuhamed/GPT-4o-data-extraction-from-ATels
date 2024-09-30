@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jf",
+            "RA": "22:36:59.14",
+            "Dec": "-25:13:55.63",
+            "redshift": "0.011441",
+            "Type": "Supernova",
+            "Time": "2016-08-23.25",
+            "Date": "2016-08-23"
+        },
+        {
+            "Name": "UGCA 430",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011441",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "Transient discovery",
+    "Time": null,
+    "Date": "2016-08-23",
+    "Telescope": "Cassius, LCOGT 1-m",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

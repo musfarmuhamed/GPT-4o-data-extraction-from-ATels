@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16hy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0078",
+            "Type": "II",
+            "Time": null,
+            "Date": "2016-08-03.21"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATel#9305",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "http://www.sdss.org/dr5/products/catalogs/index.html"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": "2016-08-04",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "NOT"
+}

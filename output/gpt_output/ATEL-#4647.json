@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0454-234",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "2456274.787581",
+            "Date": "December 12th, 2012"
+        },
+        {
+            "Name": "1FGLJ0457.0-2325",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZQJ0457-2324",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #3722",
+        "Atel #3703"
+    ],
+    "Event Type": "NIR Flare",
+    "Time": "2456274.787581",
+    "Date": "December 12th, 2012",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": null,
+            "Date": "Apr 23.0"
+        },
+        {
+            "Name": "ASASSN-15hh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": null,
+            "Date": "Apr 23.0"
+        }
+    ],
+    "References": [
+        "ATel #7259",
+        "ATel #7419",
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical spectra",
+    "Time": "UT",
+    "Date": "Apr 23.0",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "LCO"
+}

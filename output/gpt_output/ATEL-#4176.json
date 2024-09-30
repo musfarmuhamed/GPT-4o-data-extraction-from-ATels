@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SFXT",
+            "Time": "19:11:51 UT",
+            "Date": "2012 Jun 14"
+        },
+        {
+            "Name": "IGR J18410-0535",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Romano et al. 2011, MNRAS, 412, L30; Mangano et al. 2011, ATel #3453; Krimm et al, 2006, ATel #904",
+    "Event Type": "outburst",
+    "Time": "19:11:51 UT",
+    "Date": "2012 Jun 14",
+    "Telescope": "Swift",
+    "Instrument": "Swift/BAT, XRT",
+    "Observatory": "NASA Goddard Space Flight Center"
+}

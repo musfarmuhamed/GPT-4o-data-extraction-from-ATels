@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J231935.0+364705",
+            "RA": "23h19m35.0s",
+            "Dec": "+36o47'05\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NSVS 9022680",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1267-0564384",
+            "RA": "23h19m36.06s",
+            "Dec": "+36o47'00.3\"",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J2319.6+3647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://hea.iki.rssi.ru/~denis/NSVS9022680.gif",
+        "http://hea.iki.rssi.ru/~denis/J2319+3647-comps.gif"
+    ],
+    "Event Type": "outburst detection",
+    "Time": [
+        "2455121.542",
+        "2455127.552",
+        "2455140.522"
+    ],
+    "Date": [
+        "2009 10 17.042",
+        "2009 10 23.052",
+        "2009 11 05.022"
+    ],
+    "Telescope": "Bradford Robotic Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

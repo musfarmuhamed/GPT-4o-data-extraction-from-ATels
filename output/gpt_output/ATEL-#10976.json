@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17nbg",
+            "RA": "07:20:27.80",
+            "Dec": "+56:08:07.23",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2017 Nov 16"
+        },
+        {
+            "Name": "ATLAS17ncv",
+            "RA": "06:47:47.15",
+            "Dec": "+31:20:13.12",
+            "redshift": 0.017,
+            "Type": "II",
+            "Time": "UT",
+            "Date": "2017 Nov 16"
+        },
+        {
+            "Name": "ASASSN-17ow",
+            "RA": "02:05:18.13",
+            "Dec": "+53:12:13.43",
+            "redshift": 0.051,
+            "Type": "Ia-CSM",
+            "Time": "UT",
+            "Date": "2017 Nov 16"
+        },
+        {
+            "Name": "ATLAS17nef",
+            "RA": "23:43:01.24",
+            "Dec": "+18:59:40.41",
+            "redshift": 0.072,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2017 Nov 16"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": "UT",
+    "Date": "2017 Nov 16",
+    "Telescope": "Keck I 10-m",
+    "Instrument": "LRIS",
+    "Observatory": "Keck Observatory"
+}

@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J1018.6-5856",
+            "RA": "10:18:55.618",
+            "Dec": "-58:56:46.09",
+            "redshift": null,
+            "Type": "high-mass gamma-ray binary",
+            "Time": "01:17 to 04:04",
+            "Date": "2010-08-17"
+        },
+        {
+            "Name": "1FGL J1018.6-5856",
+            "RA": "10:18:55.618",
+            "Dec": "-58:56:46.09",
+            "redshift": null,
+            "Type": "high-mass gamma-ray binary",
+            "Time": "16:44 to 22:33",
+            "Date": "2009-08-22"
+        },
+        {
+            "Name": "RSR B1259-63/SS 2883",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LS 5039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass gamma-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSI +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass gamma-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Corbet et al., ATel #3221",
+        "Milne et al. 1989, Proc. ASA, 8, 2",
+        "de Ona Wilhelmi et al., contribution to COSPAR 2010",
+        "Ruiz & May 1986, ApJ, 309, 667"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "XMM-Newton"
+    ],
+    "Instrument": [
+        "ACIS-I",
+        "MOS1",
+        "MOS2",
+        "pn"
+    ],
+    "Observatory": null
+}

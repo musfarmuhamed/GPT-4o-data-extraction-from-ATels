@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT 082752.77+704606.0",
+            "RA": "08:27:53.31",
+            "Dec": "+70:46:10.07",
+            "redshift": 0.135,
+            "Type": "luminous Type II supernova",
+            "Time": "4ks",
+            "Date": "2011 May 14"
+        },
+        {
+            "Name": "GALEX 2682502750548263862",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3255",
+        "ATel #3265",
+        "ATel #1515",
+        "ATel #1524",
+        "ATel #1644"
+    ],
+    "Event Type": "Observation",
+    "Time": "4ks",
+    "Date": "2011 May 14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": null
+}

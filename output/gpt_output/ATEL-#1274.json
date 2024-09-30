@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00040+7020",
+            "RA": "00h 04m 01.53s",
+            "Dec": "+70d 19m 16.5s",
+            "redshift": null,
+            "Type": "Seyfert 2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J00256+6821",
+            "RA": "00h 25m 31.42s",
+            "Dec": "+68d 21m 41.3s",
+            "redshift": null,
+            "Type": "Seyfert 2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J01528-0326",
+            "RA": "01h 52m 48.9s",
+            "Dec": "-03d 26m 50.96s",
+            "redshift": null,
+            "Type": "Seyfert 2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02504+5443",
+            "RA": "02h 50m 41.8s",
+            "Dec": "+54d 42m 15.1s",
+            "redshift": null,
+            "Type": "Seyfert 2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16056-6110",
+            "RA": "16h 05m 51.44s",
+            "Dec": "-61d 11m 42.9s",
+            "redshift": null,
+            "Type": "Seyfert 1.5",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16119-6036",
+            "RA": "16h 11m 51.36s",
+            "Dec": "-60d 37m 53.1s",
+            "redshift": null,
+            "Type": "Seyfert 1",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS. 170, 175; Masetti et al. 2007, Atel 957; Masetti et al. 2006, Atel 941; Burenin et al. 2007, Atel 883; Masetti et al. 2007, Atel 1033; Bassani et al. 2006, ApJ, 636, L65; Woudt et al. 1998, A&A, 338, 8",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "Swift/XRT",
+    "Observatory": null
+}

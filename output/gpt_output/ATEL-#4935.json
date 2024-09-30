@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J05395213-4030281",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037279",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J18423786-6456135",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015728",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ13ry",
+            "RA": "10:32:48.00",
+            "Dec": "+04 11 51.75",
+            "redshift": "0.029857",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013-03-30"
+        }
+    ],
+    "References": "Marion et al. 2009, A.J. 138, 727; Hadjiyska et al., ATel #3812",
+    "Event Type": "Spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": null
+}

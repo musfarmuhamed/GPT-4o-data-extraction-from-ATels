@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "N2009-08e",
+            "RA": "00 42 36.16",
+            "Dec": "+41 18 02.4",
+            "redshift": null,
+            "Type": "FeII group slow nova",
+            "Time": "18.043 UT",
+            "Date": "2009 Sept. 18.014"
+        },
+        {
+            "Name": "M31N_2009-08c",
+            "RA": "00 42 41.22",
+            "Dec": "+41 17 01.3",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "18.043 UT",
+            "Date": "2009 June 3.474"
+        }
+    ],
+    "References": "http://www.cfa.harvard.edu/iau/CBAT_M31.html#2009-08e, http://www.cfa.harvard.edu/iau/CBAT_M31.html#2009-08c",
+    "Event Type": "spectral observation",
+    "Time": "18.043 UT",
+    "Date": "2009 Sept. 18.014",
+    "Telescope": "Russian 6-m telescope (BTA), 0.65-m telescope",
+    "Instrument": "SCORPIO spectral camera",
+    "Observatory": "Ondrejov Observatory"
+}

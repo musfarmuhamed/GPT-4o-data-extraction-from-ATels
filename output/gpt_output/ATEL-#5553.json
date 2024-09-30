@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00569-7226",
+            "RA": "14.25973",
+            "Dec": "-72.43204",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "23:42UT",
+            "Date": "November 5th, 2013"
+        },
+        {
+            "Name": "NGC 330-070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star of type B0.5e",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Coe et al., ATEL #5547",
+        "Evans et al., 2006, A&A, 456, 623"
+    ],
+    "Event Type": "transient observation",
+    "Time": "23:42UT",
+    "Date": "November 5th, 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT Photon Counting mode",
+    "Observatory": null
+}

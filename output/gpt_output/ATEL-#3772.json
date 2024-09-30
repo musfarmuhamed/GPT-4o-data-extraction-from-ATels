@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11qbk",
+            "RA": "01 28 29.91",
+            "Dec": "-10 51 58.6",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": "Nov 02.30",
+            "Date": "Nov 07"
+        },
+        {
+            "Name": "PTF11qbq",
+            "RA": "02 09 51.63",
+            "Dec": "-10 01 28.2",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Nov 02.30",
+            "Date": "Nov 08"
+        },
+        {
+            "Name": "PTF11qcc",
+            "RA": "02 14 24.55",
+            "Dec": "-06 29 14.6",
+            "redshift": "0.043",
+            "Type": "SN II",
+            "Time": "Nov 01.30",
+            "Date": "Nov 07"
+        },
+        {
+            "Name": "PTF11qcl",
+            "RA": "22 07 48.84",
+            "Dec": "+08 15 11.7",
+            "redshift": "0.085",
+            "Type": "SN Ia",
+            "Time": "Oct 31.16",
+            "Date": "Nov 06"
+        },
+        {
+            "Name": "PTF11qcm",
+            "RA": "01 39 59.85",
+            "Dec": "-08 54 33.9",
+            "redshift": "0.05",
+            "Type": "SN II",
+            "Time": "Nov 01.27",
+            "Date": "Nov 08"
+        },
+        {
+            "Name": "PTF11qgy",
+            "RA": "23 51 22.89",
+            "Dec": "-08 35 03.5",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Nov 03.16",
+            "Date": "Nov 06"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "discovery of 6 new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "WHT",
+    "Instrument": "ISIS",
+    "Observatory": "PTF (collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, Berkeley)"
+}

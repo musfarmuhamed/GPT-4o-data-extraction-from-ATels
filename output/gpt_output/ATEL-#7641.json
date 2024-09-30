@@ -1,0 +1,164 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15agj",
+            "RA": "03:11:11.50",
+            "Dec": "+37:58:2.10",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15ada",
+            "RA": "11:41:02.05",
+            "Dec": "+65:02:33.3",
+            "redshift": "0.04",
+            "Type": "SN IIP",
+            "Time": "Null",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15agh",
+            "RA": "12:04:05.11",
+            "Dec": "+14:04:04.9",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "+2 weeks",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15adt",
+            "RA": "14:01:14.96",
+            "Dec": "+44:18:29.8",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+2 months",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15adn",
+            "RA": "14:17:00.71",
+            "Dec": "+62:54:42.9",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "+2 months",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15adh",
+            "RA": "17:12:30.88",
+            "Dec": "+48:28:11.9",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+3 months",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15aew",
+            "RA": "22:43:02.60",
+            "Dec": "+49:54:49.0",
+            "redshift": "Null",
+            "Type": "Stellar",
+            "Time": "Null",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15aeq",
+            "RA": "23:31:29.42",
+            "Dec": "+24:16:34.7",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "+1.5 months",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15aez",
+            "RA": "23:31:27.58",
+            "Dec": "+22:50:58.4",
+            "redshift": "0.07",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2015-06-11"
+        },
+        {
+            "Name": "Gaia15aeu",
+            "RA": "11:00:37.85",
+            "Dec": "-11:56:47.6",
+            "redshift": "Null",
+            "Type": "Stellar",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "ASASSN-15ku",
+            "RA": "10:44:22.06",
+            "Dec": "+18:34:59.5",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "Gaia15agc",
+            "RA": "12:18:23.70",
+            "Dec": "+35:35:24.0",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "+2 weeks",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "Gaia15adl",
+            "RA": "16:41:16.95",
+            "Dec": "+39:17:28.7",
+            "redshift": "0.03",
+            "Type": "CCSN",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "Gaia15afr",
+            "RA": "23:29:33.60",
+            "Dec": "+39:34:22.7",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "Gaia15agf",
+            "RA": "22:02:29.36",
+            "Dec": "-20:19:46.0",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+2 weeks",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "ASASSN-15kw",
+            "RA": "17:19:37.10",
+            "Dec": "+04:31:23.8",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "PSN J14372160+3634018",
+            "RA": "14:37:21.60",
+            "Dec": "+36:34:01.8",
+            "redshift": "Null",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2015-06-12"
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic confirmation and classifications",
+    "Time": "Null",
+    "Date": "2015-06-11 to 2015-06-12",
+    "Telescope": "4.2m William Herschel Telescope",
+    "Instrument": "ISIS with the R158R and R300B gratings",
+    "Observatory": "La Palma"
+}

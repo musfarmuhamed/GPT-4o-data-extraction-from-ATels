@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J230451.19-595649.6",
+            "RA": "23h 04m 51.19s",
+            "Dec": "-59d 56m 49.6s",
+            "redshift": null,
+            "Type": "Dwarf Nova outburst",
+            "Time": "00:39:36.720",
+            "Date": "2015-06-09"
+        },
+        {
+            "Name": "MASTER OT J083525.62-080505.3",
+            "RA": "08h 35m 25.62s",
+            "Dec": "-08d 05m 05.3s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "17:18:13.200",
+            "Date": "2015-06-09"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "http://master.sai.msu.ru/static/OT/014644.56482650.2_1.png",
+        "http://master.sai.msu.ru/static/OT/083525.62-080505.3.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

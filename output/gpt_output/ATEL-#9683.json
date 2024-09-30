@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TCP J18102829-2729590",
+            "RA": "18:10:28.29",
+            "Dec": "-27:29:59.3",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "20.98993 UT",
+            "Date": "2016-10-20"
+        },
+        {
+            "Name": "ASASSN-16ma",
+            "RA": "18:20:52.25",
+            "Dec": "-28:22:12.1",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": "2016-10-27"
+        }
+    ],
+    "References": [
+        "CBET 4332",
+        "ATel #9658",
+        "ATels #9669",
+        "ATel #9678",
+        "ATel #9680"
+    ],
+    "Event Type": "Discovery of Classical Novae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

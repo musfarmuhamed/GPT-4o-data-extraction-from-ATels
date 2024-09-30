@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bo",
+            "RA": "14:44:55.22",
+            "Dec": "+24:34:43.70",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-01-22.58",
+            "Date": "2015-01-22"
+        }
+    ],
+    "References": [
+        {
+            "Author": "J. M Fernandez",
+            "Time": "2015-01-25.14",
+            "Date": "2015-01-25",
+            "Telescope": "20-cm Celestron C8",
+            "Observatory": "Observatory Inmaculada del Molina",
+            "Location": "Osuna, Spain"
+        },
+        {
+            "Author": "J. Brimacombe",
+            "Time": "2015-01-25.33",
+            "Date": "2015-01-25",
+            "Telescope": "RCOS 51-cm",
+            "Observatory": null,
+            "Location": "New Mexico"
+        },
+        {
+            "Author": "R. A. Koff",
+            "Time": "2015-01-25.40",
+            "Date": "2015-01-25",
+            "Telescope": "Meade LX-200 25-cm",
+            "Observatory": "Antelope Hills Observatory",
+            "Location": null
+        },
+        {
+            "Author": "S. Kiyota",
+            "Time": "2015-01-25.41",
+            "Date": "2015-01-25",
+            "Telescope": "Planewave CDK 0.43-m",
+            "Observatory": null,
+            "Location": "near Mayhill, New Mexico"
+        }
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2015-01-22.58",
+    "Date": "2015-01-22",
+    "Telescope": "quadruple 14-cm 'Brutus'",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

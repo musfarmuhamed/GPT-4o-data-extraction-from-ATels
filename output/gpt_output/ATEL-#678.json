@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1626.6-5156",
+            "RA": "16h 26m 31.8s",
+            "Dec": "-51d 56' 41.6\"",
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": [
+                "04:21",
+                "06:28"
+            ],
+            "Date": [
+                "2005-12-18",
+                "2005-12-20"
+            ]
+        }
+    ],
+    "References": [
+        "Krimm, et al., GCN 4361",
+        "Barthelmy et al, GCN 4362"
+    ],
+    "Event Type": "Detection",
+    "Time": "00:06",
+    "Date": "2005-12-19",
+    "Telescope": "Swift-BAT",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "11h 44m 08.96s",
+            "Dec": "+17d 36m 39.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-02-22.90466",
+            "Date": "2012-02-22"
+        },
+        {
+            "Name": "SDSS Galaxy J114408.87+173643.6",
+            "RA": "11h 44m 08.87s",
+            "Dec": "+17d 36m 43.6s",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "flight satellite COSMOS 2251 DEB",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Satellite",
+            "Time": "JD=55979.90846009",
+            "Date": null
+        },
+        {
+            "Name": "29436BBC|36453U",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Satellite",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/114408.95173639.1.png",
+    "Event Type": "OT Discovery",
+    "Time": "2012-02-22.90466",
+    "Date": "2012-02-22",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

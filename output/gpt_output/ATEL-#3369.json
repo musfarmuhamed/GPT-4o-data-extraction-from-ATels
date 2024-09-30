@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11drz",
+            "RA": "14 09 03.15",
+            "Dec": "+32 24 56.2",
+            "redshift": 0.0564,
+            "Type": "SN Ia",
+            "Time": "May 14.34",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Smith et al. 2011, MNRAS, 412, 1309"
+    ],
+    "Event Type": "discovery of a new supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "UH88",
+    "Instrument": "SNIFS",
+    "Observatory": "PTF"
+}

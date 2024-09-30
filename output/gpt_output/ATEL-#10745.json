@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray binary",
+            "Time": "21:34:16-23:54:05 UTC",
+            "Date": "2017-09-11"
+        },
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray binary",
+            "Time": "13:30:20 - 13:41:20 UTC",
+            "Date": "2017-09-12"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN #21788, ATels #10699, #10700, #10702, #10708, Fender & Pooley, 2000, MNRAS, 318, L1, Tetarenko et al. 2017, MNRAS, 469, 3141",
+    "Event Type": "Target of Opportunity Observations",
+    "Time": "21:34:16-23:54:05 UTC",
+    "Date": "2017-09-11",
+    "Telescope": "Atacama Large Millimetre/Sub-Millimetre Array (ALMA)",
+    "Instrument": "Bands 3, 4, and 6 (97, 140, and 230 GHz)",
+    "Observatory": "ALMA"
+}

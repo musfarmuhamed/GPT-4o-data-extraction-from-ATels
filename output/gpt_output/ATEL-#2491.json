@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010al",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "Mar. 18.22 UT",
+            "Date": null
+        },
+        {
+            "Name": "UGC 4286",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0172",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2001fa",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1998S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #2207, Leonard et al. 2000, ApJ, 536, 239",
+    "Event Type": "spectrum",
+    "Time": "Mar. 18.22 UT",
+    "Date": null,
+    "Telescope": "Palomar Hale 5-m telescope",
+    "Instrument": "Double Spectrograph",
+    "Observatory": "Caltech"
+}

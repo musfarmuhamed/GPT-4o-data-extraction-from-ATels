@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J19583553+0236163",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.025",
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 11501",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.025",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1991T",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1997br",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1999aa",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "Ap.J.",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": null,
+    "Date": "2011-06-23",
+    "Telescope": "2.3m Bok telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Steward Observatory"
+}

@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-057",
+            "RA": "0:37:02.41",
+            "Dec": "-64:29:50.0",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": "20:00:00",
+            "Date": "2013-01-26"
+        },
+        {
+            "Name": "OGLE-2013-SN-058",
+            "RA": "2:51:13.628",
+            "Dec": "-63:59:33.98",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:13:30",
+            "Date": "2013-01-27"
+        },
+        {
+            "Name": "OGLE-2013-SN-059",
+            "RA": "3:03:11.248",
+            "Dec": "-68:27:40.05",
+            "redshift": null,
+            "Type": null,
+            "Time": "19:30:20",
+            "Date": "2013-01-22"
+        },
+        {
+            "Name": "OGLE-2013-SN-060",
+            "RA": "5:48:11.18",
+            "Dec": "-61:42:15.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:41:30",
+            "Date": "2013-01-29"
+        },
+        {
+            "Name": "OGLE-2013-SN-061",
+            "RA": "5:22:33.54",
+            "Dec": "-61:53:54.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:02:10",
+            "Date": "2013-01-24"
+        },
+        {
+            "Name": "OGLE-2013-SN-062",
+            "RA": "5:50:53.43",
+            "Dec": "-62:24:43.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:40:30",
+            "Date": "2013-01-29"
+        },
+        {
+            "Name": "OGLE-2013-SN-063",
+            "RA": "3:01:54.104",
+            "Dec": "-67:07:49.98",
+            "redshift": null,
+            "Type": null,
+            "Time": "20:49:50",
+            "Date": "2013-01-28"
+        },
+        {
+            "Name": "OGLE-2013-SN-064",
+            "RA": "3:21:53.475",
+            "Dec": "-70:29:46.92",
+            "redshift": null,
+            "Type": null,
+            "Time": "20:59:30",
+            "Date": "2013-01-28"
+        },
+        {
+            "Name": "OGLE-2013-SN-065",
+            "RA": "0:56:40.86",
+            "Dec": "-80:16:33.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "19:21:30",
+            "Date": "2013-01-28"
+        }
+    ],
+    "References": "Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013",
+    "Event Type": "discovery of nine new on-going transient candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "OGLE-IV Transient Search"
+}

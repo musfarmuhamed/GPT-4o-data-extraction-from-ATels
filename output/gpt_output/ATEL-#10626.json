@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": "11:51 UTC",
+            "Date": "2017-08-03"
+        },
+        {
+            "Name": "GX 301-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10418",
+        "ATel #10466",
+        "ATel #10529",
+        "ATel #10533",
+        "ATel #10561",
+        "ATel #10617",
+        "Krimm et al., 2013, ApJSS 209,14"
+    ],
+    "Event Type": "Type II outburst onset",
+    "Time": "11:51 UTC",
+    "Date": "2017-08-03",
+    "Telescope": "Swift/BAT",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13dj",
+            "RA": "10 39 34.04",
+            "Dec": "-16 26 42.1",
+            "redshift": "0.175",
+            "Type": "Ia",
+            "Time": "around max",
+            "Date": "20130105"
+        },
+        {
+            "Name": "LSQ13fp",
+            "RA": "11 45 57.99",
+            "Dec": "-27 13 37.8",
+            "redshift": "0",
+            "Type": "M star",
+            "Time": null,
+            "Date": "20121229"
+        },
+        {
+            "Name": "LSQ13fn",
+            "RA": "11 51 17.29",
+            "Dec": "-29 36 41.1",
+            "redshift": "0.064",
+            "Type": "IIn",
+            "Time": "young",
+            "Date": "20130110"
+        },
+        {
+            "Name": "LSQ13ds",
+            "RA": "10 10 05.98",
+            "Dec": "-16 06 56.4",
+            "redshift": "0.11",
+            "Type": "Ia (91T-like)",
+            "Time": "few days before max",
+            "Date": "20130105"
+        },
+        {
+            "Name": "LSQ13dn",
+            "RA": "13 08 45.31",
+            "Dec": "-16 58 03.6",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": "2 weeks past max",
+            "Date": "20130103"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2013 January 12th",
+    "Date": "2013 January 12th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

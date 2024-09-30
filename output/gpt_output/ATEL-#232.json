@@ -1,0 +1,167 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U1849-31",
+            "RA": "18 55.0",
+            "Dec": "-31 09.8",
+            "redshift": null,
+            "Type": "Cat Var",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXJ1838.0-0655",
+            "RA": "18 38.1",
+            "Dec": "-06 55.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSRJ1649-4349/PMN1649-4352",
+            "RA": "16 49.6",
+            "Dec": "-43 49.9",
+            "redshift": null,
+            "Type": "Pulsar/Radio",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SSCygni",
+            "RA": "21 42.8",
+            "Dec": "+43 34.2",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E1739.1-1210",
+            "RA": "17 41.8",
+            "Dec": "-12 12.3",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXJ1820.5-1434",
+            "RA": "18 20.5",
+            "Dec": "-14 32.9",
+            "redshift": null,
+            "Type": "HMXRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXJ1700.2-4220",
+            "RA": "17 00.4",
+            "Dec": "-42 20.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E1742.5-2858",
+            "RA": "17 45.7",
+            "Dec": "-28 59.5",
+            "redshift": null,
+            "Type": "LMXRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U0114+65",
+            "RA": "01 18.0",
+            "Dec": "+65 15.3",
+            "redshift": null,
+            "Type": "HMXRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1E1841-045/Kes73",
+            "RA": "18 41.3",
+            "Dec": "+04 56.1",
+            "redshift": null,
+            "Type": "SNR/Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXJ1846.4-0258/Kes75",
+            "RA": "18 46.4",
+            "Dec": "-02 57.8",
+            "redshift": null,
+            "Type": "SNR/pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SNR021.5-00.9",
+            "RA": "18 33.6",
+            "Dec": "-10 33.2",
+            "redshift": null,
+            "Type": "SNR",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Ginga1843+00",
+            "RA": "18 45.7",
+            "Dec": "00 51.5",
+            "redshift": null,
+            "Type": "HMXRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RXJ1940.1-1025",
+            "RA": "19 40.1",
+            "Dec": "-10 24.4",
+            "redshift": null,
+            "Type": "Cat Var",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC6814",
+            "RA": "19 42.6",
+            "Dec": "-10 19.6",
+            "redshift": null,
+            "Type": "Seyfert1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U2206+54",
+            "RA": "22 07.9",
+            "Dec": "+54 32.5",
+            "redshift": null,
+            "Type": "HMXRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTEJ1807-294",
+            "RA": "18 07.0",
+            "Dec": "-29 25.3",
+            "redshift": null,
+            "Type": "Msec pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. (2004)",
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": {
+        "Start": "February 27, 2003",
+        "End": "October 19, 2003"
+    },
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "15h 00m 30.87s",
+            "Dec": "+23d 55m 45.1s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2012-02-11.99137 UT",
+            "Date": "2012-02-11"
+        },
+        {
+            "Name": "PGC1696336",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/150030.87235545.1.png",
+    "Event Type": "discovery",
+    "Time": "2012-02-11.99137 UT",
+    "Date": "2012-02-11",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-11d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright nova",
+            "Time": [
+                "Nov. 19.13 UT",
+                "Nov. 20.06 UT",
+                "Nov. 20.3886 UT",
+                "Nov. 21.0865 UT",
+                "Nov. 21.29 UT"
+            ],
+            "Date": [
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        }
+    ],
+    "References": "IAUC 8898, ATel #1153, A. Rau in prep, Schlegel et al. 1998",
+    "Event Type": "independent detection and follow-up",
+    "Time": [
+        "Nov. 19.13 UT",
+        "Nov. 20.06 UT",
+        "Nov. 20.3886 UT",
+        "Nov. 21.0865 UT",
+        "Nov. 21.29 UT"
+    ],
+    "Date": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Telescope": "Palomar 60 inch, 9.2m Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": null
+}

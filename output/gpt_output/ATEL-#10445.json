@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ejd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03383,
+            "Type": "Type Ia supernova",
+            "Time": "UT May 30.7 2017",
+            "Date": "2017-05-30"
+        },
+        {
+            "Name": "2MASX J14430777+0105599",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.cneost.org/ptss/",
+        "http://wis-tns.weizmann.ac.il/object/2017ejd/"
+    ],
+    "Event Type": "Optical spectrum obtained",
+    "Time": "UT May 30.7 2017",
+    "Date": "2017-05-30",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

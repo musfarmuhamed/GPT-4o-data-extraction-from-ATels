@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C 14.23",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "15.8 (UT)",
+            "Date": "Oct. 2009"
+        },
+        {
+            "Name": "Nearby star",
+            "RA": "07:25:20.93",
+            "Dec": "+14:25:03.9",
+            "redshift": null,
+            "Type": "photometric reference",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NOMAD, 2MASS",
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "KANATA 1.5-m",
+    "Instrument": null,
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546 / MAXI 1910-057",
+            "RA": "19:10:22.80",
+            "Dec": "-05:47:55.9",
+            "redshift": null,
+            "Type": "LMXB (Low-Mass X-ray Binary)",
+            "Time": "01:25 UTC",
+            "Date": "2012 June 18"
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "short-period black hole system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "#4139; #4140; #4171; #4195; #4198",
+    "Event Type": "high-energy transient",
+    "Time": "01:25 UTC",
+    "Date": "2012 June 18",
+    "Telescope": "2m Liverpool Telescope",
+    "Instrument": "FRODOSPEC spectrograph",
+    "Observatory": "La Palma"
+}

@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17407-2808",
+            "RA": "17h 40m 50.1s",
+            "Dec": "-28d 05' 25.8\"",
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT) candidate",
+            "Time": "01:12:40 UT",
+            "Date": "2011-10-15"
+        },
+        {
+            "Name": "CXOU J174042.0-280724",
+            "RA": "17h 40m 42.08s",
+            "Dec": "-28d 07m 26.5s",
+            "redshift": null,
+            "Type": "likely counterpart of IGR J17407-2808",
+            "Time": "01:12:40 UT",
+            "Date": "2011-10-15"
+        },
+        {
+            "Name": "2RXP J174040.9-280852",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "previously indicated soft X-ray counterpart of IGR J17407-2808",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kretschmar et al. 2004, ATel #345",
+        "Sguera et al. 2006, ApJ, 646, 452",
+        "Tomsick et al. 2008, ApJ, 685, 1143",
+        "Heinke et al. 2009, ApJ, 701, 1627",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Kalberla et al. 2005",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "outburst",
+    "Time": "01:12:40 UT",
+    "Date": "2011-10-15",
+    "Telescope": "Swift BAT",
+    "Instrument": {
+        "BAT": {
+            "Instrument Type": "gamma-ray/X-ray telescope",
+            "Analysis Start Time": "T-239 s",
+            "Analysis End Time": "T+502 s"
+        },
+        "XRT": {
+            "Instrument Type": "X-ray telescope",
+            "Observation Start Time": "T+131.3 s",
+            "Observation End Time": "T+911 s"
+        },
+        "UVOT": {
+            "Instrument Type": "UV/optical telescope",
+            "Observation Start Time": "T+137 s",
+            "Observation End Time": null
+        }
+    },
+    "Observatory": "Swift"
+}

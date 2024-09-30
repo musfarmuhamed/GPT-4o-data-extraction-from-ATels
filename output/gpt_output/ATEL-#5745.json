@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2013-12a",
+            "RA": "J004249.9+411457",
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/Nn",
+            "Time": "31.77 UT",
+            "Date": "2013 Dec. 31",
+            "Spectral Resolution": "13 \u00c5",
+            "Spectral Range": "3700 - 7900 \u00c5",
+            "H Line Widths (FWHM)": {
+                "H\u03b3": "1040 km/s",
+                "H\u03b2": "850 km/s",
+                "H\u03b1": "1130 km/s"
+            },
+            "H Line EW": {
+                "H\u03b3": "22 \u00c5",
+                "H\u03b2": "40 \u00c5",
+                "H\u03b1": "300 \u00c5"
+            },
+            "Expansion Velocity": {
+                "H\u03b3": "1250 km/s",
+                "H\u03b2": "1330 km/s"
+            },
+            "Photometry": {
+                "V": "19.54 \u00b1 0.06",
+                "Rc": "19.07 \u00b1 0.05"
+            }
+        },
+        {
+            "Name": "M31N 2013-12b",
+            "RA": "J00425172+4118142",
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N",
+            "Time": "31.73 UT",
+            "Date": "2013 Dec. 31",
+            "Spectral Resolution": "13 \u00c5",
+            "Spectral Range": "3700 - 7900 \u00c5",
+            "H Line Widths (FWHM)": {
+                "H\u03b3": "3250 km/s",
+                "H\u03b2": "2900 km/s",
+                "H\u03b1": "3070 km/s"
+            },
+            "H Line EW": {
+                "H\u03b3": "130 \u00c5",
+                "H\u03b2": "210 \u00c5",
+                "H\u03b1": "1220 \u00c5"
+            },
+            "Photometry": {
+                "V": "19.99 \u00b1 0.06",
+                "Rc": "18.60 \u00b1 0.04"
+            }
+        }
+    ],
+    "References": [
+        "ATel #5669",
+        "ATel #5677",
+        "ATel #5671",
+        "ATel #5723",
+        "Shafter et al., ApJ, 734:12, 2011",
+        "Williams, AJ, 144, 98, 2012"
+    ],
+    "Event Type": "Optical Spectroscopy and Photometry",
+    "Time": null,
+    "Date": "2013 Dec. 31",
+    "Telescope": "Russian BTA telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

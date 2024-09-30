@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS150119:125801+035333",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.105,
+            "Type": "Type IIn Supernova",
+            "Time": "20.88",
+            "Date": "2015-01-20"
+        },
+        {
+            "Name": "SN 1996L",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "+58 days",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "20.88",
+    "Date": "2015-01-20",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

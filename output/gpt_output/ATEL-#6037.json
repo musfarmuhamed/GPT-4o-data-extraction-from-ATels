@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14aoh",
+            "RA": "13:04:51.91",
+            "Dec": "-11:42:24.80",
+            "redshift": "0.044",
+            "Type": "Ia",
+            "Time": "Apr 1.62",
+            "Date": "20140325"
+        },
+        {
+            "Name": "LSQ14aqd",
+            "RA": "11:32:28.39",
+            "Dec": "-08:46:23.20",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": "Apr 1.52",
+            "Date": "20140329"
+        },
+        {
+            "Name": "CSS140330:114223-230653",
+            "RA": "11:42:22.63",
+            "Dec": "-23:06:52.77",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": "Apr 1.53",
+            "Date": "20140330"
+        }
+    ],
+    "References": {
+        "La Silla-Quest survey": "Hadjiyska et al., ATel #3812",
+        "Catalina Real-Time Transient Survey": "http://crts.caltech.edu/",
+        "SNID": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "GELATO": "Harutyunyan et al., 2008, A&A, 488, 383",
+        "LCOGT network operation": "http://lcogt.net/observatory"
+    },
+    "Event Type": "Spectra Obtaining",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS",
+    "Observatory": "LCOGT"
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16aso",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": [
+                "~18.2 (G), ~18.0 (R)",
+                "~17.9 (G), ~17.6 (R)"
+            ],
+            "Date": "2016 July 04 - 05"
+        },
+        {
+            "Name": "Gaia16asq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": [
+                "~18.7 (G), ~18.0 (R)",
+                "~18.7 (G), ~17.9 (R)"
+            ],
+            "Date": "2016 July 04 - 05"
+        },
+        {
+            "Name": "Gaia16asu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": [
+                "~16.7 (G), ~16.5 (R)",
+                "~16.7 (G), ~16.3 (R)"
+            ],
+            "Date": "2016 July 04 - 05"
+        },
+        {
+            "Name": "Gaia16atb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": [
+                "~18.5 (G), ~18.6 (R)",
+                "- (G), ~18.4 (R)"
+            ],
+            "Date": "2016 July 04 - 05"
+        }
+    ],
+    "References": "Photometric calibrations obtained using CPCS. Acknowledgement: ESA Gaia, DPAC, Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "supernova candidates",
+    "Time": null,
+    "Date": "2016 July 04 - 05",
+    "Telescope": "Flemish 1.2m Mercator telescope",
+    "Instrument": "MAIA",
+    "Observatory": "Roque de los Muchachos observatory, La Palma, Canary Islands, Spain"
+}

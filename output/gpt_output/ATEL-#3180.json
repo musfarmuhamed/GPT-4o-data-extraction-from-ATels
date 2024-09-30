@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J0632+057",
+            "RA": "06h32m59.2562s",
+            "Dec": "+05d48'01.166\"",
+            "redshift": null,
+            "Type": "variable TeV gamma-ray source",
+            "Time": "15:50 to 00:00",
+            "Date": "February 15, 2011"
+        },
+        {
+            "Name": "XMMU J063259.3+054801",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MWC 148",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B0pe-type star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Aharonian et al.",
+            "Year": 2007,
+            "Publication": "A&A, 469, L1"
+        },
+        {
+            "Authors": "Acciari et al.",
+            "Year": 2009,
+            "Publication": "ApJ, 698, L94"
+        },
+        {
+            "Authors": "Hinton et al.",
+            "Year": 2009,
+            "Publication": "ApJ, 690, L101"
+        },
+        {
+            "Authors": "Skilton et al.",
+            "Year": 2009,
+            "Publication": "MNRAS, 399, 317"
+        },
+        {
+            "Authors": "Falcone et al.",
+            "Year": 2011,
+            "Publication": "ATEL #3152"
+        },
+        {
+            "Authors": "Ong et al.",
+            "Year": 2011,
+            "Publication": "ATEL #3153"
+        },
+        {
+            "Authors": "Mariotti et al.",
+            "Year": 2011,
+            "Publication": "ATEL #3161"
+        },
+        {
+            "Authors": "Zacharias et al.",
+            "Year": 2010,
+            "Publication": "AJ, 139, 2184"
+        }
+    ],
+    "Event Type": "increased X-ray and gamma-ray activity and radio observations",
+    "Time": "15:50 to 00:00",
+    "Date": "February 15, 2011",
+    "Telescope": "European VLBI Network (EVN)",
+    "Instrument": "radio continuum observations at 1.6 GHz using 7 stations (Ef, Jb, Mc, On, Tr, Wb, and Hh)",
+    "Observatory": "JIVE"
+}

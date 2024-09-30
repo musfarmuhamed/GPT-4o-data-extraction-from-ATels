@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "13h 22m 35.25s",
+            "Dec": "+54d 48m 47s.7",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "20:54:11",
+            "Date": "2012-05-06"
+        },
+        {
+            "Name": "PGC046714 galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/132235.25+544847.7.png",
+    "Event Type": "detection",
+    "Time": "20:54:11",
+    "Date": "2012-05-06",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ia (AT 2017ewv)",
+            "RA": "13:10:59.294",
+            "Dec": "+78:24:37.16",
+            "redshift": "0.022516",
+            "Type": "Supernova",
+            "Time": "2017-06-23.31",
+            "Date": "2017-06-23"
+        },
+        {
+            "Name": "ASASSN-17ie (AT 2017exo)",
+            "RA": "18:31:41.813",
+            "Dec": "+16:39:05.21",
+            "redshift": "0.016288",
+            "Type": "Supernova",
+            "Time": "2017-06-24.43",
+            "Date": "2017-06-24"
+        }
+    ],
+    "References": "Shappee et al. 2014, Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "Discovered Supernovae",
+    "Time": "2017-06-23.31 and 2017-06-24.43",
+    "Date": "2017-06-23 and 2017-06-24",
+    "Telescope": "Brutus",
+    "Instrument": "Not specified",
+    "Observatory": "Haleakala, Hawaii"
+}

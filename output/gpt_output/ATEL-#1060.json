@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070422-001",
+            "RA": "12:56:53.77",
+            "Dec": "22:22:22.1",
+            "redshift": "0.0217",
+            "Type": "supernova",
+            "Time": "22.4",
+            "Date": "April 22"
+        },
+        {
+            "Name": "IC 3918",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0217",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Van Driel et al. 2000 A&AS, 144, 463 via NED",
+    "Event Type": "discovery",
+    "Time": "22.4",
+    "Date": "April 22",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

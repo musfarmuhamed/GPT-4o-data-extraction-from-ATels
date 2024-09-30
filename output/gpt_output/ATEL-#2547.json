@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2545",
+        "ATel #2270",
+        "ATel #2525",
+        "Coriat et al. 2009",
+        "Russell & Fender 2007",
+        "Lewis et al. 2008, arXiv:0712.2751"
+    ],
+    "Event Type": "State transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Faulkes Telescope South",
+        "SMARTS 1.3m telescope"
+    ],
+    "Instrument": [
+        "ANDICAM instrument"
+    ],
+    "Observatory": [
+        "Siding Spring, Australia",
+        "Cerro Tololo, Chile"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": "13 02 47.66",
+            "Dec": "-63 50 08.6",
+            "redshift": null,
+            "Type": "binary pulsar system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "Multifrequency observations of the PSR B1259-63 region are strongly encouraged as well as monitoring of the binary pulsar system.",
+            "Author": "Tavani & Arons",
+            "Year": 1997,
+            "Journal": "ApJ",
+            "Volume": 499,
+            "Page": 439
+        },
+        {
+            "Title": "Time variable high-energy emission",
+            "Author": "M. Beilicke et al.",
+            "Year": null,
+            "Journal": "ATel",
+            "Volume": null,
+            "Page": 249
+        }
+    ],
+    "Event Type": "transient gamma-ray emission",
+    "Time": "06:40 UT to 04:00 UT",
+    "Date": "2010-08-02 to 2010-08-04",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

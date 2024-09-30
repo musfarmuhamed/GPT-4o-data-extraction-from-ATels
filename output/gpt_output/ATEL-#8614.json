@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16az",
+            "RA": "11:30:33.73",
+            "Dec": "-42:33:31.44",
+            "redshift": "0.034067",
+            "Type": "Supernova",
+            "Time": "UT 2016-01-29.38",
+            "Date": "2016-01-29"
+        },
+        {
+            "Name": "ASASSN-16ba",
+            "RA": "09:42:29.22",
+            "Dec": "-16:58:26.88",
+            "redshift": "0.013922",
+            "Type": "Supernova",
+            "Time": "UT 2016-01-29.34",
+            "Date": "2016-01-29"
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "Discovery of transient sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "quadruple 14-cm \"Cassius\" telescope, LCOGT 1-m robotic telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile; Sutherland, South Africa"
+}

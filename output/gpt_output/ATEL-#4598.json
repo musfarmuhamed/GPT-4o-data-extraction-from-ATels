@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J104115.34+373321.8",
+            "RA": "10h 41m 15.34s",
+            "Dec": "+37d 33m 21.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20.77446",
+            "Date": "2012-11-20"
+        },
+        {
+            "Name": "MASTER OT J100950.32+471815.8",
+            "RA": "10h 09m 50.32s",
+            "Dec": "+47d 18m 15.8s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "20.97971",
+            "Date": "2012-11-20"
+        },
+        {
+            "Name": "MASTER OT J083004.40+633227.2",
+            "RA": "08h 30m 04.40s",
+            "Dec": "+63d 32m 27.2s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "20.65846",
+            "Date": "2012-11-20"
+        }
+    ],
+    "References": [
+        {
+            "RA": "10h 41m 15.34s",
+            "Dec": "+37d 33m 21.8s",
+            "Time": "28.87917",
+            "Date": "2012-10-28"
+        },
+        {
+            "RA": "10h 09m 50.32s",
+            "Dec": "+47d 18m 15.8s",
+            "Time": "12.09537",
+            "Date": "2009-10-12"
+        },
+        {
+            "RA": "08h 30m 04.40s",
+            "Dec": "+63d 32m 27.2s",
+            "Time": "08.59435",
+            "Date": "2011-02-08"
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

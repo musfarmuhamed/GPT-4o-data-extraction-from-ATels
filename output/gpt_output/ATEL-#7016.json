@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J130224.24-472527.9",
+            "RA": "13h 02m 24.24s",
+            "Dec": "-47d 25m 27.9s",
+            "redshift": null,
+            "Type": "possible new CV",
+            "Time": "02.015 UT",
+            "Date": "2015-02-02"
+        },
+        {
+            "Name": "MASTER OT J175842.77+313725.7",
+            "RA": "17h 58m 42.77s",
+            "Dec": "+31d 37m 25.7s",
+            "redshift": null,
+            "Type": "possible new CV",
+            "Time": "28.90134 UT",
+            "Date": "2015-01-28"
+        }
+    ],
+    "References": "Lipunov et. al., 2010, MASTER Robotic Net, Advances in Astronomy, vol. 2010 , pp. 1-7",
+    "Event Type": "Optical Transient discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO, MASTER-Tunka"
+}

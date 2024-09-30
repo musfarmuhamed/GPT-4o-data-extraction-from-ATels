@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ12470-5407",
+            "RA": "12h 47m 50.80s",
+            "Dec": "-54d 06m 30.80s",
+            "redshift": null,
+            "Type": "IBIS unidentified object",
+            "Time": "03:33:01",
+            "Date": "2011-02-17"
+        },
+        {
+            "Name": "IGRJ12470-5407",
+            "RA": "12h 47m 50.80s",
+            "Dec": "-54d 06m 30.80s",
+            "redshift": null,
+            "Type": "IBIS unidentified object",
+            "Time": "18:06:01",
+            "Date": "2011-02-19"
+        },
+        {
+            "Name": "IGRJ18532+0416",
+            "RA": "18h 53m 12.3s",
+            "Dec": "+04d 13m 27.2s",
+            "redshift": null,
+            "Type": "weak and persistent IBIS unidentified object",
+            "Time": "03:45:01",
+            "Date": "2011-02-19"
+        },
+        {
+            "Name": "IGRJ18532+0416",
+            "RA": "18h 53m 16.3s",
+            "Dec": "+04d 17m 50.6s",
+            "redshift": null,
+            "Type": "weak and persistent IBIS unidentified object",
+            "Time": "03:45:01",
+            "Date": "2011-02-19"
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift-XRT"
+}

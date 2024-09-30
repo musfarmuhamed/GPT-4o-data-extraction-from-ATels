@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0836+710",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "57336.6179",
+            "Date": "2015-11-09"
+        },
+        {
+            "Name": "S5 0836+710",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "57337.4675",
+            "Date": "2015-11-10"
+        }
+    ],
+    "References": [
+        "#8223",
+        "#8266",
+        "#8271"
+    ],
+    "Event Type": "enhanced state of activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Telescope": "40-cm LX-200",
+            "Location": "St.Petersburg, Russia",
+            "Instrument": "optical"
+        },
+        {
+            "Telescope": "70-cm AZT-8",
+            "Location": "Crimea",
+            "Instrument": "optical"
+        },
+        {
+            "Telescope": "1.1-m AZT-24",
+            "Location": "Campo Imperatore, Italy",
+            "Instrument": "near-infrared"
+        }
+    ],
+    "Observatory": null
+}

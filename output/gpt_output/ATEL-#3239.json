@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": 308.66,
+            "Dec": 41.12,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #3233, Tavani et al., Nature, 462, 620 (2009)",
+    "Event Type": "gamma-ray emission",
+    "Time": null,
+    "Date": [
+        "March 22, 2011",
+        "MJD 55639-55640",
+        "MJD 55641-55642",
+        "MJD 55643"
+    ],
+    "Telescope": [
+        "AGILE",
+        "Swift"
+    ],
+    "Instrument": [
+        "AGILE-GRID",
+        "Swift/BAT"
+    ],
+    "Observatory": null
+}

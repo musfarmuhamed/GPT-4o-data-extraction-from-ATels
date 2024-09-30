@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 150418",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J071634.59-190039.2",
+            "RA": "07:16:34.59",
+            "Dec": "-19:00:39.2",
+            "redshift": "0.49",
+            "Type": "Galaxy (AGN)",
+            "Time": "16:30 to 22:00 UTC",
+            "Date": "2016 March 16"
+        }
+    ],
+    "References": [
+        "Keane et al. (2016, Nature 530 453)",
+        "Williams & Berger (2016, arXiv:1602.08434; ATel #8752)",
+        "Vedantham et al. (2016, arXiv:1603.04421)",
+        "Williams & Berger (2016)",
+        "Vedantham et al. (2016)"
+    ],
+    "Event Type": "Observation",
+    "Time": "16:30 to 22:00 UTC",
+    "Date": "2016 March 16",
+    "Telescope": "European VLBI Network (EVN)",
+    "Instrument": null,
+    "Observatory": "Effelsberg (Germany), Westerbork Single Telescope (Netherlands), Jodrell Bank Mk2 Telescope (UK), Medicina (Italy), Noto (Italy), Onsala (Sweden), Torun (Poland), Yebes (Spain), Hartebeesthoek (South Africa)"
+}

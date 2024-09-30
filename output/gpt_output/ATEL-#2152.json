@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0418+5729",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "00:00:00",
+            "Date": "2009-06-05"
+        },
+        {
+            "Name": "1E 2259+586",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2002"
+        }
+    ],
+    "References": "GCN #9499, ATEL #2077, ATEL #2151",
+    "Event Type": "Glitch",
+    "Time": "00:00:00",
+    "Date": "2009-06-05",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

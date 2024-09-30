@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17qz (SN 2017iyw)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0215,
+            "Type": "Ia",
+            "Time": "19:45:00",
+            "Date": "2017-10-20"
+        },
+        {
+            "Name": "galaxy VII Zw 218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Tomasella et al. 2014, AN, 335, 841",
+            "Details": "The Asiago Transient Classification Program"
+        },
+        {
+            "Reference": "Harutyunyan et al. 2008, A&A, 488, 383",
+            "Details": "GELATO classification"
+        },
+        {
+            "Reference": "Blondin and Tonry 2007, ApJ, 666, 1024",
+            "Details": "SNID classification"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "07:12:00",
+    "Date": "2017-10-18",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova-Asiago"
+}

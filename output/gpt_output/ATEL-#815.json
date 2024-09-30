@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 74194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blue supergiant",
+            "Time": "10 s",
+            "Date": "2003-01-09"
+        },
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 141689",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line early-type star, B2/B3ne",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J15593-6142",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gotz et al., ATel #813",
+        "Mereghetti et al., ATel #814",
+        "Masetti et al., 2006, A&A, 449, 1139 and references therein",
+        "Sguera at al., astro-ph/0603756",
+        "Henize 1976, ApJS, 30, 491",
+        "Keek et al., ATel #810"
+    ],
+    "Event Type": "Analysis",
+    "Time": "10 s",
+    "Date": "2003-01-09",
+    "Telescope": "ESO 3.6m",
+    "Instrument": "EFOSC",
+    "Observatory": "ESO"
+}

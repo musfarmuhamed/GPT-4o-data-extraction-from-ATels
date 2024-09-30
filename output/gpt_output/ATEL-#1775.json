@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "21:26:04",
+            "Date": "9 October 2008"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Linares et al.",
+            "ATel": "#1662",
+            "ObservationDate": "14 August 2008"
+        },
+        {
+            "Authors": "Markwardt & Swank",
+            "ATel": "#1425",
+            "ObservationDate": "March 2008"
+        },
+        {
+            "Authors": "Pacciani et al.",
+            "ATel": "#1428",
+            "ObservationDate": null
+        }
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "21:26:04",
+    "Date": "9 October 2008",
+    "Telescope": "SuperAGILE",
+    "Instrument": null,
+    "Observatory": null
+}

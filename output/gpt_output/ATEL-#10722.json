@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Lup 2016 (ASASSN-16kt)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "X-ray peak: 61.1 cts/s",
+            "Date": "2017/2/22"
+        },
+        {
+            "Name": "Nova Lup 2016 (ASASSN-16kt)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "~1 ct/s",
+            "Date": "2017/8/25"
+        },
+        {
+            "Name": "Nova Lup 2016 (ASASSN-16kt)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "0.463 cts/s",
+            "Date": "2017/8/30"
+        },
+        {
+            "Name": "white dwarf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "White Dwarf",
+            "Time": null,
+            "Date": "2017/8/30"
+        }
+    ],
+    "References": "ATel #9538, #9539, #8550, #9554, #9587, #9594 and #9644, ATel #10632, Ness et al. 2012, ApJ 575, 43; Orio et al. 2013, MNRAS 429, 1342",
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT, Chandra, HRC-S camera, Low Energy Transmission Grating",
+    "Observatory": "Chandra"
+}

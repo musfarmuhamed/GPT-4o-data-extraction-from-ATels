@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1417-624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray Transient",
+            "Time": "07:51",
+            "Date": "2014 January 19"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Apparao et al.",
+            "Year": 1980,
+            "Journal": "A&A",
+            "Volume": 89,
+            "Page": 249
+        },
+        {
+            "Authors": "Grindlay et al.",
+            "Year": 1984,
+            "Journal": "ApJ",
+            "Volume": 276,
+            "Page": 621
+        },
+        {
+            "Authors": "Finger et al.",
+            "Year": 1996,
+            "Journal": "A&A Supp. Ser.",
+            "Volume": 120,
+            "Page": 209
+        },
+        {
+            "Authors": "Finger",
+            "Year": 1999,
+            "Journal": "IAUC",
+            "Number": 7313,
+            "Page": null
+        },
+        {
+            "Authors": "ATel",
+            "Number": 52,
+            "Year": 1999,
+            "Page": null
+        },
+        {
+            "Authors": "ATel",
+            "Number": 53,
+            "Year": 1999,
+            "Page": null
+        },
+        {
+            "Authors": "INTEGRAL IBIS/ISGRI",
+            "Number": 1613,
+            "Year": 2008,
+            "Page": null
+        },
+        {
+            "Authors": "Fermi/GBM",
+            "Number": 2275,
+            "Year": 2009,
+            "Page": null
+        },
+        {
+            "Authors": "Swift/BAT",
+            "Number": 2276,
+            "Year": 2009,
+            "Page": null
+        }
+    ],
+    "Event Type": "Renewed activity detection",
+    "Time": "07:51",
+    "Date": "2014 January 19",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

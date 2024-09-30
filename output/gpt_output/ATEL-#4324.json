@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174902.10+191331.2",
+            "RA": "17h 49m 02.10s",
+            "Dec": "+19d 13m 31.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-08-21.51684 UT",
+            "Date": "2012-08-21"
+        },
+        {
+            "Name": "USNO-B1.0 1092-0283596",
+            "RA": "17h 49m 02.087s",
+            "Dec": "+19d 13m 29.52s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J17490210+1913312.jpg",
+    "Event Type": "discovery",
+    "Time": "2012-08-21.51684 UT",
+    "Date": "2012-08-21",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

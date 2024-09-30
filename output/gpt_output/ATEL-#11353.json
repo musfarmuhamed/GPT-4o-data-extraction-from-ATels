@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18dl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "SNe Ia",
+            "Time": "03:26",
+            "Date": "2018-02-25"
+        },
+        {
+            "Name": "2MASX J10023148+1343409",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033537,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11343",
+    "Event Type": "supernova classification",
+    "Time": "03:26",
+    "Date": "2018-02-25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

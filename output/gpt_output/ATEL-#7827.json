@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "15:19",
+            "Date": "20 Jul 2015"
+        },
+        {
+            "Name": "ASASSN-15mm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021",
+            "Type": null,
+            "Time": "09:26",
+            "Date": "15 Jul 2015"
+        },
+        {
+            "Name": "J152523.40+291018.8",
+            "RA": "15:25:23.40",
+            "Dec": "+29:10:18.8",
+            "redshift": "0.021",
+            "Type": null,
+            "Time": null,
+            "Date": "13 Jul 2015"
+        }
+    ],
+    "References": [
+        "ATel #7817",
+        "ATel #7802",
+        "ATel #7792"
+    ],
+    "Event Type": "Classification",
+    "Time": "15:19",
+    "Date": "20 Jul 2015",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18acqwdla",
+            "RA": "07:05:53.44",
+            "Dec": "+12:53:34.69",
+            "redshift": "0.028",
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ZTF18acqxcga",
+            "RA": "07:02:54.63",
+            "Dec": "+33:50:15.37",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "+2 d",
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2018 Dec 8 UT",
+    "Telescope": "Keck I",
+    "Instrument": "LRIS",
+    "Observatory": null
+}

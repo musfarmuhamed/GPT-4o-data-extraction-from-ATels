@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT 081",
+            "RA": "17 51 32.82",
+            "Dec": "+09 39 00.73",
+            "redshift": 0.322,
+            "Type": "blazar",
+            "Time": "1.64 hours",
+            "Date": "2016 Jul. 24"
+        },
+        {
+            "Name": "PKS 1749+096",
+            "RA": "17 51 32.82",
+            "Dec": "+09 39 00.73",
+            "redshift": 0.322,
+            "Type": "blazar",
+            "Time": "1.64 hours",
+            "Date": "2016 Jul. 24"
+        },
+        {
+            "Name": "4C +09.57",
+            "RA": "17 51 32.82",
+            "Dec": "+09 39 00.73",
+            "redshift": 0.322,
+            "Type": "blazar",
+            "Time": "1.64 hours",
+            "Date": "2016 Jul. 24"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Stickel, Fried, Kuehr 1988, A&A, 191, 16; ATel #9260; ATel #9259",
+    "Event Type": "gamma-ray emission detection",
+    "Time": "1.64 hours",
+    "Date": "2016 Jul. 24",
+    "Telescope": "35cm Celestron",
+    "Instrument": null,
+    "Observatory": "MAGIC collaboration at La Palma; other observatories"
+}

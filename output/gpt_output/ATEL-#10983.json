@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017ifh",
+            "RA": "06:35:03.56",
+            "Dec": "+50:26:27.90",
+            "redshift": "0.039",
+            "Type": "Ic-BL",
+            "Time": "pre-max",
+            "Date": "2017 Nov 17"
+        },
+        {
+            "Name": "AT2017ift",
+            "RA": "20:53:30.68",
+            "Dec": "-10:03:10.83",
+            "redshift": "0.038",
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2017 Nov 17"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": "17 UT",
+    "Date": "2017 Nov 17",
+    "Telescope": "Keck I 10-m",
+    "Instrument": "LRIS",
+    "Observatory": "Keck"
+}

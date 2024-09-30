@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017isu",
+            "RA": "06 43 50.52",
+            "Dec": "-29 39 39.9",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20171203"
+        },
+        {
+            "Name": "SN2017iwy",
+            "RA": "12 05 45.56",
+            "Dec": "+10 23 53.6",
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20171213"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017 Dec 14",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

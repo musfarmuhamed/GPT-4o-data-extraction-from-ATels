@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole low mass x-ray binary",
+            "Time": null,
+            "Date": [
+                "September 17 (MJD 56187)",
+                "September 18 (MJD 56188)",
+                "April 28 (MJD 56045)",
+                "May 3 (MJD 56050)"
+            ]
+        }
+    ],
+    "References": [
+        "Atel#4075",
+        "Atel#4077"
+    ],
+    "Event Type": "intensity change and state transition",
+    "Time": null,
+    "Date": [
+        "September 17-18",
+        "April 28 to May 3"
+    ],
+    "Telescope": [
+        "MAXI",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

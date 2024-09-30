@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-NOVA-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "HJD=2456586.77574",
+            "Date": "Oct 20/21"
+        }
+    ],
+    "References": [
+        "ATel #5491",
+        "ATel #4495",
+        "Kozlowski et al. 2013"
+    ],
+    "Event Type": "Observation",
+    "Time": "HJD=2456586.77574",
+    "Date": "Oct 20/21",
+    "Telescope": "Warsaw 1.3m telescope",
+    "Instrument": null,
+    "Observatory": "Las Campanas Observatory, Chile"
+}

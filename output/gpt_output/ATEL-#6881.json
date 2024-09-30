@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-01-04"
+        },
+        {
+            "Name": "2MASX J12320498-1056010",
+            "RA": "12:32:04.98",
+            "Dec": "-10:56:01",
+            "redshift": 0.134,
+            "Type": "low-luminosity AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings et al. ATel #6871 GCN #17267",
+        "Fong et al., GCN #17271",
+        "Levan et al. ATel #6873, GCN #17281",
+        "Condon et al. 1998, AJ, 115, 1693",
+        "Ho 2008, ARA&A, 46, 475"
+    ],
+    "Event Type": "observation",
+    "Time": "2015-01-04.30 UT",
+    "Date": "2015-01-04",
+    "Telescope": "Magellan",
+    "Instrument": "IMACS",
+    "Observatory": null
+}

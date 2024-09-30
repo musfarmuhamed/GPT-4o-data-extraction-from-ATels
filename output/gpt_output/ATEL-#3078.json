@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J02115-4407 Source #1",
+            "RA": "02h 11m 44.03s",
+            "Dec": "-44d 07m 00.3s",
+            "redshift": "0.104",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02115-4407 Source #2",
+            "RA": "02h 11m 20.0s",
+            "Dec": "-44d 07m 37.5s",
+            "redshift": "0.104",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02115-4407 Source #3",
+            "RA": "02h 11m 33.4s",
+            "Dec": "-44d 11m 10.3s",
+            "redshift": "0.104",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16443+0131",
+            "RA": "16h 44m 38.1s",
+            "Dec": "+01d 29m 03.5s",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18457+0244",
+            "RA": "18h 45m 40.1s",
+            "Dec": "+02d 42m 07.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift"
+}

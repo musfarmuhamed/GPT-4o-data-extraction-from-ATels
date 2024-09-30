@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HB890716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.3,
+            "Type": "QSO",
+            "Time": "2457482.74",
+            "Date": "April 4th, 2016"
+        },
+        {
+            "Name": "CGRaBS J0721+7120",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.3,
+            "Type": "QSO",
+            "Time": "2457482.74",
+            "Date": "April 4th, 2016"
+        },
+        {
+            "Name": "2FGLJ0721.9+7120",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.3,
+            "Type": "Gamma ray source",
+            "Time": "2457482.74",
+            "Date": "April 4th, 2016"
+        }
+    ],
+    "References": [
+        "#6902",
+        "#6944",
+        "#6953",
+        "#6957",
+        "#6999",
+        "#7026",
+        "#7268"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "2457482.74",
+    "Date": "April 4th, 2016",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

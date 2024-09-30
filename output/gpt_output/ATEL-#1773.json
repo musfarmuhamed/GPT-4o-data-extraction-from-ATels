@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-07a",
+            "RA": "00 42 34.42",
+            "Dec": "+41 18 15.7",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2008-07-06T00:00:00Z",
+            "Date": "2008-07-06"
+        }
+    ],
+    "References": [
+        {
+            "Author": "M. Henze et al.",
+            "ID": "ATel #1609"
+        },
+        {
+            "Author": "K. Hornoch and P. Kusnirak",
+            "ID": "CBAT_M31"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "2008-10-03T00:00:00Z",
+    "Date": "2008-10-03",
+    "Telescope": "Russian 6-m telescope BTA",
+    "Instrument": "SCORPIO spectral camera",
+    "Observatory": null
+}

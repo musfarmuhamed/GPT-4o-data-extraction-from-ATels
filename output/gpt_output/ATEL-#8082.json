@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15pf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.041,
+            "Type": "Type Ia",
+            "Time": "6.5 (9.4) days after maximum brightness",
+            "Date": "Sept 10"
+        },
+        {
+            "Name": "ESO 241-G016",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039354,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8017",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": "Sept 10",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

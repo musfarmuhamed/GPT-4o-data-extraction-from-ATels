@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SNe (early phases of a Type IIn supernova)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Drake et al., ATel #4334",
+        "Foley et al., ATel #4338",
+        "Smith & Mauerhan, ATel #4412",
+        "Brimacombe, ATel #4423",
+        "Margutti et al., ATel #4425",
+        "Leonard et al., ATel #4430",
+        "Smith & Mauerhan, ATel #4427",
+        "Burgasser et al., ATel #4431"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "Southern African Large Telescope (SALT)",
+            "Instrument": "Robert Stobie Spectrograph (RSS)",
+            "Observatory": null,
+            "Wavelength range": "3500 - 9000 A",
+            "Resolution": "~18 A FWHM",
+            "Observations": [
+                {
+                    "Date": "Aug 26, 2012",
+                    "Findings": "Prominent H emission features, P Cygni features, velocities ~10,000 km/s"
+                },
+                {
+                    "Date": "Sept 26, 2012",
+                    "Findings": "Narrow emission components strengthened, P Cygni components suppressed, velocities reduced to ~5000 km/s"
+                }
+            ]
+        },
+        {
+            "Name": "MDM Observatory",
+            "Instrument": "TIFKAM",
+            "Observatory": "2.4m Hiltner telescope",
+            "Wavelength range": "0.9 - 2.4 micron",
+            "Resolution": "R = 750",
+            "Observations": [
+                {
+                    "Date": "Sept 27.2 UT",
+                    "Findings": "Emission features around the hydrogen Paschen lines, FWHM ~2000 km/s"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER134433.70+224132.3",
+            "RA": "13h 44m 33.70s",
+            "Dec": "+22d 41m 32.3s",
+            "redshift": null,
+            "Type": "Short OT",
+            "Time": "2012-03-11.69947",
+            "Date": "2012-03-11"
+        },
+        {
+            "Name": "MASTER134433.70+224132.3",
+            "RA": "16h 31m 05.47s",
+            "Dec": "+61d 55m 48.4s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-03-14.83877",
+            "Date": "2012-03-14"
+        },
+        {
+            "Name": "MASTER075648.14+305805.4",
+            "RA": "07h 56m 48.14s",
+            "Dec": "+30d 58m 05.4s",
+            "redshift": null,
+            "Type": "New Flare of the CSS080406 J075648+305805",
+            "Time": "2012-03-13.89994",
+            "Date": "2012-03-13"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/134433.70224132.3.png",
+        "http://master.sai.msu.ru/static/OT/163105.47615548.4.png",
+        "http://master.sai.msu.ru/static/OT/075648.14305805.4.png"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

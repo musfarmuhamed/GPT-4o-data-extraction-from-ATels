@@ -1,0 +1,153 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fk",
+            "RA": "00:23:07.14",
+            "Dec": "-16:47:00.2",
+            "redshift": "0.007",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170420"
+        },
+        {
+            "Name": "SN2017dhr",
+            "RA": "00:23:07.14",
+            "Dec": "-16:47:00.2",
+            "redshift": "0.007",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170420"
+        },
+        {
+            "Name": "ATLAS17eum",
+            "RA": "09:57:53.99",
+            "Dec": "-10:38:31.5",
+            "redshift": "0.050",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170416"
+        },
+        {
+            "Name": "SN2017dik",
+            "RA": "09:57:53.99",
+            "Dec": "-10:38:31.5",
+            "redshift": "0.050",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170416"
+        },
+        {
+            "Name": "PS17clr",
+            "RA": "11:23:19.51",
+            "Dec": "+05:47:59.6",
+            "redshift": "0.067",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170422"
+        },
+        {
+            "Name": "SN2017dhd",
+            "RA": "11:23:19.51",
+            "Dec": "+05:47:59.6",
+            "redshift": "0.067",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170422"
+        },
+        {
+            "Name": "ATLAS17euc",
+            "RA": "12:49:01.51",
+            "Dec": "+05:49:37.6",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170328"
+        },
+        {
+            "Name": "SN2017dib",
+            "RA": "12:49:01.51",
+            "Dec": "+05:49:37.6",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20170328"
+        },
+        {
+            "Name": "AT2017dii",
+            "RA": "13:13:57.38",
+            "Dec": "-31:41:32.6",
+            "redshift": "0.000",
+            "Type": "G-star",
+            "Time": null,
+            "Date": "20170425"
+        },
+        {
+            "Name": "ATLAS17evn",
+            "RA": "13:52:48.20",
+            "Dec": "+12:02:22.8",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": "+ 4 to +7d",
+            "Date": "20170425"
+        },
+        {
+            "Name": "SN2017dip",
+            "RA": "13:52:48.20",
+            "Dec": "+12:02:22.8",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": "+ 4 to +7d",
+            "Date": "20170425"
+        },
+        {
+            "Name": "PS17cln",
+            "RA": "16:07:23.71",
+            "Dec": "+10:25:40.1",
+            "redshift": "0.017",
+            "Type": "LBV/imposter",
+            "Time": null,
+            "Date": "20170420"
+        },
+        {
+            "Name": "AT2017dha",
+            "RA": "16:07:23.71",
+            "Dec": "+10:25:40.1",
+            "redshift": "0.017",
+            "Type": "LBV/imposter",
+            "Time": null,
+            "Date": "20170420"
+        },
+        {
+            "Name": "Gaia17bcd",
+            "RA": "19:03:46.17",
+            "Dec": "-42:46:12.3",
+            "redshift": "0.049",
+            "Type": "Ia",
+            "Time": "+11 to +20d",
+            "Date": "20170423"
+        },
+        {
+            "Name": "SN2017dhw",
+            "RA": "19:03:46.17",
+            "Dec": "-42:46:12.3",
+            "redshift": "0.049",
+            "Type": "Ia",
+            "Time": "+11 to +20d",
+            "Date": "20170423"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017 April 27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

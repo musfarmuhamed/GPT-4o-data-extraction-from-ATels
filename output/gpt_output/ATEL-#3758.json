@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0158-744/XRF 111111A",
+            "RA": 29.85647,
+            "Dec": -74.25795,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "15:33:21",
+            "Date": "2011-11-11"
+        },
+        {
+            "Name": "Herbig Ae/Be star (optical counterpart)",
+            "RA": 29.85762,
+            "Dec": -74.25775,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Kimura et al., ATEL #3756; Morii et al., GCN #12555; Nishiyama et al., 2007",
+    "Event Type": "X-ray transient observation",
+    "Time": "15:33:21",
+    "Date": "2011-11-11",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": "Swift Observatory"
+}

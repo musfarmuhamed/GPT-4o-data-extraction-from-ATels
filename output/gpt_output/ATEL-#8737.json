@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174540.7-290015",
+            "RA": "17:45:40.67",
+            "Dec": "-29:00:15.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "03:23-03:32 UT",
+            "Date": "15 August 2010"
+        },
+        {
+            "Name": "Swift J174540.7-290015",
+            "RA": "17:45:40.67",
+            "Dec": "-29:00:15.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "02:46-02:51 UT",
+            "Date": "24 August 2011"
+        }
+    ],
+    "References": [
+        "ATel #8649",
+        "ATel #8684"
+    ],
+    "Event Type": "Outburst",
+    "Time": "03:23-03:32 UT",
+    "Date": "15 August 2010",
+    "Telescope": "VISTA",
+    "Instrument": "NIR imaging",
+    "Observatory": "Cerro Paranal (Chile)"
+}

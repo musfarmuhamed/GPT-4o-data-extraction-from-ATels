@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034194,
+            "Type": "Ia",
+            "Time": "20160211.11",
+            "Date": "20160211"
+        },
+        {
+            "Name": "AT 2016adq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034194,
+            "Type": "Ia",
+            "Time": "20160211.11",
+            "Date": "20160211"
+        },
+        {
+            "Name": "SN2016adq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034194,
+            "Type": "Ia",
+            "Time": "20160211.11",
+            "Date": "20160211"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Atel #8666",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "20160211.11",
+    "Date": "20160211",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

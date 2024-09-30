@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 160622A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Burst",
+            "Time": "02:19 UT",
+            "Date": "Not specified"
+        },
+        {
+            "Name": "SNR RCW 103",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR 1617-5103",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "D'Ai et al., GCN #19547. ATel #9180; Evans et al., GCN #19551; Greiner et al. 2008, PASP 120, 405; Schlafly & Finkbeiner, 2011; GCN #19557",
+    "Event Type": "Observation",
+    "Time": "02:19 UT",
+    "Date": "Not specified",
+    "Telescope": "2.2 m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory, Chile"
+}

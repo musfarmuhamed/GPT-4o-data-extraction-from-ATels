@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13cu",
+            "RA": "00:40:09.93",
+            "Dec": "-10:26:21.9",
+            "redshift": "0.0272",
+            "Type": "Type Ia SN",
+            "Time": "1.43",
+            "Date": "Sep. 1"
+        },
+        {
+            "Name": "SDSS J004010.55-102626.1",
+            "RA": "00:40:10.14",
+            "Dec": "-10:26:25.90",
+            "redshift": "0.0272",
+            "Type": "Spiral Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "NED, Blondin & Tonry 2007, Schlafly & Finkbeiner 2011",
+    "Event Type": "New Optical Transient Discovery",
+    "Time": "1.43",
+    "Date": "Sep. 1",
+    "Telescope": "Brutus, du Pont 2.5m",
+    "Instrument": "WFCCD",
+    "Observatory": "Haleakala, Hawaii, LCO"
+}

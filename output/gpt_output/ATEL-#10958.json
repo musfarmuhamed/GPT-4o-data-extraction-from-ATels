@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-17zix",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0397,
+            "Type": "type IIP supernova",
+            "Time": "12.7",
+            "Date": "2017 Nov. 12"
+        },
+        {
+            "Name": "2MASX J02592769+1447417",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0397,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "discovery",
+    "Time": "12.7",
+    "Date": "2017 Nov. 12",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

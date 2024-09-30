@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHiTS15ak",
+            "RA": "10:23:22.16",
+            "Dec": "-05:53:31.40",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:40",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "SNHiTS15al",
+            "RA": "10:39:11.74",
+            "Dec": "+00:26:01.52",
+            "redshift": "0.163",
+            "Type": null,
+            "Time": "04:50",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "SNHiTS15am",
+            "RA": "10:30:03.82",
+            "Dec": "-03:47:59.24",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:52",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "SNHiTS15an",
+            "RA": "10:26:12.25",
+            "Dec": "-01:55:13.31",
+            "redshift": "0.346",
+            "Type": null,
+            "Time": "04:41",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "SNHiTS15ao",
+            "RA": "10:15:32.76",
+            "Dec": "-02:58:16.70",
+            "redshift": "0.239",
+            "Type": null,
+            "Time": "04:38",
+            "Date": "2015-02-25"
+        }
+    ],
+    "References": [
+        "#5949",
+        "#5956",
+        "#7099",
+        "#7108",
+        "#7115",
+        "#7122",
+        "#7131",
+        "#7132"
+    ],
+    "Event Type": "Supernova Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "4m Blanco Telescope",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo (CTIO)"
+}

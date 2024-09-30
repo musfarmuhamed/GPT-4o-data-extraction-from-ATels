@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.048",
+            "Type": "HBL",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Kapanadze et al. 2016, MNRAS, 461, L26",
+        "ATel #8014",
+        "ATel #8289",
+        "ATel #8342",
+        "ATel #8468",
+        "ATel #9121",
+        "ATel #9205",
+        "ATel #9694"
+    ],
+    "Event Type": "Enhanced X-ray activity",
+    "Time": [
+        "6.92+/-0.09 cts/s on 2016 December 18",
+        "7.38+/-0.07 cts/s on 2016 December 21",
+        "12.80+/-0.10 cts/s on 2016 December 29",
+        "13.43+/-0.10 cts/s on 2017 January 1",
+        "20.78+/-0.19 cts/s on 2017 January 7"
+    ],
+    "Date": [
+        "2016 December 18",
+        "2016 December 21",
+        "2016 December 29",
+        "2017 January 1",
+        "2017 January 7"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Null"
+}

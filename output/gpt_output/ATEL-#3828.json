@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ11gw",
+            "RA": "05:19:37.2",
+            "Dec": "00:49:39",
+            "redshift": "0.040",
+            "Type": "Type II Supernova",
+            "Time": "23.075",
+            "Date": "December 23"
+        },
+        {
+            "Name": "LSQ11ne",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II Supernova",
+            "Time": "23.2 UT",
+            "Date": "December 23, 2011"
+        }
+    ],
+    "References": "Rabinowitz et al. 2011, Ap.J. 732, 512; Howell et al. 2005, Ap.J. 634, 1190",
+    "Event Type": "Discovery",
+    "Time": "23.075",
+    "Date": "December 23",
+    "Telescope": "1.0-m Schmidt Telescope",
+    "Instrument": "160-megapixel QUEST camera",
+    "Observatory": "European Southern Observatory at La Silla, Chile"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bol 111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray transient",
+            "Time": "various",
+            "Date": [
+                "2007-12-13",
+                "2007-12-14",
+                "2007-12-15",
+                "2007-11-18"
+            ]
+        },
+        {
+            "Name": "Unnamed Source",
+            "RA": "00:42:09.9",
+            "Dec": "+40:57:48",
+            "redshift": null,
+            "Type": "supersoft X-ray transient",
+            "Time": "various",
+            "Date": [
+                "2007-11-18",
+                "2007-12-13",
+                "2007-12-14",
+                "2007-12-15"
+            ]
+        }
+    ],
+    "References": "ATel #1294",
+    "Event Type": "follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": null,
+    "Observatory": null
+}

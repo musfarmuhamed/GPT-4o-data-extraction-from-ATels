@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J012916.47+321859.0",
+            "RA": "01h 29m 16.47s",
+            "Dec": "+32d 18m 59.0s",
+            "redshift": null,
+            "Type": "Flaring red dwarf",
+            "Time": "22:19:15 UT, 22:22:51 UT, 22:26:26 UT, 23:34:17-23:41:20 UT",
+            "Date": "2014-09-29"
+        },
+        {
+            "Name": "SDSS J012916.48+321858.8",
+            "RA": "01h 29m 16.48s",
+            "Dec": "+32d 18m 58.8s",
+            "redshift": null,
+            "Type": "Red star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J012916.48+321858.8",
+            "RA": "01h 29m 16.48s",
+            "Dec": "+32d 18m 58.8s",
+            "redshift": null,
+            "Type": "Red star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/012916.47321859.0.png",
+    "Event Type": "Flaring",
+    "Time": "22:19:15 UT, 22:22:51 UT, 22:26:26 UT, 23:34:17-23:41:20 UT",
+    "Date": "2014-09-29",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

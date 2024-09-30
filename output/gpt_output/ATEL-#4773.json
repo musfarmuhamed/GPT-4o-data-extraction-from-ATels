@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "07:42:00",
+            "Date": "2013-01-27"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 349+2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3144",
+        "ATEL #3148",
+        "ATEL #3150",
+        "ATEL #3159",
+        "ATEL #3167",
+        "ATEL #3168",
+        "ATEL #3179",
+        "ATEL #3203",
+        "ATEL #3225",
+        "ATEL #3229",
+        "ATEL #3230",
+        "ATEL #3232",
+        "ATEL #3266",
+        "ATEL #3299",
+        "ATEL #3913",
+        "ATEL #3916",
+        "ATEL #4173",
+        "ATEL #4282",
+        "ATEL #4283",
+        "ATEL #4360",
+        "Altamirano et al. 2011, ApJL, 742, 17",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Wijnands, Yang, and Altamirano 2012, MNRAS, 422, 91"
+    ],
+    "Event Type": "outburst",
+    "Time": "07:42:00",
+    "Date": "2013-01-27",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift/GSFC"
+}

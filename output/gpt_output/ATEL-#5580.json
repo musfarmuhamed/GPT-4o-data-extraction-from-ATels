@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13ebh",
+            "RA": "02:21:59.98",
+            "Dec": "+33:16:13.7",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Nov 13.145 UT",
+            "Date": "Nov 13"
+        },
+        {
+            "Name": "iPTF13ebh",
+            "RA": "02:21:59.98",
+            "Dec": "+33:16:13.7",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Nov 14.136 UT",
+            "Date": "Nov 14"
+        },
+        {
+            "Name": "iPTF13ebh",
+            "RA": "02:21:59.98",
+            "Dec": "+33:16:13.7",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Nov 12 UT",
+            "Date": "Nov 12"
+        },
+        {
+            "Name": "iPTF13ebh",
+            "RA": "02:21:59.98",
+            "Dec": "+33:16:13.7",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Nov 11 UT",
+            "Date": "Nov 11"
+        }
+    ],
+    "References": [
+        "Theureau et al. 2007, A&A, 465, 71",
+        "Ofek et al. 2012, PASP, 124, 854",
+        "Marion et al. 2009, AJ, 138, 727"
+    ],
+    "Event Type": "discovery",
+    "Time": "Nov 13.145 UT",
+    "Date": "Nov 13",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "Folded-port InfraRed Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

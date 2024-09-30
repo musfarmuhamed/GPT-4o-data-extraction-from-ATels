@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00040+7020",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.096",
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": "2006 November 14"
+        },
+        {
+            "Name": "IGR J02504+5443",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": "2006 October 2"
+        },
+        {
+            "Name": "IGR J15161-3827",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.036500",
+            "Type": "borderline LINER/Seyfert 2 AGN",
+            "Time": null,
+            "Date": "2003 March 11"
+        },
+        {
+            "Name": "IGR J16385-2057",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026879",
+            "Type": "Narrow-Line Seyfert 1 AGN",
+            "Time": null,
+            "Date": "2003 June 8"
+        }
+    ],
+    "References": [
+        "Bird et al., astro-ph/0611493",
+        "Kuiper et al. 2006, ATel #939",
+        "Nakanishi et al. (1997, ApJS, 112, 245)",
+        "Ho et al. (1993, ApJ, 417, 63)",
+        "Osterbrock & Pogge (1985, ApJ, 297, 166)"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2006 October 2, 2006 November 14 and 27",
+    "Telescope": "G.D. Cassini, Copernicus",
+    "Instrument": null,
+    "Observatory": "Astronomical Observatory of Bologna, Astronomical Observatory of Asiago"
+}

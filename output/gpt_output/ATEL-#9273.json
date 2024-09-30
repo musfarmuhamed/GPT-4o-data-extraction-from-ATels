@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16hr/AT 2016eja",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03",
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": "2016 Jul 27"
+        },
+        {
+            "Name": "SN 2006cp",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.040",
+            "Type": "normal type Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9270",
+    "Event Type": "spectral observation and classification",
+    "Time": null,
+    "Date": "2016 Jul 27",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos observatory (La Palma)"
+}

@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17197-3010",
+            "RA": "17h 19m 51.7s",
+            "Dec": "-30d 02' 0.6\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2010-03-05 to 2012-02-12"
+        },
+        {
+            "Name": "Symbiotic Star",
+            "RA": "17h 19m 51.83s",
+            "Dec": "-30d 02m 0.3s",
+            "redshift": null,
+            "Type": "Symbiotic star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "INTEGRAL Source",
+            "RA": "17h 19m 43.2s",
+            "Dec": "-30d 10' 48\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Second X-ray Source",
+            "RA": "17h 19m 48.52s",
+            "Dec": "-30d 17' 25.87\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17198-3020",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient soft gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Massetti et al. (2012)",
+        "Krivonos et al., 2007, A & A, 475, 775",
+        "Bird et al. 2010, ApJS, 186,1"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": "2010-03-05 to 2012-02-12",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

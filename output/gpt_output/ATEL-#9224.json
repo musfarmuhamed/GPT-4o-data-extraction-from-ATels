@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN Nebra (RLC16Neb)",
+            "RA": "13:35:15.13",
+            "Dec": "+41:00:15.8",
+            "redshift": "1.964",
+            "Type": "Supernova",
+            "Time": "00:00:00",
+            "Date": "2016-06-17"
+        },
+        {
+            "Name": "Host Galaxy",
+            "RA": "13:35:15.14",
+            "Dec": "+41:00:15.7",
+            "redshift": "1.964",
+            "Type": "Galaxy",
+            "Time": "00:00:00",
+            "Date": "Null"
+        },
+        {
+            "Name": "Abell 1763 (RXC J1335.3+4059, ZwCl 1333.7+4117)",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.223",
+            "Type": "Galaxy Cluster",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Benitez 2000, ApJ, 536, 571",
+    "Event Type": "Discovery",
+    "Time": "00:00:00",
+    "Date": "2016-06-17",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Wide Field Camera 3 Infrared detector (WFC3-IR), WFC3-UVIS detector",
+    "Observatory": "Space Telescope Science Institute"
+}

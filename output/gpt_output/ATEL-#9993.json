@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017A",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0328",
+            "Type": "Ia",
+            "Time": "2017-01-24.19",
+            "Date": "2017-01-01.23"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Duszanowicz",
+        "Tsinghua-NAOC",
+        "Haynes et al. 1997, AJ, 113, 119",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2017-01-24.19",
+    "Date": "2017-01-01.23",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago Transient Classification Program"
+}

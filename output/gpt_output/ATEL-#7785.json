@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bdy",
+            "RA": "22 30 31.75",
+            "Dec": "+36 41 26.7",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20150709.59"
+        },
+        {
+            "Name": "PS15ayr",
+            "RA": "20 50 19.63",
+            "Dec": "+15 53 29.4",
+            "redshift": "0.03",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "20150708.49"
+        },
+        {
+            "Name": "PS15bdv",
+            "RA": "18 36 36.38",
+            "Dec": "+30 38 55.1",
+            "redshift": "0.08",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "20150708.37"
+        },
+        {
+            "Name": "PS15bdr",
+            "RA": "16 54 49.42",
+            "Dec": "+36 43 30.5",
+            "redshift": "0.07",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "20150708.31"
+        }
+    ],
+    "References": "Huber et al., ATel #7153; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "UH 2.2m",
+    "Instrument": "SNIFS spectrograph",
+    "Observatory": null
+}

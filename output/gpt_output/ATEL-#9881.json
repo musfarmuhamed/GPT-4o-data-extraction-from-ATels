@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "15.01 UT",
+            "Date": "2016 Dec 15",
+            "Magnitude": "19.96\u00b10.07"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "15.06 UT",
+            "Date": "2016 Dec 15",
+            "Magnitude": "19.83\u00b10.08"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "16.01 UT",
+            "Date": "2016 Dec 16",
+            "Magnitude": "20.30\u00b10.10"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "16.99 UT",
+            "Date": "2016 Dec 16",
+            "Magnitude": "20.85\u00b10.13"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "17.08 UT",
+            "Date": "2016 Dec 17",
+            "Magnitude": "21.08\u00b10.15"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "18.00 UT",
+            "Date": "2016 Dec 18",
+            "Magnitude": "21.35\u00b10.14"
+        }
+    ],
+    "References": [
+        "ATels #9848",
+        "#9852",
+        "#9853",
+        "#9857",
+        "#9861",
+        "#9872",
+        "#9874"
+    ],
+    "Event Type": "eruption",
+    "Time": "15.01 UT - 18.00 UT",
+    "Date": "2016 Dec 15 - Dec 18",
+    "Telescope": "24 inch CDK Cassegrain",
+    "Instrument": "SBIG STX 16803 detector with Omega SDSS r' filter",
+    "Observatory": "Embry Riddle Aeronautical University, Florida"
+}

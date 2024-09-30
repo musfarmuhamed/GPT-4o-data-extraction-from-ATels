@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 446",
+            "RA": "22:25:47.2593",
+            "Dec": "-04:57:01.391",
+            "redshift": "1.404",
+            "Type": "flat spectrum radio quasar",
+            "Time": "October 08, 2011",
+            "Date": "2011-10-08"
+        }
+    ],
+    "References": [
+        "Fey et al. 2004, AJ, 127, 3587",
+        "Perez, Penston & Moles 1989, MNRAS, 239, 55",
+        "2FGL J2225.6-0454, Abdo et al. 2011, submitted to ApJ, arXiv:11081435"
+    ],
+    "Event Type": "short gamma-ray flare",
+    "Time": "October 08, 2011",
+    "Date": "2011-10-08",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

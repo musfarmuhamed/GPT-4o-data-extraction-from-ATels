@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12fo",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.175",
+            "Type": "supernova",
+            "Time": "16:55:19",
+            "Date": "2012-02-13"
+        }
+    ],
+    "References": [
+        "Valenti et al. ATels #2668",
+        "#3351",
+        "Smartt et al. Atel #3918"
+    ],
+    "Event Type": "Very luminous supernova",
+    "Time": "16:55:19",
+    "Date": "2012-02-13",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Observatory": "Swift"
+}

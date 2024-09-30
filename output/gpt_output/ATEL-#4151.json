@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0250.2+4650",
+            "RA": "02 50 27.2",
+            "Dec": "+46 47 29.5",
+            "redshift": "0.021",
+            "Type": "Seyfert 2 AGN",
+            "Time": "05.52 UT",
+            "Date": "2008 December 3"
+        },
+        {
+            "Name": "IGR J05470+5034",
+            "RA": "05 47 14.76",
+            "Dec": "+50 38 24.4",
+            "redshift": "0.036",
+            "Type": "Seyfert 2",
+            "Time": "21.19 UT",
+            "Date": "2011 March 1"
+        },
+        {
+            "Name": "Swift J1933.9+3258",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.058",
+            "Type": "Seyfert 1",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al. 2012, arXiv:1205.3941",
+    "Event Type": "Identification of sources with active galactic nuclei",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Boller & Chivens spectrograph, 2.1m telescope, AFOSC spectrograph, 1.8m 'Copernicus' telescope",
+    "Instrument": null,
+    "Observatory": "Observatorio Astronomico Nacional (San Pedro Martir, Baja California, Mexico), Astrophysical Observatory of Asiago (Italy)"
+}

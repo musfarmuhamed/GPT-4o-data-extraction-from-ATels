@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.036(0.003)",
+            "Type": "Ia",
+            "Time": "30.9(15.5) days after maximum brightness",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15kj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018453",
+            "Type": "Ic",
+            "Time": "near maximum light",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15lp",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017686",
+            "Type": "Ia",
+            "Time": "near maximum light",
+            "Date": null
+        },
+        {
+            "Name": "PSN J12503072-1052405",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.007972",
+            "Type": "II-P",
+            "Time": "4-6 weeks past maximum",
+            "Date": null
+        },
+        {
+            "Name": "PSN J23072407-6129212",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027092",
+            "Type": "II",
+            "Time": "shortly after explosion",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7518",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "Mathewson et al. 1991, via NED",
+        "Huchra et al. 1998, via NED",
+        "Koribalski et al. 2004, AJ, 128, 16, via NED",
+        "Jones et al. 2009, The 6dF Galaxy Survey Data Release 3, via NED"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": "June 21 UT",
+    "Date": null,
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J10011200+0019423",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03451,
+            "Type": "peculiar type-Ia event",
+            "Time": "06.98 UT",
+            "Date": "Feb. 06"
+        },
+        {
+            "Name": "PSN J09084154+4448496",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026762,
+            "Type": "type-Ia supernova",
+            "Time": "07.03 UT",
+            "Date": "Feb. 07"
+        },
+        {
+            "Name": "PSN J10063402+1425578",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "type-IIn supernova",
+            "Time": "07.08 UT",
+            "Date": "Feb. 07"
+        },
+        {
+            "Name": "PSN J15213475-0722183",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.006,
+            "Type": "supernova impostor",
+            "Time": "07.16 UT",
+            "Date": "Feb. 07"
+        }
+    ],
+    "References": [
+        "SDSS 2004",
+        "de Vaucouleurs et al. 1991, Third Reference Catalogue of Bright Galaxies, via NED",
+        "Stanishev et al. 2007, A.Ap. 469, 645",
+        "Mahdavi & Geller, 2004, Ap.J. 607, 202",
+        "Strauss et al., 1992, ApJS 83, 29",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

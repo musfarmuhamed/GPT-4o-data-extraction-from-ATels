@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic globular cluster",
+            "Time": "3.2 ksec",
+            "Date": "2016-04-17"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "C38 from Heinke et al. 2006",
+            "RA": "17:48:05.391",
+            "Dec": "-24:46:56.28",
+            "redshift": null,
+            "Type": "unidentified source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8982",
+        "Heinke et al. 2006, ApJ, 651:1098"
+    ],
+    "Event Type": "X-ray luminosity observation",
+    "Time": null,
+    "Date": [
+        "2016-04-17",
+        "2016-04-21"
+    ],
+    "Telescope": "Swift-XRT",
+    "Instrument": [
+        "Swift-XRT",
+        "UVOT"
+    ],
+    "Observatory": "University of Leicester, UK Swift Science Data Centre"
+}

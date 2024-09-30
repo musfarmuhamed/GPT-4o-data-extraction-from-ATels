@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056 (3FGL J0509.4+0541 / 3FHL J0509.4+0542)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IceCube-170922A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:52",
+            "Date": "2017-09-27"
+        },
+        {
+            "Name": "1SXPS J050925.9+054134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kopper & Blaufuss, GCN #21916",
+        "Tanaka et al., ATEL #10791",
+        "Keivani et al., GCN #21930",
+        "(http://www.swift.ac.uk/1SXPS/1SXPS%20J050925.9%2B054134; Evans et al. 2014)"
+    ],
+    "Event Type": "gamma-ray source and X-ray source observation",
+    "Time": "18:52",
+    "Date": "2017-09-27",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": "Swift"
+}

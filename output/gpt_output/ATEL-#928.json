@@ -1,0 +1,127 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2362 Cyg",
+            "RA": "23:11:32.34",
+            "Dec": "+44:48:03.9",
+            "redshift": null,
+            "Type": "Classical nova",
+            "Time": "Middle of August 2006",
+            "Date": "2006-08",
+            "Details": {
+                "Brightness Level": {
+                    "Initial": "V = 11.9",
+                    "Peak": "V = 11.26",
+                    "Date": "2006-10-27"
+                },
+                "Observations": [
+                    {
+                        "Time Period": "2006-08-19 to 2006-08-31",
+                        "Telescope": "50-cm Maksutov",
+                        "Location": "SAI Crimean Station",
+                        "Details": {
+                            "Variations": {
+                                "Time Scale": "Hours",
+                                "Amplitude": "0.11 mag"
+                            },
+                            "Periodicity": {
+                                "Value": "0.2070 day",
+                                "Aliases": [
+                                    "0.1714 day",
+                                    "0.2612 day"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Date": "2006-10-27",
+                        "Telescope": "1-m SAO",
+                        "Spectral Range": "3800-7530A",
+                        "Resolution": "FWHM = 4.6 and 8.7A",
+                        "Details": {
+                            "Balmer Lines": {
+                                "Halpha": "5900 km/s",
+                                "Hbeta": "5300 km/s"
+                            },
+                            "Emission Features": [
+                                {
+                                    "Blend": "CIII+NIII",
+                                    "Center": "4652A"
+                                },
+                                {
+                                    "Blend": "[OIII]+NII",
+                                    "Center": "5010A"
+                                },
+                                {
+                                    "Blend": "NII+[NII]",
+                                    "Center": "5708A"
+                                },
+                                {
+                                    "Blend": "NaI+OI",
+                                    "Center": "5920A"
+                                }
+                            ],
+                            "Absence": [
+                                {
+                                    "Line": "HeI",
+                                    "Wavelength": "6678A"
+                                },
+                                {
+                                    "Line": "HeI",
+                                    "Wavelength": "7065A"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "Date": "2006-10-28",
+                        "Telescope": "1-m SAO",
+                        "Spectral Range": "3800-7530A",
+                        "Resolution": "FWHM = 4.6 and 8.7A",
+                        "Details": {
+                            "Balmer Lines": {
+                                "Halpha": "5900 km/s",
+                                "Hbeta": "5300 km/s"
+                            },
+                            "Emission Features": [
+                                {
+                                    "Blend": "CIII+NIII",
+                                    "Center": "4652A"
+                                },
+                                {
+                                    "Blend": "[OIII]+NII",
+                                    "Center": "5010A"
+                                },
+                                {
+                                    "Blend": "NII+[NII]",
+                                    "Center": "5708A"
+                                },
+                                {
+                                    "Blend": "NaI+OI",
+                                    "Center": "5920A"
+                                }
+                            ],
+                            "Absence": [
+                                {
+                                    "Line": "HeI",
+                                    "Wavelength": "6678A"
+                                },
+                                {
+                                    "Line": "HeI",
+                                    "Wavelength": "7065A"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "References": null,
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

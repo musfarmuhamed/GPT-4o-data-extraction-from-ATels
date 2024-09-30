@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016bcz",
+            "RA": "11:34:10.50",
+            "Dec": "+55:34:40.50",
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": "03:03.68",
+            "Date": "2016-03-03"
+        },
+        {
+            "Name": "SDSS J113409.59+553437.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://119.78.162.28/sndata/result/20160303/ASN7.html",
+    "Event Type": "discovery",
+    "Time": "03:03.68",
+    "Date": "2016-03-03",
+    "Telescope": "Nanshan 1.0-m",
+    "Instrument": null,
+    "Observatory": "Xinjiang Astronomical Observatory"
+}

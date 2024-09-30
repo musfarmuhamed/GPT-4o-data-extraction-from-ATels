@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2011-01-08"
+        },
+        {
+            "Name": "SSS110126:055646-331027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2011-01-26"
+        }
+    ],
+    "References": [
+        "ATels #3102 (Matsumara et al.)",
+        "#3327 (Maitra et al.)",
+        "http://nesssi.cacr.caltech.edu/SSS/20110126/1101260330384121960p.html"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": "2011-01-26",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

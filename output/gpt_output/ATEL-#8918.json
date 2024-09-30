@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16bnr",
+            "RA": "11:38:43.46",
+            "Dec": "+08:44:09.8",
+            "redshift": 0.067,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS16bnz",
+            "RA": "10:20:36.90",
+            "Dec": "-02:28:00.3",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "-8d",
+            "Date": null
+        },
+        {
+            "Name": "PS16bod",
+            "RA": "11:15:08.11",
+            "Dec": "+22:03:35.8",
+            "redshift": 0.26,
+            "Type": "Ia",
+            "Time": "+4d",
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2016 April 06 UT",
+    "Telescope": "Mayall",
+    "Instrument": "KOSMOS",
+    "Observatory": "Kitt Peak National Observatory"
+}

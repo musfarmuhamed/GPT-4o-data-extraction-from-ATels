@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2016-10-01.764",
+            "Date": "2016-10-01.764"
+        },
+        {
+            "Name": "IGR J19566+0326",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2016-10-01.764",
+            "Date": "2016-10-01.764"
+        },
+        {
+            "Name": "USNO B1.0 0934-0560330",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high latitude X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9565, #9572, #8149, #8197, #7524, ApJ, 659, 549",
+    "Event Type": "Optical imaging and spectroscopic observations",
+    "Time": "2016-10-01.764",
+    "Date": "2016-10-01.764",
+    "Telescope": "Southern African Large Telescope (SALT)",
+    "Instrument": "SALTICAM, Robert Stobie Spectrograph",
+    "Observatory": "Southern African Large Telescope"
+}

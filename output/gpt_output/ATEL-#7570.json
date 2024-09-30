@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17451-3022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": "22.6 ks (6.3 hour) orbital period",
+            "Date": {
+                "discovery": "2014-08-28 to 2014-08-30",
+                "Swift observations": [
+                    "2015-05-09",
+                    "2015-05-16",
+                    "2015-05-18",
+                    "2015-05-23"
+                ]
+            }
+        }
+    ],
+    "References": [
+        "ATel #6451",
+        "ATel #6459",
+        "ATel #6469",
+        "ATel #7028",
+        "ATel #7361"
+    ],
+    "Event Type": "X-ray transient discovery and subsequent observations",
+    "Time": "Discovered between Aug. 28-30, 2014, and subsequent observations in May 2015",
+    "Date": {
+        "discovery": "2014-08-28 to 2014-08-30",
+        "subsequent observations": [
+            "2015-05-09",
+            "2015-05-16",
+            "2015-05-18",
+            "2015-05-23"
+        ]
+    },
+    "Telescope": [
+        "INTEGRAL",
+        "Swift",
+        "Suzaku"
+    ],
+    "Instrument": [
+        "JEM-X",
+        "XRT"
+    ],
+    "Observatory": null
+}

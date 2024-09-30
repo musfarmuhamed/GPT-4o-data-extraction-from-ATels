@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "17:35:00",
+            "Date": "July 9, 2014"
+        },
+        {
+            "Name": "SGR 1935+2154",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "20:28:00",
+            "Date": "July 14, 2014"
+        },
+        {
+            "Name": "SNR G57.2+0.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN 16520",
+        "GCN 16522",
+        "ATEL 6299",
+        "ATEL 6370"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "July 14, 2014",
+    "Telescope": [
+        "Ooty Radio Telescope",
+        "Giant Meterwave Radio Telescope"
+    ],
+    "Instrument": [
+        "326.5 MHz receiver",
+        "610 MHz receiver"
+    ],
+    "Observatory": [
+        "ORT",
+        "GMRT"
+    ]
+}

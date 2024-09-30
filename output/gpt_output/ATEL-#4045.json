@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1717-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "April 7, 2012"
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4023",
+        "Voges et al. 1999, A&A, 349, 389",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "ATel #4032",
+        "ATel #4029"
+    ],
+    "Event Type": "flare",
+    "Time": null,
+    "Date": [
+        "April 9, 2012",
+        "April 11, 2012",
+        "April 13, 2012"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

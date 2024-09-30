@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting ms pulsar",
+            "Time": "2011-11-04T15:50:24Z",
+            "Date": "2011-11-04"
+        }
+    ],
+    "References": [
+        "Markwardt et al. 2011, ATel #3733",
+        "Papitto et al. 2009, A&A, 493, L39",
+        "Galloway & Cumming 2006, ApJ, 652, 559",
+        "Hartman et al. 2009, ApJ, 702, 1673",
+        "Hartman et al. 2008, 675, 1468"
+    ],
+    "Event Type": "outburst",
+    "Time": "2011-11-04T21:38:52Z",
+    "Date": "2011-11-04",
+    "Telescope": "Swift, RXTE",
+    "Instrument": "PCU2 of the Proportional Counter Array (PCA), WT mode",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018aqm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0324",
+            "Type": "Type Ia Supernova",
+            "Time": "Apr.10.82",
+            "Date": "2018"
+        },
+        {
+            "Name": "SN 2003cg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "+5 days from the maximum light",
+            "Date": null
+        },
+        {
+            "Name": "2MFGC 13255",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0324",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "Apr.10.82",
+    "Date": "2018",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

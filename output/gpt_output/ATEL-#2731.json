@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05255-0711-1",
+            "RA": "05h 25m 12.4s",
+            "Dec": "-07d 09m 28.0s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "0.3-10 keV",
+            "Date": "2010, April 27 and May 01"
+        },
+        {
+            "Name": "IGR J05255-0711-2",
+            "RA": "05h 25m 09.83s",
+            "Dec": "-07d 07m 48.38s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "0.3-10 keV",
+            "Date": "2010, April 27 and May 01"
+        },
+        {
+            "Name": "IGR J05255-0711-3",
+            "RA": "05h 25m 32.80s",
+            "Dec": "-07d 13m 06.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "0.3-10 keV",
+            "Date": "2010, April 27 and May 01"
+        },
+        {
+            "Name": "IGR J16413-4046",
+            "RA": "16h 41m 19.31s",
+            "Dec": "-40d 47m 31.84s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "3-10 keV",
+            "Date": "2010, June 14"
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

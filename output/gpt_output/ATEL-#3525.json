@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": "17h 45m 35.746s",
+            "Dec": "-28d 59' 29.06\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "06:35 TT",
+            "Date": "2011 July 21"
+        },
+        {
+            "Name": "CXOUGC J174535.6-285928",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint Chandra point source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3472",
+        "ATEL #3476",
+        "ATEL #3481",
+        "ATEL #3508",
+        "Muno et al. 2009, ApJS, 181, 110"
+    ],
+    "Event Type": "X-ray transient discovery outburst",
+    "Time": "06:35 TT",
+    "Date": "2011 July 21",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1748-361",
+            "RA": "17 48 19.22",
+            "Dec": "-36 07 16.6",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": [
+                {
+                    "Nov 2.1": "2003"
+                },
+                {
+                    "Feb 7": "2004"
+                },
+                {
+                    "Apr 7.3": "2004"
+                },
+                {
+                    "Apr 8.8": "2004"
+                }
+            ],
+            "Date": "2003-2004"
+        },
+        {
+            "Name": "Ariel source A1744-36",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "1976"
+        },
+        {
+            "Name": "Chandra source",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL #204",
+        "ATEL #205",
+        "ATEL #210",
+        "ATEL #238"
+    ],
+    "Event Type": "Transient Detection",
+    "Time": "Multiple",
+    "Date": "Multiple",
+    "Telescope": "RXTE ASM, RXTE PCA",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

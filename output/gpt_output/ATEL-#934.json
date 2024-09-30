@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006jc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.00557",
+            "Type": "Ib",
+            "Time": "23:33:00",
+            "Date": "2006-11-04"
+        }
+    ],
+    "References": [
+        "CBET #666",
+        "ATel #916",
+        "ATel #917",
+        "Dickey & Lockman, 1990, ARAA 28, 215"
+    ],
+    "Event Type": "Observation",
+    "Time": "23:33:00",
+    "Date": "2006-11-04",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3",
+    "Observatory": "Chandra X-ray Observatory"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ak",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "SN Ia-pec",
+            "Time": "20150110.87",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J021447.67+481852.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": "20150110.90",
+            "Date": null
+        },
+        {
+            "Name": "PSN J09411555+3553174",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.023",
+            "Type": "SN Ia",
+            "Time": "20150110.94",
+            "Date": null
+        },
+        {
+            "Name": "PSN J12543553-1234186",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "SN Ia",
+            "Time": "20150111.12",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15ae",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "SN Ia",
+            "Time": "20150111.17",
+            "Date": null
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; arXiv:1103.5165; CBAT Transient Objects Confirmation Page (TOCP); ATel #6897; GELATO (Harutyunyan et al. 2008, A&A, 488, 383); SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC; range 340-820 nm; resolution 1.2 nm",
+    "Observatory": "Asiago"
+}

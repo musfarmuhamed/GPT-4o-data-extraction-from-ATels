@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16em",
+            "RA": "13:32:14.198",
+            "Dec": "+84:40:42.35",
+            "redshift": 0.0234,
+            "Type": "Type Ia supernova",
+            "Time": "2016-04-14.41",
+            "Date": "2016-04-14"
+        },
+        {
+            "Name": "GALEXASC J133213.24+844042.7",
+            "RA": "13:32:13.24",
+            "Dec": "+84:40:42.7",
+            "redshift": 0.0234,
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "Discovery of a new transient source, likely a supernova",
+    "Time": "2016-04-14.41",
+    "Date": "2016-04-14",
+    "Telescope": "Quadruple 14-cm \"Brutus\" telescope, MDM 2.4m telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J173324.6-332321",
+            "RA": "17h:33:24.61",
+            "Dec": "-33:23:21.2",
+            "redshift": null,
+            "Type": "neutron star X-ray binary",
+            "Time": "06:22:49-07:07:36",
+            "Date": "2018 May 14"
+        },
+        {
+            "Name": "Liller 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Rapid Burster",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11598",
+        "Homan et al. (2018; ATel #11598)",
+        "Moore et al. (2000; ApJ 532, 1181)",
+        "Harris 1996, AJ, 112, 1487; 2010 edition",
+        "Tudor et al. 2017, MNRAS, 470, 324"
+    ],
+    "Event Type": "Transient X-ray source detection",
+    "Time": "06:22:49-07:07:36 UTC",
+    "Date": "2018 May 14",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

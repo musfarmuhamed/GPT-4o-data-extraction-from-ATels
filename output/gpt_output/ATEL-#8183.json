@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cjr",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0229",
+            "Type": "type-IIb",
+            "Time": "16.9 UT",
+            "Date": "2015 Oct 16"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Huchra, Vogeley, & Geller 1999, ApJS, 121, 287",
+        "Huber et al. 2015, ATel #7153"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "16.9 UT",
+    "Date": "2015 Oct 16",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

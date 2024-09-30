@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18538-0102",
+            "RA": "18h53m48.50s",
+            "Dec": "-01d02'30.0\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "8 ks",
+            "Date": "2004 October 8"
+        },
+        {
+            "Name": "Object in the 2MASS Point Source Catalog",
+            "RA": "18h53m48.48s",
+            "Dec": "-01d02'29.6\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Faint object",
+            "RA": "18h53m48.49s",
+            "Dec": "-01d02'29.2\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "60 s",
+            "Date": "2006 June 29"
+        }
+    ],
+    "References": "Stephen et al., ATel #2441",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XMM-Newton, 2.4m Hiltner telescope",
+    "Instrument": null,
+    "Observatory": "MDM Observatory"
+}

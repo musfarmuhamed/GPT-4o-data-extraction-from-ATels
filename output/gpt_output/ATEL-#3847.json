@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT105357.03+232234.5",
+            "RA": "10h 53m 57.03s",
+            "Dec": "+23d 22m 34.5s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00:00:00.00000",
+            "Date": "2011-12-30.79219"
+        },
+        {
+            "Name": "MASTER OT004822.33+741757.5",
+            "RA": "00h 48m 22.33s",
+            "Dec": "+74d 17m 57.5s",
+            "redshift": null,
+            "Type": "Flare",
+            "Time": "13:26:24",
+            "Date": "2012-01-04.56"
+        },
+        {
+            "Name": "MASTER OT021912.06+465550.2",
+            "RA": "02h 19m 12.06s",
+            "Dec": "+46d 55m 50.2s",
+            "redshift": null,
+            "Type": "PSN?",
+            "Time": "12:13:06.430",
+            "Date": "2011-12-31.50912"
+        },
+        {
+            "Name": "MASTER OT103717.83+505934.2",
+            "RA": "10h 37m 17.83s",
+            "Dec": "+50d 59m 34.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "21:03:54",
+            "Date": "2012-01-03.87764"
+        },
+        {
+            "Name": "MASTER OT050806.84+712352.0",
+            "RA": "05h 08m 06.84s",
+            "Dec": "+71d 23m 52.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:57:22",
+            "Date": "2012-01-05.53984"
+        }
+    ],
+    "References": "MASTER Robotic Net",
+    "Event Type": "OT Detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14C3hud",
+            "RA": "03 28 39.14",
+            "Dec": "-28 06 29.7",
+            "redshift": 0.225,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Nov 15"
+        },
+        {
+            "Name": "DES14S1kdq",
+            "RA": "02 49 04.83",
+            "Dec": "+00 34 56.5",
+            "redshift": 0.3275,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Nov 15"
+        },
+        {
+            "Name": "DES14S1lfk",
+            "RA": "02 50 26.63",
+            "Dec": "-00 21 42.2",
+            "redshift": 0.439,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Nov 15"
+        },
+        {
+            "Name": "DES14X3jmx",
+            "RA": "02 24 14.02",
+            "Dec": "-05 09 52.5",
+            "redshift": 0.502,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014 Nov 15"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": "2014 Nov 15",
+    "Telescope": "6.5m Clay telescope",
+    "Instrument": "LDSS-3C",
+    "Observatory": "Las Campanas Observatory"
+}

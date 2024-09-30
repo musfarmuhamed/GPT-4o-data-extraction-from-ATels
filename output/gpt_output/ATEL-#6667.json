@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J20250386-2449133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova (SN) Ic",
+            "Time": null,
+            "Date": "2014 November 4"
+        },
+        {
+            "Name": "SN 2004aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "peculiar Ic",
+            "Time": "a few days before",
+            "Date": "2014 November 4"
+        },
+        {
+            "Name": "SN 1999ac",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "91T-like",
+            "Time": "11 days before",
+            "Date": "2014 November 4"
+        }
+    ],
+    "References": [
+        "ATel #6659",
+        "ATel #6666"
+    ],
+    "Event Type": "spectrum observation",
+    "Time": null,
+    "Date": "2014 November 4",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient and likely black hole binary",
+            "Time": null,
+            "Date": "2012 May"
+        },
+        {
+            "Name": "MAXI J1910-057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient and likely black hole binary",
+            "Time": null,
+            "Date": "2012 May"
+        }
+    ],
+    "References": [
+        "Krimm et al., ATEL#4139",
+        "Usui et al., ATEL#4140",
+        "Rau et al., ATEL#4144"
+    ],
+    "Event Type": null,
+    "Time": "2012 May to 2013 January",
+    "Date": "2012 May",
+    "Telescope": [
+        "Swift",
+        "ATCA"
+    ],
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": [
+        "Swift Observatory",
+        "Australia Telescope Compact Array (ATCA)"
+    ]
+}

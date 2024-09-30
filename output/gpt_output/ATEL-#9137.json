@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "21:00 - 22:00 UTC",
+            "Date": "2016 June 5 to 2016 June 9"
+        }
+    ],
+    "References": [
+        "http://fact-project.org/monitoring/index.php?y=2016&m=06&d=09&source=1&timebin=12&plot=week"
+    ],
+    "Event Type": "enhanced flux",
+    "Time": "21:00 - 22:00 UTC",
+    "Date": "2016 June 5 to 2016 June 9",
+    "Telescope": [
+        "FACT",
+        "Swift-XRT",
+        "HAWC"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Observatorio del Roque de los Muchachos",
+        "HAWC Observatory"
+    ]
+}

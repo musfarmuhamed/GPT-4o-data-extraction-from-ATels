@@ -1,0 +1,130 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018dzh",
+            "RA": "14 40 33.36",
+            "Dec": "+13 07 23.1",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180712"
+        },
+        {
+            "Name": "SN2018ebq",
+            "RA": "21 42 26.44",
+            "Dec": "+11 47 05.5",
+            "redshift": 0.04,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20180714"
+        },
+        {
+            "Name": "SN2018ebs",
+            "RA": "21 39 37.62",
+            "Dec": "+08 56 39.7",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180716"
+        },
+        {
+            "Name": "SN2018eem",
+            "RA": "23 36 01.41",
+            "Dec": "+18 41 07.1",
+            "redshift": 0.05,
+            "Type": "II",
+            "Time": null,
+            "Date": "20180725"
+        },
+        {
+            "Name": "AT2018emt",
+            "RA": "22 10 35.65",
+            "Dec": "-27 14 58.6",
+            "redshift": 0.02395,
+            "Type": "?",
+            "Time": null,
+            "Date": "20180801"
+        },
+        {
+            "Name": "SN2018emw",
+            "RA": "21 22 55.27",
+            "Dec": "-18 11 00.3",
+            "redshift": 0.03,
+            "Type": "II",
+            "Time": null,
+            "Date": "20180801"
+        },
+        {
+            "Name": "AT2018emz",
+            "RA": "20 11 52.18",
+            "Dec": "+13 52 23.1",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "20180801"
+        },
+        {
+            "Name": "SN2018enj",
+            "RA": "20 05 41.09",
+            "Dec": "-47 58 41.3",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180802"
+        },
+        {
+            "Name": "SN2018elj",
+            "RA": "22 08 23.36",
+            "Dec": "+11 22 45.4",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180726"
+        },
+        {
+            "Name": "SN2018enk",
+            "RA": "00 25 51.82",
+            "Dec": "-20 40 50.3",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180710"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Smartt et al. 2015, A&A, 579, 40",
+            "Link": "http://www.pessto.org"
+        },
+        {
+            "Title": "Tonry et al. (2011, PASP, 123, 58)",
+            "Link": null
+        },
+        {
+            "Title": "Tonry et al. (ATel #8680)",
+            "Link": null
+        },
+        {
+            "Title": "Shappee et al. 2014, ApJ, 788, 48",
+            "Link": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Title": "ESA Gaia Photometric Science Alerts Team and DPAC",
+            "Link": "http://gsaweb.ast.cam.ac.uk/alerts"
+        },
+        {
+            "Title": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+            "Link": null
+        },
+        {
+            "Title": "Harutyunyan et al., 2008, A&A, 488, 383",
+            "Link": null
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 August 02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

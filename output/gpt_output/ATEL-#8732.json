@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S255IR-NIRS3",
+            "RA": "06h 12m 54.020s",
+            "Dec": "+17d 59' 23.07\"",
+            "redshift": null,
+            "Type": "High-mass YSO (HMYSO)",
+            "Time": null,
+            "Date": [
+                "2015 Nov 28",
+                "2016 Jan 18",
+                "2016 Feb 23",
+                "2009 Dec 08",
+                "2016 Feb 18"
+            ]
+        }
+    ],
+    "References": [
+        "Fujisawa et al. (ATel # 8286)",
+        "Menten (1991 ApJ, 380, L75)",
+        "Sobolev & Deguchi 1994, A&A, 291, 569",
+        "Baumeister et al. 2008, Proc. SPIE 7014, 70142",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Simpson et al. 2009, ApJ 700, 1488",
+        "Ojha et al. 2011, ApJ 738, 156",
+        "Wang et al. 2011, A&A, 527, A32",
+        "Zinchenko et al. 2015, ApJ 810, 10",
+        "Boley et al. 2013, A&A 558, A24",
+        "Minier et al. 2001, A&A, 369, 278"
+    ],
+    "Event Type": "6.7 GHz class II methanol maser flare",
+    "Time": null,
+    "Date": [
+        "2015 July",
+        "2015 October"
+    ],
+    "Telescope": [
+        "Calar Alto 2.2-m telescope",
+        "La Silla 2.2-m telescope",
+        "ESO VLTI"
+    ],
+    "Instrument": [
+        "PANIC",
+        "GROND",
+        "MIDI"
+    ],
+    "Observatory": null
+}

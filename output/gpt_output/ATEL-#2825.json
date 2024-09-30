@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17285-2922",
+            "RA": "262.172",
+            "Dec": "-29.325",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "11:28-16:23",
+            "Date": "26 Aug 2010"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": "262.172",
+            "Dec": "-29.325",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "23:09 - 02:53",
+            "Date": "26 Aug - 27 Aug 2010"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": "262.172",
+            "Dec": "-29.325",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "22:53 - 02:37",
+            "Date": "29 Aug - 30 Aug 2010"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": "262.172",
+            "Dec": "-29.325",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "23:37 - 03:19",
+            "Date": "20 Aug - 21 Aug 2010"
+        },
+        {
+            "Name": "XTE J1728-295",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "26 Aug 2010"
+        }
+    ],
+    "References": [
+        "ATel #2823",
+        "ATel #2824",
+        "ATel #438",
+        "ATel #904"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X",
+        "Swift/XRT",
+        "RXTE/PCA",
+        "Swift/BAT"
+    ],
+    "Observatory": "INTEGRAL Galactic bulge monitoring program"
+}

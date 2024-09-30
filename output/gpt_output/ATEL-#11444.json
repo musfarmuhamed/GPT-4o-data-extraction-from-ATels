@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS-18mlt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS-18mlp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.082,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS-18mlo",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.131,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18du",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2018ahe",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii (UH) 88-inch telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "University of Hawaii"
+}

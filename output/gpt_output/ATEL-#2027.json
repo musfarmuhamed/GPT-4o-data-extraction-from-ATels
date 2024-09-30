@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17375-3022",
+            "RA": "17deg 37' 33.2\"",
+            "Dec": "-30deg 23' 14\"",
+            "redshift": null,
+            "Type": "Point-like source",
+            "Time": "16:00:00",
+            "Date": "2009-04-01"
+        }
+    ],
+    "References": [
+        "Ricci et al. 2008, ATel #1781",
+        "Cadolle Bel et al. 2008, Atel #1810",
+        "Beckmann et al. 2008, ATel #1783"
+    ],
+    "Event Type": "X-ray Detection",
+    "Time": "16:00:00",
+    "Date": "2009-04-01",
+    "Telescope": "XMM-Newton",
+    "Instrument": "Slew Detector",
+    "Observatory": "ESA"
+}

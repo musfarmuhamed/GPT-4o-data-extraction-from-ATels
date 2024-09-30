@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-1 X-ray burst",
+            "Time": null,
+            "Date": "July 20 to August 8, 2017"
+        },
+        {
+            "Name": "GS 1826-238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-1 X-ray burst",
+            "Time": null,
+            "Date": "July to August 2017"
+        },
+        {
+            "Name": "GX 13+1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-1 X-ray burst",
+            "Time": null,
+            "Date": "July to August 2017"
+        },
+        {
+            "Name": "GX 17+2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-1 X-ray burst",
+            "Time": null,
+            "Date": "July to August 2017"
+        }
+    ],
+    "References": [
+        "GCN #21369",
+        "GCN #21385",
+        "GCN #21400",
+        "ATel #10612",
+        "ATel #10624",
+        "P. A. Jenke, et al., \"The Fermi-GBM 3-Year X-ray Burst Catalog.\" ApJ, 826:228 (2016)"
+    ],
+    "Event Type": "X-ray bursts",
+    "Time": null,
+    "Date": "July 20 to August 8, 2017",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT"
+    ],
+    "Observatory": "MAXI"
+}

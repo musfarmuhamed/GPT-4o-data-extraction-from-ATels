@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XB 1732-304",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J173546.9-302859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1735-304",
+            "RA": "263.84",
+            "Dec": "-30.48",
+            "redshift": null,
+            "Type": "X-ray Transient",
+            "Time": null,
+            "Date": "Between May 19th, 2013 and May 30th, 2013"
+        }
+    ],
+    "References": "Makishima et al. 1981, ApJ 247, L23; Guainazzi et al. 1999, A&A 349, 819; Wijnands et al. 2002, ApJ 572, 1002",
+    "Event Type": "X-ray Enhancement",
+    "Time": "23:18 UT",
+    "Date": "May 24th, 2013",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

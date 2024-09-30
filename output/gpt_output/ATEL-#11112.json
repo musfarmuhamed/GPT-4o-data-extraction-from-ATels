@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17diu/SN2017jdb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "2017-12-28",
+            "Date": "2017-12-21"
+        },
+        {
+            "Name": "Gaia17dht/SN2017izz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Ibc",
+            "Time": "2017-12-28",
+            "Date": "2017-12-16"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2017-12-28",
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

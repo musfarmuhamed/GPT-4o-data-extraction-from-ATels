@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS130519:151011+230449",
+            "RA": "15 10 10.75",
+            "Dec": "+23 04 48.5",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "+14d",
+            "Date": "20130519"
+        },
+        {
+            "Name": "CSS130517:165754+205346",
+            "RA": "16 57 53.94",
+            "Dec": "+20 53 45.7",
+            "redshift": "0.03",
+            "Type": "IIP",
+            "Time": "+14d",
+            "Date": "20130517"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "night starting on 2013 May 24",
+    "Date": "2013 May 24",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC, grism 4 (320-910 nm, 16 \u00c5 resolution) and 1\" slit",
+    "Observatory": "Null"
+}

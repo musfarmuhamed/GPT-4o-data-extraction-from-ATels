@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63/SS 2883",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Binary system",
+            "Time": "03:00:00",
+            "Date": "2014-06-06"
+        }
+    ],
+    "References": [
+        "Tam et al. 2011, ApJ 736, L10",
+        "Abdo et al. 2011, ApJ 736, L11",
+        "Chernyakova et al. 2014, MNRAS 439, 432",
+        "Atel #6216",
+        "Atel #6204",
+        "Atel #6198"
+    ],
+    "Event Type": "GeV activity",
+    "Time": [
+        "2014-06-06 03:00:00 UTC",
+        "2014-06-09 00:10:04 to 2014-06-10 00:10:04 UTC",
+        "2014-06-09 12:10:04"
+    ],
+    "Date": [
+        "2014-06-05",
+        "2014-06-06",
+        "2014-06-09",
+        "2014-06-10",
+        "2014-06-12"
+    ],
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

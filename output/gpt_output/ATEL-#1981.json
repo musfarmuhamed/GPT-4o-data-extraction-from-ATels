@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18284-0345",
+            "RA": "277.114",
+            "Dec": "-3.764",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "18:37 UT",
+            "Date": "2009 March 18"
+        },
+        {
+            "Name": "Unknown source (Swift/XRT detected)",
+            "RA": "277.125",
+            "Dec": "-3.762",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "15:58 UT",
+            "Date": "2009 March 20"
+        }
+    ],
+    "References": null,
+    "Event Type": "X-ray source discovery",
+    "Time": "18:37 UT",
+    "Date": "2009 March 18",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X1, Swift/XRT",
+    "Observatory": "Unknown"
+}

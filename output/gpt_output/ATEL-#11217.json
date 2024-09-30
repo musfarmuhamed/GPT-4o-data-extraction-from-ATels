@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017jeb/PS17fke",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.064,
+            "Type": "SN I",
+            "Time": "near-max",
+            "Date": "2018 Jan 11"
+        },
+        {
+            "Name": "AT2017jgh/PS17fkd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "SN IIb",
+            "Time": "-1 week pre-max",
+            "Date": "2018 Jan 07"
+        },
+        {
+            "Name": "AT2017jgi/PS17fkc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.13,
+            "Type": "SN Ia",
+            "Time": "+1 week post-max",
+            "Date": "2018 Jan 08"
+        },
+        {
+            "Name": "AT2017jgj/PS17fke",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "SN Ib",
+            "Time": "near-max",
+            "Date": "2018 Jan 11"
+        },
+        {
+            "Name": "AT2018ha/PS18ep",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "near-max",
+            "Date": "2018 Jan 11"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Gemini Multi-Object Spectrograph (GMOS)",
+    "Instrument": "R400 grating",
+    "Observatory": [
+        "Gemini North Observatory on Mauna Kea",
+        "Gemini South Observatory on Cerro Pachon"
+    ]
+}

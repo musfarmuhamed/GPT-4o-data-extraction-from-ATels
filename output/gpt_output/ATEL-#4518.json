@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J131447.05+540505.5",
+            "RA": "13h 14m 47.05s",
+            "Dec": "+54d 05m 05.5s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2012-10-25.87650 UT",
+            "Date": "2012-10-25"
+        },
+        {
+            "Name": "PGC 3087098 (SDSS J131446.51+540514.8)",
+            "RA": "13h 14m 46.51s",
+            "Dec": "+54d 05m 14.8s",
+            "redshift": "0.03316",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "2012-04-01.76801 UT",
+    "Event Type": "PSN",
+    "Time": "2012-10-25.87650 UT",
+    "Date": "2012-10-25",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

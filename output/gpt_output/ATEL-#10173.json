@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017cel",
+            "RA": "07 58 48.44",
+            "Dec": "-11 14 51.3",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "14.95",
+            "Date": "20170314"
+        },
+        {
+            "Name": "AT2017cem",
+            "RA": "07 17 47.12",
+            "Dec": "+02 36 33.4",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "14.83",
+            "Date": "20170314"
+        }
+    ],
+    "References": [
+        "ATel #10055",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry (2007, ApJ, 666, 1024)",
+        "Harutyunyan et al. (2008, A&A, 488, 383)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "14",
+    "Date": "20170314",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT and Red Grism (4000-8000A, 18A resolution)",
+    "Observatory": "Roque de Los Muchachos"
+}

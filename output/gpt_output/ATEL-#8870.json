@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 301-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "March 24"
+        },
+        {
+            "Name": "Wray 977",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "companion star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8860",
+        "GCN #19221",
+        "Koh et al. 1997, ApJ 479, 933",
+        "Leahy & Kostka 2008, MNRAS 384, 747",
+        "Fuerst et al., 2011, A&A 535, A9",
+        "Kreykenbohm et al. 2004, A&A 427, 975"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "March 24",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Swift"
+}

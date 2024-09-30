@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J152333.04+092125.6",
+            "RA": "15h 23m 33.04s",
+            "Dec": "+09d 21m 25.6s",
+            "redshift": null,
+            "Type": "SN (Ia-type)",
+            "Time": "02:18:51",
+            "Date": "2016-04-04"
+        },
+        {
+            "Name": "MASTER OT J102936.01+202108.2",
+            "RA": "10h 29m 36.01s",
+            "Dec": "+20d 21m 08.2s",
+            "redshift": null,
+            "Type": "red dwarf flare",
+            "Time": "21:31:22",
+            "Date": "2016-04-03"
+        },
+        {
+            "Name": "MASTER OT J121623.12-533932.9",
+            "RA": "12h 16m 23.12s",
+            "Dec": "-53d 39m 32.9s",
+            "redshift": null,
+            "Type": "red giant",
+            "Time": "18:44:00",
+            "Date": "2016-04-03"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 349171",
+    "Event Type": "Discovery",
+    "Time": "2016-04-04",
+    "Date": "02:18:51",
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

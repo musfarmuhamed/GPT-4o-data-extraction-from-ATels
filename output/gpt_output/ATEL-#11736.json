@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow/ATLAS18qqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2018 Jun 19 UT"
+        },
+        {
+            "Name": "Ca II H&K absorption features",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0 and 0.014",
+            "Type": "Absorption features",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "ATel #11732"
+    ],
+    "Event Type": "Spectroscopic Observation",
+    "Time": null,
+    "Date": "2018 Jun 19 UT",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

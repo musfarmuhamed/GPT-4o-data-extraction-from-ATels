@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 4559",
+            "RA": "12:35:52.28",
+            "Dec": "+27:55:55.5",
+            "redshift": "Null",
+            "Type": "supernova impostor",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Gaia16ada",
+            "RA": "12:35:52.26",
+            "Dec": "+27:55:55.3",
+            "redshift": "Null",
+            "Type": "supernova impostor",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SN2000ch",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "supernova impostor",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "Atels #3865",
+        "Atels #6303",
+        "https://www.flickr.com/photos/snimages/14298380558/",
+        "Jordi et al. 2010",
+        "Pastorello et al. 2010"
+    ],
+    "Event Type": "transient",
+    "Time": "Null",
+    "Date": "2016-02-11",
+    "Telescope": "1.2m telescopes of the STELLA robotic observatory",
+    "Instrument": "WiFSIP imager",
+    "Observatory": "STELLA robotic observatory"
+}

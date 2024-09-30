@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018bsz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027,
+            "Type": "Type I superluminous supernova (SLSN-I)",
+            "Time": null,
+            "Date": "25 June 2018 UT"
+        },
+        {
+            "Name": "Gaia16apd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2017egm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "iPTF13ajg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #11659",
+        "ATels #11660",
+        "ATels #11674",
+        "Hiramatsu et al. 2018",
+        "Schlafly & Finkbeiner 2011",
+        "Yan et al. 2017",
+        "Yan et al. 2018",
+        "Vreeswijk et al. 2014",
+        "Quimby et al. 2018",
+        "Quimby et al. 2011",
+        "Mazzali et al. 2016",
+        "Howell et al. 2013"
+    ],
+    "Event Type": "Hubble Space Telescope observations",
+    "Time": null,
+    "Date": "25 June 2018 UT",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": [
+        "COS/FUV + G140L",
+        "STIS/NUV-MAMA + G230L"
+    ],
+    "Observatory": "STScI"
+}

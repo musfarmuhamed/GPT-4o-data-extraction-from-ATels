@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1727-203",
+            "RA": 262.112,
+            "Dec": -20.385,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "15:40",
+            "Date": "2018-06-05"
+        }
+    ],
+    "References": "ATel #11683, Ludlam et al. (2018, ApJL, 858, L5)",
+    "Event Type": "nova alert",
+    "Time": "15:40",
+    "Date": "2018-06-05",
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

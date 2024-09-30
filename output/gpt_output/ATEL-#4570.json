@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J022748.93+102526.4",
+            "RA": "02h 27m 48.93s",
+            "Dec": "+10d 25m 26.4s",
+            "redshift": null,
+            "Type": "Likely CV, possibly VY Scl or AM Her type",
+            "Time": "2012-11-12.78439 UT",
+            "Date": "2012-11-12"
+        },
+        {
+            "Name": "MASTER OT J014711.67+091529.7",
+            "RA": "01h 47m 11.67s",
+            "Dec": "+09d 15m 29.7s",
+            "redshift": null,
+            "Type": "Possible Supernova (PSN)",
+            "Time": "2012-11-12.77925 UT",
+            "Date": "2012-11-12"
+        },
+        {
+            "Name": "MASTER OT J033855.64+164943.5",
+            "RA": "03h 38m 55.64s",
+            "Dec": "+16d 49m 43.5s",
+            "redshift": null,
+            "Type": "Possible Supernova (PSN)",
+            "Time": "2012-11-12.96933 UT",
+            "Date": "2012-11-12"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J022748+102526-NEAT.jpg",
+        "http://master.sai.msu.ru/static/OT/022748.93102526.4.png",
+        "http://master.sai.msu.ru/static/OT/014711.67091529.7.png"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2012-11-12",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

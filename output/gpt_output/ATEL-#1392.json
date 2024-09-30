@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J1837-069",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1838.0-0655",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "19:53",
+            "Date": "2008-02-17"
+        }
+    ],
+    "References": [
+        "Bamba et al. 2003, ApJ, 589, 253",
+        "Aharonian et al. 2006, ApJ, 636, 777",
+        "Malizia et al. 2005, ApJ, 630, L157",
+        "Halpern and Gotthelf 2008, ApJ, submitted"
+    ],
+    "Event Type": "X-ray pulsations detection",
+    "Time": "19:53",
+    "Date": "2008-02-17",
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "Proportional Counter Array (PCA)",
+    "Observatory": null
+}

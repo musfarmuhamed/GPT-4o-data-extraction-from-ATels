@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "13:03:15 to 16:44:50",
+            "Date": "2018-02-16"
+        },
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "17:00:39 to 07:42:29",
+            "Date": "2018-02-16 to 2018-02-17"
+        },
+        {
+            "Name": "Crab",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reference source",
+            "Time": null,
+            "Date": "2018-02-17 to 2018-02-18"
+        }
+    ],
+    "References": [
+        "ATel #11306",
+        "ATel #11310",
+        "ATel #11311",
+        "GCN #22416",
+        "GCN #22417"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS",
+    "Observatory": null
+}

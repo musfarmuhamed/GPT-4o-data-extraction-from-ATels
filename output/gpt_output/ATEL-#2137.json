@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2362 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "0.06577 day periodicity (1.58 hrs)",
+            "Date": "2007"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Retter & Lipkin",
+            "Year": "2001"
+        },
+        {
+            "Authors": "Diaz & Steiner",
+            "Year": "1989"
+        },
+        {
+            "Authors": "Duerbeck et al.",
+            "Year": "1987"
+        },
+        {
+            "Authors": "Goranskij, Metlova and Burenkov",
+            "Year": "2006",
+            "ATEL": "#928"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "0.06577 day periodicity (1.58 hrs)",
+    "Date": "2006-06-12",
+    "Telescope": "30 cm Schmidt-Cassegrain telescope",
+    "Instrument": "ST-9XE CCD camera",
+    "Observatory": "Cukurova University Observatory, Adana, Turkey"
+}

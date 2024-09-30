@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174447.46-743859.4",
+            "RA": "17h 44m 47.46s",
+            "Dec": "-74d 38m 59.4s",
+            "redshift": null,
+            "Type": "Fast optical transient",
+            "Time": "00:00:50",
+            "Date": "2015-04-15"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-01-28",
+            "Time": "00:00:40",
+            "Magnitude": "19.8m"
+        },
+        {
+            "Date": "2015-03-13",
+            "Time": "00:10:03",
+            "Magnitude": "19m"
+        },
+        {
+            "Date": "2014-12-17",
+            "Time": "21:12:12",
+            "Magnitude": "18.8m"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:00:50",
+    "Date": "2015-04-15",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

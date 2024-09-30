@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006X",
+            "RA": "12h22m53s.92",
+            "Dec": "+15o48'31\".2",
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "08:33",
+            "Date": "Feb 8, 2006"
+        }
+    ],
+    "References": [
+        "CBET #393",
+        "IAUC #8667",
+        "Dickey & Lockman 1990, ARAA 28, 215"
+    ],
+    "Event Type": "Observation",
+    "Time": "08:33",
+    "Date": "Feb 8, 2006",
+    "Telescope": "Swift-satellite",
+    "Instrument": "UVOT, XRT",
+    "Observatory": "Goddard Space Flight Center, NASA; Universities Space Research Association; Pennsylvania State University; U. of Arizona"
+}

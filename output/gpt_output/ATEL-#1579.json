@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "COVET-080602A",
+            "RA": "12:30:16.45",
+            "Dec": "+12:46:54.4",
+            "redshift": "0.8",
+            "Type": "SN?",
+            "Time": null,
+            "Date": "2008-06-02"
+        },
+        {
+            "Name": "COVET-080603A",
+            "RA": "12:42:35.32",
+            "Dec": "+11:27:32.8",
+            "redshift": "N.A",
+            "Type": null,
+            "Time": null,
+            "Date": "2008-06-03"
+        },
+        {
+            "Name": "COVET-080604A",
+            "RA": "12:27:39.71",
+            "Dec": "+08:45:08.6",
+            "redshift": "N.A",
+            "Type": null,
+            "Time": null,
+            "Date": "2008-06-04"
+        },
+        {
+            "Name": "COVET-080605A",
+            "RA": "12:32:58.72",
+            "Dec": "+08:18:28.6",
+            "redshift": "0.2",
+            "Type": "SN?",
+            "Time": null,
+            "Date": "2008-06-05"
+        },
+        {
+            "Name": "COVET-080612A",
+            "RA": "12:29:15.98",
+            "Dec": "+13:34:57.8",
+            "redshift": "0.25",
+            "Type": "AGN?",
+            "Time": null,
+            "Date": "2008-06-12"
+        }
+    ],
+    "References": "ATEL#1552",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2008-06-02 to 2008-06-12",
+    "Telescope": "CFHT",
+    "Instrument": null,
+    "Observatory": "CFHT-QSO (Queued Service Observing)"
+}

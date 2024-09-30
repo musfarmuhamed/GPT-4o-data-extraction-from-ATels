@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J114340.5+485056",
+            "RA": "11h43m40s.45",
+            "Dec": "+48o50'56\".4",
+            "redshift": null,
+            "Type": "SN candidate",
+            "Time": "00:00",
+            "Date": "2021-03-04"
+        },
+        {
+            "Name": "SDSS J114340.29+485056.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://www.rotse.net/rsvp/j114340.5+485056/j114340.5+485056.jpg",
+    "Event Type": "Discovery",
+    "Time": "04:19",
+    "Date": "2021-03-04",
+    "Telescope": "0.45-m ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory"
+}

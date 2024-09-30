@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1999-08d",
+            "RA": "00h 42m 46.11s",
+            "Dec": "+40d 53m 34.54s",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "2001 Jul 24 UT",
+            "Date": "2001-07-24"
+        },
+        {
+            "Name": "M31N 2001-10b",
+            "RA": "00h 44m 32.58s",
+            "Dec": "41d 25m 21.25s",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "2002 Nov 29 UT",
+            "Date": "2002-11-29"
+        }
+    ],
+    "References": [
+        "Di Stefano & Kong 2003 ApJ, 592, 884",
+        "Pietsch et al. 2007 A&A, 465, 375",
+        "Darnley et al. 2004 MNRAS, 353, 571",
+        "Di Stefano and Kong 2003, astro-ph/0311374",
+        "Watson et al. 2008, astro-ph/0807.1067"
+    ],
+    "Event Type": "Nova Identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

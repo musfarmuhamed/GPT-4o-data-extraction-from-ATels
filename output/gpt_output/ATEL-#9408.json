@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-08d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-08-21.959",
+            "Date": "2016-08-21"
+        },
+        {
+            "Name": "M31N 1990-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2016-08-18.85",
+            "Date": "2016-08-18"
+        },
+        {
+            "Name": "M31N 2016-08d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-08-22.62",
+            "Date": "2016-08-22"
+        },
+        {
+            "Name": "M31N 2016-08d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-08-24.23",
+            "Date": "2016-08-24"
+        }
+    ],
+    "References": [
+        "ATel #9388",
+        "ATel #9276",
+        "ATel #9280",
+        "ATel #9187",
+        "ATel #2274",
+        "ATel #8109",
+        "ATel #8144"
+    ],
+    "Event Type": "nova candidate discovery",
+    "Time": "2016-08-21.959",
+    "Date": "2016-08-21",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "UVOT",
+    "Observatory": "Ondrejov"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016cnv",
+            "RA": "15:51:06.04",
+            "Dec": "+34:25:51.9",
+            "redshift": 0.031,
+            "Type": "Ia",
+            "Time": "26.71",
+            "Date": "2016-05-26"
+        },
+        {
+            "Name": "SDSS J155106.04+342551.9",
+            "RA": "15:51:06.04",
+            "Dec": "+34:25:51.9",
+            "redshift": 0.031,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "supernova discovery and spectrum analysis",
+    "Time": "26.71",
+    "Date": "2016-05-26",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

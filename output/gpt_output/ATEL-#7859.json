@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ni",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "01:13:07.00",
+            "Date": "2015-07-29"
+        }
+    ],
+    "References": [
+        "Dong et al. 2015, Atel #7850",
+        "Berardi 2015, Atel #7854"
+    ],
+    "Event Type": null,
+    "Time": "01:13:07.00",
+    "Date": "2015-07-29",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

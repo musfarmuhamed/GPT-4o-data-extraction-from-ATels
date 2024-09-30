@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J00431492+4119130",
+            "RA": "00h 43m 14.93s",
+            "Dec": "+41d 19' 13.0\"",
+            "redshift": null,
+            "Type": "UV-transient",
+            "Time": "00:01",
+            "Date": "2013-09-11"
+        }
+    ],
+    "References": [
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "http://www.mpe.mpg.de/~m31novae/opt/m31/M31_table.html",
+        "ATels #2713",
+        "ATels #2727",
+        "ATels #3061"
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:01",
+    "Date": "2013-09-11",
+    "Telescope": "Swift",
+    "Instrument": "Ultra-violet/Optical Telescope (UVOT)",
+    "Observatory": "Swift satellite"
+}

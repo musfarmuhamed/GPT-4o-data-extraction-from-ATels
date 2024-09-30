@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6 J1604+5714",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.72,
+            "Type": "blazar",
+            "Time": "JD 2456400.974780",
+            "Date": "April 18th, 2013"
+        },
+        {
+            "Name": "2FGL1604.6+5710",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.72,
+            "Type": "Gamma-ray source",
+            "Time": "JD 2456400.974780",
+            "Date": "April 18th, 2013"
+        }
+    ],
+    "References": [
+        "#4174",
+        "#4184",
+        "#4190"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD 2456400.974780",
+    "Date": "April 18th, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

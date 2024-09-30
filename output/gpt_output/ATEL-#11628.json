@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018bek",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Jaroslaw Grzegorzek",
+    "Event Type": "Supernova",
+    "Time": {
+        "Start": "May 05",
+        "End": "May 09"
+    },
+    "Date": "2018",
+    "Telescope": [
+        "3.5m telescope",
+        "2.16-m telescope",
+        "Lick 3.0-m telescope"
+    ],
+    "Instrument": [
+        "Dual Imaging Spectrograph",
+        "BFOSC",
+        "Kast"
+    ],
+    "Observatory": [
+        "Apache Point Observatory",
+        "Xinglong Observatory of NAOC",
+        "Lick Observatory"
+    ]
+}

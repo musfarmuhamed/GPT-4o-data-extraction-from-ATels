@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1450-603",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source A",
+            "RA": "14:50:42.7",
+            "Dec": "-60:16:55.3",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "Dec 6.8",
+            "Date": "Dec 6"
+        },
+        {
+            "Name": "Source B",
+            "RA": "14:49:57.0",
+            "Dec": "-60:19:06.8",
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "Dec 6.8",
+            "Date": "Dec 6"
+        }
+    ],
+    "References": "ATel #111",
+    "Event Type": "observation",
+    "Time": "Dec 6.8",
+    "Date": "Dec 6",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": null
+}

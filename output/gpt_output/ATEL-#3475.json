@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V794 Aql",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable star",
+            "Time": "night",
+            "Date": "2011-07-04"
+        }
+    ],
+    "References": [
+        {
+            "authors": "Honeycutt & Schlegel",
+            "year": 1985,
+            "journal": "PASP",
+            "volume": 97,
+            "page": 1189
+        },
+        {
+            "authors": "Honeycutt & Robertson",
+            "year": 1998,
+            "journal": "AJ",
+            "volume": 116,
+            "page": 1961
+        }
+    ],
+    "Event Type": "deep low state",
+    "Time": null,
+    "Date": "2011-07-04",
+    "Telescope": [
+        "50/70cm Schmidt",
+        "60cm"
+    ],
+    "Instrument": [
+        "FLI PL 16803 CCD",
+        "FLI PL 9000 CCD"
+    ],
+    "Observatory": "National Astronomical Observatory Rozhen"
+}

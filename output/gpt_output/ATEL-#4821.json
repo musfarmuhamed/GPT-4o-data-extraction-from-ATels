@@ -1,0 +1,113 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J062323.48+730744.0",
+            "RA": "06h 23m 23.48s",
+            "Dec": "+73d 07m 44.0s",
+            "redshift": null,
+            "Type": "dwarf nova of Z Cam (UGZ) or SU UMa (UGSU) type",
+            "Time": "14.71662 UT",
+            "Date": "2013-02-14"
+        },
+        {
+            "Name": "MASTER OT J184822.16+511218.8",
+            "RA": "18h 48m 22.16s",
+            "Dec": "+51d 12m 18.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "14.89402 UT",
+            "Date": "2013-02-14"
+        },
+        {
+            "Name": "MASTER OT J233358.22+773951.2",
+            "RA": "23h 33m 58.22s",
+            "Dec": "+77d 39m 51.2s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "15.51294 UT",
+            "Date": "2013-02-15"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Palomar plates",
+            "Dates": [
+                "1996 Jan. 18",
+                "1995 Feb. 07",
+                "1997 Mar. 09",
+                "1983 Nov. 05"
+            ]
+        },
+        {
+            "Name": "USNO-A2.0",
+            "Position": "06 23 23.49 +73 07 42.8",
+            "Magnitudes": {
+                "R": 18.3,
+                "B": 18.5
+            }
+        },
+        {
+            "Name": "USNO-B1.0",
+            "Position": "06 23 23.426 +73 07 43.05",
+            "Magnitudes": {
+                "B1": 19.44,
+                "R1": 18.51,
+                "B2": 19.36,
+                "R2": 17.48,
+                "I": 15.3
+            }
+        },
+        {
+            "Name": "GSC 2.3.2",
+            "Position": "06 23 23.525 +73 07 43.07",
+            "Magnitudes": {
+                "Fmag": 17.32,
+                "jmag": 19.52,
+                "Vmag": 15.51,
+                "Nmag": 15.23
+            }
+        },
+        {
+            "Name": "GALEX",
+            "Position": "GALEX J062323.5+730742",
+            "Magnitudes": {
+                "FUV": "20.30+/-0.16",
+                "NUV": "18.56+/-0.04"
+            }
+        },
+        {
+            "Name": "USNO-B1.0",
+            "Position": "18 48 22.161 +51 12 18.45",
+            "Magnitudes": {
+                "B1": 19.67,
+                "B2": 20.72
+            }
+        },
+        {
+            "Name": "GALEX",
+            "Position": "GALEX J184822.2+511217",
+            "Magnitudes": {
+                "FUV": "21.67+/-0.33",
+                "NUV": "21.00+/-0.23"
+            }
+        },
+        {
+            "Name": "2MASX",
+            "Position": "2MASX J23334968+7740170",
+            "Magnitudes": {
+                "J": "15.15+/-0.09",
+                "H": "14.50+/-0.10",
+                "K": "13.87+/-0.09"
+            }
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": [
+        "MASTER-Amur",
+        "MASTER-Kislovodsk"
+    ],
+    "Observatory": "MASTER"
+}

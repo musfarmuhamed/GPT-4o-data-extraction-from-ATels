@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17597-2201",
+            "RA": "17h59.7m",
+            "Dec": "-22o01m",
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": [
+                "March 30-April 1",
+                "April 15-April 24"
+            ]
+        },
+        {
+            "Name": "AX1820.5-1434",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High Mass Binary Pulsar",
+            "Time": null,
+            "Date": "April 19-April 24"
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "IBIS/ISGRI detector",
+    "Instrument": null,
+    "Observatory": "INTEGRAL observatory"
+}

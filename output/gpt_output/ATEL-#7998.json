@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0626-0501169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "G/K-type star",
+            "Time": "20:07 UT",
+            "Date": "Sep 3"
+        },
+        {
+            "Name": "GRS 1100-771",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young stellar object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dornic et al. GCNC 18231",
+        "ATel #7987",
+        "Smartt et al. ATel #7992",
+        "de Ugarte Postigo et al. GCNC 18236",
+        "Dichiara et al. ATel #7993",
+        "Mao et al. GCNC 18329",
+        "Castro-Tirado et al. 1999, A&A 347, 927"
+    ],
+    "Event Type": "optical monitoring and spectroscopic observations",
+    "Time": "20:07 UT",
+    "Date": "Sep 3",
+    "Telescope": [
+        "2.2m",
+        "3.5m"
+    ],
+    "Instrument": [
+        "BUSCA",
+        "TWIN"
+    ],
+    "Observatory": "Calar Alto Observatory (Spain)"
+}

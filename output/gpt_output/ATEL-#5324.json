@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AG Peg",
+            "RA": "21h 51m 1.97s",
+            "Dec": "12d 37' 32.12\"",
+            "redshift": null,
+            "Type": "Symbiotic nova",
+            "Time": null,
+            "Date": "May 18, 2013"
+        },
+        {
+            "Name": "AG Peg",
+            "RA": "21h 51m 1.83s",
+            "Dec": "12d 37' 25.5\"",
+            "redshift": null,
+            "Type": "Symbiotic nova",
+            "Time": null,
+            "Date": "August 16, 2013"
+        }
+    ],
+    "References": [
+        "Munari et al. 2013, Atel #5258",
+        "Fekel et al. 2000, AJ, 119, 1375",
+        "Kenny & Taylor 2007, ApJ, 662, 1231",
+        "Muerset et al. 1997, A&A, 319, 201"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "August 16, 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": "Swift Observatory"
+}

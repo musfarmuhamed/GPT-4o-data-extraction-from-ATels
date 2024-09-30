@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "07:21:37",
+            "Date": "2011-02-22"
+        },
+        {
+            "Name": "IGR J17391-3021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "07:21:37",
+            "Date": "2011-02-22"
+        }
+    ],
+    "References": [
+        "Smith et al. 1998, ApJ 501, L101",
+        "Rahoui et al. 2008, A&A, 484, 801",
+        "Atel #1961",
+        "ATel #1659",
+        "ATel #1466"
+    ],
+    "Event Type": "Burst Alert",
+    "Time": "07:21:37",
+    "Date": "2011-02-22",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ex",
+            "RA": "17:10:23.919",
+            "Dec": "+26:23:47.89",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "03:43",
+            "Date": "2016-05-03"
+        },
+        {
+            "Name": "SDSS J171023.63+262350.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": "03:43",
+    "Date": "2016-05-03",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

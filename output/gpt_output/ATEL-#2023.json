@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0513.4-6547",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": [
+                "54893.984 MJD",
+                "54899.339 MJD",
+                "54906.509 MJD",
+                "54910.552 MJD",
+                "54915.296 MJD"
+            ],
+            "Date": [
+                "2009 March 1 to March 28",
+                "2009 January 30 to April 15"
+            ]
+        }
+    ],
+    "References": "H. A. Krim et al. ATEL #2011",
+    "Event Type": "Pulsation detection",
+    "Time": "2009 January 30 to April 15",
+    "Date": "2009 March 1 to March 28",
+    "Telescope": "Fermi",
+    "Instrument": "GBM",
+    "Observatory": null
+}

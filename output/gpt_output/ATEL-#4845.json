@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Super-soft source",
+            "Time": "58 days after the Fermi-LAT detection",
+            "Date": "2012 Jun 22"
+        },
+        {
+            "Name": "Super-soft spectral component",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Super-soft source",
+            "Time": "around day 247",
+            "Date": "2013 Feb 23"
+        },
+        {
+            "Name": "[Fe VII] 6086 \u00c5 emission",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": "after the start of the super-soft emission",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #4224",
+        "ATEL #4310",
+        "ATEL #4727",
+        "ATEL#4737"
+    ],
+    "Event Type": "Super-soft source detection",
+    "Time": "58 days after the Fermi-LAT detection",
+    "Date": "2012 Jun 22",
+    "Telescope": [
+        "Swift",
+        "ANS Collaboration telescopes",
+        "MDM observatory",
+        "Nordic Optical Telescope"
+    ],
+    "Instrument": "UVOT uvm2 filter",
+    "Observatory": [
+        "ANS Collaboration observatory",
+        "MDM observatory on Kitt Peak"
+    ]
+}

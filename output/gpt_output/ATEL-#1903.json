@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "0917+449",
+            "RA": "09:17:00",
+            "Dec": "+44:49:00",
+            "redshift": 2.19,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Comparison Star",
+            "RA": "09:21:16.65",
+            "Dec": "+44:40:43.7",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #1902",
+    "Event Type": "high gamma-ray state",
+    "Time": "20.6 (UT)",
+    "Date": "Jan 2009",
+    "Telescope": "KANATA 1.5-m telescope",
+    "Instrument": null,
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

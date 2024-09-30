@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1709.5-2639",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J170930.2-263927",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1709-267",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1302",
+        "ATel #255",
+        "Marshall et al. IAUC 6543"
+    ],
+    "Event Type": "outburst detection",
+    "Time": null,
+    "Date": "2010-07-02",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

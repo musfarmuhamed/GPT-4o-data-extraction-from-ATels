@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": [
+                "57888.3 (May 15)",
+                "57893.3 (May 20)",
+                "57901.3 (May 28)",
+                "57904.2 (May 31)"
+            ]
+        }
+    ],
+    "References": "Dipankar & Bailyn 2008, ApJ, 688, 549",
+    "Event Type": "new outburst",
+    "Time": null,
+    "Date": [
+        "57899-57904"
+    ],
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": null,
+    "Observatory": "CTIO"
+}

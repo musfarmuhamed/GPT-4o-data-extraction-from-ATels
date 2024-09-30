@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0115+63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": "2016-07-30"
+        }
+    ],
+    "References": [
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J0118+637",
+        "http://swift.gsfc.nasa.gov/results/transients/weak/4U0115p634/",
+        "http://gammaray.msfc.nasa.gov/gbm/science/pulsars/lightcurves/4u0115.html",
+        "http://integral.esac.esa.int/bexrbmonitor/webpage_oneplot.php"
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": null,
+    "Date": "2016-07-30",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

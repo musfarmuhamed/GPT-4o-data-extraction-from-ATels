@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": "22h 02m 43s",
+            "Dec": "+42d 16m 40s",
+            "redshift": null,
+            "Type": "BL Lacertae object",
+            "Time": "07:08 UT",
+            "Date": "2012 December 05"
+        }
+    ],
+    "References": [
+        {
+            "URL": "http://www.swift.psu.edu/monitoring/source.php?source=BLLacertae"
+        },
+        {
+            "URL": "http://www.swift.psu.edu/monitoring/"
+        }
+    ],
+    "Event Type": "High flux in X-rays",
+    "Time": "07:08 UT",
+    "Date": "2012 December 05",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT), UVOT",
+    "Observatory": "Swift"
+}

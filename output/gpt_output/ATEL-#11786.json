@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1566",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Seyfert galaxy",
+            "Time": null,
+            "Date": "2018-06-24",
+            "Magnitude": {
+                "2018 UVW2": 12.48,
+                "2012 UVW2": 15.35,
+                "2015 UVW2": "compatible with 2012",
+                "2018 AB": 14.21,
+                "2012 AB": 17.08
+            },
+            "Magnitude Uncertainty": {
+                "2018 UVW2": "0.01(stat)/0.03(syst)",
+                "2012 UVW2": "0.02(stat)/0.03(syst)",
+                "2018 AB": "0.01(stat)/0.03(syst)",
+                "2012 AB": "0.02(stat)/0.03(syst)"
+            }
+        }
+    ],
+    "References": [
+        "ATel #11783",
+        "ATel #11754"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2018-06-24",
+    "Telescope": "Neil Gehrels Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

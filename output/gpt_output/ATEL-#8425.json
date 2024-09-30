@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1036-56",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray pulsar",
+            "Time": "6:55 - 12:38",
+            "Date": "December 11th, 2015"
+        },
+        {
+            "Name": "RX J1037.5-5647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray pulsar",
+            "Time": "6:55 - 12:38",
+            "Date": "December 11th, 2015"
+        }
+    ],
+    "References": {
+        "Motch et al. 1997": "A&A 323, 853",
+        "Torres et al. 2012": "ApJ 761, 49",
+        "Krimm et al.": "ATel #3936"
+    },
+    "Event Type": "Galactic Plane Scanning",
+    "Time": "6:55 - 12:38",
+    "Date": "December 11th, 2015",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

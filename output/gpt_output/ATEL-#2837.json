@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1329-049",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.15,
+            "Type": "blazar",
+            "Time": "Not specific, recurring observations",
+            "Date": [
+                "September 06, 2010",
+                "September 07, 2010",
+                "September 22, 2009",
+                "July 07, 2010"
+            ]
+        }
+    ],
+    "References": [
+        "1FGL J1331.9-0506, Abdo et al. 2010, ApJS, 188, 405",
+        "Thompson et al. 1990, PASP, 102, 1235",
+        "ATel #2728"
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

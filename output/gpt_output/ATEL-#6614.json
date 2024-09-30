@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQ J1727+4530",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.717,
+            "Type": "Intermediate redshift quasar",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "CGRaBS J1727+4530",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.717,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2014-10-03"
+        },
+        {
+            "Name": "2FGLJ 1727.1+4531",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2014-10-03"
+        }
+    ],
+    "References": "Previous observations by our team on JD2456803.6455",
+    "Event Type": "NIR brightening",
+    "Time": "JD 2456933.6206",
+    "Date": "2014-10-03",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory (Mexico, National Institute for Astrophysics, Optics and Electronics)"
+}

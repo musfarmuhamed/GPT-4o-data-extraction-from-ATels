@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGlb J174805.4-244637",
+            "RA": "17:48:05.413",
+            "Dec": "-24:46:37.67",
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "09:39:30 UTC",
+            "Date": "2012-07-30"
+        },
+        {
+            "Name": "CX3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-luminosity X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-luminosity X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-luminosity X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX11",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-luminosity X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4242",
+        "ATel #4249",
+        "ATel #4264",
+        "Heinke et al. 2006, ApJ, 651, 1098"
+    ],
+    "Event Type": "Chandra ToO observation of an ongoing outburst",
+    "Time": "09:39:30 UTC",
+    "Date": "2012-07-30",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS S3 chip",
+    "Observatory": "Chandra X-ray Observatory"
+}

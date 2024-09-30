@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J063329.26+385509.2",
+            "RA": "06h 33m 29.26s",
+            "Dec": "+38d 55m 09.2s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "20:25:47",
+            "Date": "2016-01-30"
+        },
+        {
+            "Name": "MASTER OT J190956.59+383535.7",
+            "RA": "19h 09m 56.59s",
+            "Dec": "+38d 35m 35.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "01:45:32",
+            "Date": "2016-01-31"
+        },
+        {
+            "Name": "MASTER OT J072119.13-531755.3",
+            "RA": "07h 21m 19.13s",
+            "Dec": "-53d 17m 55.3s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "22:49:12",
+            "Date": "2016-01-28"
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/MASTER063329.26+385509.2.jpg",
+        "http://master.sai.msu.ru/static/OT/190956.59383535.7.png",
+        "http://master.sai.msu.ru/static/OT/072119.13-531755.3.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "00:00:00",
+    "Date": "2016-01-30",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

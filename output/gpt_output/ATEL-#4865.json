@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034105.82+072250.1",
+            "RA": "03h 41m 05.82s",
+            "Dec": "+07d 22m 50.1s",
+            "redshift": null,
+            "Type": "CV, most likely dwarf nova of SU UMa type",
+            "Time": "2013-03-03.70317 UT",
+            "Date": "2013-03-03"
+        },
+        {
+            "Name": "MASTER OT J053714.75+155418.4",
+            "RA": "05h 37m 14.75s",
+            "Dec": "+15d 54m 18.4s",
+            "redshift": null,
+            "Type": "likely a cataclysmic variable",
+            "Time": "2013-03-05.57793 UT",
+            "Date": "2013-03-05"
+        },
+        {
+            "Name": "MASTER OT J145836.64+274125.0",
+            "RA": "14h 58m 36.64s",
+            "Dec": "+27d 41m 25.0s",
+            "redshift": null,
+            "Type": "flare star of UV Ceti type",
+            "Time": "2013-03-05.72086 UT",
+            "Date": "2013-03-05"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/034105.82072250.1.png, http://master.sai.msu.ru/static/OT/J053714+155418-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/053714.75155418.4.png, http://master.sai.msu.ru/static/OT/145836.64274125.0.png",
+    "Event Type": "New detections of celestial objects",
+    "Time": "Various times on specific dates",
+    "Date": "2013-03-03, 2013-03-05",
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

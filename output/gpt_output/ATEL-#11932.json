@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 151018",
+            "RA": "05:21:00",
+            "Dec": "+33:06:00",
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": "01:05:48",
+            "Date": "2015-10-18"
+        },
+        {
+            "Name": "FRB 160920",
+            "RA": "05:34:00",
+            "Dec": "+41:45:00",
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": "03:05:43",
+            "Date": "2016-09-20"
+        },
+        {
+            "Name": "FRB 170606",
+            "RA": "05:34:00",
+            "Dec": "+41:45:00",
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": "10:03:27",
+            "Date": "2017-06-06"
+        }
+    ],
+    "References": null,
+    "Event Type": "Detection of Fast Radio Burst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Radio telescope BSA LPI",
+    "Instrument": null,
+    "Observatory": "Pushchino Radio Astronomy Observatory"
+}

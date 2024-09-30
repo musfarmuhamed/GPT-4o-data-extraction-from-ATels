@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star X-ray Transient",
+            "Time": "1828 s, 164 s",
+            "Date": "May 28, May 29"
+        }
+    ],
+    "References": [
+        "ATEL #1079",
+        "ATEL #1080"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Photon Counting mode",
+        "Window Timing mode"
+    ],
+    "Observatory": null
+}

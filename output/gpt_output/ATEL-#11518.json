@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18gq",
+            "RA": "13:45:03.495",
+            "Dec": "-41:52:23.34",
+            "redshift": 0,
+            "Type": "Luminous Red Nova",
+            "Time": "02:00",
+            "Date": "2018-04-04"
+        }
+    ],
+    "References": [
+        "ATel#11500",
+        "ATel#11501",
+        "ATel#11509"
+    ],
+    "Event Type": "low-luminosity transient",
+    "Time": "02:00",
+    "Date": "2018-04-04",
+    "Telescope": "NOT telescope",
+    "Instrument": "IRAF imtools.imcoords suite",
+    "Observatory": "Observatorio del Roque de los Muchachos"
+}

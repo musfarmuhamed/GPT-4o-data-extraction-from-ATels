@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16418-4532",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SFXT",
+            "Time": "18:08:48 UT",
+            "Date": "2012 Jun 03"
+        }
+    ],
+    "References": [
+        "Kalberla et al. 2005",
+        "Romano et al 2012 (MNRAS, 419, 2695)"
+    ],
+    "Event Type": "outburst",
+    "Time": "18:08:48 UT",
+    "Date": "2012 Jun 03",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift"
+}

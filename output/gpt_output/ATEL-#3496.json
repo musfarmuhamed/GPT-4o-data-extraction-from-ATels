@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S1",
+            "RA": "18:22:17.946",
+            "Dec": "-16:04:25.90",
+            "redshift": null,
+            "Type": "most probable counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "S2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "detected object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "S3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "detected object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pagani et al. ATel #3493",
+        "Gogus et al. (ATel #3491)",
+        "2MASS catalogue"
+    ],
+    "Event Type": "Optical and near-IR observations",
+    "Time": null,
+    "Date": "2011 July",
+    "Telescope": [
+        "0.82m IAC80",
+        "1.23m CAHA",
+        "1.5m OSN",
+        "3.5m CAHA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

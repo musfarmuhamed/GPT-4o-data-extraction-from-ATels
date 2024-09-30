@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1739",
+        "ATel #1745",
+        "ATel #1779"
+    ],
+    "Event Type": "RXTE Public ToO observations",
+    "Time": null,
+    "Date": [
+        "Oct. 3",
+        "Oct. 7",
+        "Oct. 8",
+        "Oct. 9",
+        "Oct. 11"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": [
+        "PCA",
+        "HEXTE"
+    ],
+    "Observatory": null
+}

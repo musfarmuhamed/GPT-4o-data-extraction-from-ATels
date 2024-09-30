@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18abzweee",
+            "RA": "22:24:07.81",
+            "Dec": "+04:09:13.1",
+            "redshift": 0.098,
+            "Type": "AGN",
+            "Time": "Nov 6.09 UT",
+            "Date": "2018-11-06"
+        },
+        {
+            "Name": "AT 2018hut",
+            "RA": "01:44:54.78",
+            "Dec": "+10:25:33.30",
+            "redshift": 0.0182,
+            "Type": "unconfirmed",
+            "Time": null,
+            "Date": "2018-11-04.99"
+        },
+        {
+            "Name": "SN 2018htf",
+            "RA": "03:00:35.00",
+            "Dec": "+11:50:39.40",
+            "redshift": 0.026,
+            "Type": "II",
+            "Time": "Nov 6.31 UT",
+            "Date": "2018-11-06"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Kulkarni et al. 2018, ATel #11266",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Sloan Digital Sky Survey Data Release 13, Jan. 31, 2017",
+        "Springob et al. 2005, ApJS, 160, 149",
+        "Huchra et al. 1999, ApJS, 121, 287"
+    ],
+    "Event Type": "classification",
+    "Time": null,
+    "Date": "2018-11-06",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

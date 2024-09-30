@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Soft Gamma Repeater",
+            "RA": "21h58m18s",
+            "Dec": "-11o18'.4",
+            "redshift": null,
+            "Type": "Gamma Repeater",
+            "Time": null,
+            "Date": "May 26 - May 30"
+        },
+        {
+            "Name": "ROSAT Source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Double M Star System",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Double Star System",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Hurley et al. ApJ 431, L31, 1994",
+        "Hurley et al. ApJ 463, L13, 1996",
+        "Vrba et al. ApJ 468, 225, 1996"
+    ],
+    "Event Type": "New phase of activity of a Soft Gamma Repeater",
+    "Time": null,
+    "Date": "May 26 - May 30",
+    "Telescope": "Ulysses and BATSE",
+    "Instrument": null,
+    "Observatory": null
+}

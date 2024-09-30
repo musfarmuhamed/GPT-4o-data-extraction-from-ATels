@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": [
+                "13.58 UT",
+                "14.55 UT"
+            ],
+            "Date": [
+                "December 13, 2016",
+                "December 14, 2016"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #9848",
+        "#9852",
+        "#9853",
+        "#9857",
+        "#9861",
+        "#9864",
+        "Darnley et al. 2016, ApJ (accepted): ArXiv:1607.08082"
+    ],
+    "Event Type": "optical spectroscopic observations of the 2016 outburst",
+    "Time": null,
+    "Date": "December 13, 2016",
+    "Telescope": "2m Himalayan Chandra Telescope",
+    "Instrument": "HFOSC",
+    "Observatory": "Indian Astronomical Observatory, Hanle, India"
+}

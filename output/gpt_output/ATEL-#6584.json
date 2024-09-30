@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J193239.37+390659.0",
+            "RA": "19h 32m 39.37s",
+            "Dec": "+39d 06m 59.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-10-13.48666 UT",
+            "Date": "2014-10-13"
+        },
+        {
+            "Name": "GALEX J193239.4+390657",
+            "RA": "19h 32m 39.4s",
+            "Dec": "+39d 06m 57.0s",
+            "redshift": null,
+            "Type": "possible UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6325",
+    "Event Type": "new CV in Kepler field",
+    "Time": "2014-10-13.48666 UT",
+    "Date": "2014-10-13",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

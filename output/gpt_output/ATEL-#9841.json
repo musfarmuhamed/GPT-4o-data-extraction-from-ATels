@@ -1,0 +1,108 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "4C +11.69",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "PKS 2230+11",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "OY 150",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "DA 582",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "H 2230+114",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "3EG J2232+1147",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        },
+        {
+            "Name": "3FGL J2232.5+1143",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "Nov. 16, 2016"
+        }
+    ],
+    "References": [
+        "ATel#9676",
+        "ATel#9732",
+        "ATel#9756",
+        "ATel#9776",
+        "ATel#9801",
+        "ATel#9808",
+        "ATel#9821",
+        "ATel#9743",
+        "ATel#9788",
+        "ATel#9840",
+        "McNaron-Brown et al. 1995, ApJ, 451, 575",
+        "Blom et al. 1995, A&A, 295, 330",
+        "Zhang et al. 2005, A&A, 444, 767",
+        "Nolan et al. 1993, ApJ, 414, 82",
+        "ATel#8476",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Schmidt 1965, ApJ, 141, 1295",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Casadio et al. 2015, ApJ, 813, 51",
+        "Breeveld et al. 2011",
+        "Schlafly et al. 2011"
+    ],
+    "Event Type": "Astronomical outburst activity",
+    "Time": "Nov. 16, 2016",
+    "Date": "Nov. 23, 2016",
+    "Telescope": "Swift Gamma Ray Burst Explorer",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "NASA's Swift Observatory"
+}

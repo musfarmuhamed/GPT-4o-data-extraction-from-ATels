@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic neutron star low-mass X-ray binary and 2.1 Hz X-ray pulsar",
+            "Time": "16:49 UT - 20:26 UT",
+            "Date": "2017-02-17"
+        }
+    ],
+    "References": [
+        {
+            "Description": "Observations at 5.5 and 9 GHz, non-detection details",
+            "OriginalSources": [
+                "ATels #10073",
+                "ATels #10079"
+            ]
+        },
+        {
+            "Description": "Data reduction process using Miriad",
+            "OriginalSource": "Sault et al. 1995, ASPC 77, 433S"
+        },
+        {
+            "Description": "X-ray luminosities and spectra information",
+            "OriginalSources": [
+                "Evans et al. 2009, MNRAS 397, 1177",
+                "Tetarenko+2016, MNRAS 460, 345"
+            ]
+        },
+        {
+            "Description": "Chandra source position inconsistency",
+            "OriginalSources": [
+                "Wijnands & Wang 2002, ApJ 568, L93"
+            ]
+        },
+        {
+            "Description": "Other radio observations during outburst",
+            "OriginalSources": [
+                "GCNs #6307",
+                "GCNs #6323"
+            ]
+        }
+    ],
+    "Event Type": "New outburst and target of opportunity observations",
+    "Time": "16:49 UT - 20:26 UT",
+    "Date": "2017-02-17",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": null,
+    "Observatory": "Australia Telescope National Facility (ATNF)"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bx",
+            "RA": "19:19:26.49",
+            "Dec": "+52:19:41.63",
+            "redshift": "0.026618",
+            "Type": "supernova",
+            "Time": "UT 2016-02-18.65",
+            "Date": "2016-02-18.65"
+        },
+        {
+            "Name": "CGCG 280-023",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026618",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN project",
+        "TNS system",
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "transient source discovery",
+    "Time": "UT 2016-02-18.65",
+    "Date": "2016-02-18.65",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": "RCOS 51-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

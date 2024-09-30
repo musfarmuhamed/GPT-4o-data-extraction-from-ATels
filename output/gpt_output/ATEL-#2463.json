@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "23:13:54 UT",
+            "Date": "2010 March 04"
+        },
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #1697",
+        "Romano et al., 2009, MNRAS, 392, 45",
+        "Krimm et al. 2007, Atel #1265",
+        "Sidoli et al. 2009, ApJ, 690, 120",
+        "Sidoli et al. 2009, MNRAS, 397, 1528",
+        "Krimm et al. 2009, Atel #1971",
+        "Romano et al. 2009, ATel #2069"
+    ],
+    "Event Type": "Outburst",
+    "Time": "23:13:54 UT",
+    "Date": "2010 March 04",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

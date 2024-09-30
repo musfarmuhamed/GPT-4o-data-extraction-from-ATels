@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018ivc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.003793,
+            "Type": "II",
+            "Time": "2018-11-24.994",
+            "Date": "2018-11-24"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Authors": "Huchra et al.",
+            "Year": 1999,
+            "Journal": "ApJS",
+            "Volume": 121,
+            "Page": 287
+        }
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "2018-11-24.994",
+    "Date": "2018-11-24",
+    "Telescope": "Asiago 1.22 m Galileo Galilei Telescope",
+    "Instrument": "B&C spectrograph",
+    "Observatory": null
+}

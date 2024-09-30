@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2233-148",
+            "RA": 339.1420296,
+            "Dec": -14.5561633,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J2236.5-1431",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OY-156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Nolan et al. 2012, ApJS, 199, 31; Petrov et al. 2008, AJ, 136, 580; Sbarufatti et al. 2006, AJ, 132, 1; Drinkwater et al. 1997, MNRAS, 284, 85",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "00:00-06:00 UTC",
+    "Date": "2012 June 5",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

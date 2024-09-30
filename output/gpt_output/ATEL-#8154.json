@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J054404.79-314655.2",
+            "RA": "05h 44m 04.79s",
+            "Dec": "-31d 46m 55.2s",
+            "redshift": "Null",
+            "Type": "PSN",
+            "Time": "2015-10-11.04644 UT",
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "MASTER OT J015119.13-643046.6",
+            "RA": "01h 51m 19.13s",
+            "Dec": "-64d 30m 46.6s",
+            "redshift": "Null",
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-10-06.02544 UT",
+            "Date": "2015-10-06"
+        },
+        {
+            "Name": "MASTER OT J194753.58-475722.9",
+            "RA": "19h 47m 53.58s",
+            "Dec": "-47d 57m 22.9s",
+            "redshift": "Null",
+            "Type": "optical transient outburst",
+            "Time": "2015-10-05.85932 UT",
+            "Date": "2015-10-05"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/",
+    "Event Type": "Optical Transient Discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": "Null",
+    "Observatory": "MASTER Global Robotic Net"
+}

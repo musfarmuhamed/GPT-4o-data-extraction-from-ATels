@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "05:11:50 UT",
+            "Date": "October 18, 2013"
+        }
+    ],
+    "References": [
+        "ATel #5513",
+        "ATel #5514",
+        "ATel #5515",
+        "Archibald et al. 2010 ApJ, 722, 88",
+        "Bogdanov et al. 2011, ApJ, 742, 97"
+    ],
+    "Event Type": "state change",
+    "Time": "05:11:50 UT",
+    "Date": "October 18, 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT (PC mode), UVOT",
+    "Observatory": null
+}

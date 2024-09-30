@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:30",
+            "Date": "2015-06-17"
+        },
+        {
+            "Name": "Unknown",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:28:06.816",
+            "Date": "2015-06-19"
+        }
+    ],
+    "References": [
+        "ATel#7662",
+        "ATel #7693"
+    ],
+    "Event Type": "Flaring",
+    "Time": "21:30",
+    "Date": "2015-06-17",
+    "Telescope": "IBIS",
+    "Instrument": "ISGRI",
+    "Observatory": "Unknown"
+}

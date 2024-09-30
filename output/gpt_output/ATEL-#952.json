@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 7.57 (UT)",
+            "Date": "Nov 7",
+            "Additional Observations": "The flux density at 4.8 GHz was found to drop from 191\u00b15 mJy to 21\u00b13 mJy."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 8.57 (UT)",
+            "Date": "Nov 8",
+            "Additional Observations": "Follow-up observations show flux densities reaching 1-10 Jy."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 16",
+            "Date": "Nov 16",
+            "Additional Observations": "The rise of a peak has been detected with the NMA and RATAN-600. The flux densities at 97.782 GHz and 109.782 GHz were 160 mJy and 140 mJy, respectively."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 16.55 (UT)",
+            "Date": "Nov 16",
+            "Additional Observations": "The flux density at 4.8 GHz was 280 mJy."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 19.54 (UT)",
+            "Date": "Nov 19",
+            "Additional Observations": "The flux density at 4.8 GHz reached a maximum value of 2655 mJy."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 21.3 (UT) to Nov 22.3 (UT)",
+            "Date": "Nov 21 to Nov 22",
+            "Additional Observations": "The millimeter flux densities have risen from 165 to 3000 mJy then showed a rapid decay."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 22.53 (UT)",
+            "Date": "Nov 22",
+            "Additional Observations": "The RATAN spectrum is well fitted by a power-law with spectral index -0.19 from 1 to 30 GHz."
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": "20:32:25.78",
+            "Dec": "40:57:27.9",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "Nov 22",
+            "Date": "Nov 22",
+            "Additional Observations": "The total spectrum from 1 GHz to 100 GHz shows a high-frequency component with a peak above 100 GHz and/or with a short lifetime, less than 6-8 hours."
+        }
+    ],
+    "References": [
+        "Trushkin et al., astro-ph/0611550",
+        "Waltman et al., 1994, AJ, 108, 179",
+        "ATel #727",
+        "ATel #828"
+    ],
+    "Event Type": "flaring state in microquasar",
+    "Time": "November 2006",
+    "Date": "November 2006",
+    "Telescope": "RATAN-600",
+    "Instrument": "Nobeyama Millimeter Array (NMA), RATAN-600",
+    "Observatory": "N/A"
+}

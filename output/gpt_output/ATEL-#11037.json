@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817",
+            "RA": "13:09:48.090",
+            "Dec": "-23:22:52.87",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "01:38:45",
+            "Date": "2017 December 3"
+        }
+    ],
+    "References": [
+        "Margutti et al., 2017",
+        "Troja et al., 2017",
+        "Kalberla et al., 2005",
+        "Troja et al., GCN 22201",
+        "Mooley et al., 2017",
+        "Alexander et al., 2017",
+        "Haggard et al., 2017",
+        "Hallinan et al., 2017",
+        "Mooley et al., 2017"
+    ],
+    "Event Type": "Observation",
+    "Time": "01:38:45",
+    "Date": "2017 December 3",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": null
+}

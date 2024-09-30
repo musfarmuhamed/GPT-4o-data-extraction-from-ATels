@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J10482657+3824079",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-II supernova",
+            "Time": "17.94 UT",
+            "Date": "Apr 17"
+        },
+        {
+            "Name": "CSS130415:114802+543439",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0545,
+            "Type": "type-Ic hypernova",
+            "Time": "18.10 UT",
+            "Date": "Apr. 18"
+        },
+        {
+            "Name": "CSS130415:131729+424430",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "SDSS data release 5, 2006 via NED",
+        "http://graspa.oapd.inaf.it"
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

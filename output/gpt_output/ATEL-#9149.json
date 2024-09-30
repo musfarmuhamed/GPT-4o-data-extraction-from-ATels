@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0115+63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "Unknown",
+            "Date": "2016 June 12 (MJD 57551)"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016",
+        "Atel#8179",
+        "Raichur et al. 2010"
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": "Unknown",
+    "Date": "2016 June 12 (MJD 57551)",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT",
+        "Fermi/GBM"
+    ],
+    "Instrument": "MAXI/GSC (Gas Slit Camera)",
+    "Observatory": "Unknown"
+}

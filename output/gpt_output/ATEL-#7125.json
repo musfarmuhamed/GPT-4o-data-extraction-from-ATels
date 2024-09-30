@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UGC 3777",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010717",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J07164258+2951227",
+            "RA": "07:16:42.58",
+            "Dec": "+29:51:22.7",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "05:11 UT",
+            "Date": "2015-02-23"
+        }
+    ],
+    "References": "USNO-B1 catalog",
+    "Event Type": "discovery",
+    "Time": "05:11 UT",
+    "Date": "2015-02-23",
+    "Telescope": "Katzman Automatic Imaging Telescope (KAIT)",
+    "Instrument": null,
+    "Observatory": "Lick Observatory"
+}

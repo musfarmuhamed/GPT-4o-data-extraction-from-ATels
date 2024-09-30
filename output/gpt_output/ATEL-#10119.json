@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17cu/AT 2017bgp",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.047",
+            "Type": "Type Ia supernova",
+            "Time": "23.4",
+            "Date": "2017 February 23"
+        },
+        {
+            "Name": "ASASSN-17cv/AT 2017bgt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.064",
+            "Type": "AGN",
+            "Time": "23.6",
+            "Date": "2017 February 23"
+        }
+    ],
+    "References": "ATel #10113",
+    "Event Type": "spectra obtained",
+    "Time": "23.4 and 23.6",
+    "Date": "2017 February 23",
+    "Telescope": "Las Cumbres Observatory 2-meter",
+    "Instrument": "FLOYDS",
+    "Observatory": "Haleakala, Hawai'i"
+}

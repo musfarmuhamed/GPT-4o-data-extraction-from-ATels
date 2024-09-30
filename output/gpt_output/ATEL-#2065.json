@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007bg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": "broad-lined SN Ic",
+            "Time": [
+                "19.2",
+                "18.9",
+                "25.2"
+            ],
+            "Date": [
+                "Apr. 19, 2007",
+                "Aug. 18, 2007",
+                "Feb. 25, 2008"
+            ]
+        }
+    ],
+    "References": [
+        "Prieto, Stanek & Beacom 2008, ApJ, 673, 999",
+        "Quimby et al. 2007, #CBET 927",
+        "Harutyunyan et al. 2007, CBET #948",
+        "Soderberg & Immler 2007, ATEL #1142",
+        "Lee et al. 2006, ApJ, 647, 970",
+        "Stanek et al. 2006, AcA, 56, 333",
+        "Prieto, Stanek & Beacom 2007, GCN #6618",
+        "Soderberg et al. 2005, ApJ, 621, 908",
+        "Soderberg et al. 2006, ApJ, 651, 1005",
+        "Paczynski 2001, AcA, 51, 1",
+        "Modjaz et al. 2008, AJ, 135, 1136"
+    ],
+    "Event Type": "off-axis GRB",
+    "Time": [
+        "19.2",
+        "18.9",
+        "25.2"
+    ],
+    "Date": [
+        "Apr. 19, 2007",
+        "Aug. 18, 2007",
+        "Feb. 25, 2008"
+    ],
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

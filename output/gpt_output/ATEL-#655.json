@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2005ke",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ib or Ic",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005ke",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005ke",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gal-Yam et al. (2004, PASP, 116, 597)",
+        "Poznanski et al. (2002, PASP, 114, 833)",
+        "Immler & Brown (CBET #289)",
+        "Li et al. (2005, astro-ph/0505504)"
+    ],
+    "Event Type": "Constraint on SN type",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/UVOT",
+    "Instrument": "UVOT",
+    "Observatory": "Swift"
+}

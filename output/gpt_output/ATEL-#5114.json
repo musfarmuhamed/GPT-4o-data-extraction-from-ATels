@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft X-ray Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://hea.iki.rssi.ru/~mesch/aqlx-1/aql_x1_lc_5Jun2013.jpg",
+    "Event Type": "Brightening",
+    "Time": null,
+    "Date": "3-5 June 2013",
+    "Telescope": [
+        "1.5-m Russian-Turkish telescope",
+        "1.6-m AZT33-IK telescope"
+    ],
+    "Instrument": "RTT150/TFOSC",
+    "Observatory": [
+        "TUBITAK National Observatory, Antalya, Turkey",
+        "Sayan Solar Observatory, Russia"
+    ]
+}

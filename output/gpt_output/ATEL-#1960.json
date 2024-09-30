@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "March 6"
+        }
+    ],
+    "References": [
+        "http://heasarc.gsfc.nasa.gov/docs/swift/results/transients/weak/GX339-4.lc.txt",
+        "Hannikainen et al. 1998, A&A, 337, 460",
+        "Corbel et al. 2000, A&A, 359, 251"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "March 6",
+    "Telescope": "Molonglo Observatory Synthesis Telescope (MOST)",
+    "Instrument": "Swift BAT",
+    "Observatory": "Molonglo Observatory"
+}

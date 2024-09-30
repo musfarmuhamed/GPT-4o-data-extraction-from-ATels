@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004226.7+411346",
+            "RA": "00h42m26.7s",
+            "Dec": "+41:13:46.5",
+            "redshift": null,
+            "Type": "faint transient",
+            "Time": "2009-05-29.1 UT",
+            "Date": "2009-05-29"
+        },
+        {
+            "Name": "CXOM31 J004251.5+411701",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2009-03-11 UT",
+            "Date": "2009-03-11"
+        }
+    ],
+    "References": "ATel #1978",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "Swift"
+    ],
+    "Instrument": [
+        "ACIS-I",
+        "XRT"
+    ],
+    "Observatory": null
+}

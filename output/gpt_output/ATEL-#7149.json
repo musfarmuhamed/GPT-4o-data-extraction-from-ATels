@@ -1,0 +1,111 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHiTS15az",
+            "RA": "10:34:49.38",
+            "Dec": "-06:14:47.32",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "04:54",
+            "Date": "2015-02-25"
+        },
+        {
+            "Name": "SNHiTS15ba",
+            "RA": "09:33:48.97",
+            "Dec": "-04:34:54.60",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "03:51",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15bb",
+            "RA": "10:00:15.19",
+            "Dec": "+02:53:31.09",
+            "redshift": "0.23",
+            "Type": "supernova",
+            "Time": "04:08",
+            "Date": "2015-02-24"
+        },
+        {
+            "Name": "SNHiTS15bc",
+            "RA": "10:15:42.96",
+            "Dec": "-00:24:07.61",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "02:55",
+            "Date": "2015-02-24"
+        },
+        {
+            "Name": "SNHiTS15bd",
+            "RA": "09:29:27.40",
+            "Dec": "-03:29:20.89",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "04:21",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15be",
+            "RA": "10:27:26.66",
+            "Dec": "+01:48:12.50",
+            "redshift": "0.151",
+            "Type": "supernova",
+            "Time": "04:42",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15bf",
+            "RA": "10:36:38.07",
+            "Dec": "+01:20:28.46",
+            "redshift": "0.3",
+            "Type": "supernova",
+            "Time": "04:44",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15bg",
+            "RA": "10:28:47.20",
+            "Dec": "-04:37:46.94",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "04:50",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15bh",
+            "RA": "10:11:39.57",
+            "Dec": "-03:55:41.97",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "02:52",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "SNHiTS15bi",
+            "RA": "10:24:59.15",
+            "Dec": "-02:51:39.57",
+            "redshift": "0.08",
+            "Type": "supernova",
+            "Time": "04:38",
+            "Date": "2015-02-27"
+        }
+    ],
+    "References": [
+        "#5949",
+        "#5956",
+        "#7099",
+        "#7108",
+        "#7115",
+        "#7122",
+        "#7131",
+        "#7146",
+        "#7148"
+    ],
+    "Event Type": "discovery of additional supernova candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Blanco Telescope",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo (CTIO)"
+}

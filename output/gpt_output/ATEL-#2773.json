@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000383",
+            "RA": "18:00:03.307",
+            "Dec": "+47:40:59.136",
+            "redshift": "0.051",
+            "Type": "Type II-P Supernova",
+            "Time": "3.54",
+            "Date": "June 3, Aug 1.9",
+            "Magnitude": {
+                "i": "19.0"
+            },
+            "Host Galaxy": {
+                "Coords": {
+                    "RA": "18:00:03.26",
+                    "Dec": "+47:40:58.7"
+                },
+                "Magnitude": {
+                    "r": "-15.5"
+                }
+            }
+        },
+        {
+            "Name": "PS1-1000384",
+            "RA": "17:29:21.030",
+            "Dec": "+68:11:16.747",
+            "redshift": "0.704",
+            "Type": "Seyfert 1 AGN",
+            "Time": "6.60",
+            "Date": "June 6, Aug 1.9",
+            "Magnitude": {
+                "r": "19.34"
+            },
+            "Host Galaxy": {
+                "Coords": {
+                    "RA": "17:29:21.00",
+                    "Dec": "+68:11:16.6"
+                },
+                "Magnitude": null
+            }
+        },
+        {
+            "Name": "PS1-1000382",
+            "RA": "16:04:14.084",
+            "Dec": "+09:13:54.248",
+            "redshift": "0.435",
+            "Type": "Seyfert 1 AGN",
+            "Time": "12.23",
+            "Date": "June 12, Aug 1.9",
+            "Magnitude": {
+                "g": "17.9"
+            },
+            "Host Galaxy": {
+                "Coords": {
+                    "RA": "16:04:14.08",
+                    "Dec": "+09:13:54.0"
+                },
+                "Magnitude": null
+            }
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A.Ap. 488, 383, https://gelato.tng.iac.es/login.cgi, http://www.ps1sc.org/PS1_System_ATel.htm",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Pan-STARRS 1",
+    "Instrument": "+ISIS",
+    "Observatory": "William Herschel Telescope"
+}

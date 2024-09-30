@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New nova candidate in M 31",
+            "RA": "0h42m57s.74",
+            "Dec": "+41o08'12\".1",
+            "redshift": null,
+            "Type": null,
+            "Time": "2010-10-31.727 UT",
+            "Date": "2010-10-31"
+        },
+        {
+            "Name": "New nova candidate in M 31",
+            "RA": "0h42m57s.74",
+            "Dec": "+41o08'12\".1",
+            "redshift": null,
+            "Type": null,
+            "Time": "2010-10-30.703 UT",
+            "Date": "2010-10-30"
+        },
+        {
+            "Name": "New nova candidate in M 31",
+            "RA": "00h42m57.76s",
+            "Dec": "+41d08'12.3\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "2010-11-01.299 UT",
+            "Date": "2010-11-01"
+        },
+        {
+            "Name": "New nova candidate in M 31",
+            "RA": "00h42m57.76s",
+            "Dec": "+41d08'12.3\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "2010-11-02.144 UT",
+            "Date": "2010-11-02"
+        }
+    ],
+    "References": [
+        "Massey et al. 2006, AJ, 131, 2478",
+        "MPE M 31 nova catalog: http://www.mpe.mpg.de/~m31novae/opt/m31/M31_table.html",
+        "Sharov and Alksnis (1989, SvAL 15, 382)"
+    ],
+    "Event Type": "Detection of a new nova candidate",
+    "Time": "2010-10-31.727 UT",
+    "Date": "2010-10-31",
+    "Telescope": "Robotic 60cm telescope",
+    "Instrument": "E2V CCD (2kx2k, 13.5 micron sq. pixels)",
+    "Observatory": "Livermore Optical Transient Imaging System (Super-LOTIS, located at Steward Observatory, Kitt Peak, Arizona, USA)"
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016hmo/ASASSN-16mc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019",
+            "Type": "Type Ia supernova",
+            "Time": "1.4",
+            "Date": "2016 November 1"
+        }
+    ],
+    "References": [
+        "ATel #9671",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Jones et al. 2009, 'The 6dF Galaxy Survey Data Release 3,' via NED"
+    ],
+    "Event Type": "Spectrum Acquisition",
+    "Time": "1.4",
+    "Date": "2016 November 1",
+    "Telescope": "Las Cumbres Observatory 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

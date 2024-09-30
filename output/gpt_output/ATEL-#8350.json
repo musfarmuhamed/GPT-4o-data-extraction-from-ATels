@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15gt",
+            "RA": "002041.66",
+            "Dec": "+251341.1",
+            "redshift": "0.03561",
+            "Type": "Ia",
+            "Time": "20151201.73",
+            "Date": "20151130.21"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; ATEL #8347; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC; range 340-820 nm; resolution 1.4 nm",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017ego",
+            "RA": "23:35:23.54",
+            "Dec": "+03:05:07.48",
+            "redshift": 0.063,
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2017 May 29"
+        },
+        {
+            "Name": "SN 2017eir",
+            "RA": "23:51:49.57",
+            "Dec": "-04:45:45.14",
+            "redshift": 0.089,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "2017 May 29"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "TNS (ATel #10454)"
+    ],
+    "Event Type": "classification",
+    "Time": "UT",
+    "Date": "2017 May 29",
+    "Telescope": "Keck II 10-m telescope",
+    "Instrument": "DEep Imaging Multi-Object Spectrograph (DEIMOS)",
+    "Observatory": "Keck Observatory"
+}

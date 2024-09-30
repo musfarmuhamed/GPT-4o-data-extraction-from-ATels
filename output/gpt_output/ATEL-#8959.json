@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE J071634.59-190039.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "FRB 150418",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fast Radio Burst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8938",
+        "Keane et al. 2016, Nature 530 453",
+        "ATel #8865",
+        "Williams & Berger 2016, ApJL, in press, arXiv:1602.08434",
+        "ATels #8752",
+        "#8946",
+        "Vedantham et al. 2016, arXiv:1603.04421"
+    ],
+    "Event Type": "Compact Radio Source Observation",
+    "Time": null,
+    "Date": [
+        "57455.15",
+        "57463.80",
+        "57469.81"
+    ],
+    "Telescope": [
+        "VLBA",
+        "EVN",
+        "e-MERLIN"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

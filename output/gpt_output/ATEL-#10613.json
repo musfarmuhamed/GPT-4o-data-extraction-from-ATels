@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "03.82 UT",
+            "Date": "July 03"
+        },
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "26.61 UT",
+            "Date": "July 26"
+        },
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "27.58 UT",
+            "Date": "July 27"
+        }
+    ],
+    "References": [
+        "ATel #10523",
+        "#10524",
+        "#10527",
+        "#10542",
+        "#10552",
+        "#10572",
+        "#10558"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Himalayan Chandra Telescope",
+        "Vainu Bappu Telescope"
+    ],
+    "Instrument": [
+        "HFOSC instrument",
+        "OMR spectrograph"
+    ],
+    "Observatory": [
+        "Indian Astronomical Observatory, Hanle",
+        "Vainu Bappu Observatory, Kavalur, India"
+    ]
+}

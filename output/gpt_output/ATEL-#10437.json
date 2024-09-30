@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT17bk",
+            "RA": "12:48:36.01",
+            "Dec": "-41:19:33.53",
+            "redshift": "0.009",
+            "Type": "Ia-91bg",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "ASASSN-17gu",
+            "RA": "11:51:31.08",
+            "Dec": "+15:27:26.21",
+            "redshift": "0.021",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Gaia17bjk",
+            "RA": "12:35:08.28",
+            "Dec": "-27:56:26.38",
+            "redshift": "0.029",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": "Null",
+    "Date": "2017 May 29",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research"
+}

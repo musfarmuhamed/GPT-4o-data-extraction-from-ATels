@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1746-331",
+            "RA": "17h 49m 49.0s",
+            "Dec": "-33d 12m 14.9s",
+            "redshift": null,
+            "Type": "black hole candidate and recurrent transient source",
+            "Time": "15:13UT",
+            "Date": "Oct 12th, 2007"
+        },
+        {
+            "Name": "1RXS J174948.4-331215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 17494887-3312152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 17494929-3312123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Markwardt & Swank 2007, ATEL #1235",
+        "Skinner et al (1990, MNRAS, 243, 72)",
+        "Motch et al (1996, AASS, 132, 341)"
+    ],
+    "Event Type": "target of opportunity observation",
+    "Time": "15:13UT",
+    "Date": "Oct 12th, 2007",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

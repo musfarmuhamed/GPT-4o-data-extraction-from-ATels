@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17464-2811",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fast X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J174716.1-281048",
+            "RA": "266.817367",
+            "Dec": "-28.180065",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "2005-02-26 to 2005-02-27"
+        }
+    ],
+    "References": [
+        "ATEL #970",
+        "Sidoli et al. 2006, A&A 456, 287",
+        "ATEL #147"
+    ],
+    "Event Type": "transient detection",
+    "Time": null,
+    "Date": "2005-02-26 to 2005-02-27",
+    "Telescope": "XMM-Newton, INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

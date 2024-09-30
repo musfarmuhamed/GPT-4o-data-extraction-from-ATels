@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole X-ray transient",
+            "Time": null,
+            "Date": "2017 Feb. 22"
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole X-ray transient",
+            "Time": null,
+            "Date": "2017 Apr. 18"
+        }
+    ],
+    "References": [
+        "ATel #9735",
+        "ATel #9739",
+        "ATel #9765",
+        "ATel #10075",
+        "ATel #10081",
+        "ATel #10097",
+        "ATel #10110",
+        "ATel #10114",
+        "ATel #9708"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift",
+        "2-m Faulkes Telescopes North and South",
+        "1-m Las Cumbres Observatory (LCO) network of telescopes"
+    ],
+    "Instrument": [
+        "Photon Counting mode",
+        "Windowed Timing mode",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Swift team"
+}

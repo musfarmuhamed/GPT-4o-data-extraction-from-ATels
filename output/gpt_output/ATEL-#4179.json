@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1647-227",
+            "RA": "16:48:12.32",
+            "Dec": "-23:00:53.56",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "June 16.244 UT",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Negoro et al., ATEL#4175",
+        "Kennea et al., ATEL#4178"
+    ],
+    "Event Type": "observation",
+    "Time": "June 16.244 UT",
+    "Date": null,
+    "Telescope": "Vatican Advance Technology Telescope (VATT)",
+    "Instrument": "VATT4K CCD imager",
+    "Observatory": null
+}

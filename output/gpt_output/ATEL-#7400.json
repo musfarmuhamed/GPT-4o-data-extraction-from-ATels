@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15he",
+            "RA": "16:31:33.50",
+            "Dec": "-67:52:04.18",
+            "redshift": "0.015881",
+            "Type": "supernova",
+            "Time": "2015-04-12.34",
+            "Date": "2015-04-12"
+        },
+        {
+            "Name": "ESO 069-G005",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.015881",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "NED (for redshift and distance of ESO 069-G005)",
+    "Event Type": "discovery",
+    "Time": "2015-04-09.29 and 2015-04-12.34",
+    "Date": "2015-04-12",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

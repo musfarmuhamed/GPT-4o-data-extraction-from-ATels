@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-16A (AT 2016aqv)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": "2016-02-24.84",
+            "Date": "2016-02-24"
+        },
+        {
+            "Name": "SDSS J150350.43+482250.7",
+            "RA": "15:03:50.43",
+            "Dec": "+48:22:50.7",
+            "redshift": "0.026",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.thca.tsinghua.edu.cn/~wangxf/PTSS/PTSS-16A.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "2016-02-24.84",
+    "Date": "2016-02-24",
+    "Telescope": "1.04-m schmidt telescope",
+    "Instrument": null,
+    "Observatory": "Xuyi, China"
+}

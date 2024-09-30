@@ -1,0 +1,133 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12btn",
+            "RA": "09:21:30.50",
+            "Dec": "-09:41:29.76",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120408"
+        },
+        {
+            "Name": "LSQ12btw",
+            "RA": "10:10:28.82",
+            "Dec": "05:32:12.48",
+            "redshift": "0.0571",
+            "Type": "Ibn",
+            "Time": null,
+            "Date": "20120409"
+        },
+        {
+            "Name": "LSQ12brx",
+            "RA": "10:17:59.90",
+            "Dec": "-05:36:10.80",
+            "redshift": "0.054",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120407"
+        },
+        {
+            "Name": "LSQ12bry",
+            "RA": "10:16:38.57",
+            "Dec": "-06:46:35.76",
+            "redshift": "0.042",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "20120407"
+        },
+        {
+            "Name": "LSQ12brw",
+            "RA": "10:20:43.38",
+            "Dec": "-04:33:20.88",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120407"
+        },
+        {
+            "Name": "LSQ12bnt",
+            "RA": "12:51:32.23",
+            "Dec": "04:01:25.68",
+            "redshift": ".129",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120401"
+        },
+        {
+            "Name": "LSQ12brb",
+            "RA": "14:14:52.87",
+            "Dec": "20:09:06.48",
+            "redshift": "0.081",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120404"
+        },
+        {
+            "Name": "LSQ12bpg",
+            "RA": "15:07:31.61",
+            "Dec": "20:33:00.36",
+            "redshift": "0.076",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120331"
+        },
+        {
+            "Name": "LSQ12bpy",
+            "RA": "13:36:40.37",
+            "Dec": "-21:51:15.48",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120329"
+        },
+        {
+            "Name": "LSQ12biu",
+            "RA": "14:19:20.65",
+            "Dec": "-19:50:37.07",
+            "redshift": "0.136",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "20120321"
+        },
+        {
+            "Name": "LSQ12bpr",
+            "RA": "15:47:21.48",
+            "Dec": "-03:32:36.92",
+            "redshift": "0.102",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120402"
+        },
+        {
+            "Name": "LSQ12bri",
+            "RA": "15:48:49.50",
+            "Dec": "23:20:32.42",
+            "redshift": "0.030",
+            "Type": "II",
+            "Time": null,
+            "Date": "20120406"
+        },
+        {
+            "Name": "LSQ12brs",
+            "RA": "13:46:28.93",
+            "Dec": "-03:49:18.34",
+            "redshift": "0.065",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20120406"
+        }
+    ],
+    "References": [
+        "Hadjiyska et al., ATel #3812",
+        "Rabinowitz et al. 2011, ApJ, 732, 512",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Classifications from first night of PESSTO",
+    "Time": null,
+    "Date": "2012-04-11",
+    "Telescope": "ESO New Technology Telescope (NTT)",
+    "Instrument": "EFOSC2, SOFI",
+    "Observatory": "La Silla"
+}

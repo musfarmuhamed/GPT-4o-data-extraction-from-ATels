@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Soft Gamma Repeater SGR 1627-41",
+            "RA": "16 35 51.9",
+            "Dec": "-47 35 23.0",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "08:21:43 UT",
+            "Date": "2008-05-28"
+        }
+    ],
+    "References": "Kouveliotou et al. 1998, IAU Circ. 6944, 2; Woods et al. 1999, ApJ 519, L139; Wachter et al. 2004, ApJ 615, 887; Mereghetti et al. 2006, A&A 450, 759",
+    "Event Type": "Astronomical Detection",
+    "Time": "09:53:00 UT",
+    "Date": "2008-05-28",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "LBV outburst",
+            "Time": "UT",
+            "Date": "2010 May 27-31"
+        },
+        {
+            "Name": "SN 2010da Progenitor",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "UT",
+            "Date": "2008 May 25 to Jul 26"
+        }
+    ],
+    "References": [
+        "CBET #2289",
+        "ATEL #2632",
+        "ATEL #2633",
+        "ATEL #2636",
+        "ATEL #2637",
+        "ATEL #2638"
+    ],
+    "Event Type": "Transient",
+    "Time": "UT",
+    "Date": "2010 May 27-31",
+    "Telescope": "EVLA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

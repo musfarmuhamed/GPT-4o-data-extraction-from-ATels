@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J124124.38-460208.1",
+            "RA": "12h 41m 24.38s",
+            "Dec": "-46d 02m 08.1s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst with Ampl>5m",
+            "Time": "2015-11-30.04874 UT",
+            "Date": "2015-11-30"
+        },
+        {
+            "Name": "MASTER OT J185852.54+231353.5",
+            "RA": "18h 58m 52.54s",
+            "Dec": "+23d 13m 53.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst with Ampl>3.3m",
+            "Time": "2015-11-29.47635 UT",
+            "Date": "2015-11-29"
+        },
+        {
+            "Name": "CSS 120518:201307-365620",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "current outburst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "MASTER Global Robotic Net",
+            "Author": "Lipunov et al.",
+            "Journal": "Advances in Astronomy",
+            "Year": 2010,
+            "DOI": "349171",
+            "URL": "http://master.sai.msu.ru/static/OT/124124.38-460208.1.png"
+        },
+        {
+            "URL": "http://observ.pereplet.ru/images/MASTEROTJ185852.54+231353.5.jpg"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "Not specified",
+    "Date": "Not specified",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO, MASTER-Tunka"
+}

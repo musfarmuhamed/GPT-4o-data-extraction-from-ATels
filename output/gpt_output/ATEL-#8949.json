@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16bnq",
+            "RA": "11:34:27.58",
+            "Dec": "+11:41:55.0",
+            "redshift": "0.02",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2016-03-13"
+        },
+        {
+            "Name": "PS16bbl",
+            "RA": "13:46:13.03",
+            "Dec": "-18:27:27.8",
+            "redshift": "0.05",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2016-01-13"
+        },
+        {
+            "Name": "PS16bau",
+            "RA": "15:20:53.19",
+            "Dec": "-26:11:24.3",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2016-03-11"
+        }
+    ],
+    "References": [
+        "Huber et al., ATel #7153; http://star.pst.qub.ac.uk/ps1threepi/"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2016-04-06",
+    "Telescope": "6.5m Magellan/Baade Telescope",
+    "Instrument": "IMACS",
+    "Observatory": null
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova Delphini 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL 5288",
+        "ATEL 5297",
+        "AAVSO data",
+        "Downes & Duerbeck (2000, AJ 120, p.2007)",
+        "NED extinction calculator"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": [
+        "Julian Day 2456529.5",
+        "Julian Day 2456521.0"
+    ],
+    "Telescope": "0.30-m f/10 Schmidt-Cassegrain",
+    "Instrument": [
+        "Optec SSP-5A single channel photoelectric photometer",
+        "SBIG SGS spectrometer + CCD camera ST-7XME"
+    ],
+    "Observatory": "Osservatorio Astronomico di Capannori (OAC)"
+}

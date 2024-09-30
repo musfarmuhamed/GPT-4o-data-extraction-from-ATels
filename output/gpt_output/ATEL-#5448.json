@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17344-3023",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "between September 30 and October 6"
+        },
+        {
+            "Name": "Swift J1734.5-3027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "superbursting transient",
+            "Time": null,
+            "Date": "somewhat more than a month ago"
+        }
+    ],
+    "References": [
+        "ATel #5447",
+        "ATel #5354",
+        "ATel #5361"
+    ],
+    "Event Type": "new X-ray transient",
+    "Time": null,
+    "Date": "between September 30 and October 6",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": null
+}

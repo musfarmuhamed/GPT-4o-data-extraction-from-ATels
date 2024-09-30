@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "eta Carinae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He II 4686",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission Line",
+            "Time": [
+                "2014.6",
+                "2009.0"
+            ],
+            "Date": [
+                "August 31, 2014",
+                "September 02, 2014"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #6448",
+        "ATEL #6380",
+        "Damineli et al. 2008 (MNRAS, 384(4), 1649-1656)"
+    ],
+    "Event Type": "Periastron Event",
+    "Time": "2014.6",
+    "Date": [
+        "August 31, 2014",
+        "September 02, 2014"
+    ],
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

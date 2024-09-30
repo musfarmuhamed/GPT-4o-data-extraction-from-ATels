@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-12e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/Nn nova",
+            "Time": "2.83 UT",
+            "Date": "2016 Jan. 2"
+        },
+        {
+            "Name": "AT2016jbx",
+            "RA": "J004131.52",
+            "Dec": "+410714.2",
+            "redshift": null,
+            "Type": "He/Nn nova",
+            "Time": "2.83 UT",
+            "Date": "2016 Jan. 2"
+        },
+        {
+            "Name": "MASTER OT J004131.52+410714.2",
+            "RA": "J004131.52",
+            "Dec": "+410714.2",
+            "redshift": null,
+            "Type": "He/Nn nova",
+            "Time": "2.83 UT",
+            "Date": "2016 Jan. 2"
+        }
+    ],
+    "References": "ATel #9912",
+    "Event Type": "optical spectroscopic confirmation",
+    "Time": "2.83 UT",
+    "Date": "2016 Jan. 2",
+    "Telescope": "Russian BTA",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05511-1218",
+            "RA": "05h 51m 13.05s",
+            "Dec": "-12d 14m 39.54s",
+            "redshift": 0.035028,
+            "Type": "galaxy 2MASX J05511312-1214419 (also LEDA 148076)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J07072-1227",
+            "RA": "07h 07m 11.43s",
+            "Dec": "-12d 28m 00.2s",
+            "redshift": null,
+            "Type": "galaxy 2MASX J07071126-1227560",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17259+2603",
+            "RA": "17h 25m 48.01s",
+            "Dec": "+25d 55m 34.90s",
+            "redshift": 0.635,
+            "Type": "QSO candidate SDSS J172547.98+255531.3",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unknown harder and brighter source",
+            "RA": "17h 25m 30.05s",
+            "Dec": "+25d 50m 44.89s",
+            "redshift": 1.285,
+            "Type": "QSO candidate SDSS J172529.89+255043.2",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. (2016 ApJS, 223, 15)",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL/IBIS"
+}

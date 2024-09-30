@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black-hole candidate, Microquasar",
+            "Time": null,
+            "Date": "Jan 22"
+        }
+    ],
+    "References": [
+        {
+            "authors": "Homan, Buxton, et al.",
+            "year": 2005,
+            "journal": "ApJ",
+            "volume": 624,
+            "page": 295
+        },
+        {
+            "url": "http://www.astro.yale.edu/buxton/smarts/light_curves/gx339.html"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "Jan 22, 2007",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "CTIO"
+}

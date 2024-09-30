@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 980425",
+            "RA": "19h35m04s",
+            "Dec": "-52o48'34''",
+            "redshift": null,
+            "Type": "x-ray source",
+            "Time": "10.0 hrs",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #12",
+        "ATEL #13",
+        "IAUC #6884"
+    ],
+    "Event Type": "x-ray source observation",
+    "Time": "about 10.0 hrs after the burst",
+    "Date": null,
+    "Telescope": "BeppoSAX",
+    "Instrument": [
+        "Wide Field Camera",
+        "Narrow Field Instruments (NFI)",
+        "MECS",
+        "LECS"
+    ],
+    "Observatory": "BeppoSAX"
+}

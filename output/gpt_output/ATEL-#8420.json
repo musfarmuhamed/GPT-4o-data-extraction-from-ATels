@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15dme",
+            "RA": "08:55:57.38",
+            "Dec": "+06:20:12.2",
+            "redshift": "0.043",
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-12-15"
+        },
+        {
+            "Name": "PS15djw",
+            "RA": "09:55:58.58",
+            "Dec": "+06:34:00.7",
+            "redshift": "0.062",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-12-15"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Huber et al., ATel #7153; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova Classification",
+    "Time": null,
+    "Date": "2015-12-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

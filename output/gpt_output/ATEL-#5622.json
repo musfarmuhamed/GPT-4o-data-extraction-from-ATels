@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13dca",
+            "RA": "00:39:10.30",
+            "Dec": "-26:44:26.5",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2013 December 02"
+        },
+        {
+            "Name": "LSQ13diw",
+            "RA": "04:25:00.39",
+            "Dec": "-33:27:04.1",
+            "redshift": 0.058,
+            "Type": "Ia",
+            "Time": "-3",
+            "Date": "2013 December 02"
+        },
+        {
+            "Name": "LSQ13dhy",
+            "RA": "02:50:50.04",
+            "Dec": "-24:00:02.4",
+            "redshift": 0.19,
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2013 December 02"
+        },
+        {
+            "Name": "SMTJ03054854-28503700",
+            "RA": "03:05:48.54",
+            "Dec": "-28:50:36.9",
+            "redshift": 0.05,
+            "Type": "IIn",
+            "Time": "..",
+            "Date": "2013 December 02"
+        },
+        {
+            "Name": "OGLE-2013-SN-129",
+            "RA": "00:16:41.97",
+            "Dec": "-66:16:07.3",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "+10",
+            "Date": "2013 December 02"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Public ESO Spectroscopic Survey for Transient Objects (PESSTO)",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "La Silla-Quest survey",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "SkyMapper Transient (SMT) and Supernova Survey",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "OGLE-IV",
+            "URL": "http://www.pessto.org"
+        }
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "2013 December 02",
+    "Date": "2013 December 02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

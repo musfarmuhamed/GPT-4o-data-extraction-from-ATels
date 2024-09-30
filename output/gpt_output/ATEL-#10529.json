@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": "MJD 57922"
+        },
+        {
+            "Name": "EXO 2030+375",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10418",
+        "ATel #4355",
+        "ATel #4561",
+        "ATel #4573",
+        "ATel #6630",
+        "ATel #6656",
+        "ATel #6819",
+        "ATel #6823",
+        "ATel #6917",
+        "K\u00fchnel et al. 2013",
+        "Laplace et al. 2017"
+    ],
+    "Event Type": "Enhanced X-ray activity",
+    "Time": null,
+    "Date": "MJD 57922",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

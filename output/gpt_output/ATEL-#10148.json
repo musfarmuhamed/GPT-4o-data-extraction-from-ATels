@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017aym",
+            "RA": "14 37 41.78",
+            "Dec": "+02 17 08.4",
+            "redshift": "0.005847",
+            "Type": "SN IIP",
+            "Time": "N/A",
+            "Date": "20170113"
+        },
+        {
+            "Name": "SN2017byj",
+            "RA": "15 20 07.83",
+            "Dec": "+11 52 37.5",
+            "redshift": "0.075516",
+            "Type": "SN Ia",
+            "Time": "N/A",
+            "Date": "20170304"
+        },
+        {
+            "Name": "SN2017byz",
+            "RA": "11 23 30.80",
+            "Dec": "-08 39 11.5",
+            "redshift": "0.012285",
+            "Type": "SN II",
+            "Time": "N/A",
+            "Date": "20170304"
+        },
+        {
+            "Name": "SN2017blk",
+            "RA": "11 21 39.83",
+            "Dec": "-05 38 15.8",
+            "redshift": "0.055486",
+            "Type": "SN Ia",
+            "Time": "N/A",
+            "Date": "20170225"
+        },
+        {
+            "Name": "AT2017bxs",
+            "RA": "11 00 16.06",
+            "Dec": "-56 34 25.1",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": "N/A",
+            "Date": "20170228"
+        }
+    ],
+    "References": [
+        {
+            "Description": "PESSTO, the Public ESO Spectroscopic Survey for Transient Objects",
+            "Reference": "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org"
+        },
+        {
+            "Description": "ESA Gaia Photometric Science Alerts Team and DPAC",
+            "Reference": "http://gsaweb.ast.cam.ac.uk/alerts"
+        },
+        {
+            "Description": "ATLAS survey",
+            "Reference": "Tonry et al. (2011, PASP, 123, 58) and Tonry et al. (ATel #8680)"
+        },
+        {
+            "Description": "Pan-STARRS Survey for Transients",
+            "Reference": "Chambers et al. 2016, arXiv:1612.05560, and http://pswww.ifa.hawaii.edu"
+        },
+        {
+            "Description": "SNID for classification",
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        },
+        {
+            "Description": "GELATO for classification",
+            "Reference": "Harutyunyan et al., 2008, A&A, 488, 383"
+        },
+        {
+            "Description": "Classification spectra and additional details",
+            "Reference": "http://www.pessto.org (via WISeREP) and the IAU Transient Name Server"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "N/A",
+    "Date": "2017 March 6",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2013"
+        },
+        {
+            "Name": "HR 7811",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 194841",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 194113",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 194631",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 194072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HR 8004",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Spectrophotometric Standard Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HR 7596",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Spectrophotometric Standard Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5304 and ATel #5297",
+    "Event Type": "Photometry and Spectroscopy",
+    "Time": "Every night",
+    "Date": "Since discovery in 2013",
+    "Telescope": [
+        "35cm telescope",
+        "Varese 0.61m telescope",
+        "Asiago 1.22m telescope",
+        "Asiago 1.82m telescope",
+        "Polse di Cougnes 0.70m telescope"
+    ],
+    "Instrument": [
+        "Optec SSP-5 photometer",
+        "Multi Mode Spectrograph",
+        "B&C spectrograph",
+        "Echelle spectrograph",
+        "Schott 2mm OG5 2nd order cutting filter"
+    ],
+    "Observatory": "Various observatories in northern Italy"
+}

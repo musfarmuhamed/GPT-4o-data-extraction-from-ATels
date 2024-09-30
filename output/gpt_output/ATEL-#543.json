@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": "June 20, 25, 26, 27, 30 2005"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fainter point source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #516",
+        "ATEL #523",
+        "ATEL #526",
+        "ATEL #533",
+        "ATEL #535",
+        "ATEL #538",
+        "ATEL #541"
+    ],
+    "Event Type": "optical photometry and spectroscopy",
+    "Time": null,
+    "Date": "June 20-30 2005",
+    "Telescope": "FLWO 1.2m telescope, Swope 1.0m telescope, 1.5-m telescope",
+    "Instrument": "FAST spectrograph",
+    "Observatory": "Mt. Hopkins, AZ (FLWO), LCO, Chile"
+}

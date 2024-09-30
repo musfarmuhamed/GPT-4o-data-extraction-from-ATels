@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15agj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150611.88"
+        },
+        {
+            "Name": "ASASSN-15kx",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150611.96"
+        },
+        {
+            "Name": "MASTER OT J144326.01+572541.2",
+            "RA": "J144326.01",
+            "Dec": "+572541.2",
+            "redshift": 0.06797,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20150612.03"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "ATel #7615",
+        "ATel #7621",
+        "ATel #7618",
+        "http://www.rochesterastronomy.org/snimages/",
+        "http://www.cbat.eps.harvard.edu/index.html",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "http://sngroup.oapd.inaf.it"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2015 Jun 03.05 UT",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

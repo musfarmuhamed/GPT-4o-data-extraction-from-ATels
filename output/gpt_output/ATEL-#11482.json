@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018akb",
+            "RA": "15:47:36.04",
+            "Dec": "-10:27:38.59",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "AT2018akc",
+            "RA": "15:23:02.52",
+            "Dec": "-17:18:15.26",
+            "redshift": null,
+            "Type": "M-star",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "AT2018akq",
+            "RA": "15:45:51.51",
+            "Dec": "-16:08:36.10",
+            "redshift": "?",
+            "Type": "SN?",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "AT2018akx",
+            "RA": "10:03:23.22",
+            "Dec": "-26:10:55.85",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "SN2018alc",
+            "RA": "14:33:19.93",
+            "Dec": "+41:16:03.36",
+            "redshift": "0.0181",
+            "Type": "SN Ib",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "SN2018aly",
+            "RA": "15:01:57.33",
+            "Dec": "+25:46:15.96",
+            "redshift": "0.0446",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "SN2018amb",
+            "RA": "09:14:55.30",
+            "Dec": "+46:54:09.00",
+            "redshift": "0.0142",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-27"
+        },
+        {
+            "Name": "SN2018amc",
+            "RA": "10:58:00.78",
+            "Dec": "+72:26:26.56",
+            "redshift": "0.01?",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-27"
+        }
+    ],
+    "References": "Blagorodnova et. al. 2018",
+    "Event Type": "classification",
+    "Time": null,
+    "Date": "2018-03-27",
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

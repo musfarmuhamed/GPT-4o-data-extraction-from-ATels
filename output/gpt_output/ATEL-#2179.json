@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2023-07",
+            "RA": "20:25:40.63",
+            "Dec": "-07:35:52.7",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "04:15:36",
+            "Date": "2009-08-29"
+        }
+    ],
+    "References": [
+        "Gasparrini et al. ATel#2175",
+        "http://voeventnet.caltech.edu/feeds/ATEL/CSS/908290071094126135.atel.html",
+        "http://crts.caltech.edu"
+    ],
+    "Event Type": "optical outburst",
+    "Time": "04:15:36",
+    "Date": "2009-08-29",
+    "Telescope": "Catalina Real-Time Transient Survey (CRTS)",
+    "Instrument": null,
+    "Observatory": null
+}

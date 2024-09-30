@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2005gl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "Type IIn",
+            "Time": "13.5 UT",
+            "Date": "Oct 13"
+        },
+        {
+            "Name": "NGC 266",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2005gm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Type II",
+            "Time": "13.5 UT",
+            "Date": "Oct 13"
+        },
+        {
+            "Name": "NGC 1423",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "IAUC Number": 8615,
+            "Publication": "Huchra et al. 1999 ApJS, 121, 287 via NED"
+        },
+        {
+            "IAUC Number": 8616,
+            "Publication": "Theureau et al. 2005 A&A, 430, 373 via NED"
+        }
+    ],
+    "Event Type": "spectrum",
+    "Time": "13.5 UT",
+    "Date": "Oct 13",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "Supernova Integral Field Spectrograph (SNIFS)",
+    "Observatory": null
+}

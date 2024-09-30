@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting X-ray pulsar",
+            "Time": "17-Nov-2007",
+            "Date": "17-Nov-2007"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Schrader et al., 1999, ApJ, 512, 920; ATel #647",
+    "Event Type": "intense outburst",
+    "Time": "21-Nov-2007",
+    "Date": "21-Nov-2007",
+    "Telescope": "Swift/BAT",
+    "Instrument": "hard X-ray transient monitor",
+    "Observatory": "Swift"
+}

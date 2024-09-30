@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 132885",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "322 (Phaeo)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Asteroid",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2XMM J151620.2-200828",
+            "RA": "15:16:21.2",
+            "Dec": "-20:08:16",
+            "redshift": null,
+            "Type": "Unclassified X-ray source",
+            "Time": "20:49:39",
+            "Date": "2015-06-04"
+        }
+    ],
+    "References": null,
+    "Event Type": "Optical flare detection",
+    "Time": "20:49:39",
+    "Date": "2015-06-04",
+    "Telescope": null,
+    "Instrument": "Mintron intensified camera",
+    "Observatory": "Foligno Observatory"
+}

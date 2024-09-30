@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J164511.95+275227.2",
+            "RA": "16h 45m 11.95s",
+            "Dec": "+27d 52m 27.2s",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": "00:00:00",
+            "Date": "2016-06-12"
+        },
+        {
+            "Name": "MASTER OT J004117.95+403352.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:47:12",
+            "Date": "2016-06-16"
+        }
+    ],
+    "References": "SDSS DR10 catalogue of candidate quasars (Brescia+, 2015)",
+    "Event Type": "discovery",
+    "Time": "00:00:00",
+    "Date": "2016-06-12",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

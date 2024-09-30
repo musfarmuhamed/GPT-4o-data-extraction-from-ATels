@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17lcs",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023806,
+            "Type": "Ia",
+            "Time": "2017-09-28.85",
+            "Date": "2017-09-28"
+        },
+        {
+            "Name": "ASASSN-17mq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054831,
+            "Type": "galaxy",
+            "Time": "2017-09-28.87",
+            "Date": "2017-09-28"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

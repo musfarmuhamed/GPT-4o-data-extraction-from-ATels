@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14eu",
+            "RA": "15:00:36.84",
+            "Dec": "-03:50:48.9",
+            "redshift": null,
+            "Type": "transient source, possibly a supernova",
+            "Time": "2014-08-01.02",
+            "Date": "2014-08-01"
+        },
+        {
+            "Name": "PGC 053612",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022722",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, Vizier, ASAS-SN Homepage",
+    "Event Type": "discovery of a new transient source",
+    "Time": "2014-08-01.02",
+    "Date": "2014-08-01",
+    "Telescope": "Cassius",
+    "Instrument": "double 14-cm",
+    "Observatory": "Cerro Tololo, Chile"
+}

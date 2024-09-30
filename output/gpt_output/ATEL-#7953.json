@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J18365700-2855420",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2015 March 15.634",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "Nova Sgr 2015 No. 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "V5668 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2015-03-15"
+        }
+    ],
+    "References": [
+        "CBET #4080",
+        "ATel #7643",
+        "ATel #7862"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "2015 March 18",
+    "Date": "2015-03-18",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

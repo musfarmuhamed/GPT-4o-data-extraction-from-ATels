@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14few",
+            "RA": "02:19:59.63",
+            "Dec": "-55:32:50.2",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-14"
+        },
+        {
+            "Name": "LSQ14fep",
+            "RA": "03:02:24.99",
+            "Dec": "-58:07:56.5",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-14"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2014-09-14",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

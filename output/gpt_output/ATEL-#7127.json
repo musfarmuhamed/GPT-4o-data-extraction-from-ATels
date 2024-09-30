@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J100540.87+134751.1",
+            "RA": "10h 05m 40.87s",
+            "Dec": "+13d 47m 51.1s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "20:29:42",
+            "Date": "2015-02-21"
+        },
+        {
+            "Name": "MASTER OT J061451.70-272535.5",
+            "RA": "06h 14m 51.70s",
+            "Dec": "-27d 25m 35.5s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "23:16:31",
+            "Date": "2015-02-19"
+        },
+        {
+            "Name": "MASTER OT J125857.30-284131.5",
+            "RA": "12h 58m 57.30s",
+            "Dec": "-28d 41m 31.5s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "22:47:28",
+            "Date": "2015-02-21"
+        },
+        {
+            "Name": "MASTER OT J185727.96+153920.8",
+            "RA": "18h 57m 27.96s",
+            "Dec": "+15d 39m 20.8s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "02:23:59",
+            "Date": "2015-02-23"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

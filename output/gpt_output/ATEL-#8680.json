@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016adn",
+            "RA": "03:10:34.45",
+            "Dec": "+04:16:10.8",
+            "redshift": "0.0232",
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "57421.3"
+        },
+        {
+            "Name": "SN2016ado",
+            "RA": "02:03:05.78",
+            "Dec": "-03:50:28.3",
+            "redshift": "0.0425",
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "57408.3"
+        },
+        {
+            "Name": "SN2016adp",
+            "RA": "03:21:42.40",
+            "Dec": "+42:05:49.7",
+            "redshift": "0.0180",
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "57409.3"
+        }
+    ],
+    "References": [
+        {
+            "ID": "ATel #8660",
+            "Date": "2015-02-11",
+            "Details": "Found as ASASSN-16bn, classified by Balam et al."
+        },
+        {
+            "ID": "ATel#8674",
+            "Date": "2015-02-11",
+            "Details": "Some similarities to SN2008ae within a week of max"
+        }
+    ],
+    "Event Type": "Asteroid impact early warning system and finding near earth objects",
+    "Time": "null",
+    "Date": "null",
+    "Telescope": "0.5m f/2.0 Schmidt",
+    "Instrument": "STA-1600 10.5x10.5k CCD",
+    "Observatory": [
+        "Mauna Loa",
+        "Haleakala"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N-2009-10b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "October 15.02 UT",
+            "Date": "2009 Oct 15"
+        },
+        {
+            "Name": "M31N-2009-10b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2009 Oct 17"
+        },
+        {
+            "Name": "M31N-2009-10b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2009 Oct 19"
+        }
+    ],
+    "References": "CBET #1967, CBET #1980, A. W. Shafter, et al. 2009, ApJ 690, 1148",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2009 Oct 15 to 19",
+    "Telescope": [
+        {
+            "Name": "1.82m telescope",
+            "Instrument": "AFOSC",
+            "Observatory": "Asiago Observatory"
+        },
+        {
+            "Name": "1.22m telescope",
+            "Instrument": "Boller & Chivens spectrograph",
+            "Observatory": "Asiago Observatory"
+        },
+        {
+            "Name": "WIYN 3.5m telescope",
+            "Instrument": "HYDRA",
+            "Observatory": "KPNO"
+        },
+        {
+            "Name": "Mayall 4-meter telescope",
+            "Instrument": "RC spectrograph with LB1A thick CCD detector",
+            "Observatory": "KPNO"
+        },
+        {
+            "Name": "SARA 0.9m telescope",
+            "Instrument": null,
+            "Observatory": "KPNO"
+        },
+        {
+            "Name": "S-LOTIS 0.6m telescope",
+            "Instrument": null,
+            "Observatory": "KPNO"
+        }
+    ]
+}

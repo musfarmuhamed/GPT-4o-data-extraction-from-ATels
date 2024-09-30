@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3604",
+        "ATel #2814",
+        "ATel #1106",
+        "ATel #1777"
+    ],
+    "Event Type": "Transition to quiescence and subsequent recovery to outburst",
+    "Time": "Varies (e.g., August 31, September 3-12, September 8, September 15, September 16, 18 and 20)",
+    "Date": "August 31 to September 20",
+    "Telescope": [
+        "Swift",
+        "Chandra"
+    ],
+    "Instrument": [
+        "XRT",
+        "ACIS-S"
+    ],
+    "Observatory": "Swift Observatory, Chandra X-ray Observatory"
+}

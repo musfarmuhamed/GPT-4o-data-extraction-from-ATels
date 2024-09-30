@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ts",
+            "RA": "03:34:42.02",
+            "Dec": "-20:50:47.04",
+            "redshift": "0.059978",
+            "Type": "supernova",
+            "Time": "2015-12-06.27",
+            "Date": "2015-12-06"
+        },
+        {
+            "Name": "2MASX J03344211-2050502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.059978",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-12-06.27",
+    "Date": "2015-12-06",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18bca",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "2018-05-01"
+        }
+    ],
+    "References": "ATel #8992, SNID (Blondin and Tonry 2007, ApJ, 666, 1024), IAU Transient Name Server, http://cosmos.esa.int/gaia, http://gsaweb.ast.cam.ac.uk/alerts/",
+    "Event Type": "spectroscopic classification",
+    "Time": "00:00",
+    "Date": "2018-05-01",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC (range 350-950 nm; resolution 1.6 nm FWHM)",
+    "Observatory": "Nordic Optical Telescope (NOT)"
+}

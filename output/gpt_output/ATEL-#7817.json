@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037,
+            "Type": "type Ia supernova",
+            "Time": "04:00:19 UT",
+            "Date": "2015-07-19"
+        },
+        {
+            "Name": "SN2006cf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7808, Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "transient",
+    "Time": "04:00:19 UT",
+    "Date": "2015-07-19",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos on La Palma"
+}

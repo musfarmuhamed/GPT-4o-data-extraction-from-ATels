@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.7-2544",
+            "RA": "268.416500",
+            "Dec": "-25.753470",
+            "Redshift": null,
+            "Type": "galactic transient source",
+            "Time": "13:22:58",
+            "Date": "2013-02-14"
+        },
+        {
+            "Name": "USNO-A2.0 0600-29362287",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "field star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm et al, ATels #4769, #4789",
+    "Event Type": "astronomical observation",
+    "Time": "13:22:58",
+    "Date": "2013-02-14",
+    "Telescope": "Swift telescopes",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift observatory"
+}

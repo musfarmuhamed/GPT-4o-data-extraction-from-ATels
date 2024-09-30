@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible nova in M31",
+            "RA": "00h 43m 13.38s",
+            "Dec": "+41\u00b0 16' 58.9\"",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "26.273",
+            "Date": "2006-04-26"
+        },
+        {
+            "Name": "Possible nova in M31",
+            "RA": "00h 43m 13.38s",
+            "Dec": "+41\u00b0 16' 58.9\"",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "28.263",
+            "Date": "2006-04-28"
+        }
+    ],
+    "References": "USNO-B1 catalog",
+    "Event Type": "Discovery",
+    "Time": "26.273",
+    "Date": "2006-04-26",
+    "Telescope": "Bradford Robotic Telescope Galaxy",
+    "Instrument": "FLI MaxCam ME2 1k x 1k CCD camera",
+    "Observatory": "Tenerife Observatory"
+}

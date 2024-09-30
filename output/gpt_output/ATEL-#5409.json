@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "1140-2888 A",
+            "Date": "2013-09-18.2",
+            "Event Details": {
+                "Other names": "Nova Del 2013",
+                "Magnitude": "V ~ 8",
+                "Stage": "shortly after t_3",
+                "Features": [
+                    "Fe curtain stage ending",
+                    "Absorption at Ly-alpha dominated by interstellar absorption",
+                    "Emission on Ly alpha, O I 1302, C II 1335, N II 2142, C II 2324, Mg II 2800",
+                    "Strong, saturated P Cyg absorption on C II 1335 extending to -2500 km/s",
+                    "Presence of He II 1640A and N IV 1486A",
+                    "No indications of O III 1661, 1667A or C III 1909",
+                    "Measured flux 1180-2900A: 1.7e-8 erg/s/cm^2",
+                    "Corrected flux for E(B-V)=0.2: 7.8e-18 erg/s/cm^2",
+                    "Na I D lines gone",
+                    "He I 5876 emission multipli-peaked",
+                    "Comparison with OS And 1986 shows distance to V339 Del is ~6 kpc"
+                ]
+            }
+        },
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Day 23 of outburst",
+            "Date": null,
+            "Event Details": {
+                "Features": [
+                    "1180-900A metallic line absorption not saturated"
+                ]
+            }
+        }
+    ],
+    "References": [
+        {
+            "ID": "ATel#5282",
+            "Details": "Velocities measured during fireball stage, -2500 km/s for C II 1335 absorption"
+        },
+        {
+            "ID": "ATel#5304",
+            "Details": "Correction for E(B-V)=0.2"
+        },
+        {
+            "Details": "Schwarz et al. 1997, MNRAS, 284, 669"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "1140-2888 A",
+    "Date": "2013-09-18.2",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Space Telescope Imagine Spectrograph",
+    "Observatory": null
+}

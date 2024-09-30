@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KT Eri",
+            "RA": "04:47:54.21",
+            "Dec": "\u221210:10:43.1",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2009-11-25"
+        }
+    ],
+    "References": [
+        "IAUC # 9098",
+        "ATEL #2423",
+        "ATEL #2392"
+    ],
+    "Event Type": "radio observations",
+    "Time": "between 2009-12-04 and 2010-02-03",
+    "Date": null,
+    "Telescope": [
+        "ATCA",
+        "GMRT",
+        "MERLIN",
+        "VLA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

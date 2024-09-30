@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star Soft X-ray Transient (NS SXT)",
+            "Time": "15:39:00 UT",
+            "Date": "2015-09-24"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star Soft X-ray Transient (NS SXT)",
+            "Time": "19:14:00 UT",
+            "Date": "2015-09-20"
+        }
+    ],
+    "References": [
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Evans et al. (2007, A&A, 469, 379)"
+    ],
+    "Event Type": "X-ray monitoring campaign",
+    "Time": "15:39:00 UT",
+    "Date": "2015-09-24",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

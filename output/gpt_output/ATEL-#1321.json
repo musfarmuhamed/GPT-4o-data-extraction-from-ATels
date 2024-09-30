@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova",
+            "RA": "23:40:11.74",
+            "Dec": "+27:25:16.5",
+            "redshift": 0.03,
+            "Type": "Type Ia supernova",
+            "Time": "Dec 6.16 UT",
+            "Date": "2000-12-06"
+        }
+    ],
+    "References": [
+        {
+            "Title": "1994D spectrum",
+            "Authors": "Patat et al.",
+            "Publication": "MNRAS 278,111",
+            "Date": 1996
+        },
+        {
+            "Title": "ABELL 2634 galaxy cluster redshift",
+            "Authors": "Oegerle & Hill",
+            "Publication": "2001"
+        }
+    ],
+    "Event Type": "Discovery of a Type Ia Supernova",
+    "Time": "Nov 28.11 UT",
+    "Date": "2000-11-28",
+    "Telescope": "ROTSE-IIIb telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory, Texas"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0641-0317",
+            "RA": "100.383",
+            "Dec": "-3.294",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J0641-0320",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat-spectrum radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Ackermann et al. 2013, ApJ, 771, 57",
+    "Event Type": "gamma-ray activity",
+    "Time": null,
+    "Date": {
+        "Start": "2014-04-14",
+        "End": "2014-04-21"
+    },
+    "Telescope": "Large Area Telescope",
+    "Instrument": "LAT",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15cct",
+            "RA": "21:16:26.06",
+            "Dec": "+15:25:29.21",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-08-20"
+        },
+        {
+            "Name": "iPTF15cde",
+            "RA": "23:18:38.09",
+            "Dec": "+32:59:09.19",
+            "redshift": "0.14",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-08-20"
+        },
+        {
+            "Name": "iPTF15cji",
+            "RA": "22:47:45.56",
+            "Dec": "+27:20:15.98",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-08-23"
+        },
+        {
+            "Name": "iPTF15ckb",
+            "RA": "01:18:46.83",
+            "Dec": "+41:06:36.60",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-08-25"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Yaron & Gal-Yam 2012",
+        "Superfit (Howell, et al. 2005, ApJ, 634, 1190)",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": null,
+    "Date": "2015-08-19",
+    "Telescope": "P60+SED-Machine, GS+GMOS, NOT+ALFOSC",
+    "Instrument": "P60+SED-Machine, GS+GMOS, NOT+ALFOSC",
+    "Observatory": "Intermediate Palomar Transient Factory"
+}

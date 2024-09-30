@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2XMM J010247.4-720449",
+            "RA": "01:02:47.5",
+            "Dec": "-72:04:50.8",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2XMM J010247.4-720449",
+            "RA": "01:02:46.8",
+            "Dec": "-72:04:55.7",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "05:03 to 19:34 (UT)",
+            "Date": "2010-03-27"
+        },
+        {
+            "Name": "2XMM J010247.4-720449",
+            "RA": "01:02:47.61",
+            "Dec": "-72:04:51.2",
+            "redshift": null,
+            "Type": "Optical counterpart of Be/X-ray binary",
+            "Time": null,
+            "Date": "2005-04-17 to 2005-04-18"
+        }
+    ],
+    "References": [
+        "Eger 2008, diploma thesis TU Munich",
+        "Zaritsky et al. 2002, AJ 123, 855",
+        "Kato et al. 2007, PASJ 59, 615"
+    ],
+    "Event Type": "X-ray detection and variability study",
+    "Time": "22:44 Apr 17 to 08:33 Apr 18",
+    "Date": "2005-04-17 to 2005-04-18",
+    "Telescope": "XMM-Newton, Swift, Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

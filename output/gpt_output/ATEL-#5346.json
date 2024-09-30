@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13co",
+            "RA": "21:40:38.74",
+            "Dec": "+06:30:36.87",
+            "redshift": "0.023063",
+            "Type": "likely supernova",
+            "Time": "Aug. 29.39",
+            "Date": "2013",
+            "Magnitude": "16.9",
+            "Distance": "92 Mpc",
+            "Absolute Magnitude": "-18.07",
+            "Associated Galaxy": "PGC 67159",
+            "Galaxy Distance": "1.29 kpc",
+            "Confirmation Date": "Aug. 30"
+        },
+        {
+            "Name": "ASASSN-13cp",
+            "RA": "15:33:49.236",
+            "Dec": "+21:08:21.87",
+            "redshift": "0.023576",
+            "Type": "likely supernova",
+            "Time": "Aug. 30.24",
+            "Date": "2013",
+            "Magnitude": "16.6",
+            "Distance": "100 Mpc",
+            "Absolute Magnitude": "-18.57",
+            "Associated Galaxy": "PGC 55442",
+            "Galaxy Distance": "5.9 kpc",
+            "Confirmation Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage and ASAS-SN Transients page",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": "14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

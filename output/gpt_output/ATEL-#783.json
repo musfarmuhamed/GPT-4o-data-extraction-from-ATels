@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05007-7047",
+            "RA": null,
+            "Dec": null,
+            "redshift": "consistent with that of the LMC",
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XSS J12270-4859",
+            "RA": "12 27 58.77",
+            "Dec": "-48 53 42.8",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14536-5522",
+            "RA": "14 53 41.16",
+            "Dec": "-55 21 37.4",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J15094-6649",
+            "RA": "15 09 26.00",
+            "Dec": "-66 49 23.4",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16167-4957",
+            "RA": "16 16 37.78",
+            "Dec": "-49 58 44.7",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16207-5129",
+            "RA": "16 20 46.28",
+            "Dec": "-51 30 06.3",
+            "redshift": "0",
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1700.2-4220",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17195-4100",
+            "RA": "17 19 35.91",
+            "Dec": "-41 00 53.7",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2006, ApJ, 636, 765",
+        "Halpern 2005, ATel #572",
+        "Kuiper et al. 2006, ATel #684",
+        "Sazonov et al. 2005, A&A, 444, L37",
+        "Revnivtsev et al. 2006, Astron. Lett., 32, 145",
+        "Voges et al. 1999, A&A, 349, 389",
+        "Stephen et al. 2006, A&A, 445, 869",
+        "Masetti et al. 2006, A&A, in press [astro-ph/0512399]",
+        "Bikmaev et al. 2006, Astron. Lett., in press [astro-ph/0603715]",
+        "Mukai et al. 2006, ATel #686",
+        "Merrill & Burwell 1943, ApJ, 98, 153"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "20-22 March 2006",
+    "Telescope": "CTIO 1.5m",
+    "Instrument": "R-C spectrograph",
+    "Observatory": "Cerro Tololo"
+}

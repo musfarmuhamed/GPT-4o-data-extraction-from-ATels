@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16207-5129",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": {
+        "Tomsick et al. 2006": "ApJ, 647, 1309",
+        "Bodaghee et al. 2010": "ApJ, 719, 451"
+    },
+    "Event Type": "Detection of periodic intensity modulation",
+    "Time": null,
+    "Date": {
+        "Start": "MJD 53413",
+        "End": "MJD 55888"
+    },
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": "19h 13m 26s",
+            "Date": "2010-03-19"
+        },
+        {
+            "Name": "NGC 6440 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accreting-millisecond X-ray pulsar",
+            "Time": "18h 16m 32s",
+            "Date": "2010-03-20"
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accreting-millisecond X-ray pulsar",
+            "Time": null,
+            "Date": "2009-11-30"
+        }
+    ],
+    "References": "Pooley et al. 2002, ApJ 573, 184; Altamirano et al. 2010, ApJ, 712, 58; Altamirano et al. 2008, ApJ, 674, 45A; Heinke et al. 2010, astro-ph:0911.0444; ATELs #2360 and #2407",
+    "Event Type": "Detection of X-ray Flux Excess",
+    "Time": "19h 13m 26s UT",
+    "Date": "2010-03-19",
+    "Telescope": "RXTE, Swift",
+    "Instrument": "PC mode (Swift)",
+    "Observatory": null
+}

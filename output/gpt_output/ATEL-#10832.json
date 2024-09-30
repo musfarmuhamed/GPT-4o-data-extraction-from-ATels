@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Terzan 6",
+            "RA": 267.694,
+            "Dec": -31.28,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star Low Mass X-ray Binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRS 1747-312",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star Low Mass X-ray Binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #438",
+        "Atel #10821",
+        "Atel #10826",
+        "Atel #10827",
+        "http://maxi.riken.jp/pipermail/x-ray-star/2017-October/002657.html"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": null
+}

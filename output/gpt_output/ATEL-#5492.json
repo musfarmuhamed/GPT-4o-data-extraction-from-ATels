@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "17:55 - 10:55",
+            "Date": "Oct 18 - Oct 20, 2013"
+        }
+    ],
+    "References": [
+        "Nakahira et al, ATEL #5474",
+        "Kennea et al. (ATEL #5479)",
+        "Negoro et al. (ATEL #5483)"
+    ],
+    "Event Type": "Observation",
+    "Time": "04:32 - 00:26",
+    "Date": "Oct 17 - Oct 18, 2013",
+    "Telescope": [
+        "INTEGRAL",
+        "Swift/XRT"
+    ],
+    "Instrument": [
+        "ISGRI",
+        "XRT",
+        "IBIS"
+    ],
+    "Observatory": [
+        "INTEGRAL observatory"
+    ]
+}

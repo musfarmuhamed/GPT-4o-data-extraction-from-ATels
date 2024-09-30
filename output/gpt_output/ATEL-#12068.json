@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "12:41 UT",
+            "Date": "Sep. 28"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11820",
+        "ATel #11823",
+        "ATel #12057",
+        "ATel #12061",
+        "ATel #12064"
+    ],
+    "Event Type": "transition to a harder spectral state",
+    "Time": null,
+    "Date": [
+        "Sep. 21",
+        "Sep. 23",
+        "Sep. 25",
+        "Sep. 27",
+        "Sep. 28"
+    ],
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

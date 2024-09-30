@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "47ks",
+            "Date": "2014-02-21"
+        }
+    ],
+    "References": [
+        "Kennea et al. 2013, ApJ 770, L24",
+        "Mori et al. 2013, ApJ 770, L23",
+        "Rea et al. 2013, ApJ 775, L34",
+        "Degenaar et al. 2014; ATel #5861",
+        "Rea & Esposito 2011, ASSP, Springer",
+        "Pons & Rea 2012, ApJ 750, L6"
+    ],
+    "Event Type": "X-ray monitoring",
+    "Time": "47ks",
+    "Date": "2014-02-21",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

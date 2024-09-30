@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1954+31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "00:14 UTC",
+            "Date": "Apr 15, 2006"
+        }
+    ],
+    "References": "Bird et al., 2006, ApJ 636, 765",
+    "Event Type": "outburst detection",
+    "Time": "00:14 UTC",
+    "Date": "Apr 15, 2006",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "R-XTE ASM"
+    ],
+    "Observatory": "Galactic Plane Survey (GPS)"
+}

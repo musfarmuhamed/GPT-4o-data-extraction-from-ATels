@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT",
+            "RA": "15h 50m 11.27s",
+            "Dec": "+12d 16m 42s.2",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "21:39:41.3",
+            "Date": "2010-06-14"
+        },
+        {
+            "Name": "SDSS J155011.01+12164001",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al.,2010, Advances in Astronomy, vol. 2010, pp. 1-7",
+    "Event Type": "New OT detection",
+    "Time": "21:39:41.3",
+    "Date": "2010-06-14",
+    "Telescope": "MASTER II robotic telescope",
+    "Instrument": null,
+    "Observatory": "Kislovodsk (MASTER-Net)"
+}

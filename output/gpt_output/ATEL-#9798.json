@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16np",
+            "RA": "12:36:43.21",
+            "Dec": "+26:06:48.67",
+            "redshift": "0.020835",
+            "Type": "supernova",
+            "Time": "2016-11-14.65",
+            "Date": "2016-11-14"
+        },
+        {
+            "Name": "SDSS J123643.42+260647.1",
+            "RA": "12:36:43.42",
+            "Dec": "+26:06:47.1",
+            "redshift": "0.020835",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "discovery",
+    "Time": "2016-11-14.65",
+    "Date": "2016-11-14",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "2006-present",
+            "Date": "2006-present"
+        },
+        {
+            "Name": "unrelated field star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Udalski & Kaluzny 1991",
+        "Casares & Charles 1994",
+        "Shahbaz et al. 2003",
+        "Zurita et al. 2004",
+        "IPHAS-DR2: http://www.iphas.org/dr2/",
+        "GCN #17929",
+        "Lewis et al. 2008"
+    ],
+    "Event Type": "Outburst",
+    "Time": "2015-June-8 to 2015-June-9",
+    "Date": "2015-June-8 to 2015-June-9",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "optical bands (i', V, R)",
+    "Observatory": "Haleakala on Maui, Hawaii"
+}

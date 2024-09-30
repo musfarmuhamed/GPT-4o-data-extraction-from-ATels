@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.031,
+            "Type": "high-energy peaked BL Lacertae source",
+            "Time": "0.3-10 keV band",
+            "Date": {
+                "range": "2013 January 25 - February 6",
+                "specific_observations": [
+                    "2013 January 25",
+                    "2013 February 4"
+                ]
+            }
+        }
+    ],
+    "References": "http://www.swift.psu.edu/monitoring/",
+    "Event Type": "High X-ray State",
+    "Time": "0.3-10 keV band",
+    "Date": "2013 January 25 - February 6",
+    "Telescope": "Swift satellite",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift satellite"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Cen 2013 = PNV J13544700-5909080",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "6.33",
+            "Date": "2013 December 6"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Poznanski et al.",
+            "Journal": "MNRAS",
+            "Year": 2012,
+            "Volume": 426,
+            "Page": 1465
+        },
+        {
+            "Author": "Munari & Zwitter",
+            "Journal": "A&A",
+            "Year": 1997,
+            "Volume": 318,
+            "Page": 269
+        }
+    ],
+    "Event Type": "Optical Spectroscopy Observation",
+    "Time": "6.33",
+    "Date": "2013 December 6",
+    "Telescope": "0.5 m telescope",
+    "Instrument": "PUCHEROS echelle spectrograph",
+    "Observatory": "Pontificia Universidad Catolica de Chile Observatory"
+}

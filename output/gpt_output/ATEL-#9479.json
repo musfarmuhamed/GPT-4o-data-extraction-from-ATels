@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "highly reddened Galactic nova",
+            "Time": "Sep 8",
+            "Date": "UT",
+            "Additional Information": {
+                "spectroscopic_details": {
+                    "H-alpha_profile": "+250/-190 km/s",
+                    "emission_features": [
+                        "H-alpha",
+                        "Ca II triplet",
+                        "Fe II lines"
+                    ]
+                }
+            }
+        },
+        {
+            "Name": "ASASSN-16kd/PNVJ17225112-3158349",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "highly reddened Galactic nova",
+            "Time": "Sep 8",
+            "Date": "UT",
+            "Additional Information": {
+                "spectroscopic_details": {
+                    "H-alpha_profile": "+120/-800 km/s",
+                    "emission_features": [
+                        "H-alpha",
+                        "Ca II triplet",
+                        "Fe II lines"
+                    ],
+                    "initial_classification_reference": "ATel #9477",
+                    "classifier_name": "T. Bohlsen"
+                }
+            }
+        }
+    ],
+    "References": "ATel #9469, ATel #9477, ATel #9478",
+    "Event Type": "spectroscopic observation",
+    "Time": "Sep 8",
+    "Date": "UT",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "B&C spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

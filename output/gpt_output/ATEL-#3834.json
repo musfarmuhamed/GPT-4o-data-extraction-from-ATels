@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "probable nova",
+            "RA": "00h42m28.80s",
+            "Dec": "+41d10'21.83\"",
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "29.67920 UT",
+                "33.68708 UT",
+                "29.69637 UT",
+                "29.81758 UT",
+                "29.92100 UT"
+            ],
+            "Date": [
+                "2011 December 29",
+                "2011 December 29",
+                "2011 December 29",
+                "2011 December 29",
+                "2011 December 29"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "Object_1": {
+                "Name": "J004228.93+411020.9",
+                "R_magnitude": "21.619",
+                "Source": "Massey et al., 2006"
+            }
+        },
+        {
+            "Object_2": {
+                "Name": "No.2418 from WeCAPP Survey - M31 variables",
+                "Type": "regular or semi-regular red variable",
+                "Source": "Fliri et al., 2006"
+            }
+        }
+    ],
+    "Event Type": "discovery of a probable nova",
+    "Time": [
+        "29.67920 UT",
+        "33.68708 UT",
+        "29.69637 UT",
+        "29.81758 UT",
+        "29.92100 UT"
+    ],
+    "Date": [
+        "2011 December 29",
+        "2011 December 29",
+        "2011 December 29",
+        "2011 December 29",
+        "2011 December 29"
+    ],
+    "Telescope": "2m RCC telescope",
+    "Instrument": "Two-Channel Focal Reducer \"FoReRo 2\"",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

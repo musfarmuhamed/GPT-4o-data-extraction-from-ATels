@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova candidate",
+            "RA": "03h33m36.1s",
+            "Dec": "-36o07'34\"",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "05",
+            "Date": "2012 October 27"
+        },
+        {
+            "Name": "supernova candidate",
+            "RA": "03h33m36.1s",
+            "Dec": "-36o07'34\"",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "125",
+            "Date": "2012 October 27"
+        }
+    ],
+    "References": "http://cador.obs-hp.fr/sn_tarot/PSN_J03333599-3607377",
+    "Event Type": "discovery of a supernova candidate",
+    "Time": "05",
+    "Date": "2012 October 27",
+    "Telescope": "TAROT La Silla",
+    "Instrument": "unfiltered image",
+    "Observatory": null
+}

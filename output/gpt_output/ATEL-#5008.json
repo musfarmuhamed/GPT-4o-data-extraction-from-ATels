@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "342s",
+            "Date": "MJD=56407.6099"
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "639s",
+            "Date": "MJD=56407.6654"
+        }
+    ],
+    "References": "ATEL 5006",
+    "Event Type": "Swift ToO observation",
+    "Time": "342s and 639s",
+    "Date": "MJD=56407.6099 and MJD=56407.6654",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": null
+}

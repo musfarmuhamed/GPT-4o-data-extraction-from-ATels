@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "trigger on 2018-09-22 (MJD 58383)",
+            "Date": "2018-09-22"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "trigger on 2018-09-30 (MJD 58391)",
+            "Date": "2018-09-30"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016, PASJ, 68, S1",
+        "Giovannelli et al. 2013, A&A, 560, 1",
+        "Nakajima et al. Atel#6569",
+        "Iwakiri et al. Atel#8977",
+        "K\u00fchnel et al. 2013"
+    ],
+    "Event Type": "X-ray outbursts",
+    "Time": "Varied",
+    "Date": "Varied",
+    "Telescope": [
+        "MAXI/GSC",
+        "Neil Gehrels Swift observatory",
+        "Fermi/GBM"
+    ],
+    "Instrument": [
+        "GSC",
+        "Swift/BAT",
+        "Fermi/GBM"
+    ],
+    "Observatory": [
+        "MAXI",
+        "Neil Gehrels Swift observatory",
+        "Fermi"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16aax",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10.3",
+            "Date": "2016 Feb. 10"
+        },
+        {
+            "Name": "SDSS J143418.47+491236.5",
+            "RA": "14:34:18.47",
+            "Dec": "+49:12:36.5",
+            "redshift": "0.2485",
+            "Type": "QSO BROADLINE",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": "10.3",
+    "Date": "2016 Feb. 10",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

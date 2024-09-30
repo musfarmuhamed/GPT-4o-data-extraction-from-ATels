@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "eta Carinae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "massive binary star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 4713",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "HJD 2456754-2456795"
+        },
+        {
+            "Name": "He I 5876",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "HJD 2456791-2456819"
+        },
+        {
+            "Name": "He I 7065",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "HJD 2456791-2456810"
+        }
+    ],
+    "References": [
+        "Richardson et al. 2010, AJ, 139, 1534",
+        "Tokovinin et al. 2013, PASP, 125, 1336",
+        "Groh et al. 2010, A&A, 519, 9",
+        "Walter (ATel #6334)"
+    ],
+    "Event Type": "high-velocity absorption components",
+    "Time": null,
+    "Date": "2014",
+    "Telescope": "CTIO 1.5 m telescope",
+    "Instrument": "CHIRON spectrograph",
+    "Observatory": "CTIO"
+}

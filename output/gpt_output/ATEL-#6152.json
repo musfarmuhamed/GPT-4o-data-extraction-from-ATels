@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ba",
+            "RA": "10:21:31.9",
+            "Dec": "+8:24:21.12",
+            "redshift": "0.032668",
+            "Type": "probable supernova",
+            "Time": "2014-05-19.29",
+            "Date": "2014-05-19"
+        },
+        {
+            "Name": "ASASSN-14bb",
+            "RA": "12:14:11.3",
+            "Dec": "+38:39:40.8",
+            "redshift": "0.061 +/- 0.024",
+            "Type": "bright transient",
+            "Time": "2014-05-19.33",
+            "Date": "2014-05-19"
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "transient discovery",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070726-005",
+            "RA": "23:17:48.71",
+            "Dec": "22:59:07.1",
+            "redshift": "0.14",
+            "Type": "Ia",
+            "Time": "Jul 26.4",
+            "Date": "Around max"
+        },
+        {
+            "Name": "SNF20070728-003",
+            "RA": "02:52:22.68",
+            "Dec": "16:31:40.3",
+            "redshift": "0.04",
+            "Type": "Ibc",
+            "Time": "Jul 28.5",
+            "Date": "1 week after max"
+        }
+    ],
+    "References": "The Nearby Supernova Factory",
+    "Event Type": "Discovery",
+    "Time": "Jul 26 through Jul 28 UTC",
+    "Date": null,
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

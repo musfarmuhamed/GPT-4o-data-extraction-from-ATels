@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VER 0521+211",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.108,
+            "Type": "blazar",
+            "Time": "2456582.9367",
+            "Date": "October 17th, 2013"
+        },
+        {
+            "Name": "MG2 J052147+2112",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGLJ0521.7+2114",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel#5472",
+        "Atel#5519"
+    ],
+    "Event Type": "Gamma Ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory (operated by the National Institute for Astrophysics, Optics and Electronics, Mexico)"
+}

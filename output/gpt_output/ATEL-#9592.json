@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J143849.60-443724.5",
+            "RA": "14h 38m 49.60s",
+            "Dec": "-44d 37m 24.5s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2016-10-01.73438 UT",
+            "Date": "2016-10-01"
+        },
+        {
+            "Name": "MASTER OT J040121.35-533740.0",
+            "RA": "04h 01m 21.35s",
+            "Dec": "-53d 37m 40.0s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2016-09-28.89198 UT",
+            "Date": "2016-09-28"
+        },
+        {
+            "Name": "MASTER OT J034525.01+315742.7",
+            "RA": "03h 45m 25.01s",
+            "Dec": "+31d 57m 42.7s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2016-10-02.25000 UT",
+            "Date": "2016-10-02"
+        },
+        {
+            "Name": "MASTER OT J144632.31-414845.1",
+            "RA": "14h 46m 32.31s",
+            "Dec": "-41d 48m 45.1s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2016-10-02.73941 UT",
+            "Date": "2016-10-02"
+        },
+        {
+            "Name": "MASTER OT J152200.68-555539.2",
+            "RA": "15h 22m 00.68s",
+            "Dec": "-55d 55m 39.2s",
+            "redshift": null,
+            "Type": "Young Stellar Objects candidate",
+            "Time": "2016-10-03.07322 UT",
+            "Date": "2016-10-03"
+        },
+        {
+            "Name": "MASTER OT J153156.56-544004.1",
+            "RA": "15h 31m 56.56s",
+            "Dec": "-54d 40m 04.1s",
+            "redshift": null,
+            "Type": "Young Stellar Objects candidate",
+            "Time": "2016-09-30.77237 UT",
+            "Date": "2016-09-30"
+        },
+        {
+            "Name": "MASTER OT J155252.74-622232.4",
+            "RA": "15h 52m 52.74s",
+            "Dec": "-62d 22m 32.4s",
+            "redshift": null,
+            "Type": "Young Stellar Objects candidate",
+            "Time": "2016-09-30.83672 UT",
+            "Date": "2016-09-30"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "MASTER-SAAO auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

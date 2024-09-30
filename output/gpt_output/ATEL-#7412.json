@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15hf",
+            "RA": "10 29 30.76",
+            "Dec": "-35 15 35.2",
+            "redshift": 0.005,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20150412"
+        },
+        {
+            "Name": "ASASSN-15he",
+            "RA": "16 31 33.49",
+            "Dec": "-67 52 04.1",
+            "redshift": 0.014,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20150412"
+        },
+        {
+            "Name": "LSQ15abl",
+            "RA": "09 40 29.50",
+            "Dec": "-04 11 32.3",
+            "redshift": 0.087,
+            "Type": "SLSN-II",
+            "Time": "unknown",
+            "Date": "20150319"
+        }
+    ],
+    "References": [
+        {
+            "Title": "arXiv:1411.0299",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "ASAS-SN",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Title": "PASP, 2013, 125, 683",
+            "Authors": [
+                "Baltay et al."
+            ]
+        },
+        {
+            "Title": "SNID",
+            "Authors": [
+                "Blondin & Tonry, 2007",
+                "ApJ, 666, 1024"
+            ]
+        },
+        {
+            "Title": "Classification spectra",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "WISeREP",
+            "URL": "http://www.pessto.org"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2015 April 17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

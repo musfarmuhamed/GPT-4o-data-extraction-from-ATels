@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova candidate in M 31",
+            "RA": "00h42m34.20s",
+            "Dec": "+41d16'44.0\"",
+            "redshift": null,
+            "Type": "Optical nova candidate",
+            "Time": "06.47",
+            "Date": "2008 June 06"
+        },
+        {
+            "Name": "Nova candidate in M 31",
+            "RA": "00h42m34.20s",
+            "Dec": "+41d16'44.0\"",
+            "redshift": null,
+            "Type": "Optical nova candidate",
+            "Time": "07.47",
+            "Date": "2008 June 07"
+        },
+        {
+            "Name": "Nova candidate in M 31",
+            "RA": "00h44m01.73s",
+            "Dec": "+41d04'23.8\"",
+            "redshift": null,
+            "Type": "Optical nova candidate",
+            "Time": "09.48",
+            "Date": "2008 June 09"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478; ATel #1563",
+    "Event Type": "Discovery of an optical nova candidate",
+    "Time": "06.47, 07.47, and 09.48 UT",
+    "Date": "2008 June 06, 07, and 09",
+    "Telescope": "60cm telescope",
+    "Instrument": "E2V CCD (2kx2k)",
+    "Observatory": "Livermore Optical Transient Imaging System (Super-LOTIS), Steward Observatory, Kitt Peak, Arizona, USA"
+}

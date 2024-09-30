@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 0650+453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "N/A",
+            "Date": "2011 August 27"
+        }
+    ],
+    "References": [
+        "ATel #3580",
+        "ATel #3596",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "ATel #3608"
+    ],
+    "Event Type": "Flaring Activity",
+    "Time": null,
+    "Date": "2011 August 27",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "N/A"
+}

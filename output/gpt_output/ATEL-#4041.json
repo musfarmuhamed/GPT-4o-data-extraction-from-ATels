@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WIT-01",
+            "RA": "16 10 53.45",
+            "Dec": "-51 55 32.4",
+            "redshift": null,
+            "Type": "extreme transient",
+            "Time": null,
+            "Date": "March 2010"
+        },
+        {
+            "Name": "SDC G331.062-0.294",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Infrared Dark Cloud",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Minniti et al. 2010, New Astronomy, 15, 433",
+    "Event Type": "discovery of an extreme transient",
+    "Time": null,
+    "Date": "March 2010",
+    "Telescope": "4.1m VISTA",
+    "Instrument": "VIRCAM",
+    "Observatory": "ESO Paranal Observatory"
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19149+1036",
+            "RA": "19h14m56.73s",
+            "Dec": "+10:36:38.11",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E 1912.5+1031",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J19145680+1036387",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Pavan et al., 2011, A&A, 526, 122",
+    "Event Type": "Observation",
+    "Time": "2.1 ks",
+    "Date": [
+        "2010 Dec. 5",
+        "2011 Feb. 17"
+    ],
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

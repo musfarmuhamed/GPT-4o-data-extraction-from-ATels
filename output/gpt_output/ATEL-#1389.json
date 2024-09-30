@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J122836.3+153449",
+            "RA": "12:28:36.25",
+            "Dec": "+15:34:49.1",
+            "redshift": 0.234,
+            "Type": "Type IIn supernova",
+            "Time": "Jan. 10.41 UT",
+            "Date": "Jan. 10, 2023"
+        }
+    ],
+    "References": [
+        "Benetti et al. 1999, MNRAS 305, 811",
+        "Ofek et al. 2007, ApJ, 659, 13",
+        "Smith et al., 2007, ApJ, 666, 1116"
+    ],
+    "Event Type": "discovery of a type IIn supernova",
+    "Time": "Jan. 10.41 UT",
+    "Date": "Jan. 10, 2023",
+    "Telescope": [
+        "0.45-m ROTSE-IIIb telescope",
+        "9.2m Hobby-Eberly Telescope",
+        "200\" Palomar telescope",
+        "10-m Keck I telescope",
+        "Swift XRT and UVOT"
+    ],
+    "Instrument": [
+        "Marcario Low-Resolution Spectrograph",
+        "Double Beam Spectrograph",
+        "LRIS"
+    ],
+    "Observatory": "McDonald Observatory"
+}

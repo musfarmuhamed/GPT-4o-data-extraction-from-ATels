@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J0120.7-1444",
+            "RA": "01 20 43.032",
+            "Dec": "-14 43 55.66",
+            "redshift": 0.03937,
+            "Type": "Sy1.9",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J0528.1-3933",
+            "RA": "05 28 02.01",
+            "Dec": "-39 34 44.7",
+            "redshift": 0.03669,
+            "Type": "Starburst/composite",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J0726.6-4634",
+            "RA": "07 26 24.240",
+            "Dec": "-46 20 57.43",
+            "redshift": 0.03036,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1048.6-3901",
+            "RA": "10 48 33.82",
+            "Dec": "-39 02 38.0",
+            "redshift": 0.04464,
+            "Type": "Sy1.5",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1300.5-0759",
+            "RA": "13 00 19.080",
+            "Dec": "-08 05 14.58",
+            "redshift": 0.02694,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J2043.8-0958",
+            "RA": "20 44 22.141",
+            "Dec": "-09 57 35.64",
+            "redshift": 0.14186,
+            "Type": "Sy1.8",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J2117.7-0208",
+            "RA": "21 17 41.623",
+            "Dec": "-02 08 34.15",
+            "redshift": 0.09022,
+            "Type": "Sy1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J2306.3-5147",
+            "RA": "23 06 16.560",
+            "Dec": "-51 47 46.27",
+            "redshift": 0.09588,
+            "Type": "Sy1.9",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Oh et al. 2018, ApJS, 235, 4",
+        "Jones et al. 2009, MNRAS, 399, 683",
+        "Veilleux & Osterbrock (1987, ApJS, 63, 295)",
+        "Ho et al. (1993, ApJ, 417, 63)",
+        "Kauffmann et al. (2003, MNRAS, 346, 1055)",
+        "Winkler (1992, MNRAS, 257, 667)",
+        "Rosen et al. 2016, A&A, 590, A1"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0444.1+2813",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0732.5-1331",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0823.4-0457",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0918.5+1618",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.029,
+            "Type": "Sy1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1200.8+0650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#669",
+        "#677",
+        "#697"
+    ],
+    "Event Type": "optical spectra acquisition",
+    "Time": null,
+    "Date": "Between February 6 and 10, 2006",
+    "Telescope": "1.5m G.D. Cassini",
+    "Instrument": "BFOSC",
+    "Observatory": "Astronomical Observatory of Bologna, Loiano (Italy)"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ss",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037,
+            "Type": "Ia Supernova",
+            "Time": "01:47:53.952",
+            "Date": "2015-11-12"
+        },
+        {
+            "Name": "MCG -02-16-004",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8273",
+    "Event Type": "spectroscopic observation",
+    "Time": "01:47:53.952",
+    "Date": "2015-11-12",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

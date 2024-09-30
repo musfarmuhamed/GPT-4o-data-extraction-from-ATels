@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17cmd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-09-30"
+        },
+        {
+            "Name": "2MASX J07414558+1613063",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.11",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2017-10-03"
+        },
+        {
+            "Name": "Gaia17cmd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.099",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2017-10-05"
+        },
+        {
+            "Name": "Gaia17cmd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN flare",
+            "Time": null,
+            "Date": "2017-10-18"
+        }
+    ],
+    "References": [
+        "Secrest et al (2015 ApJS, 221, 12)",
+        "N. Blagorodnvoa in TNS Classification Report No. 1265",
+        "Vanden Berk et al. 2001, AJ, 122, 549",
+        "Kalberla et al. 2005 A&A, 440, 775",
+        "Schlafly et al. 2011 ApJ, 737, 103",
+        "Swift team",
+        "ESA Gaia, DPAC and the Photometric Science Alerts Team (Rixon et al, 2014, ATel #6593)"
+    ],
+    "Event Type": "AGN flare",
+    "Time": null,
+    "Date": "2017-10-18",
+    "Telescope": [
+        {
+            "Name": "Palomar 1.5m telescope",
+            "Instrument": "SED-Machine",
+            "Date": "2017-10-03"
+        },
+        {
+            "Name": "Very Large Telescope (VLT)",
+            "Instrument": "FORS2",
+            "Date": "2017-10-05"
+        },
+        {
+            "Name": "Swift",
+            "Instrument": "Swift/XRT",
+            "Date": "2017-10-18"
+        }
+    ],
+    "Observatory": [
+        "ESO/VLT"
+    ]
+}

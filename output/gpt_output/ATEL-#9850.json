@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ol",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027",
+            "Type": "Type Ia SN",
+            "Time": "December 12.1",
+            "Date": "2016"
+        },
+        {
+            "Name": "ASASSN-16oq",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019920",
+            "Type": "Type Ia SN",
+            "Time": "December 12.3",
+            "Date": "2016"
+        }
+    ],
+    "References": [
+        "ATel #9826",
+        "ATel #9838",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": null,
+    "Time": "December 12.1 and 12.3",
+    "Date": "2016",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman Spectrograph",
+    "Observatory": null
+}

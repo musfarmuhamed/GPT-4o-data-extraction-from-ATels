@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17329-2731",
+            "RA": 263.211131,
+            "Dec": -27.500414,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2017-08-10"
+        },
+        {
+            "Name": "Star 3",
+            "RA": 263.211131,
+            "Dec": -27.500414,
+            "redshift": null,
+            "Type": "Variable star",
+            "Time": null,
+            "Date": "2017-08-18"
+        },
+        {
+            "Name": "Star 4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Variable star",
+            "Time": null,
+            "Date": "2017-08-18"
+        },
+        {
+            "Name": "OGLE-2016-BLG-0656",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2016-04-28"
+        }
+    ],
+    "References": [
+        "ATel #10644",
+        "ATel #10645",
+        "ATel #10653"
+    ],
+    "Event Type": "New X-ray source detection and follow-up observations",
+    "Time": null,
+    "Date": "2017-08-10",
+    "Telescope": "Faulkes telescopes, LCO telescopes",
+    "Instrument": null,
+    "Observatory": "Las Cumbres Observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "July 30.1 UT",
+            "Date": "July 30"
+        },
+        {
+            "Name": "Progenitor star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10524",
+        "ATel #10527",
+        "ATel #10558",
+        "ATel #10572",
+        "ATel #10613",
+        "ATel #10636"
+    ],
+    "Event Type": "nova discovery and evolution",
+    "Time": "July 30.1 UT",
+    "Date": "July 30",
+    "Telescope": [
+        "Varese 0.6m",
+        "Asiago 1.22m",
+        "Asiago 1.82m",
+        "Swift Telecope"
+    ],
+    "Instrument": [
+        "Photometric telescopes 210",
+        "Photometric telescopes 606"
+    ],
+    "Observatory": [
+        "Atacama, Chile",
+        "Monte Baldo, Italy"
+    ]
+}

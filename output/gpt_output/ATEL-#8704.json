@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1736-297",
+            "RA": "17:39:29.87",
+            "Dec": "29:42:10.7",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "970 s",
+            "Date": "Feb. 15, 2016"
+        },
+        {
+            "Name": "1RXS J173930.3-294211 (RX J1739.4-2942)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low mass X-ray binary (LMXB)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "proposed Be counterpart",
+            "RA": "17:39:30.30",
+            "Dec": "-29:42:08.9",
+            "redshift": null,
+            "Type": "Be/X-ray binary candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #744",
+        "ATel #8698",
+        "Motch et al., A&A, 1998, 132, 341"
+    ],
+    "Event Type": "observation",
+    "Time": "970 s",
+    "Date": "Feb. 15, 2016",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "UKSSDC"
+}

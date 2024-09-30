@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018bdp",
+            "RA": "19:05:20.47",
+            "Dec": "08:36:10.15",
+            "redshift": null,
+            "Type": "VSTAR",
+            "Time": "2018-08-14",
+            "Date": "2018-04-28.04"
+        },
+        {
+            "Name": "AT2018fct",
+            "RA": "17:57:03.78",
+            "Dec": "-33:56:09.89",
+            "redshift": null,
+            "Type": "star/ULENS",
+            "Time": "2018-09-16",
+            "Date": "2018-08-13.24"
+        },
+        {
+            "Name": "AT2018fmx",
+            "RA": "18:55:09.13",
+            "Dec": "-06:39:48.71",
+            "redshift": null,
+            "Type": "star/ULENS",
+            "Time": "2018-09-01",
+            "Date": "2018-08-23.14"
+        },
+        {
+            "Name": "AT2018fux",
+            "RA": "17:12:19.01",
+            "Dec": "-40:02:51.47",
+            "redshift": null,
+            "Type": "Be star",
+            "Time": "2018-09-16",
+            "Date": "2018-09-02.69"
+        },
+        {
+            "Name": "AT2018glo",
+            "RA": "08:14:10.25",
+            "Dec": "-33:28:38.78",
+            "redshift": null,
+            "Type": "Ae/Be star",
+            "Time": "2018-09-20",
+            "Date": "2018-09-11.05"
+        },
+        {
+            "Name": "AT2018gcs",
+            "RA": "18:23:30.92",
+            "Dec": "-07:19:57.76",
+            "redshift": null,
+            "Type": "star/ULENS",
+            "Time": "2018-09-28",
+            "Date": "2018-09-05.89"
+        }
+    ],
+    "References": "http://gsaweb.ast.cam.ac.uk/alerts",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ESO/VLT",
+    "Instrument": "X-Shooter",
+    "Observatory": "ESO"
+}

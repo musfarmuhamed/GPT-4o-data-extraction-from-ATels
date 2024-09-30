@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kz (AT 2016gsb)",
+            "RA": "06:04:28.14",
+            "Dec": "-20:20:24.95",
+            "redshift": "0.009650",
+            "Type": "supernova",
+            "Time": "UT 2016-09-29.28",
+            "Date": "2016-09-29"
+        },
+        {
+            "Name": "ESO 555-G029",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.009650",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "new transient source discovery",
+    "Time": "UT 2016-09-29.28",
+    "Date": "2016-09-29",
+    "Telescope": "Cassius",
+    "Instrument": "14-cm telescope",
+    "Observatory": "Cerro Tololo"
+}

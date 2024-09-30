@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01756",
+            "Type": "radio galaxy",
+            "Time": null,
+            "Date": "2016-10-29"
+        },
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01756",
+            "Type": "radio galaxy",
+            "Time": "05:00 UTC - 10:00 UTC",
+            "Date": "2016-10-30"
+        }
+    ],
+    "References": [
+        "Aleksic et al. 2014, A&A 564, A5",
+        "Benbow et al. 2015 https://arxiv.org/abs/1508.07251",
+        "ATel #9689"
+    ],
+    "Event Type": "elevated very-high-energy gamma-ray emission",
+    "Time": "05:00 UTC - 10:00 UTC",
+    "Date": "2016-10-29 - 2016-10-30",
+    "Telescope": "VERITAS",
+    "Instrument": null,
+    "Observatory": "Fred Lawrence Whipple Observatory"
+}

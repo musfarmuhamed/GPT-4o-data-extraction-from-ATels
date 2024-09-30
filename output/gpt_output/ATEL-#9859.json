@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16oh",
+            "RA": "01:57:43.64",
+            "Dec": "-73:37:32.5",
+            "redshift": "+223 +/- 15 km/s",
+            "Type": "Transient",
+            "Time": "12:02.15",
+            "Date": "2016-12-02"
+        },
+        {
+            "Name": "AT 2016irh",
+            "RA": "01:57:43.64",
+            "Dec": "-73:37:32.5",
+            "redshift": "+223 +/- 15 km/s",
+            "Type": "Transient",
+            "Time": "12:02.15",
+            "Date": "2016-12-02"
+        }
+    ],
+    "References": "TNS page for ASASSN-16oh/AT 2016irh",
+    "Event Type": "Transient Detection",
+    "Time": "12:02.15",
+    "Date": "2016-12-02",
+    "Telescope": "Cassius",
+    "Instrument": "RSS",
+    "Observatory": "Cerro Tololo, Chile"
+}

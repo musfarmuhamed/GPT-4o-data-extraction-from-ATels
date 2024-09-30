@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-009",
+            "RA": "4:36:08.21",
+            "Dec": "-66:09:41.2",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-010",
+            "RA": "3:49:19.65",
+            "Dec": "-72:33:34.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-011",
+            "RA": "4:47:10.92",
+            "Dec": "-64:02:36.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013, ATel #4734",
+    "Event Type": "supernova candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

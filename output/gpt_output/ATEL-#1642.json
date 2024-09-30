@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J203225+602837",
+            "RA": "20:32:24.70",
+            "Dec": "+60:28:37.2",
+            "redshift": null,
+            "Type": "CV candidate",
+            "Time": "16.4 mag",
+            "Date": "2008 Jul 19.2 UT"
+        },
+        {
+            "Name": "ROTSE3 J203225+602837",
+            "RA": "20:32:24.70",
+            "Dec": "+60:28:37.2",
+            "redshift": null,
+            "Type": "CV candidate",
+            "Time": "16.7 mag",
+            "Date": "2008 Jul 24.3 UT"
+        },
+        {
+            "Name": "ROTSE3 J203225+602837",
+            "RA": "20:32:24.70",
+            "Dec": "+60:28:37.2",
+            "redshift": null,
+            "Type": "CV candidate",
+            "Time": "limiting magnitude of ~17.7",
+            "Date": "2008 Jul 15.2 UT"
+        }
+    ],
+    "References": "http://rotse.net/rsvp/cv2032+6028.jpg",
+    "Event Type": "discovery of CV candidate",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas"
+}

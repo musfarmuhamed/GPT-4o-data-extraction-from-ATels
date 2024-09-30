@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0639+0548",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Transient gamma-ray source",
+            "Time": "Null",
+            "Date": "2012-06-22"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Nova",
+            "Time": "Null",
+            "Date": "2012-08-09"
+        }
+    ],
+    "References": [
+        "ATel #4310",
+        "ATel #4224",
+        "CBET #3202",
+        "ATel #4320"
+    ],
+    "Event Type": "Transient gamma-ray source association with Nova",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Karl G. Jansky Very Large Array"
+}

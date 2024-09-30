@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J122149.13-035808.6",
+            "RA": "12h 21m 49.13s",
+            "Dec": "-03d 58m 08.6s",
+            "redshift": null,
+            "Type": "optical flare",
+            "Time": "2015-05-16.867",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "AT20G J122148-035808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J111357.37-465849.1",
+            "RA": "11h 13m 57.37s",
+            "Dec": "-46d 58m 49.1s",
+            "redshift": null,
+            "Type": "possible SuperNova or Dwarf Nova",
+            "Time": "2015-05-17.85703",
+            "Date": "2015-05-17"
+        },
+        {
+            "Name": "2MASX J11135724-4659145",
+            "RA": null,
+            "Dec": null,
+            "redshift": "13145",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-SAAO auto-detection system"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

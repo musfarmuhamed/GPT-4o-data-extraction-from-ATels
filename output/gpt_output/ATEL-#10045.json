@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J183627.60-473518.1",
+            "RA": "18h 36m 27.60s",
+            "Dec": "-47d 35m 18.1s",
+            "redshift": "Null",
+            "Type": "possibly dwarf nova outburst",
+            "Time": "08:37:10.668, 08:48:34.421, 08:38:15.671",
+            "Date": "2017-02-02, 2017-02-02, 2017-02-03"
+        }
+    ],
+    "References": [
+        {
+            "Name": "USNO-B1",
+            "RA": "Null",
+            "Dec": "Null",
+            "R1": "20.02",
+            "B2": "18.65"
+        },
+        {
+            "Name": "Fermi 507696568",
+            "RA": "Null",
+            "Dec": "Null",
+            "Date": "2017-02-02",
+            "Time": "02:49:23.77"
+        }
+    ],
+    "Event Type": "OT source detection",
+    "Time": "02:49:23.77",
+    "Date": "2017-02-02",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

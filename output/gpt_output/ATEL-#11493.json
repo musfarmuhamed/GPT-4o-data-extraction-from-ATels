@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18gi",
+            "RA": "13:14:25.49",
+            "Dec": "+50:58:40.84",
+            "redshift": "0.0297",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-03-26"
+        },
+        {
+            "Name": "SN2018amo",
+            "RA": "13:14:25.49",
+            "Dec": "+50:58:40.84",
+            "redshift": "0.0297",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-03-28"
+        },
+        {
+            "Name": "ATLAS18mtp",
+            "RA": "16:15:00.80",
+            "Dec": "+31:04:19.01",
+            "redshift": "0.0226",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-28"
+        },
+        {
+            "Name": "SN2018anh",
+            "RA": "16:15:00.80",
+            "Dec": "+31:04:19.01",
+            "redshift": "0.0226",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-29"
+        },
+        {
+            "Name": "Gaia18asm",
+            "RA": "05:11:32.56",
+            "Dec": "+18:47:35.99",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2018-03-25"
+        },
+        {
+            "Name": "AT2018amv",
+            "RA": "05:11:32.56",
+            "Dec": "+18:47:35.99",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2018-03-29"
+        },
+        {
+            "Name": "ATLAS18muy",
+            "RA": "08:36:31.45",
+            "Dec": "-11:49:40.73",
+            "redshift": "0.0197",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-28"
+        },
+        {
+            "Name": "SN2018ant",
+            "RA": "08:36:31.45",
+            "Dec": "-11:49:40.73",
+            "redshift": "0.0197",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2018-03-30"
+        }
+    ],
+    "References": "Blagorodnova et. al. 2018, PASP, 130, 5003; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "bright transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60) telescope",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

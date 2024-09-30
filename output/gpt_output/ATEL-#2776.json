@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10qjq",
+            "RA": "17:07:12.39",
+            "Dec": "+35:30:35.3",
+            "redshift": 0.029,
+            "Type": "Type Ia Supernova",
+            "Time": "02.2 UT",
+            "Date": "Aug. 02"
+        },
+        {
+            "Name": "PTF10qjl",
+            "RA": "16:39:59.33",
+            "Dec": "+12:06:25.5",
+            "redshift": 0.058,
+            "Type": "Type Ia Supernova",
+            "Time": "01.2 UT",
+            "Date": "Aug. 01"
+        }
+    ],
+    "References": "ATEL#1964, Howell et al. 2005, ToO program \"Verifying the Utility of Type Ia Supernovae as Cosmological Probes: Evolution and Dispersion in the Ultraviolet Spectra\" (PI: R. Ellis)",
+    "Event Type": "Discovery and Spectral Classification",
+    "Time": "Night of Aug. 02 UT",
+    "Date": "Aug. 02",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": "Hubble Space Telescope (HST)"
+}

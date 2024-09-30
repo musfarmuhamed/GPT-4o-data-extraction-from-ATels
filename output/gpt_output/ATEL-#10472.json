@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017eaw",
+            "RA": "20h34m44.2370s",
+            "Dec": "+60d11'35.911\"",
+            "redshift": null,
+            "Type": "Core collapse supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10421, ATel #10381, Bose & Kumar 2014",
+    "Event Type": "Observation",
+    "Time": [
+        {
+            "Start": "May 29.55",
+            "End": "May 30.33"
+        },
+        {
+            "Start": "May 30.81",
+            "End": "May 31.35"
+        },
+        {
+            "Start": "June 1.71",
+            "End": "June 2.33"
+        }
+    ],
+    "Date": [
+        "May 29, 2017",
+        "May 30, 2017",
+        "June 1, 2017"
+    ],
+    "Telescope": "e-MERLIN",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-462",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "03:45 UT",
+            "Date": "2006-01-21"
+        }
+    ],
+    "References": [
+        "ATEL #696",
+        "#700",
+        "#702",
+        "#703",
+        "#704",
+        "#706"
+    ],
+    "Event Type": "Galactic Plane Scan",
+    "Time": "03:45 UT",
+    "Date": "2006-01-21",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS",
+        "ISGRI"
+    ],
+    "Observatory": "INTEGRAL Observatory"
+}

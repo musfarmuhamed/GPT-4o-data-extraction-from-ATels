@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB980425",
+            "RA": 293.65,
+            "Dec": -52.81,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "21:49:11",
+            "Date": "April 25"
+        }
+    ],
+    "References": null,
+    "Event Type": "GRB",
+    "Time": "21:49:11",
+    "Date": "April 25",
+    "Telescope": "BeppoSAX",
+    "Instrument": [
+        "GRBM",
+        "WFC2",
+        "NFI"
+    ],
+    "Observatory": "BeppoSAX"
+}

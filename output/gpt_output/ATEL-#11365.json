@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ds",
+            "RA": "17:03:47.509",
+            "Dec": "-38:16:57.14",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVV J170347.58-381658.3",
+            "RA": "17:03:47.559",
+            "Dec": "-38:16:58.31",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. (ATel #11348)",
+        "Schmidtobreick et al. 2018 (ATel #11360)",
+        "Aydi et al. 2018 (ATel #11364)",
+        "Minniti et al. 2010 (New Astronomy, 15, 433)",
+        "Schlafly et al. 2011 (ApJ 737, 103S)",
+        "Cardelli et al. 1989 (ApJ, 345, 245)",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "Galactic Nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "ESO NTT",
+        "SALT"
+    ],
+    "Instrument": null,
+    "Observatory": "VVV Survey (VISTA telescope)"
+}

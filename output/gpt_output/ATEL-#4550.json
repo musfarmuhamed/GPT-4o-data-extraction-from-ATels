@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12fww",
+            "RA": "04 10 08.28",
+            "Dec": "-34 09 54.1",
+            "redshift": 0.0,
+            "Type": "stellar",
+            "Time": null,
+            "Date": "20121025"
+        },
+        {
+            "Name": "LSQ12fvl",
+            "RA": "05 00 50.04",
+            "Dec": "-38 39 11.3",
+            "redshift": 0.056,
+            "Type": "Ia",
+            "Time": "few days before max.",
+            "Date": "20121101"
+        },
+        {
+            "Name": "LSQ12fwt",
+            "RA": "03 36 11.23",
+            "Dec": "-37 25 33.3",
+            "redshift": 0.136,
+            "Type": "Ia",
+            "Time": "around a week after max.",
+            "Date": "20121017"
+        },
+        {
+            "Name": "LSQ12ftd",
+            "RA": "04 16 58.69",
+            "Dec": "-24 08 40.8",
+            "redshift": 0.092,
+            "Type": "Ia",
+            "Time": "around a week after max.",
+            "Date": "20121026"
+        },
+        {
+            "Name": "LSQ12fui",
+            "RA": "04 43 48.41",
+            "Dec": "-13 18 05.0",
+            "redshift": 0.027,
+            "Type": "IIP",
+            "Time": "a few months after explosion",
+            "Date": "20121031"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org; Hadjiyska et al., ATel #3812",
+    "Event Type": "transient classifications",
+    "Time": "2012 November 5th",
+    "Date": "2012 November 5th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0458-02 (also known as S3 0458-02, DA 157, OA 141, and 3FGL J0501.2-0157)",
+            "RA": "75.303374 deg",
+            "Dec": "-1.987293 deg",
+            "redshift": "2.286",
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": "18:00-24:00 UT",
+            "Date": "24 August 2015"
+        },
+        {
+            "Name": "PKS 0458-02",
+            "RA": "75.303374 deg",
+            "Dec": "-1.987293 deg",
+            "redshift": "2.286",
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": null,
+            "Date": "23 August 2015"
+        },
+        {
+            "Name": "PKS 0458-02",
+            "RA": "75.303374 deg",
+            "Dec": "-1.987293 deg",
+            "redshift": "2.286",
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": null,
+            "Date": "26 August 2015"
+        }
+    ],
+    "References": "Johnston et al. 1995, AJ, 110, 880; Strittmatter et al. 1974, ApJ, 190, 509; Acero et al. 2015, ApJS 218, 23; ATel#4396; ATel#5951",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "18:00-24:00 UT",
+    "Date": "24 August 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA, DOE and many scientific institutions across France, Italy, Japan and Sweden"
+}

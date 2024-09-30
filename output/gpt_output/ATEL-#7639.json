@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "14:27:58 UTC",
+            "Date": "2015-06-15"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-05-23"
+        }
+    ],
+    "References": [
+        "AGILE (ATel #7631)",
+        "Vaidehi S. Paliya et al., ApJ 803, 2015",
+        "M. Hayashida et. al., arXiv:1502.04699",
+        "Schlegel et al. 1998",
+        "Schlafly et al. 2011",
+        "Fermi ATel #7633"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "14:27:58 UTC",
+    "Date": "2015-06-15",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

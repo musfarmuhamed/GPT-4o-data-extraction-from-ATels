@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "12:49:36 UT",
+            "Date": "January 26, 2010"
+        },
+        {
+            "Name": "NGC 6440 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #2360",
+        "Pooley et al. 2002, ApJ 573, 184",
+        "Altamirano et al. 2008, 674, 45A",
+        "Altamirano et al. 2009, arXiv:0911.0435v1",
+        "Patruno et al. 2009, ApJ 690, 1856"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "December 28",
+    "Telescope": "RXTE",
+    "Instrument": null,
+    "Observatory": "MAXI/GSC"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh",
+            "RA": "22:02:15.45",
+            "Dec": "-61:39:34.64",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "2015-06-14.25",
+            "Date": "2015-06-14"
+        },
+        {
+            "Name": "APMUKS(BJ) B215839.70-615403.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "Discovery of a transient source",
+    "Time": "2015-06-14.25",
+    "Date": "2015-06-14",
+    "Telescope": [
+        "Cassius telescope",
+        "30cm telescope",
+        "LCOGT 1-m robotic telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Cerro Tololo",
+        "Mt. Vernon Observatory"
+    ]
+}

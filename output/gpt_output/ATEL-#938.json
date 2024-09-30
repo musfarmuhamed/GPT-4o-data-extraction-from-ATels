@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Variable star in Taurus",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SU UMa dwarf nova",
+            "Time": null,
+            "Date": {
+                "Start": "2006-10-28",
+                "End": "2006-11-03"
+            }
+        }
+    ],
+    "References": "CBET #701",
+    "Event Type": "Time-resolved CCD photometry",
+    "Time": null,
+    "Date": {
+        "Start": "2006-10-28",
+        "End": "2006-11-03"
+    },
+    "Telescope": "Mount Laguna Observatory 1-m reflector",
+    "Instrument": "CCD",
+    "Observatory": "Mount Laguna Observatory"
+}

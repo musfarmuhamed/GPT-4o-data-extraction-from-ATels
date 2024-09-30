@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13bz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "dwarf nova",
+            "Time": "13.05 UT",
+            "Date": "Aug 13",
+            "Event Type": "optical spectrogram"
+        }
+    ],
+    "References": [
+        "ATel #5267",
+        "ATel #5273",
+        "http://graspa.oapd.inaf.it"
+    ],
+    "Event Type": "optical spectrogram",
+    "Time": "13.05 UT",
+    "Date": "Aug 13",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

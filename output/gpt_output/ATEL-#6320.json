@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ds (or 1RXS J204455.9-115151)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "19:06 - 21:03",
+            "Date": "2014-07-11"
+        },
+        {
+            "Name": "ASASSN-14ds (or 1RXS J204455.9-115151)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "14:19 - 14:34",
+            "Date": "2014-07-15"
+        }
+    ],
+    "References": [
+        "Atels #6306",
+        "Atels #6312"
+    ],
+    "Event Type": "optical transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

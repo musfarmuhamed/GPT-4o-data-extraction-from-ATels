@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13cmf",
+            "RA": "22:15:03.64",
+            "Dec": "+16:25:56.7",
+            "redshift": "~0.065",
+            "Type": "SN Ia",
+            "Time": "few days past max",
+            "Date": "2013-09-24"
+        },
+        {
+            "Name": "LSQ13cki",
+            "RA": "21:18:14.98",
+            "Dec": "-03:07:47.1",
+            "redshift": "~0.124",
+            "Type": "SN Ia",
+            "Time": "1 week before max",
+            "Date": "2013-09-24"
+        },
+        {
+            "Name": "LSQ-13cmt",
+            "RA": "01:02:41.95",
+            "Dec": "-21:52:23.4",
+            "redshift": "~0.057",
+            "Type": "SN Ia",
+            "Time": "~1 week before max",
+            "Date": "2013-10-03"
+        },
+        {
+            "Name": "OGLE-2013-SN-079",
+            "RA": "00:35:10.20",
+            "Dec": "-67:41:08.4",
+            "redshift": "Null",
+            "Type": "SN I",
+            "Time": "Null",
+            "Date": "2013-09-20"
+        },
+        {
+            "Name": "OGLE-2013-SN-080",
+            "RA": "01:02:33.23",
+            "Dec": "-76:27:24.1",
+            "redshift": "0.103",
+            "Type": "SN Ia",
+            "Time": "few days before max",
+            "Date": "2013-09-18"
+        },
+        {
+            "Name": "PS1-13dhn",
+            "RA": "00:12:46.93",
+            "Dec": "+04:40:34.0",
+            "redshift": "~0.043",
+            "Type": "SN II",
+            "Time": "~few weeks",
+            "Date": "2013-09-24"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495",
+        "Valenti et al., ATel #2668",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Yaron & Gal-Yam, 2012, PASP, 124, 668"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2013-10-04",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

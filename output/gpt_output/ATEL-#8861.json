@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bkv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II or potentially Type IIn",
+            "Time": "March 23.3 UT",
+            "Date": null
+        },
+        {
+            "Name": "NGC 3184",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "K. Itagaki",
+        "Hossein Het al. (ATel #8859)",
+        "Strauss et al. 1992, ApJS, 83, 29",
+        "McLeod et al. 2012, PASP, 124, 1318",
+        "Chilingarian et al. 2015, PASP, 127, 406",
+        "Filippenko (Proposal ID 8602)",
+        "Hubble Legacy Archive"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "March 23.3 UT",
+    "Telescope": "MMT 6.5m telescope",
+    "Instrument": "MMIRS",
+    "Observatory": "MMT and Magellan Infrared Spectrograph"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018jgw",
+            "RA": "01:47:18.9",
+            "Dec": "-32:21:35.8",
+            "redshift": 0.097,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20181129"
+        },
+        {
+            "Name": "SN2018jhf",
+            "RA": "00:35:54.7",
+            "Dec": "-75:38:15.6",
+            "redshift": 0.058,
+            "Type": "? (either a SN Ia (91T-like) or SN Ic)",
+            "Time": null,
+            "Date": "20181122"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al., 2011, PASP, 123, 58; Wyrzykowski et al., 2014 arxiv:1409.1095; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383;",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 December 3",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

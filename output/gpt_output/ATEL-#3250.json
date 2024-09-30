@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J164449.3+573451/GRB 110328A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:26:25.19UT",
+            "Date": "2011-Mar-29"
+        },
+        {
+            "Name": "Swift J164449.3+573451/GRB 110328A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "19:57:45.19UT",
+            "Date": "2011-Mar-29"
+        },
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kennea et al, ATEL #3242",
+        "Sakamoto et al., GCN Circ #11842",
+        "Israel & Stella 1996,ApJ, 468, 369",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Kimura et al., ATEL #3244",
+        "Negoro et al., ATEL #2873",
+        "Levan et al., GCN Circ #11833",
+        "Thoene et al., GCN Circ #11834"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": "12:57UT",
+    "Date": "2011-Mar-28",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

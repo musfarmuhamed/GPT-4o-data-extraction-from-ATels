@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553144+6903574",
+            "RA": "9h55m31s.44",
+            "Dec": "+69o03'57\".4",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "04.205 UT",
+            "Date": "2014 Nov. 4"
+        },
+        {
+            "Name": "PNV J09554328+6902033",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09554415+6902557",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09555775+6902126",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09552058+6902587",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6599",
+        "ATel #6597",
+        "ATel #6552",
+        "ATel #6496"
+    ],
+    "Event Type": "Discovery of a nova in M81",
+    "Time": "04.205 UT",
+    "Date": "2014 Nov. 4",
+    "Telescope": "Isaac Newton Telescope",
+    "Instrument": "WFC",
+    "Observatory": "Observatorio del Roque de los Muchachos (La Palma)"
+}

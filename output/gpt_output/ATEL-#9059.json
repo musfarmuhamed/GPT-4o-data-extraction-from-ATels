@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fg",
+            "RA": "00:05:16.124",
+            "Dec": "-16:29:33.00",
+            "redshift": "0.024887",
+            "Type": "supernovae",
+            "Time": "2016-05-16.310",
+            "Date": "2016-05-16"
+        },
+        {
+            "Name": "ASASSN-16fh",
+            "RA": "00:02:05.603",
+            "Dec": "-26:58:48.34",
+            "redshift": "0.033497",
+            "Type": "supernovae",
+            "Time": "2016-05-15.42",
+            "Date": "2016-05-15"
+        }
+    ],
+    "References": [
+        "Discovery by J. Brimacombe",
+        "ASAS-SN project acknowledgements"
+    ],
+    "Event Type": "discovery of transient sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Cassius telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

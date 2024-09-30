@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Candidate 1",
+            "RA": "0h43m44s.10",
+            "Dec": "+41o37'23\".08",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "07.746 UT",
+            "Date": "2018-03-07"
+        },
+        {
+            "Name": "Nova Candidate 2",
+            "RA": "0h45m21s.33",
+            "Dec": "+41o12'28\".66",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "07.746 UT",
+            "Date": "2018-03-07"
+        }
+    ],
+    "References": "NSF Bulgaria grant DN18/10-11.12.2017",
+    "Event Type": "Discovery",
+    "Time": "07.746 UT",
+    "Date": "2018-03-07",
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

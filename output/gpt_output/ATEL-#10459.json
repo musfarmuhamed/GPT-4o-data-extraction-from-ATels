@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary, microquasar",
+            "Time": null,
+            "Date": "2016-2017"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#3546",
+        "#7322",
+        "#9089",
+        "#10322",
+        "#10446"
+    ],
+    "Event Type": "Monitoring",
+    "Time": null,
+    "Date": "2016-2017",
+    "Telescope": "RATAN-600",
+    "Instrument": null,
+    "Observatory": null
+}

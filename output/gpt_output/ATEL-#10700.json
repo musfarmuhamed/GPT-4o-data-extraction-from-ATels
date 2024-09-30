@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 170902A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible GRB or Galactic Transient",
+            "Time": "20:00:36UT",
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1535-571",
+            "RA": "233.83222",
+            "Dec": "-57.23004",
+            "redshift": null,
+            "Type": "Galactic Transient",
+            "Time": "23:55UT",
+            "Date": "September 2nd, 2017"
+        }
+    ],
+    "References": "GCN #21788, ATEL #10699",
+    "Event Type": "Outburst",
+    "Time": "20:00:36UT",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

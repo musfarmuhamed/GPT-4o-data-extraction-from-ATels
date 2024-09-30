@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": "2014-01-15"
+        },
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3792",
+        "ATel #5835",
+        "Zheng et al. 2014, ApJ 783, L24"
+    ],
+    "Event Type": "Radio-active decay of Co56 detection",
+    "Time": null,
+    "Date": "2014-03-03 to 2014-03-19",
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

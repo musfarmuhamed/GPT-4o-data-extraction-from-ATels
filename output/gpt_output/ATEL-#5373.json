@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS130905:012822-075122",
+            "RA": "01:28:21.91",
+            "Dec": "-07:51:22.0",
+            "redshift": "~0.05",
+            "Type": "SN Ia",
+            "Time": "UT",
+            "Date": "2013-09-06"
+        },
+        {
+            "Name": "LSQ13bwx",
+            "RA": "05:03:05.23",
+            "Dec": "-24:04:22.9",
+            "redshift": "~0.04",
+            "Type": "SN II",
+            "Time": "UT",
+            "Date": "2013-09-06"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org; Hadjiyska et al., ATel #3812; http://crts.caltech.edu/",
+    "Event Type": "supernova classifications",
+    "Time": "UT",
+    "Date": "2013-09-06",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

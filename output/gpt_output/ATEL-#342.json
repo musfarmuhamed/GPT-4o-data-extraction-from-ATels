@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17507-2856",
+            "RA": "17h50m44s",
+            "Dec": "-28d56m17s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": "17h50m24s",
+            "Dec": "-29d02m18s",
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXP J175029-2859.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1750.5-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Natalucci et al., ApJ, 1999, 523, L45",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "Sept. 18-23, 2004",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

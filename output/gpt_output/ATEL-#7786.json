@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J182527.58+662528.8",
+            "RA": "18h 25m 27.58s",
+            "Dec": "+66d 25m 28.8s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-07-08.84251 UT",
+            "Date": "2015-07-08"
+        },
+        {
+            "Name": "MASTER OT J202151.88-455950.3",
+            "RA": "20h 21m 51.88s",
+            "Dec": "-45d 59m 50.3s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-07-08.89427 UT",
+            "Date": "2015-07-08"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "dwarf nova outburst",
+    "Time": "2015-07-08.84251 UT",
+    "Date": "2015-07-08",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

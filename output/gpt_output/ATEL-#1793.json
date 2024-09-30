@@ -1,0 +1,163 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0100.9-4750",
+            "RA": "01h00m34.90s",
+            "Dec": "-47d52m03.3s",
+            "redshift": "Null",
+            "Type": "Sy1.8",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0623.8-3215",
+            "RA": "06h23m27.00s",
+            "Dec": "-32d15m00.0s",
+            "redshift": "Null",
+            "Type": "Sy2",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0800.1+2324",
+            "RA": "08h00m36.00s",
+            "Dec": "+23d24m00.0s",
+            "redshift": "Null",
+            "Type": "Sy2",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0923.9-3143",
+            "RA": "09h23m53.71s",
+            "Dec": "-31d41m30.5s",
+            "redshift": "Null",
+            "Type": "Sy1.8",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1513.4-8126",
+            "RA": "15h14m42.17s",
+            "Dec": "-81d23m37.7s",
+            "redshift": "Null",
+            "Type": "Sy1.8",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1620.5+8103",
+            "RA": "16h20m30.00s",
+            "Dec": "+81d03m00.0s",
+            "redshift": "Null",
+            "Type": "Sy2",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0248.7+2626",
+            "RA": "02h48m59.37s",
+            "Dec": "+26d30m39.1s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0543.7-2741",
+            "RA": "05h43m19.80s",
+            "Dec": "-27d41m00.0s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0544.3+5910",
+            "RA": "05h44m22.57s",
+            "Dec": "+59d07m36.1s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J0709.4-1108",
+            "RA": "07h09m42.08s",
+            "Dec": "-11d07m52.7s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1246.9+5433",
+            "RA": "12h46m54.00s",
+            "Dec": "+54d33m00.0s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1439.2+1417",
+            "RA": "14h39m11.86s",
+            "Dec": "+14d15m21.5s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1453.1+2556",
+            "RA": "14h53m07.94s",
+            "Dec": "+25d54m32.7s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J1830.8+0927",
+            "RA": "18h30m50.65s",
+            "Dec": "+09d28m41.4s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J2118.9+3336",
+            "RA": "21h19m29.12s",
+            "Dec": "+33d32m56.6s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        },
+        {
+            "Name": "SWIFT J2341.8+3034",
+            "RA": "23h41m48.00s",
+            "Dec": "+30d34m00.0s",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "15 Dec 2004 - 1 Nov 2006"
+        }
+    ],
+    "References": [
+        "Markwardt et al 2005 ApJL 633, 77",
+        "Tueller et al 2008 ApJ 681, 113"
+    ],
+    "Event Type": "AGN detection",
+    "Time": "Null",
+    "Date": "15 Dec 2004 - 1 Nov 2006",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "Chandra",
+        "XMM"
+    ],
+    "Observatory": "Various"
+}

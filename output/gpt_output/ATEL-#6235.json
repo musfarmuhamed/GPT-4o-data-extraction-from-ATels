@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14cl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "15.0 UT",
+            "Date": "June 15"
+        }
+    ],
+    "References": [
+        "ATel #6233",
+        "Stanek et al. (2014)",
+        "ARAS (Astronomical Ring for Access to Spectroscopy) database"
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": "15.0 UT",
+    "Date": "June 15",
+    "Telescope": "25 cm SC10\" telescope",
+    "Instrument": "slit spectrograph LISA (R = 1000)",
+    "Observatory": null
+}

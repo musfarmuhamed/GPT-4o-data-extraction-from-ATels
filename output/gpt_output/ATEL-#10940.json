@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034412.48-263556.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possibly spatially coincident with GRB171030A",
+            "Time": "2017-11-06.23799",
+            "Date": "2017-11-06"
+        },
+        {
+            "Name": "ATLAS17mzy",
+            "RA": "56.05214 deg",
+            "Dec": "-26.59936 deg",
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": "58055.4547042",
+            "Date": "2017-10-29"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Reference": "Atel #10929"
+        },
+        {
+            "Author": "Wang et al.",
+            "Reference": "ATel #10935"
+        },
+        {
+            "Author": null,
+            "Reference": "ATel #8680"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "17:29:45",
+    "Date": "2017-10-30",
+    "Telescope": "The Asteroid Terrestrial-impact Last Alert System (ATLAS)",
+    "Instrument": null,
+    "Observatory": null
+}

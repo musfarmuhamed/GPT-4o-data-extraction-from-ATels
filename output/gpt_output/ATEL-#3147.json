@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1357.2-0933",
+            "RA": "13:57:16.818",
+            "Dec": "-09:32:38.550",
+            "redshift": null,
+            "Type": "atoll neutron star X-ray binary",
+            "Time": "0.255 arcsec",
+            "Date": "4 Feb 2011"
+        }
+    ],
+    "References": [
+        "Krimm et al 2010, ATEL #3138",
+        "Krimm et al. 2011, ATEL #3142",
+        "Coriat et al. 2011, arXiv:1101.5159",
+        "Rau et al. (ATEL # 3140)"
+    ],
+    "Event Type": "radio detection",
+    "Time": "MJD = 55596.35856 +/- 0.00448",
+    "Date": "4 Feb 2011",
+    "Telescope": "EVLA",
+    "Instrument": null,
+    "Observatory": "New Mexico"
+}

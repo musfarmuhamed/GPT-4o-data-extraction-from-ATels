@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB130427A",
+            "RA": "11h 32m 32.80872s",
+            "Dec": "+27d 41' 56.0203\"",
+            "redshift": null,
+            "Type": "unresolved source",
+            "Time": "15:50 UT till 02:20 UT the next day",
+            "Date": "2013 May 3"
+        },
+        {
+            "Name": "GRB130702A",
+            "RA": "14h 29m 14.77633s",
+            "Dec": "+15d 46' 26.3710\"",
+            "redshift": null,
+            "Type": "unresolved source",
+            "Time": "13:49 UT till 00:05 UT the next day",
+            "Date": "2013 July 15"
+        }
+    ],
+    "References": [
+        "GCN #14448",
+        "#14455",
+        "#14471",
+        "#14480",
+        "#14494",
+        "#14967",
+        "#14971",
+        "#14972",
+        "#14973",
+        "#14979",
+        "#14983",
+        "ATel #5189",
+        "#5191"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "European VLBI Network",
+    "Instrument": "e-EVN",
+    "Observatory": "All e-EVN stations in Europe, and the telescopes in Shanghai, Hartebeesthoek and Arecibo"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070822-004",
+            "RA": "03:08:56.43",
+            "Dec": "-11:16:22.6",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "Aug 22.5",
+            "Date": "Aug 22"
+        },
+        {
+            "Name": "SNF20070824-003",
+            "RA": "02:51:40.17",
+            "Dec": "-12:39:31.5",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "Aug 24.5",
+            "Date": "Aug 24"
+        }
+    ],
+    "References": "USNO-B1.0 catalog",
+    "Event Type": "discovery of supernovae",
+    "Time": "Aug 22 through Aug 24",
+    "Date": "Aug 22 through Aug 24",
+    "Telescope": "Palomar Oschin 48-inch",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "University of Hawaii 2.2-meter telescope"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034216.27+385906.0",
+            "RA": "03h 42m 16.27s",
+            "Dec": "+38d 59m 06.0s",
+            "redshift": "Null",
+            "Type": "flare of blazar",
+            "Time": "2013-03-07.46815 UT",
+            "Date": "2013-03-07"
+        },
+        {
+            "Name": "MASTER OT J134111.60+140348.8",
+            "RA": "13h 41m 11.60s",
+            "Dec": "+14d 03m 48.8s",
+            "redshift": "Null",
+            "Type": "flare star of UV Ceti type",
+            "Time": "2013-03-07.64100 UT",
+            "Date": "2013-03-07"
+        },
+        {
+            "Name": "MASTER OT J111154.50+453214.9",
+            "RA": "11h 11m 54.50s",
+            "Dec": "+45d 32m 14.9s",
+            "redshift": "z=0.02846",
+            "Type": "PSN",
+            "Time": "2013-03-07.82440 UT",
+            "Date": "2013-03-07"
+        }
+    ],
+    "References": "Abdo et al., 2010; Ofek et al., 2011",
+    "Event Type": "Discovery of OT source",
+    "Time": "Multiple timestamps specified for individual objects",
+    "Date": "2013-03-07",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

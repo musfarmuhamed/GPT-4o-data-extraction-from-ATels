@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "10.6992(10) mHz",
+            "Date": "2013 April 30th"
+        }
+    ],
+    "References": [
+        "ATel #4564",
+        "ATel #3254",
+        "ATel #4319",
+        "ATel #4561",
+        "ATel #4573",
+        "Wilson et al. 1994",
+        "Stollberg et al. 1993",
+        "Kuehnel et al. 2013"
+    ],
+    "Event Type": "type I outburst",
+    "Time": null,
+    "Date": "2013 April 30th",
+    "Telescope": [
+        "Swift/BAT",
+        "MAXI/GSC",
+        "Fermi/GBM"
+    ],
+    "Instrument": [
+        "Hard X-ray Transient Monitor",
+        "GSC soft X-ray lightcurves",
+        "12-50 keV data"
+    ],
+    "Observatory": null
+}

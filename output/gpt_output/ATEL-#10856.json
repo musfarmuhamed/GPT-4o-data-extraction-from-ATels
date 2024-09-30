@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GW event, NS-NS merger",
+            "Time": null,
+            "Date": "2017"
+        },
+        {
+            "Name": "SSS17a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart to GW event",
+            "Time": null,
+            "Date": "2017 August 17 UT"
+        },
+        {
+            "Name": "AT2017gfo",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart to GW event",
+            "Time": null,
+            "Date": "2017"
+        }
+    ],
+    "References": [
+        "Abbott et al. 2017, PRL, 119, 161101",
+        "Coulter et al. 2017, GCN#21529",
+        "Rabinowitz and Baltay GCN#21599",
+        "Tonry et al. 2017, GCN#21886",
+        "Moller, Chang and Wolf GCN#21542",
+        "Cowperthwaite, Foley and Berger 2017, GCN#21533"
+    ],
+    "Event Type": "GW event associated with NS-NS merger",
+    "Time": null,
+    "Date": "2017",
+    "Telescope": "Siding Spring Survey, Catalina Schmidt",
+    "Instrument": null,
+    "Observatory": "Siding Spring Observatory"
+}

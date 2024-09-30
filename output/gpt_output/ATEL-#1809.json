@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": "17:53:31.97",
+            "Dec": "-23:49:12.32",
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17536-2339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #1799",
+        "Atel #790",
+        "in 't Zand et al. 1998, Nucl. Phys. B 69",
+        "Gehrels (1986, ApJ 303)"
+    ],
+    "Event Type": "Observation",
+    "Time": "~1 ksec",
+    "Date": "2008-10-23",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

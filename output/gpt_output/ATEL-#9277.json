@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16avw",
+            "RA": "16:52:54.20",
+            "Dec": "-42:17:47.90",
+            "redshift": "0.0",
+            "Type": "star",
+            "Time": null,
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "PS16dcy",
+            "RA": "22:14:00.52",
+            "Dec": "-26:59:11.60",
+            "redshift": "0.090",
+            "Type": "SNIa",
+            "Time": "+6 days",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "PS16dgy",
+            "RA": "22:23:50.16",
+            "Dec": "-17:48:37.80",
+            "redshift": "0.092",
+            "Type": "SNIa",
+            "Time": "+4 days",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "PS16ddb",
+            "RA": "22:53:15.15",
+            "Dec": "-22:08:38.40",
+            "redshift": "0.045",
+            "Type": "SNIa",
+            "Time": "+30 days",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "Gaia16awf",
+            "RA": "03:07:53.50",
+            "Dec": "-69:01:47.20",
+            "redshift": "0.036",
+            "Type": "SNIa",
+            "Time": "-8 days",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "Gaia16awd",
+            "RA": "03:16:39.60",
+            "Dec": "-40:15:16.40",
+            "redshift": "0.09",
+            "Type": "SNIa",
+            "Time": "+5 days",
+            "Date": "2016-07-28"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2016-07-28",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR)"
+}

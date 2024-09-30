@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ai",
+            "RA": "12:07:18.83",
+            "Dec": "+16:50:26.02",
+            "redshift": "0.023073",
+            "Type": "supernova",
+            "Time": "2017-01-09.63",
+            "Date": "2017-01-09"
+        },
+        {
+            "Name": "ASASSN-17aj",
+            "RA": "11:33:10.50",
+            "Dec": "-10:13:18.40",
+            "redshift": "0.021275",
+            "Type": "supernova",
+            "Time": "2017-01-09.62",
+            "Date": "2017-01-09"
+        }
+    ],
+    "References": "ASAS-SN and NED",
+    "Event Type": "Discovery of transient sources",
+    "Time": "2017-01-09",
+    "Date": "2017-01-09",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

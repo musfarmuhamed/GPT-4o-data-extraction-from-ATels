@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ESO 243-49 HLX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate mass black hole candidate",
+            "Time": "0.3-10 keV count rate at 2014-01-15",
+            "Date": "2015-01-08"
+        }
+    ],
+    "References": [
+        "Farrell et al. 2009",
+        "Wiersema et al. 2010",
+        "Lasota et al. 2011",
+        "Godet et al. 2012",
+        "Servillat et al. 2011",
+        "Godet et al. 2014"
+    ],
+    "Event Type": "outburst detection",
+    "Time": "2015-01-08",
+    "Date": "2015-01-15",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": null
+}

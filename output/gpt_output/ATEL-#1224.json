@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova",
+            "RA": "03:15:12.10",
+            "Dec": "43:10:13.0",
+            "redshift": 0.05,
+            "Type": "Type Ia",
+            "Time": "18.9 mag on Sep 7.45 UT, 18.1 mag on Sep 14.33 UT, 18th mag for ~9 days, 18.3 mag on Sep 25.24 UT",
+            "Date": "Sep 7.45 UT, Sep 14.33 UT, Sep 25.24 UT"
+        }
+    ],
+    "References": "Patat et al. 1996, MNRAS 278,111",
+    "Event Type": "discovery of a supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45m ROTSE-IIIb telescope, 9.2m Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory, Texas"
+}

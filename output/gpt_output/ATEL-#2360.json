@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": "05:48:20",
+            "Date": "2009-12-28"
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2009-12-22"
+        }
+    ],
+    "References": [
+        "In't Zand et al. 1999, A&A 345, 100",
+        "Verbunt et al. 2000, A&A 359, 960",
+        "Markwardt and Swank 2005, Atel #495",
+        "Heinke et al. 2009, Atel #2139",
+        "Altamirano et al. 2009, arXiv:0911.0435v1",
+        "Heinke et al. 2009, Atel #2143"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2009-12-22",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

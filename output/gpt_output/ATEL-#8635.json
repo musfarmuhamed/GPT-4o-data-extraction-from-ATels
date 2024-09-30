@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 2007+77",
+            "RA": "20h 05m 30.9985s",
+            "Dec": "+77d 52m 43.248s",
+            "redshift": "0.342",
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2016 February 3rd"
+        },
+        {
+            "Name": "5BZB J2005+7752",
+            "RA": "20h 05m 30.9985s",
+            "Dec": "+77d 52m 43.248s",
+            "redshift": "0.342",
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2016 February 3rd"
+        },
+        {
+            "Name": "3FGL J2005.2+7752",
+            "RA": "20h 05m 30.9985s",
+            "Dec": "+77d 52m 43.248s",
+            "redshift": "0.342",
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2016 February 3rd"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015 ApJS, 218, 23",
+        "Ma et al. 1998, AJ, 116, 516",
+        "Stickel et al. 1989, A&AS, 80, 103",
+        "ATel#4751",
+        "ATel#8187"
+    ],
+    "Event Type": "gamma-ray outburst activity detected",
+    "Time": null,
+    "Date": "2016 February 3rd",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA, DOE, and various scientific institutions in France, Italy, Japan, and Sweden"
+}

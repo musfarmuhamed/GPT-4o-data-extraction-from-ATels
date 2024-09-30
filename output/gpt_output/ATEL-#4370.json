@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J22143782+3257187",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028546,
+            "Type": "type-Ia supernova",
+            "Time": "10.89 UT",
+            "Date": "Sept. 10, 2023"
+        },
+        {
+            "Name": "PSN J22440166+1551493",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038073,
+            "Type": "peculiar type-Ia supernova",
+            "Time": "10.95 UT",
+            "Date": "Sept. 10, 2023"
+        },
+        {
+            "Name": "CSS120828:231622+241519",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.1,
+            "Type": "normal type-Ia supernova",
+            "Time": "11.01 UT",
+            "Date": "Sept. 11, 2023"
+        },
+        {
+            "Name": "PSN J04072528+0145333",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017295,
+            "Type": "type-Ia supernova",
+            "Time": "11.13 UT",
+            "Date": "Sept. 11, 2023"
+        }
+    ],
+    "References": [
+        "Huchra et al. 2012, ApJS 199, 26 via NED",
+        "Kochanek et al. 2001, ApJ 560, 566 via NED",
+        "Saunders et al. 2000, MNRAS 317, 55 via NED",
+        "Harutyuyan et al. 2008, A.Ap. 488, 383",
+        "Benetti et al, 2005, ApJ 623, 1011",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmations of transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

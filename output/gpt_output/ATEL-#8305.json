@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01217-7257",
+            "RA": "01:21:40.5",
+            "Dec": "-72:57:32",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "November 7, 2015"
+        },
+        {
+            "Name": "XTE J0119-731",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AzV 503 = [MA93] 1888",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Coe et al. 2014, ATel #5806",
+        "Coe et al. 2015, ATel #8246",
+        "Corbet et al. 2003, IAU Circ. 8064"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "November 7, 2015",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn",
+    "Observatory": null
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": "17:35 - 18:42 UTC",
+            "Date": "June 1"
+        },
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": "00:13 - 00:51 UTC",
+            "Date": "June 2"
+        },
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": "10:56 - 11:46 UTC",
+            "Date": "June 2"
+        }
+    ],
+    "References": "ATEL#505",
+    "Event Type": [
+        "X-ray burst",
+        "Millisecond oscillations",
+        "Broad band-limited noise",
+        "High frequency feature",
+        "kHz QPO"
+    ],
+    "Time": "17:35 - 18:42 UTC, 00:13 - 00:51 UTC, 10:56 - 11:46 UTC",
+    "Date": "June 1 and June 2",
+    "Telescope": "RXTE PCA",
+    "Instrument": "RXTE",
+    "Observatory": "RXTE"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gy/AT2016cyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16hc/AT2016czc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.050972",
+            "Type": "SN1991T-like Type Ia SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9217, ATel #9223",
+    "Event Type": "spectra observation",
+    "Time": null,
+    "Date": "2016 July 11-12",
+    "Telescope": "F. L. Whipple Observatory 1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

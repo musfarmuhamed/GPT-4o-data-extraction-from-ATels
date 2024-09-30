@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017hnj",
+            "RA": "02 38 44.48",
+            "Dec": "-34 48 25.1",
+            "redshift": null,
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20171011"
+        },
+        {
+            "Name": "SN2017hpi",
+            "RA": "08 15 43.46",
+            "Dec": "-28 51 19.8",
+            "redshift": "0.006",
+            "Type": "II",
+            "Time": null,
+            "Date": "20171026"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Smartt et al.",
+            "Year": 2015,
+            "Journal": "A&A",
+            "Volume": 579,
+            "Page": 40,
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Authors": "Tonry et al.",
+            "Year": 2011,
+            "Journal": "PASP",
+            "Volume": 123,
+            "Page": 58
+        },
+        {
+            "Authors": "Tonry et al.",
+            "Entry": "ATel #8680"
+        },
+        {
+            "Authors": "Shappee et al.",
+            "Year": 2014,
+            "Journal": "ApJ",
+            "Volume": 788,
+            "Page": 48,
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Authors": "Blondin & Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20171029",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

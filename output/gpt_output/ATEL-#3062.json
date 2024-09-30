@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S41030+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.4",
+            "Type": "Flat Radio QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J103351.42+605107.3",
+            "RA": "10:33:51.42",
+            "Dec": "+60:51:07.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGRaBS J1033+60518",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGLJ1033.8+6048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2622",
+        "ATel #2625",
+        "ATel #2628"
+    ],
+    "Event Type": "NIR flare",
+    "Time": null,
+    "Date": "November 28, 2010",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

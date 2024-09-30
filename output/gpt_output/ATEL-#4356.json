@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12erl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.073,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12eve",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.098,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12euu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.116,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12euv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.137,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12etc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12eus",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12ers",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.099,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ12erp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "Star?",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification of optical transients",
+    "Time": null,
+    "Date": "2012-Sep-06",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS - Dopita et al., 2007, ApSS, 310, 255)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

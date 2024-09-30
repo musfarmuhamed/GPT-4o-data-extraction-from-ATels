@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17200-3116",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High Mass X-ray Binary (HMXB)",
+            "Time": "328.182(3)s",
+            "Date": "2005 October 26th and 27th, and February 2011"
+        }
+    ],
+    "References": [
+        {
+            "Nichelli et al. 2009": "ATel #2354"
+        },
+        {
+            "Revnivtsev et al. 2004": "AstL, 30, 382"
+        },
+        {
+            "Masetti et al. 2006": "A&A, 459, 21"
+        }
+    ],
+    "Event Type": "Detection of coherent periodic signal",
+    "Time": "328.182(3)s",
+    "Date": "October 2010 and February 2011",
+    "Telescope": "Swift-XRT, Chandra, INTEGRAL",
+    "Instrument": "X-ray light curves",
+    "Observatory": null
+}

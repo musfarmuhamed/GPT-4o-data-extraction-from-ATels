@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018hsh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036962,
+            "Type": "Ia",
+            "Time": "0-5 days post-max.",
+            "Date": "2018-11-11.03"
+        },
+        {
+            "Name": "SN 2018huw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0034,
+            "Type": "Ia",
+            "Time": "2-6 days pre-max.",
+            "Date": "2018-11-11.13"
+        },
+        {
+            "Name": "SN 2018hjn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.020811,
+            "Type": "Ia",
+            "Time": "~10-15 days post-max.",
+            "Date": "2018-11-11.32"
+        },
+        {
+            "Name": "SN 2018hkq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016598,
+            "Type": "Ia",
+            "Time": "3-5 weeks after max.",
+            "Date": "2018-11-11.29"
+        },
+        {
+            "Name": "SN 2018hxf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young CCSN?",
+            "Time": null,
+            "Date": "2018-11-11.22"
+        }
+    ],
+    "References": [
+        "ATel #12170",
+        "ATel #12147",
+        "ATel #12194",
+        "Tonry et al. 2011",
+        "Tonry et al. ATel #8680",
+        "ATel #11266",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic observations and classifications of optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

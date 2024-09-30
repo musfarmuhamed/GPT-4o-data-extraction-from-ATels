@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1011+496",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.212,
+            "Type": "TeV HBL blazar",
+            "Time": "2015-03-12 to 2015-03-16",
+            "Date": "2015-03-12"
+        }
+    ],
+    "References": [
+        "Pacciani et al. 2014, ApJ, 790, 45",
+        "3rd Fermi-LAT point-source catalog",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Swift obsid 00035012033",
+        "ATel 5866 http://www.astronomerstelegram.org/?read=5866",
+        "Swift team and Swift Observatory Duty Scientist"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "2015-03-12 to 2015-03-16",
+    "Date": "2015-03-12",
+    "Telescope": [
+        "FERMI-LAT",
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Instrument": [
+        "FERMI-LAT",
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Observatory": [
+        "Swift Observatory"
+    ]
+}

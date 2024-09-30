@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12blb",
+            "RA": "14:47:58.13",
+            "Dec": "+17:32:05.6",
+            "redshift": 0.052,
+            "Type": "IIP",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bmn",
+            "RA": "14:27:11.30",
+            "Dec": "+18:35:24.4",
+            "redshift": 0.083,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bve",
+            "RA": "12:40:58.32",
+            "Dec": "-05:21:49.0",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bvl",
+            "RA": "14:13:00.65",
+            "Dec": "-05:48:12.2",
+            "redshift": 0.065,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bxp",
+            "RA": "15:32:16.25",
+            "Dec": "-22:28:27.8",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bxu",
+            "RA": "14:27:24.55",
+            "Dec": "-20:54:25.2",
+            "redshift": 0.124,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bxv",
+            "RA": "14:27:15.55",
+            "Dec": "-12:12:42.5",
+            "redshift": 0.098,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12byi",
+            "RA": "15:48:11.38",
+            "Dec": "-03:35:57.5",
+            "redshift": 0.104,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "LSQ12bzs",
+            "RA": "15:13:40.78",
+            "Dec": "-19:26:54.6",
+            "redshift": 0.085,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "CSS120413:132702-014513",
+            "RA": "13:27:02.04",
+            "Dec": "-01:45:12.7",
+            "redshift": 0.084,
+            "Type": "Ia_pec",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "SSS120416:211543-192250",
+            "RA": "21:15:43.27",
+            "Dec": "-19:22:50.1",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        },
+        {
+            "Name": "CSS120419:150732+203260",
+            "RA": "15:07:32.00",
+            "Dec": "+20:32:60.0",
+            "redshift": 0.077,
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2012-04-20"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Hadjiyska et al., ATel #3812; Drake et al., ATel #4011",
+    "Event Type": "Supernova Classifications",
+    "Time": "unknown",
+    "Date": "2012-04-20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2, Grism 13",
+    "Observatory": "La Silla"
+}

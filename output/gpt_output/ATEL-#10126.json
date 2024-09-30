@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic Microquasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "ATel #9416",
+            "Authors": "Trushkin et al.",
+            "Date": null
+        },
+        {
+            "Title": "ATel #9444",
+            "Authors": "Trushkin et al.",
+            "Date": null
+        },
+        {
+            "Title": "ATel #9501",
+            "Authors": "Trushkin et al.",
+            "Date": "September 2016"
+        },
+        {
+            "Title": "ATel #10109",
+            "Authors": "Loh et al.",
+            "Date": null
+        },
+        {
+            "Title": "Koljonen et al. 2010",
+            "Authors": "Koljonen et al.",
+            "Date": "2010"
+        },
+        {
+            "Title": "Corbel et al. 2012",
+            "Authors": "Corbel et al.",
+            "Date": "2012"
+        }
+    ],
+    "Event Type": "Giant Flare Prediction and Detection",
+    "Time": "Unknown",
+    "Date": {
+        "Initial Detection": "September 2016",
+        "Recent Activity": {
+            "gamma-ray emission": "MJD 57799",
+            "radio flux measurements": "MJD 57806.318",
+            "flux decrease": "MJD 57808.312"
+        }
+    },
+    "Telescope": "RATAN-600",
+    "Instrument": "Multiple frequencies",
+    "Observatory": "RATAN, Swift/BAT"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J11200680+3407396",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03566",
+            "Type": "possible supernova",
+            "Time": "15.25",
+            "Date": "2015 May 15"
+        },
+        {
+            "Name": "ASASSN-15aj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "normal type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2002er",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova type-Ia",
+            "Time": "2 days post-maximum",
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024; NED",
+    "Event Type": "spectrum obtained",
+    "Time": "UT 2015 May 15.25",
+    "Date": null,
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

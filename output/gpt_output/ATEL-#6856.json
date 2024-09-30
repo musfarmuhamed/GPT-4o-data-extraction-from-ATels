@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14mu",
+            "RA": "09:26:17.25",
+            "Dec": "+45:29:25.20",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "2014-12-29.39",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "KUG 0923+457",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027249",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of a new transient source",
+    "Time": "2014-12-29.39",
+    "Date": "2014-12-29",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

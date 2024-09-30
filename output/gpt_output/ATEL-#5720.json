@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-149",
+            "RA": "05:27:36.15",
+            "Dec": "-54:04:25.3",
+            "redshift": "0.073",
+            "Type": "II",
+            "Time": "None",
+            "Date": "2013-12-26"
+        },
+        {
+            "Name": "CSS131225:052305-080228",
+            "RA": "05:23:04.94",
+            "Dec": "-08:02:27.7",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": "around max",
+            "Date": "2013-12-25"
+        },
+        {
+            "Name": "MLS140102:120307-010132",
+            "RA": "12:03:06.88",
+            "Dec": "-01:01:31.7",
+            "redshift": "0.06",
+            "Type": "Ia-pec",
+            "Time": "pre max",
+            "Date": "2014-01-02"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Wyrzykowski et al. 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "None",
+    "Date": "2014-01-03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

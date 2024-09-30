@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1817-330",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active black-hole candidate X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "11:40",
+            "Date": "9 Feb 2006"
+        },
+        {
+            "Name": "XTE J1739-285",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRS 1747-312",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #714",
+        "ATel #731",
+        "ATels #615",
+        "#622",
+        "#642",
+        "in 't Zand et al. 2003, A&A 406, 233"
+    ],
+    "Event Type": "X-ray transient observation",
+    "Time": null,
+    "Date": "9 Feb 2006",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL Galactic Bulge monitoring"
+}

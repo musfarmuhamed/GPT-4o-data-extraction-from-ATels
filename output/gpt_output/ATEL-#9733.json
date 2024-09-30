@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova SMC 2016",
+            "RA": "J010603.18-744715.8",
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "19:24:02.85",
+            "Date": "2016-10-09"
+        }
+    ],
+    "References": [
+        "ATel #9621",
+        "ATel #9622",
+        "ATel #9631",
+        "ATel #9684",
+        "ATel #9688"
+    ],
+    "Event Type": "Detection",
+    "Time": "19:24:02.85",
+    "Date": "2016-10-09",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

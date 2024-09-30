@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER J221505.32+101812.6",
+            "RA": "22h 15m 05.32s",
+            "Dec": "+10d 18m 12.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "UT",
+            "Date": "2012-06-25.95193"
+        },
+        {
+            "Name": "MASTER J225350.78+364434.5",
+            "RA": "22h 53m 50.78s",
+            "Dec": "+36d 44m 34.5s",
+            "redshift": null,
+            "Type": "New CV",
+            "Time": "UT",
+            "Date": "2012-06-25.72759"
+        },
+        {
+            "Name": "MASTER J174041.78+272632.4",
+            "RA": "17h 40m 41.78s",
+            "Dec": "+27d 26m 32.4s",
+            "redshift": null,
+            "Type": "PSN?",
+            "Time": "UT",
+            "Date": "2012-06-22.66779"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/221505.31101812.5.png",
+        "http://master.sai.msu.ru/static/OT/225350.78364434.5_1.png",
+        "http://master.sai.msu.ru/static/OT/174041.78272632.4.png"
+    ],
+    "Event Type": "OT source",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

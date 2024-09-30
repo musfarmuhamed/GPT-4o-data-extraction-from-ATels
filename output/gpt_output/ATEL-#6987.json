@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HB89 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.94,
+            "Type": "high redshift QSO",
+            "Time": "JD 2457046.7371",
+            "Date": "January 24th, 2015"
+        },
+        {
+            "Name": "BZB J0238+1636",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.94,
+            "Type": "high redshift QSO",
+            "Time": "JD 2457046.7371",
+            "Date": "January 24th, 2015"
+        },
+        {
+            "Name": "2FGLJ0238.7+1637",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.94,
+            "Type": "Gamma ray source",
+            "Time": "JD 2457046.7371",
+            "Date": "January 24th, 2015"
+        }
+    ],
+    "References": [
+        "Atel#6970",
+        "Atel#6863"
+    ],
+    "Event Type": "optical brightening",
+    "Time": "JD 2457046.7371",
+    "Date": "January 24th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

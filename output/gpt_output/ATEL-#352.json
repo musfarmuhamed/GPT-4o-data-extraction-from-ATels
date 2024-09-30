@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New transient X-ray source",
+            "RA": "00h 29.1'",
+            "Dec": "+59d 34m",
+            "redshift": null,
+            "Type": "X-ray",
+            "Time": null,
+            "Date": "2004-12-02"
+        },
+        {
+            "Name": "V* V709 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 0027+59",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "INTEGRAL",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2004-12-02",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "Galactic Plane Scan"
+}

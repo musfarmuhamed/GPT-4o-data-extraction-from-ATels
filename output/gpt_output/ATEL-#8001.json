@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235632.99+391949.0",
+            "RA": "23h 56m 32.99s",
+            "Dec": "+39d 19m 49.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-04.21970 UT",
+            "Date": "2015-09-04"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-09-16",
+            "Time": "22:26:40 UT",
+            "Magnitude": 20.0,
+            "OT Presence": false
+        },
+        {
+            "Date": "2015-08-28",
+            "Time": "21:17:08",
+            "Magnitude": 17.3,
+            "OT Presence": true
+        },
+        {
+            "Date": "2015-08-29",
+            "Time": "21:20:11",
+            "Magnitude": 17.3,
+            "OT Presence": true
+        }
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": "2015-09-04.21970 UT",
+    "Date": "2015-09-04",
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

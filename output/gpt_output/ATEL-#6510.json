@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14hu",
+            "RA": "01:50:41.27",
+            "Dec": "-14:31:04.75",
+            "redshift": 0.015,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "Sep 28"
+        },
+        {
+            "Name": "PSN J04175427-5636452",
+            "RA": "04:17:54.27",
+            "Dec": "-56:36:45.2",
+            "redshift": 0.022189,
+            "Type": "Ia-pec",
+            "Time": "UT",
+            "Date": "Sep 28"
+        },
+        {
+            "Name": "MLS140923:021229+111718",
+            "RA": "02:12:29.14",
+            "Dec": "+11:17:18.1",
+            "redshift": 0.045,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "Sep 28"
+        }
+    ],
+    "References": "ATel #6505",
+    "Event Type": "optical spectroscopic classifications",
+    "Time": "UT",
+    "Date": "Sep 28",
+    "Telescope": "2.5-m du Pont telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

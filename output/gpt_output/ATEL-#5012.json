@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE 1049--5319",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Brown Dwarf",
+            "Time": "20:19",
+            "Date": "2013-03-08"
+        },
+        {
+            "Name": "Luhman 16",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Brown Dwarf",
+            "Time": "20:19",
+            "Date": "2013-03-08"
+        },
+        {
+            "Name": "Alpha Centauri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star System",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Barnard's Star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LP 944-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Brown Dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Proxima Centauri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Luhman 2013",
+        "Mamajek 2013",
+        "Kniazev et al. 2013",
+        "Burgasser et al. 2013",
+        "Gillon et al. 2013",
+        "Guedel 2004",
+        "Rutledge et al. 2000",
+        "Tsuboi et al. 2003",
+        "Haisch et al. 1990",
+        "Fleming 1998"
+    ],
+    "Event Type": "X-ray Observation",
+    "Time": "20:19",
+    "Date": "2013-03-08",
+    "Telescope": "Swift satellite",
+    "Instrument": "XRT",
+    "Observatory": "UK Swift Science Data Centre"
+}

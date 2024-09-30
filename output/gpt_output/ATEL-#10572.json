@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII nova",
+            "Time": "June 23.7 UT",
+            "Date": "June 23, 2017"
+        },
+        {
+            "Name": "ASASSN-17hx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N nova",
+            "Time": "June 24.0 UT",
+            "Date": "June 24, 2017"
+        }
+    ],
+    "References": [
+        "ATel #10523",
+        "ATel #10527",
+        "ATel #7367",
+        "ATel #10558"
+    ],
+    "Event Type": "Nova Peak Brightness",
+    "Time": "June 10",
+    "Date": "June 10, 2017",
+    "Telescope": [
+        "Asiago 1.82m",
+        "Asiago 1.22m",
+        "Varese 0.6m",
+        "Tubitak 1.5m"
+    ],
+    "Instrument": "Spectroscope",
+    "Observatory": "Asiago, Varese, Tubitak"
+}

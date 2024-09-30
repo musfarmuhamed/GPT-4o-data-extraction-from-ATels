@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "dwf17a1067",
+            "RA": "5:48:11.647",
+            "Dec": "-61:42:19.28",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "03:32",
+            "Date": "2017-02-03"
+        },
+        {
+            "Name": "dwf17a104",
+            "RA": "5:56:54.080",
+            "Dec": "-60:25:42.24",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "02:38",
+            "Date": "2017-02-02"
+        },
+        {
+            "Name": "dwf17a1147",
+            "RA": "6:42:34.352",
+            "Dec": "-51:18:06.49",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "03:44",
+            "Date": "2017-02-03"
+        },
+        {
+            "Name": "dwf17a852",
+            "RA": "6:46:16.326",
+            "Dec": "-51:57:09.11",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "02:35",
+            "Date": "2017-02-02"
+        }
+    ],
+    "References": [
+        "Cooke et al.",
+        "Vohl et al.",
+        "Andreoni et al.",
+        "Meade et al.",
+        "Rest et al. 2015"
+    ],
+    "Event Type": "discovery",
+    "Time": "2-7 February 2017 (UT)",
+    "Date": "2017-02-02 to 2017-02-07",
+    "Telescope": "Dark Energy Camera (DECam)",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo Inter-American Observatory (CTIO)"
+}

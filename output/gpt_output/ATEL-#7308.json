@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fr",
+            "RA": "09 20 20.44",
+            "Dec": "-07 38 26.7",
+            "redshift": 0.033,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "20150324"
+        },
+        {
+            "Name": "OGLE-2014-SN-173",
+            "RA": "06 28 40.63",
+            "Dec": "-69 40 48.1",
+            "redshift": 0.029,
+            "Type": "unknown",
+            "Time": "Unknown",
+            "Date": "20141116"
+        },
+        {
+            "Name": "PS15si",
+            "RA": "11 10 22.93",
+            "Dec": "-04 21 31.5",
+            "redshift": 0.053,
+            "Type": "IIn",
+            "Time": "> +20 d",
+            "Date": "20150323"
+        },
+        {
+            "Name": "PS15sv",
+            "RA": "16 13 11.74",
+            "Dec": "+01 35 31.1",
+            "redshift": 0.033,
+            "Type": "Ia-91T",
+            "Time": "-6 d",
+            "Date": "20150323"
+        },
+        {
+            "Name": "PS15rs",
+            "RA": "16 14 01.35",
+            "Dec": "-18 03 32.8",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": "+10 d",
+            "Date": "20150321"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "Supernova Classification",
+    "Time": "Unknown",
+    "Date": "2015 March 27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

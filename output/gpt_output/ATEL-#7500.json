@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1850-08",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultracompact X-ray binary",
+            "Time": "09:27:50",
+            "Date": "2015-05-09"
+        },
+        {
+            "Name": "NGC 6712",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Sidoli et al.",
+            "Journal": "A&A",
+            "Year": 2001,
+            "Volume": 368,
+            "Page": 451
+        },
+        {
+            "Authors": "Kuulkers et al.",
+            "Journal": "A&A",
+            "Year": 2003,
+            "Volume": 399,
+            "Page": 663
+        },
+        {
+            "Authors": "in't Zand et al.",
+            "ATel": "#5972",
+            "Event Date": "2014-03-10"
+        }
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "09:27:50",
+    "Date": "2015-05-09",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": "MAXI"
+}

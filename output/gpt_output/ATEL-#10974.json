@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ox",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.095",
+            "Type": "Ia",
+            "Time": "15.19",
+            "Date": "2017-11-15"
+        },
+        {
+            "Name": "ASASSN-17oy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.049",
+            "Type": "Gal",
+            "Time": "15.22",
+            "Date": "2017-11-15"
+        },
+        {
+            "Name": "ASASSN-17pa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": "15.04",
+            "Date": "2017-11-15"
+        },
+        {
+            "Name": "AT2017hsl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037",
+            "Type": "Ia",
+            "Time": "15.16",
+            "Date": "2017-11-15"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "low-resolution optical spectra",
+    "Time": null,
+    "Date": "2017-11-15",
+    "Telescope": "du Pont 2.5m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PT And (AT 2017gay)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "foreground Galactic dwarf nova",
+            "Time": "Aug 17.05",
+            "Date": "2017",
+            "Event Type": "outburst"
+        },
+        {
+            "Name": "PT And (AT 2017gay)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "foreground Galactic dwarf nova",
+            "Time": "Aug 24.16",
+            "Date": "2017",
+            "Event Type": "outburst"
+        },
+        {
+            "Name": "PT And (AT 2017gay)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "foreground Galactic dwarf nova",
+            "Time": "Aug 30.19",
+            "Date": "2017",
+            "Event Type": "outburst"
+        }
+    ],
+    "References": [
+        "ATel #10647",
+        "ATel #10672"
+    ],
+    "Event Type": "outburst",
+    "Time": [
+        "2017 Aug 17.05",
+        "2017 Aug 24.16",
+        "2017 Aug 30.19"
+    ],
+    "Date": "2017",
+    "Telescope": [
+        "Nordic Optical Telescope",
+        "Liverpool Telescope"
+    ],
+    "Instrument": [
+        "SPRAT spectrograph"
+    ],
+    "Observatory": [
+        "Liverpool Observatory"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1621-501",
+            "RA": "16h 20m 47.7s",
+            "Dec": "-50d 01m 22.9s",
+            "redshift": null,
+            "Type": "New transient source",
+            "Time": "07:25:09 to 07:34:53 UT",
+            "Date": "2017-10-26"
+        }
+    ],
+    "References": [
+        "ATel #10869 (Hashimoto+)",
+        "ATels 10874 (Bahramian+)",
+        "ATels 10876 (Pessev)"
+    ],
+    "Event Type": "Observation",
+    "Time": "07:25:09 to 07:34:53 UT",
+    "Date": "2017-10-26",
+    "Telescope": "Swift/XRT",
+    "Instrument": "pc mode",
+    "Observatory": "Swift"
+}

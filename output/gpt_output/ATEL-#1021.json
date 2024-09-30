@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17191-2821",
+            "RA": 259.77,
+            "Dec": -28.35,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "13:22",
+            "Date": "2007-03-02"
+        },
+        {
+            "Name": "1RXS J171909.4-282041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IRAS 17159-2819",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J1717-2737",
+            "RA": 259.3,
+            "Dec": -27.63,
+            "redshift": null,
+            "Type": "unidentified EGRET source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": {
+        "RA": 259.3,
+        "Dec": -27.63,
+        "uncertainty": "0.64 deg (95% confidence)"
+    },
+    "Event Type": "Discovery of a new hard X-ray source",
+    "Time": "13:22",
+    "Date": "2007-03-02",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": {
+        "Name": "INTEGRAL",
+        "FurtherObservations": "INTEGRAL will continue to observe this region in the coming days"
+    }
+}

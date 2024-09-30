@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL2 J140446.9-251135",
+            "RA": 211.1955,
+            "Dec": -25.1931,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "15/2/2018"
+        },
+        {
+            "Name": "2MASX 14044671-2511433",
+            "RA": 211.1939,
+            "Dec": -25.195,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "28/2/2018"
+        }
+    ],
+    "References": null,
+    "Event Type": "tidal disruption event",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "EPIC-pn camera, medium filter",
+    "Observatory": "XMM-Newton"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025955,
+            "Type": "SN Ia",
+            "Time": "2017-04-22.02",
+            "Date": "2017-04-19.51"
+        },
+        {
+            "Name": "PS17ckw",
+            "RA": "16h45m39.02s",
+            "Dec": "+01d37m13.1s",
+            "redshift": 0.022,
+            "Type": "SN IIb",
+            "Time": "2017-04-22.05",
+            "Date": "2017-04-19.52"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Atel #10300; Falco et al. 1999, PASP 111, 438; Cannizzaro et al. 2017 (Atel #10298); Turatto et al. 2003; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago Observatory"
+}

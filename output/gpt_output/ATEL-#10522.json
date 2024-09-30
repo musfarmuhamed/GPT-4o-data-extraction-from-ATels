@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00423878+4115498",
+            "RA": "00h42m38.78s",
+            "Dec": "+41d15m49.8s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22.033",
+            "Date": "2017-06-22"
+        },
+        {
+            "Name": "PNV J00425119+4116279",
+            "RA": "00h42m51.19s",
+            "Dec": "+41d16m27.9s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22.033",
+            "Date": "2017-06-22"
+        },
+        {
+            "Name": "PNV J00423291+4112236",
+            "RA": "00h42m32.91s",
+            "Dec": "+41d12m23.6s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22.033",
+            "Date": "2017-06-22"
+        },
+        {
+            "Name": "PNV J00424379+4113295",
+            "RA": "00h42m43.79s",
+            "Dec": "+41d13m29.5s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22.033",
+            "Date": "2017-06-22"
+        }
+    ],
+    "References": [
+        "ATel# 10476",
+        "ATel# 10484",
+        "ATel# 10507"
+    ],
+    "Event Type": "H-alpha photometry",
+    "Time": "22.033",
+    "Date": "2017-06-22",
+    "Telescope": "2m RCC telescope, 50/70cm Schmidt telescope",
+    "Instrument": "focal reducer FoReRo2",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

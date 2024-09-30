@@ -1,0 +1,100 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J03249+4041",
+            "RA": "03h24m54.0s",
+            "Dec": "40deg41m53s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source A",
+            "RA": "03h25m13.2s",
+            "Dec": "40deg41m51s",
+            "redshift": "0.04752+/-0.00011",
+            "Type": "Seyfert 2 active galactic nucleus",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source B",
+            "RA": "03h25m12.4s",
+            "Dec": "40deg42m01s",
+            "redshift": "0.04759+/-0.00010",
+            "Type": "Seyfert 2 active galactic nucleus",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LEDA 97012",
+            "RA": "03h25m12.96s",
+            "Dec": "40deg41m53.2s",
+            "redshift": "0.0477",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J03251221+4042021",
+            "RA": "03h25m12.23s",
+            "Dec": "40deg42m02.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0324.9+4044",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PBC J0325.1+4042",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 2724",
+            "RA": "03h25m25.6s",
+            "Dec": "40deg46m23s",
+            "redshift": "0.0477",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0325.2+4042",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Seyfert 2 galaxy",
+            "Time": null,
+            "Date": "1998"
+        }
+    ],
+    "References": [
+        "Krivonos et al., 2010",
+        "Tueller et al., 2010",
+        "Cusumano et al. 2010",
+        "Brunzendorf & Meusinger (1999)",
+        "Meusinger et al. (2000)",
+        "Veron-Cetty & Veron",
+        "Motch et al. 1998"
+    ],
+    "Event Type": "X-ray observations of interacting galaxies",
+    "Time": null,
+    "Date": "21 Nov 2007, 21 Jan 2008, Jul 15/16, 2010",
+    "Telescope": "INTEGRAL, Swift, 6-m BTA telescope",
+    "Instrument": "XRT, SCORPIO spectrograph",
+    "Observatory": "Special Astrophysical Observatory, Russia"
+}

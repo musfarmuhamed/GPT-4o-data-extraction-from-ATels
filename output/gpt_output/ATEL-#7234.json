@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ez",
+            "RA": "08:59:40.20",
+            "Dec": "+15:11:12.5",
+            "redshift": null,
+            "Type": "Ia normal",
+            "Time": "2000",
+            "Date": null
+        },
+        {
+            "Name": "PSN J08593491",
+            "RA": "08:59:34.91",
+            "Dec": "+45:55:34.3",
+            "redshift": null,
+            "Type": "Ia normal",
+            "Time": "2000",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7228",
+        "ATel #7222"
+    ],
+    "Event Type": "Spectra",
+    "Time": null,
+    "Date": "Mar 15, 2015",
+    "Telescope": "F. L. Whipple Observatory 1.5-m",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

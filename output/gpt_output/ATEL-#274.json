@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1858+034",
+            "RA": "18h58m44s",
+            "Dec": "3d26m02s",
+            "redshift": null,
+            "Type": "X-Ray transient pulsar",
+            "Time": "unknown",
+            "Date": "March 2004"
+        },
+        {
+            "Name": "XTE J1858+034",
+            "RA": "18h58m43s",
+            "Dec": "3d26m06s",
+            "redshift": null,
+            "Type": "X-Ray transient pulsar",
+            "Time": "unknown",
+            "Date": "April 21-24, 2004"
+        },
+        {
+            "Name": "XTE J1858+034",
+            "RA": "18h58m52s",
+            "Dec": "3d28m19s",
+            "redshift": null,
+            "Type": "X-Ray transient pulsar",
+            "Time": "unknown",
+            "Date": "April 28, 2004"
+        }
+    ],
+    "References": "IAUC 6826",
+    "Event Type": "X-Ray outburst",
+    "Time": "unknown",
+    "Date": "March-April 2004",
+    "Telescope": [
+        "ISGRI/IBIS",
+        "JEM-X",
+        "PCA/RXTE"
+    ],
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E1kwg",
+            "RA": "00:36:33.80",
+            "Dec": "-43:29:14.2",
+            "redshift": 0.1049,
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "2015 Oct 10"
+        },
+        {
+            "Name": "DES15X3kqv",
+            "RA": "02:27:05.05",
+            "Dec": "-05:00:11.1",
+            "redshift": 0.1421,
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "2015 Sep 21"
+        }
+    ],
+    "References": [
+        "ATel #4668",
+        "Saunders et al. 2004, SPIE, 5492, 389",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        "Southern African Large Telescope",
+        "Anglo-Australian Telescope"
+    ],
+    "Instrument": [
+        "Robert Stobie Spectrograph",
+        "AAOmega Spectrograph",
+        "2dF fibre positioner"
+    ],
+    "Observatory": "Null"
+}

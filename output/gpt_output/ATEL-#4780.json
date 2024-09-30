@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova 2013I/DES12S1a",
+            "RA": "02:49:42.76",
+            "Dec": "+00:45:35.4",
+            "redshift": null,
+            "Type": "type IIn Supernova",
+            "Time": "00:08:15",
+            "Date": "2013-01-22"
+        },
+        {
+            "Name": "SDSS J024942.76+004535.4",
+            "RA": "02:49:42.76",
+            "Dec": "+00:45:35.4",
+            "redshift": null,
+            "Type": "Galaxy?",
+            "Time": "00:08:15",
+            "Date": "2013-01-22"
+        }
+    ],
+    "References": [
+        "CBET #3386",
+        "ATEL #4741",
+        "Breeveld et al. 2011, AIP Conf. Proc. 1358, 373",
+        "Dickey & Lockman, 1990, ARAA, 28, 215"
+    ],
+    "Event Type": null,
+    "Time": "00:08:15",
+    "Date": "2013-01-22",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": "Swift satellite"
+}

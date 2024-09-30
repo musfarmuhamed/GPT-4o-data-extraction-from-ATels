@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15cq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0273,
+            "Type": "SN Ia",
+            "Time": "00:02",
+            "Date": "2015-02-10"
+        },
+        {
+            "Name": "CGCG 218-7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": null,
+    "Time": "00:02",
+    "Date": "2015-02-10",
+    "Telescope": "Asiago 1.82m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "338.1517038 deg",
+            "Dec": "11.7308067 deg",
+            "redshift": "1.037",
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00 - 06:00 UT",
+            "Date": "19 September"
+        },
+        {
+            "Name": "2FGL J2232.4+1143",
+            "RA": "338.1517038 deg",
+            "Dec": "11.7308067 deg",
+            "redshift": "1.037",
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00 - 06:00 UT",
+            "Date": "19 September"
+        }
+    ],
+    "References": "Nolan et al. 2012, ApJS, 199, 31; Johnston et al. 1995, AJ, 110, 880; Schmidt 1965, ApJ, 141, 1295",
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "00:00 - 06:00 UT",
+    "Date": "19 September",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in collaboration with scientific institutions across France, Italy, Japan, and Sweden"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1817-300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "20 ks",
+            "Date": "13 March 2006"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Sala et al.(2006, submitted to A&A); Dickey & Lockman, 1990, ARAA, 28, 215",
+    "Event Type": "Observation",
+    "Time": "20 ks",
+    "Date": "13 March 2006",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn camera / RGS1",
+    "Observatory": null
+}

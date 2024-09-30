@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J171900.4-353217",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very-faint X-ray source",
+            "Time": [
+                "Jun 14th",
+                "Jun 29th"
+            ],
+            "Date": [
+                "2023-06-14",
+                "2023-06-29"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #2607",
+        "ATel #2656",
+        "ATel #2627"
+    ],
+    "Event Type": "re-brightening",
+    "Time": "UT = 13:33:22",
+    "Date": "2023-06-18",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "R and SDSS-i' band",
+    "Observatory": null
+}

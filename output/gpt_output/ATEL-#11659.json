@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018bqi",
+            "RA": "07:33:15.91",
+            "Dec": "-11:14:02.5",
+            "redshift": "0.032",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180514"
+        },
+        {
+            "Name": "SN2018bil",
+            "RA": "11:09:50.23",
+            "Dec": "+28:58:16.9",
+            "redshift": "0.032",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180507"
+        },
+        {
+            "Name": "SN2018btn",
+            "RA": "13:33:36.41",
+            "Dec": "-33:12:25.3",
+            "redshift": "0.049",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180517"
+        },
+        {
+            "Name": "SN2018bsh",
+            "RA": "14:39:30.38",
+            "Dec": "-35:11:22.5",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180515"
+        },
+        {
+            "Name": "SN2018bsz",
+            "RA": "16:09:39.19",
+            "Dec": "-32:03:45.2",
+            "redshift": "0.027",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180517"
+        },
+        {
+            "Name": "AT2018bsp",
+            "RA": "18:00:18.30",
+            "Dec": "+15:15:28.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20180515"
+        },
+        {
+            "Name": "AT2018bsv",
+            "RA": "17:08:56.63",
+            "Dec": "+27:23:53.0",
+            "redshift": "0.106",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "20180424"
+        },
+        {
+            "Name": "SN2018buz",
+            "RA": "20:49:37.67",
+            "Dec": "-55:06:18.1",
+            "redshift": "0.052",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180520"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.ztf.caltech.edu/, ATel #11266",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Hiramatsu et al., TNS Classification Report: 2018TNSCR.679....1H"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018-05-20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J203431.51+641040.8",
+            "RA": "20h 34m 31.51s",
+            "Dec": "+64d 10m 40.8s",
+            "redshift": null,
+            "Type": "AGN candidate",
+            "Time": "00:37:37",
+            "Date": "2014-09-14"
+        },
+        {
+            "Name": "USNO-B1.0 1541-0239933",
+            "RA": "20 34 31.37",
+            "Dec": "+64 10 41.0",
+            "redshift": null,
+            "Type": "Catalog Entry",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J20343136+6410407",
+            "RA": "20h 34m 31.36s",
+            "Dec": "+64d 10m 40.7s",
+            "redshift": null,
+            "Type": "Infrared Detection",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J203431.37+641040.8",
+            "RA": "20h 34m 31.37s",
+            "Dec": "+64d 10m 40.8s",
+            "redshift": null,
+            "Type": "Infrared Detection",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6432, ApJ 751, 52, 2012",
+    "Event Type": "Flare",
+    "Time": "00:37:37",
+    "Date": "2014-09-14",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

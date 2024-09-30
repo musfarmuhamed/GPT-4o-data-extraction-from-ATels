@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HLX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hyper-luminous X-ray source",
+            "Time": "0.03 c/s in the last 3 days",
+            "Date": "2011-08-15"
+        },
+        {
+            "Name": "ESO 243-49",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Farrell et al. 2009",
+        "Kong 2011, arXiv:1102.3212",
+        "Lasota et al. 2011",
+        "Lasota et al. 2011",
+        "ATel #2821"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "late-August 2010",
+    "Date": "2010-08",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

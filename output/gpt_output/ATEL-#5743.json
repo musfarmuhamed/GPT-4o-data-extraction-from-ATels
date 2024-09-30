@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J004327.6+410452",
+            "RA": "00:43:27.7",
+            "Dec": "+41:04:53",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2013-12-28.6",
+            "Date": "2013-12-28"
+        },
+        {
+            "Name": "Swift J004327.6+410452",
+            "RA": "00:43:27.7",
+            "Dec": "+41:04:53",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2014-01-05.2",
+            "Date": "2014-01-05"
+        },
+        {
+            "Name": "2MASS J00432709+4104521",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LGGS J004327.49+410450.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478",
+    "Event Type": "X-ray transient detection",
+    "Time": "2013-12-28.6",
+    "Date": "2013-12-28",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift satellite"
+}

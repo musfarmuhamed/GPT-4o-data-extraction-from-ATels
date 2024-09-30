@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN Refsdal S1",
+            "RA": "11:49:35.575",
+            "Dec": "+22:23:44.27",
+            "redshift": "1.491",
+            "Type": "supernova",
+            "Time": "03 November 2014 to 10 November 2014",
+            "Date": "2014-11-11"
+        },
+        {
+            "Name": "SN Refsdal S2",
+            "RA": "11:49:35.452",
+            "Dec": "+22:23:44.83",
+            "redshift": "1.491",
+            "Type": "supernova",
+            "Time": "03 November 2014 to 10 November 2014",
+            "Date": "2014-11-11"
+        },
+        {
+            "Name": "SN Refsdal S3",
+            "RA": "11:49:35.370",
+            "Dec": "+22:23:43.93",
+            "redshift": "1.491",
+            "Type": "supernova",
+            "Time": "03 November 2014 to 10 November 2014",
+            "Date": "2014-11-11"
+        },
+        {
+            "Name": "SN Refsdal S4",
+            "RA": "11:49:35.474",
+            "Dec": "+22:23:42.63",
+            "redshift": "1.491",
+            "Type": "supernova",
+            "Time": "03 November 2014 to 10 November 2014",
+            "Date": "2014-11-11"
+        }
+    ],
+    "References": [
+        {
+            "PID": "13459",
+            "PI": "Treu"
+        },
+        {
+            "PID": "13504",
+            "PI": "Lotz"
+        },
+        {
+            "PID": "14041",
+            "PI": "Kelly"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "03 November 2014 to 10 November 2014",
+    "Date": "2014-11-11",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Wide Field Camera 3 Infrared camera (WFC3/IR)",
+    "Observatory": "NASA"
+}

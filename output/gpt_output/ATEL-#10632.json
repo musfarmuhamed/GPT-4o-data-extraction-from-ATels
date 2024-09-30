@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V407 Lup",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:00",
+            "Date": "2016-Sep-24"
+        }
+    ],
+    "References": [
+        "ATel #9538",
+        "ATel #9539"
+    ],
+    "Event Type": "Outburst",
+    "Time": "00:00",
+    "Date": "2016-Sep-24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

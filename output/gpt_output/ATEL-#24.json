@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1900+14",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "32624 s UT",
+            "Date": "May 30th"
+        },
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": "1996"
+        }
+    ],
+    "References": [
+        "F. Vrba et al., ApJ 468, 225 1996",
+        "C. Kouveliotou, et al, IAUC # 6503"
+    ],
+    "Event Type": "Intense outburst comprising multiple bursts",
+    "Time": "32624 s UT",
+    "Date": "May 30th",
+    "Telescope": "BATSE",
+    "Instrument": null,
+    "Observatory": null
+}

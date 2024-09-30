@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17gb",
+            "RA": "23:05:01.954",
+            "Dec": "-26:38:06.39",
+            "redshift": 0.029264,
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-05-09.39"
+        },
+        {
+            "Name": "2MASX J23050199-2638071",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.029264,
+            "Type": "host galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Shappee et al. 2014, Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "discovery of a transient source",
+    "Time": "Null",
+    "Date": "2017-05-09",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

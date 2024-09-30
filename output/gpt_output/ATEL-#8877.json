@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424805+4117134",
+            "RA": "0h42m48s.05",
+            "Dec": "+41o17'13\".4",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "26.773 UT",
+            "Date": "2016 Mar."
+        },
+        {
+            "Name": "nearby star",
+            "RA": "0h42m48s.03",
+            "Dec": "+41o17'14\".1",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "link to discovery image",
+    "Event Type": "discovery",
+    "Time": "26.773 UT",
+    "Date": "2016 Mar.",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD",
+    "Observatory": "Ondrejov"
+}

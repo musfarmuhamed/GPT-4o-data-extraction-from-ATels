@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0418+5729",
+            "RA": 64.606,
+            "Dec": 57.489,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "20:40:48.88",
+            "Date": "2009-06-05"
+        },
+        {
+            "Name": null,
+            "RA": 70.0,
+            "Dec": 55.6,
+            "redshift": null,
+            "Type": "SGR-like burst",
+            "Time": "20:40:48.88",
+            "Date": "2009-06-05"
+        },
+        {
+            "Name": null,
+            "RA": 60.5,
+            "Dec": 55.4,
+            "redshift": null,
+            "Type": "SGR-like burst",
+            "Time": "21:01:35.06",
+            "Date": "2009-06-05"
+        }
+    ],
+    "References": "http://gammaray.nsstc.nasa.gov/gbm/science/magnetars",
+    "Event Type": "SGR-like bursts",
+    "Time": "20:40:48.88 and 21:01:35.06",
+    "Date": "2009-06-05",
+    "Telescope": "Fermi Gamma-Ray Burst Monitor (GBM), Konus-RF, Swift BAT",
+    "Instrument": "Gamma-ray detectors",
+    "Observatory": null
+}

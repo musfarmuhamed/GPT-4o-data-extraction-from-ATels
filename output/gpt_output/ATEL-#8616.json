@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LMCN 1968-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": [
+                "2016-Jan-29.45",
+                "2016-Jan-29.61",
+                "2016-Jan-29.67",
+                "2016-Jan-29.44",
+                "2016-Jan-29.61",
+                "2016-Jan-29.67"
+            ],
+            "Date": [
+                "2016-Jan-29.45",
+                "2016-Jan-29.61",
+                "2016-Jan-29.67",
+                "2016-Jan-29.44",
+                "2016-Jan-29.61",
+                "2016-Jan-29.67"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #8578",
+        "ATel #8586",
+        "ATel #8587",
+        "ATel #8615",
+        "Sievers 1970",
+        "Shore et al. 1991",
+        "Mr\u00f3z et al. 2014"
+    ],
+    "Event Type": "eruption",
+    "Time": "2016 Jan 21.21 UT",
+    "Date": "2016 January 29 UT",
+    "Telescope": "2m Faulkes Telescope South",
+    "Instrument": "Spectral and FLOYDS",
+    "Observatory": "Siding Spring Observatory, NSW, Australia"
+}

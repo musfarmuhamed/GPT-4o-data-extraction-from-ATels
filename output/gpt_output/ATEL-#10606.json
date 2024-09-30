@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17jt (AT 2017frb)",
+            "RA": "21:11:36.833",
+            "Dec": "+11:29:50.08",
+            "redshift": "0.029378",
+            "Type": "Type Ia",
+            "Time": "2017-07-25.56",
+            "Date": "2017-07-25"
+        },
+        {
+            "Name": "ASASSN-17jw (AT 2017frh)",
+            "RA": "14:49:37.704",
+            "Dec": "+18:41:59.72",
+            "redshift": "0.032188",
+            "Type": "Type Ia",
+            "Time": "2017-07-23.30",
+            "Date": "2017-07-23"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "ATEL #10601"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

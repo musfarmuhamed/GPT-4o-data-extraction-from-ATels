@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13bvs",
+            "RA": "20:36:55.12",
+            "Dec": "-31:37:50.4",
+            "redshift": "~0.034",
+            "Type": "SN?",
+            "Time": "Null",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "LSQ13bug",
+            "RA": "21:09:04.08",
+            "Dec": "-26:54:19.8",
+            "redshift": "~0.015",
+            "Type": "SN Ia",
+            "Time": "~-6",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "LSQ13bsu",
+            "RA": "22:34:05.67",
+            "Dec": "11:47:57.1",
+            "redshift": "~0.133",
+            "Type": "SN Ia",
+            "Time": "~+2",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "LSQ13bwe",
+            "RA": "23:27:44.59",
+            "Dec": "-04:22:11.5",
+            "redshift": "~0.150",
+            "Type": "SN Ia",
+            "Time": "~max",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "LSQ13btb",
+            "RA": "21:38:24.46",
+            "Dec": "-13:07:36.4",
+            "redshift": "~0.089",
+            "Type": "Galaxy",
+            "Time": "N/A",
+            "Date": "2013-08-25"
+        }
+    ],
+    "References": "Hadjiyska et al., ATel #3812; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Optical Spectroscopic Classification",
+    "Time": "Null",
+    "Date": "2013-08-25",
+    "Telescope": "4.2m William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": "Null"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J154156.81+105552.0",
+            "RA": "15h 41m 56.81s",
+            "Dec": "+10d 55m 52.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-06-28.80536 UT",
+            "Date": "2013-06-28"
+        },
+        {
+            "Name": "SDSSJ154156.79+105551.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J000055.37+540128.5",
+            "RA": "00h 00m 55.37s",
+            "Dec": "+54d 01m 28.5s",
+            "redshift": null,
+            "Type": "VS",
+            "Time": "2013-06-28.71292 UT",
+            "Date": "2013-06-28"
+        },
+        {
+            "Name": "MASTER OT J201238.63+293730.4",
+            "RA": "20h 12m 38.63s",
+            "Dec": "+29d 37m 30.4s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-06-28.70944 UT",
+            "Date": "2013-06-28"
+        },
+        {
+            "Name": "MASTER OT J212313.61-021447.9",
+            "RA": "21h 23m 13.61s",
+            "Dec": "-02d 14m 47.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-06-29.95047 UT",
+            "Date": "2013-06-29"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/154156.81105552.0_2.png, http://master.sai.msu.ru/static/OT/000055.37540128.5.png, http://master.sai.msu.ru/static/OT/201238.63293730.4.png, http://master.sai.msu.ru/static/OT/212313.61-021447.9.png",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Net"
+}

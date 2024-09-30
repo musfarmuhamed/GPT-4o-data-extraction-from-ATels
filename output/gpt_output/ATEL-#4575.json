@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN LSQ12fuc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.043,
+            "Type": "SNII",
+            "Time": "2012-11-05T05:46:00Z",
+            "Date": "2012-11-05"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Pastorello et al. 2003, MNRAS 347, 74",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383"
+    ],
+    "Event Type": "spectroscopic observation",
+    "Time": "2012-11-05T05:46:00Z",
+    "Date": "2012-11-05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

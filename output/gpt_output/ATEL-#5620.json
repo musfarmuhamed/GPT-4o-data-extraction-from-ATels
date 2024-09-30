@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMT J00570506-362623",
+            "RA": "00 57 05.06",
+            "Dec": "-36 26 23.0",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "20131130"
+        },
+        {
+            "Name": "LSQ13dhs",
+            "RA": "02 44 01.45",
+            "Dec": "-26 15 51.4",
+            "redshift": "0.16",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "20131122"
+        },
+        {
+            "Name": "LSQ13dig",
+            "RA": "10 48 30.55",
+            "Dec": "-18 08 13.3",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "20131201"
+        },
+        {
+            "Name": "OGLE-2013-SN-130",
+            "RA": "06 36 46.99",
+            "Dec": "-68 52 22.4",
+            "redshift": "0.09",
+            "Type": "Ia-pec",
+            "Time": "Unknown",
+            "Date": "20131210"
+        }
+    ],
+    "References": [
+        "ATel #4037",
+        "ATel #5480",
+        "ATel #3812",
+        "ATel #4495"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "Unknown",
+    "Date": "2013 Dec 01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

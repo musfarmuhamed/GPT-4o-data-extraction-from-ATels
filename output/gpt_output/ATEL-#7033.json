@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "194054.30+450242.0",
+            "RA": "19h 40m 54.30s",
+            "Dec": "+45d 02m 42.0s",
+            "redshift": null,
+            "Type": "possible new CV",
+            "Time": "2015-02-04.91387 UT",
+            "Date": "2015-02-04"
+        },
+        {
+            "Name": "MASTER OT J053953.61-275546.5",
+            "RA": "05h 39m 53.61s",
+            "Dec": "-27d 55m 46.5s",
+            "redshift": null,
+            "Type": "possible SN or new CV",
+            "Time": "2015-02-06.937 UT",
+            "Date": "2015-02-06"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 2010"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-Tunka",
+        "MASTER-SAAO"
+    ]
+}

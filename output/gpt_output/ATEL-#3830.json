@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": [
+                {
+                    "MJD": 55912,
+                    "mCrab": "35\u00b15",
+                    "Date": "2011 December 17"
+                },
+                {
+                    "MJD": 55915,
+                    "mCrab": "135\u00b15",
+                    "Date": null
+                },
+                {
+                    "MJD": 55920,
+                    "mCrab": "168\u00b18",
+                    "Date": null
+                },
+                {
+                    "MJD": 55921,
+                    "mCrab": null,
+                    "Date": "2011 December 26"
+                },
+                {
+                    "MJD": 55922,
+                    "mCrab": "360\u00b110",
+                    "Date": null
+                }
+            ]
+        }
+    ],
+    "References": "Kubota et al. (PASJ 59, S185, 2007)",
+    "Event Type": "Renewed Outburst Detection",
+    "Time": null,
+    "Date": "2011 December 26",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dp",
+            "RA": "11:21:58.45",
+            "Dec": "-37:54:24.5",
+            "redshift": "0.009159",
+            "Type": "supernova",
+            "Time": "07.06",
+            "Date": "2014-07-07"
+        },
+        {
+            "Name": "PSN J11220840-3804001",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.009580",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ESO 319-G15, ESO 319-G16",
+    "Event Type": "discovery",
+    "Time": "07.06",
+    "Date": "2014-07-07",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Chile"
+}

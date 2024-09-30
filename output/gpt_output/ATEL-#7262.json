@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": "17:48:05.231",
+            "Dec": "-24:46:47.73",
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGlb J174805.2-244647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGb J174805.1-244645",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATels #7240, #7242, #7247",
+    "Event Type": "Transient Outburst",
+    "Time": "10:14 UT to 10:43 UT",
+    "Date": "2015 March 19",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

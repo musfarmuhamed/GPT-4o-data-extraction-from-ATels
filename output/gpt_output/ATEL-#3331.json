@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1543-564",
+            "RA": 235.82283,
+            "Dec": -56.41358,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18:19 UT",
+            "Date": "May 8th, 2011"
+        },
+        {
+            "Name": "2MASS 15431782-5624467",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Negoro et al., ATEL #3330",
+    "Event Type": "Target of opportunity observation",
+    "Time": "18:19 UT",
+    "Date": "May 8th, 2011",
+    "Telescope": "Swift",
+    "Instrument": "Photon Counting mode",
+    "Observatory": "MAXI"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1739-301",
+            "RA": 264.825,
+            "Dec": -30.106,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:08 UT",
+            "Date": "11 January 2015"
+        },
+        {
+            "Name": "SFXT XTE J1739-302/IGR 17391-3021",
+            "RA": 264.825,
+            "Dec": -30.106,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "11 February 2011"
+        }
+    ],
+    "References": [
+        "Romano et al. 2009, MNRAS, 399, p2021",
+        "Bodaghee et al. 2011, ApJ, 727, p59",
+        "Romano et al. ATel. #3182",
+        "Romano et al. 2012, MSAIS 21, p210"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": "04:08 UT",
+    "Date": "11 January 2015",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "Gas Slit Camera (GSC)",
+    "Observatory": "MAXI on the International Space Station"
+}

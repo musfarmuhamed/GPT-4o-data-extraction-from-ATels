@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": "19:12 UTC",
+            "Date": "16 June 2017"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": null,
+            "Date": "17 June 2017"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": null,
+            "Date": "24 June 2017"
+        }
+    ],
+    "References": [
+        "ATel #10418",
+        "ATel #10466",
+        "ATel #10529"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "17 June 2017",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "MAXI/GSC",
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

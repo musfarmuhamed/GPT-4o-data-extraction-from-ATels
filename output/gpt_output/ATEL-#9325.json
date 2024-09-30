@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016eow",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.175\u00b10.01",
+            "Type": "Type Ic",
+            "Time": "18:09 UT",
+            "Date": "4 August 2016"
+        },
+        {
+            "Name": "AT 2016enu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.042\u00b10.004",
+            "Type": "Type Ia",
+            "Time": "20:10 UT",
+            "Date": "4 August 2016"
+        },
+        {
+            "Name": "AT 2016enf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.291\u00b10.006",
+            "Type": "Type I",
+            "Time": "21:19 UT",
+            "Date": "4 August 2016"
+        }
+    ],
+    "References": "Blondin & Tonry, ApJ, 666, 1024, 2007",
+    "Event Type": "SN candidates observation",
+    "Time": null,
+    "Date": "4 August 2016",
+    "Telescope": "BTA",
+    "Instrument": "Scorpio-I",
+    "Observatory": null
+}

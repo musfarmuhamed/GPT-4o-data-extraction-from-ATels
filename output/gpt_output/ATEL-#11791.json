@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cep X-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": "2018-06-27"
+        }
+    ],
+    "References": [
+        {
+            "Jenke et al.": {
+                "year": 2018,
+                "Atel": 11780
+            }
+        },
+        {
+            "Atel #1956": {
+                "year": 2009
+            }
+        },
+        {
+            "Atel #1972": {
+                "year": 2009
+            }
+        },
+        {
+            "Atel #6212": {
+                "year": 2014
+            }
+        },
+        {
+            "Atel #6243": {
+                "year": 2014
+            }
+        },
+        {
+            "Atel #6265": {
+                "year": 2014
+            }
+        }
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": null,
+    "Date": "2018-06-20",
+    "Telescope": "BAT, MAXI/GSC",
+    "Instrument": "BAT, MAXI/GSC",
+    "Observatory": "Neil Gehrels Swift observatory"
+}

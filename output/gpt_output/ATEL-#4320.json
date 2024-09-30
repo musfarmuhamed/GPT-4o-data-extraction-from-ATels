@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0639+0548",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray transient",
+            "Time": "null",
+            "Date": "June 22"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "Aug. 9.805 UT",
+            "Date": "2012-08-09"
+        }
+    ],
+    "References": "Cheung et al. (2012, ATel #4310), Munari et al. (2012, BaltA 21, 13), Munari (2012, JAVSO tmp 206)",
+    "Event Type": "gamma-ray transient detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.6m telescope of the Schiaparelli Observatory",
+    "Instrument": "Multi-Mode Spectrograph",
+    "Observatory": "Schiaparelli Observatory"
+}

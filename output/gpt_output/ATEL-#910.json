@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXO J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AXP",
+            "Time": null,
+            "Date": "2006-09-29"
+        },
+        {
+            "Name": "XTE J1810-197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Westerlund 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Muno et al. 2006 ApJ 636 L41",
+        "Tam et al. 2004 ApJ 617 L53",
+        "Rea et al. 2004 A&A 425 L5",
+        "Piatti et al. A&AS 1998 127 423"
+    ],
+    "Event Type": null,
+    "Time": "27 min",
+    "Date": "2006-09-29",
+    "Telescope": "Magellan/Baade Telescope",
+    "Instrument": "PANIC",
+    "Observatory": "Las Campanas Observatory (LCO)"
+}

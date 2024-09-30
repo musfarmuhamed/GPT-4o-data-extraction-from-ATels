@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2016-11b",
+            "RA": "9h55m24.06s",
+            "Dec": "+69\u00b005'06.0\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-14.171 UT",
+            "Date": "2016-11-14"
+        },
+        {
+            "Name": "M81N 2016-11c",
+            "RA": "9h55m42.034s",
+            "Dec": "+69\u00b003'53.16\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2016-11-21.080 UT",
+            "Date": "2016-11-21"
+        }
+    ],
+    "References": {
+        "OND": {
+            "Telescope": "0.65-m telescope",
+            "Observatory": "Ondrejov",
+            "Instrument": "Moravian Instruments G2-3200 CCD camera"
+        },
+        "LT": {
+            "Telescope": "2-m Liverpool Telescope",
+            "Observatory": "Observatorio del Roque de los Muchachos",
+            "Instrument": "IO:O optical CCD camera"
+        },
+        "TJO": {
+            "Telescope": "80-cm Telescopi Joan Oro",
+            "Observatory": "Observatori Astronomic del Montsec",
+            "Instrument": "Finger Lakes PL4240-1-BI CCD Camera"
+        }
+    },
+    "Event Type": "nova discovery",
+    "Time": null,
+    "Date": "2016-11-14 and 2016-11-21",
+    "Telescope": "0.65-m telescope, 2-m Liverpool Telescope, and 80-cm Telescopi Joan Oro",
+    "Instrument": "Moravian Instruments G2-3200 CCD camera, IO:O optical CCD camera, Finger Lakes PL4240-1-BI CCD Camera",
+    "Observatory": "Ondrejov, Observatorio del Roque de los Muchachos, Observatori Astronomic del Montsec"
+}

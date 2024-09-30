@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bol 126",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": "2010 Oct. 12 UT"
+        },
+        {
+            "Name": "super-soft X-ray source (SSS)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "classical nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": null,
+            "Date": "2010 Oct."
+        }
+    ],
+    "References": [
+        "ATel #3013 by Pietsch et al.",
+        "ATel #3019 by Henze et al.",
+        "Ciardullo et al. (1990, ApJ, 356, 472)"
+    ],
+    "Event Type": "serendipitous discovery, nova eruption",
+    "Time": "13.285 UT",
+    "Date": "2010 Nov. 13",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": null
+}

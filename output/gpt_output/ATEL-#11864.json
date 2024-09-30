@@ -1,0 +1,127 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018cgj",
+            "RA": "12:51:06.72",
+            "Dec": "-47:39:00.68",
+            "redshift": "0.012378",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018cjd",
+            "RA": "14:58:20.02",
+            "Dec": "-37:33:25.16",
+            "redshift": "0.026068",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "AT2018cmp",
+            "RA": "23:31:09.78",
+            "Dec": "-29:57:43.67",
+            "redshift": "0.0504",
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018cqj",
+            "RA": "09:40:21.46",
+            "Dec": "-06:59:19.76",
+            "redshift": "0.021",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018cue",
+            "RA": "19:31:59.95",
+            "Dec": "-62:40:17.10",
+            "redshift": "0.013",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018cxe",
+            "RA": "17:21:01.63",
+            "Dec": "+26:09:07.31",
+            "redshift": "0.043811",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018ddr",
+            "RA": "13:58:38.47",
+            "Dec": "+07:13:01.24",
+            "redshift": "0.01468",
+            "Type": "SN IIb",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018ddx",
+            "RA": "22:04:59.86",
+            "Dec": "-56:04:57.29",
+            "redshift": "0.0229",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018ddy",
+            "RA": "22:59:57.34",
+            "Dec": "-45:25:53.33",
+            "redshift": "0.0513",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018dei",
+            "RA": "13:23:43.12",
+            "Dec": "-25:24:32.33",
+            "redshift": "0.041",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018dfh",
+            "RA": "05:11:33.44",
+            "Dec": "-21:16:09.66",
+            "redshift": "0.013836",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2018-07-15"
+        },
+        {
+            "Name": "SN2018djd",
+            "RA": "02:14:33.83",
+            "Dec": "-00:45:56.77",
+            "redshift": "0.026385",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "ATel #11713",
+        "ATel #11730",
+        "ATel #11832",
+        "ATel #11848",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Blondin & Tonry 2007, 666, 1024"
+    ],
+    "Event Type": "Optical low-resolution spectra observation",
+    "Time": "Null",
+    "Date": "2018-07-14 to 2018-07-15",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

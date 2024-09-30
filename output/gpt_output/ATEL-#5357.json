@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J04213820-1755414",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0298,
+            "Type": "Type Ia supernova",
+            "Time": "2.69",
+            "Date": "Sep. 2, 2013"
+        },
+        {
+            "Name": "ESO 550-G26",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0298,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectrum observation",
+    "Time": "2.69",
+    "Date": "Sep. 2, 2013",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Type Ia Supernova",
+            "Time": "00:45:16",
+            "Date": "2015-05-21"
+        },
+        {
+            "Name": "ASASSN-15jm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Type Ia Supernova",
+            "Time": "00:33:10",
+            "Date": "2015-05-22"
+        },
+        {
+            "Name": "2MASX J17210913+2534558",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7536",
+    "Event Type": "Spectroscopic Observations",
+    "Time": [
+        "00:45:16",
+        "00:33:10"
+    ],
+    "Date": [
+        "2015-05-21",
+        "2015-05-22"
+    ],
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

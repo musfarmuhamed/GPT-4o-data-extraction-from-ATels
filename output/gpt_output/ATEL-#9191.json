@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "15:16:34.8",
+            "Date": "2016-06-20"
+        }
+    ],
+    "References": [
+        "Sugita et al. GCN Circ. 19545",
+        "Younes et al. GCN Circ. 19546",
+        "Burrows et al. GCN Circ. 19556"
+    ],
+    "Event Type": "short burst",
+    "Time": "15:16:35",
+    "Date": "2016-06-20",
+    "Telescope": "MAXI/GSC, Fermi GBM, Swift BAT",
+    "Instrument": "GSC_0, GSC_6",
+    "Observatory": "MAXI, Fermi, Swift"
+}

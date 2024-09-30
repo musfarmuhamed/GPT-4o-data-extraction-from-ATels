@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18179-1621",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": "11.82 s",
+            "Date": "2012-02-20 to 2012-02-23"
+        },
+        {
+            "Name": "IGR J18179-1621",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": "11.82 s",
+            "Date": "2012-02-24 to 2012-02-27"
+        }
+    ],
+    "References": "J. P. Halpern (ATel #3949)",
+    "Event Type": "Pulsation Detection",
+    "Time": "84.5896(4) mHz (2012-02-20 to 2012-02-23); 84.5908(3) mHz (2012-02-24 to 2012-02-27)",
+    "Date": "2012-02-20 to 2012-02-27",
+    "Telescope": "GBM",
+    "Instrument": "GBM",
+    "Observatory": "GBM Pulsar Project"
+}

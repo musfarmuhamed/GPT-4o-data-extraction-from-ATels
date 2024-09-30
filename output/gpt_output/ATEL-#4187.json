@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGS 03588-00834",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Camero-Arranz et al. 2007"
+        },
+        {
+            "Reference": "Reig et al. 2010"
+        },
+        {
+            "Reference": "ATel #4068",
+            "Date": "2012 April 25"
+        },
+        {
+            "Reference": "ATel #4168",
+            "Date": "2012 June 12"
+        }
+    ],
+    "Event Type": "IR observations and X-ray activity",
+    "Time": "2011 December 26 - 2012 June 10",
+    "Date": "2012 June 12",
+    "Telescope": "1.52 m Carlos S\u00e1nchez Telescope, 1.5 m telescope",
+    "Instrument": "Albireo spectrograph",
+    "Observatory": "Observatorio de Iza\u00f1a, Observatorio de Sierra Nevada"
+}

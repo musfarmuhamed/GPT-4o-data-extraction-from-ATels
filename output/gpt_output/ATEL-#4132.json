@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150210.65+230915.3",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": 20.86818,
+            "Date": "2012-05-24"
+        },
+        {
+            "Name": "CRTS transient CSS120514:150211+230915",
+            "RA": "15:02:10.56",
+            "Dec": "+23:09:14.6",
+            "redshift": "Null",
+            "Type": "AGN",
+            "Time": 0.39,
+            "Date": "2012-05-14"
+        },
+        {
+            "Name": "SDSS J150210.47+230915.2",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Podvorotniy et al. (2012, Atel#4131)",
+    "Event Type": "discovery",
+    "Time": "0.39",
+    "Date": "2012-05-14",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 0908+416B",
+            "RA": "09h12m11.6142s",
+            "Dec": "+41d26m09.356s",
+            "redshift": 2.563,
+            "Type": "Compton-dominated blazar",
+            "Time": "October 25--26, 2015",
+            "Date": null
+        },
+        {
+            "Name": "NGC 1275",
+            "RA": "03h19m48.1601s",
+            "Dec": "+41d30m42.106s",
+            "redshift": 0.017559,
+            "Type": "radio galaxy",
+            "Time": "October 25, 2015",
+            "Date": "beginning of October 2015"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015 ApJS, 218, 23",
+        "Petrov and Taylor, 2011 AJ, 142, 89",
+        "Linford et al., 2011, ApJ, 726, 16",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Strauss et al. 1992, ApJS, 83, 29",
+        "ATel#2737",
+        "ATel#4753"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": "October 25--26, 2015",
+    "Date": "beginning of October 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with France, Italy, Japan, Sweden"
+}

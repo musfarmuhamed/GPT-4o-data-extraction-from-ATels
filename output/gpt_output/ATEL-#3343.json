@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS110406:135058+261642",
+            "RA": "13:50:57.79",
+            "Dec": "+26:16:42.2",
+            "redshift": "0.143",
+            "Type": "Ic?",
+            "Time": null,
+            "Date": "2011-04-06"
+        },
+        {
+            "Name": "CSS110208:135717-093238",
+            "RA": "13:57:16.82",
+            "Dec": "-09:32:38.5",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "2011-02-08"
+        },
+        {
+            "Name": "CSS110428:094544+410738",
+            "RA": "09:45:43.77",
+            "Dec": "+41:07:37.9",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "2011-04-28"
+        }
+    ],
+    "References": [
+        "ATEL#3340"
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": [
+        "2011-05-07",
+        "2011-05-08"
+    ],
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

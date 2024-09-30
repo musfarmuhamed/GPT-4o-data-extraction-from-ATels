@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT16ca",
+            "RA": "09 33 41.18",
+            "Dec": "-33 00 02.4",
+            "redshift": "0.000",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20161227"
+        },
+        {
+            "Name": "AT2016jbw",
+            "RA": "09 33 41.18",
+            "Dec": "-33 00 02.4",
+            "redshift": "0.000",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20161227"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016 12 26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

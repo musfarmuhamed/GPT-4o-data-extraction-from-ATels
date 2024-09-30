@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J0109+6134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IPHAS J010946.33+613330.5",
+            "RA": "01:09:46.33",
+            "Dec": "+61:33:30.5",
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VCS2 J0109+6133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift/XRT counterpart",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Paredes et al. counterpart",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2414",
+        "ATEL #2421",
+        "ATEL #2420",
+        "Drew et al. 2005, MNRAS, 362, 753",
+        "Groot et al. 2009, MNRAS, 399, 323",
+        "Paredes et al. 1993, A&ASS 102, 381"
+    ],
+    "Event Type": "observation",
+    "Time": "19:54 UT",
+    "Date": "Feb 5, 2010",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ACAM",
+    "Observatory": null
+}

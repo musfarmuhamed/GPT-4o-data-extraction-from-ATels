@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J014638.27+041324.4",
+            "RA": "01h 46m 38.27s",
+            "Dec": "+04d 13m 24.4s",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "18:01:29.983",
+            "Date": "2013-12-05"
+        },
+        {
+            "Name": "PGC 12652941 = SDSS J014638.24+041333.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Reference image without OT on 2012-10-12.95286 UT with unfiltered magnitude limit 18.8m.",
+    "Event Type": "Discovery",
+    "Time": "18:01:29.983",
+    "Date": "2013-12-05",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mq",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.028",
+            "Type": "Type Ia",
+            "Time": "Sept. 8.4 UT",
+            "Date": "Null"
+        },
+        {
+            "Name": "ASASSN-15ng",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.011",
+            "Type": "Type IIP",
+            "Time": "Sept. 9.0 UT",
+            "Date": "Null"
+        },
+        {
+            "Name": "ASASSN-15ox",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.046",
+            "Type": "Type Ia",
+            "Time": "Sept. 9.4 UT",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #7810, ATel #7840, ATel #7961",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

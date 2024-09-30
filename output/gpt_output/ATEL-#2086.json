@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090615:123834+031854",
+            "RA": "12:38:33.65",
+            "Dec": "03:18:54.4",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "04:10:47",
+            "Date": "2009-06-15"
+        },
+        {
+            "Name": "CSS090615:210044+005212",
+            "RA": "21:00:43.94",
+            "Dec": "00:52:11.7",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "10:09:13",
+            "Date": "2009-06-15"
+        },
+        {
+            "Name": "CSS090602:112332+431717",
+            "RA": "11:23:32.04",
+            "Dec": "43:17:17.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "04:13:41",
+            "Date": "2009-06-02"
+        },
+        {
+            "Name": "CSS090601:162236+035246",
+            "RA": "16:22:35.74",
+            "Dec": "03:52:46.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "08:02:35",
+            "Date": "2009-06-01"
+        },
+        {
+            "Name": "CSS090531:222724+284403",
+            "RA": "22:27:24.49",
+            "Dec": "28:44:03.8",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "10:16:45",
+            "Date": "2009-05-31"
+        },
+        {
+            "Name": "CSS090530:144011+494733",
+            "RA": "14:40:11.04",
+            "Dec": "49:47:33.8",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "07:47:29",
+            "Date": "2009-05-30"
+        },
+        {
+            "Name": "CSS090528:211058-125440",
+            "RA": "21:10:58.01",
+            "Dec": "-12:54:40.2",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "10:17:38",
+            "Date": "2009-05-28"
+        },
+        {
+            "Name": "CSS090528:210838-105148",
+            "RA": "21:08:37.61",
+            "Dec": "-10:51:48.1",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "10:19:18",
+            "Date": "2009-05-28"
+        },
+        {
+            "Name": "CSS090526:161221-150939",
+            "RA": "16:12:21.27",
+            "Dec": "-15:09:38.6",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "07:13:20",
+            "Date": "2009-05-26"
+        },
+        {
+            "Name": "CSS090527:211345-063331",
+            "RA": "21:13:44.62",
+            "Dec": "-06:33:31.0",
+            "redshift": null,
+            "Type": "?",
+            "Time": "10:41:21",
+            "Date": "2009-05-27"
+        },
+        {
+            "Name": "CSS090615:124907+003142",
+            "RA": "12:49:06.73",
+            "Dec": "00:31:42.0",
+            "redshift": null,
+            "Type": "Flare star",
+            "Time": "04:09:22",
+            "Date": "2009-06-15"
+        }
+    ],
+    "References": "Miller et al. 2009 (vsnet-alert 11283), DSS, CSS, PQ, SDSS, P60, Gunn filters",
+    "Event Type": "Variable stars discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "P60",
+    "Instrument": "Gunn filters (g=18.1, r=18.2, i=18.4)",
+    "Observatory": "Catalina Real-time Transient Survey (CRTS)"
+}

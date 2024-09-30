@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0911-655/Swift J0911.9-6452",
+            "RA": "138.0118",
+            "Dec": "-64.8673",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 2808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Chandra source 13",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Point Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Chandra source 15",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Point Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMM-Newton source C4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV (Cataclysmic Variable)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Serino et al (ATEL #8872)",
+        "Servillat et al., 2008, A&A, 490, 641",
+        "Servillat et al., 2008, A&A, 480, 397"
+    ],
+    "Event Type": "Observation Report",
+    "Time": "1.6ks",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT (X-Ray Telescope)",
+    "Observatory": null
+}

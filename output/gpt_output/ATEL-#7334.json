@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051955.25-460144.4",
+            "RA": "05h 19m 55.25s",
+            "Dec": "-46d 01m 44.4s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-03-30.80796",
+            "Date": "2015-03-30"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2014-12-24",
+            "Time": "24.95295",
+            "Magnitude Limit": "20.3m"
+        },
+        {
+            "Date": "2015-02-19",
+            "Time": "19.936",
+            "Magnitude Limit": "19.8m"
+        },
+        {
+            "Date": "2015-01-12",
+            "Time": "12.965",
+            "Magnitude Limit": "20.0m"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-03-30.80796",
+    "Date": "2015-03-30",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

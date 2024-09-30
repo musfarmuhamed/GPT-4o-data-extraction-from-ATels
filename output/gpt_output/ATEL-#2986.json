@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J2345-1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.621",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2972",
+        "ATel #2977"
+    ],
+    "Event Type": "simultaneous optical and gamma-ray flares",
+    "Time": null,
+    "Date": "24 October 2010",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": null
+}

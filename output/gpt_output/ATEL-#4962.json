@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425838+4118556",
+            "RA": "0h42m58s.38",
+            "Dec": "+41o18'55\".6",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "8.140",
+            "Date": "2013 Apr."
+        },
+        {
+            "Name": "PNV J00425509+4115560",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "8.140",
+            "Date": "2013 Apr."
+        },
+        {
+            "Name": "PNV J00425469+4110257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "8.140",
+            "Date": "2013 Apr."
+        }
+    ],
+    "References": "ATel #4913",
+    "Event Type": "discovery",
+    "Time": "8.140",
+    "Date": "2013 Apr.",
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

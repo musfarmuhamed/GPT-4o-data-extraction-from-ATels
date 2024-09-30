@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Oct 18.086 UT",
+            "Date": "2013-10-18"
+        },
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Oct 17.008 UT",
+            "Date": "2013-10-17"
+        },
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Oct 19.197 UT",
+            "Date": "2013-10-19"
+        },
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Oct 21.451 UT",
+            "Date": "2013-10-21"
+        },
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013-03-21"
+        },
+        {
+            "Name": "Nova Mon 2012 (V959 Mon)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013-04-25"
+        }
+    ],
+    "References": [
+        "Munari et al. (2013, MNRAS, 435, 771)",
+        "Woodward et al. (ATel #5499)",
+        "Ribeiro et al. (2013, ApJ 768, 49)"
+    ],
+    "Event Type": "Monitoring and Spectroscopic Observation",
+    "Time": null,
+    "Date": [
+        "2013-09-03",
+        "2013-09-13",
+        "2013-09-24",
+        "2013-10-18",
+        "2013-10-17",
+        "2013-10-19",
+        "2013-10-21",
+        "2013-03-21",
+        "2013-04-25"
+    ],
+    "Telescope": [
+        "Asiago 1.22m telescope",
+        "Asiago 1.82m telescope",
+        "ANS Collaboration telescope 030"
+    ],
+    "Instrument": [
+        "B&C spectrograph",
+        "Echelle spectrograph",
+        null
+    ],
+    "Observatory": [
+        "Asiago",
+        "Asiago",
+        null
+    ]
+}

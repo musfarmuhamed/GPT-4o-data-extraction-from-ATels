@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GROJ1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": "11:42",
+            "Date": "Nov 02"
+        }
+    ],
+    "References": [
+        "ATel #6465",
+        "ATel #6630",
+        "ATel #6656",
+        "Bellm et al. 2014, ApJ, 792, 108"
+    ],
+    "Event Type": "Outburst",
+    "Time": "11:42 (UTC) to 05:40 (UTC)",
+    "Date": "Nov 02 to Nov 03",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

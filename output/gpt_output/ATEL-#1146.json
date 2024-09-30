@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "optical nova in M31",
+            "RA": "00h 43m 03.29s",
+            "Dec": "+41\u00b0 14' 52.94\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": [
+                "19.00741",
+                "19.00890",
+                "19.01041",
+                "19.01193",
+                "19.06966",
+                "19.09367"
+            ],
+            "Date": "2007 July 19"
+        }
+    ],
+    "References": "ATEL#1141",
+    "Event Type": "discovery",
+    "Time": "multiple times",
+    "Date": "2007 July 19",
+    "Telescope": [
+        "1.3m Ritchey Chretien f/7.5 telescope",
+        "0.35m f/2 reflector"
+    ],
+    "Instrument": [
+        "Andor DZ436-BV CCD Camera",
+        "SBIG ST-10 CCD Camera"
+    ],
+    "Observatory": [
+        "Skinakas Observatory, Crete, Greece",
+        "Observatorio Astronomico de La Sagra, Spain"
+    ]
+}

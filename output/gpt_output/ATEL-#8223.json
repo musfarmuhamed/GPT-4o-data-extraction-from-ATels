@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Quasar 0836+71",
+            "RA": "130.099",
+            "Dec": "71.33",
+            "redshift": "2.218",
+            "Type": "FSRQ",
+            "Time": "04:34 UT",
+            "Date": "2015-10-27"
+        },
+        {
+            "Name": "4C 71.07",
+            "RA": "130.099",
+            "Dec": "71.33",
+            "redshift": "2.218",
+            "Type": "FSRQ",
+            "Time": "04:34 UT",
+            "Date": "2015-10-27"
+        },
+        {
+            "Name": "5BZQJ0841+7053",
+            "RA": "130.099",
+            "Dec": "71.33",
+            "redshift": "2.218",
+            "Type": "FSRQ",
+            "Time": "04:34 UT",
+            "Date": "2015-10-27"
+        }
+    ],
+    "References": [
+        "Jorstad et al. European Physical Journal Web of Conferences, 2013",
+        "Akyuz et al. 2013, A&A 556, 71",
+        "Fermi (Atel #7870, ATel #3260 and ATel #3831)"
+    ],
+    "Event Type": "Gamma-ray flaring activity",
+    "Time": "04:34 UT",
+    "Date": "2015-10-27 to 2015-10-29",
+    "Telescope": "AGILE",
+    "Instrument": "Not specified",
+    "Observatory": "Not specified"
+}

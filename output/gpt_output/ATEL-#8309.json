@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14li",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TDE",
+            "Time": "unknown",
+            "Date": "2015-11-14"
+        },
+        {
+            "Name": "ASASSN-14li",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TDE",
+            "Time": "unknown",
+            "Date": "2015-08-12"
+        }
+    ],
+    "References": "Holoien et al. 2015, MNRAS, in press",
+    "Event Type": "observations",
+    "Time": null,
+    "Date": "2015-11-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

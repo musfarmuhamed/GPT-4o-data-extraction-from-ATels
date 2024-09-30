@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192757.03+404042.8",
+            "RA": "19h 27m 57.03s",
+            "Dec": "+40d 40m 42.8s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "28.08035",
+            "Date": "2014-03-28"
+        },
+        {
+            "Name": "MASTER OT J162655.28+333824.4",
+            "RA": "16h 26m 55.28s",
+            "Dec": "+33d 38m 24.4s",
+            "redshift": null,
+            "Type": "supernova or a dwarf nova in superoutburst",
+            "Time": "28.77928",
+            "Date": "2014-03-28"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J192757+404042-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/192757.03404042.8.png",
+        "http://master.sai.msu.ru/static/OT/162655.28333824.4.png"
+    ],
+    "Event Type": [
+        "discovery",
+        "discovery"
+    ],
+    "Time": [
+        "28.08035",
+        "28.77928"
+    ],
+    "Date": [
+        "2014-03-28",
+        "2014-03-28"
+    ],
+    "Telescope": [
+        "MASTER-Kislovodsk auto-detection system",
+        "MASTER-Tunka auto-detection system"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

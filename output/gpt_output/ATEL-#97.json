@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J004154.6+405648",
+            "RA": "00h41m54s.64",
+            "Dec": "+40d56m48s.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "2002-06-02T00:00:00Z",
+            "Date": "2002-06-02"
+        },
+        {
+            "Name": "1RXS J004154.1+405648",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "1991-01-01T00:00:00Z",
+            "Date": "1991"
+        },
+        {
+            "Name": "CXOM31 J004309.8+411901 (source r3-16)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2002-06-03T00:00:00Z",
+            "Date": "2002-06-03"
+        }
+    ],
+    "References": "Kong et al. 2002; astro-ph/0203243, Supper et al. 1997, 2001",
+    "Event Type": "X-ray Transient Detection",
+    "Time": "2002-06-02T00:00:00Z",
+    "Date": "2002-06-02",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I, ACIS",
+    "Observatory": null
+}

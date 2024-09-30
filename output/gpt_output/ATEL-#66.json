@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1758-258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "M. Gilfanov et al. 1993, ApJ 418, 844",
+        "D. M. Smith, W. A. Heindl & J. H. Swank 2001, submitted to ApJ",
+        "W. A. Heindl & D. M. Smith, 2000, BAAS 197, 118.01"
+    ],
+    "Event Type": "dramatic drop in hard x-ray flux",
+    "Time": "twice-weekly observations",
+    "Date": [
+        "Feb 21",
+        "Feb 27",
+        "Mar 12"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "Proportional Counter Array (PCA)",
+    "Observatory": null
+}

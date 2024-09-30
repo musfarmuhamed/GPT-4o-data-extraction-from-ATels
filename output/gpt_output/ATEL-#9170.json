@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033497",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16fx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2016brx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010167",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2016cpx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027352",
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2016cqk",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015204",
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT 2016css",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.020004",
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9059",
+        "ATel #9127",
+        "N/A"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": null,
+    "Date": "June 17 2016 UT",
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

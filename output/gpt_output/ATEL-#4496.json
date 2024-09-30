@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012fg",
+            "RA": "09:24:37.95",
+            "Dec": "+49:21:32.0",
+            "redshift": "0.01624",
+            "Type": "Supernova",
+            "Time": "15.007 UT",
+            "Date": "2012-10-15"
+        }
+    ],
+    "References": [
+        "ATel #4459",
+        "ATel #4466",
+        "CBET #3253"
+    ],
+    "Event Type": "spectrum observation",
+    "Time": "15.007 UT",
+    "Date": "2012-10-15",
+    "Telescope": "6-meter Russian telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

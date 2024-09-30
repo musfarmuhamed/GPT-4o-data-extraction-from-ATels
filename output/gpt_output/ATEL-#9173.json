@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016cvw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038877,
+            "Type": "Type-Ia supernova",
+            "Time": "2016 June 20.423 UT",
+            "Date": "2016 June 18.813 UT"
+        },
+        {
+            "Name": "PTSS-16ipw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038877,
+            "Type": "Type-Ia supernova",
+            "Time": "2016 June 20.423 UT",
+            "Date": "2016 June 18.813 UT"
+        }
+    ],
+    "References": [
+        "Huchra et al. 2012, ApJS, 199, 26, via NED",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Harutyunyan et al. 2008, A&A, 488, 383"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2016 June 20.423 UT",
+    "Date": "2016 June 18.813 UT",
+    "Telescope": "2.3-m Bok telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Kitt Peak"
+}

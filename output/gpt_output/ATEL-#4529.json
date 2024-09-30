@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J194850.95+102828.1",
+            "RA": "19h 48m 50.95s",
+            "Dec": "+10d 28m 28.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "00:11:04",
+            "Date": "2012-10-28"
+        },
+        {
+            "Name": "MASTER OT J034225.47+434645.4",
+            "RA": "03h 42m 25.47s",
+            "Dec": "+43d 46m 45.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "21:02:36",
+            "Date": "2012-10-21"
+        },
+        {
+            "Name": "MASTER OT J032215.93+432103.8",
+            "RA": "03h 22m 15.93s",
+            "Dec": "+43d 21m 03.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "21:34:15",
+            "Date": "2012-10-21"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/194850.95102828.1.png",
+        "http://master.sai.msu.ru/static/OT/034225.47434645.4_1.png",
+        "http://master.sai.msu.ru/static/OT/J034225+434645-BRIR-5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/032215.93432103.8_1.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

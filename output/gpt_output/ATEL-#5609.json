@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J040352.13+332556.4",
+            "RA": "04h 03m 52.13s",
+            "Dec": "+33d 25m 56.4s",
+            "redshift": null,
+            "Type": "Possible Supernova",
+            "Time": "20:27:57",
+            "Date": "2013-11-24"
+        },
+        {
+            "Name": "2MASX J04035291+3325518",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J040355.0+332615",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J132248.38+333020.7",
+            "RA": "13h 22m 48.38s",
+            "Dec": "+33d 30m 20.7s",
+            "redshift": null,
+            "Type": "Possible Supernova",
+            "Time": "21:18:42",
+            "Date": "2013-11-28"
+        },
+        {
+            "Name": "PGC 2033541 = SDSS J132247.82+333031.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0387",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J040352.13+332556.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Discovery Image",
+            "Time": "01:05:53",
+            "Date": "2012-09-21"
+        },
+        {
+            "Name": "MASTER OT J040352.13+332556.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Confirmed Observation",
+            "Time": "22:44:18",
+            "Date": "2013-11-28"
+        },
+        {
+            "Name": "MASTER OT J132248.38+333020.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Discovery Image",
+            "Time": "12:47:18",
+            "Date": "2012-08-19"
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Robotic Net",
+    "Instrument": null,
+    "Observatory": [
+        {
+            "Name": "MASTER-Kislovodsk"
+        },
+        {
+            "Name": "MASTER-Amur"
+        }
+    ]
+}

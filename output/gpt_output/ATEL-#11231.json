@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18az",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2017-12-28.42"
+        },
+        {
+            "Name": "Gaia18afh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2017-12-28.12"
+        },
+        {
+            "Name": "Gaia18afb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2017-12-28.29"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "ESA Gaia Photometric Science Alerts Team",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "James Neill (2018jh)",
+        "2MASX J22244417+1221410",
+        "Telescope Access Program (TAP)",
+        "National Astronomical Observatories of China",
+        "Chinese Academy of Sciences",
+        "Special Fund for Astronomy from the Ministry of Finance",
+        "Agreement between the National Astronomical Observatories, Chinese Academy of Sciences, and the California Institute of Technology"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2018-01-24",
+    "Telescope": "Hale 5m telescope",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

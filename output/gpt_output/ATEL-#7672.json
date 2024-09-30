@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15aux",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-06-18"
+        },
+        {
+            "Name": "IC 1342",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2013fn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2013"
+        },
+        {
+            "Name": "PS15ash",
+            "RA": "21 00 26.38",
+            "Dec": "-14 29 31.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-06-18"
+        }
+    ],
+    "References": "CBET 3662, Huber et al. ATel #7153",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2015-06-18",
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

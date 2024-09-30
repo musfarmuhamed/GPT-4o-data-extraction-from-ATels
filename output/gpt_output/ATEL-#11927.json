@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI/GSC detected source",
+            "RA": "277.752 deg",
+            "Dec": "-9.630 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": "17:04",
+            "Date": "2018-08-06"
+        },
+        {
+            "Name": "XTE J1829-098",
+            "RA": "277.43",
+            "Dec": "-9.86",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016, PASJ, 68, S1",
+        "Markwardt et al. 2004, Atel#317",
+        "Markwardt et al. 2009, Atel#2007",
+        "Halpern et al. 2007, ApJ, 669, 579"
+    ],
+    "Event Type": "X-ray flux enhancement",
+    "Time": "17:04",
+    "Date": "2018-08-06",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

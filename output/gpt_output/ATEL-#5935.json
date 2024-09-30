@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014G",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-L",
+            "Time": "UT",
+            "Date": "18 Feb 2014"
+        },
+        {
+            "Name": "SN 2014G",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-L",
+            "Time": "UT",
+            "Date": "25 Feb 2014"
+        }
+    ],
+    "References": [
+        "CBET 3787",
+        "Branch et al, 1981, Comm. Astrophys. 15:221-37"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "UT",
+    "Date": [
+        "18 Feb 2014",
+        "25 Feb 2014"
+    ],
+    "Telescope": [
+        "Tartu Observatory 1.5m Telescope",
+        "Multiple Mirror Telescope"
+    ],
+    "Instrument": [
+        "ASP-32 spectrograph",
+        "Hectospec MOS"
+    ],
+    "Observatory": [
+        "Tartu Observatory",
+        "MMT Observatory"
+    ]
+}

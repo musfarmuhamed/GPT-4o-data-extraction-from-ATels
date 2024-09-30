@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "20-21 October 2005"
+        },
+        {
+            "Name": "CXOGC J174541.0-290014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": null,
+            "Date": "20-21 October 2005"
+        },
+        {
+            "Name": "CXOGC J174535.5-290124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": null,
+            "Date": "20-21 October 2005"
+        }
+    ],
+    "References": [
+        "ATEL #637",
+        "Wijnands et al. 2005, A&A submitted, astro-ph/0508648",
+        "Muno et al. (2005, ApJ, 622, L113)"
+    ],
+    "Event Type": "Chandra/HRC-I observations",
+    "Time": null,
+    "Date": "20-21 October 2005",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": "XMM-Newton/Chandra"
+}

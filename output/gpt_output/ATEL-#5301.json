@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1746-37",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "N/A",
+            "Date": "N/A"
+        },
+        {
+            "Name": "1A 1744-361",
+            "RA": "17:48:13.4",
+            "Dec": "-36:07:57",
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": "N/A"
+        },
+        {
+            "Name": "XTE J1748-361",
+            "RA": "17:48:13.148",
+            "Dec": "-36 07 57.02",
+            "redshift": null,
+            "Type": "transient X-ray binary",
+            "Time": null,
+            "Date": "Nov. 2003"
+        }
+    ],
+    "References": [
+        "Wilson et al. 1977, ApJ, 215, L111",
+        "ATel #204",
+        "ATel #210",
+        "ATel #265",
+        "ATel #267",
+        "ATel #567",
+        "ATel #1587",
+        "ATel #2305"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "various (including Nov. 2003, Apr. 2004, July 2005, June 2008, Nov. 2009, mid-2010)",
+    "Date": "various (including Nov. 2003, Apr. 2004, July 2005, June 2008, Nov. 2009, mid-2010)",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT in PC mode",
+        "BAT"
+    ],
+    "Observatory": null
+}

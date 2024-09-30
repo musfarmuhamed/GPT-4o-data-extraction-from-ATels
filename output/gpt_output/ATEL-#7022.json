@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14C2vnf",
+            "RA": "03:35:34.85",
+            "Dec": "-29:02:52.8",
+            "redshift": "0.5421",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Jan 27"
+        },
+        {
+            "Name": "DES14C3uje",
+            "RA": "03:29:08.18",
+            "Dec": "-28:57:05.6",
+            "redshift": "0.78",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Jan 27"
+        },
+        {
+            "Name": "DES14C3tsg",
+            "RA": "03:28:25.74",
+            "Dec": "-28:09:50.7",
+            "redshift": "0.21",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2015 Jan 27"
+        },
+        {
+            "Name": "DES14C3rhw",
+            "RA": "03:27:16.30",
+            "Dec": "-28:43:51.4",
+            "redshift": "0.3407",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2015 Jan 28"
+        },
+        {
+            "Name": "DES14C3tvk",
+            "RA": "03:28:16.64",
+            "Dec": "-28:03:49.2",
+            "redshift": "0.53",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015 Jan 28"
+        }
+    ],
+    "References": "Howell et al, 2005, ApJ, 634, 1190; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Null",
+    "Date": "2015 Jan 27",
+    "Telescope": "Very Large Telescope (VLT)",
+    "Instrument": "X-SHOOTER",
+    "Observatory": "European Southern Observatory (ESO)"
+}

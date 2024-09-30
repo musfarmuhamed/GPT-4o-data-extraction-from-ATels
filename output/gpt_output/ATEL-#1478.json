@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J194302.1+321913",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pre-nova XRT source",
+            "Time": [
+                "2007-05-25",
+                "2007-06-10",
+                "2007-07-17",
+                "2007-07-21",
+                "2008-01-02"
+            ],
+            "Date": null
+        },
+        {
+            "Name": "Swift/BAT source Swift J1942.8+3220",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X-ray source Swift J194245.9+322411",
+            "RA": "19h42m45.9s",
+            "Dec": "+32d24'10.7\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMM-Newton slew-survey source XMMSL1 J194301.9+321911",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "XMM-Newton slew-survey source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ROSAT All-Sky Survey Faint Source 1RXS J194259.9+321940",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1473",
+        "Kraft et al. 1991, ApJ 374, 344",
+        "IAUC # 8935",
+        "ATel #1473",
+        "IAUC # 8935",
+        "ATel #1475"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift",
+        "XMM-Newton",
+        "ROSAT"
+    ],
+    "Instrument": [
+        "XRT",
+        "BAT",
+        "PSPC"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate (BHC)",
+            "Time": "17:45 to 21:23",
+            "Date": "2011 Feb. 28"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate (BHC)",
+            "Time": "19:00 to 20:36",
+            "Date": "2011 Feb. 28"
+        }
+    ],
+    "References": [
+        "ATel #3144",
+        "ATel #3159",
+        "ATel #3167",
+        "Kuulkers et al. 2007, A&A, 466, 595",
+        "ATel #3179"
+    ],
+    "Event Type": "outburst",
+    "Time": [
+        "17:45 to 21:23",
+        "19:00 to 20:36"
+    ],
+    "Date": "2011 Feb. 28",
+    "Telescope": [
+        "INTEGRAL",
+        "Swift"
+    ],
+    "Instrument": [
+        "IBIS",
+        "XRT"
+    ],
+    "Observatory": null
+}

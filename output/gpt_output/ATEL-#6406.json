@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2010-NOVA-01",
+            "RA": "17:54:34.76",
+            "Dec": "-23:32:21.5",
+            "redshift": null,
+            "Type": "S(10)",
+            "Time": "2010 June 26.34391 UT",
+            "Date": "2010-06-26"
+        },
+        {
+            "Name": "OGLE-2010-NOVA-02",
+            "RA": "17:36:59.70",
+            "Dec": "-29:08:14.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "2010 September 26.03510 UT",
+            "Date": "2010-09-26"
+        },
+        {
+            "Name": "OGLE-2011-NOVA-02",
+            "RA": "17:36:59.57",
+            "Dec": "-29:51:56.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011 February 10.35534 UT",
+            "Date": "2011-02-10"
+        }
+    ],
+    "References": "Strope et al. (2010, AJ 140, 34); Gonzalez et al. (2012, A&A 543, 13)",
+    "Event Type": "Nova Eruptions",
+    "Time": null,
+    "Date": [
+        "2010",
+        "2011"
+    ],
+    "Telescope": "Optical Gravitational Lensing Experiment (OGLE)",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18cl",
+            "RA": "11 09 14.7",
+            "Dec": "-12 55 52.4",
+            "redshift": "0.026",
+            "Type": "?",
+            "Time": null,
+            "Date": "20180213"
+        },
+        {
+            "Name": "Gaia18afs",
+            "RA": "12 56 48.4",
+            "Dec": "+03 53 27.2",
+            "redshift": "0.025",
+            "Type": "Ib",
+            "Time": null,
+            "Date": "20180121"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 February 15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

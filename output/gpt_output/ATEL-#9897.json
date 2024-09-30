@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16of",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030",
+            "Type": "Type Ia supernova",
+            "Time": "22.3",
+            "Date": "2016 December 22"
+        },
+        {
+            "Name": "ASASSN-16ok",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.040",
+            "Type": "Type Ia supernova",
+            "Time": "22.1",
+            "Date": "2016 December 22"
+        },
+        {
+            "Name": "ASASSN-16om",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.045",
+            "Type": "Type Ia supernova",
+            "Time": "22.1",
+            "Date": "2016 December 22"
+        }
+    ],
+    "References": [
+        "ATel #9815",
+        "ATel #9826",
+        "ATel #9827"
+    ],
+    "Event Type": "Optical spectra observation",
+    "Time": null,
+    "Date": "2016 December 22",
+    "Telescope": "SOAR telescope",
+    "Instrument": "Goodman Spectrograph",
+    "Observatory": null
+}

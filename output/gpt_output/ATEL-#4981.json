@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": "18h24m32.51s",
+            "Dec": "-24\u00b052\u203207.9\u2032\u2032",
+            "redshift": null,
+            "Type": "INTEGRAL transient",
+            "Time": null,
+            "Date": "2013-04-05"
+        },
+        {
+            "Name": "ATCA source near IGR J18245-2452",
+            "RA": "18h24m32.51s",
+            "Dec": "-24\u00b052\u203207.9\u2032\u2032",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": "2013-04-05"
+        }
+    ],
+    "References": "#4925, #4927, #4929, #4934, #4959, #4960, #4961, #4964",
+    "Event Type": "Observation",
+    "Time": "6 hours",
+    "Date": "2013-04-05",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": "Australia Telescope Compact Array"
+}

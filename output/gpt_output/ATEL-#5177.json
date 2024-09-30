@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13av",
+            "RA": "21:26:31.934",
+            "Dec": "+12:10:49.41",
+            "redshift": "0.01729",
+            "Type": "supernova",
+            "Time": "2013 June 26.47",
+            "Date": "2013-06-26"
+        },
+        {
+            "Name": "NGC7068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01729",
+            "Type": "Sc galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4987",
+        "#4999",
+        "#5010",
+        "#5082",
+        "#5102",
+        "#5110",
+        "#5138",
+        "#5168"
+    ],
+    "Event Type": "discovery",
+    "Time": "2013 June 26.47",
+    "Date": "2013-06-26",
+    "Telescope": "\"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

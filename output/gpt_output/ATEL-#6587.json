@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J095321.02+202721.2",
+            "RA": "00h 09m 17.60s",
+            "Dec": "+30d 22m 30.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2014-10-15.85795 UT",
+            "Date": "2014-10-15"
+        },
+        {
+            "Name": "MASTER OT J200455.61+440220.4",
+            "RA": "20h 04m 55.55s",
+            "Dec": "+44d 02m 19.2s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2014-10-14.52505 UT",
+            "Date": "2014-10-14"
+        }
+    ],
+    "References": [
+        {
+            "Name": "PGC 1901469 = SDSS J000916.03+302249.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J200455.61+440220.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AAVSO VSX possible dwarf nova (UG:)",
+            "Time": "2012-10-30",
+            "Date": "2012-10-30"
+        }
+    ],
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

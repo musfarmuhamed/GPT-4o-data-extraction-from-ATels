@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017eaw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.000133,
+            "Type": "IIP supernova",
+            "Time": "14.79",
+            "Date": "2017-05-14"
+        },
+        {
+            "Name": "NGC 6946",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.000133,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "14.79",
+    "Date": "2017-05-14",
+    "Telescope": "2.16-m",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

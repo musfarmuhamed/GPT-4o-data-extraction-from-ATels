@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16dx/AT2016blk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02997,
+            "Type": "Type Ia supernova",
+            "Time": "00:00",
+            "Date": "2016-04-10"
+        },
+        {
+            "Name": "SN2007if",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-chandra",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2002ic",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia-CSM",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN1991T-like SNe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN1991T-like",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8898, TNS",
+    "Event Type": "optical spectrum observation",
+    "Time": "00:00",
+    "Date": "2016-04-10",
+    "Telescope": "Magellan 6.5-m Baade",
+    "Instrument": "IMACS",
+    "Observatory": null
+}

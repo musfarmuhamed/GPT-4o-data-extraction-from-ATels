@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18lww",
+            "IAU Name": "AT2018nw",
+            "RA": "01:57:20.44",
+            "Dec": "+40:36:08.96",
+            "redshift": 0.01,
+            "Type": "II",
+            "Phase": null,
+            "Notes": null
+        },
+        {
+            "Name": "PS18gc",
+            "IAU Name": "AT2018ow",
+            "RA": "02:51:04.41",
+            "Dec": "+09:06:44.32",
+            "redshift": 0.01,
+            "Type": "IIb",
+            "Phase": null,
+            "Notes": "(1) We measure an H alpha velocity of -12,400 km/s."
+        },
+        {
+            "Name": "ASASSN-18bw",
+            "IAU Name": "AT2018pj",
+            "RA": "07:10:31.73",
+            "Dec": "+32:38:46.43",
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Phase": "-4d",
+            "Notes": "(2) We measure an Si II 6355 velocity of -14,500 km/s."
+        },
+        {
+            "Name": null,
+            "IAU Name": "AT2018pm",
+            "RA": "08:19:07.89",
+            "Dec": "+44:56:44.00",
+            "redshift": 0.06,
+            "Type": "II",
+            "Phase": null,
+            "Notes": null
+        },
+        {
+            "Name": "PS18fy",
+            "IAU Name": "AT2018ot",
+            "RA": "13:04:58.73",
+            "Dec": "+30:30:18.88",
+            "redshift": 0.036,
+            "Type": "Ib",
+            "Phase": null,
+            "Notes": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": [
+        "2018 Feb 07 UT",
+        "2018 Feb 08 UT"
+    ],
+    "Date": [
+        "2018-02-07",
+        "2018-02-08"
+    ],
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Lick Observatory"
+}

@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018hi",
+            "RA": "08 53 40.57",
+            "Dec": "-25 03 32.04",
+            "redshift": "0.022",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20180115"
+        },
+        {
+            "Name": "SN2018pq",
+            "RA": "12 55 31.29",
+            "Dec": "-50 03 16.96",
+            "redshift": "0.006",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20180208"
+        },
+        {
+            "Name": "AT2018qb",
+            "RA": "08 56 50.98",
+            "Dec": "+21 07 38.51",
+            "redshift": "0.082",
+            "Type": "-",
+            "Time": "Null",
+            "Date": "20180124"
+        },
+        {
+            "Name": "SN2018rw",
+            "RA": "06 09 39.25",
+            "Dec": "-33 35 24.72",
+            "redshift": "0.037",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20180210"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "https://wis-tns.weizmann.ac.il/",
+        "http://www.pessto.org (via WISeREP)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 Feb 12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

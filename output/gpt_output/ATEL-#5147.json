@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J184843.52+295451.0",
+            "RA": "18h 48m 43.52s",
+            "Dec": "+29d 54m 51.0s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-06-17.64479 UT",
+            "Date": "2013-06-17"
+        },
+        {
+            "Name": "MASTER OT J154951.14+605448.1",
+            "RA": "15h 49m 51.14s",
+            "Dec": "+60d 54m 48.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-06-18.73240 UT",
+            "Date": "2013-06-18"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J184843+295451-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/184843.52295451.0.png",
+        "http://master.sai.msu.ru/static/OT/154951.14605448.1.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ],
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

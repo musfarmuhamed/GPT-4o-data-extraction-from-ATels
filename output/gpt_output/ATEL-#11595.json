@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18iw (AT 2018ayg)",
+            "RA": "14:43:39.164",
+            "Dec": "+18:52:12.24",
+            "redshift": "0.030973",
+            "Type": "Supernova",
+            "Time": "2018-04-21.28",
+            "Date": "2018-04-21"
+        },
+        {
+            "Name": "ASASSN-18iv (AT 2018ayf)",
+            "RA": "09:41:10.648",
+            "Dec": "+24:01:21.01",
+            "redshift": "0.070028",
+            "Type": "Supernova",
+            "Time": "2018-04-21.74",
+            "Date": "2018-04-21"
+        },
+        {
+            "Name": "ASASSN-18iu (AT 2018aye)",
+            "RA": "17:57:40.192",
+            "Dec": "+50:02:18.91",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2018-04-21.32",
+            "Date": "2018-04-21"
+        },
+        {
+            "Name": "ASASSN-18it (AT 2018awt)",
+            "RA": "11:48:45.277",
+            "Dec": "-18:24:36.11",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2018-04-19.93",
+            "Date": "2018-04-19"
+        },
+        {
+            "Name": "ASASSN-18is (AT 2018awo)",
+            "RA": "12:16:22.846",
+            "Dec": "-35:01:04.96",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2018-04-19.96",
+            "Date": "2018-04-19"
+        },
+        {
+            "Name": "ASASSN-18io (AT 2018awn)",
+            "RA": "11:30:11.644",
+            "Dec": "+4:24:55.58",
+            "redshift": "0.029123",
+            "Type": "Supernova",
+            "Time": "2018-04-20.23",
+            "Date": "2018-04-20"
+        },
+        {
+            "Name": "ASASSN-18im (AT 2018avv)",
+            "RA": "13:51:34.331",
+            "Dec": "-05:53:25.08",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2018-04-17.22",
+            "Date": "2018-04-17"
+        },
+        {
+            "Name": "ASASSN-18ie (AT 2018avh)",
+            "RA": "13:11:39.382",
+            "Dec": "+6:19:10.28",
+            "redshift": "0.045760",
+            "Type": "Supernova",
+            "Time": "2018-04-16.27",
+            "Date": "2018-04-16"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "Transient Discovery",
+    "Time": null,
+    "Date": "Ongoing",
+    "Telescope": "Quadruple 14-cm",
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

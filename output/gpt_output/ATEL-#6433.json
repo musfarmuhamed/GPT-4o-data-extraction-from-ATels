@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 13+1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": [
+                "01:20",
+                "10:37",
+                "12:10",
+                "13:43",
+                "15:16",
+                "21:28",
+                "02:06",
+                "06:45",
+                "08:18"
+            ],
+            "Date": [
+                "August 30, 2014",
+                "August 31, 2014"
+            ]
+        }
+    ],
+    "References": [
+        "Smith et al. 2002",
+        "Iaria et al. A&A 561, a99, 2014"
+    ],
+    "Event Type": "sudden drop in X-ray intensity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MAXI-GSC",
+    "Instrument": null,
+    "Observatory": null
+}

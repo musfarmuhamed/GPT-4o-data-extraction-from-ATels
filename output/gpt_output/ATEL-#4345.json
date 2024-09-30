@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ02045-1156",
+            "RA": 31.15306,
+            "Dec": -11.99501,
+            "redshift": null,
+            "Type": "Seyfert 1",
+            "Time": "5.5 ks",
+            "Date": null
+        },
+        {
+            "Name": "IGRJ02574-0303",
+            "RA": 44.34122,
+            "Dec": -3.10622,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.3 ks",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #4102",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "Swift/XRT localization",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

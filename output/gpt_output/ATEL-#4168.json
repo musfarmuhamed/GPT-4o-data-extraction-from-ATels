@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be HMXB",
+            "Time": "01:00",
+            "Date": "2012-06-12"
+        },
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/XRB transient pulsar",
+            "Time": "02:48",
+            "Date": "2012-06-06"
+        }
+    ],
+    "References": [
+        "Konstantinova et al. (ATel #4068)",
+        "Hulleman et al. 1998",
+        "Baykal et al. 2000",
+        "Sidoli et al. 2005",
+        "Baykal et al. 2007",
+        "Camero-Arranz et al. 2007",
+        "Ducci et al. 2008",
+        "Reig & Mavromatakis 2003",
+        "Corbet 1986"
+    ],
+    "Event Type": "Renewed activity detection",
+    "Time": "01:00",
+    "Date": "2012-06-12",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017err",
+            "RA": "11:11:25.10",
+            "Dec": "+00:06:58.5",
+            "redshift": "0.107",
+            "Type": "SLSN-IIn",
+            "Time": "23:50 UT",
+            "Date": "2017-06-17"
+        }
+    ],
+    "References": [
+        "Tonry et al. 2017, TNSTR, 649, 1",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Chen et al. ATel #10510",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": "23:50 UT",
+    "Date": "2017-06-17",
+    "Telescope": [
+        "South African Large Telescope (SALT)",
+        "GROND"
+    ],
+    "Instrument": [
+        "Robert Stobie Spectrograph (RSS)"
+    ],
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J07594-3843",
+            "RA": "7h 59m 43.5s",
+            "Dec": "-38o 42' 36s",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RXH J075942.0-384355",
+            "RA": "07h 59m 42.0s",
+            "Dec": "-38o 43' 56.0\"",
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RXH J075959.2-384102",
+            "RA": "null",
+            "Dec": "null",
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IRAS 07579-3835",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IRAS point source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NVSS archive",
+    "Event Type": "detection of a new hard X-ray source",
+    "Time": null,
+    "Date": "June/July and November/December 2003",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI detector",
+    "Observatory": "null"
+}

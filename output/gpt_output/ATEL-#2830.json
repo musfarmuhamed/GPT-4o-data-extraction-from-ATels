@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source #1",
+            "RA": "20h 45m 22.10s",
+            "Dec": "+75d 30m 53.37s",
+            "redshift": null,
+            "Type": null,
+            "Time": "~19.4 ks",
+            "Date": "2010, July 20, 21, 23, 30, and August 16"
+        },
+        {
+            "Name": "Source #2",
+            "RA": "20h 44m 34.47s",
+            "Dec": "+75d 31m 56.97s",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": "~19.4 ks",
+            "Date": "2010, July 20, 21, 23, 30, and August 16"
+        },
+        {
+            "Name": "Source #3",
+            "RA": "20h 44m 41.16s",
+            "Dec": "+75d 35m 07.85s",
+            "redshift": null,
+            "Type": "ROSAT Faint object 1RXS J204440.6+753006",
+            "Time": "~19.4 ks",
+            "Date": "2010, July 20, 21, 23, 30, and August 16"
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": "~19.4 ks",
+    "Date": "2010, July 20, 21, 23, 30, and August 16",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1150+497",
+            "RA": "11h53m24.4666s",
+            "Dec": "+49d31m08.830s",
+            "redshift": "0.334",
+            "Type": "quasar",
+            "Time": "April 23 0 UT to April 26 15:51 UT",
+            "Date": "2011"
+        },
+        {
+            "Name": "BZQ J1152+4939",
+            "RA": "11h52m32.8710s",
+            "Dec": "+49d39m38.767s",
+            "redshift": "1.093",
+            "Type": "candidate",
+            "Time": "April 23 0 UT to April 26 15:51 UT",
+            "Date": "2011"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Sambruna et al. 2002, ApJ, 571, 206",
+        "Lynds & Wills 1968, ApJ, 153, L23",
+        "Fomalont et al. 2003, AJ, 126, 2562",
+        "SDSS4, 2005"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "April 23 0 UT to April 26 15:51 UT",
+    "Date": "2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

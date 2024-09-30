@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT 355",
+            "RA": "173240.70",
+            "Dec": "+385949.00",
+            "redshift": "0.975",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "7C 173240.70+385949.00",
+            "RA": "173240.70",
+            "Dec": "+385949.00",
+            "redshift": "0.975",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "CRTS",
+            "Date": null
+        }
+    ],
+    "References": "http://nesssi.cacr.caltech.edu/catalina/20011332/113321380764100137p.html, http://storage.astro.bas.bg/~bachevr/OT355_Atel/OT355.jpg",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "June 19th, 2017 to June 25th, 2017",
+    "Telescope": [
+        "60cm reflector",
+        "200 cm reflector",
+        "50/70 cm Schmidt camera"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Belogradchik Observatory, Bulgaria",
+        "Rozhen Observatory, Bulgaria"
+    ]
+}

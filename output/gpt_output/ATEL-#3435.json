@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2011dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb supernova",
+            "Time": "June 8, 12, & 16",
+            "Date": "2011"
+        }
+    ],
+    "References": "Arcavi et al. 2011, ATEL 3413",
+    "Event Type": "Observation",
+    "Time": "June 4 to June 16",
+    "Date": "2011",
+    "Telescope": [
+        "IRTF 3.5m",
+        "FLWO 1.5m Tillinghast telescope",
+        "9.2m Hobby-Eberly Telescope"
+    ],
+    "Instrument": [
+        "SpeX instrument",
+        "FAST spectrograph",
+        "Marcario Low-Resolution Spectrograph"
+    ],
+    "Observatory": "McDonald Observatory"
+}

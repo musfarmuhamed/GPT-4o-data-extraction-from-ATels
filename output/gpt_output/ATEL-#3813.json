@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J063045.9-603110",
+            "RA": "06:30:45.45",
+            "Dec": "-60:31:12.8",
+            "redshift": null,
+            "Type": "Proposed as counterpart to an XMM slew source, possibly an accretion disk spectrum object",
+            "Time": "03:41",
+            "Date": "2011-12-18"
+        }
+    ],
+    "References": [
+        "Read et al., ATEL #3811",
+        "Greiner et al. 2008, PASP, 120, 405",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "Observation",
+    "Time": "03:41",
+    "Date": "2011-12-18",
+    "Telescope": "2.2 m ESO/MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory"
+}

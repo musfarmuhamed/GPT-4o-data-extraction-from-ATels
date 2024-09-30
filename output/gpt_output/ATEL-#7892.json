@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J021038.91+533751.8",
+            "RA": "02h 10m 38.91s",
+            "Dec": "+53d 37m 51.8s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-08-06.63118 UT",
+            "Date": "2015-08-06"
+        },
+        {
+            "Name": "USNO-B1 star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Date": "2014-02-08",
+            "Time": "2014-02-08.7297",
+            "m_lim": 18.8
+        },
+        {
+            "Date": "2013-11-01",
+            "Time": "2013-11-01.77271",
+            "m_lim": 19.0
+        },
+        {
+            "Date": "2013-10-31",
+            "Time": "2013-10-31.7298",
+            "m_lim": 19.0
+        }
+    ],
+    "Event Type": "detection",
+    "Time": "2015-08-06.63118 UT",
+    "Date": "2015-08-06",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

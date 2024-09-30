@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1817-330",
+            "RA": "18h 17m 43.526s",
+            "Dec": "-33d 01' 07.47\"",
+            "redshift": null,
+            "Type": "black hole candidate binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "radio counterpart",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": {
+                "Jan. 31": {
+                    "mJy": "0.83 +/- 0.12",
+                    "Frequency": "4.86 GHz"
+                },
+                "Feb. 2": {
+                    "mJy": "0.32 +/- 0.06",
+                    "Frequency": "4.86 GHz"
+                },
+                "Feb. 3": {
+                    "mJy": "0.35 +/- 0.05",
+                    "Frequency": "4.86 GHz"
+                }
+            }
+        }
+    ],
+    "References": [
+        "ATel #714",
+        "ATel #717"
+    ],
+    "Event Type": "fading of radio counterpart",
+    "Time": null,
+    "Date": {
+        "Start": "Jan. 31",
+        "End": "Feb. 3"
+    },
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": "radio observations",
+    "Observatory": "National Radio Astronomy Observatory"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "delta Scorpii",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": [
+                "03:56 UT",
+                "05:36 UT"
+            ],
+            "Date": "31 Jan 2016"
+        }
+    ],
+    "References": [
+        "https://www.aavso.org/vsots_delsco",
+        "http://arxiv.org/pdf/1112.2356",
+        "http://arxiv.org/pdf/1410.8492v1.pdf"
+    ],
+    "Event Type": "unusual brightening",
+    "Time": "03:56 UT and 05:36 UT",
+    "Date": "31 Jan 2016",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Lanciano, Italy"
+}

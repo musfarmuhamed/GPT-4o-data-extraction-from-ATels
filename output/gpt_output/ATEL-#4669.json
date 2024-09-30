@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS121213:021824+163359",
+            "RA": "021824",
+            "Dec": "163359",
+            "redshift": 0.03,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121212:021426+052309",
+            "RA": "021426",
+            "Dec": "052309",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121212:025025+070218",
+            "RA": "025025",
+            "Dec": "070218",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121210:112615+144039",
+            "RA": "112615",
+            "Dec": "144039",
+            "redshift": 0.09,
+            "Type": "Ic",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121204:033907-064917",
+            "RA": "033907",
+            "Dec": "-064917",
+            "redshift": 0.03,
+            "Type": "Ib",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121122:025711+112343",
+            "RA": "025711",
+            "Dec": "112343",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS121112:002624+163027",
+            "RA": "002624",
+            "Dec": "163027",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel#4595, Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Supernovae Classification",
+    "Time": null,
+    "Date": "Dec 16th and 17th UT",
+    "Telescope": "Keck-I",
+    "Instrument": "LRIS",
+    "Observatory": "Keck Observatory"
+}

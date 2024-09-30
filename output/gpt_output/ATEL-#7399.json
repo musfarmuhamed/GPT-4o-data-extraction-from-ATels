@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15vo",
+            "RA": "08:43:46.77",
+            "Dec": "+19:15:32.7",
+            "redshift": "0.052",
+            "Type": "SN II",
+            "Time": "2015-03-27",
+            "Date": "2015-03-13.21"
+        },
+        {
+            "Name": "iPTF15agp",
+            "RA": "14:56:20.34",
+            "Dec": "+45:16:31.5",
+            "redshift": "0.0305",
+            "Type": "SN II",
+            "Time": "2015-04-11",
+            "Date": "2015-04-11.24"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012"
+    ],
+    "Event Type": "Core-Collapse SNe",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 2358+209",
+            "RA": "0.38487 deg",
+            "Dec": "21.22674 deg",
+            "redshift": "1.106",
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CRATES J0001+2113",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J0001.4+2120",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 2356+196",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Jackson et al. 2007, MNRAS, 376, 371",
+        "Falco et al. 1998, ApJ, 494, 47",
+        "Hartman et al. 1999, ApJS, 123, 79"
+    ],
+    "Event Type": "Gamma-ray outburst",
+    "Time": "00:00:00 UTC",
+    "Date": "05-02-2016 to 08-02-2016",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with institutions in France, Italy, Japan, and Sweden"
+}

@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF13anh",
+            "RA": "13 06 50.45",
+            "Dec": "+15 34 32.4",
+            "redshift": "0.0615",
+            "Type": "SN Ia",
+            "Time": "Apr 18.26",
+            "Date": "Apr 19"
+        },
+        {
+            "Name": "PTF13ani",
+            "RA": "14 07 15.02",
+            "Dec": "+09 03 22.1",
+            "redshift": "0.13",
+            "Type": "SN Ia",
+            "Time": "Apr 18.27",
+            "Date": "Apr 19"
+        },
+        {
+            "Name": "PTF13aol",
+            "RA": "15 06 50.87",
+            "Dec": "+01 35 49.1",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "Apr 22.29",
+            "Date": "May 05"
+        },
+        {
+            "Name": "PTF13arm",
+            "RA": "13 12 14.35",
+            "Dec": "+35 39 08.6",
+            "redshift": "0.247",
+            "Type": "SN Ia",
+            "Time": "May 01.19",
+            "Date": "May 02"
+        },
+        {
+            "Name": "PTF13aro",
+            "RA": "15 47 32.23",
+            "Dec": "+23 01 26.2",
+            "redshift": "0.0846",
+            "Type": "SN Ia",
+            "Time": "May 01.45",
+            "Date": "May 04"
+        },
+        {
+            "Name": "PTF13asv",
+            "RA": "16 22 43.19",
+            "Dec": "+18 57 35.0",
+            "redshift": "0.035",
+            "Type": "SN Ia",
+            "Time": "May 03.46",
+            "Date": "May 04"
+        },
+        {
+            "Name": "PTF13ats",
+            "RA": "12 11 56.44",
+            "Dec": "+18 25 26.5",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": "May 05.27",
+            "Date": "May 09"
+        },
+        {
+            "Name": "PTF13ayw",
+            "RA": "15 39 33.52",
+            "Dec": "+32 05 38.2",
+            "redshift": "0.0538",
+            "Type": "SN Ia",
+            "Time": "May 10.44",
+            "Date": "May 11"
+        }
+    ],
+    "References": "ATel #4807; WISeREP (Yaron & Gal-Yam 2012)",
+    "Event Type": "discovery of Type Ia SNe",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

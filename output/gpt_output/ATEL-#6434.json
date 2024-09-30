@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J032950.10+081619.6",
+            "RA": "03h 29m 50.10s",
+            "Dec": "+08d 16m 19.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "24.98325",
+            "Date": "2014-08-24"
+        },
+        {
+            "Name": "anonymous galaxy USNO-B1.0 0982-0045541",
+            "RA": "03 29 49.47",
+            "Dec": "+08 16 24.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J030831.74+142530.3",
+            "RA": "03h 08m 31.74s",
+            "Dec": "+14d 25m 30.3s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "28.00450",
+            "Date": "2014-08-28"
+        },
+        {
+            "Name": "galaxy PGC 1457807",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Time": "26.75233",
+            "Date": "2011-01-26",
+            "Magnitude Limit": "21.9m"
+        },
+        {
+            "Time": "11.68212",
+            "Date": "2011-01-11",
+            "Magnitude Limit": "22.1m"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": "unfiltered",
+    "Observatory": "MASTER Robotic Net"
+}

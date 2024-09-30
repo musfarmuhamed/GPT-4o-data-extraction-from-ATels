@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J222232.87-185224.3",
+            "RA": "22h 22m 32.87s",
+            "Dec": "-18d 52m 24.3s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "14.08992",
+            "Date": "2015-06-14"
+        },
+        {
+            "Name": "MASTER OT J214018.02-070410.7",
+            "RA": "21h 40m 18.02s",
+            "Dec": "-07d 04m 10.7s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "12.05168",
+            "Date": "2015-06-12"
+        }
+    ],
+    "References": {
+        "Publication": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010"
+    },
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

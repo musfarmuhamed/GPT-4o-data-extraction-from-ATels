@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": "17:48:04.829",
+            "Dec": "-24:46:49.10",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Red Giant Branch object",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2974",
+        "ATel #2919",
+        "ATel #2920",
+        "ATel #2922",
+        "ATel #2924",
+        "ATel #2929",
+        "ATel #2932",
+        "ATel #2933",
+        "ATel #2935",
+        "ATel #2937",
+        "ATel #2939",
+        "ATel #2946",
+        "ATel #2952",
+        "ATel #2958",
+        "ATel #3000",
+        "ATel #3044"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "6-7 November 2010",
+    "Telescope": "ESO-VLT Yepun",
+    "Instrument": "NAOS-CONICA",
+    "Observatory": "European Southern Observatory"
+}

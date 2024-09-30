@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J09253+6929",
+            "RA": "09 25 47.58",
+            "Dec": "+69 27 53.1",
+            "redshift": "0.039",
+            "Type": "Seyfert 1 AGN",
+            "Time": "3600 s",
+            "Date": "2008 March 29"
+        },
+        {
+            "Name": "IGR J11098-6457",
+            "RA": "11 09 47.77",
+            "Dec": "-64 52 45.4",
+            "redshift": "0",
+            "Type": "Galactic symbiotic star",
+            "Time": "2400 s",
+            "Date": "2008 March 3"
+        }
+    ],
+    "References": "Landi et al., ATel #1538; Bird et al. 2007, ApJS, 170, 175",
+    "Event Type": "Soft X-ray Emission Detection",
+    "Time": "NULL",
+    "Date": "NULL",
+    "Telescope": "1.5m 'Cassini' telescope; CTIO 1.5m telescope",
+    "Instrument": "BFOSC instrument; R-C spectrograph",
+    "Observatory": "Astronomical Observatory of Bologna in Loiano (Italy); Cerro Tololo (Chile)"
+}

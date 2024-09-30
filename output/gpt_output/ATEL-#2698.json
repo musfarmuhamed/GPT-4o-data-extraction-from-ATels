@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +21.35",
+            "RA": "12h24m54.5s",
+            "Dec": "+21d22m46.4s",
+            "redshift": 0.43,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1222+21",
+            "RA": "12h24m54.5s",
+            "Dec": "+21d22m46.4s",
+            "redshift": 0.43,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J1224.7+2121",
+            "RA": "12h24m54.5s",
+            "Dec": "+21d22m46.4s",
+            "redshift": 0.43,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2686",
+        "ATel #2687"
+    ],
+    "Event Type": "gamma-ray flare detection",
+    "Time": null,
+    "Date": "June 19, 2010",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Swift"
+}

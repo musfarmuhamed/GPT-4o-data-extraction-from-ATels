@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:07:09 - 02:48:18 UTC",
+            "Date": "2017-10-11"
+        },
+        {
+            "Name": "SAX J1748.9-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17511-3057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AMXP source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10821",
+        "ATel #10826",
+        "Tetarenko et al., 2016, MNRAS, 460, 345",
+        "Tudor et al. 2017, MNRAS, 470, 324",
+        "Harris W.E. 1996, AJ, 112, 1487 - 2010 Edition",
+        "in 't Zand et al., 2001, ApJ, 563, L41",
+        "Pooley et al. 2002 ApJ, 573, 184"
+    ],
+    "Event Type": "Follow-up observation",
+    "Time": "01:07:09 - 02:48:18 UTC",
+    "Date": "2017-10-11",
+    "Telescope": "VLA",
+    "Instrument": "Unknown",
+    "Observatory": "NRAO"
+}

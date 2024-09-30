@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1824-2452I",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #4925, #4927, #4929, #4934, #4959, #4960, #4961, #4964, #4981, #5003, #5031, #5045, #5068",
+    "Event Type": "radio monitoring campaign",
+    "Time": "UT Date-time",
+    "Date": "2013-04-29 to 2013-05-13",
+    "Telescope": "Green Bank Telescope, Parkes telescope, Westerbork Synthesis Radio Telescope",
+    "Instrument": "GUPPI, AFB/BPSR, PuMaII backends",
+    "Observatory": null
+}

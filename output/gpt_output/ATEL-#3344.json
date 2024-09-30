@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11dij",
+            "RA": "13:50:57.77",
+            "Dec": "+26:16:42.8",
+            "redshift": 0.143,
+            "Type": "luminous, hydrogen poor supernova",
+            "Time": "Unknown",
+            "Date": "2011 March 30"
+        },
+        {
+            "Name": "CSS110406:135058+261642",
+            "RA": "13:50:57.77",
+            "Dec": "+26:16:42.8",
+            "redshift": 0.143,
+            "Type": "host galaxy",
+            "Time": "Unknown",
+            "Date": "2011 March 30"
+        }
+    ],
+    "References": "Law et al., 2009; Rau et al., 2009; Drake et al. ATel#3343; Quimby et al. 2011, Nature, in press",
+    "Event Type": "detection and spectroscopic follow-up",
+    "Time": "Unknown",
+    "Date": "2011 March 30",
+    "Telescope": "KPNO 4m telescope",
+    "Instrument": "RC Spectrograph",
+    "Observatory": "KPNO"
+}

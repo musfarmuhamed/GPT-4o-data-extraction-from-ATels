@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174008.23+374114.0",
+            "RA": "17h 40m 08.23s",
+            "Dec": "+37d 41m 14.0s",
+            "redshift": "Null",
+            "Type": [
+                "PSN",
+                "Dwarf Nova"
+            ],
+            "Time": "Null",
+            "Date": "2015-05-13.74831 UT"
+        },
+        {
+            "Name": "MASTER OT J124431.93-395236.2",
+            "RA": "12h 44m 31.93s",
+            "Dec": "-39d 52m 36.2s",
+            "redshift": "Null",
+            "Type": "Dwarf Nova",
+            "Time": "Null",
+            "Date": "2015-05-12.89648 UT"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J174008.23+374114.0",
+            "Time": "2011-03-12.888UT",
+            "Date": "Null",
+            "Telescope": "MASTER-Tunka",
+            "Instrument": "Null",
+            "Observatory": "Null"
+        },
+        {
+            "Name": "MASTER OT J174008.23+374114.0",
+            "Time": "2012-08-23.782UT",
+            "Date": "Null",
+            "Telescope": "Null",
+            "Instrument": "Null",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Name": "MASTER OT J174008.23+374114.0",
+            "Time": "2011-05-27.983UT",
+            "Date": "Null",
+            "Telescope": "Null",
+            "Instrument": "Null",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Name": "MASTER OT J174008.23+374114.0",
+            "Time": "2013-06-09.677UT",
+            "Date": "Null",
+            "Telescope": "MASTER-Tunka",
+            "Instrument": "Null",
+            "Observatory": "Null"
+        },
+        {
+            "Name": "MASTER OT J124431.93-395236.2",
+            "Time": "2015-03-15.05149 UT",
+            "Date": "Null",
+            "Telescope": "Null",
+            "Instrument": "Null",
+            "Observatory": "Null"
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "MASTER Global Robotic Net"
+}

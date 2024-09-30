@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2S 1417-624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "X-ray brightening detected on 24 March 2018 (MJD 58201)",
+            "Date": "24 March 2018"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2016",
+        "Raichur et al. 2010",
+        "Beklen et al. 2009, ATel#2275",
+        "Krimm et al. 2009, ATel#2276"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "18 March 2018",
+    "Date": "18 March 2018",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT",
+        "Fermi/GBM"
+    ],
+    "Instrument": [
+        "GSC on MAXI",
+        "BAT on Swift",
+        "GBM on Fermi"
+    ],
+    "Observatory": null
+}

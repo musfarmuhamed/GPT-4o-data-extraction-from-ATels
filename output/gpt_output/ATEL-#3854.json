@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER032853.57+284045.8",
+            "RA": "03h 28m 53.57s",
+            "Dec": "+28d 40m 45.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "12:52:55.75",
+            "Date": "2012-01-08"
+        },
+        {
+            "Name": "MASTER135827.77+135630.0",
+            "RA": "13h 58m 27.77s",
+            "Dec": "+13d 56m 30s",
+            "redshift": null,
+            "Type": "Short OT",
+            "Time": "22:59:10.076",
+            "Date": "2012-01-03"
+        },
+        {
+            "Name": "MASTER140859.07+255012.0",
+            "RA": "14h 08m 59.07s",
+            "Dec": "+25d 50m 12.0s",
+            "redshift": null,
+            "Type": "?",
+            "Time": "22:34:22.26",
+            "Date": "2012-01-04"
+        }
+    ],
+    "References": "GRB events from Swift, Fermi, INTEGRAL, Wind-KONUS",
+    "Event Type": "OT",
+    "Time": "12:52:55.75",
+    "Date": "2012-01-08",
+    "Telescope": "MASTER-II telescope",
+    "Instrument": "unfiltered magnitude",
+    "Observatory": "MASTER Robotic Net"
+}

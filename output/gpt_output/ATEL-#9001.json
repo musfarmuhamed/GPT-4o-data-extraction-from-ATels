@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16es",
+            "RA": "11:50:54.530",
+            "Dec": "+02:18:26.41",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "04-27.39",
+            "Date": "2016-04-27"
+        },
+        {
+            "Name": "SDSS J115054.45+021828.1",
+            "RA": "11:50:54.45",
+            "Dec": "+021828.1",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "transient",
+    "Time": "04-27.39",
+    "Date": "2016-04-27",
+    "Telescope": "Brutus",
+    "Instrument": "quadruple 14-cm",
+    "Observatory": "Haleakala, Hawaii"
+}

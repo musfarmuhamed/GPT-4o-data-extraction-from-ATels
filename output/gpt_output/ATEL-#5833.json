@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J122608.79+650807.7",
+            "RA": "12h 26m 08.79s",
+            "Dec": "+65d 08m 07.7s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2014-01-24.82240 UT",
+            "Date": "2014-01-24"
+        },
+        {
+            "Name": "SDSS J122608.69+650805.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/122608.79650807.7.png",
+    "Event Type": "Detection of Optical Transient",
+    "Time": "2014-01-24.82240 UT",
+    "Date": "2014-01-24",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": null
+}

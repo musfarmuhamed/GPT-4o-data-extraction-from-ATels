@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible Supernova (PSN)",
+            "RA": "11:15:19.03",
+            "Dec": "+53:19:47.74",
+            "redshift": "0.466",
+            "Type": "Type Ia Supernova",
+            "Time": "2013-04-07 to 2013-04-13",
+            "Date": "2013-04-07 to 2013-04-13"
+        },
+        {
+            "Name": "SDSS galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.4686",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Galaxy cluster MACSJ1115.2+5320",
+            "RA": "11:15:14.86",
+            "Dec": "+53:19:54.3",
+            "redshift": "0.466",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Survey at Intermediate Redshifts for Cluster and Lensed Supernovae (SIRCLS)",
+    "Event Type": "Discovery of a possible supernova",
+    "Time": "2013-04-07 to 2013-04-13",
+    "Date": "2013-04-07 to 2013-04-13",
+    "Telescope": "Canada-France-Hawaii Telescope",
+    "Instrument": "MegaCam",
+    "Observatory": null
+}

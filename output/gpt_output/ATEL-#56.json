@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Binary",
+            "Time": "00:12",
+            "Date": "2000-03-03"
+        },
+        {
+            "Name": "GS2023+338",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Binary",
+            "Time": "00:12",
+            "Date": "2000-03-03"
+        }
+    ],
+    "References": [
+        "Udalski and Kaluzny (1991, PASP, 103, 198)",
+        "Casares et al. (1993, MNRAS, 265, 834)",
+        "Wagner et al., 1992, ApJ, 401, L97",
+        "Casares et al. 1993",
+        "Hjellming et al., ATEL #54"
+    ],
+    "Event Type": "Photometry",
+    "Time": "00:12",
+    "Date": "2000-03-03",
+    "Telescope": "Bok 2.3-m",
+    "Instrument": "Direct CCD",
+    "Observatory": "Steward Observatory"
+}

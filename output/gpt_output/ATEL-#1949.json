@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 1118-615",
+            "RA": "11h 21m 00.10s",
+            "Dec": "-61deg 54' 29.8''",
+            "redshift": null,
+            "Type": "Be X-ray transient",
+            "Time": null,
+            "Date": "2009-01-04"
+        },
+        {
+            "Name": "Eta Carinae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1896",
+        "Coe et al. 1994, A&A 289, 784",
+        "ASM lightcurve"
+    ],
+    "Event Type": "Outburst",
+    "Time": "07:25:37 UT",
+    "Date": "2009-02-03",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

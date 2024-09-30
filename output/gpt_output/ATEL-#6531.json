@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14C1bdv",
+            "RA": "03 34 52.66",
+            "Dec": "-27 49 58.1",
+            "redshift": 0.443,
+            "Type": "Type Ia",
+            "Time": "null",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14S1aoz",
+            "RA": "02 50 27.57",
+            "Dec": "-00 52 18.4",
+            "redshift": 0.525,
+            "Type": "Type Ia",
+            "Time": "null",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14X3ajv",
+            "RA": "02 24 58.40",
+            "Dec": "-04 15 03.1",
+            "redshift": 0.613,
+            "Type": "Type Ia",
+            "Time": "null",
+            "Date": "2014 Sep 23"
+        }
+    ],
+    "References": "ATel #4668, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "null",
+    "Date": "null",
+    "Telescope": "Keck I",
+    "Instrument": "LRIS",
+    "Observatory": "null"
+}

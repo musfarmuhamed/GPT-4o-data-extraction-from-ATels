@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XSS J12270-4859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-mass X-ray binary",
+            "Time": "00:14UT to 09:28UT",
+            "Date": "2012 March 30 to April 1"
+        },
+        {
+            "Name": "XSS J12270-4859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-mass X-ray binary",
+            "Time": "19:12UT to 19:57UT",
+            "Date": "2012 March 28 to April 2"
+        }
+    ],
+    "References": [
+        "de Martino et al. 2010, A&A 515, A25",
+        "Hill et al. 2011, MNRAS 415, 235",
+        "de Martino et al. 2013, A&A 550, A89",
+        "Pretorius 2009, MNRAS, 395, 386",
+        "Masetti et al. 2006, A&A 459, 21",
+        "Bassa et al. 2013, ATel #5647"
+    ],
+    "Event Type": "Observational Study",
+    "Time": "00:14UT to 19:57UT",
+    "Date": "2012 March 28 to April 2",
+    "Telescope": [
+        "ESO NTT",
+        "SALT"
+    ],
+    "Instrument": [
+        "EFOSC2 and Gr.#19",
+        "RSS Gr. PG2300"
+    ],
+    "Observatory": [
+        "European Southern Observatory, La Silla, Chile",
+        "Southern African Large Telescope (SALT), South Africa"
+    ]
+}

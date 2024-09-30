@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "magnetar towards Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Mori et al. (ATEL #5020)",
+        "Kennea et al. (ATEL #5009)"
+    ],
+    "Event Type": "radio pulsation search",
+    "Time": [
+        "03:30UT to 04:30UT",
+        "01:50UT to 02:50UT"
+    ],
+    "Date": [
+        "April 27, 2013",
+        "April 28, 2013"
+    ],
+    "Telescope": "Lovell",
+    "Instrument": null,
+    "Observatory": "Jodrell Bank"
+}

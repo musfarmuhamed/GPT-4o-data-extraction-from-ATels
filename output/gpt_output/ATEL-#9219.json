@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16go/AT2016cyk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16gq/AT2016cym",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": "+10 days after peak",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9195",
+        "ATel #9199"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2016 July 4",
+    "Telescope": "F. L. Whipple Observatory 1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

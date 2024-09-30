@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASS 16260214-2718141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10:26:18 to 10:33:51 UT",
+            "Date": "2015-09-04"
+        },
+        {
+            "Name": "2MASS 16260294-2717442",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10:26:18 to 10:33:51 UT",
+            "Date": "2015-09-04"
+        }
+    ],
+    "References": [
+        "Dornic et al. ATel #7987, GCNC #18231"
+    ],
+    "Event Type": "Observation",
+    "Time": "10:26:18 to 10:33:51 UT",
+    "Date": "2015-09-04",
+    "Telescope": "Nayuta 2-m",
+    "Instrument": "Nishiharima Infrared Camera (NIC)",
+    "Observatory": "Nishi-Harima Astronomical Observatory"
+}

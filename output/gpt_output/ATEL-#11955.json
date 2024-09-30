@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018ekt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015,
+            "Type": "Ia",
+            "Time": "2018-08-15.1",
+            "Date": "2018-07-08.4"
+        },
+        {
+            "Name": "SN2018exb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.047,
+            "Type": "Ia",
+            "Time": "2018-08-15.1",
+            "Date": "2018-08-11.4"
+        }
+    ],
+    "References": [
+        "Huber et al., ATel #7153",
+        "Tonry et al. 2011; ATel #8680",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Jones et al. 2009, MNRAS, 399, 683"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

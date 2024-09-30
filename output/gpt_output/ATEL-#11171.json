@@ -1,0 +1,116 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ru",
+            "RA": "03 10 33.79",
+            "Dec": "-43 29 34.4",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20171223"
+        },
+        {
+            "Name": "SN2017jyq",
+            "RA": "03 10 33.79",
+            "Dec": "-43 29 34.4",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20171223"
+        },
+        {
+            "Name": "OGLE18dz",
+            "RA": "01 12 05.05",
+            "Dec": "-69 04 59.9",
+            "redshift": "0.02",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180104"
+        },
+        {
+            "Name": "SN2018dz",
+            "RA": "01 12 05.05",
+            "Dec": "-69 04 59.9",
+            "redshift": "0.02",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180104"
+        },
+        {
+            "Name": "Gaia18abp",
+            "RA": "08 24 11.59",
+            "Dec": "-77 47 16.6",
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180106"
+        },
+        {
+            "Name": "SN2018bl",
+            "RA": "08 24 11.59",
+            "Dec": "-77 47 16.6",
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180106"
+        },
+        {
+            "Name": "ASASSN-18al",
+            "RA": "11 22 40.65",
+            "Dec": "+12 01 31.3",
+            "redshift": "0.040",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180112"
+        },
+        {
+            "Name": "SN2018ep",
+            "RA": "11 22 40.65",
+            "Dec": "+12 01 31.3",
+            "redshift": "0.040",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180112"
+        }
+    ],
+    "References": [
+        {
+            "publication": "Smartt et al. 2015",
+            "journal": "A&A",
+            "volume": "579",
+            "page": "40",
+            "url": "http://www.pessto.org"
+        },
+        {
+            "publication": "Shappee et al. 2014",
+            "journal": "ApJ",
+            "volume": "788",
+            "page": "48",
+            "url": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "publication": "Wyrzykowski et al., 2014",
+            "journal": "arxiv",
+            "page": "1409.1095",
+            "url": "http://ogle.astrouw.edu.pl/"
+        },
+        {
+            "publication": "Blondin & Tonry, 2007",
+            "journal": "ApJ",
+            "volume": "666",
+            "page": "1024"
+        },
+        {
+            "publication": "Harutyunyan et al., 2008",
+            "journal": "A&A",
+            "volume": "488",
+            "page": "383"
+        }
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": null,
+    "Date": "2018 Jan 14",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

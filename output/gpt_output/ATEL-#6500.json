@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14hr",
+            "RA": "01:50:41.23",
+            "Dec": "-14:31:04.75",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2014-09-25.39",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J01504127-1431032",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033620",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "Discovery",
+    "Time": "2014-09-25.39",
+    "Date": null,
+    "Telescope": [
+        "Cassius 14-cm telescope",
+        "0.41-m telescope",
+        "Swope 1-m telescope",
+        "0.5m CDK + FLI PL-9000",
+        "RCOS 41-cm telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Cerro Tololo, Chile",
+        "Observatoire Chante-Perdrix-Dauban, France",
+        "Siding Spring Observatory"
+    ]
+}

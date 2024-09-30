@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "23:00",
+            "Date": "2016-12-29"
+        },
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "23:00",
+            "Date": "2016-12-31"
+        }
+    ],
+    "References": [
+        "ATel #9929",
+        "ATel #9931",
+        "1AGLR Catalogue",
+        "Verrecchia et al., A&A 558, 137 (2013)"
+    ],
+    "Event Type": "VHE gamma-ray flare",
+    "Time": "23:00",
+    "Date": "2016-12-29 to 2016-12-31",
+    "Telescope": "MAGIC, VERITAS",
+    "Instrument": "AGILE-GRID",
+    "Observatory": "AGILE"
+}

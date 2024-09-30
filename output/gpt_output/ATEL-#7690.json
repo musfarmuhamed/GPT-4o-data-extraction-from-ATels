@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J15044078+1237436",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028723,
+            "Type": "Type IIn",
+            "Time": "unknown",
+            "Date": "2015 June 20.3"
+        }
+    ],
+    "References": [
+        "Fisher et al. 1995, ApJ Suppl 100, 69, via NED",
+        "Schlafly & Finkbeiner, 2011, ApJ, 737, 103",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Graham et al. 2014, ApJ, 787, 163",
+        "Smith et al. 2014, MNRAS, 438, 1191",
+        "Moriya et al. 2015, ApJL 803, 26"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": [
+        "2015 June 20.3",
+        "2015 June 21.3"
+    ],
+    "Telescope": "2.3-m Bok telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Kitt Peak"
+}

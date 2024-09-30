@@ -1,0 +1,109 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J03502-2605",
+            "RA": "03 50 17.0",
+            "Dec": "-26 04 43.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J090320.0+533022",
+            "RA": "09 03 20.0",
+            "Dec": "+53 30 22.0",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J09453-2600",
+            "RA": "09 45 18.4",
+            "Dec": "-26 02 57.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J15409-4057",
+            "RA": "15 41 02.1",
+            "Dec": "-40 58 04.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17488-2338",
+            "RA": "17 48 38.9",
+            "Dec": "-23 35 26.8",
+            "redshift": null,
+            "Type": "active radio galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J175252.0-053210",
+            "RA": "17 52 52.0",
+            "Dec": "-05 32 10.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18482+0049",
+            "RA": "18 48 14.3",
+            "Dec": "+00 47 48.8",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18538-0102",
+            "RA": "18 53 48.2",
+            "Dec": "-01 02 26.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J19475+0049",
+            "RA": "19 47 29.1",
+            "Dec": "+00 49 45.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010, ApJS, 186, 1",
+        "RASSBSC [Voges et al. 1999, A&A, 349, 389]",
+        "RASSFSC [Voges et al. 2000, available at http://www.xray.mpe.mpg.de/rosat/survey/rass-fsc/]",
+        "XMM Slew catalogue, Saxton et al. 2008, A&A, 480, 611",
+        "Stephen et al. 2005, A&A, 432, L49",
+        "SDSS survey (Abazajian et al. 2009, ApJS, 175, 297)",
+        "Folgheraiter et al. 1997, MNRAS, 292, 365",
+        "USNO B-1.0 (Monet et al. 2003, AJ, 125, 984)",
+        "2MASS catalogues (Skrutskie et al. 2006, AJ, 131, 1163)"
+    ],
+    "Event Type": "X-ray positions observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "ROSAT",
+        "XMM-Newton"
+    ],
+    "Instrument": [
+        "IBIS"
+    ],
+    "Observatory": [
+        "HEASARC archive"
+    ]
+}

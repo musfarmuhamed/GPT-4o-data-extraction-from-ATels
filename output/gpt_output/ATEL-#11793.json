@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": 244.0009,
+            "Dec": 22.268,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Sco X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Smartt et al. (ATel #11727), ATeL #11738, ATel #11785, ATel #11775, ATel #11782",
+    "Event Type": "gamma-ray emission",
+    "Time": [
+        "2018-06-12 06:40:53.5",
+        "2018-06-16 00:04:45.4",
+        "2018-06-12 14:30:22.5",
+        "2018-06-14 23:06:13.3",
+        "2018-06-15 02:10:47.8"
+    ],
+    "Date": [
+        "2018-06-12",
+        "2018-06-16",
+        "2018-06-12",
+        "2018-06-14",
+        "2018-06-15"
+    ],
+    "Telescope": "Fermi GBM",
+    "Instrument": "GBM",
+    "Observatory": "Fermi"
+}

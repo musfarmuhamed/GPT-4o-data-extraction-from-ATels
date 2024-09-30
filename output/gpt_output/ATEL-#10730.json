@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192441.01+620639.4",
+            "RA": "19h 24m 41.01s",
+            "Dec": "+62d 06m 39s.4",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-09-10T20:54:20.18",
+            "Date": "2017-09-10"
+        },
+        {
+            "Name": "USNO-B1 star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "1973.0",
+            "Date": "1973"
+        },
+        {
+            "Name": "Sloan galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": "2017-09-10T20:54:20.18",
+    "Date": "2017-09-10",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010374",
+            "Type": "type II",
+            "Time": "00:00",
+            "Date": "2008-03-03"
+        }
+    ],
+    "References": [
+        "CBET # 1279",
+        "Poole et al. 2008",
+        "Brown et al. 2007",
+        "Dessart et al. 2008",
+        "Dickey & Lockman 1990"
+    ],
+    "Event Type": "observation",
+    "Time": "00:00",
+    "Date": "2008-03-03",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1746-331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "07:26 - 07:45",
+            "Date": "2008-06-21"
+        },
+        {
+            "Name": "XTE J1810-189",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star X-ray transient",
+            "Time": "05:38 - 06:05",
+            "Date": "2008-06-23"
+        }
+    ],
+    "References": [
+        "ATel #1252",
+        "ATel #1508",
+        "ATel #143",
+        "ATel #1235",
+        "ATel #1237",
+        "ATel #1424",
+        "ATel #1443",
+        "ATel #1490"
+    ],
+    "Event Type": "Infrared observations of counterparts to X-ray transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m Magellan Baade telescope",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

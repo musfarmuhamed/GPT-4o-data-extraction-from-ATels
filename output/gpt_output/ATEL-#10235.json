@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017coa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.045,
+            "Type": "type Ia supernovae",
+            "Time": "31.49",
+            "Date": "2017-03-31"
+        },
+        {
+            "Name": "SDSS J084955.19+560554.6",
+            "RA": "08:49:55.19",
+            "Dec": "+56:05:54.6",
+            "redshift": 0.045,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024; http://wis-tns.weizmann.ac.il/object/2017coa/",
+    "Event Type": "optical spectrum observation",
+    "Time": "31.49",
+    "Date": "2017-03-31",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

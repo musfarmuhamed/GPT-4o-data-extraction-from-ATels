@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF09hsd",
+            "RA": "00:45:28.89",
+            "Dec": "+41:54:10.2",
+            "redshift": null,
+            "Type": "recurrent transient",
+            "Time": "Nov 27.1, 2013",
+            "Date": null
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2011-10e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2012-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "ATel #3725",
+        "ATel #3727",
+        "ATel #3728",
+        "ATel #4503"
+    ],
+    "Event Type": "discovery of a recurrent transient in M31",
+    "Time": "Nov 27.1, 2013",
+    "Date": null,
+    "Telescope": "intermediate Palomar Transient Factory",
+    "Instrument": null,
+    "Observatory": null
+}

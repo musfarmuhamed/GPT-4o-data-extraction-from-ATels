@@ -1,0 +1,124 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Proxima Centauri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Red Dwarf Star",
+            "Time": "154 MHz",
+            "Date": [
+                {
+                    "Date": "2014-02-10",
+                    "N obs": 1
+                },
+                {
+                    "Date": "2014-03-31",
+                    "N obs": 18
+                },
+                {
+                    "Date": "2014-04-28",
+                    "N obs": 19
+                },
+                {
+                    "Date": "2014-06-30",
+                    "N obs": 19
+                },
+                {
+                    "Date": "2014-07-15",
+                    "N obs": 15
+                },
+                {
+                    "Date": "2015-02-24",
+                    "N obs": 17
+                },
+                {
+                    "Date": "2015-04-14",
+                    "N obs": 4
+                },
+                {
+                    "Date": "2015-05-26",
+                    "N obs": 8
+                },
+                {
+                    "Date": "2015-06-07",
+                    "N obs": 19
+                },
+                {
+                    "Date": "2016-02-01",
+                    "N obs": 7
+                },
+                {
+                    "Date": "2016-03-01",
+                    "N obs": 19
+                },
+                {
+                    "Date": "2016-04-30",
+                    "N obs": 19
+                }
+            ]
+        }
+    ],
+    "References": [
+        "Anglada-Escude et al. (2016)",
+        "Lim et al (1996)",
+        "Slee et al. (2003)",
+        "Tingay et al. (2013), PASA, 30, e007",
+        "Wayth et al. (2015), PASA, 32, e025"
+    ],
+    "Event Type": "Radio Observation",
+    "Time": "154 MHz",
+    "Date": [
+        {
+            "Date": "2014-02-10",
+            "N obs": 1
+        },
+        {
+            "Date": "2014-03-31",
+            "N obs": 18
+        },
+        {
+            "Date": "2014-04-28",
+            "N obs": 19
+        },
+        {
+            "Date": "2014-06-30",
+            "N obs": 19
+        },
+        {
+            "Date": "2014-07-15",
+            "N obs": 15
+        },
+        {
+            "Date": "2015-02-24",
+            "N obs": 17
+        },
+        {
+            "Date": "2015-04-14",
+            "N obs": 4
+        },
+        {
+            "Date": "2015-05-26",
+            "N obs": 8
+        },
+        {
+            "Date": "2015-06-07",
+            "N obs": 19
+        },
+        {
+            "Date": "2016-02-01",
+            "N obs": 7
+        },
+        {
+            "Date": "2016-03-01",
+            "N obs": 19
+        },
+        {
+            "Date": "2016-04-30",
+            "N obs": 19
+        }
+    ],
+    "Telescope": "Murchison Widefield Array",
+    "Instrument": null,
+    "Observatory": "Murchison Radio-astronomy Observatory"
+}

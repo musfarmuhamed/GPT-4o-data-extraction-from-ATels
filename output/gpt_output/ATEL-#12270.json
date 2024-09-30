@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NVSSJ020344+304238",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.761,
+            "Type": "radio source/high redshift quasar",
+            "Time": "2458451.9049",
+            "Date": "November 29, 2018"
+        },
+        {
+            "Name": "BZBJ0203+3042",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.761,
+            "Type": "high redshift quasar",
+            "Time": "2458451.9049",
+            "Date": "November 29, 2018"
+        },
+        {
+            "Name": "3FGLJ0203.6+3043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "2458451.9049",
+            "Date": "November 29, 2018"
+        }
+    ],
+    "References": "ATEL#11215",
+    "Event Type": "NIR rebrightening",
+    "Time": "2458451.9049",
+    "Date": "November 29, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

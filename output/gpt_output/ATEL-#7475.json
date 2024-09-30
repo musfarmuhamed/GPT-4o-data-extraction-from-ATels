@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Progress M27M",
+            "RA": 84.8057334895609,
+            "Dec": 37.4282150664347,
+            "redshift": null,
+            "Type": "Space Ship",
+            "Time": "17:05:52.524",
+            "Date": "2015-05-05"
+        },
+        {
+            "Name": "Progress M27M",
+            "RA": 84.9080081171341,
+            "Dec": 37.3756685252052,
+            "redshift": null,
+            "Type": "Space Ship",
+            "Time": null,
+            "Date": "2015-05-05"
+        },
+        {
+            "Name": "Progress M27M",
+            "RA": 95.8331960143204,
+            "Dec": 31.3990586458172,
+            "redshift": null,
+            "Type": "Space Ship",
+            "Time": null,
+            "Date": "2015-05-05"
+        }
+    ],
+    "References": [
+        "http://www.pereplet.ru/lipunov/images/MASTER_SAAO_ProgresM27M.jpg",
+        "http://www.pereplet.ru/lipunov/images/PROGRESS_MASTER.gif"
+    ],
+    "Event Type": "Detection",
+    "Time": "17:05:52.524",
+    "Date": "2015-05-05",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO (K95)"
+}

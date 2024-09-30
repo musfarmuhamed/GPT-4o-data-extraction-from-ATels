@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary candidate",
+            "Time": "MJD 57799.2",
+            "Date": "15 February 2017"
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary candidate",
+            "Time": "MJD 57803.3",
+            "Date": "19 February 2017"
+        }
+    ],
+    "References": "ATels #9708, #9739, #9765, #9735, #10075, #10081, #10097; Rushton et. al., MNRAS, 2016",
+    "Event Type": "radio detections of re-brightening",
+    "Time": [
+        "MJD 57799.2",
+        "MJD 57803.3"
+    ],
+    "Date": [
+        "15 February 2017",
+        "19 February 2017"
+    ],
+    "Telescope": "Arcminute Microkelvin Imager Large Array (AMI-LA)",
+    "Instrument": null,
+    "Observatory": "Mullard Radio Astronomy Observatory"
+}

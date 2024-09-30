@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006at",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-P Supernova",
+            "Time": "10.63",
+            "Date": "2006-03-10"
+        }
+    ],
+    "References": [
+        "Dintinjana & Mikuz 2006 CBET #434",
+        "Yamaoka, Naito & Tokimasa (2006 CBET #434)",
+        "Poznanski et al. (2002, PASP, 114, 833)",
+        "Brown et al. (in prep.)",
+        "Dickey & Lockman 1990, ARAA 28, 215"
+    ],
+    "Event Type": null,
+    "Time": "10.63",
+    "Date": "2006-03-10",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

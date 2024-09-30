@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J06574303+1334457",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.013",
+            "Type": "SN II",
+            "Time": "UT",
+            "Date": "20150112.99"
+        },
+        {
+            "Name": "PSN J13183047-1436446",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.009",
+            "Type": "SN II",
+            "Time": "UT",
+            "Date": "20150113.16"
+        }
+    ],
+    "References": [
+        {
+            "title": "Tomasella et al. 2014, AN, 335, 841"
+        },
+        {
+            "title": "Astronomy Section of the Rochester Academy of Sciences (arXiv:1103.5165)"
+        },
+        {
+            "title": "CBAT Transient Objects Confirmation Page (TOCP)"
+        },
+        {
+            "title": "HIPASS HI Parkes All Sky Survey 2006; via NED"
+        },
+        {
+            "title": "Catinella et al. 2005 (AJ 130, 1037, via NED)"
+        },
+        {
+            "title": "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)"
+        },
+        {
+            "title": "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)"
+        }
+    ],
+    "Event Type": "spectroscopic observation",
+    "Time": null,
+    "Date": "between 20150112.99 and 20150113.16",
+    "Telescope": "Asiago 1.82m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

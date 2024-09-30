@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018buo",
+            "RA": "18 40 50.17",
+            "Dec": "-47 40 46.2",
+            "redshift": "0.061",
+            "Type": "?",
+            "Time": "Null",
+            "Date": "20180515"
+        },
+        {
+            "Name": "SN2018bul",
+            "RA": "18 42 18.92",
+            "Dec": "-55 39 11.7",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20180515"
+        },
+        {
+            "Name": "SN2018but",
+            "RA": "14 34 47.00",
+            "Dec": "-19 25 31.3",
+            "redshift": "0.048",
+            "Type": "Ia",
+            "Time": "-3",
+            "Date": "20180519"
+        },
+        {
+            "Name": "SN2018bhm",
+            "RA": "16 46 40.23",
+            "Dec": "+10 48 40.1",
+            "redshift": "0.055",
+            "Type": "Ia",
+            "Time": "+13",
+            "Date": "20180426"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al. 2011, PASP, 123, 58; Tonry et al. ATel #8680; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 05 21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

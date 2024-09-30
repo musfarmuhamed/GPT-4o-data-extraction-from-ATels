@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J151126.74-400751.9",
+            "RA": "15h 11m 26.74s",
+            "Dec": "-40d 07m 51.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "01:26:39.125",
+            "Date": "2016-03-18"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:40:01.902",
+            "Date": "2015-03-30"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-04-26"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Title": "MASTER Global Robotic Net",
+            "Journal": "Advances in Astronomy",
+            "Year": 2010,
+            "DOI": "10.1155/2010/349171"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "01:26:39.125",
+    "Date": "2016-03-18",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

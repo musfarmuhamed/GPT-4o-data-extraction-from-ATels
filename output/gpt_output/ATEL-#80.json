@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MCQC J162847-4152",
+            "RA": "16h28m47s.267",
+            "Dec": "-41o52'38.63\"",
+            "redshift": null,
+            "Type": "microquasar candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J162848.1-415241",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "astro-ph/0110511",
+        "Motch et al., AAS 132, 341, 1998",
+        "Mirabel and Rodriguez, ARAA 37, 409, 1999"
+    ],
+    "Event Type": "Observation",
+    "Time": "Multiple epochs",
+    "Date": [
+        "29.10.2000",
+        "05.09.2001",
+        "02.12.2001"
+    ],
+    "Telescope": [
+        "Australia Telescope Compact Array (ATCA)",
+        "4-m telescope (AAO)",
+        "2.3-m telescope (MSSSO)"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15qi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "YSO",
+            "Time": "Oct 8.53",
+            "Date": "2015-10-03.27"
+        },
+        {
+            "Name": "IPHAS J225608.82+583104.1",
+            "RA": "22:56:08.82",
+            "Dec": "+58:31:04.1",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J22560882+5831040",
+            "RA": "22:56:08.82",
+            "Dec": "+58:31:04.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014, ApJ, 788, 48",
+    "Event Type": null,
+    "Time": "Oct 8.53",
+    "Date": "2015-10-03.27",
+    "Telescope": "1.01-m telescope, 1.5-m Kanata telescope",
+    "Instrument": "HOWPol",
+    "Observatory": "Bisei Astronomical Observatory, Higashi-Hiroshima Observatory"
+}

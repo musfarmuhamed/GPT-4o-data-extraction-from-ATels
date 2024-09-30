@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "17:57",
+            "Date": "2007-11-30"
+        }
+    ],
+    "References": [
+        "ATel #1315"
+    ],
+    "Event Type": "bright hard X-ray state",
+    "Time": "17:57",
+    "Date": "2007-11-30",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "INTEGRAL IBIS/ISGRI"
+}

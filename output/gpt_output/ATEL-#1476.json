@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "03:30-13:00 UT",
+            "Date": "April 9th, 2008"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tudose et al.",
+            "Year": 2007,
+            "Journal": "MNRAS",
+            "Volume": 375,
+            "Page": "L11"
+        },
+        {
+            "Authors": "Mioduszewski et al.",
+            "Year": 2001,
+            "Journal": "ApJ",
+            "Volume": 553,
+            "Page": "766"
+        },
+        {
+            "Authors": "Miller-Jones et al.",
+            "Year": 2004,
+            "Journal": "ApJ",
+            "Volume": 600,
+            "Page": "368"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "03:30-13:00 UT",
+    "Date": "April 9th, 2008",
+    "Telescope": [
+        "Cambridge",
+        "Medicina",
+        "Jodrell Bank MkII",
+        "Onsala (25 m)",
+        "Torun",
+        "Westerbork (phased array)"
+    ],
+    "Instrument": "ASM detector onboard the Rossi X-ray Timing Explorer (RXTE)",
+    "Observatory": "European VLBI Network (EVN) in e-VLBI mode"
+}

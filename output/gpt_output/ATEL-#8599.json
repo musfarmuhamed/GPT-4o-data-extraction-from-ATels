@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M 101 red nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red nova",
+            "Time": "22.04 UT",
+            "Date": "2016 January 22",
+            "Magnitude": {
+                "J": "18.65 &plusm0.05",
+                "H": "17.64 &plusm0.10",
+                "K": "16.32 &plusm0.05"
+            },
+            "Color Index (J-K)": "2.3"
+        }
+    ],
+    "References": [
+        "ATel #7069",
+        "ATel #7070",
+        "ATel #7072",
+        "ATel #7079",
+        "ATel #7082",
+        "ATel #7206",
+        "Evans et al., 2003, MNRAS V.343, 1054",
+        "http://www.vgoranskij.net/lrn2015-in-m101.pdf",
+        "Goranskij et al. Astrophysical Bulletin, 2016, Vol.71, No.1, p.82"
+    ],
+    "Event Type": "outburst",
+    "Time": "22.04 UT",
+    "Date": "2016 January 22",
+    "Telescope": "2.5 m telescope of the SAI Caucasus Mountain Observatory",
+    "Instrument": "ASTRONIRCAM",
+    "Observatory": "Barlad Observatory, Romania"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15bbb",
+            "RA": "07:25:16.50",
+            "Dec": "-69:04:01.1",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "around max",
+            "Date": "2015-09-22"
+        },
+        {
+            "Name": "LSQ15bbj",
+            "RA": "07:16:14.45",
+            "Dec": "-69:36:00.2",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "+2-5d",
+            "Date": "2015-09-22"
+        }
+    ],
+    "References": [
+        {
+            "author": "Smartt et al.",
+            "year": 2015,
+            "journal": "A&A",
+            "volume": 579,
+            "page": 40,
+            "url": "http://www.pessto.org"
+        },
+        {
+            "author": "Baltay et al.",
+            "year": 2013,
+            "journal": "PASP",
+            "volume": 125,
+            "page": 683
+        },
+        {
+            "author": "Blondin & Tonry",
+            "year": 2007,
+            "journal": "ApJ",
+            "volume": 666,
+            "page": 1024
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "night",
+    "Date": "2015-09-22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

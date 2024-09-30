@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATEL #4906",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "high-energy transient",
+            "Time": "8:40 UT",
+            "Date": "2013 Mar 24"
+        },
+        {
+            "Name": "Swift J1741.5-6548",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "high-energy transient",
+            "Time": "8:40 UT",
+            "Date": "2013 Mar 24"
+        }
+    ],
+    "References": [
+        "ATEL #4906",
+        "ATEL #4902",
+        "ATEL #4911"
+    ],
+    "Event Type": "optical spectra observation",
+    "Time": "8:40 UT",
+    "Date": "2013 Mar 24",
+    "Telescope": "Gemini South",
+    "Instrument": "Gemini Multi-Object Spectrograph (GMOS)",
+    "Observatory": "8 m Gemini South telescope"
+}

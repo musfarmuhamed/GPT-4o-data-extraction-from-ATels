@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MS1221.8+2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.218",
+            "Type": "TeV BL Lacertae",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "H 1011+496",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV BL Lacertae",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "1FGL J1015.1+4927",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV BL Lacertae",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "BZBJ1015+496",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV BL Lacertae",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "1ES 1011+496",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV BL Lacertae",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": "http://www.swift.psu.edu/monitoring/",
+    "Event Type": "brightness detection",
+    "Time": null,
+    "Date": "February 7-9",
+    "Telescope": "Swift satellite",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift"
+}

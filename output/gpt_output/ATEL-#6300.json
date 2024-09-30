@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J203421.90+120656.9",
+            "RA": "20h 34m 21.90s",
+            "Dec": "+12d 06m 56.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-07-04.56711 UT",
+            "Date": "2014-07-04"
+        },
+        {
+            "Name": "MASTER OT J011839.52+501813.4",
+            "RA": "01h 18m 39.52s",
+            "Dec": "+50d 18m 13.4s",
+            "redshift": null,
+            "Type": "variable of UV Ceti type (flaring red dwarf)",
+            "Time": "2014-07-07.70156 UT",
+            "Date": "2014-07-07"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J203421+120657-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/203421.90120656.9.png",
+        "http://master.sai.msu.ru/static/OT/J011839+501813-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/011839.52501813.4.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

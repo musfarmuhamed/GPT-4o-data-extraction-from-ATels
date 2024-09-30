@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J162230.05-312131.8",
+            "RA": "16h 22m 30.05s",
+            "Dec": "-31d 21m 31.8s",
+            "redshift": null,
+            "Type": "Dwarf Nova outburst",
+            "Time": "2015-05-13.84451 UT",
+            "Date": "2015-05-13"
+        },
+        {
+            "Name": "MASTER OT J124541.87-390311.2",
+            "RA": "12h 45m 41.87s",
+            "Dec": "-39d 03m 11.2s",
+            "redshift": null,
+            "Type": "Red dwarf flare (UVCet type)",
+            "Time": "2015-05-12.89648 UT",
+            "Date": "2015-05-12"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "http://master.sai.msu.ru/static/OT/162230.05-312131.8.png",
+        "http://master.sai.msu.ru/static/OT/MASTERJ124541.87-390311.2.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

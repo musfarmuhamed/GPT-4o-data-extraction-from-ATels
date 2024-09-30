@@ -1,0 +1,105 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15al",
+            "RA": "04:57:49.63",
+            "Dec": "-21:35:34.1",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-10"
+        },
+        {
+            "Name": "OGLE-2015-SN-009",
+            "RA": "02:08:34.95",
+            "Dec": "-71:08:39.9",
+            "redshift": 0.06,
+            "Type": "IIP",
+            "Time": null,
+            "Date": "2014-08-13"
+        },
+        {
+            "Name": "ASASSN-15aj",
+            "RA": "10:52:53.26",
+            "Dec": "-32:55:34.8",
+            "redshift": 0.011,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-01"
+        },
+        {
+            "Name": "LSQ15bi",
+            "RA": "12:24:25.57",
+            "Dec": "-22:25:28.8",
+            "redshift": 0.036,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-09"
+        },
+        {
+            "Name": "LSQ15y",
+            "RA": "11:38:46.60",
+            "Dec": "-11:03:15.9",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-12-24"
+        },
+        {
+            "Name": "LSQ15bb",
+            "RA": "09:58:52.16",
+            "Dec": "+01:01:11.4",
+            "redshift": 0.08,
+            "Type": "Ia-91bg",
+            "Time": null,
+            "Date": "2014-12-24"
+        },
+        {
+            "Name": "PSN J13183047-1436446",
+            "RA": "13:18:30.46",
+            "Dec": "-14:36:44.6",
+            "redshift": 0.0096,
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-01-07"
+        },
+        {
+            "Name": "MASTERJ150302.53-674306.4",
+            "RA": "15:03:02.53",
+            "Dec": "-67:43:06.3",
+            "redshift": 0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2015-01-07"
+        },
+        {
+            "Name": "LSQ15bo",
+            "RA": "13:30:33.20",
+            "Dec": "-29:33:56.1",
+            "redshift": 0.047,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-01-11"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Smartt et al., arXiv:1411.0299",
+            "Link": "http://www.pessto.org"
+        },
+        {
+            "Reference": "Wyrzykowski et al., 2014 arxiv:1409.1095",
+            "Link": "http://ogle.astrouw.edu.pl"
+        },
+        {
+            "Reference": "Gorbovskoy et al., 2013, ARep, 57, 233",
+            "Link": "http://observ.pereplet.ru"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "18A resolution",
+    "Date": "2015-01-12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A)",
+    "Observatory": "La Silla"
+}

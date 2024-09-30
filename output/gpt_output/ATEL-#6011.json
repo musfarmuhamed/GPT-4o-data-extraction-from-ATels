@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J181536.93+481627.9",
+            "RA": "18h 15m 36.93s",
+            "Dec": "+48d 16m 27.9s",
+            "redshift": null,
+            "Type": "flare star",
+            "Time": "19:47:22 UT",
+            "Date": "2014-03-24"
+        },
+        {
+            "Name": "AllWISE J181536.92+481629.7",
+            "RA": "18h 15m 36.92s",
+            "Dec": "+48d 16m 29.7s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J18154539+4815491",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "irregular galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J181538.9+481604",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J070027.31+552951.6",
+            "RA": "07h 00m 27.31s",
+            "Dec": "+55d 29m 51.6s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": "2014-03-25"
+        }
+    ],
+    "References": [
+        {
+            "Name": "USNO-B1.0 1454-0179160",
+            "RA": "07 00 27.282",
+            "Dec": "+55 29 51.51",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur, MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": null
+}

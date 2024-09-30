@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-SN-2013-138",
+            "RA": "01:19:02.86",
+            "Dec": "-68:13:14.6",
+            "redshift": 0.115,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2013-12-12"
+        },
+        {
+            "Name": "LSQ13dnd",
+            "RA": "02:56:25.33",
+            "Dec": "-21:21:26.3",
+            "redshift": 0.115,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013-12-13"
+        },
+        {
+            "Name": "LSQ13dlp",
+            "RA": "04:48:11.60",
+            "Dec": "-24:53:17.5",
+            "redshift": 0.084,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013-12-10"
+        },
+        {
+            "Name": "LSQ13doq",
+            "RA": "11:34:35.07",
+            "Dec": "-24:05:14.4",
+            "redshift": 0.028,
+            "Type": "II",
+            "Time": null,
+            "Date": "2013-12-17"
+        },
+        {
+            "Name": "LSQ13dox",
+            "RA": "11:28:26.44",
+            "Dec": "-07:39:16.4",
+            "redshift": 0.115,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013-12-18"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "OGLE-IV, ATel #4495; Wyrzykowski et al. 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "WISeREP"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013-12-21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

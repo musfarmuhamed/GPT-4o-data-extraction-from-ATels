@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J162148.53+370338.9",
+            "RA": "16:21:48.53",
+            "Dec": "+37:03:41.0",
+            "redshift": "0.030",
+            "Type": "apparent supernova",
+            "Time": [
+                "~17.1 mag on Aug 4.17 UT",
+                "~16.8 mag on Aug 10.18 UT",
+                "~17.4 mag on Aug 20.14 UT"
+            ],
+            "Date": [
+                "Aug 4, 2007",
+                "Aug 10, 2007",
+                "Aug 20, 2007"
+            ]
+        },
+        {
+            "Name": "M31",
+            "RA": "00:45:48.25",
+            "Dec": "+43:02:22.2",
+            "redshift": "Null",
+            "Type": "optical transient",
+            "Time": [
+                "~18.4 on Aug 25.23 UT",
+                "~18.1 mag on Aug 26.43 UT",
+                "~19.2 mag on Aug 30.90 UT",
+                "~18.4 mag on Sep 5.19 UT"
+            ],
+            "Date": [
+                "Aug 25, 2007",
+                "Aug 26, 2007",
+                "Aug 30, 2007",
+                "Sep 5, 2007"
+            ]
+        }
+    ],
+    "References": [
+        "http://www.rotse.net/rsvp/j162148.53+370341/j162148.53+370341.jpg",
+        "http://www.rotse.net/rsvp/j004548.3+430222/j004548.3+430222.jpg",
+        "http://www.rotse.net/rsvp/j004548.3+430222/j004548.3+430222_lc.jpg"
+    ],
+    "Event Type": "discovery of two optical transients",
+    "Time": "Null",
+    "Date": "August 2007",
+    "Telescope": "ROTSE-IIIb, ROTSE-IIId",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas; TUBITAK National Observatory, Turkey"
+}

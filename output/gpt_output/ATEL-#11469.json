@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASSASN-18fs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": null,
+            "Date": "2018 March 17"
+        },
+        {
+            "Name": "ASSASN-18fs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": null,
+            "Date": "2018 March 19"
+        },
+        {
+            "Name": "ASSASN-18fs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": null,
+            "Date": "2018 March 22"
+        }
+    ],
+    "References": [
+        "ATel #11442",
+        "ATel #11452"
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": null,
+    "Date": "2018 March 19",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

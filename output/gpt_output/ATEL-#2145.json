@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090731:143854+371035",
+            "RA": null,
+            "Dec": null,
+            "redshift": "2.39",
+            "Type": "blazar",
+            "Time": "UT",
+            "Date": "31 July 2009"
+        },
+        {
+            "Name": "CGRaBS/CRATES J143853+371026",
+            "RA": null,
+            "Dec": null,
+            "redshift": "2.39",
+            "Type": "blazar",
+            "Time": "UT",
+            "Date": "31 July 2009"
+        },
+        {
+            "Name": "CSS090731:230734+145017",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.503",
+            "Type": "blazar",
+            "Time": "UT",
+            "Date": "31 July 2009"
+        },
+        {
+            "Name": "CGRaBS/CRATES J230733+145026",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.503",
+            "Type": "blazar",
+            "Time": "UT",
+            "Date": "31 July 2009"
+        }
+    ],
+    "References": "http://nesssi.cacr.caltech.edu/catalina/AllBlaz.html#table1",
+    "Event Type": "optical flaring",
+    "Time": "UT",
+    "Date": "31 July 2009",
+    "Telescope": "Palomar 60-inch, Palomar 200-inch",
+    "Instrument": null,
+    "Observatory": "Catalina Real-Time Transient Survey"
+}

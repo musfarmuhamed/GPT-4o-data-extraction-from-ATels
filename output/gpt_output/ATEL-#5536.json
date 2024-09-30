@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J171648.24+775256.5",
+            "RA": "17h 16m 48.24s",
+            "Dec": "+77d 52m 56.5s",
+            "redshift": null,
+            "Type": "flaring red dwarf",
+            "Time": "2013-10-28.82497 UT",
+            "Date": "2013-10-28"
+        },
+        {
+            "Name": "MASTER OT J021315.37+533822.7",
+            "RA": "02h 13m 15.37s",
+            "Dec": "+53d 38m 22.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in early stage of outburst)",
+            "Time": "2013-10-31.69413 UT",
+            "Date": "2013-10-31"
+        },
+        {
+            "Name": "MASTER OT J080659.02+460811.6",
+            "RA": "08h 06m 59.02s",
+            "Dec": "+46d 08m 11.6s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2013-11-01.81105 UT",
+            "Date": "2013-11-01"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/171648.24775256.5.png",
+        "http://master.sai.msu.ru/static/OT/J021315+533822-POSS-B.jpg",
+        "http://master.sai.msu.ru/static/OT/021315.37+533822.7.jpg",
+        "http://master.sai.msu.ru/static/OT/080659.02+460811.6.jpg"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

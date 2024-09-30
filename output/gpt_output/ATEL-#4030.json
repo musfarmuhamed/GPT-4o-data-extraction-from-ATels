@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray source detected by Swift",
+            "RA": "13:06:56.44",
+            "Dec": "-70:27:04.91",
+            "redshift": null,
+            "Type": "low-mass black hole X-ray transient",
+            "Time": "07:06 UT",
+            "Date": "April 11th"
+        },
+        {
+            "Name": "bright point source detected by GROND",
+            "RA": "13:06:55.36",
+            "Dec": "-70:27:05.0",
+            "redshift": null,
+            "Type": "low-mass black hole X-ray transient",
+            "Time": "07:06 UT",
+            "Date": "April 11th"
+        }
+    ],
+    "References": "Sato et al. 2012, ATEL #4024, Greiner et al. 2008, PASP, 120, 405",
+    "Event Type": "X-ray transient discovery and follow-up",
+    "Time": "07:06 UT",
+    "Date": "April 11th",
+    "Telescope": "2.2m MPI/ESO telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla"
+}

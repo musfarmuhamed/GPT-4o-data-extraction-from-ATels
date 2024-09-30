@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": "18h 20m 06s",
+            "Dec": "+07d 11' 33\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "00:11:39",
+            "Date": null
+        },
+        {
+            "Name": "1RXS J182022.9+071125",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kawamuro et al, 2018",
+        "ATel #11399",
+        "Denisenko (ATel #11400)"
+    ],
+    "Event Type": "trigger",
+    "Time": "00:11:39",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "X-Ray Telescope (XRT)",
+        "UV/Optical Telescope (UVOT)"
+    ],
+    "Observatory": null
+}

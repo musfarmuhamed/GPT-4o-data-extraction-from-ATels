@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": "17h 44m 30.35s",
+            "Dec": "-27d 46m 00.7s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "17:48UT",
+            "Date": "April 14th, 2017"
+        },
+        {
+            "Name": "XMMSL1 J174429.4-274609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17443041-2746004",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Heinke et al. (ATEL #10265)",
+        "Goad et al., 2007, A&A, 476, 1401",
+        "Evans et al., 2009, MNRAS, 2009, 397, 1177",
+        "Malizia et al. 2010, MNRAS, 408, 975",
+        "Saxton et al. (2008, A&A, 480, 2)",
+        "Mereminskiy et al. (ATEL #10272)",
+        "University of Leicester \"User Objects\" web page (http://www.swift.ac.uk/user_objects)"
+    ],
+    "Event Type": "Observation",
+    "Time": "17:48UT",
+    "Date": "April 14th, 2017",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

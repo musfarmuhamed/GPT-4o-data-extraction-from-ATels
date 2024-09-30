@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15pl",
+            "RA": "02:30:23.171",
+            "Dec": "-20:41:00.07",
+            "redshift": "0.016165",
+            "Type": "Transient (likely supernova)",
+            "Time": "2015-09-11.36",
+            "Date": "2015-09-11"
+        },
+        {
+            "Name": "ESO 545- G 025",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016165",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Mt. Cuba Astronomical Foundation, and the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+    "Event Type": "Discovery",
+    "Time": "2015-09-11.36",
+    "Date": "2015-09-11",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

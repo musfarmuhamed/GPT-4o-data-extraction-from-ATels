@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[PMH2004] 47",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "XRB candidate",
+            "Time": null,
+            "Date": "2000 to 2003"
+        },
+        {
+            "Name": "[HP2001] 19",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M33 X-7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMC X-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Her X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Misanovic et al. (2006, A&A 448, 1247), Massey et al. (2006, AJ 131, 2478), Pietsch et al. 2006, ApJ 646, 420, Atel #633",
+    "Event Type": "X-ray brightness variability and eclipse",
+    "Time": "25 ks",
+    "Date": "2006 September 18/19, 2006 September 26",
+    "Telescope": [
+        "XMM-Newton",
+        "ROSAT",
+        "Chandra"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

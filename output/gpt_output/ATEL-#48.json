@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1859+226",
+            "RA": "18h58m41s.51",
+            "Dec": "+22o39'30\".2",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "02:00-09:10",
+            "Date": "October 18th 1999"
+        }
+    ],
+    "References": [
+        "IAUC #7274",
+        "IAUC #7276",
+        "IAUC #7278",
+        "IAUC #7279",
+        "IAUC #7282",
+        "ATEL #47"
+    ],
+    "Event Type": "multiwavelength observations",
+    "Time": "02:00-09:10",
+    "Date": "October 18th 1999",
+    "Telescope": "HST",
+    "Instrument": "Various (Far-UV spectroscopy, Near-UV spectroscopy, Optical Spectroscopy, Red/IR Spectroscopy)",
+    "Observatory": "NASA/GSFC"
+}

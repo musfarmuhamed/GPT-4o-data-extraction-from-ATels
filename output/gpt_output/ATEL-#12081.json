@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J101326.12-413942.9",
+            "RA": "10h 13m 26.12s",
+            "Dec": "-41d 39m 42.9s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "02:25:28.955-02:40:29.78UT",
+            "Date": "2018-10-05.10326"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER Global Robotic Net",
+            "Authors": "Lipunov et al.",
+            "Journal": "Advances in Astronomy",
+            "Year": 2010,
+            "Page": "30L"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "02:25:28.955-02:40:29.78UT",
+    "Date": "2018-10-05",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO"
+}

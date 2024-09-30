@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0502+049",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "14:50 UTC",
+            "Date": "6 March 2013"
+        },
+        {
+            "Name": "PKS 1934-638",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "primary flux calibrator",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#4858"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "14:50 UTC",
+    "Date": "6 March 2013",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,149 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "31.384",
+            "Date": "2017-12-31"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "01.4996",
+            "Date": "2018-01-01"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "01.5186",
+            "Date": "2018-01-01"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "01.529",
+            "Date": "2018-01-01"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "02.127",
+            "Date": "2018-01-02"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "02.214",
+            "Date": "2018-01-02"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "02.4014",
+            "Date": "2018-01-02"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "02.403",
+            "Date": "2018-01-02"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "03.125",
+            "Date": "2018-01-03"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "03.3979",
+            "Date": "2018-01-03"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "03.507",
+            "Date": "2018-01-03"
+        }
+    ],
+    "References": [
+        "#11116",
+        "#11117",
+        "#11118",
+        "#11121",
+        "#11124",
+        "#11125",
+        "#11126",
+        "#11130",
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Darnley et al. 2016",
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "Henze et al. 2015b"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2017-12-31 to 2018-01-03",
+    "Telescope": [
+        {
+            "Name": "0.5-m f/6.8",
+            "Instrument": "KAF-1001E CCD",
+            "Observatory": "Itagaki Observatory (Okayama station), Japan"
+        },
+        {
+            "Name": "0.5-m f/6.8",
+            "Instrument": "KAF-1001E CCD",
+            "Observatory": "Miyaki-Argenteus Observatory, Japan"
+        },
+        {
+            "Name": "0.5-m f/4.5 CDK astrograph",
+            "Instrument": "FLI-PL11002M CCD",
+            "Observatory": "New Mexico Skies, USA"
+        },
+        {
+            "Name": "0.61-m f/6.5 CDK astrograph",
+            "Instrument": "FLI-PL09000 CCD",
+            "Observatory": "Sierra Remote Observatory, USA"
+        },
+        {
+            "Name": "1.88-m",
+            "Instrument": "MuSCAT",
+            "Observatory": "Okayama Astrophysical Observatory, Japan"
+        }
+    ]
+}

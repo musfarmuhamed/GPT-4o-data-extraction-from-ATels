@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J173527.5-325554",
+            "RA": "17h 35m 27s.59",
+            "Dec": "-32d 55' 54\".4",
+            "redshift": null,
+            "Type": "High Mass X-ray Binary (candidate)",
+            "Time": "4700 seconds",
+            "Date": "2009 February 6"
+        },
+        {
+            "Name": "CXOU J173518.7-325428",
+            "RA": "17h 35m 18s.73",
+            "Dec": "-32d 54' 28\".7",
+            "redshift": null,
+            "Type": null,
+            "Time": "4700 seconds",
+            "Date": "2009 February 6"
+        }
+    ],
+    "References": [
+        "ATEL#2017",
+        "ATEL#2019"
+    ],
+    "Event Type": "gamma-ray transient",
+    "Time": "4700 seconds",
+    "Date": "2009 February 6",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra Observatory"
+}

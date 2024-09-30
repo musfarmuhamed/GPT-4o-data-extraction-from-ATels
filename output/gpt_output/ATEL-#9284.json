@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "rotation-powered high magnetic field pulsar",
+            "Time": "01:27:51 UT",
+            "Date": "2016-07-28"
+        }
+    ],
+    "References": [
+        "ATel #9274",
+        "ATel #9282"
+    ],
+    "Event Type": "magnetar-like burst",
+    "Time": "01:27:51 UT",
+    "Date": "2016-07-28",
+    "Telescope": [
+        "Swift-XRT",
+        "NuSTAR",
+        "Fermi"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

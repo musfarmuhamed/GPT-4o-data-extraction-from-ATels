@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "00:00:00",
+            "Date": "2011-01-25"
+        }
+    ],
+    "References": [
+        "ATel #3130",
+        "Tavani et al. 2009 Nature 462, 620",
+        "Abdo et al. 2009 Science 326, 1512",
+        "ATel #2635",
+        "ATel #2644",
+        "ATel #2646",
+        "ATel #3135"
+    ],
+    "Event Type": "State Transition",
+    "Time": "00:00:00",
+    "Date": "2011-01-25",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

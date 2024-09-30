@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11rks",
+            "RA": "01:39:45.51",
+            "Dec": "+29:55:27.0",
+            "redshift": "0.19",
+            "Type": "optical transient",
+            "Time": "Unknown",
+            "Date": "2011 Dec 21"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Law et al.",
+            "Year": 2009
+        },
+        {
+            "Authors": "Rau et al.",
+            "Year": 2009
+        },
+        {
+            "Authors": "Bloom et al.",
+            "Year": 2011,
+            "Link": "http://adsabs.harvard.edu/abs/2011arXiv1106.5491B"
+        },
+        {
+            "Authors": "Smith et al.",
+            "Year": 2011,
+            "Journal": "MNRAS, 412, 1309",
+            "Link": "http://supernova.galaxyzoo.org"
+        },
+        {
+            "Authors": "Quimby et al.",
+            "Year": 2011
+        }
+    ],
+    "Event Type": "Discovery of optical transient",
+    "Time": "Unknown",
+    "Date": "2011 Dec 21",
+    "Telescope": "Palomar 1.2m",
+    "Instrument": "R-band filter",
+    "Observatory": "Palomar"
+}

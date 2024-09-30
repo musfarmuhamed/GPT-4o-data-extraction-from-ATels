@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CXOGC174535.5-285920",
+            "RA": "17:45:35.54",
+            "Dec": "-28:59:19.9",
+            "redshift": "Null",
+            "Type": "Chandra source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CXOGC174535.4-285925",
+            "RA": "17:45:35.44",
+            "Dec": "-28:59:25.4",
+            "redshift": "Null",
+            "Type": "Chandra source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL #3472",
+        "ATEL #3476",
+        "Servillat et al. in prep",
+        "Laycock et al. 2005, ApJL, 634, L53",
+        "Muno et al. 2009, ApJS, 181, 110"
+    ],
+    "Event Type": "Null",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "PANIC",
+    "Instrument": "CTIO 4m",
+    "Observatory": "Magellan 6.5m"
+}

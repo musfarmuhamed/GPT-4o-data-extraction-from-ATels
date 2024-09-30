@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fs/AT 2017dry",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "Type Ia supernova",
+            "Time": "9.8 UT",
+            "Date": "2017 May 9"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Jones et al.",
+            "Year": 2009,
+            "Title": "The 6dF Galaxy Survey Data Release 3",
+            "Source": "NED"
+        }
+    ],
+    "Event Type": null,
+    "Time": "9.8 UT",
+    "Date": "2017 May 9",
+    "Telescope": "Las Cumbres Observatory 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

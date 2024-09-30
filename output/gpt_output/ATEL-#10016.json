@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017mt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.096,
+            "Type": "type Ia supernova",
+            "Time": "Jan.27.9",
+            "Date": "2017"
+        },
+        {
+            "Name": "SDSS J095944.71+273852.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.096,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectrum",
+    "Time": "UT Jan.27.9",
+    "Date": "2017",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

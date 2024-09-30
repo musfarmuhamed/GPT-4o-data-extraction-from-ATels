@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TON599",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.7245",
+            "Type": "quasar",
+            "Time": null,
+            "Date": "February 23, 2013"
+        },
+        {
+            "Name": "FBQS J115931.8+291443",
+            "RA": "11:59:31.8",
+            "Dec": "+29:14:43",
+            "redshift": "0.7245",
+            "Type": "quasar",
+            "Time": null,
+            "Date": "February 23, 2013"
+        },
+        {
+            "Name": "1FGLJ11.59.4+2914",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray source",
+            "Time": null,
+            "Date": "February 23, 2013"
+        },
+        {
+            "Name": "4C+29.45",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": "February 23, 2013"
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR flare observation",
+    "Time": null,
+    "Date": "February 23, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

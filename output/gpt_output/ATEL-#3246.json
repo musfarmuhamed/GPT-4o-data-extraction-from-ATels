@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17177-3656",
+            "RA": "17:17:42.59",
+            "Dec": "-36:56:04.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-03-22",
+            "Date": "2011-03-22"
+        }
+    ],
+    "References": [
+        "ATel #3223",
+        "ATel #3236",
+        "ATel #3241",
+        "Coriat et al. 2011, MNRAS, in press, astro-ph/1101.5159"
+    ],
+    "Event Type": "radio observations",
+    "Time": "2011-03-22",
+    "Date": "2011-03-22",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": "CABB back-end",
+    "Observatory": "Australia Telescope Compact Array"
+}

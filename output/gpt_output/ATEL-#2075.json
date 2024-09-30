@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16328-4726",
+            "RA": "16h 32m 42s",
+            "Dec": "-47d 23' 28\"",
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": "07:54:27 UT",
+            "Date": "2009 June 10"
+        },
+        {
+            "Name": "2MASS counterpart candidate",
+            "RA": "16 32 37.91",
+            "Dec": "-47 23 40.9",
+            "redshift": null,
+            "Type": "Counterpart candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al., 2007",
+        "Goad et al., 2007, A&A, 476, 1401",
+        "Evans et al., 2009, MNRAS, in press, arXiv:0812.3662"
+    ],
+    "Event Type": "BAT trigger on transient source",
+    "Time": "07:54:27 UT",
+    "Date": "2009 June 10",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Swift"
+}

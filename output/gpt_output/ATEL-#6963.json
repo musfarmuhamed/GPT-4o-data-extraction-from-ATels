@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B/Swift J123205.1-105602",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "radio source (identified by van der Horst et al. and Fong et al.)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "putative optical counterpart (identified in Magellan imaging by Fong et al.)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "X-ray source (in Chandra observations)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "nearby AGN",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "galaxy 2MASX J12320498-1056010",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings; GCN17267, 17268",
+        "van der Horst et al. (GCN 17286)",
+        "Fong et al. (GCN 17288)",
+        "Fong et al. (GCN 17271)",
+        "Troja et al. GCN 17289"
+    ],
+    "Event Type": "deep optical observations",
+    "Time": "night",
+    "Date": "19 & 20 Jan 2015",
+    "Telescope": "VLT",
+    "Instrument": "FORS2",
+    "Observatory": null
+}

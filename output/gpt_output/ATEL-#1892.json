@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J123932.75+044305",
+            "RA": "12:39:32.75",
+            "Dec": "+04:43:05",
+            "redshift": null,
+            "Type": null,
+            "Time": "2.8 (UT)",
+            "Date": "Jan 2009"
+        },
+        {
+            "Name": "SDSS J123932.75+044305",
+            "RA": "12:39:32.75",
+            "Dec": "+04:43:05",
+            "redshift": null,
+            "Type": null,
+            "Time": "3.8 (UT)",
+            "Date": "Jan 2009"
+        },
+        {
+            "Name": "Comparison star",
+            "RA": "12:39:30.08",
+            "Dec": "+04:39:53.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #1888, http://kanatatmp.g.hatena.ne.jp/kanataobslog/",
+    "Event Type": "Gamma-ray flare detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "\"KANATA\" 1.5-m telescope",
+    "Instrument": "Optical photopolarimetric",
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

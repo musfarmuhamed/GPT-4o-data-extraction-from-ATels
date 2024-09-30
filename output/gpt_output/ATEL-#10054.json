@@ -1,0 +1,112 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2015 March - 2016 February",
+            "Date": "2010 April 2"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "0.3-10 keV",
+            "Date": "2015 November 11"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2015 December 18",
+            "Date": "37.08"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2015 December 25",
+            "Date": "37.14"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 January 1",
+            "Date": "37.2"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 January 8",
+            "Date": "37.27"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 January 15",
+            "Date": "37.34"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 January 22",
+            "Date": "37.41"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 January 29",
+            "Date": "37.48"
+        },
+        {
+            "Name": "1ES 1727+502",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.055",
+            "Type": "HBL",
+            "Time": "2017 February 5",
+            "Date": "37.67"
+        }
+    ],
+    "References": [
+        "Kapanadze et al. 2015, Atel #8224, #7342",
+        "http://www.swift.psu.edu/monitoring/source.php?source=QSOB1727+502"
+    ],
+    "Event Type": "X-ray flaring activity",
+    "Time": "2015 March - 2016 February",
+    "Date": "2015 November 11",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray Telescope (XRT)",
+        "Burst Alert Telescope (BAT)",
+        "UV/Optical Telescope (UVOT)"
+    ],
+    "Observatory": [
+        "Pennsylvania State University",
+        "Brera Astronomical Observatory (OAB)",
+        "University of Leicester"
+    ]
+}

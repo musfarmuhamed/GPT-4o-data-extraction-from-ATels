@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "2017-01-17.17",
+            "Date": "2017-12-31.3"
+        }
+    ],
+    "References": [
+        "ATel #11116",
+        "ATel #11130",
+        "ATel #6604",
+        "ATel #8062",
+        "ATel #9907",
+        "ATel #11117",
+        "ATel #11118",
+        "ATel #11121",
+        "ATel #11124",
+        "ATel #11125",
+        "ATel #11126",
+        "ATel #11133",
+        "ATel #11134",
+        "ATel #11144",
+        "ATel #11149"
+    ],
+    "Event Type": "eruption",
+    "Time": "2017-01-17.17 UT",
+    "Date": "2017-12-31.3 UT",
+    "Telescope": "Neil Gehrels Swift Observatory",
+    "Instrument": "Swift/XRT",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

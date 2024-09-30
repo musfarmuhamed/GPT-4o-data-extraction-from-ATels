@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "01:00UT",
+            "Date": "2009-11-26"
+        }
+    ],
+    "References": [
+        "ATel #1160",
+        "ATel #1167",
+        "ATel #1278",
+        "ATel #1300",
+        "ATel #1545",
+        "ATel #1581",
+        "ATel #1592",
+        "ATel #1628",
+        "Vercellone et al., 2008, ApJL, 676, 13",
+        "Vercellone et al., 2009, ApJ, 690, 1018",
+        "Donnarumma et al., 2009, ApJ, in press [ArXiv:0910.4883]",
+        "ATel #2200",
+        "Abdo et al., 2009, ApJ, 699, 817"
+    ],
+    "Event Type": "prolonged flaring gamma-ray emission",
+    "Time": "01:00UT - 08:30UT",
+    "Date": "2009-11-26 to 2009-12-02",
+    "Telescope": "AGILE",
+    "Instrument": "Gamma-Ray Imaging Detector (GRID)",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2011 April 19.97",
+            "Date": "2011-04-19"
+        },
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2011 May 1.01",
+            "Date": "2011-05-01"
+        }
+    ],
+    "References": [
+        "ATEL #3102",
+        "#3103",
+        "#3104",
+        "#3106",
+        "#3110",
+        "#3112",
+        "#3116",
+        "#3119"
+    ],
+    "Event Type": "rebrightening",
+    "Time": "55670.9748, 55683.9916",
+    "Date": "2011-04-19, 2011-05-01",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": null,
+    "Observatory": "CTIO"
+}

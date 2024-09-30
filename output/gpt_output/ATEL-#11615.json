@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18aajpkwd",
+            "RA": "13:50:12.25",
+            "Dec": "+18:12:58.83",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2018-04-14.31"
+        },
+        {
+            "Name": "ZTF18aajpjdi",
+            "RA": "13:18:06.63",
+            "Dec": "+27:52:24.22",
+            "redshift": "0.0746",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-14.31"
+        },
+        {
+            "Name": "ZTF18aajrutf",
+            "RA": "16:49:55.90",
+            "Dec": "+53:57:13.70",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-04-14.38"
+        },
+        {
+            "Name": "ZTF18aajtlbf",
+            "RA": "17:27:52.23",
+            "Dec": "+60:05:43.82",
+            "redshift": "0.02783",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-14.42"
+        },
+        {
+            "Name": "ZTF18aairvox",
+            "RA": "09:03:21.04",
+            "Dec": "+46:45:17.74",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-04-15.19"
+        },
+        {
+            "Name": "ZTF18aakrnvd",
+            "RA": "14:56:20.24",
+            "Dec": "+21:03:44.79",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-04-18.29"
+        },
+        {
+            "Name": "ZTF18aamfrvy",
+            "RA": "14:57:09.52",
+            "Dec": "+19:41:59.81",
+            "redshift": "0.01564",
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-04-21.36"
+        },
+        {
+            "Name": "ZTF18aaovbiy",
+            "RA": "15:26:38.30",
+            "Dec": "+28:51:58.58",
+            "redshift": "0.07743",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-04-24.38"
+        },
+        {
+            "Name": "ZTF18aapictz",
+            "RA": "11:59:37.00",
+            "Dec": "+27:31:50.10",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-05-05.17"
+        },
+        {
+            "Name": "ZTF18aaphzut",
+            "RA": "12:29:17.59",
+            "Dec": "+06:20:28.11",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-05-05.17"
+        }
+    ],
+    "References": [
+        "ATel #11266",
+        "Bellm & Kulkarni, Nature Astronomy 1, 71, 2017",
+        "Miller et al. AJ 153, 73, 2017",
+        "NUTS (ATel #11587)",
+        "ASAS-SN",
+        "NUTS (ATel #11592)",
+        "GROWTH marshal system, supported by NSF PIRE grant 1545949",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "supernovae",
+    "Time": null,
+    "Date": "2018-04-14",
+    "Telescope": "LT/SPRAT",
+    "Instrument": "SPRAT",
+    "Observatory": null
+}

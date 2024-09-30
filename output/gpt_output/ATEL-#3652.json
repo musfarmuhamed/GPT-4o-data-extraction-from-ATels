@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": [
+                "09:15 - 12:56",
+                "03:11:34.0 - 14:48:56.0"
+            ],
+            "Date": [
+                "2011-09-13",
+                "2011-09-18"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #3611",
+        "ATEL #3628",
+        "ATEL #3618",
+        "ATEL #3626",
+        "ATEL #3640"
+    ],
+    "Event Type": "Monitoring and observational",
+    "Time": [
+        "09:15 - 12:56",
+        "03:11:34.0 - 14:48:56.0"
+    ],
+    "Date": [
+        "2011-09-13",
+        "2011-09-18"
+    ],
+    "Telescope": "INTEGRAL, RXTE/PCA",
+    "Instrument": "IBIS, JEM-X, ISGRI",
+    "Observatory": "INTEGRAL Galactic Bulge monitoring"
+}

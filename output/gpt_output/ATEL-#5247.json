@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13azj",
+            "RA": "21:33:29.54",
+            "Dec": "-14:31:45.9",
+            "redshift": "0",
+            "Type": "Varstar",
+            "Time": "Null",
+            "Date": "2013-08-03"
+        },
+        {
+            "Name": "LSQ13bbb",
+            "RA": "21:33:42.73",
+            "Dec": "-14:31:45.9",
+            "redshift": "~0.2",
+            "Type": "SO Gal",
+            "Time": "Null",
+            "Date": "2013-08-03"
+        },
+        {
+            "Name": "LSQ13bdc",
+            "RA": "21:35:07.78",
+            "Dec": "-06:49:39.3",
+            "redshift": "~0.07?",
+            "Type": "SN II?",
+            "Time": "+40d?",
+            "Date": "2013-08-03"
+        },
+        {
+            "Name": "LSQ13bbh",
+            "RA": "22:23:08.51",
+            "Dec": "-05:18:16.7",
+            "redshift": "0.125",
+            "Type": "SN Ia",
+            "Time": "+12d",
+            "Date": "2013-08-03"
+        },
+        {
+            "Name": "LSQ13bhl",
+            "RA": "23:46:35.11",
+            "Dec": "-36:45:30.4",
+            "redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": "+17d",
+            "Date": "2013-08-03"
+        },
+        {
+            "Name": "LSQ13bgk",
+            "RA": "22:32:33.82",
+            "Dec": "-30:55:01.4",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "+10d",
+            "Date": "2013-08-03"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Valenti et al.",
+            "ATel": "#4037"
+        },
+        {
+            "Author": "Hadjiyska et al.",
+            "ATel": "#3812"
+        },
+        {
+            "Author": "Blondin & Tonry,",
+            "Journal": "ApJ",
+            "Vol": "666",
+            "Page": "1024",
+            "Year": 2007
+        },
+        {
+            "Author": "Howell et al.",
+            "Journal": "ApJ",
+            "Vol": "634",
+            "Page": "1190",
+            "Year": 2005
+        },
+        {
+            "Author": "Yaron & Gal-Yam",
+            "Journal": "PASP",
+            "Vol": "124",
+            "Page": "668",
+            "Year": 2012
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2013-08-03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

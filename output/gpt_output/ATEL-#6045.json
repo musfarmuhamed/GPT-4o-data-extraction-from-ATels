@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J112037.10+302808.9",
+            "RA": "11h 20m 37.10s",
+            "Dec": "+30d 28m 08.9s",
+            "redshift": null,
+            "Type": "Superluminous Supernova",
+            "Time": "2014-04-03.75184",
+            "Date": "2014-04-03"
+        },
+        {
+            "Name": "CSS140222:112037+302809",
+            "RA": "11h 20m 37.10s",
+            "Dec": "+30d 28m 08.9s",
+            "redshift": null,
+            "Type": "Superluminous Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112036.76+302801.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J112039.40+302825.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J112037.41+302810.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Infrared Object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Drake et al. 2009, ApJ, 696, 870",
+    "Event Type": "Discovery",
+    "Time": "2014-04-03.75184",
+    "Date": "2014-04-03",
+    "Telescope": "Global MASTER Robotic Net",
+    "Instrument": "MASTER-Kislovodsk auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

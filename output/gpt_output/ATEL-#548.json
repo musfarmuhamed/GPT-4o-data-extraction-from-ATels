@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20050625-004",
+            "RA": "17:37:44.2",
+            "Dec": "+11:09:03.7",
+            "redshift": "0.016",
+            "Type": "Type II SN",
+            "Time": "June 28.5 UT",
+            "Date": "2005-06-28"
+        },
+        {
+            "Name": "SN 1999em",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP SN",
+            "Time": null,
+            "Date": "1999-10-27"
+        }
+    ],
+    "References": "Hamuy et al. 2001 ApJ 558, 615",
+    "Event Type": "Discovery",
+    "Time": "June 25.4 UT",
+    "Date": "2005-06-25",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST II camera",
+    "Observatory": "Palomar Observatory"
+}

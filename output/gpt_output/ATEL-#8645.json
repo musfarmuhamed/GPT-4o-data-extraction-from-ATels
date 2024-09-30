@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16app",
+            "RA": "5:39:28.44",
+            "Dec": "-67:59:20.2",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "2457413.69697",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16aqe",
+            "RA": "5:20:44.72",
+            "Dec": "-79:25:31.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457415.61560",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16arw",
+            "RA": "5:09:31.64",
+            "Dec": "-73:22:51.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457410.65674",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16arx",
+            "RA": "4:35:13.67",
+            "Dec": "-69:23:29.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457410.69374",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16ary",
+            "RA": "3:08:02.94",
+            "Dec": "-65:13:13.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457415.54747",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16arz",
+            "RA": "4:04:36.65",
+            "Dec": "-67:09:05.5",
+            "redshift": null,
+            "Type": "located in the core of an unknown galaxy",
+            "Time": "2457410.67873",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16asa",
+            "RA": "0:55:07.59",
+            "Dec": "-69:21:34.6",
+            "redshift": null,
+            "Type": "hostless",
+            "Time": "2457407.56829",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16asb",
+            "RA": "1:07:49.75",
+            "Dec": "-65:09:17.9",
+            "redshift": null,
+            "Type": "very far (>20'') from the host",
+            "Time": "2457408.57344",
+            "Date": null
+        },
+        {
+            "Name": "OGLE16ash",
+            "RA": "3:05:07.34",
+            "Dec": "-70:38:41.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457412.59771",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2014, AcA,64,197",
+        "Kozlowski et al. 2013",
+        "Klencki et al. 2016, AcA submitted"
+    ],
+    "Event Type": "discovery of new transients",
+    "Time": "less than 15 mins from observation",
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

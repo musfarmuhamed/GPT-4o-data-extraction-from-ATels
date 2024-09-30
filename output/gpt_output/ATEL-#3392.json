@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11czz",
+            "RA": "12 26 59.61",
+            "Dec": "+05 44 21.5",
+            "redshift": "0.083",
+            "Type": "SN Ia",
+            "Time": "May 04.22",
+            "Date": "May 11"
+        },
+        {
+            "Name": "PTF11dad",
+            "RA": "13 35 53.97",
+            "Dec": "+38 31 55.2",
+            "redshift": "0.072",
+            "Type": "SN II",
+            "Time": "May 04.37",
+            "Date": "May 25"
+        },
+        {
+            "Name": "PTF11daj",
+            "RA": "10 00 40.05",
+            "Dec": "+02 09 18.1",
+            "redshift": "0.106",
+            "Type": "SN Ia",
+            "Time": "May 04.17",
+            "Date": "May 25"
+        },
+        {
+            "Name": "PTF11dif",
+            "RA": "14 15 52.07",
+            "Dec": "+35 44 24.0",
+            "redshift": "0.059",
+            "Type": "SN Ia",
+            "Time": "May 07.24",
+            "Date": "May 13"
+        },
+        {
+            "Name": "PTF11dmi",
+            "RA": "16 43 54.65",
+            "Dec": "+26 31 54.5",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": "May 12.38",
+            "Date": "May 25"
+        },
+        {
+            "Name": "PTF11dqk",
+            "RA": "14 26 53.97",
+            "Dec": "+25 01 39.4",
+            "redshift": "0.036",
+            "Type": "SN II",
+            "Time": "May 13.34",
+            "Date": "May 25"
+        },
+        {
+            "Name": "PTF11dsa",
+            "RA": "16 12 11.22",
+            "Dec": "+29 35 25.0",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": "May 14.44",
+            "Date": "May 25"
+        },
+        {
+            "Name": "PTF11dsn",
+            "RA": "15 55 41.06",
+            "Dec": "+29 37 13.8",
+            "redshift": "0.15",
+            "Type": "SN Ia",
+            "Time": "May 14.48",
+            "Date": "May 25"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "discovery of 8 new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "KPNO4m+RC Spec, P200+DBSP",
+    "Instrument": null,
+    "Observatory": "PTF collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley"
+}

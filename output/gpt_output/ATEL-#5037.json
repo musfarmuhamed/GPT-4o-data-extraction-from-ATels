@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": "266.388",
+            "Dec": "-28.982",
+            "redshift": null,
+            "Type": "SGR",
+            "Time": "19:15:25",
+            "Date": "25 April 2013"
+        },
+        {
+            "Name": "NuSTAR 3.76 sec pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN Circ. 14443",
+        "ATEL #5009",
+        "ATEL #5020",
+        "ATEL #5032",
+        "ATEL #5035"
+    ],
+    "Event Type": "32 msec burst",
+    "Time": "19:15:25",
+    "Date": "25 April 2013",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": "Swift Observatory"
+}

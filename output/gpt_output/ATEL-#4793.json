@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J123526.99+163030.9",
+            "RA": "12:35:26.99",
+            "Dec": "+16:30:30.9",
+            "redshift": null,
+            "Type": "likely CV",
+            "Time": "Jan 19.9 UT",
+            "Date": "2013-01-19"
+        },
+        {
+            "Name": "CSS130119:123527+163031",
+            "RA": "12:35:27",
+            "Dec": "+16:30:31",
+            "redshift": null,
+            "Type": "likely CV",
+            "Time": "Jan 19.9 UT",
+            "Date": "2013-01-19"
+        }
+    ],
+    "References": "Yecheistov et al. (2013, ATel#4790)",
+    "Event Type": "discovery",
+    "Time": "Jan 19.5 UT",
+    "Date": "2013-01-19",
+    "Telescope": "Catalina Schmidt",
+    "Instrument": null,
+    "Observatory": "CRTS"
+}

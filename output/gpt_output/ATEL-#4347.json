@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "3.1 hr",
+            "Date": "21 July 2012"
+        },
+        {
+            "Name": "MAXI J1910-057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "22:20UT",
+            "Date": "15 Aug 2012"
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #4139",
+        "Usui et al. ATel #4140",
+        "Lloyd et al. ATel #4246",
+        "Rau et al. ATel #4144",
+        "Nakahira et al. ATel #4273",
+        "Bodaghee et al. ATel #4328",
+        "Charles et al. ATel #4210"
+    ],
+    "Event Type": "Optical photometry and spectroscopy observations",
+    "Time": "22:20UT",
+    "Date": "15 Aug 2012",
+    "Telescope": "2.5m Nordic Optical Telescope (NOT), 4.2m William Herschel Telescope (WHT)",
+    "Instrument": "ALFOSC, ACAM",
+    "Observatory": "Spanish Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias (IAC)"
+}

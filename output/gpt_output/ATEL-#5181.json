@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13av",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0173",
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": "June 29"
+        },
+        {
+            "Name": "NGC 7068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0173",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5177",
+    "Event Type": "observation",
+    "Time": "UT June 29.5",
+    "Date": "June 29",
+    "Telescope": "MDM 2.4m telescope",
+    "Instrument": "OSMOS spectrograph",
+    "Observatory": null
+}

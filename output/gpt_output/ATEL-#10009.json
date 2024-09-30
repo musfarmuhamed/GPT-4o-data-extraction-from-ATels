@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17afo",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-22.885"
+        },
+        {
+            "Name": "SN2017on",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-22.885"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593",
+        "http://cosmos.esa.int/gaia",
+        "http://gaia.ac.uk/selected-gaia-science-alerts"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2017-01-26.D1",
+    "Date": "2017-01-26",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

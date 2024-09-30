@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16dtm/SN 2016ezh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": "2016-08-12"
+        },
+        {
+            "Name": "ASASSN-15lh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #9417",
+        "Gal-Yam 2012",
+        "Dong et al. (2016)",
+        "Brown et al., 2016",
+        "Godoy-Rivera et al., 2016"
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": "2016-08-12",
+    "Telescope": [
+        "Pan-STARRS1",
+        "1m telescopes of Las Cumbres Observatory"
+    ],
+    "Instrument": "Swift UVOT",
+    "Observatory": [
+        "Pan-STARRS1",
+        "Asiago Transient Classification Program",
+        "All Sky Automated Survey for SuperNovae (ASAS-SN or 'Assassin')",
+        "Las Cumbres Observatory",
+        "Mt. Cuba Astronomical Foundation"
+    ]
+}

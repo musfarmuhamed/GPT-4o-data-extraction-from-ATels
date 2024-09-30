@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bright neutrino",
+            "RA": "16h 25m 42s",
+            "Dec": "-27d 23m 24s",
+            "redshift": null,
+            "Type": null,
+            "Time": "07:38:25",
+            "Date": "2015-09-01"
+        },
+        {
+            "Name": "Uncatalogued X-ray source",
+            "RA": "16h 26m 2.12s",
+            "Dec": "-27d 18m 14.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Schlegel et al",
+    "Event Type": "Bright neutrino detection",
+    "Time": "07:38:25",
+    "Date": "2015-09-01",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "MASTER SAAO"
+}

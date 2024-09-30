@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16hf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "06.13",
+            "Date": "2016 August 06"
+        },
+        {
+            "Name": "ASASSN-16hq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Stellar flare from M8 dwarf",
+            "Time": null,
+            "Date": "2016 July 26"
+        }
+    ],
+    "References": [
+        "ATel #9245",
+        "#9248",
+        "#9329"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "AMI Large Array, AMI Small Array",
+    "Instrument": null,
+    "Observatory": null
+}

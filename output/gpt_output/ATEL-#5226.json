@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient",
+            "RA": "17:45:35.64",
+            "Dec": "-29:01:35.9",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "thermonuclear burster and eclipsing neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Evans et al. 2009, MNRAS 397, 1177; Goad et al. 2007, A&A, 476, 1401",
+    "Event Type": "accretion outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

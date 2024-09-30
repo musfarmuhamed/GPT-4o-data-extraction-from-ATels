@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17boq",
+            "RA": "14:29:43.40",
+            "Dec": "+07:15:15.62",
+            "redshift": 0.052,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-06-22"
+        },
+        {
+            "Name": "ASASSN-17hz",
+            "RA": "11:47:23.27",
+            "Dec": "+23:21:53.57",
+            "redshift": 0.017,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-06-22"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2017-06-22",
+    "Telescope": "Shane",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

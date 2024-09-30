@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1215+303",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.237,
+            "Type": "BL Lacertae source",
+            "Time": "0.5 hr",
+            "Date": "2013-02-19"
+        },
+        {
+            "Name": "1ES 1215+303",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.237,
+            "Type": "BL Lacertae source",
+            "Time": null,
+            "Date": "2011-12-08"
+        },
+        {
+            "Name": "1ES 1215+303",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.237,
+            "Type": "BL Lacertae source",
+            "Time": null,
+            "Date": "2011-01-04"
+        }
+    ],
+    "References": "http://www.swift.psu.edu/monitoring/",
+    "Event Type": "Highest historical X-ray flux",
+    "Time": "0.5 hr",
+    "Date": "2013-02-19",
+    "Telescope": "Swift satellite",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

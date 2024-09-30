@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-131",
+            "RA": "01 14 00.8",
+            "Dec": "-77 06 16.4",
+            "redshift": "0.31",
+            "Type": "UNKNOWN",
+            "Time": "Null",
+            "Date": "2014-11-15"
+        },
+        {
+            "Name": "OGLE-2014-SN-139",
+            "RA": "00 54 43.42",
+            "Dec": "-67 04 42.2",
+            "redshift": "0.066",
+            "Type": "Ia",
+            "Time": "+5 d",
+            "Date": "2014-11-15"
+        },
+        {
+            "Name": "OGLE-2014-SN-141",
+            "RA": "05 37 18.64",
+            "Dec": "-75 43 17.0",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": "-7 d",
+            "Date": "2014-11-15"
+        },
+        {
+            "Name": "OGLE-2014-SN-135",
+            "RA": "04 20 39.34",
+            "Dec": "-71 36 57.0",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2014-11-15"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299 http://www.pessto.org",
+        "Wyrzykowski et al., 2014 http://arxiv.org/abs/1409.1095 http://ogle.astrouw.edu.pl/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classification",
+    "Time": "Null",
+    "Date": "2014-11-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

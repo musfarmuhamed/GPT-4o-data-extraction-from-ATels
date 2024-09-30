@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS B 1622-297",
+            "RA": "16h26m06.0208s",
+            "Dec": "-29d51m26.970s",
+            "redshift": 0.815,
+            "Type": "blazar",
+            "Time": "March 29",
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Johnston, et al.",
+            "Journal": "AJ",
+            "Volume": 110,
+            "Page": 880,
+            "Year": 1995
+        },
+        {
+            "Authors": "Wright & Otrupcek",
+            "Journal": "Parkes Catalogue",
+            "Year": 1990
+        },
+        {
+            "Authors": "The Fermi-LAT Collaboration",
+            "arXiv": "1002.2280"
+        },
+        {
+            "Authors": "Buxton et al.",
+            "ATel": "#2522"
+        },
+        {
+            "Authors": "Mattox et al.",
+            "Journal": "ApJ",
+            "Volume": 476,
+            "Page": 692,
+            "Year": 1997
+        }
+    ],
+    "Event Type": "heightened gamma-ray flux",
+    "Time": "March 29",
+    "Date": null,
+    "Telescope": "Fermi Gamma-Ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

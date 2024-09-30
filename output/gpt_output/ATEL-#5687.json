@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31N 2013-11e",
+            "RA": "00:44:39.71",
+            "Dec": "+41:53:49.9",
+            "redshift": null,
+            "Type": "supersoft X-ray source",
+            "Time": "N/A (various times mentioned)",
+            "Date": "2013-11-29 to 2013-12-23"
+        }
+    ],
+    "References": "CBAT \"Transient Objects Confirmation Page\"",
+    "Event Type": "Nova detection",
+    "Time": [
+        "2013-12-10.44",
+        "2013-12-23.26"
+    ],
+    "Date": "2013-11-29 to 2013-12-23",
+    "Telescope": "Swift X-ray telescope (XRT), Swift UVOT",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift"
+}

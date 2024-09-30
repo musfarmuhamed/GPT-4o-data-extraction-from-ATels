@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S3 0218+35",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "peak daily flux",
+            "Date": "September 6"
+        },
+        {
+            "Name": "S3 0218+35",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "flux below 1.0x10^-6 ph cm^-2 s^-1",
+            "Date": "September 7 and 8"
+        }
+    ],
+    "References": [
+        "ATel #4343",
+        "ATel #4361",
+        "Biggs et al. 1999, MNRAS, 304, 349",
+        "ATel #4351"
+    ],
+    "Event Type": "gamma-ray re-brightening",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18czg (SN 2018hib)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "Type-Ia supernova",
+            "Time": "10.8",
+            "Date": "2018-10-10"
+        },
+        {
+            "Name": "ESO 417-G-006",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "Seyfert-2 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006gr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8992",
+    "Event Type": "spectroscopic classification",
+    "Time": "19.1",
+    "Date": "2018-10-19",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

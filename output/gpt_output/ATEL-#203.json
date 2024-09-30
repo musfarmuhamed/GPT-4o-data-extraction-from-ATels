@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1810-197",
+            "RA": "18h09m51.08s",
+            "Dec": "-19d43'51.74\"",
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar (AXP)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J180951.1-194351",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Candidate Anomalous X-ray Pulsar (AXP)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC 8168",
+        "IAUC 8190",
+        "ATEL #193",
+        "ATEL #195",
+        "Ibrahim et al. 2003, astro-ph/0310665",
+        "Gotthelf et al. 2003, astro-ph/0309745"
+    ],
+    "Event Type": "ToO observation",
+    "Time": "42 minutes",
+    "Date": [
+        "2003 October 7th",
+        "2003 November 1st",
+        "2003 October 12th"
+    ],
+    "Telescope": [
+        "VLT",
+        "Chandra",
+        "3.6m ESO telescope"
+    ],
+    "Instrument": [
+        "NAOS-CONICA",
+        "HRC-I",
+        "EFOSC2"
+    ],
+    "Observatory": [
+        "ESO"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018abn",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039461",
+            "Type": "Ia",
+            "Time": "7-10 days post max",
+            "Date": "2018-03-19.14"
+        },
+        {
+            "Name": "SN 2018agk",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026128",
+            "Type": "Ia",
+            "Time": "week before max",
+            "Date": "2018-03-19.26"
+        },
+        {
+            "Name": "SN 2018aau",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.043",
+            "Type": "Ia",
+            "Time": "2 weeks post max",
+            "Date": "2018-03-19.35"
+        },
+        {
+            "Name": "SN 2018xv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0221",
+            "Type": "Ic-BL",
+            "Time": "near to post max",
+            "Date": "2018-03-19.06"
+        },
+        {
+            "Name": "SN 2018agb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.042006",
+            "Type": "Ia",
+            "Time": "pre max",
+            "Date": "2018-03-20.05"
+        },
+        {
+            "Name": "SN 2018zv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.043090",
+            "Type": "Ia",
+            "Time": "2 weeks post max",
+            "Date": "2018-03-20.99"
+        },
+        {
+            "Name": "SN 2018agj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0428",
+            "Type": "Ia-91T",
+            "Time": "pre max",
+            "Date": "2018-03-21.15"
+        },
+        {
+            "Name": "SN 2018ahv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.051622",
+            "Type": "Ia",
+            "Time": "----",
+            "Date": "2018-03-21.23"
+        },
+        {
+            "Name": "AT 2018ade",
+            "RA": null,
+            "Dec": null,
+            "redshift": "----",
+            "Type": "CV",
+            "Time": "----",
+            "Date": "2018-04-10.41"
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#11391"
+        },
+        {
+            "ATel": "#11343"
+        },
+        {
+            "ATel": "#11459"
+        }
+    ],
+    "Event Type": "spectroscopic observations and classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

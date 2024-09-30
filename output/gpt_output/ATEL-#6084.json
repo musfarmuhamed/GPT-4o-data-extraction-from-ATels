@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J140804.26-115949.7",
+            "RA": "14h 08m 04.26s",
+            "Dec": "-11d 59m 49.7s",
+            "redshift": "Null",
+            "Type": "possible Supernova",
+            "Time": "30.92955 UT",
+            "Date": "2014-03-30"
+        },
+        {
+            "Name": "SDSS J140803.02-115958.7",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.0353",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "MASTER OT J092340.92+292859.5",
+            "RA": "09h 23m 40.92s",
+            "Dec": "+29d 28m 59.5s",
+            "redshift": "Null",
+            "Type": "possible Supernova",
+            "Time": "19.75675 UT",
+            "Date": "2014-04-19"
+        },
+        {
+            "Name": "SDSS J092340.46+292905.5",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SDSS J092340.81+292859.8",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "WISE J092340.97+292859.0",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J140804-115949-MASTER-Kislovodsk.jpg",
+        "http://master.sai.msu.ru/static/OT/140804.26-115949.7.png",
+        "http://master.sai.msu.ru/static/OT/092340.92292859.5.jpg"
+    ],
+    "Event Type": "Optical Transients discovered by MASTER Global MASTER Robotic Net",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "MASTER-Kislovodsk"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15tw",
+            "RA": "12:50:28.05",
+            "Dec": "-10:50:29.15",
+            "redshift": "0.007972",
+            "Type": "Supernova",
+            "Time": "2015-12-08.63",
+            "Date": "2015-12-08"
+        },
+        {
+            "Name": "DDO 151",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.007972",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Mt. Cuba Astronomical Foundation, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "Discovery of a new transient source",
+    "Time": "2015-12-08.63",
+    "Date": "2015-12-08",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope, RCOS 51-cm telescope, Planewave CDK 0.43-m telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii, New Mexico"
+}

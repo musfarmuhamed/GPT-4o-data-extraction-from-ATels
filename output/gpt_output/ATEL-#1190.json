@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070819-008",
+            "RA": "23:51:13.57",
+            "Dec": "11:25:18.9",
+            "redshift": 0.04,
+            "Type": "IIn",
+            "Time": "RG-610",
+            "Date": "Aug 19.3"
+        },
+        {
+            "Name": "SNF20070820-005",
+            "RA": "22:48:02.47",
+            "Dec": "23:15:17.8",
+            "redshift": 0.05,
+            "Type": "II",
+            "Time": "RG-610",
+            "Date": "Aug 20.2"
+        },
+        {
+            "Name": "SNF20070820-006",
+            "RA": "00:46:01.79",
+            "Dec": "-23:14:14.4",
+            "redshift": 0.17,
+            "Type": "Ia",
+            "Time": "RG-610",
+            "Date": "Aug 20.5"
+        }
+    ],
+    "References": "USNO-B1.0 catalog",
+    "Event Type": "discovery",
+    "Time": "Aug 19 through Aug 20",
+    "Date": "2007",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

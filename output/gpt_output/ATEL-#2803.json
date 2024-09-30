@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNR RXJ1713.7-3946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMSL1 J171900.4-353217",
+            "RA": 259.738,
+            "Dec": -35.508,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "PI R. Terrier",
+    "Event Type": "Observation",
+    "Time": "00:14",
+    "Date": "2010 August 12",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "Jem-X"
+    ],
+    "Observatory": null
+}

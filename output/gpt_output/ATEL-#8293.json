@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J224405.86+434532.2",
+            "RA": "22h 44m 05.86s",
+            "Dec": "+43d 45m 32.2s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "12:14:43",
+            "Date": "2015-11-16"
+        },
+        {
+            "Name": "MASTER OT J031911.88+163152.7",
+            "RA": "03h 19m 11.88s",
+            "Dec": "+16d 31m 52.7s",
+            "redshift": null,
+            "Type": "possible UVCet-type flare",
+            "Time": null,
+            "Date": "2015-11-17"
+        },
+        {
+            "Name": "MASTER OT J071020.81-592606.6",
+            "RA": "07h 10m 20.81s",
+            "Dec": "-59d 26m 06.6s",
+            "redshift": null,
+            "Type": "possible UVCet type flare",
+            "Time": null,
+            "Date": "2015-11-07"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 349171",
+        "http://master.sai.msu.ru/static/OT/MASTEROTJ224405.86+434532.2.jpg",
+        "http://master.sai.msu.ru/static/OT/031911.88163152.7.png",
+        "http://master.sai.msu.ru/static/OT/071020.81-592606.6.png"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

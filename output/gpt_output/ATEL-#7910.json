@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15oi",
+            "RA": "20:39:09.096",
+            "Dec": "-30:45:20.71",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "20:39:09.096",
+            "Date": "2015-08-14.20"
+        },
+        {
+            "Name": "2MASX J20390918-3045201",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, list of all ASAS-SN transients",
+    "Event Type": "discovery",
+    "Time": "20:39:09.096",
+    "Date": "2015-08-14.20",
+    "Telescope": "Cassius",
+    "Instrument": "14-cm",
+    "Observatory": "Cerro Tololo"
+}

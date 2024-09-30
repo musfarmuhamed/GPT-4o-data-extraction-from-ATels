@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090102:112403+233646",
+            "RA": "11:24:02.69",
+            "Dec": "23:36:46.2",
+            "redshift": 2.14,
+            "Type": "radio source",
+            "Time": "11:08:48",
+            "Date": "2009-01-02 UT"
+        },
+        {
+            "Name": "CSS090214:101052-020020",
+            "RA": "10:10:51.71",
+            "Dec": "-02:00:19.9",
+            "redshift": 0.89,
+            "Type": "radio source",
+            "Time": "10:02:09",
+            "Date": "2009-02-14 UT"
+        },
+        {
+            "Name": "CSS090120:085010-121335",
+            "RA": "08:50:09.63",
+            "Dec": "-12:13:35.3",
+            "redshift": 0.57,
+            "Type": "optical flaring",
+            "Time": "08:16:38",
+            "Date": "2009-01-20 UT"
+        }
+    ],
+    "References": [
+        "https://voeventnet.caltech.edu/feeds/ATEL/CRTS/901021230574116817.atel.html",
+        "https://voeventnet.caltech.edu/feeds/ATEL/CSS/902140010554111683.atel.html",
+        "https://voeventnet.caltech.edu/feeds/ATEL/CSS/901200120474150650.atel.html"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": "N/A",
+    "Date": "25 Feb 2009 UT",
+    "Telescope": "Palomar 200-inch telescope",
+    "Instrument": "Double Beam Spectrograph",
+    "Observatory": "Palomar"
+}

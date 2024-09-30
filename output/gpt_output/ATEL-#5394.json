@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +01.02",
+            "RA": "01h08m38.8s",
+            "Dec": "+01d35m00s",
+            "redshift": "2.099",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2013 September 14"
+        },
+        {
+            "Name": "BZQ J0108+0135",
+            "RA": "01h08m38.8s",
+            "Dec": "+01d35m00s",
+            "redshift": "2.099",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2013 September 14"
+        },
+        {
+            "Name": "2FGL J0108.6+0135",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma-ray counterpart",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Kenneth et al. 1995, Hewett et al. 1995, Nolan et al. 2012, ApJS 199, 31",
+    "Event Type": "gamma-ray outburst",
+    "Time": "Null",
+    "Date": "2013 September 14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

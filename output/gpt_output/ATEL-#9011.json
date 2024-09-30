@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16eu",
+            "RA": "08:44:11.05",
+            "Dec": "+34:42:55.8",
+            "redshift": "0.014126",
+            "Type": "supernova",
+            "Time": "UT 2016-04-30.210",
+            "Date": "2016-04-30"
+        },
+        {
+            "Name": "NGC 2649",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014126",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "transient source discovery",
+    "Time": "UT 2016-04-30.210",
+    "Date": "2016-04-30",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": "undefined",
+    "Observatory": "Haleakala, Hawaii"
+}

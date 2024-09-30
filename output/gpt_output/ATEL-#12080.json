@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018hbh",
+            "RA": "22:20:35.87",
+            "Dec": "-30:11:54.7",
+            "redshift": "0.072",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-10-03"
+        },
+        {
+            "Name": "SN2018gys",
+            "RA": "23:17:53.47",
+            "Dec": "-42:12:46.7",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-09-30"
+        },
+        {
+            "Name": "AT2018gqc",
+            "RA": "00:21:13.52",
+            "Dec": "-57:45:10.8",
+            "redshift": "0.134",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2018-09-18"
+        },
+        {
+            "Name": "SN2018gex",
+            "RA": "21:31:28.62",
+            "Dec": "-50:44:59.9",
+            "redshift": "0.030",
+            "Type": "II",
+            "Time": null,
+            "Date": "2018-09-10"
+        },
+        {
+            "Name": "SN2018cvn",
+            "RA": "01:30:27.12",
+            "Dec": "-26:47:06.8",
+            "redshift": "0.019",
+            "Type": "II",
+            "Time": null,
+            "Date": "2018-06-26"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATel #12063",
+        "ATel #12040",
+        "ATel #11832",
+        "ATel #11816"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "night",
+    "Date": "2018-10-03",
+    "Telescope": "4.1-m SOAR Telescope",
+    "Instrument": "Goodman High Throughput Spectrograph",
+    "Observatory": "SOAR"
+}

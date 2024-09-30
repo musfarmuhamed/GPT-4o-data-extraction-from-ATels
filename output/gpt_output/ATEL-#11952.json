@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17503-2636",
+            "RA": "267.58\u00b0",
+            "Dec": "-26.61\u00b0",
+            "redshift": null,
+            "Type": "X-ray transient source",
+            "Time": "07:44 to 12:30",
+            "Date": "August 11th"
+        },
+        {
+            "Name": "IGR J17503-2636",
+            "RA": "267.57527\u00b0 = 17h 50m 18.06s",
+            "Dec": "-26.60458\u00b0 = -26d 36m 16.5s",
+            "redshift": null,
+            "Type": "X-ray transient source",
+            "Time": "19:41-20:13",
+            "Date": "August 13th"
+        }
+    ],
+    "References": [
+        "ATel #438, Kuulkers et al. 2007, A&A 466, 595",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "http://integral.esac.esa.int/BULGE"
+    ],
+    "Event Type": "Discovery of a new X-ray transient source",
+    "Time": "07:44 to 12:30",
+    "Date": "August 11th",
+    "Telescope": "INTEGRAL, Swift/XRT",
+    "Instrument": "JEM-X, IBIS/ISGRI, Swift/UVOT",
+    "Observatory": null
+}

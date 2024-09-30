@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18aavskep",
+            "RA": "15:28:26.164",
+            "Dec": "+08:48:22.16",
+            "redshift": "0.046",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2018-06-02"
+        },
+        {
+            "Name": "ZTF18aaxavsk",
+            "RA": "17:38:20.079",
+            "Dec": "+67:50:57.97",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-02"
+        },
+        {
+            "Name": "ZTF18aaxdrjn",
+            "RA": "12:20:01.666",
+            "Dec": "+56:09:31.88",
+            "redshift": "0.034",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-03"
+        },
+        {
+            "Name": "ZTF18aavrzxp",
+            "RA": "14:21:47.851",
+            "Dec": "+48:09:59.74",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "ZTF18aawdpnm",
+            "RA": "14:15:19.137",
+            "Dec": "+16:53:31.79",
+            "redshift": "0.044",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "ZTF18aaxcxih",
+            "RA": "18:59:01.022",
+            "Dec": "+63:45:18.60",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-05"
+        }
+    ],
+    "References": [
+        "ATel #11266",
+        "ATel #11685",
+        "ATel #11615",
+        "Bellm & Kulkarni, 2017, Nature Astronomy 1, 71",
+        "Kulkarni et al., 2018; arXiv:1710.04223",
+        "Miller et al. 2017, AJ, 153, 73",
+        "Blagorodnova et. al. 2018, PASP, 130, 5003",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "report",
+    "Time": null,
+    "Date": "Since 2018-06-02",
+    "Telescope": "Palomar 60-inch (P60) telescope",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Caltech"
+}

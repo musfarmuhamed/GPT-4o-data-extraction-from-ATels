@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08250876+5416365",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "14.7",
+            "Date": "2015-02-14"
+        },
+        {
+            "Name": "SDSS J082509.39+541634.8",
+            "RA": "08 25 09.39",
+            "Dec": "+54 16 34.8",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "optical spectrum",
+    "Time": "14.7",
+    "Date": "2015-02-14",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

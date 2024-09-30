@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Detached binary containing a black hole and an A0 type companion",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "Y. Maeda",
+            "alert": "vsnet-alert 9360"
+        },
+        {
+            "Name": "P.F. Williams",
+            "alert": "vsnet-alert 9360"
+        }
+    ],
+    "Event Type": "Brightening and photometry",
+    "Time": [
+        {
+            "Time": "20.7 UT",
+            "Date": "2007 May 20"
+        },
+        {
+            "Time": null,
+            "Date": "May 23.972 - 24.002 UT"
+        }
+    ],
+    "Date": [
+        "2007 May 20",
+        {
+            "Date Range": "May 23.972 to 24.002"
+        },
+        {
+            "Date Range": "June 5 to 25"
+        }
+    ],
+    "Telescope": [
+        {
+            "Telescope": "SAO 1-m telescope"
+        },
+        {
+            "Telescope": "60-cm telescope"
+        }
+    ],
+    "Instrument": [
+        "CCD",
+        "V and R_C photometry"
+    ],
+    "Observatory": [
+        "Sternberg Institute's Crimean Station",
+        "SAO"
+    ]
+}

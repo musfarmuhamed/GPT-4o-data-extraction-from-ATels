@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16320-4751",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "2004-12-21 to 2005-09-17"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Lutovinov et al.",
+            "Year": 2005,
+            "Journal": "A&A",
+            "Volume": 433,
+            "Page": "L41"
+        },
+        {
+            "Authors": "Corbet",
+            "Year": 1986,
+            "Journal": "MNRAS",
+            "Volume": 220,
+            "Page": 1047
+        }
+    ],
+    "Event Type": "strong modulation",
+    "Time": null,
+    "Date": "2004-12-21 to 2005-09-17",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": "Null"
+}

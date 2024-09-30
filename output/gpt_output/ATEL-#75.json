@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KS 1731-260",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "J-band (1996 and 2001)",
+            "Date": [
+                "June 1, 1996",
+                "July 13, 2001"
+            ]
+        }
+    ],
+    "References": [
+        "Barret, Motch, & Predehl, 1998, A&A, 329, 965",
+        "Wijnands et al. (ATEL #72)",
+        "Smith, Morgan, & Bradt, 1997, ApJ, L137",
+        "Callanan, Filippenko, & Garcia, 1999, IAU Circular #7086",
+        "Chevalier et al., 1999, A&A, 347, L51",
+        "Stetson, 1987, PASP, 99, 191"
+    ],
+    "Event Type": "Comparison of J-band images between two dates",
+    "Time": null,
+    "Date": [
+        "June 1, 1996",
+        "July 13, 2001"
+    ],
+    "Telescope": [
+        "Canada-France-Hawaii Telescope",
+        "YALO 1m telescope"
+    ],
+    "Instrument": [
+        "ANDICAM optical/IR camera"
+    ],
+    "Observatory": [
+        "Cerro Tololo Interamerican Observatory"
+    ]
+}

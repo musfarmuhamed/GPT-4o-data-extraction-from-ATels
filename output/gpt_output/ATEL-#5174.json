@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J070950.24+643802.9",
+            "RA": "07h 09m 50.24s",
+            "Dec": "+64d 38m 02.9s",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "14:29:32",
+            "Date": "2013-06-24"
+        },
+        {
+            "Name": "MASTER OT J182122.59+614854.8",
+            "RA": "18h 21m 22.59s",
+            "Dec": "+61d 48m 54.8s",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "15:12:27",
+            "Date": "2013-06-26"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J070950.24+643802.9",
+            "Date": "2012-08-20",
+            "Time": "17:54:55"
+        },
+        {
+            "Name": "MASTER OT J182122.59+614854.8",
+            "Date": "2012-09-24",
+            "Time": "12:16:44"
+        }
+    ],
+    "Event Type": "Optical Transient",
+    "Telescope": "MASTER",
+    "Instrument": "MASTER-Amur auto-detection system",
+    "Observatory": "MASTER-SAI"
+}

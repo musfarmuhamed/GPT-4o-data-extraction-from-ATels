@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J20233073+2046041 (= Nova Delphini 2013)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "23:04 to 00:52",
+            "Date": "2013-08-14 to 2013-08-15"
+        }
+    ],
+    "References": [
+        "CBET #3628",
+        "ATels #5279",
+        "ATels #5282"
+    ],
+    "Event Type": "observation",
+    "Time": "23:04 to 00:52",
+    "Date": "2013-08-14 to 2013-08-15",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

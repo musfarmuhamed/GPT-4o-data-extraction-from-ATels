@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS B1035-281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2016-02-26"
+        },
+        {
+            "Name": "PKS B1035-281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2016-03-02"
+        },
+        {
+            "Name": "PKS B1035-281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2010-01-21"
+        },
+        {
+            "Name": "PKS B1035-281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2009-08-10"
+        }
+    ],
+    "References": [
+        "ATel#8740",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Verner et al. 1996, ApJ, 465, 487"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2016-02-26",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

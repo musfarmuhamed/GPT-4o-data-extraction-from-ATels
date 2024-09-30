@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17oz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "K1-K2 III/IV or K3-K4 IV/V",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10991",
+        "USNO-B1.0 catalog",
+        "Jayasinghe et al. 2017",
+        "NOMAD catalog",
+        "Zacharias 2005",
+        "Pan-STARRS",
+        "2MASS",
+        "WISE",
+        "Monet et al. 2003",
+        "Hauschildt et al. 1999a",
+        "Hauschildt et al. 1999b",
+        "Baraffe et al. (2015)",
+        "Allard et al. 2009",
+        "Bayo et al. 2008",
+        "Schlafly & Finkelbeiner (2011)",
+        "Bertone et al. 2004",
+        "University of Massachusetts",
+        "Infrared Processing and Analysis Center/California Institute of Technology",
+        "NASA",
+        "National Science Foundation",
+        "University of California, Los Angeles",
+        "JPL/Caltech",
+        "Spanish Virtual Observatory project",
+        "Above the Spanish MICINN through grant AyA2011-24052",
+        "Pan-STARRS1 Surveys",
+        "NASA Galaxy Evolution Explorer",
+        "California Institute of Technology",
+        "VizieR catalog tool, CDS, Strasbourg, France"
+    ],
+    "Event Type": "transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "GALEX All-sky",
+        "Johnson",
+        "Pan-STARRS",
+        "2MASS",
+        "WISE",
+        "POSS"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "University of Massachusetts",
+        "Infrared Processing and Analysis Center/California Institute of Technology",
+        "University of California, Los Angeles",
+        "JPL/Caltech"
+    ]
+}

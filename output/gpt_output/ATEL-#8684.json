@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174540.7-290015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:12 to 17:22 (UTC)",
+            "Date": "2016-02-11"
+        },
+        {
+            "Name": "1A 1742-289",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray emitting source",
+            "Time": "05:57 to 09:34 (UTC), 03:57 to 08:41 (UTC)",
+            "Date": "2015-10-11, 2015-10-27"
+        }
+    ],
+    "References": "ATel #8649, ATel #438",
+    "Event Type": "observation",
+    "Time": "14:12 to 17:22 (UTC)",
+    "Date": "2016-02-11",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": "INTEGRAL"
+}

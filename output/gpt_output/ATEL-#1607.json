@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PV Cep",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable pre-main sequence (PMS) star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1118 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low mass PMS EXor eruptive variable",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cohen, Kuhi & Harlan 1977 ApJ 215, L127",
+        "Gyulbudaghian et al. 1977 SvAL 3, 84",
+        "ATEL #1256",
+        "Lorenzetti et al. 2006, 2007",
+        "ATEL #619",
+        "ATEL #1015"
+    ],
+    "Event Type": "decline",
+    "Time": "80 days",
+    "Date": "March 31, 2008 - June 18, 2008",
+    "Telescope": "AZT24 1m IR",
+    "Instrument": null,
+    "Observatory": "Campo Imperatore (Italy)"
+}

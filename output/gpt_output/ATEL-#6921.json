@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15az",
+            "RA": "11:08:37.60",
+            "Dec": "-10:14:57.85",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-01-14.46",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J11083863-1014456",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028323",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "transient source discovery",
+    "Time": "2015-01-14.46",
+    "Date": null,
+    "Telescope": "RCOS 41-cm telescope",
+    "Instrument": null,
+    "Observatory": "Siding Spring Observatory"
+}

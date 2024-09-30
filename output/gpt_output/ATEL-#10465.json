@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J195357.46-630110.3",
+            "RA": "19h 53m 57.46s",
+            "Dec": "-63d 01m 10.3s",
+            "redshift": null,
+            "Type": "possibly dwarf nova",
+            "Time": "2017-06-04.06779",
+            "Date": "2017-06-04"
+        },
+        {
+            "Name": "MASTER OT J141350.21-304032.8",
+            "RA": "14h 13m 50.21s",
+            "Dec": "-30d 40m 32.8s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2017-05-29.04012",
+            "Date": "2017-05-29"
+        },
+        {
+            "Name": "MASTER OT J203042.96-195842.8",
+            "RA": "20h 30m 42.96s",
+            "Dec": "-19d 58m 42.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-05-25.30853",
+            "Date": "2017-05-25"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-OAFA",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

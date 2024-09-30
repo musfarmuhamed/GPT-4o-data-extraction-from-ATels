@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B/Swift J123205.1-105602",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00.30 to 09.15 UT",
+            "Date": "January 7"
+        },
+        {
+            "Name": "2MASX J12320498-1056010",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "12:32:08.2",
+            "Dec": "-10:56:14",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6871",
+        "GCN 17268",
+        "GCN 17271",
+        "ATel #6881",
+        "ATel #6873"
+    ],
+    "Event Type": null,
+    "Time": "00.30 to 09.15 UT",
+    "Date": "January 7",
+    "Telescope": "Westerbork Synthesis Radio Telescope",
+    "Instrument": "4.9 GHz",
+    "Observatory": "WSRT"
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0045.2+4151",
+            "RA": "00:45.2",
+            "Dec": "+41:51",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[PFH2005] 622",
+            "RA": "00:45.2",
+            "Dec": "+41:51",
+            "redshift": null,
+            "Type": null,
+            "Time": "T0+107s to T0+720s, T0+4 ks to T0+80 ks, T0+171 ks to T0+206 ks",
+            "Date": null
+        },
+        {
+            "Name": "BAT trigger 633105 (aka GRB 150301C)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": {
+        "Pietsch et al. 2005": "http://swift.gsfc.nasa.gov/results/BATbursts/633105/xrt/atel_20150304.html",
+        "Kraft, Burrows, and Nousek 1991": "ApJ, 374, 344"
+    },
+    "Event Type": "GRB",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT, BAT",
+    "Observatory": null
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "active state with the soft X-ray flux up to 200 count/s in XTE ASM band (2-12 keV), and 0.1 count/s in hard X-ray band of Swift/BAT ASM (15-50 keV)",
+            "Date": "15 April 2008"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "flare with maximum flux about 300 mJy at 2.3 GHz",
+            "Date": "18 April 2008 (MJD 54574.11)"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "bright flare with a power-law spectrum: S_nu[mJy]=640nu^-0.8[GHz]",
+            "Date": "28 April 2008 (MJD 54584.1)"
+        }
+    ],
+    "References": [
+        "http://www.sao.ru/hq/lran/XB/1915_sp_2008apr.png",
+        "http://www.mrao.cam.ac.uk/~guy/1915/2004.ps.gz"
+    ],
+    "Event Type": "flare",
+    "Time": "active state from 15 April 2008, flare on 18 April 2008, bright flare on 28 April 2008",
+    "Date": "15 April 2008, 18 April 2008, 28 April 2008",
+    "Telescope": "RATAN-600",
+    "Instrument": "XTE ASM (2-12 keV), Swift/BAT ASM (15-50 keV)",
+    "Observatory": "Ryle telescope"
+}

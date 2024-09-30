@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J044212.20+230616.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "IIn/Ia-CSM",
+            "Time": null,
+            "Date": "20140923.08"
+        },
+        {
+            "Name": "PGC 1681539",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005gj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IIn/Ia-CSM",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Harutyunyan et al. 2008, A&A, 488, 383; ATel #6484",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "20140923.08",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "+AFOSC",
+    "Observatory": "Asiago"
+}

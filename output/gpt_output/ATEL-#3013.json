@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new transient X-ray source",
+            "RA": "00:42:43.92",
+            "Dec": "+41:12:41.7",
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "07.06 UT",
+            "Date": "2010-11-07"
+        },
+        {
+            "Name": "M 31 globular cluster (GC) Bol 126",
+            "RA": "00:42:43.583",
+            "Dec": "+41.12.42.65",
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M 31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #3001",
+        "ATels #3006",
+        "Stiele et al. 2008, A&A 480, 599",
+        "Kong et al. 2002, ApJ 577, 738",
+        "Williams et al. 2004, ApJ 609, 735",
+        "Galetti et al. 2007, A&A 471, 127",
+        "Henze et al. 2009, A&A 500, 769"
+    ],
+    "Event Type": "discovery of new transient X-ray source",
+    "Time": "07.06 UT",
+    "Date": "2010-11-07",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

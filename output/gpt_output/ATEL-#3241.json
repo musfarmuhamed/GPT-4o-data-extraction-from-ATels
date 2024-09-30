@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17177-3656",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17174269-3656039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unnamed faint source",
+            "RA": "17:17:42.66",
+            "Dec": "-36:56:05.35",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Frankowski et al. 2011, ATel #3223",
+        "Paizis et al. 2011, ATel #3236",
+        "ATel #3226",
+        "ATel #3236"
+    ],
+    "Event Type": "infrared follow-up observations",
+    "Time": "08:58 UT",
+    "Date": "2011-03-20",
+    "Telescope": "4m Blanco telescope",
+    "Instrument": "NEWFIRM widefield infrared imager",
+    "Observatory": "CTIO"
+}

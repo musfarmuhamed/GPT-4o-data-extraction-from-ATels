@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova",
+            "RA": "13:08:01.23",
+            "Dec": "+26:06:59.0",
+            "redshift": "0.035831",
+            "Type": "Type IIn",
+            "Time": "June 9.22",
+            "Date": "2006"
+        }
+    ],
+    "References": "IAUC # 8622, Rines et al. 2001, ApJL 561",
+    "Event Type": "discovery of a supernova",
+    "Time": "June 9.22",
+    "Date": "2006",
+    "Telescope": [
+        "0.45-m ROTSE-IIIb telescope",
+        "University of Hawaii 2.2-meter telescope"
+    ],
+    "Instrument": [
+        "Supernova Integral Field Spectrograph",
+        "unfiltered CCD images"
+    ],
+    "Observatory": "McDonald Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000791",
+            "RA": "20:45:13.089",
+            "Dec": "-06:56:11.090",
+            "redshift": "0.086",
+            "Type": "SN Ia",
+            "Time": "Aug 14.40",
+            "Date": "2023-08-14"
+        },
+        {
+            "Name": "PS1-1000790",
+            "RA": "21:33:28.573",
+            "Dec": "+10:20:39.54",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "Aug 1.44",
+            "Date": "2023-08-01"
+        },
+        {
+            "Name": "PS1-1000789",
+            "RA": "20:42:44.749",
+            "Dec": "+15:30:32.240",
+            "redshift": "0.20",
+            "Type": "AGN/SN IIn",
+            "Time": "Aug 15.35",
+            "Date": "2023-08-15"
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A.Ap. 488, 383; Osterbrock & Pogge 1985, Apj, 297, 166",
+    "Event Type": "Discovery",
+    "Time": "Various",
+    "Date": "2023-08",
+    "Telescope": "Pan-STARRS 1",
+    "Instrument": "ALFOSC+Gr4",
+    "Observatory": "Nordic Optical Telescope"
+}

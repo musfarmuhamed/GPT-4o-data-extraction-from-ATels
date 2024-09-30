@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova V723 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super soft source",
+            "Time": "2006-01-31",
+            "Date": "1995-08-24"
+        }
+    ],
+    "References": [
+        "Ness et al. (2006, IAUC # 8676)",
+        "Ness et al. (2008, AJ 135, 1328)",
+        "Schwarz et al. (2011, ApJS 197, 31)"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": [
+        "2013-08-09/10",
+        "2013-08-19",
+        "2014-04-01",
+        "2014-09-13"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "X-ray",
+    "Observatory": null
+}

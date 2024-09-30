@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V 0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BQ Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": "00:21-00:41",
+            "Date": "2016-10-06"
+        }
+    ],
+    "References": [
+        "ATel #9596",
+        "ATel #245",
+        "ATel #2381",
+        "ATel #7682"
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": "00:43",
+    "Date": "2016-10-06",
+    "Telescope": "1.5 m Russian-Turkish telescope",
+    "Instrument": null,
+    "Observatory": "TUBITAK National Observatory"
+}

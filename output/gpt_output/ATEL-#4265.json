@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "prototype symbiotic star",
+            "Time": "18.03 UT",
+            "Date": "July 18"
+        }
+    ],
+    "References": [
+        "Munari et al. 2009, CBET 1757",
+        "Skopal et al. 2011, A&A 536, A27"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Asiago 1.22m telescope",
+        "0.60-m UT telescope"
+    ],
+    "Instrument": [
+        "Echelle spectrum",
+        "Multi-Mode Spectrograph"
+    ],
+    "Observatory": [
+        "University of Padova, Dept. of Physics and Astronomy",
+        "Schiaparelli Observatory in Varese"
+    ]
+}

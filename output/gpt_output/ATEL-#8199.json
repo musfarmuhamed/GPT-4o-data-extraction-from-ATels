@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15rp",
+            "RA": "00:03:37.25",
+            "Dec": "-34:33:24.23",
+            "redshift": "0.02894",
+            "Type": "Type II Supernova",
+            "Time": "2015-10-02.03",
+            "Date": "2015-10-02"
+        },
+        {
+            "Name": "GALEXASC J000337.23-343323.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Mt. Cuba Astronomical Foundation, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Robert Martin Ayers Science Fund",
+    "Event Type": "Discovery",
+    "Time": "2015-10-02.03",
+    "Date": "2015-10-02",
+    "Telescope": "Cassius (14-cm), du Pont (2.5-m), LCOGT (1-m robotic)",
+    "Instrument": "WFCCD",
+    "Observatory": "Cerro Tololo, Las Campanas Observatory, Siding Springs Observatory"
+}

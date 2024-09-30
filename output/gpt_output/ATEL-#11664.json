@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASS J070931-353746",
+            "RA": "07 09 31.8",
+            "Dec": "-35 37 47.8",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Voges et al.",
+            "Year": 1999
+        },
+        {
+            "Author": "Cusumano et al.",
+            "Year": 2010,
+            "Journal": "A&A",
+            "Volume": 524,
+            "Page": 64
+        },
+        {
+            "Author": "Goad et al.",
+            "Year": 2007,
+            "Journal": "A&A",
+            "Volume": 476,
+            "Page": 1401
+        },
+        {
+            "Author": "Evans et al.",
+            "Year": 2009,
+            "Journal": "MNRAS",
+            "Volume": 397,
+            "Page": 1177
+        },
+        {
+            "Author": "Schlafly & Finkbeiner",
+            "Year": 2011,
+            "Journal": "ApJ",
+            "Volume": 737,
+            "Page": 103
+        }
+    ],
+    "Event Type": "Swift observation",
+    "Time": null,
+    "Date": "2018-April-26",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

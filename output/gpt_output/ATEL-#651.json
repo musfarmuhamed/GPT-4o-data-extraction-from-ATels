@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "apparent nova",
+            "RA": "0h42m41s.99",
+            "Dec": "+41o18'02\".1",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "03.941 UT",
+            "Date": "Nov. 03",
+            "Magnitude": "18.70",
+            "Other Details": {
+                "Location Relative to M31 Center": {
+                    "west": "26\".3",
+                    "north": "113\".6"
+                },
+                "Nearest Variable Object": {
+                    "name": "POINT-AGAPE No.26078",
+                    "distance": "2\".5"
+                },
+                "Archival Images Range": {
+                    "years": "2004-2005",
+                    "magnitude": "19.5 mags"
+                }
+            }
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of apparent nova",
+    "Time": "03.941 UT",
+    "Date": "Nov. 03",
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

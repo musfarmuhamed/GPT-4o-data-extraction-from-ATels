@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ew",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "11.2 UT",
+            "Date": "August 11"
+        },
+        {
+            "Name": "ASASSN-14fa",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "11.3 UT",
+            "Date": "August 11"
+        }
+    ],
+    "References": [
+        "ATel #6367",
+        "ATel #6372"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": [
+        "11.2 UT",
+        "11.3 UT"
+    ],
+    "Date": "August 11",
+    "Telescope": "SOAR telescope",
+    "Instrument": "Goodman Spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01157+6941",
+            "RA": "01h 15m 48.79s",
+            "Dec": "+69d 46m 00.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TYC 4301-174-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "K3V",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J21095+4322",
+            "RA": "21h 09m 24.21s",
+            "Dec": "+43d 19m 35.73s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1333-0426693/2MASS J21092411+4319319",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO B1.0 1333-0426688/2MASS J21092386+4319371",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J210924.07+431933.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "stellar object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. (2016 ApJS, 223, 15), Pickles et al (2010,PASP 122, 1437)",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "Swift-XRT",
+    "Observatory": "Swift"
+}

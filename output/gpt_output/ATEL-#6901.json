@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASS J06593158-0405277",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2014-12-25T07:26:24Z",
+                "2014-12-26T10:33:36Z"
+            ],
+            "Date": [
+                "2014-12-25",
+                "2014-12-26"
+            ]
+        },
+        {
+            "Name": "FU Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1515 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1057 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V883 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "L1551 IRS5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #6770",
+        "ATEL #6862",
+        "Hartmann, Hinkle, and Carvet (2004, ApJ, 609, 906)",
+        "Aspin et al. 2009, AJ, 137, 2968"
+    ],
+    "Event Type": "Spectroscopic Observation",
+    "Time": [
+        "2014-12-25T07:26:24Z",
+        "2014-12-26T10:33:36Z"
+    ],
+    "Date": [
+        "2014-12-25",
+        "2014-12-26"
+    ],
+    "Telescope": "2.7m Harlan J. Smith Telescope",
+    "Instrument": "IGRINS (Immersion GRating INfrared Spectrometer)",
+    "Observatory": "McDonald Observatory"
+}

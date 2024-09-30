@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "07:54:19.0",
+            "Date": "June 14, 2006"
+        },
+        {
+            "Name": "Mrk 421 flare",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flare",
+            "Time": "16:06:34",
+            "Date": "June 23, 2006"
+        }
+    ],
+    "References": "ATEL #840, Bacodine notice from Swift from 23 June 06",
+    "Event Type": "highly variable observation with flares",
+    "Time": "07:54:19.0",
+    "Date": "June 14, 2006",
+    "Telescope": "INTEGRAL, Swift",
+    "Instrument": "IBIS/ISGRI, JEM-X, BAT",
+    "Observatory": "ground-based, optical, radio"
+}

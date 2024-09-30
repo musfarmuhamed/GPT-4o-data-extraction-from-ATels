@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ek",
+            "RA": "03:58:02.45",
+            "Dec": "-41:53:35.89",
+            "redshift": 0.058971,
+            "Type": "supernova",
+            "Time": "00:00",
+            "Date": "2017-04-01"
+        },
+        {
+            "Name": "LCRS B035620.1-420206",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.058971,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "NED"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "00:00",
+    "Date": "2017-04-01",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

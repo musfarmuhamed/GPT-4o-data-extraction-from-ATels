@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS121112:083604+152852",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "Nov 19th"
+        },
+        {
+            "Name": "CSS121113:091919+171410",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.065,
+            "Type": "IIn",
+            "Time": "UT",
+            "Date": "Nov 19th"
+        },
+        {
+            "Name": "CSS121114:090202+101800",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.042,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "Nov 19th"
+        },
+        {
+            "Name": "MLS121115:080653+231239",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.15,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "Nov 19th"
+        }
+    ],
+    "References": [
+        "ATel#4595",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "classification of CRTS optical transients",
+    "Time": "UT",
+    "Date": "Nov 19th",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

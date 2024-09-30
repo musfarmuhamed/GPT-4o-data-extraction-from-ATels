@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1453.4-5524",
+            "RA": "14h53m41.7s",
+            "Dec": "-55d21m42.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14536-5522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BAT survey source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J145341.1-552146",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT all sky survey source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "14h53m41.1s",
+            "Dec": "-55d21m46s",
+            "redshift": null,
+            "Type": "UVOT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ROSAT all sky survey",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

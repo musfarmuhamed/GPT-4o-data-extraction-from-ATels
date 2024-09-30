@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17379-3747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Galactic center region",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1756.9-2508",
+            "RA": "269.23892",
+            "Dec": "-25.10790",
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMXB GX 5-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#11447",
+        "#11487",
+        "Chelovekov et al. 2006, AstL, 32, 456",
+        "Krimm et al, 2007, ApJ,688,147"
+    ],
+    "Event Type": "X-ray transient detection",
+    "Time": null,
+    "Date": "2-3 Apr 2018",
+    "Telescope": "The Neil Gehrels Swift Observatory",
+    "Instrument": "XRT",
+    "Observatory": null
+}

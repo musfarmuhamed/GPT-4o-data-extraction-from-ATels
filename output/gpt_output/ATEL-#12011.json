@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ty",
+            "RA": "0:40:30.674",
+            "Dec": "-50:41:15.08",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2018-09-05.26",
+            "Date": "2018-09-05"
+        },
+        {
+            "Name": "2MASX J00403068-5041153",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery",
+    "Time": "2018-09-05.26",
+    "Date": "2018-09-05",
+    "Telescope": "quadruple 14-cm \"Paczynski\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

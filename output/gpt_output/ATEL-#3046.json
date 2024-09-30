@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63/SS2883",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary system",
+            "Time": "00:00:00",
+            "Date": "2010-11-18"
+        },
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary system",
+            "Time": "05:02",
+            "Date": "2010-11-20"
+        },
+        {
+            "Name": "SS 2883",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "companion star",
+            "Time": null,
+            "Date": "2010 mid-Dec"
+        }
+    ],
+    "References": [
+        "ATel #2780",
+        "ATel #2782",
+        "Chernyakova et al. 2006",
+        "Chernyakova et al. 2009"
+    ],
+    "Event Type": "gamma-ray detection",
+    "Time": "00:00:00",
+    "Date": "2010-11-18",
+    "Telescope": "Large Area Telescope",
+    "Instrument": "Fermi Gamma-ray Space Telescope",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

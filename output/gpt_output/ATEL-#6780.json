@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 2241+406",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.171,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "2014-12-01"
+        },
+        {
+            "Name": "BZB J2244+4057",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.171,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "2014-12-01"
+        }
+    ],
+    "References": [
+        "2FGLJ2244.1+4059",
+        "Atel #5690",
+        "Atel #6402"
+    ],
+    "Event Type": "NIR flare",
+    "Time": null,
+    "Date": "2014-12-01",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory operated by the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

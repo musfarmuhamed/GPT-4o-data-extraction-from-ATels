@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "night",
+            "Date": "2014-08-24"
+        }
+    ],
+    "References": [
+        "http://vo.astro.spbu.ru/program",
+        "http://www.bu.edu/blazars/VLBAproject.html"
+    ],
+    "Event Type": "phase of high activity",
+    "Time": "night",
+    "Date": "2014-08-24",
+    "Telescope": [
+        "0.7-m AZT-8",
+        "LX-200 0.4-m",
+        "1.8-m Perkins"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Crimean Obs., Russia",
+        "St.Petersburg Univ., Russia",
+        "Lowell Obs., AZ, USA"
+    ]
+}

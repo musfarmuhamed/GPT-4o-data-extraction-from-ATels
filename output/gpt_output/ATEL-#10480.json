@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J132501.00+431846.1",
+            "RA": "13 25 00.89",
+            "Dec": "+43 18 45.1",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "2017-06-05.955",
+            "Date": "2017-06-05"
+        },
+        {
+            "Name": "GSC 03031-00475",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Reference Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GSC 03031-00608",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Reference Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 5145",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "P. Balanutsa et al., ATel #10470",
+        "A. Henden et al., 2016",
+        "A. Drake et al. 2009, ApJ, 696, 870"
+    ],
+    "Event Type": "Large amplitude optical transient",
+    "Time": "2017-06-05.955 UT",
+    "Date": "2017-06-05",
+    "Telescope": "MASTER",
+    "Instrument": "iTelescope.Net instruments",
+    "Observatory": [
+        "MASTER robotic telescopes network",
+        "iTelescope.Net instruments in Nerpio, Spain (T18)",
+        "iTelescope.Net instruments in Auberry, CA, USA (T24)",
+        "iTelescope.Net instruments in Mayhill, NM, USA (T11)"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1810.8-2609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "individual ~1.6 ksec and ~1.9 ksec observations",
+            "Date": "November 3rd and 5th"
+        }
+    ],
+    "References": [
+        "Natalucci et al., 2000",
+        "Atels #1175, #1185 and #1227",
+        "Jonker et al 2004"
+    ],
+    "Event Type": "Observational",
+    "Time": "November 3rd and 5th",
+    "Date": "November 3rd and 5th",
+    "Telescope": "Swift-XRT",
+    "Instrument": null,
+    "Observatory": "Swift"
+}

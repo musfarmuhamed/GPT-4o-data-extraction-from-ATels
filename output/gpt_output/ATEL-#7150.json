@@ -1,0 +1,111 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00:42:07.99",
+            "Dec": "+40:55:01.1",
+            "redshift": null,
+            "Type": "Luminous Red Nova (LRN)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER J004207.99+405501.1",
+            "RA": "00:42:07.99",
+            "Dec": "+40:55:01.1",
+            "redshift": null,
+            "Type": "Luminous Red Nova (LRN)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#6911",
+        "#6924",
+        "#6941",
+        "#6951",
+        "#6952",
+        "#6985"
+    ],
+    "Event Type": "Optical Monitoring",
+    "Time": [
+        "24.11",
+        "24.12",
+        "07.74",
+        "07.74",
+        "18.7",
+        "18.7",
+        "18.7",
+        "18.7",
+        "21.72",
+        "21.72",
+        "21.72",
+        "21.79",
+        "22.71",
+        null
+    ],
+    "Date": [
+        "2015-01-24",
+        "2015-01-24",
+        "2015-02-07",
+        "2015-02-07",
+        "2015-02-18",
+        "2015-02-18",
+        "2015-02-18",
+        "2015-02-18",
+        "2015-02-21",
+        "2015-02-21",
+        "2015-02-21",
+        "2015-02-21",
+        "2015-02-22",
+        "2015-02-24"
+    ],
+    "Telescope": [
+        "McDonald 1 m",
+        "McDonald 1 m",
+        "Konkoly 60/90 cm Schmidt",
+        "Konkoly 60/90 cm Schmidt",
+        "Konkoly 60/90 cm Schmidt",
+        "Konkoly 60/90 cm Schmidt",
+        "Konkoly 60/90 cm Schmidt",
+        "Konkoly 60/90 cm Schmidt",
+        "6 m BTA",
+        "6 m BTA",
+        "6 m BTA",
+        "6 m BTA",
+        "6 m BTA",
+        "10.4m Gran Telescopio Canarias"
+    ],
+    "Instrument": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SCORPIO",
+        "SCORPIO",
+        "OSIRIS"
+    ],
+    "Observatory": [
+        "McDonald Observatory",
+        "McDonald Observatory",
+        "Konkoly Observatory",
+        "Konkoly Observatory",
+        "Konkoly Observatory",
+        "Konkoly Observatory",
+        "Konkoly Observatory",
+        "Konkoly Observatory",
+        "Special Astrophysical Observatory",
+        "Special Astrophysical Observatory",
+        "Special Astrophysical Observatory",
+        "Special Astrophysical Observatory",
+        "Special Astrophysical Observatory",
+        "Roque de los Muchachos Observatory"
+    ]
+}

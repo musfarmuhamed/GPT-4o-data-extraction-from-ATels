@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0836+710 (4C 71.07)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.172,
+            "Type": "FSRQ",
+            "Time": "MJD 57243.893751",
+            "Date": "2015-08-09"
+        },
+        {
+            "Name": "S5 0836+710 (4C 71.07)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.172,
+            "Type": "FSRQ",
+            "Time": "MJD 57220.824013",
+            "Date": "2015-07-17"
+        }
+    ],
+    "References": [
+        "Ciprini et al. (ATel #7870)",
+        "Giroletti et al. (ATel #7890)",
+        "Kalberla et al. 2005"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": null,
+    "Date": "2015-08-03",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

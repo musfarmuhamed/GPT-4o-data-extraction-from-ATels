@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "1.8 ks",
+            "Date": "2007-05-23"
+        },
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "1.2 ks",
+            "Date": "2007-05-24"
+        },
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "0.9 ks",
+            "Date": "2007-05-25"
+        }
+    ],
+    "References": "ATEL #1134",
+    "Event Type": "Observation",
+    "Time": "Variable",
+    "Date": [
+        "2007-05-23",
+        "2007-05-24",
+        "2007-05-25"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

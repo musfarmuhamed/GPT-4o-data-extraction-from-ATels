@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18244-5622",
+            "RA": "18 24 19.49",
+            "Dec": "-56 22 08.72",
+            "redshift": "0.017",
+            "Type": "AGN type II",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "IGR J21178+5139",
+            "RA": "21 17 47.24",
+            "Dec": "+51 38 53.62",
+            "redshift": "Null",
+            "Type": "heavily absorbed object",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Masetti et al. 2006, A&A 459, 21",
+    "Event Type": "detection and observation",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Swift/XRT X-ray telescope",
+    "Instrument": "XRT",
+    "Observatory": "Null"
+}

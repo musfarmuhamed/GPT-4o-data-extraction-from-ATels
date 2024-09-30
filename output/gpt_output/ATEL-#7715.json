@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:59:01.20",
+            "Date": "June 15"
+        }
+    ],
+    "References": [
+        "G. Younes et al., GCN 17932",
+        "S. D. Barthelmy, et al., GCN 17929",
+        "Miller-Jones et al., 2009",
+        "GCN 17938",
+        "Gotthelf et al., 1991"
+    ],
+    "Event Type": "hard X-ray flare",
+    "Time": "18:59:01.20",
+    "Date": "June 15",
+    "Telescope": [
+        "Fermi/GBM",
+        "Swift/BAT",
+        "Konus-Wind"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

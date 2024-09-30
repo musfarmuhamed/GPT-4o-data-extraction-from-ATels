@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12heq",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.15",
+            "Type": null,
+            "Time": null,
+            "Date": "2012-12-18"
+        },
+        {
+            "Name": "GALEX J033304.1-281248",
+            "RA": "03:33:04.1",
+            "Dec": "-28:12:48",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#4644"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2012-12-18",
+    "Telescope": "SWIFT",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J063045.9-603110",
+            "RA": "06 30 45.52",
+            "Dec": "-60 31 12.9",
+            "redshift": null,
+            "Type": "Bright soft X-ray source",
+            "Time": "NA",
+            "Date": "2011-12-01"
+        },
+        {
+            "Name": "New object detected with GROND",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical source detected",
+            "Time": "NA",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3811",
+        "ATel #3813"
+    ],
+    "Event Type": "Observation",
+    "Time": "2.9 ksec",
+    "Date": "2011-12-20",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT"
+    ],
+    "Observatory": "ESA's XMM-Newton"
+}

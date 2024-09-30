@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14466-3352",
+            "RA": "14h 46m 37.4s",
+            "Dec": "-33d 52m 29.6s",
+            "redshift": null,
+            "Type": "potential Blazar-type object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14466-3352",
+            "RA": "14h 46m 31.1s",
+            "Dec": "-33d 52m 37.6s",
+            "redshift": null,
+            "Type": "unknown",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J21565+5948 Source #1",
+            "RA": "21h 56m 27.3s",
+            "Dec": "+59d 47m 40.9s",
+            "redshift": null,
+            "Type": "star CCDM J21565+5948AB of spectral type AO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J21565+5948 Source #2",
+            "RA": "21h 56m 04.29s",
+            "Dec": "+59d 56m 01.66s",
+            "redshift": null,
+            "Type": "unknown",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

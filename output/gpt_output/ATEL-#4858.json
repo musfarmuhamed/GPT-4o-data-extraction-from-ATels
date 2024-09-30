@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0502+049",
+            "RA": "05h05m23.1847s",
+            "Dec": "+04d59m42.725s",
+            "redshift": 0.954,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MG1 J050533+0415",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Nolan et al. 2012 ApJS, 199, 31; Johnston et al. 1995, AJ, 110, 880; Drinkwater et al. 1997, MNRAS, 284, 85; ATel#3573",
+    "Event Type": "flare",
+    "Time": null,
+    "Date": "August 20, 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

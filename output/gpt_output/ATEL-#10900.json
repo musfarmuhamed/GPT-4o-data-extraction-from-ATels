@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": "17:45:35.68",
+            "Dec": "-29:01:34.8",
+            "redshift": null,
+            "Type": "Eclipsing Low-Mass X-ray Binary (LMXB), Thermonuclear X-ray Burster",
+            "Time": null,
+            "Date": "between October 19 and 27"
+        },
+        {
+            "Name": "CXOGC J174535.5-290124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very-faint unclassified transient",
+            "Time": null,
+            "Date": "2006 and 2008"
+        },
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star LMXB",
+            "Time": null,
+            "Date": "October 11"
+        }
+    ],
+    "References": [
+        "Degenaar & Wijnands 2009, A&A 495, 547",
+        "Degenaar & Wijnands 2010, A&A 524, 69",
+        "Degenaar et al. 2015, JHEAp, 7, 137",
+        "Muno et al. 2005, ApJ 622, L113",
+        "Trap et al. 2009, A&A 504, 501"
+    ],
+    "Event Type": "X-ray activity of transient sources",
+    "Time": "Daily monitoring",
+    "Date": "October 19 - October 27",
+    "Telescope": "Swift",
+    "Instrument": "XRT (X-Ray Telescope)",
+    "Observatory": null
+}

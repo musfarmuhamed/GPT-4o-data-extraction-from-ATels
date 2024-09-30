@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J044212.20+230616.7",
+            "RA": "04h 42m 12.20s",
+            "Dec": "+23d 06m 16.7s",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "Unknown",
+            "Date": "2014-09-20.81259 UT"
+        },
+        {
+            "Name": "PGC 1681539",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/044212.20230616.7.png",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2014-09-20.81259 UT",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global"
+}

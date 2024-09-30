@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15crp",
+            "RA": "01 22 24.74",
+            "Dec": "-13 47 35.0",
+            "redshift": null,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "20151029"
+        },
+        {
+            "Name": "PS15cox",
+            "RA": "03 08 04.79",
+            "Dec": "-03 14 54.2",
+            "redshift": "0.029784",
+            "Type": null,
+            "Time": null,
+            "Date": "20151025"
+        },
+        {
+            "Name": "PS15cpt",
+            "RA": "17 54 22.78",
+            "Dec": "-06 45 55.0",
+            "redshift": null,
+            "Type": "CV or high amplitude galactic variable",
+            "Time": null,
+            "Date": "20151025"
+        },
+        {
+            "Name": "PS15cod",
+            "RA": "22 08 00.13",
+            "Dec": "+42 14 27.1",
+            "redshift": null,
+            "Type": "galactic variable",
+            "Time": null,
+            "Date": "20151022"
+        },
+        {
+            "Name": "PS15cnr",
+            "RA": "22 24 28.44",
+            "Dec": "+32 39 32.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20151020"
+        },
+        {
+            "Name": "PS15cnc",
+            "RA": "21 59 35.52",
+            "Dec": "+12 03 43.1",
+            "redshift": "0.045330",
+            "Type": null,
+            "Time": null,
+            "Date": "20151019"
+        }
+    ],
+    "References": "Huber et al. ATel #7153, ATel #8255",
+    "Event Type": "Discovery of Six Bright Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

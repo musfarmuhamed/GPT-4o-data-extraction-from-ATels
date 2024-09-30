@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "Night",
+            "Date": [
+                "2013-09-20",
+                "2013-09-23"
+            ]
+        },
+        {
+            "Name": "B3 1633+38",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "Night",
+            "Date": [
+                "2013-08-15"
+            ]
+        }
+    ],
+    "References": [
+        "this page",
+        "here"
+    ],
+    "Event Type": "Monitoring",
+    "Time": "Night",
+    "Date": [
+        "2013-08-15",
+        "2013-09-20",
+        "2013-09-23"
+    ],
+    "Telescope": "1.1-m AZT-24",
+    "Instrument": null,
+    "Observatory": "Campo Imperatore, Italy"
+}

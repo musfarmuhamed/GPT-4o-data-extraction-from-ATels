@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17464-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": null,
+            "Date": "September 9"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": null,
+            "Date": "September 12"
+        }
+    ],
+    "References": [
+        "ATEL #132",
+        "ATEL #180"
+    ],
+    "Event Type": "reactivation",
+    "Time": null,
+    "Date": "end of March",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS"
+    ],
+    "Observatory": null
+}

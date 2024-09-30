@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1544-0649",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high energy transient source",
+            "Time": null,
+            "Date": "2017-05-11 to 2017-06-04"
+        },
+        {
+            "Name": "Swift J164449.3+573451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TDE",
+            "Time": null,
+            "Date": "2011"
+        },
+        {
+            "Name": "1ES 0033+595",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZB J0244-5819",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ciprini et al. ATel. #10482",
+        "Chornock & Margutti ATel. #10491",
+        "Morii et al. 2016, PASJ, 68, S11",
+        "Burrows et al. 2011, Nature, 476, 421",
+        "Kawamuro et al. 2016, PASJ, 68, 58",
+        "Negoro et al. 2016, PASJ, 68, S1"
+    ],
+    "Event Type": "high energy transient source",
+    "Time": "since 2009 August 15",
+    "Date": "2017-05-11 to 2017-06-04",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

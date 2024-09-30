@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2015-NOVA-01",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova candidate (possibly symbiotic nova or red nova)",
+            "Time": "April 13.25368 UT",
+            "Date": "2015-03-05"
+        }
+    ],
+    "References": "ATel #7179",
+    "Event Type": "Candidate nova alert",
+    "Time": null,
+    "Date": "2015-03-05",
+    "Telescope": [
+        "Swift satellite",
+        "LCOGT 1-m robotic telescope"
+    ],
+    "Instrument": [
+        "XRT (X-Ray Telescope)",
+        "UVOT (Ultraviolet/Optical Telescope)"
+    ],
+    "Observatory": [
+        "University of St Andrews",
+        "South African Astronomical Observatory (SAAO)"
+    ]
+}

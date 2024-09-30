@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J162323.48+782603.3",
+            "RA": "16h 23m 23.48s",
+            "Dec": "+78d 26m 03.3s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "11:53:47.5",
+            "Date": "2013-12-09"
+        },
+        {
+            "Name": "USNO-A2.0 1650-01856527",
+            "RA": "16h 23m 23.60s",
+            "Dec": "+78d 26m 02.1",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1684-0061530",
+            "RA": "16h 23m 23.378s",
+            "Dec": "+78d 26m 03.56s",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J162323.38+782603.6",
+            "RA": "16h 23m 23.38s",
+            "Dec": "+78d 26m 03.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J162323.3+782603",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2RXP J162322.7+782559",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Object in Atlas of Radio/X-ray associations",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/162323.48782603.3.png",
+    "Event Type": "Outburst",
+    "Time": "11:53:47.5",
+    "Date": "2013-12-09",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

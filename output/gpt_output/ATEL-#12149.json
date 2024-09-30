@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LCRS B031632.6-414727",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18yn (AT 2018hpu)",
+            "RA": "03:18:21.225",
+            "Dec": "-41:36:34.85",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2018-10-19.15",
+            "Date": "2018-10-19"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Las Cumbres Observatory",
+        "Gordon and Betty Moore Foundation",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Villum Fonden (Denmark)"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2018-10-19.15",
+    "Date": "2018-10-19",
+    "Telescope": "Paczynski",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

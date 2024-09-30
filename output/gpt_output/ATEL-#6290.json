@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14de",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ic",
+            "Time": "20140703.87",
+            "Date": "2014-07-03"
+        },
+        {
+            "Name": "CSS140628:164427+285658",
+            "RA": "16 44 27",
+            "Dec": "+28 56 58",
+            "redshift": "0.058",
+            "Type": "Ia",
+            "Time": "20140703.94",
+            "Date": "2014-07-03"
+        },
+        {
+            "Name": "PSN J22453888+7309427",
+            "RA": "22 45 38.88",
+            "Dec": "+73 09 42.7",
+            "redshift": null,
+            "Type": "Ia-pec",
+            "Time": "20140703.98",
+            "Date": "2014-07-03"
+        },
+        {
+            "Name": "CSS140628:233025+060302",
+            "RA": "23 30 25",
+            "Dec": "+06 03 02",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Time": "20140704.02",
+            "Date": "2014-07-04"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, in press, http://arxiv.org/abs/1403.7233",
+        "Karachentsev et al. 1985, Inform. CDS. 29, 87",
+        "Wheeler et al. 1994, ApJ, 436L, 135",
+        "Falco et al. 2000, The Updated Zwicky Catalog",
+        "Valenti et al. 2009, Nature, 459,674",
+        "Strinztinger et al. 2014, A&A, 561, 146",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.22-m Galileo Telescope, Asiago 1.82 m Copernico Telescope",
+    "Instrument": "Boller & Chivens spectrograph, AFOSC",
+    "Observatory": "Asiago"
+}

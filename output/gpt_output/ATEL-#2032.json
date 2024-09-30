@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17254-3257",
+            "RA": "17:25:24.85",
+            "Dec": "-32:57:16.5",
+            "redshift": null,
+            "Type": "x-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "17:25:24.97",
+            "Dec": "-32:57:14.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Chenevez et al. 2007, A&A, 469, L27",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "Jun 23, 2007",
+    "Telescope": "3.6m ESO NTT",
+    "Instrument": null,
+    "Observatory": "La Silla"
+}

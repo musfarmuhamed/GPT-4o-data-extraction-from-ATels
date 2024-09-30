@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Amos",
+            "RA": 177.402458,
+            "Dec": 22.388416,
+            "redshift": 0.54,
+            "Type": "supernova candidate",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Graham et al. 2015, ApJ, 807, 13",
+        "Yagi et al. 2016, ApJS, 235, 11",
+        "Janssens et al.; arxiv:1701.00011"
+    ],
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "January 23, 2017",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": [
+        "WFC3 UVIS F606W",
+        "WFC3 IR F110W"
+    ],
+    "Observatory": "Null"
+}

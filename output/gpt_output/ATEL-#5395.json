@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J015234.39+260302.4",
+            "RA": "01h 52m 34.39s",
+            "Dec": "+26d 03m 02.4s",
+            "redshift": null,
+            "Type": "flaring red dwarf",
+            "Time": "2013-09-14.82097",
+            "Date": "2013-09-14"
+        },
+        {
+            "Name": "MASTER OT J171336.41+783648.1",
+            "RA": "17h 13m 36.41s",
+            "Dec": "+78d 36m 48.1s",
+            "redshift": null,
+            "Type": "UV Ceti star",
+            "Time": "2013-09-16.55775",
+            "Date": "2013-09-16"
+        },
+        {
+            "Name": "MASTER OT J011626.66+551730.5",
+            "RA": "01h 16m 26.66s",
+            "Dec": "+55d 17m 30.5s",
+            "redshift": null,
+            "Type": "UV Ceti star",
+            "Time": "2013-09-16.71543",
+            "Date": "2013-09-16"
+        },
+        {
+            "Name": "MASTER OT J012836.52+532830.6",
+            "RA": "01h 28m 36.52s",
+            "Dec": "+53d 28m 30.6s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2013-09-16.72201",
+            "Date": "2013-09-16"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J015234.39+260302.4",
+            "Date": "2011-12-01",
+            "Time": "2011-12-01.57542"
+        },
+        {
+            "Name": "MASTER OT J171336.41+783648.1",
+            "Date": "2010-08-23",
+            "Time": "2010-08-23.58601"
+        },
+        {
+            "Name": "MASTER OT J011626.66+551730.5",
+            "Date": "2013-05-01",
+            "Time": "2013-05-01.72632"
+        },
+        {
+            "Name": "MASTER OT J012836.52+532830.6",
+            "Date": "2012-09-24",
+            "Time": "2012-09-24.68692"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "Different for each object",
+    "Date": "Different for each object",
+    "Telescope": "MASTER",
+    "Instrument": "Auto-detection system",
+    "Observatory": [
+        "MASTER-Tunka",
+        "MASTER-Amur"
+    ]
+}

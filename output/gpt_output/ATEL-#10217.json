@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132",
+            "RA": "18 08 07.55",
+            "Dec": "+13 15 05.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "1982-05-20"
+        }
+    ],
+    "References": [
+        "Negoro et al., ATel #10208",
+        "Kennea et al., ATel #10215",
+        "Chambers et al., arxiv:1612.05560",
+        "Kennea et al., ATel #10216"
+    ],
+    "Event Type": "X-ray source detection and follow-up",
+    "Time": null,
+    "Date": "1982-05-20",
+    "Telescope": "Palomar",
+    "Instrument": "digitized Palomar plates",
+    "Observatory": "Palomar Observatory"
+}

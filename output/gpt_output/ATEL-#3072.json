@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source #1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "A-type star",
+            "Time": null,
+            "Date": "2010 December 3,6,7"
+        },
+        {
+            "Name": "2MASS J21560446+5955586",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "late type star",
+            "Time": null,
+            "Date": "2010 December 3,6,7"
+        },
+        {
+            "Name": "2MASS J21560418+5956045",
+            "RA": "21h56m04.202s",
+            "Dec": "+59o56'04.46\"",
+            "redshift": "0.208 +/- 0.001",
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": "2010 December 3,6,7"
+        },
+        {
+            "Name": "IGR J21565+5948",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Landi et al., ATEL#3065",
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2010 December 3,6,7",
+    "Telescope": "1.5-m Russian-Turkish telescope (RTT-150)",
+    "Instrument": "TFOSC",
+    "Observatory": "TUBITAK National Observatory, Antalya, Turkey"
+}

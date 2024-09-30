@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "15:15:48-15:35:42 UTC",
+                "08:26:24-08:46:18 UTC",
+                "13:13:33-13:33:27 UTC",
+                "08:06:21-08:26:15 UTC"
+            ],
+            "Date": [
+                "2017-10-05",
+                "2017-10-06",
+                "2017-10-09",
+                "2017-10-12"
+            ]
+        }
+    ],
+    "References": [
+        "GCN #21916",
+        "ATel #10791",
+        "ATel #10801",
+        "ATel #10802",
+        "ATel #10833",
+        "ATel #10792",
+        "ATel #10794",
+        "ATel #10830",
+        "ATel #10831",
+        "ATel #10838",
+        "ATel #10840",
+        "ATel #10844",
+        "ATel #10845"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "15:15:48-15:35:42 UTC",
+        "08:26:24-08:46:18 UTC",
+        "13:13:33-13:33:27 UTC",
+        "08:06:21-08:26:15 UTC"
+    ],
+    "Date": [
+        "2017-10-05",
+        "2017-10-06",
+        "2017-10-09",
+        "2017-10-12"
+    ],
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": [
+        "S band (2-4 GHz)",
+        "C band (4-8 GHz)",
+        "X band (8-12 GHz)"
+    ],
+    "Observatory": "NRAO"
+}

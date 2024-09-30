@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1502+106",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "83ks",
+            "Date": null
+        },
+        {
+            "Name": "IGR J15039+1022",
+            "RA": "15h03m53.76s",
+            "Dec": "+10d22m08.40s",
+            "redshift": null,
+            "Type": "high energy source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PG1501+106/MRK0841",
+            "RA": "15h04m01.202s",
+            "Dec": "+10d26m16.15s",
+            "redshift": null,
+            "Type": "Seyfert 1 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL 1650, Petrucci et al. 2002, A&A 388, L5-L8",
+    "Event Type": null,
+    "Time": "83ks",
+    "Date": {
+        "Start": "MJD 53760.4",
+        "End": "MJD 53762.4"
+    },
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS",
+    "Observatory": null
+}

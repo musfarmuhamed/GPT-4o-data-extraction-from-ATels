@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J03085209+1718032",
+            "RA": "03085209",
+            "Dec": "+1718032",
+            "redshift": null,
+            "Type": "Type-Ia",
+            "Time": "16.79 UT",
+            "Date": "Mar. 16"
+        },
+        {
+            "Name": "CSS120224:094326-065336",
+            "RA": "094326",
+            "Dec": "-065336",
+            "redshift": null,
+            "Type": "Type-Ia",
+            "Time": "16.85 UT",
+            "Date": "Mar. 16"
+        },
+        {
+            "Name": "CSS120218:111158+294206",
+            "RA": "111158",
+            "Dec": "+294206",
+            "redshift": null,
+            "Type": "Type-Ia",
+            "Time": "16.87 UT",
+            "Date": "Mar. 16"
+        },
+        {
+            "Name": "CSS120221:112052+513230",
+            "RA": "112052",
+            "Dec": "+513230",
+            "redshift": null,
+            "Type": "Type-Ia",
+            "Time": "16.94 UT",
+            "Date": "Mar. 16"
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Spectroscopic Confirmations of Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": null
+}

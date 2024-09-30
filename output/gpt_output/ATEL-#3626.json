@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "12 UT",
+            "Date": "August 31, 2011"
+        }
+    ],
+    "References": [
+        "ATel #3611",
+        "ATel #3613",
+        "ATel #3618"
+    ],
+    "Event Type": "spectral softening",
+    "Time": "12 UT",
+    "Date": "August 31, 2011",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

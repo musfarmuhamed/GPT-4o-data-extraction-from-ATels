@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible supergiant companion of the transient 7.8 s pulsar XTE J1829-098",
+            "RA": "18h29m44.55s",
+            "Dec": "-09d51m20.3s",
+            "redshift": null,
+            "Type": "Candidate supergiant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMM-Newton position of the source",
+            "RA": "18h29m44.06s",
+            "Dec": "-09d51m23.3s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 and 2MASS star",
+            "RA": "18h29m44.28s",
+            "Dec": "-09d51m26.8s",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt et al., ATEL #317; Halpern & Gotthelf, ATEL #319",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "2MASS",
+    "Instrument": null,
+    "Observatory": null
+}

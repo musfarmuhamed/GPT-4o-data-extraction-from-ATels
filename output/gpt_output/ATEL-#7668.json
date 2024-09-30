@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": [
+                "57188.6028",
+                "57189.1444",
+                "57189.6701",
+                "57190.1951",
+                "57190.8750"
+            ],
+            "Date": [
+                "2015-06-16",
+                "2015-06-17"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #7631",
+        "ATel #7633",
+        "ATel #7648",
+        "ATel #7639"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015-06-16 to 2015-06-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": "Swift"
+}

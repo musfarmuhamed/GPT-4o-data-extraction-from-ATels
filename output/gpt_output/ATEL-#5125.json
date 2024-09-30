@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 2617",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0142",
+            "Type": "Seyfert 1.8 spiral galaxy",
+            "Time": null,
+            "Date": "April 2013"
+        }
+    ],
+    "References": "Shappee et al. 2013, ATel #5010; Shappee et al. 2013, ATel #5059; Tsygankov et al. 2013, ATel #5103",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2013 June 7",
+    "Telescope": [
+        "Westerbork Synthesis Radio Telescope",
+        "Effelsberg",
+        "Torun",
+        "Onsala",
+        "Jodrell Bank Lovell Telescope",
+        "Medicina",
+        "Noto",
+        "Hartebeesthoek"
+    ],
+    "Instrument": "Swift/BAT; INTEGRAL",
+    "Observatory": "European VLBI Network"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15nq",
+            "RA": "17:17:19.23",
+            "Dec": "+33:27:43.27",
+            "redshift": "0.030418",
+            "Type": "supernova",
+            "Time": "2015-08-06.38",
+            "Date": "2015-08-06",
+            "Approx": {
+                "Abs Mag": "-18.4",
+                "Offset from Host": "6.36\""
+            }
+        },
+        {
+            "Name": "2MFGC 13779",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030418",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Telescope": "14-cm \"Brutus\" telescope",
+            "Instrument": null,
+            "Observatory": "Haleakala, Hawaii"
+        },
+        {
+            "Telescope": "Virtual Telescope Project 17-inch Planewave telescope",
+            "Instrument": null,
+            "Observatory": "Ceccano, Italy"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-08-06.38",
+    "Date": "2015-08-06",
+    "Telescope": "14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

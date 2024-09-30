@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15be",
+            "RA": "02:52:46.39",
+            "Dec": "-34:18:52.52",
+            "redshift": "0.0219",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2015-01-19.07"
+        },
+        {
+            "Name": "GALEXASC J025245.83-341850.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0219",
+            "Type": "dwarf galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2015-01-19.07",
+    "Telescope": "quadruple 14-cm \"Cassius\" telescope, RCOS 51-cm telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile, New Mexico Skies Observatory"
+}

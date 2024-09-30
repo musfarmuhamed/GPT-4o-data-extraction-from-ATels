@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "31.15 UT",
+            "Date": "August 2013"
+        },
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "25.18 UT",
+            "Date": "September 2013"
+        },
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "17.04 UT",
+            "Date": "September 2013"
+        },
+        {
+            "Name": "Vega (alpha Lyrae)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Banerjee et al. in ATEL #5404",
+    "Event Type": "Observation",
+    "Time": "31.15 UT - 25.18 UT",
+    "Date": "August 2013 - September 2013",
+    "Telescope": "0.76-m infrared telescope",
+    "Instrument": "As:Si bolometer",
+    "Observatory": "University of Minnesota's O'Brien Observatory (Marine on St. Croix, Minnesota, USA)"
+}

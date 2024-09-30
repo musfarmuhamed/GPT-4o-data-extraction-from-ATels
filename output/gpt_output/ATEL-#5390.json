@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN near galaxy cluster MACSJ1621.3+3810",
+            "RA": "16:21:30.42",
+            "Dec": "+38:08:56.5",
+            "redshift": "0.465",
+            "Type": "Type Ia SN",
+            "Time": "1.3",
+            "Date": "2013-09-01"
+        },
+        {
+            "Name": "PSN near galaxy cluster MACSJ2245.0+2637",
+            "RA": "22:44:57.71",
+            "Dec": "+26:39:31.1",
+            "redshift": "0.3",
+            "Type": "Type Ia SN",
+            "Time": "31.4",
+            "Date": "2013-08-31"
+        }
+    ],
+    "References": [
+        "SDSS"
+    ],
+    "Event Type": "Discovery of possible supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Canada-France-Hawaii Telescope",
+    "Instrument": "MegaCam",
+    "Observatory": "Canada-France-Hawaii Telescope"
+}

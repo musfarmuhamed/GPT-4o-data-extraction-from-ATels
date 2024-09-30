@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1746-331",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Black-hole candidate",
+            "Time": "UT",
+            "Date": "2010-Dec-27"
+        },
+        {
+            "Name": "H 1743-322",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Black-hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Markwardt & Swank ATel #1235",
+        "Kennea et al. ATel #1237"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": "MAXI"
+}

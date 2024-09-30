@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15h12m50.5329s",
+            "Dec": "-09d05m59.828s",
+            "redshift": "0.360",
+            "Type": "flat spectrum radio quasar",
+            "Time": "18:00",
+            "Date": "2011-10-19"
+        },
+        {
+            "Name": "3C454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2010-11"
+        }
+    ],
+    "References": {
+        "Johnston et al. 1995": "AJ, 110, 880",
+        "Thompson et al. 1990": "PASP, 102, 1235",
+        "ATel #3473": null,
+        "ATel #3041": null
+    },
+    "Event Type": "Gamma-ray flare",
+    "Time": "18:00",
+    "Date": "2011-10-19",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

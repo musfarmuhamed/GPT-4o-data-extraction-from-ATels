@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017fmd / Gaia17btl",
+            "RA": "09:24:09.36",
+            "Dec": "+79:24:19.91",
+            "redshift": "between 0 and 0.1",
+            "Type": "transient",
+            "Time": [
+                "16.03 UT",
+                "17.03 UT"
+            ],
+            "Date": [
+                "2017-07-16",
+                "2017-07-17"
+            ]
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "photometric observations",
+    "Time": "16.03 UT and 17.03 UT",
+    "Date": "2017-07-16 and 2017-07-17",
+    "Telescope": "60/90 cm Schmidt telescope",
+    "Instrument": "Bessell B, V, R, I filters",
+    "Observatory": "Konkoly Observatory, Piszkesteto, Hungary"
+}

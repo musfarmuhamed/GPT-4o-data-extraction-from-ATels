@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GSC 5839-905",
+            "RA": "00:17:49.00",
+            "Dec": "-15:13:48.2",
+            "redshift": null,
+            "Type": "Eclipsing binary (W-Uma type)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J00182645-1511492",
+            "RA": "00:18:26.45",
+            "Dec": "-15:11:49.2",
+            "redshift": null,
+            "Type": "Eclipsing binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Drake et al. 2014, ApJS 213, 9",
+        "Drake et al. 2017, MNRAS 469, 3688",
+        "Palaversa et al., 2013, IBVS 6065",
+        "Hoffman et al. 2009, AJ 138, 466",
+        "Droege et al. 2006, PASP 118,1666",
+        "Richmond 2007, PASP 119, 1083",
+        "Lenz & Breger, 2004, IAUS 224, 768",
+        "Maciejewski, 2007",
+        "Santangelo et al., 2007, AN 328, 55",
+        "Bessell & Brett, 1988",
+        "Mamajek, 2016",
+        "Sterken & Jaschek, 1996, Light curves of variable stars, Cambridge Univ. Press",
+        "Southworth et al. 2014, MNRAS 444, 776"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.25 m f/10 Schmidt-Cassegrain telescope",
+    "Instrument": "CCD frames",
+    "Observatory": "OAMH"
+}

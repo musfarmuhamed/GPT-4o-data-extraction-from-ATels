@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary and microquasar",
+            "Time": [
+                {
+                    "Value": "Sep. 17.03",
+                    "Frequency": "8.46 GHz",
+                    "Flux Density": "0.07 +/- 0.08 mJy/beam"
+                },
+                {
+                    "Value": "Sep. 17.97",
+                    "Frequency": "4.86 GHz",
+                    "Flux Density": "-0.11 +/- 0.17 mJy/beam"
+                },
+                {
+                    "Value": "Sep. 17.97",
+                    "Frequency": "8.46 GHz",
+                    "Flux Density": "-0.11 +/- 0.14 mJy/beam"
+                }
+            ],
+            "Date": "Sep. 17 UT"
+        }
+    ],
+    "References": [
+        "ATel #414",
+        "ATel #415",
+        "ATel #607"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        {
+            "start": "20sep05 2139 UT",
+            "end": "20sep05 2241 UT"
+        },
+        {
+            "start": "21sep05 2337 UT",
+            "end": "22sep05 0031 UT"
+        },
+        {
+            "start": "22sep05 2131 UT",
+            "end": "22sep05 2326 UT"
+        },
+        {
+            "start": "26sep05 2117 UT",
+            "end": "26sep05 2217 UT"
+        }
+    ],
+    "Date": "Sep. 2005",
+    "Telescope": "VLA",
+    "Instrument": "null",
+    "Observatory": "National Radio Astronomy Observatory"
+}

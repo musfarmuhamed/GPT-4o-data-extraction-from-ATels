@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U0115+63",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "HMXRB",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "V635 Cas",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": [
+                "20140913",
+                "20141107",
+                "20151127",
+                "20151219",
+                "20151225",
+                "20160525",
+                "20160619"
+            ]
+        },
+        {
+            "Name": "1537-0047955",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1537-0047968",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Atel #9149",
+        "Atel #9159",
+        "Atel #8179"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": [
+        "IO:O",
+        "FRODOSpec"
+    ],
+    "Observatory": "La Palma"
+}

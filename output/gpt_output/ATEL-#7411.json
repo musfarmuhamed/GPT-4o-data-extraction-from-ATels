@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15zh",
+            "RA": "17:48:47.72",
+            "Dec": "+24:11:18.5",
+            "redshift": "0.0208",
+            "Type": "IIP",
+            "Time": "several weeks after max",
+            "Date": "20150416"
+        },
+        {
+            "Name": "PS15zq",
+            "RA": "11:35:18.43",
+            "Dec": "+19:03:00.2",
+            "redshift": "0.0210",
+            "Type": "IIb",
+            "Time": "before max",
+            "Date": "20150416"
+        },
+        {
+            "Name": "PS15aaf",
+            "RA": "06:14:43.29",
+            "Dec": "+57:16:42.8",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "--",
+            "Date": "20150417"
+        },
+        {
+            "Name": "PS15adf",
+            "RA": "10:24:38.80",
+            "Dec": "-02:59:07.7",
+            "redshift": "0.031",
+            "Type": "Ia",
+            "Time": "near max",
+            "Date": "20150417"
+        }
+    ],
+    "References": "Huber et al., ATel #7153; http://star.pst.qub.ac.uk/ps1threepi/",
+    "Event Type": "spectroscopic observations",
+    "Time": "not specified",
+    "Date": "not specified",
+    "Telescope": "2.4 m Hiltner telescope",
+    "Instrument": "MarkIII spectrograph",
+    "Observatory": "MDM Observatory"
+}

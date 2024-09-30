@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-11a",
+            "RA": "J00442840",
+            "Dec": "+4132329",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Nov. 14.901 UT",
+            "Date": "2015"
+        },
+        {
+            "Name": "M31N 2015-11b",
+            "RA": "J00423708",
+            "Dec": "+4110137",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Nov. 14.931 UT",
+            "Date": "2015"
+        }
+    ],
+    "References": "ATEL #8267, ATEL #8278, Corbelli et al., 2010, Astron. Astrophys. 511, A89",
+    "Event Type": "optical spectroscopic confirmation",
+    "Time": "2015 Nov. 14",
+    "Date": "2015",
+    "Telescope": "Russian BTA telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

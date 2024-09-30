@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J215050.94-702028.9",
+            "RA": "21h 50m 50.94s",
+            "Dec": "-70d 20m 28.9s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "2015-11-27.87081",
+            "Date": "2015-11-27"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 349171"
+        },
+        {
+            "Reference": "http://master.sai.msu.ru/static/OT/215050.94-702028.9.png"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-11-27.87081",
+    "Date": "2015-11-27",
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

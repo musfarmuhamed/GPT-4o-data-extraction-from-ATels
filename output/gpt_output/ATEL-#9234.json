@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J144732.66-191242.1",
+            "RA": "14h 47m 32.66s",
+            "Dec": "-19d 12m 42.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20:58:21.738UT",
+            "Date": "2016-07-09"
+        },
+        {
+            "Name": "MASTER OT J144732.66-191242.1",
+            "RA": "14h 47m 32.66s",
+            "Dec": "-19d 12m 42.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "21:15:49.153UT",
+            "Date": "2016-07-10"
+        },
+        {
+            "Name": "MASTER OT J154758.65-261337.1",
+            "RA": "15h 47m 58.65s",
+            "Dec": "-26d 13m 37.1s",
+            "redshift": null,
+            "Type": "new dwarf nova",
+            "Time": null,
+            "Date": "2016-07-09"
+        },
+        {
+            "Name": "MASTER OT J152701.21-314433.6",
+            "RA": "15h 27m 01.21s",
+            "Dec": "-31d 44m 33.6s",
+            "redshift": null,
+            "Type": "possibly dwarf nova",
+            "Time": null,
+            "Date": "2016-07-09"
+        },
+        {
+            "Name": "MASTER OT J183007.03+764313.3",
+            "RA": "18h 30m 07.03s",
+            "Dec": "+76d 43m 13.3s",
+            "redshift": null,
+            "Type": "outburst",
+            "Time": "15:39:52.163UT",
+            "Date": "2016-07-09"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J144732.66-191242.1",
+            "Date": "2016-06-08",
+            "Time": "18:52:56UT"
+        },
+        {
+            "Name": "MASTER OT J144732.66-191242.1",
+            "Date": "2016-04-14",
+            "Time": "14:59:02.876UT"
+        },
+        {
+            "Name": "MASTER OT J154758.65-261337.1",
+            "Date": "2016-03-04",
+            "Time": "05:04:02.614UT"
+        },
+        {
+            "Name": "MASTER OT J152701.21-314433.6",
+            "Date": "2016-05-08",
+            "Time": "07:04:02.112UT"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "20:58:21.738UT",
+    "Date": "2016-07-09",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1352-104",
+            "RA": "208.69383 deg",
+            "Dec": "-10.68407 deg",
+            "redshift": "0.332",
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "September 29, 2014"
+        },
+        {
+            "Name": "2FGL J1354.7-1047",
+            "RA": "208.69383 deg",
+            "Dec": "-10.68407 deg",
+            "redshift": "0.332",
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "September 29, 2014"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Nolan et al. 2012",
+            "Publication": "ApJS",
+            "Volume": 199,
+            "Page": 31
+        },
+        {
+            "Author": "Fey et al. 2004",
+            "Publication": "AJ",
+            "Volume": 127,
+            "Page": 3587
+        },
+        {
+            "Author": "Browne et al. 1975",
+            "Publication": "MNRAS",
+            "Volume": 173,
+            "Page": 87
+        }
+    ],
+    "Event Type": "Increasing gamma-ray flux",
+    "Time": null,
+    "Date": "September 29, 2014",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": [
+        {
+            "Name": "NASA",
+            "Collaborators": [
+                "DOE",
+                "scientific institutions across France, Italy, Japan and Sweden"
+            ]
+        }
+    ]
+}

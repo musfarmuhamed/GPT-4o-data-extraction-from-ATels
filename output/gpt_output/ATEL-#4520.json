@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09243795+4921320",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01624",
+            "Type": "Supernova",
+            "Time": "2012-10-23.07",
+            "Date": "2012-10-23"
+        },
+        {
+            "Name": "SN 2012fg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01624",
+            "Type": "Supernova",
+            "Time": "2012-10-23.07",
+            "Date": "2012-10-23"
+        },
+        {
+            "Name": "SN1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4459",
+        "ATel #4466",
+        "CBET #3253",
+        "ATel #4496"
+    ],
+    "Event Type": "Supernova Spectrum Observation",
+    "Time": "2012-10-23.07",
+    "Date": "2012-10-23",
+    "Telescope": "BTA",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": "Russian"
+}

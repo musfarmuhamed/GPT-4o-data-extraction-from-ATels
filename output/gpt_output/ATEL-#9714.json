@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16mt",
+            "RA": "01:00:41.498",
+            "Dec": "-00:26:40.75",
+            "redshift": "0.043602",
+            "Type": "SN Ia",
+            "Time": "Post maximum approximately 1 week",
+            "Date": "2016-11-03.42"
+        },
+        {
+            "Name": "2MASX J01004149-0026406",
+            "RA": "01:00:41.49",
+            "Dec": "-00:26:40.6",
+            "redshift": "0.043602",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Supernova",
+    "Time": "Post maximum approximately 1 week",
+    "Date": "2016-11-03.42",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "WFCCD (range 3600-9200 Angs)",
+    "Observatory": "Las Campanas Observatory"
+}

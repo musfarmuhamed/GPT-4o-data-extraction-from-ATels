@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "04:50:17.6 UT",
+            "Date": "2017 October 19"
+        },
+        {
+            "Name": "PSR J1647-4552",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": "04:50:17.6 UT",
+            "Date": "2017 October 19"
+        }
+    ],
+    "References": [
+        "Muno et al. 2006, ApJ 636L, 41M",
+        "GCN #22024",
+        "Olausen, S. A. & Kaspi, V. M. 2014, ApJS 212, 6O",
+        "An, H. et al. 2013, ApJ 763, 82A",
+        "Rodrigez Castillo, G., et al. 2014, MNRAS, 441, 1305R"
+    ],
+    "Event Type": "Outburst",
+    "Time": "04:50:17.6 UT",
+    "Date": "2017 October 19",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

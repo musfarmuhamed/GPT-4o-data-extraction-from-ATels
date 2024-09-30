@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ULX pulsar in NGC 300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star",
+            "Time": "00:00:00",
+            "Date": "2017-04-22"
+        },
+        {
+            "Name": "ULX pulsar in NGC 300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star",
+            "Time": "00:00:00",
+            "Date": "2017-07-12"
+        }
+    ],
+    "References": [
+        "ATel #11158",
+        "ATel#11174"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "2017-04-22",
+        "2017-07-12"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

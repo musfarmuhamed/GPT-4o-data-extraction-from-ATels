@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16aaa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.167,
+            "Type": "tidal disruption event",
+            "Time": "03:20 UT",
+            "Date": "January 18, 2016"
+        },
+        {
+            "Name": "OGLE16aaa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.167,
+            "Type": "tidal disruption event",
+            "Time": "01:44 UT",
+            "Date": "January 21, 2016"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2016, ATEL #8577",
+        "http://ogle.astrouw.edu.pl/ogle4/transients",
+        "Firth et al. 2016, ATEL #8559",
+        "http://ogle.astrouw.edu.pl/ogle4/transients",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "tidal disruption event",
+    "Time": "01:44 UT",
+    "Date": "January 21, 2016",
+    "Telescope": "2.2 m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory"
+}

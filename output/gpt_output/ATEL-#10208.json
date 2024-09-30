@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132",
+            "RA": "271.851",
+            "Dec": "13.235",
+            "redshift": null,
+            "Type": "X-ray flaring event",
+            "Time": "18:39",
+            "Date": "2017-03-18"
+        },
+        {
+            "Name": "MAXI J1807+132",
+            "RA": "271.881",
+            "Dec": "13.227",
+            "redshift": null,
+            "Type": "X-ray flaring event",
+            "Time": "18:39",
+            "Date": "2017-03-18"
+        },
+        {
+            "Name": "2MAXIt J1807+132",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flaring event",
+            "Time": null,
+            "Date": "2011-05"
+        }
+    ],
+    "References": "Kawamuro et al. 2016, PASJ, 68, 58",
+    "Event Type": "X-ray flaring event",
+    "Time": "18:39",
+    "Date": "2017-03-18",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": null
+}

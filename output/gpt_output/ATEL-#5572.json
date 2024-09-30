@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J054741.00+392657.4",
+            "RA": "05h 47m 41.00s",
+            "Dec": "+39d 26m 57.4s",
+            "redshift": null,
+            "Type": "dwarf nova of SS Cyg (UGSS) type",
+            "Time": "16:09:45.196",
+            "Date": "2013-11-10"
+        },
+        {
+            "Name": "MASTER OT J024847.86+501239.7",
+            "RA": "02h 48m 47.86s",
+            "Dec": "+50d 12m 39.7s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "12:22:03.646",
+            "Date": "2013-11-11"
+        },
+        {
+            "Name": "MASTER OT J053452.42+485934.3",
+            "RA": "05h 34m 52.42s",
+            "Dec": "+48d 59m 34.3s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "17:09:52.960",
+            "Date": "2013-11-11"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J054741+392657-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/054741.00392657.4.jpg",
+        "http://master.sai.msu.ru/static/OT/J024847+501239-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/024847.86501239.7.jpg",
+        "http://master.sai.msu.ru/static/OT/J053452+485934-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/053452.42485934.3.png"
+    ],
+    "Event Type": "Optical Transient",
+    "Time": "Various",
+    "Date": "Various",
+    "Telescope": "MASTER Robotic Net",
+    "Instrument": "MASTER-Amur, MASTER-Tunka",
+    "Observatory": "MASTER-Amur, MASTER-Tunka"
+}

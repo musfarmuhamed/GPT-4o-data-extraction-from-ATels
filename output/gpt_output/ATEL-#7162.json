@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHiTS15D",
+            "RA": "10:21:19.62",
+            "Dec": "-06:58:23.34",
+            "redshift": null,
+            "Type": "II",
+            "Time": "UT",
+            "Date": "2015-02-18"
+        },
+        {
+            "Name": "SNHiTS15P",
+            "RA": "09:17:52.74",
+            "Dec": "-00:00:45.30",
+            "redshift": null,
+            "Type": "II",
+            "Time": "UT",
+            "Date": "2015-02-22"
+        }
+    ],
+    "References": [
+        "#5949",
+        "#5956",
+        "#7099",
+        "#7108",
+        "#7115",
+        "#7122",
+        "#7131",
+        "#7146",
+        "#7148"
+    ],
+    "Event Type": "supernovae discovery",
+    "Time": "UT",
+    "Date": "2015-02-25",
+    "Telescope": "UT1",
+    "Instrument": "FORS2",
+    "Observatory": "Paranal"
+}

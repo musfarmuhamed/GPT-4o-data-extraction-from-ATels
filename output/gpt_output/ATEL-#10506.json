@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER004617.94+415626.1",
+            "RA": "00h 46m 17.94s",
+            "Dec": "+41d 56m 26.1s",
+            "redshift": null,
+            "Type": "possible Nova",
+            "Time": "04:39:15.299UT",
+            "Date": "2017-06-19"
+        },
+        {
+            "Name": "MASTER OT J134847.94-420705.2",
+            "RA": "13h 48m 47.94s",
+            "Dec": "-42d 07m 05.2s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2017-06-18"
+        },
+        {
+            "Name": "MASTER004357.21+411135.2",
+            "RA": "00h 43m 57.21s",
+            "Dec": "+41d 11m 35.2s",
+            "redshift": null,
+            "Type": "long variable star",
+            "Time": null,
+            "Date": "2017-06-06"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18oe",
+            "IAU Name": "AT2018ddb",
+            "RA": "00:02:49.71",
+            "Dec": "-66:11:06.14",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Phase": "+5 d",
+            "Notes": "(1)"
+        },
+        {
+            "Name": "ATLAS18rzu",
+            "IAU Name": "AT2018dhp",
+            "RA": "21:32:51.41",
+            "Dec": "-25:20:24.00",
+            "redshift": 0.031,
+            "Type": "II",
+            "Phase": null,
+            "Notes": "(2)"
+        },
+        {
+            "Name": "ASASSN-18pg",
+            "IAU Name": "AT2018dyb",
+            "RA": "16:10:58.77",
+            "Dec": "-60:55:23.16",
+            "redshift": 0.018,
+            "Type": "TDE",
+            "Phase": null,
+            "Notes": "(3)"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": "UT",
+    "Date": "2018 July 17",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR) telescope"
+}

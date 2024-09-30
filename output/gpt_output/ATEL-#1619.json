@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be transient binary pulsar",
+            "Time": "09:00 UT",
+            "Date": "2008 July 15"
+        }
+    ],
+    "References": [
+        "Krimm et al., ATel #1298",
+        "Wilms et al. ATel #1304",
+        "Coe et al., 2007, MNRAS 378, 1427"
+    ],
+    "Event Type": "outburst",
+    "Time": [
+        "09:00 UT",
+        "24 hours",
+        "subsequent 24 hours",
+        "last 24 hours"
+    ],
+    "Date": [
+        "2008 June 30",
+        "2008 July 15"
+    ],
+    "Telescope": "AGILE",
+    "Instrument": "SuperAGILE",
+    "Observatory": null
+}

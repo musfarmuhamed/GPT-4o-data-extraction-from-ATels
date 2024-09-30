@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017flo",
+            "RA": "10 48 09.78",
+            "Dec": "+10 37 31.1",
+            "redshift": "0.07855",
+            "Type": "SNIa",
+            "Time": "2017-07-20.25 UT",
+            "Date": "20170711"
+        },
+        {
+            "Name": "PS17duu",
+            "RA": "10 48 09.78",
+            "Dec": "+10 37 31.1",
+            "redshift": "0.07855",
+            "Type": "SNIa",
+            "Time": "2017-07-20.25 UT",
+            "Date": "20170711"
+        }
+    ],
+    "References": "Howell et al. 2005, ApJ, 634, 119",
+    "Event Type": "Classification",
+    "Time": "2017-07-20.25 UT",
+    "Date": "20170711",
+    "Telescope": "Keck-I 10 m",
+    "Instrument": "Low Resolution Imaging Spectrometer (LRIS)",
+    "Observatory": "Keck Observatory"
+}

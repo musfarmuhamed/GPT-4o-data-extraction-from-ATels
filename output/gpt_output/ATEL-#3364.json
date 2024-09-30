@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1543-564",
+            "RA": "15h 43m 17.180s +/- 0.049s",
+            "Dec": "-56d 24' 49.611\" +/- 0.775\"",
+            "redshift": null,
+            "Type": "X-ray transient, Black hole candidate, X-ray binary",
+            "Time": "16:51-18:02 UT",
+            "Date": "2011-05-14"
+        }
+    ],
+    "References": [
+        "ATel #3330",
+        "ATel #3341",
+        "ATel #3331",
+        "ATel #3355",
+        "ATel #3362"
+    ],
+    "Event Type": "X-ray transient observation",
+    "Time": "16:51-18:02 UT",
+    "Date": "2011-05-14",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": "Compact Array Broadband Backend (CABB)",
+    "Observatory": "ATNF"
+}

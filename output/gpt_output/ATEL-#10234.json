@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017cne",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Type Ia supernova (1991T-like)",
+            "Time": "31.76",
+            "Date": "2017-03-31"
+        },
+        {
+            "Name": "2MASX J15084277+0408473",
+            "RA": "15:08:42.77",
+            "Dec": "+04:08:47.3",
+            "redshift": 0.038,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.cneost.org/ptss/",
+        "Blondin and Tonry 2007, Ap.J., 666, 1024",
+        "http://wis-tns.weizmann.ac.il/object/2017cne/"
+    ],
+    "Event Type": "Optical spectrum observation",
+    "Time": "31.76",
+    "Date": "2017-03-31",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

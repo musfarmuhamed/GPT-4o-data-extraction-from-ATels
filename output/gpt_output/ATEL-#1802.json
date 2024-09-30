@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080928:232827+151752",
+            "RA": "23:28:27.22",
+            "Dec": "+15:17:52.4",
+            "redshift": null,
+            "Type": "likely blazar",
+            "Time": null,
+            "Date": "Oct 1"
+        },
+        {
+            "Name": "CSS080930:020344+304238",
+            "RA": "02:03:44.27",
+            "Dec": "+30:42:38.2",
+            "redshift": "0.76",
+            "Type": "flat-spectrum blazar",
+            "Time": null,
+            "Date": "Oct 1"
+        }
+    ],
+    "References": "Jackson et al. 2007, MNRAS 376, 371",
+    "Event Type": "discovered optically variable radio sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch, Palomar 200\"",
+    "Instrument": "Double Beam Spectrograph",
+    "Observatory": "Catalina Real-time Transient Survey (CRTS)"
+}

@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016izi",
+            "RA": "05 12 52.66",
+            "Dec": "-12 38 14.6",
+            "redshift": "0.000",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20161221"
+        },
+        {
+            "Name": "AT2016jbs",
+            "RA": "09 22 08.57",
+            "Dec": "-09 45 17.5",
+            "redshift": "0.055",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161225"
+        },
+        {
+            "Name": "AT2016jbc",
+            "RA": "09 47 37.80",
+            "Dec": "-36 25 58.0",
+            "redshift": "0.000",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20161223"
+        },
+        {
+            "Name": "AT2016jaj",
+            "RA": "10 03 52.72",
+            "Dec": "-42 20 17.4",
+            "redshift": "0.000",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20161222"
+        },
+        {
+            "Name": "SN2016jby",
+            "RA": "10 52 25.89",
+            "Dec": "+10 32 38.1",
+            "redshift": "0.022",
+            "Type": "II",
+            "Time": null,
+            "Date": "20161227"
+        },
+        {
+            "Name": "SN2016izv",
+            "RA": "10 06 45.49",
+            "Dec": "-06 11 45.8",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161221"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "http://gsaweb.ast.cam.ac.uk/alerts",
+        "https://wis-tns.weizmann.ac.il/"
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": "2016 12 28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

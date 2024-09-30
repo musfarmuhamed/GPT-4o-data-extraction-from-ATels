@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J231917.03+483114.2",
+            "RA": "23h 19m 17.03s",
+            "Dec": "+48d 31m 14.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-10-12.58108 UT",
+            "Date": "2012-10-12"
+        },
+        {
+            "Name": "MASTER OT J065222.27+332451.9",
+            "RA": "06h 52m 22.27s",
+            "Dec": "+33d 24m 51.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-10-20.78414 UT",
+            "Date": "2012-10-20"
+        }
+    ],
+    "References": "R. Koff (CBAT TOCP), GSC 2.3.2, USNO-B1.0, 2MASS, 1RXS, GCVS, AAVSO VSX",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

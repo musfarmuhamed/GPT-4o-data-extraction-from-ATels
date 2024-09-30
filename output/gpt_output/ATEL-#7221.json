@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHiTS15bj",
+            "RA": "09:37:58.66",
+            "Dec": "-05:51:26.31",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "03:53",
+            "Date": "2015-03-14"
+        },
+        {
+            "Name": "SNHiTS15bk",
+            "RA": "09:48:58.67",
+            "Dec": "02:08:05.31",
+            "redshift": "0.231+-0.07",
+            "Type": "supernova",
+            "Time": "04:02",
+            "Date": "2015-03-14"
+        },
+        {
+            "Name": "SNHiTS15bl",
+            "RA": "09:32:33.03",
+            "Dec": "01:05:05.07",
+            "redshift": "0.039+-0.05",
+            "Type": "supernova",
+            "Time": "03:47",
+            "Date": "2015-03-14"
+        },
+        {
+            "Name": "SNHiTS15bm",
+            "RA": "10:28:07.40",
+            "Dec": "-05:33:51.97",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "04:34",
+            "Date": "2015-03-14"
+        },
+        {
+            "Name": "SNHiTS15bn",
+            "RA": "10:34:49.39",
+            "Dec": "-06:14:47.41",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "04:52",
+            "Date": "2015-03-14"
+        }
+    ],
+    "References": [
+        "#5949",
+        "#5956",
+        "#7099",
+        "#7108",
+        "#7115",
+        "#7122",
+        "#7131",
+        "#7146",
+        "#7148",
+        "#7149"
+    ],
+    "Event Type": "discovery of supernova candidates",
+    "Time": "Null",
+    "Date": "2015-02-17 to 2015-03-13",
+    "Telescope": "4m Blanco Telescope",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo (CTIO)"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J020626.08-115040.0",
+            "RA": "02h 06m 26.08s",
+            "Dec": "-11d 50m 40.0s",
+            "redshift": null,
+            "Type": "QSO optical flare (BZQJ0206-1150)",
+            "Time": "2016-07-17.06466 UT",
+            "Date": "2016-07-17"
+        },
+        {
+            "Name": "MASTER OT J143312.57-400352.5",
+            "RA": "14h 33m 12.57s",
+            "Dec": "-40d 03m 52.5s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2016-07-10.73882 UT",
+            "Date": "2016-07-10"
+        },
+        {
+            "Name": "MASTER OT J050702.93-121642.3",
+            "RA": "05h 07m 02.93s",
+            "Dec": "-12d 16m 42.3s",
+            "redshift": null,
+            "Type": "ampl>5.5m",
+            "Time": "2016-07-10.17265 UT",
+            "Date": "2016-07-10"
+        },
+        {
+            "Name": "MASTER OT J155215.45+831423.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-07-17.04799 UT",
+            "Date": "2016-07-17"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/MASTEROTJ020626.08-115040.0.png, http://master.sai.msu.ru/static/OT/143312.57-400352.5.png, http://master.sai.msu.ru/static/OT/050702.93-121642.3.png",
+    "Event Type": "Outburst",
+    "Time": "Various",
+    "Date": "Various",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

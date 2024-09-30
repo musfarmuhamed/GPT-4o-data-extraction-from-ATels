@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0549.7-6812",
+            "RA": "05 50 06.54",
+            "Dec": "-68 14 55.1",
+            "redshift": null,
+            "Type": "HMXB/NS",
+            "Time": "04:47:08.426",
+            "Date": "2013 August 16"
+        },
+        {
+            "Name": "1RXS J055007.0-681451",
+            "RA": "05 50 07.0",
+            "Dec": "-68 14 51.5",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 05500646-6814559",
+            "RA": "05 50 06.449",
+            "Dec": "-68 14 56.04",
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Evans et al. (2009, MNRAS, 397, 1177), Voges (2000), Zacharias (2004), STScI (2001), Cutri+ 2003",
+    "Event Type": "Swift Target of Opportunity Observation",
+    "Time": "04:47:08.426",
+    "Date": "2013 August 16",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

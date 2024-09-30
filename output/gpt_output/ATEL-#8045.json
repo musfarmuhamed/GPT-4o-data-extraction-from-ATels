@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0454-234",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.003,
+            "Type": "blazar",
+            "Time": "2457272.987",
+            "Date": "September 7th, 2015"
+        },
+        {
+            "Name": "BZQJ 0454-2324",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.003,
+            "Type": "blazar",
+            "Time": "2457272.987",
+            "Date": "September 7th, 2015"
+        },
+        {
+            "Name": "2FGLJ0457.0-2325",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "2457272.987",
+            "Date": "September 7th, 2015"
+        }
+    ],
+    "References": [
+        "ATEL #3722",
+        "#4647",
+        "#5583"
+    ],
+    "Event Type": "Giant NIR flare",
+    "Time": "2457272.987",
+    "Date": "September 7th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18dw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "00:14",
+            "Date": "2018-02-25"
+        }
+    ],
+    "References": [
+        {
+            "Text": "Stanek et al. (ATel#11359)",
+            "RA": "2451206.5658",
+            "Dec": null,
+            "Catalog": "2MASS",
+            "Date": "1999-01-28",
+            "J": "15.686+/-0.073",
+            "H": "15.117+/-0.083",
+            "Ks": "14.902+/-0.140"
+        },
+        {
+            "Text": "DENIS DR3 (September 2005)",
+            "RA": "2451514.751759",
+            "Dec": null,
+            "Catalog": "DENIS",
+            "Date": "1999-12-02",
+            "I": "16.86+/-0.10",
+            "J": "15.72+/-0.20"
+        }
+    ],
+    "Event Type": "transient",
+    "Time": "00:14",
+    "Date": "2018-02-25",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

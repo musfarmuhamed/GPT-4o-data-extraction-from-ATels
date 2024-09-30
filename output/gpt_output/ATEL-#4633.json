@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "7 hours",
+            "Date": "2012-12-03"
+        }
+    ],
+    "References": [
+        "ATel #4310",
+        "ATel #4320",
+        "ATel #4321",
+        "ATel #4352",
+        "ATel #4365",
+        "ATel #4376",
+        "ATel #4408",
+        "ATel #4542",
+        "ATel #4569",
+        "ATel #4572",
+        "ATel #4590"
+    ],
+    "Event Type": "Observation",
+    "Time": "7 hours",
+    "Date": "2012-12-03",
+    "Telescope": "Chandra",
+    "Instrument": [
+        "High Resolution Camera",
+        "Low Energy Transmission Grating (LETG)"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00569-7226",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Small Magellanic Cloud",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Irregular galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Coe et al ATel #5547",
+        "Kennea #5553",
+        "Schmitdke et al ATel #5557"
+    ],
+    "Event Type": "Type II outburst",
+    "Time": null,
+    "Date": "Sept 2013",
+    "Telescope": [
+        "Swift",
+        "INTEGRAL",
+        "XMM"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

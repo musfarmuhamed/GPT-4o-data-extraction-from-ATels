@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gm",
+            "RA": "20:03:49.229",
+            "Dec": "-60:15:20.36",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "16:05",
+            "Date": "2016-06-24"
+        },
+        {
+            "Name": "GALEXASC J200348.67-601528.7",
+            "RA": "20:03:48.67",
+            "Dec": "-60:15:28.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "discovery",
+    "Time": "16:05",
+    "Date": "2016-06-24",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

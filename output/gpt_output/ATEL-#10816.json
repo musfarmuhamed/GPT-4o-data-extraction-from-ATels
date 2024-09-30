@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": "15:35:19.71",
+            "Dec": "-57:13:46.7",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:12:39",
+            "Date": "2017-10-02"
+        }
+    ],
+    "References": [
+        "GCN #21788",
+        "ATEL #10699",
+        "ATEL #10700",
+        "ATEL #10702",
+        "ATEL #10704",
+        "ATEL #10708",
+        "ATEL #10711",
+        "ATEL #10714",
+        "ATEL #10716",
+        "ATEL #10734",
+        "ATEL #10745",
+        "ATEL #10761",
+        "ATEL #10768"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:12:39",
+    "Date": "2017-10-02",
+    "Telescope": "Gemini",
+    "Instrument": "FLAMINGOS-2",
+    "Observatory": "Gemini Observatory"
+}

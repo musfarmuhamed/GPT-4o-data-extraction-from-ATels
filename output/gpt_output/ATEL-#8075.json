@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J040140.85+670613.9",
+            "RA": "04h 01m 40.85s",
+            "Dec": "+67d 06m 13.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2015-09-19.84794 UT",
+            "Date": "2015-09-19"
+        },
+        {
+            "Name": "PGC2695052",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "elliptical galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Fermi GRB",
+    "Time": "2015-09-19.61 UT",
+    "Date": "2015-09-19",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

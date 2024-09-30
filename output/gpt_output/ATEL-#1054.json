@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17597-2201",
+            "RA": "17h59m45s",
+            "Dec": "-22o01m59s",
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "10:06:36 UT",
+            "Date": "April 07 2007"
+        },
+        {
+            "Name": "IGR J17597-2201",
+            "RA": "17h59m45s",
+            "Dec": "-22o01m59s",
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "06:40:36 UT",
+            "Date": "April 08 2007"
+        }
+    ],
+    "References": [
+        "Walter et al. (A&A 453, 133-143, 2006)",
+        "Markwardt et al. (ATEL #156)"
+    ],
+    "Event Type": "Detection of X-ray bursts",
+    "Time": [
+        "10:06:36 UT",
+        "06:40:36 UT"
+    ],
+    "Date": [
+        "April 07 2007",
+        "April 08 2007"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": null
+}

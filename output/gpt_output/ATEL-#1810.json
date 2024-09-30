@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.408,
+            "Dec": -23.799,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "05:19 to 11:20",
+            "Date": "2008-10-10"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.408,
+            "Dec": -23.799,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "21:35",
+            "Date": "2008-10-10"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.408,
+            "Dec": -23.799,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "21:58",
+            "Date": "2008-10-11"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.408,
+            "Dec": -23.799,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "21:00",
+            "Date": "2008-10-17"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": 268.408,
+            "Dec": -23.799,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "10:17",
+            "Date": "2008-10-19"
+        },
+        {
+            "Name": "IGR J17536-2339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "spurious source",
+            "Time": "16:52 to 20:33",
+            "Date": "2006-04-03"
+        },
+        {
+            "Name": "IGR J17375-3022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "N/A",
+            "Date": "2008-10-17 to 2008-10-19"
+        }
+    ],
+    "References": [
+        "ATels #1779",
+        "#1798",
+        "#1799",
+        "#1809",
+        "#1781",
+        "#1783"
+    ],
+    "Event Type": "X-ray burster outburst and detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": "INTEGRAL"
+}

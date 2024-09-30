@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11cda",
+            "RA": "17:16:56.22",
+            "Dec": "+31:55:27.9",
+            "redshift": "0.042",
+            "Type": "II",
+            "Time": "unknown",
+            "Date": "March 31, 2011 UT"
+        },
+        {
+            "Name": "PTF11byi",
+            "RA": "12:21:45.15",
+            "Dec": "+12:15:25.6",
+            "redshift": "0.039",
+            "Type": "Ia (underluminous, SN1991bg-like)",
+            "Time": "unknown",
+            "Date": "April 12, 2011 UT"
+        },
+        {
+            "Name": "PTF11bup",
+            "RA": "09:46:43.74",
+            "Dec": "+21:35:20.1",
+            "redshift": "0.089",
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "April 2, 2011 UT"
+        }
+    ],
+    "References": "ATEL #1964; http://www.astro.caltech.edu/ptf/",
+    "Event Type": "discovery of three new supernovae",
+    "Time": "unknown",
+    "Date": "unknown",
+    "Telescope": "2.2-m UH telescope",
+    "Instrument": "SNIFS (The SuperNova Integral Field Spectrograph)",
+    "Observatory": "University of Hawaii",
+    "Collaborations": [
+        "Centre de Recherche Astronomique de Lyon",
+        "Institut de Physique Nucl\u00e9aire de Lyon",
+        "Laboratoire de Physique Nucl\u00e9aire et des Hautes Energies",
+        "Lawrence Berkeley National Laboratory",
+        "Yale University",
+        "University of Bonn",
+        "Max Planck Institute for Astrophysics",
+        "Tsinghua Center for Astrophysics",
+        "Centre de Physique des Particules de Marseille"
+    ]
+}

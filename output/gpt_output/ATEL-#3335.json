@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +38.41 / FBQSJ163515.4+380804",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.813,
+            "Type": "high redshift blazar",
+            "Time": [
+                "JD2455691.881888",
+                "JD2455691.922641",
+                "JD 2455665.834595",
+                "JD 2455635.029352"
+            ],
+            "Date": "May 10th, 2011"
+        }
+    ],
+    "References": [
+        {
+            "Name": "A. Szostek etal. (2011)",
+            "ATel": "#3333"
+        },
+        {
+            "Name": null,
+            "ATel": "#3238"
+        }
+    ],
+    "Event Type": "Gamma Ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 1633+38",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2018 September 13"
+        },
+        {
+            "Name": "4C +38 41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2018 September 13"
+        }
+    ],
+    "References": [
+        "ATel #12025",
+        "ATel #12026",
+        "ATel #12027",
+        "ATel #12034",
+        "Raiteri et al. 2012, A&A 545, A48"
+    ],
+    "Event Type": "unprecedented optical outburst and gamma-ray flare",
+    "Time": null,
+    "Date": "2018 September 9",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT, Swift/UVOT",
+    "Observatory": "Swift Observatory"
+}

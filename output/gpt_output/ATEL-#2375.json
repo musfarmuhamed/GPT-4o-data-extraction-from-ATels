@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1901+014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:58:50.58",
+            "Date": "2010-Jan-08"
+        },
+        {
+            "Name": "XTE J1901+014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "10:17:18.76",
+            "Date": "2006-Jun-06"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Remillard and Smith, ATel #88",
+            "Year": 2002
+        },
+        {
+            "Reference": "Smith et al, ATel #1268",
+            "Year": null
+        },
+        {
+            "Reference": "Karasev, Lutovinov & Burenin, 2008, Astron. Lett., 34, 753",
+            "Year": 2008
+        }
+    ],
+    "Event Type": "Rapid outburst",
+    "Time": "00:58:50.58",
+    "Date": "2010-Jan-08",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0250-225",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.419,
+            "Type": "high redshift",
+            "Time": null,
+            "Date": "2012-11-24"
+        },
+        {
+            "Name": "CGRaBSJ0252-2219",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.419,
+            "Type": "high redshift",
+            "Time": null,
+            "Date": "2012-11-27"
+        },
+        {
+            "Name": "2FGLJ0252.7-2218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray source",
+            "Time": null,
+            "Date": "2012-11-24"
+        }
+    ],
+    "References": [
+        "Atel #4574",
+        "Atel #4584",
+        "Atel #4601"
+    ],
+    "Event Type": "Gamma Ray flare",
+    "Time": null,
+    "Date": "2012-11-24 to 2012-11-27",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

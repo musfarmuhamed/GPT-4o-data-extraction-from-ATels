@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J190812.83+572431.9",
+            "RA": "19h 08m 12.83s",
+            "Dec": "+57d 24m 31.9s",
+            "redshift": "Null",
+            "Type": "dwarf nova (likely)",
+            "Time": "2014-05-09.71591 UT",
+            "Date": "2014-05-09"
+        },
+        {
+            "Name": "MASTER OT J193657.39+445236.4",
+            "RA": "19h 36m 57.39s",
+            "Dec": "+44d 52m 36.4s",
+            "redshift": "Null",
+            "Type": "UV Ceti type (flaring red dwarf)",
+            "Time": "2014-05-09.80723 UT",
+            "Date": "2014-05-09"
+        },
+        {
+            "Name": "MASTER OT J180958.28+192302.8",
+            "RA": "18h 09m 58.28s",
+            "Dec": "+19d 23m 02.8s",
+            "redshift": "Null",
+            "Type": "possible CV",
+            "Time": "2014-05-10.95576 UT",
+            "Date": "2014-05-10"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J190812+572431-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/J190812+572431-POSS-B.jpg",
+        "http://master.sai.msu.ru/static/OT/190812.83572431.9.png",
+        "http://master.sai.msu.ru/static/OT/193657.39445236.4.png",
+        "http://master.sai.msu.ru/static/OT/J180958+192302-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/180958.28192302.8.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-Amur, MASTER-Tunka, MASTER-Kislovodsk"
+}

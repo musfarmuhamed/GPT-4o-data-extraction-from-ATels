@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J082039.64-012423.4",
+            "RA": "08h 20m 39.64s",
+            "Dec": "-01d 24m 23.4s",
+            "redshift": "4342",
+            "Type": "PSN",
+            "Time": "Null",
+            "Date": "2015-06-12.69218"
+        },
+        {
+            "Name": "MASTER OT J034218.43-194409.5",
+            "RA": "03h 42m 18.43s",
+            "Dec": "-19d 44m 09.5s",
+            "redshift": "Null",
+            "Type": "dwarf nova",
+            "Time": "Null",
+            "Date": "2015-06-12.18363"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/082039.64-012423.4.png, http://master.sai.msu.ru/static/OT/034218.43-194409.5.png",
+    "Event Type": "Discovered OT source",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "Null"
+}

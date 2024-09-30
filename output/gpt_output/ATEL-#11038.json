@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 171205A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Burst",
+            "Time": "6:05",
+            "Date": "7th of December"
+        },
+        {
+            "Name": "SN 1998bw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "D'Elia et al. GCN #22177; Izzo et al., GCN #22180; Patat et al. 2001",
+    "Event Type": "Observation",
+    "Time": "6:05",
+    "Date": "7th of December",
+    "Telescope": "10.4m GTC telescope",
+    "Instrument": "OSIRIS",
+    "Observatory": null
+}

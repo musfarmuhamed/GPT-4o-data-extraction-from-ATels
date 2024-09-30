@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fl",
+            "RA": "10:06:54.451",
+            "Dec": "-15:43:00.67",
+            "redshift": 0.029444,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "2016-05-25.05"
+        },
+        {
+            "Name": "2MASX J10065350-1543022",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": 0.029444,
+            "Type": "galaxy",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, and the Robert Martin Ayers Sciences Fund.",
+    "Event Type": "Transient discovery (most likely a supernova)",
+    "Time": "Unknown",
+    "Date": "2016-05-25.05",
+    "Telescope": "Cassius telescope",
+    "Instrument": "Unknown",
+    "Observatory": "Cerro Tololo, Chile"
+}

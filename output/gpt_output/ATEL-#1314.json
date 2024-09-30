@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-11b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N class nova",
+            "Time": "2007-11-17T17:41:24Z",
+            "Date": "2007-11-17"
+        },
+        {
+            "Name": "M31N 2007-11c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII class nova",
+            "Time": "2007-11-17T15:36:00Z",
+            "Date": "2007-11-17"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATEL#1275",
+            "Celestial Object": "M31N 2007-11c"
+        },
+        {
+            "Reference": "ATEL#1292",
+            "Celestial Object": "M31N 2007-11c"
+        },
+        {
+            "Reference": "ATEL#1257",
+            "Celestial Object": "M31N 2007-11b"
+        },
+        {
+            "Reference": "ATEL#1276",
+            "Celestial Object": "M31N 2007-11b"
+        },
+        {
+            "Reference": "Williams, AJ, 104, 725, 1992",
+            "Celestial Object": "M31N 2007-11c"
+        }
+    ],
+    "Event Type": "Spectrum Observation",
+    "Time": "2007-11-17",
+    "Date": "2007-11-17",
+    "Telescope": "Russian 6m telescope",
+    "Instrument": null,
+    "Observatory": null
+}

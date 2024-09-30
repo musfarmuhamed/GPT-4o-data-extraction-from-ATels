@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BQ Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Event Type": "outburst",
+            "Time": "22:48-23:41 UT",
+            "Date": "January 7, 2005"
+        },
+        {
+            "Name": "V0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Event Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #349",
+        "ATel #371",
+        "ATel #382",
+        "Iye & Kodaira, 1985, PASP, 97, 1186",
+        "Goranskij, 2001, Astron. Lett. 27, 516",
+        "Goranskij & Barsukova, 2004, ATel #245"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "January 7, 2005",
+    "Telescope": "G.D. Cassini 152 cm Loiano telescope",
+    "Instrument": "BFOSC and EEV CCD",
+    "Observatory": "Astronomical Observatory of Bologna"
+}

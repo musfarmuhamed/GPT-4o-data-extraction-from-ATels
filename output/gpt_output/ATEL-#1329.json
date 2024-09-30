@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate",
+            "RA": "00h45m09.58s",
+            "Dec": "+41d20'07.6\"",
+            "redshift": null,
+            "Type": "optical nova candidate",
+            "Time": "13.76",
+            "Date": "2007 Dec 13"
+        },
+        {
+            "Name": "nova M31N 2007-11e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "13.77",
+            "Date": "2007 Dec 13"
+        },
+        {
+            "Name": "nova M31N 2007-12b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2007 Dec 13"
+        }
+    ],
+    "References": [
+        "http://cfa-www.harvard.edu/iau/CBAT_M31.html",
+        "ATel #1324"
+    ],
+    "Event Type": "discovery",
+    "Time": "13.76",
+    "Date": "2007 Dec 13",
+    "Telescope": "0.45m f/2.8 reflector",
+    "Instrument": "SBIG STL-11000M CCD Camera",
+    "Observatory": "Observatorio Astronomico de La Sagra, Spain"
+}

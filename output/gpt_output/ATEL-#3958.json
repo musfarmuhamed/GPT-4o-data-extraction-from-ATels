@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17361-4441",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible low mass X-ray binary",
+            "Time": null,
+            "Date": "2011 August 11"
+        },
+        {
+            "Name": "NGC6388",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #3565",
+        "Atel #3566",
+        "Atel #3627",
+        "Bozzo et al. 2011, A&A, 535, 1",
+        "Nucita et al. 2012, arXiv:1203.0965",
+        "Nucita et al. 2008, A&A, 478, 763",
+        "Cseh et al. 2010, MNRAS, 406, 1049"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2011 August 11",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

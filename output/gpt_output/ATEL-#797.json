@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1954+31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M 4-5 giant",
+            "Time": "Approximately 5.09 hours",
+            "Date": "Between 2004 December 11 and 2005 September 20"
+        },
+        {
+            "Name": "GX 1+4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M5 III star",
+            "Time": "More than 100 days",
+            "Date": "Reference from 1997"
+        },
+        {
+            "Name": "2S 0114+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High-mass X-ray binary",
+            "Time": "2.7 hours",
+            "Date": "Reference from 2006"
+        },
+        {
+            "Name": "EXO 2030+375",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "3.96 hours",
+            "Date": "Reference from 1989"
+        }
+    ],
+    "References": [
+        "Masetti et al. (2006, astro-ph/0603227)",
+        "Chakrabarty & Roche, 1997, ApJ, 489, 254",
+        "Farrell, Sood, & O'Neill, 2006, MNRAS, 367, 1457",
+        "Joss & Rappaport, 1984, ARAA, 22, 537",
+        "Parmar et al., 1989, ApJ, 338, 359",
+        "Koen, Laney, & van Wyk, 2002, MNRAS, 335, 223"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": null,
+    "Observatory": null
+}

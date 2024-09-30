@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00335+6126",
+            "RA": "00 33 57.34",
+            "Dec": "+61 26 32.7",
+            "redshift": null,
+            "Type": "galactic star",
+            "Time": "2.5 arcsec",
+            "Date": "October 1 and 2, 2006"
+        },
+        {
+            "Name": "IGR J00335+6126",
+            "RA": "00 33 57.60",
+            "Dec": "+61 26 51.1",
+            "redshift": null,
+            "Type": "galactic star",
+            "Time": "2.5 arcsec",
+            "Date": "October 1 and 2, 2006"
+        },
+        {
+            "Name": "IGR J00254+6822",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.012",
+            "Type": "Seyfert 2 nucleus",
+            "Time": "2.5 arcsec",
+            "Date": "October 1 and 2, 2006"
+        }
+    ],
+    "References": "Kuiper et al. (ATel #939), Bird et al. (in prep.)",
+    "Event Type": "Optical spectroscopy",
+    "Time": "2.5 arcsec",
+    "Date": "October 1 and 2, 2006",
+    "Telescope": "1.5m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Astronomical Observatory of Bologna, Loiano, Italy"
+}

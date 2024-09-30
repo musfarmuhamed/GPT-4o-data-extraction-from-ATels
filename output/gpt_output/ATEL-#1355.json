@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2007uy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "Unknown",
+            "Date": "2008-01-09"
+        },
+        {
+            "Name": "NGC 2770",
+            "RA": "9h09m30.6s",
+            "Dec": "+33:08:18",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #1350",
+    "Event Type": "Giant X-ray flare",
+    "Time": "UT",
+    "Date": "2008-01-09",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "First nova candidate",
+            "RA": "0h44m15s.88",
+            "Dec": "+41o13'51\".1",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "18.73 +/- 0.05",
+            "Date": "Nov 28.716 UT"
+        },
+        {
+            "Name": "Second nova candidate",
+            "RA": "0h41m31s.52",
+            "Dec": "+41o07'13\".1",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "17.84 +/- 0.03",
+            "Date": "Nov 28.716 UT"
+        }
+    ],
+    "References": "NOMAD Catalog (Zacharias+ 2005)",
+    "Event Type": "discovery of 2 nova candidates",
+    "Time": "5x300sec",
+    "Date": null,
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "SBIG STL-11000M CCD camera",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

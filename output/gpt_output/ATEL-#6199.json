@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140509:161445+023534",
+            "RA": "161445",
+            "Dec": "+023534",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140505:114217+383529",
+            "RA": "114217",
+            "Dec": "+383529",
+            "redshift": "0.05",
+            "Type": "Ia-91bg",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "classification of CRTS optical transients",
+    "Time": null,
+    "Date": "May 26",
+    "Telescope": "Keck-I",
+    "Instrument": "LRIS",
+    "Observatory": null
+}

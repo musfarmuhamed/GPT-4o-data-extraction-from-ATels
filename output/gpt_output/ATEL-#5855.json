@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J160432.41+122840.7",
+            "RA": "16h 04m 32.41s",
+            "Dec": "+12d 28m 40.7s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-02-06.12332 UT",
+            "Date": "2014-02-06"
+        },
+        {
+            "Name": "PGC 1410207",
+            "RA": "16h 04m 32.04s",
+            "Dec": "+12d 28m 30.5s",
+            "redshift": "0.0408",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J160432.04+122830.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0408",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/160432.41122840.7.jpg",
+    "Event Type": "Optical Transient",
+    "Time": "2014-02-06.12332 UT",
+    "Date": "2014-02-06",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163838.07-054846.0",
+            "RA": "16h 38m 38.07s",
+            "Dec": "-05d 48m 46.0s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2014-07-21.77098 UT",
+            "Date": "2014-07-21"
+        },
+        {
+            "Name": "SDSS J163837.89-054847.5",
+            "RA": "16h 38m 37.89s",
+            "Dec": "-05d 48m 47.5s",
+            "redshift": null,
+            "Type": "quiescent",
+            "Time": null,
+            "Date": "2012-06-12"
+        },
+        {
+            "Name": "WISE J163837.92-054847.5",
+            "RA": "16h 38m 37.92s",
+            "Dec": "-05d 48m 47.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0841-0297337",
+            "RA": "16h 38m 37.886s",
+            "Dec": "-05d 48m 47.68s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CMC15 163837.8-054847",
+            "RA": "16h 38m 37.8s",
+            "Dec": "-05d 48m 47s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J163838-054846-JRIR5x5.jpg, http://master.sai.msu.ru/static/OT/163838.07-054846.0.jpg",
+    "Event Type": "Outburst",
+    "Time": "2014-07-21.77098 UT",
+    "Date": "2014-07-21",
+    "Telescope": "Palomar/NEAT",
+    "Instrument": null,
+    "Observatory": "MASTER-Kislovodsk"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OK 630",
+            "RA": 140.4009629,
+            "Dec": 62.2644944,
+            "redshift": 1.446,
+            "Type": "Flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2017-12-03"
+        },
+        {
+            "Name": "3FGL J0921.8+6215",
+            "RA": 140.4009629,
+            "Dec": 62.2644944,
+            "redshift": 1.446,
+            "Type": "Flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2017-12-03"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Massaro et al. 2014 ApJ, 213, 3",
+        "Stickel & Kuhr 1993 A&AS, 101, 521"
+    ],
+    "Event Type": "High-flux state",
+    "Time": null,
+    "Date": "2017-12-03",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

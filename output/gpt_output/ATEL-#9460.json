@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16C2ma",
+            "RA": "03:34:32.97",
+            "Dec": "-29:30:40.0",
+            "redshift": 0.245,
+            "Type": "SNIa",
+            "Time": "2016 Sep 05",
+            "Date": "2016 Aug 22"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al, 2005, ApJ, 634, 119"
+    ],
+    "Event Type": "discovery",
+    "Time": "490-920nm",
+    "Date": null,
+    "Telescope": "Gran Telescope CANARIAS (GTC)",
+    "Instrument": "OSIRIS",
+    "Observatory": "Dark Energy Survey"
+}

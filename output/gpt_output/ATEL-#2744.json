@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star",
+            "Time": "16.8965 - 16.9083",
+            "Date": "2010 July 16"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star",
+            "Time": "6.8h UTC (mid-exposure)",
+            "Date": "2010 July 16"
+        }
+    ],
+    "References": [
+        "ATEL #2742",
+        "Dickey and Lockman (1990)",
+        "Chevalier et al. (1999)",
+        "Maitra and Bailyn (2008)"
+    ],
+    "Event Type": "New outburst",
+    "Time": "16.8965 - 16.9083",
+    "Date": "2010 July 16",
+    "Telescope": [
+        "Swift",
+        "CTIO/SMARTS 1.3m telescope"
+    ],
+    "Instrument": [
+        "Swift/BAT",
+        "MAXI/GSC",
+        "XRT (WT mode)",
+        "UVOT",
+        "CTIO/SMARTS 1.3m telescope"
+    ],
+    "Observatory": "Swift observatory"
+}

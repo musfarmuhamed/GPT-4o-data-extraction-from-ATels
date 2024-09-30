@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J194211.9+255552",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": [
+                {
+                    "Start": "2011-12-18T13:47:00Z",
+                    "End": "2011-12-19T08:59:00Z"
+                },
+                {
+                    "Start": "2011-12-18T15:00:00Z",
+                    "End": "2011-12-18T15:42:00Z"
+                },
+                {
+                    "Start": "2011-12-19T07:28:00Z",
+                    "End": "2011-12-19T08:12:00Z"
+                }
+            ],
+            "Date": "2011-12-18"
+        }
+    ],
+    "References": "http://gpsiasf.iasf-roma.inaf.it/",
+    "Event Type": "Detection",
+    "Time": "13:47 UTC - 08:59 UTC",
+    "Date": "2011-12-18",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": "INTEGRAL"
+}

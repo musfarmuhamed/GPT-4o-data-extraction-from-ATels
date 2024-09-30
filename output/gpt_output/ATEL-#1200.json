@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070824-001",
+            "RA": "04:08:32.65",
+            "Dec": "02:22:43.7",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "Aug 24.5"
+        },
+        {
+            "Name": "SNF20070824-002",
+            "RA": "02:37:28.26",
+            "Dec": "-23:32:04.7",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "Aug 24.5"
+        },
+        {
+            "Name": "SNF20070826-004",
+            "RA": "17:11:15.47",
+            "Dec": "21:15:38.0",
+            "redshift": "0.07",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "Aug 26.2"
+        },
+        {
+            "Name": "SNF20070826-006",
+            "RA": "16:46:59.10",
+            "Dec": "38:56:02.5",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "Aug 26.2"
+        }
+    ],
+    "References": "The Nearby Supernova Factory",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Aug 24 through Aug 26",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

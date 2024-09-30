@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sk -68 122",
+            "RA": "05 33 21.3",
+            "Dec": "-68 41 21",
+            "redshift": null,
+            "Type": "B3 I",
+            "Time": "07:21 to 23:40",
+            "Date": "2012-03-13"
+        },
+        {
+            "Name": "1RXH J053322.5-684125",
+            "RA": "05 33 22.5",
+            "Dec": "-68 41 25",
+            "redshift": null,
+            "Type": null,
+            "Time": "09:18 to 11:23",
+            "Date": "2012-03-20"
+        }
+    ],
+    "References": "Rousseau et al. 1978, AASS, 31, 243",
+    "Event Type": "Observation",
+    "Time": "07:21 to 23:40",
+    "Date": "2012-03-13",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": "Swift"
+}

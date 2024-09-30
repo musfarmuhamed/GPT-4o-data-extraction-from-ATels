@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3XMM J004514.7+415035",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate X-ray counterpart of GRB 150301C",
+            "Time": null,
+            "Date": [
+                "2002-01-26",
+                "2007-01-05"
+            ]
+        },
+        {
+            "Name": "[PFH2005] 622",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRB 150301C",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J0045.2+4151",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "DeLuca et al. 2015, arXiv:1503.01497",
+        "Pietsch et al. 2005, ApJ 434, 483",
+        "GCN Circ 17512, 17516",
+        "ATEL#7166",
+        "ATEL#7176"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": [
+        "2005-07-03",
+        "2007-01-06",
+        "2010-01-31"
+    ],
+    "Date": [
+        "2002-01-26",
+        "2007-01-05"
+    ],
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": "European Space Agency (ESA)"
+}

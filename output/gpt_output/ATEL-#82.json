@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J004307.0+411809",
+            "RA": "00h43m07s.099",
+            "Dec": "+41o18'09.95\"",
+            "Redshift": null,
+            "Type": "New transient",
+            "Time": null,
+            "Date": "Jan 16, 2002"
+        },
+        {
+            "Name": "CXOU J004414.3+412205",
+            "RA": "00h44m14s.3",
+            "Dec": "+41o22'05\"",
+            "Redshift": null,
+            "Type": "Supersoft transient",
+            "Time": null,
+            "Date": "Jan 8, 2002"
+        },
+        {
+            "Name": "CXOU J004305.5+411703",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Bright transient",
+            "Time": null,
+            "Date": "Jan 16, 2002"
+        }
+    ],
+    "References": "Kong etal astrop-ph/0202065, Trudolyubov etal 2002, IAUC 7798, Supper etal 2001, ATEL 76 (Kong etal 2001), ATEL 79 (Garcia etal 2002)",
+    "Event Type": "Chandra observations",
+    "Time": null,
+    "Date": "Jan 16, 2002",
+    "Telescope": "Chandra",
+    "Instrument": "HRC, ACIS",
+    "Observatory": null
+}

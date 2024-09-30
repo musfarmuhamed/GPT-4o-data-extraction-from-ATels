@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13bz",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "hydrogen-rich dwarf nova",
+            "Time": "13.2",
+            "Date": "2013-08-13"
+        },
+        {
+            "Name": "ASASSN-13ca",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "hydrogen-rich dwarf nova",
+            "Time": "13.2",
+            "Date": "2013-08-13"
+        }
+    ],
+    "References": [
+        "ATel #5267",
+        "ASAS-SN transient list",
+        "ATel #5195"
+    ],
+    "Event Type": null,
+    "Time": "13.2",
+    "Date": "2013-08-13",
+    "Telescope": "APO 3.5m telescope",
+    "Instrument": "DIS",
+    "Observatory": null
+}

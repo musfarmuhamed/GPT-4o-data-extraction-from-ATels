@@ -1,0 +1,137 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN15JW",
+            "RA": "18:10:54.96",
+            "Dec": "07:40:42.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "ASASSN15KA",
+            "RA": "18:16:06.09",
+            "Dec": "15:36:33.8",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "Gaia15aes",
+            "RA": "11:32:42.77",
+            "Dec": "-16:44:01.0",
+            "redshift": "0.02",
+            "Type": "SN II",
+            "Time": "+70d",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15aet",
+            "RA": "09:02:37.85",
+            "Dec": "25:56:03.9",
+            "redshift": "0.01",
+            "Type": "SN Ib",
+            "Time": "+25d",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15aey",
+            "RA": "14:26:30.72",
+            "Dec": "34:28:23.0",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "peak",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15afa",
+            "RA": "13:20:23.75",
+            "Dec": "21:18:25.5",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "+30d",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15afc",
+            "RA": "15:44:26.41",
+            "Dec": "55:39:52.8",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "+2d",
+            "Date": "2015-05-24"
+        },
+        {
+            "Name": "Gaia15afd",
+            "RA": "17:59:29.78",
+            "Dec": "43:23:24.1",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "+10d",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "Gaia15afe",
+            "RA": "14:01:51.25",
+            "Dec": "21:33:33.8",
+            "redshift": "0.05",
+            "Type": "SN II",
+            "Time": "+20d",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "Gaia15aff",
+            "RA": "20:26:47.38",
+            "Dec": "42:59:41.6",
+            "redshift": null,
+            "Type": "Stellar",
+            "Time": "Late spectral type",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "Gaia15afq",
+            "RA": "15:38:29.86",
+            "Dec": "27:17:56.0",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "+14d",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "Gaia15afs",
+            "RA": "11:27:58.04",
+            "Dec": "-11:43:00.0",
+            "redshift": "0.02",
+            "Type": "SN Ia",
+            "Time": "+10d",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "PS15ANN",
+            "RA": "15:49:53.51",
+            "Dec": "-21:02:50.6",
+            "redshift": "0.02",
+            "Type": "SN II",
+            "Time": "+7d",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "PSNJ16251",
+            "RA": "16:02:51.08",
+            "Dec": "47:13:30.0",
+            "redshift": "0.01",
+            "Type": "SN Ia",
+            "Time": "-3d",
+            "Date": "2015-05-25"
+        }
+    ],
+    "References": "http://gaia.ac.uk/selected-gaia-science-alerts, cosmos.esa.int/gaia",
+    "Event Type": "spectroscopic confirmation and classifications",
+    "Time": null,
+    "Date": "2015-05-24 to 2015-05-25",
+    "Telescope": "Isaac Newton Telescope",
+    "Instrument": "IDS/RED+2/R300V",
+    "Observatory": "La Palma"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS151015:014423+004024",
+            "RA": "01:44:23",
+            "Dec": "+00:40:24",
+            "redshift": "0.106 +/- 0.004",
+            "Type": "Normal type Ia SN",
+            "Time": "00:15:16--01:00:51 UT",
+            "Date": "2015-10-18"
+        }
+    ],
+    "References": [
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Optical spectroscopy and Rc band photometry",
+    "Time": "00:15:16--01:00:51 UT",
+    "Date": "2015-10-18",
+    "Telescope": "6-m BTA",
+    "Instrument": "SCORPIO",
+    "Observatory": "SAO RAS"
+}

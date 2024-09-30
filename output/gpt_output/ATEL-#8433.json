@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J065724.42-671950.7",
+            "RA": "06h 57m 24.42s",
+            "Dec": "-67d 19m 50.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-12-17.91149 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J034049.57+143820.4",
+            "RA": "03h 40m 49.57s",
+            "Dec": "+14d 38m 20.4s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-12-16.99875 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J080229.57-573351.7",
+            "RA": "08h 02m 29.57s",
+            "Dec": "-57d 33m 51.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-12-17.98883 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J032415.60+074424.6",
+            "RA": "03h 24m 15.60s",
+            "Dec": "+07d 44m 24.6s",
+            "redshift": null,
+            "Type": "supernova in PGC1329724",
+            "Time": "2015-12-17.93500 UT",
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "discovery",
+    "Time": "Date-Mentioned-Above",
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-SAAO",
+        "MASTER-IAC",
+        "MASTER-Kislovodsk",
+        "MASTER-Tunka"
+    ]
+}

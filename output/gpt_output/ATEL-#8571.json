@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034502.66+203841.8",
+            "RA": "03h 45m 02.66s",
+            "Dec": "+20d 38m 41.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "21.90590",
+            "Date": "2016-01-21",
+            "Photometry": [
+                {
+                    "Date": "2015-10-13",
+                    "Time": "04:01:22.158",
+                    "Magnitude": 19.6
+                },
+                {
+                    "Date": "2015-10-15",
+                    "Time": "04:30:08.153",
+                    "Magnitude": 19.7
+                },
+                {
+                    "Date": "2015-11-17",
+                    "Time": "03:07:37.835",
+                    "Magnitude": 19.5
+                },
+                {
+                    "Date": "2015-12-14",
+                    "Time": "01:48:19.914",
+                    "Magnitude": 19.6
+                }
+            ]
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "detection",
+    "Time": "21.90590",
+    "Date": "2016-01-21",
+    "Telescope": "MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh/SN2015L",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.2326,
+            "Type": "superluminous supernova (SLSN)",
+            "Time": "MJD 57197.10",
+            "Date": null
+        },
+        {
+            "Name": "iPTF13ehe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "superluminous supernova (SLSN)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gehrels et al. 2004",
+        "Roming et al. 2005",
+        "Dong et al. 2015, CBET#4120",
+        "Nicholls et al. 2015, ATEL#7642",
+        "Brown et al. 2014",
+        "Breeveld et al. 2011",
+        "Poole et al. 2008",
+        "Yan et al. 2015, arXiv:1508.04420",
+        "Wang et al. 2015, arXiv:1509.05543",
+        "Swift Guest Investigator Program NNX15AR41G, PI: Brown",
+        "Holoien",
+        "Quimby",
+        "Dong"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

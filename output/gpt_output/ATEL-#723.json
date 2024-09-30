@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CL1226_1",
+            "RA": "12:26:54.507",
+            "Dec": "+33:33:58.28",
+            "redshift": "0.888",
+            "Type": "SN",
+            "Time": null,
+            "Date": "Jan06"
+        },
+        {
+            "Name": "CL1226_2",
+            "RA": "12:26:55.460",
+            "Dec": "+33:32:14.31",
+            "redshift": "0.888",
+            "Type": "SN",
+            "Time": null,
+            "Date": "Apr03"
+        },
+        {
+            "Name": "MACS0647_1",
+            "RA": "06:47:30.025",
+            "Dec": "+70:14:54.71",
+            "redshift": "0.584",
+            "Type": "SN",
+            "Time": null,
+            "Date": "Feb06"
+        },
+        {
+            "Name": "MACS0647_2",
+            "RA": "06:47:38.030",
+            "Dec": "+70:16:16.72",
+            "redshift": "0.584",
+            "Type": "SN",
+            "Time": null,
+            "Date": "Dec04"
+        }
+    ],
+    "References": [
+        "K. Sharon (Tel Aviv U.)",
+        "A. Gal-Yam (Caltech)",
+        "D. Maoz (Tel Aviv U.)",
+        "M. Donahue (MSU)",
+        "H. Ebeling (IfA)",
+        "R. Ellis (Caltech)",
+        "A. Filippenko (UCB)",
+        "R. Foley (UCB)",
+        "W. Freedman (OCIW)",
+        "J.-P. Kneib (Marseille)",
+        "R. Kirshner (CfA)",
+        "T. Matheson (NOAO)",
+        "J. Mulchaey (OCIW)",
+        "M. Phillips (OCIW)",
+        "V. Sarajedini (UF)",
+        "M. Voit (MSU)"
+    ],
+    "Event Type": "Supernovae discovery from galaxy clusters",
+    "Time": null,
+    "Date": [
+        "2006 Jan 29.5",
+        "2003 Apr 13.5",
+        "2006 Feb 1.0",
+        "2004 Dec 5.0"
+    ],
+    "Telescope": "Hubble Space Telescope (HST)",
+    "Instrument": "Advanced Camera for Surveys (ACS)",
+    "Observatory": null
+}

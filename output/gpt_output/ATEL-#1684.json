@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "04 Aug 2002 UT",
+                "22 June 2008 UT",
+                "03 July 2005 UT",
+                "13 June 2008 UT",
+                "03 to 11 Sep 2002 UT",
+                "July 2005",
+                "late Sept. 2005",
+                "late Oct. 2005",
+                "Sept.-Dec. 2006",
+                "early July 2007 to early Aug. 2007",
+                "early Oct. 2007",
+                "01 to 12 Oct 2007 UT",
+                "mid-Dec. 2007 to mid-Jan. 2008",
+                "mid-May 2008",
+                "mid-June 2008"
+            ],
+            "Date": [
+                "04 Aug 2002",
+                "22 June 2008",
+                "03 July 2005",
+                "13 June 2008",
+                "03 to 11 Sep 2002",
+                "July 2005",
+                "late Sept. 2005",
+                "late Oct. 2005",
+                "Sept.-Dec. 2006",
+                "early July 2007 to early Aug. 2007",
+                "early Oct. 2007",
+                "01 to 12 Oct 2007",
+                "mid-Dec. 2007 to mid-Jan. 2008",
+                "mid-May 2008",
+                "mid-June 2008"
+            ]
+        }
+    ],
+    "References": "http://palquest.org/blazars/",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Palomar 48-inch Schmidt Samuel Oschin Telescope",
+        "Mt. Bigellow 27-inch Schmidt telescope"
+    ],
+    "Instrument": "unfiltered CCD",
+    "Observatory": [
+        "Palomar",
+        "Mt. Bigelow"
+    ]
+}

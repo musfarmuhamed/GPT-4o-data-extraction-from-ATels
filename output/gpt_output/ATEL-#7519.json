@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jg",
+            "RA": "10:46:55.64",
+            "Dec": "-02:19:29.92",
+            "redshift": 0.036,
+            "Type": "Ia",
+            "Time": "+1d",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "ASSASN-15ir",
+            "RA": "10:48:30.30",
+            "Dec": "-21:38:07.95",
+            "redshift": 0.012,
+            "Type": "II",
+            "Time": "+1-2 weeks",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15aja",
+            "RA": "14:14:00.51",
+            "Dec": "+19:23:35.9",
+            "redshift": 0.076,
+            "Type": "Ia",
+            "Time": "+5d",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15akf",
+            "RA": "14:17:11.23",
+            "Dec": "+07:21:38.4",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "pre-max",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15akk",
+            "RA": "14:40:56.26",
+            "Dec": "+03:31:44.2",
+            "redshift": 0.034,
+            "Type": "II",
+            "Time": "pre-max",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15akl",
+            "RA": "14:42:03.97",
+            "Dec": "+02:23:20.1",
+            "redshift": 0.136,
+            "Type": "?",
+            "Time": null,
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15ajp",
+            "RA": "15:18:44.77",
+            "Dec": "+06:06:57.6",
+            "redshift": 0.045,
+            "Type": "Ibc",
+            "Time": "+1 week",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15ahr",
+            "RA": "17:57:52.53",
+            "Dec": "+31:49:29.0",
+            "redshift": 0.04,
+            "Type": "II",
+            "Time": "+1 month",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PS15aju",
+            "RA": "15:45:21.84",
+            "Dec": "+07:30:13.3",
+            "redshift": 0.163,
+            "Type": "Ia",
+            "Time": "+2d",
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PSNJ18285823+2254106",
+            "RA": "18:28:58.23",
+            "Dec": "+22:54:10.6",
+            "redshift": 0.014,
+            "Type": "IIb",
+            "Time": "+3 weeks",
+            "Date": "2015-05-16"
+        }
+    ],
+    "References": "(Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2015-05-16",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research"
+}

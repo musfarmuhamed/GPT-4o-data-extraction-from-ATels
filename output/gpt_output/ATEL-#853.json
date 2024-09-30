@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0525.8+4256",
+            "RA": 81.43,
+            "Dec": 42.94,
+            "redshift": null,
+            "Type": "SNR 166.0+04.3 aka VRO 42.05.01",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2015.9+3715",
+            "RA": 303.98,
+            "Dec": 37.25,
+            "redshift": null,
+            "Type": "SNR 074.9+01.2 or 3EG J2016+3657",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2037.2+4151",
+            "RA": 309.31,
+            "Dec": 41.85,
+            "redshift": null,
+            "Type": "none",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #668",
+        "ATEL #669"
+    ],
+    "Event Type": "Detection of sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/BAT",
+    "Instrument": "Swift/XRT",
+    "Observatory": "Swift"
+}

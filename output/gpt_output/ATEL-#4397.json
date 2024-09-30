@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2012"
+        },
+        {
+            "Name": "4C+11.69",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2012"
+        },
+        {
+            "Name": "PKS 2230+11",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2012"
+        }
+    ],
+    "References": [
+        "http://lacerta.astro.spbu.ru/lc/cta102R.png",
+        "http://lacerta.astro.spbu.ru/ATel/4397.png"
+    ],
+    "Event Type": "High Optical Activity",
+    "Time": null,
+    "Date": "2012-09-18",
+    "Telescope": [
+        "70-cm AZT-8",
+        "1.8 m Perkins"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "CrAO, Ukraine",
+        "Lowell observatory, Flagstaff, AZ"
+    ]
+}

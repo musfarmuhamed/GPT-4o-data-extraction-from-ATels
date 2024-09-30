@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17mvp",
+            "RA": "00 26 06.00",
+            "Dec": "+25 43 16.6",
+            "redshift": "0.034",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20171023"
+        },
+        {
+            "Name": "ATLAS17mvx",
+            "RA": "01 06 12.92",
+            "Dec": "+12 39 47.4",
+            "redshift": "??",
+            "Type": "??",
+            "Time": "??",
+            "Date": "20171027"
+        },
+        {
+            "Name": "ATLAS17muk",
+            "RA": "02 09 26.44",
+            "Dec": "-42 41 16.1",
+            "redshift": "0.052",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20171023"
+        },
+        {
+            "Name": "ATLAS17muy",
+            "RA": "07 11 27.28",
+            "Dec": "-32 06 38.7",
+            "redshift": "0.038",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20171017"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "max",
+    "Date": "2017 10 30",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jb",
+            "RA": "22:23:16.12",
+            "Dec": "-28:58:30.78",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-10-19.09",
+            "Date": "2014-10-19"
+        },
+        {
+            "Name": "ESO 467-G051",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006031",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 7259",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Brimacombe 2012",
+        "Prieto, Brimacombe et al. 2013"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2014-10-19.09",
+    "Date": "2014-10-19",
+    "Telescope": "Cassius",
+    "Instrument": "33-cm RCOS + STL-6303 CCD, 0.7m f/6.6CDK + FLI PL-9000 CCD",
+    "Observatory": "Cerro Tololo, Savannah Skies Observatory, ITelescope.NET site at Siding Springs Observatory"
+}

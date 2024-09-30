@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016ggj",
+            "RA": "02:45:40.95",
+            "Dec": "-13:27:55.7",
+            "redshift": null,
+            "Type": "Flare",
+            "Time": null,
+            "Date": "20160912"
+        },
+        {
+            "Name": "SN2016ggd",
+            "RA": "01:12:32.45",
+            "Dec": "-17:27:18.2",
+            "redshift": "0.045",
+            "Type": "II",
+            "Time": "+4",
+            "Date": "20160908"
+        },
+        {
+            "Name": "SN2016eyr",
+            "RA": "02:56:05.87",
+            "Dec": "-14:11:17.5",
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": "+36.4",
+            "Date": "20160808"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2016 September 21st",
+    "Date": "2016-09-21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

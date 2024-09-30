@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2013bv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic broad-lined supernova",
+            "Time": "9.51 UT",
+            "Date": "April 9",
+            "References": [
+                {
+                    "Name": "Zhang et al.",
+                    "ReferenceID": "CBET #3499"
+                },
+                {
+                    "Name": "Silverman et al.",
+                    "ReferenceID": "CBET #3499"
+                }
+            ]
+        },
+        {
+            "Name": "SN1998bw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic broad-lined supernova",
+            "Time": null,
+            "Date": null,
+            "References": [
+                {
+                    "Name": "Kulkarni et al.",
+                    "ReferenceID": "Nature 1998"
+                }
+            ]
+        }
+    ],
+    "Event Type": "radio observations",
+    "Time": "27.0 UT",
+    "Date": "2013 April 27",
+    "Telescope": "Jansky Very Large Array",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7240",
+        "ATel #7242",
+        "ATel #7262",
+        "Valenti et al. 2007"
+    ],
+    "Event Type": "Outburst",
+    "Time": {
+        "Start": "21:13:59 UT",
+        "End": "05:16:59 UT"
+    },
+    "Date": {
+        "Start": "2015-04-13",
+        "End": "2015-04-20"
+    },
+    "Telescope": [
+        "Swift/BAT",
+        "Swift/XRT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

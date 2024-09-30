@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14fig",
+            "RA": "21:00:58.84",
+            "Dec": "-16:06:52.8",
+            "redshift": "0.04",
+            "Type": "Ic",
+            "Time": "3985-9315A, 18A resolution",
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "LSQ14fik",
+            "RA": "21:22:14.84",
+            "Dec": "-01:28:32.1",
+            "redshift": "0.15",
+            "Type": "Ia",
+            "Time": "3985-9315A, 18A resolution",
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "PSNJ01300340-4241487",
+            "RA": "01:30:03.40",
+            "Dec": "-42:41:48.6",
+            "redshift": "0.022",
+            "Type": "II",
+            "Time": "3985-9315A, 18A resolution",
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "OGLE-2014-SN-073",
+            "RA": "05:28:51.63",
+            "Dec": "-62:20:16.1",
+            "redshift": "0.13",
+            "Type": "II",
+            "Time": "3985-9315A, 18A resolution",
+            "Date": "2014-09-22"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "ATel #4495; Wyrzykowski et al. 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "3985-9315A, 18A resolution",
+    "Date": "2014-09-22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

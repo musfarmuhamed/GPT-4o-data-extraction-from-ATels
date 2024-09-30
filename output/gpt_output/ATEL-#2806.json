@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J230425.1-432351",
+            "RA": "23h04m25s.07",
+            "Dec": "-43o23'51\".4",
+            "redshift": null,
+            "Type": "SN candidate",
+            "Time": "July 31.93 UT",
+            "Date": "2023-07-31"
+        },
+        {
+            "Name": "USNO_B1.0 0466-0773353",
+            "RA": "23h04m24s.42",
+            "Dec": "-43o23'54\".1",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://www.rotse.net/rsvp/j230425.1-432351/j230425.1-432351.jpg",
+    "Event Type": "Discovery",
+    "Time": "July 31.93 UT",
+    "Date": "2023-07-31",
+    "Telescope": "0.45-m ROTSE-IIIc",
+    "Instrument": null,
+    "Observatory": "H.E.S.S. site in Namibia"
+}

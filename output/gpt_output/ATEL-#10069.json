@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1716-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray transient",
+            "Time": "22:37:54",
+            "Date": "2017-02-08"
+        }
+    ],
+    "References": [
+        "ATel #9876",
+        "ATel #9895",
+        "ATel #10036"
+    ],
+    "Event Type": "target of opportunity observation",
+    "Time": "22:37:54",
+    "Date": "2017-02-08",
+    "Telescope": "Integral",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

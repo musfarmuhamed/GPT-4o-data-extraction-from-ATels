@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J01340288+3035111",
+            "RA": "1h34m02s.88",
+            "Dec": "+30o35'11\".1",
+            "redshift": null,
+            "Type": "possible nova",
+            "Time": "20.070 UT",
+            "Date": "2014 Jul. 20"
+        },
+        {
+            "Name": "No. 236977",
+            "RA": "1h34m02s.91",
+            "Dec": "+30o35'11\".0",
+            "redshift": null,
+            "Type": "variable object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Hartman et al. (2006, MNRAS, 371, 1405)",
+    "Event Type": "discovery",
+    "Time": "20.070 UT",
+    "Date": "2014 Jul. 20",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

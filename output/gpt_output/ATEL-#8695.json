@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "10.3",
+            "Date": "Feb. 10"
+        },
+        {
+            "Name": "NGC 5292",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014897",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ 666, 1024",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "10.3",
+    "Date": "Feb. 10",
+    "Telescope": "2.5-m du Pont telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

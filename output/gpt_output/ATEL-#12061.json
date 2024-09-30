@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ey/MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient black hole candidate",
+            "Time": "14:16:01.6",
+            "Date": "24-Sept-2018"
+        },
+        {
+            "Name": "J1824+1044",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "phase calibrator",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3C 286",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absolute flux calibrator",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11820",
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #12057",
+        "Bright et al. ATel #11420"
+    ],
+    "Event Type": "observation",
+    "Time": "14:16:01.6",
+    "Date": "24-Sept-2018",
+    "Telescope": "Arcminute Microkelvin Imager Large Array (AMI-LA)",
+    "Instrument": "15.5 GHz",
+    "Observatory": "Mullard Radio Astronomy Observatory"
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J143857.37+703523.1",
+            "RA": "14h 38m 57.37s",
+            "Dec": "+70d 35m 23.1s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "30.71734 UT",
+            "Date": "2012-05-30"
+        },
+        {
+            "Name": "USNO-B1.0 1605-0102553",
+            "RA": "14 38 57.462",
+            "Dec": "+70 35 22.97",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J143857.4+703523",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/MASTER143857.37+703523.jpg",
+        "http://master.sai.msu.ru/static/OT/J143857+703523-comps.jpg"
+    ],
+    "Event Type": "Discovery",
+    "Time": "19:44:40 UT",
+    "Date": "2012-01-02",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER-Amur"
+}

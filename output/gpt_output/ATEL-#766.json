@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11215-5952",
+            "RA": "11 21 50.8",
+            "Dec": "-59 52 48.3",
+            "redshift": null,
+            "Type": "supergiant fast x-ray transient (SFXT)",
+            "Time": "00:38UT",
+            "Date": "March 15, 2006"
+        },
+        {
+            "Name": "HD 306414",
+            "RA": "11 21 46.807",
+            "Dec": "-59 51 47.93",
+            "redshift": null,
+            "Type": "blue supergiant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sidoli et al. (2006, astro-ph/0203081)",
+        "Lubinski et al., ATEL #469",
+        "Negueruela et al. 2005, ATEL #470",
+        "Negueruela et al. 2005, astro-ph/0511088",
+        "Smith et al. 2006, ApJ 638, 974",
+        "Negueruela et al. 2006, ApJ 638, 982",
+        "Masetti et al., astro-ph 0512399"
+    ],
+    "Event Type": "outburst",
+    "Time": [
+        "00:38UT",
+        "12:09UT",
+        "22:09UT",
+        "20:07UT"
+    ],
+    "Date": [
+        "March 15, 2006",
+        "March 16, 2006",
+        "March 16, 2006",
+        "March 17, 2006"
+    ],
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "PCA",
+    "Observatory": null
+}

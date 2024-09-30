@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15h12m50.5329s",
+            "Dec": "-09d05m59.828s",
+            "redshift": "0.361",
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": "14:00 UT",
+            "Date": "2009-03-08"
+        }
+    ],
+    "References": [
+        "Bulgarelli et al., ATel #1199",
+        "D'Ammando et al., ATel #1436",
+        "Pucella et al. 2008, A&A, 491, L21",
+        "Tramacere, ATel #1743",
+        "Ciprini et al., ATel #1897"
+    ],
+    "Event Type": "gamma-ray high state",
+    "Time": "14:00 UT to 4:00 UT",
+    "Date": "2009-03-08 to 2009-03-10",
+    "Telescope": "AGILE",
+    "Instrument": [
+        "Gamma-Ray Imaging Detector (GRID)",
+        "Super-AGILE"
+    ],
+    "Observatory": "Null"
+}

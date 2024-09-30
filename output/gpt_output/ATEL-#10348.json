@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2017-04c (AT 2017dfw)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red variable",
+            "Time": null,
+            "Date": "2017-04-24.906"
+        }
+    ],
+    "References": "ATel #10312, TNS",
+    "Event Type": "photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "Liverpool Telescope (LT)",
+            "Instrument": "IO:O optical CCD camera",
+            "Observatory": "Observatorio del Roque de los Muchachos"
+        },
+        {
+            "Name": "Alfred-Jensch-Telescope (TLS)",
+            "Instrument": "2k x 2k CCD (Schmidt camera mode)",
+            "Observatory": "Tautenburg observatory"
+        }
+    ]
+}

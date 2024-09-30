@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0458-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.286,
+            "Type": "flat spectrum radio quasar",
+            "Time": "05:32",
+            "Date": "2012-09-20"
+        },
+        {
+            "Name": "2FGL J0501.2-0155",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "superluminal FSRQ",
+            "Time": "05:32",
+            "Date": "2012-09-20"
+        }
+    ],
+    "References": [
+        "Strittmatter et al. 1974, ApJ, 190, 509",
+        "Lister et al. 2009, AJ, 138,1874",
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Atel#4396",
+        "Lasker et al. 2008, AJ, 136, 735"
+    ],
+    "Event Type": "optical photometry",
+    "Time": "05:32",
+    "Date": "2012-09-20",
+    "Telescope": "2.56m Nordic Optical Telescope",
+    "Instrument": null,
+    "Observatory": "La Palma"
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DG CVn (G 165-8AB)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dM4e+dM4e flare star binary system",
+            "Time": "2014-04-23T21:07:08UT",
+            "Date": "2014-04-23"
+        }
+    ],
+    "References": [
+        "GCN Circ. 16158",
+        "swift.ac.uk/DGCVn.gif",
+        "Riedel et al. 2014, AJ, 147, 85",
+        "Osten et al. 2008, ATel #1499",
+        "Osten et al. 2010, ApJ, 721, 785"
+    ],
+    "Event Type": "Superflare",
+    "Time": "2014-04-23T21:07:08UT",
+    "Date": "2014-04-23",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), X-Ray Telescope (XRT), UV/Optical Telescope (UVOT)",
+    "Observatory": "Swift Observatory"
+}

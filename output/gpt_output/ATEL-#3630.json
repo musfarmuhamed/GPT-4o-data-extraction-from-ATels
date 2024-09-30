@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11izq",
+            "RA": "13 47 30.11",
+            "Dec": "+40 04 32.5",
+            "redshift": "0.062",
+            "Type": "SN Ib",
+            "Time": "Jul 26.22",
+            "Date": "2021-08-19"
+        },
+        {
+            "Name": "PTF11izs",
+            "RA": "17 10 46.82",
+            "Dec": "+39 08 32.7",
+            "redshift": "0.075",
+            "Type": "SN Ia",
+            "Time": "Jul 26.35",
+            "Date": "2021-08-08"
+        },
+        {
+            "Name": "PTF11jzd",
+            "RA": "17 35 10.81",
+            "Dec": "+34 30 26.2",
+            "redshift": "0.24",
+            "Type": "SN Ia",
+            "Time": "Aug 05.26",
+            "Date": "2021-08-07"
+        },
+        {
+            "Name": "PTF11kaa",
+            "RA": "17 26 24.17",
+            "Dec": "+46 51 29.6",
+            "redshift": "0.04",
+            "Type": "SN Ib",
+            "Time": "Aug 03.36",
+            "Date": "2021-08-20"
+        },
+        {
+            "Name": "PTF11kgl",
+            "RA": "22 51 28.93",
+            "Dec": "+17 14 25.1",
+            "redshift": "0.116",
+            "Type": "SN Ia",
+            "Time": "Aug 09.46",
+            "Date": "2021-07-19"
+        },
+        {
+            "Name": "PTF11kjk",
+            "RA": "21 40 28.80",
+            "Dec": "+23 20 36.9",
+            "redshift": "0.067",
+            "Type": "SN II",
+            "Time": "Aug 11.43",
+            "Date": "2021-08-31"
+        },
+        {
+            "Name": "PTF11kjl",
+            "RA": "17 24 42.68",
+            "Dec": "+73 20 59.3",
+            "redshift": "0.11",
+            "Type": "SN Ia",
+            "Time": "Aug 11.31",
+            "Date": "2021-08-19"
+        },
+        {
+            "Name": "PTF11kjn",
+            "RA": "22 45 02.86",
+            "Dec": "+34 00 15.4",
+            "redshift": "0.023343",
+            "Type": "SN Ia",
+            "Time": "Aug 16.30",
+            "Date": "2021-08-17"
+        },
+        {
+            "Name": "PTF11kjr",
+            "RA": "01 41 43.04",
+            "Dec": "+13 40 34.9",
+            "redshift": "0.0452",
+            "Type": "SN Ia",
+            "Time": "Aug 16.39",
+            "Date": "2021-08-25"
+        },
+        {
+            "Name": "PTF11kkd",
+            "RA": "20 42 57.35",
+            "Dec": "-10 16 36.1",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Aug 18.37",
+            "Date": "2021-08-20"
+        },
+        {
+            "Name": "PTF11klg",
+            "RA": "22 07 09.92",
+            "Dec": "+06 29 08.7",
+            "redshift": "0.026522",
+            "Type": "SN Ic",
+            "Time": "Aug 19.39",
+            "Date": "2021-08-23"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery of new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "PTF collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown Transient Source",
+            "RA": 87.574,
+            "Dec": -68.309,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "MJD 56510.42",
+            "Date": "August 6th, 2013"
+        },
+        {
+            "Name": "Swift J0549.7-6812",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm et al. ATel #5286",
+    "Event Type": "MAXI transient alert",
+    "Time": "MJD 56510.42",
+    "Date": "August 6th, 2013",
+    "Telescope": "MAXI",
+    "Instrument": "MAXI/GSC",
+    "Observatory": null
+}

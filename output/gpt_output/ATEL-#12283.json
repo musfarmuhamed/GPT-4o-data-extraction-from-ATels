@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1810-222",
+            "RA": 273.1226,
+            "Dec": -22.3274,
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": "08:57 to 20:20",
+            "Date": "2018 December 9"
+        }
+    ],
+    "References": [
+        "ATel #12254",
+        "ATel #12264"
+    ],
+    "Event Type": "NuSTAR ToO observations",
+    "Time": "08:57 to 20:20",
+    "Date": "2018 December 9",
+    "Telescope": "NuSTAR",
+    "Instrument": [
+        "FPMA",
+        "FPMB"
+    ],
+    "Observatory": null
+}

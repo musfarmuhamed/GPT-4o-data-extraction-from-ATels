@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "10:16:17-18:20:47 UTC",
+            "Date": "2015-06-22"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN #17929; #17931, #17929, #17931, #17933, #17938, #17940, #17944, #17945, #17946, #17948, #17949, #17956; ATel #7646, #7647, #7650, #7655, #7658, #7659, #7661, #7662, #7665, #7666, #7667, #7669, #7674, #7677, #7678, #7681, #7686, #7688, #7693, #7694, #7695, #7696, #7699, #7701, #7702, #7703, #7706",
+    "Event Type": "outburst",
+    "Time": "10:16:17-18:20:47 UTC",
+    "Date": "2015-06-22",
+    "Telescope": "VLA, Submillimeter Array (SMA), James Clerk Maxwell Telescope SCUBA-2 (JCMT)",
+    "Instrument": "VLA: C and K bands; SMA: tuning frequency of 230 GHz; JCMT SCUBA-2: 850 micron (350 GHz) and 450 micron (666 GHz)",
+    "Observatory": null
+}

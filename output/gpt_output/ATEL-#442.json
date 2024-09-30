@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "MJD 53444.2",
+            "Date": "15 March 2005"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": "MJD 53440.0",
+            "Date": "11 March 2005"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #441",
+        "ATel #440"
+    ],
+    "Event Type": "decrease in the hard X-ray flux",
+    "Time": "MJD 53444.2",
+    "Date": "15 March 2005",
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI",
+    "Observatory": "INTEGRAL Galactic Bulge Monitoring"
+}

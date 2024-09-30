@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018nt (K2 C16-0043)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "Type Ia supernova",
+            "Time": "Feb 05.20 UT",
+            "Date": "2018 Feb 05"
+        },
+        {
+            "Name": "SDSS J092327.31+171103.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum",
+    "Time": "Feb 05.20 UT",
+    "Date": "2018 Feb 05",
+    "Telescope": "10m Hobby-Eberly Telescope",
+    "Instrument": "Low Resolution Spectrograph-2 (LRS2)",
+    "Observatory": "McDonald Observatory"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J04234719-5136029",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "14.3 UT",
+            "Date": "Aug. 14"
+        },
+        {
+            "Name": "NGC 1578",
+            "RA": null,
+            "Dec": null,
+            "redshift": "6178 km/s",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "Howell et al. 2005, Ap.J. 634, 1190"
+        },
+        {
+            "Title": "Benetti et al. 2004, MNRAS, 348, 261"
+        },
+        {
+            "Title": "Nicolaci et al. 1991, Ap.J.S., 75, 935"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "14.3 UT",
+    "Date": "Aug. 14",
+    "Telescope": "LCO 6.5-m Magellan Baade telescope",
+    "Instrument": "IMACS",
+    "Observatory": "Carnegie Supernova Project"
+}

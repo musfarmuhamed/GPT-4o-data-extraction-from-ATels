@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF13dnh",
+            "RA": "22 38 33.14",
+            "Dec": "+12 02 23.4",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "Sep 26.17",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dni",
+            "RA": "02 05 22.13",
+            "Dec": "+23 23 16.5",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "Sep 26.28",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dnj",
+            "RA": "02 00 40.90",
+            "Dec": "+17 17 05.7",
+            "redshift": "0.066",
+            "Type": "SN Ia",
+            "Time": "Sep 26.27",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dnr",
+            "RA": "02 05 17.99",
+            "Dec": "+00 05 55.5",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "Sep 28.28",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dnw",
+            "RA": "02 33 20.99",
+            "Dec": "+26 59 53.2",
+            "redshift": "0.17",
+            "Type": "SN Ia",
+            "Time": "Sep 28.45",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dok",
+            "RA": "23 20 48.54",
+            "Dec": "+02 55 09.8",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "Sep 30.20",
+            "Date": null
+        },
+        {
+            "Name": "PTF13don",
+            "RA": "23 44 51.30",
+            "Dec": "+01 41 45.8",
+            "redshift": "0.2",
+            "Type": "SN Ia",
+            "Time": "Sep 30.26",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dpz",
+            "RA": "23 11 36.58",
+            "Dec": "-01 00 26.1",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": "Oct 03.17",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dqa",
+            "RA": "01 34 35.69",
+            "Dec": "-00 51 03.9",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": "Oct 03.20",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dqc",
+            "RA": "02 28 36.90",
+            "Dec": "+33 02 13.1",
+            "redshift": "0.076",
+            "Type": "SN Ia",
+            "Time": "Oct 03.41",
+            "Date": null
+        },
+        {
+            "Name": "PTF13dqj",
+            "RA": "01 24 57.49",
+            "Dec": "+31 34 04.6",
+            "redshift": "0.098",
+            "Type": "SN Ia",
+            "Time": "Oct 03.40",
+            "Date": null
+        }
+    ],
+    "References": "ATel #4807, ATel #5456",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

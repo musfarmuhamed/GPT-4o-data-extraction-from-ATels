@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17fml",
+            "RA": "12:44:14.87",
+            "Dec": "+48:35:21.55",
+            "redshift": "0.031",
+            "Type": "Ia",
+            "Time": "+5d",
+            "Date": "2017 June 1 UT"
+        },
+        {
+            "Name": "ATLAS17fop",
+            "RA": "12:23:54.19",
+            "Dec": "+09:07:27.81",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2017 June 1 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": "2017 June 1 UT",
+    "Date": "2017 June 1",
+    "Telescope": "Shane 3-m telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Null"
+}

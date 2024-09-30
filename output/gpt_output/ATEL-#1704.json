@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1637-498",
+            "RA": "249.26112",
+            "Dec": "-49.86128",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "Not specified",
+            "Date": "Not specified"
+        },
+        {
+            "Name": "2MASS source 16370267-4951401",
+            "RA": "Not specified",
+            "Dec": "Not specified",
+            "redshift": null,
+            "Type": "Not specified",
+            "Time": "Not specified",
+            "Date": "Not specified"
+        }
+    ],
+    "References": [
+        "Markwardt, Pereira and Swank, ATEL #1699",
+        "Wijnands et al. (ATEL #1700)",
+        "Goad et al. (2007, A&A, 476, 1401)"
+    ],
+    "Event Type": "Position refinement",
+    "Time": "Not specified",
+    "Date": "Not specified",
+    "Telescope": "Swift",
+    "Instrument": "XRT (Photon Counting mode), UVOT (v band)",
+    "Observatory": "Not specified"
+}

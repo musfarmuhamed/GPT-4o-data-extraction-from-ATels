@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC4708",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SA-type galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2016cvn",
+            "RA": "12:49:41.34",
+            "Dec": "-11:05:34.3",
+            "redshift": "0.013896",
+            "Type": "Candidate for a circum-nuclear supernova or a tidal disruption event",
+            "Time": "57544.31",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tonry et al. ATel #8680",
+        "Huber et al. ATel #7153",
+        "Smartt et al. ATel #5850"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

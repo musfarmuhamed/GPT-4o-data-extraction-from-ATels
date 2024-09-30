@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQJ1512-0905",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "June 12th, 2016"
+        },
+        {
+            "Name": "PKS1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "June 12th, 2016"
+        },
+        {
+            "Name": "2FGLJ1512.8-0906",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.36,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "June 12th, 2016"
+        }
+    ],
+    "References": [
+        "ATEL # 5416",
+        "ATEL #5422",
+        "ATEL #7587",
+        "ATEL #7799",
+        "ATEL #7805"
+    ],
+    "Event Type": "NIR brightening",
+    "Time": null,
+    "Date": "June 12th, 2016",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

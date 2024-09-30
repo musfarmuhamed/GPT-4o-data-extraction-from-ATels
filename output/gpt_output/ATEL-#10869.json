@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1621-501",
+            "RA": "245.260 deg",
+            "Dec": "-50.185 deg",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "05:45",
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "AX J1620.1-5002",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1622.1-5005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "nova alert",
+    "Time": "05:45",
+    "Date": "2017-10-19",
+    "Telescope": "GSC camera GSC_5",
+    "Instrument": null,
+    "Observatory": "MAXI/GSC"
+}

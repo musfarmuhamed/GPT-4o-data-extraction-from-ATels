@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12cwl",
+            "RA": "09:54:47.38",
+            "Dec": "+69:04:41.7",
+            "redshift": null,
+            "Type": "He/N type classical nova",
+            "Time": "09:31",
+            "Date": "2012/04/09"
+        },
+        {
+            "Name": "PTF12cxy",
+            "RA": "09:56:22.86",
+            "Dec": "+69:07:35.3",
+            "redshift": null,
+            "Type": "Fe II type classical nova",
+            "Time": "16:15",
+            "Date": "2012/04/16"
+        }
+    ],
+    "References": "USNO-B1.0 catalog",
+    "Event Type": "discovery of two new novae in M81",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ARC-3.5m",
+    "Instrument": "Dual Imaging Spectrograph (DIS)",
+    "Observatory": "Apache Point Observatory (APO)"
+}

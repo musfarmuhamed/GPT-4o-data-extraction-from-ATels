@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15od",
+            "RA": "02:23:13.21",
+            "Dec": "-04:31:02.05",
+            "redshift": "~0.018",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-08-10.51"
+        }
+    ],
+    "References": [
+        "ATel #7907",
+        "Harutyunyan et al. 2008, A&A,488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "15.14",
+    "Date": "Aug. 15",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

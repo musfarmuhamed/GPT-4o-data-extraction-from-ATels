@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS140425-152525-191348",
+            "RA": "15:25:25.01",
+            "Dec": "-19:13:47.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "Night starting on April 29 UT",
+            "Date": "2014",
+            "Notes": "Flat spectrum, no broad features."
+        },
+        {
+            "Name": "SNhunt242",
+            "RA": "20:04:11.74",
+            "Dec": "-19:46:39.6",
+            "redshift": "0.068",
+            "Type": "IIb",
+            "Time": "Night starting on April 29 UT",
+            "Date": "2014",
+            "Notes": "Good spectral matches are found to IIb SNe such as SN 2011fu at ~10-20 d post explosion."
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Howell et al. 2005, ApJ 634, 1190; Harutyunyan et al., 2008, A&A, 488, 383; Kumar et al. 2013",
+    "Event Type": "supernova classifications",
+    "Time": "Night starting on April 29 UT",
+    "Date": "2014",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

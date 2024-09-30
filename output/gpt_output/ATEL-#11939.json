@@ -1,0 +1,99 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18sss",
+            "RA": "13:32:50.50",
+            "Dec": "+07:18:39.2",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "SN2018efm",
+            "RA": "13:32:50.50",
+            "Dec": "+07:18:39.2",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "ATLAS18sxh",
+            "RA": "14:17:27.52",
+            "Dec": "-24:46:49.8",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "AT2018eon",
+            "RA": "14:17:27.52",
+            "Dec": "-24:46:49.8",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "ATLAS18tgi",
+            "RA": "23:29:38.76",
+            "Dec": "-25:10:25.4",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "SN2018esq",
+            "RA": "23:29:38.76",
+            "Dec": "-25:10:25.4",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "AT2018esj",
+            "RA": "23:17:53.89",
+            "Dec": "-04:40:57.0",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "ATLAS18svs",
+            "RA": "22:10:35.52",
+            "Dec": "-27:15:00.5",
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        },
+        {
+            "Name": "SN2018emt",
+            "RA": "22:10:35.52",
+            "Dec": "-27:15:00.5",
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018 August 10"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Report",
+    "Time": "Null",
+    "Date": "2018 August 10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

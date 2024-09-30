@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.0-290005",
+            "RA": "17:45:40.07",
+            "Dec": "-29:00:05.8",
+            "redshift": null,
+            "Type": "LMXB",
+            "Time": "23.8 ks",
+            "Date": "2013-05-25"
+        }
+    ],
+    "References": [
+        "ATels #5009",
+        "ATels #5011",
+        "ATels #5020",
+        "ATels #5032",
+        "ATels #5037",
+        "ATels #5046",
+        "ATels #5053",
+        "ATels #5073",
+        "ATels #5074",
+        "Kennea et al. 2013",
+        "Mori et al. 2013",
+        "Shannon et al. 2013",
+        "Muno et al. 2005",
+        "Degenaar et al. 2012",
+        "Armas Padilla, M., et al. 2013",
+        "Davis, J.E. 2001",
+        "Predehl et al. 2003",
+        "Shannon & Johnson 2013"
+    ],
+    "Event Type": null,
+    "Time": "23.8 ks",
+    "Date": "2013-05-25",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S/HETG",
+    "Observatory": null
+}

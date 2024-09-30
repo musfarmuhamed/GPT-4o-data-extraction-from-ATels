@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.047",
+            "Type": "HBL",
+            "Time": "unknown",
+            "Date": "today"
+        },
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.047",
+            "Type": "HBL",
+            "Time": "unknown",
+            "Date": "June 4"
+        },
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.047",
+            "Type": "HBL",
+            "Time": "unknown",
+            "Date": "2015 September - December"
+        },
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.047",
+            "Type": "HBL",
+            "Time": "unknown",
+            "Date": "June 5"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Kapanadze B. et al.",
+            "Year": 2016,
+            "Title": "A recent strong X-ray flaring activity of 1ES 1959+650 with possibly less efficient stochastic acceleration",
+            "Journal": "MNRASL",
+            "Status": "in press"
+        },
+        {
+            "Author": "Daniela Dorner",
+            "Type": "private communication"
+        },
+        {
+            "URL": "http://fact-project.org/monitoring/index.php?y=2016&m=06&d=05&source=7&timebin=3&plot=night"
+        },
+        {
+            "Author": "Kapanadze et al.",
+            "Year": 2016
+        },
+        {
+            "Author": "Aliu et al.",
+            "Year": 2103
+        }
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "unknown",
+    "Date": "today",
+    "Telescope": "FACT",
+    "Instrument": "Swift-XRT",
+    "Observatory": "FACT Observatory"
+}

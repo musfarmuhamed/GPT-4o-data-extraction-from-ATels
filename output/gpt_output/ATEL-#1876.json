@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1855-026",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "early-type star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "B0 Iaep luminous supergiant",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Corbet & Mukai 2002, ApJ 577, 923",
+        "Romano et al., ATel #1875",
+        "Verrecchia et al. (ATel #102)"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "August 2003",
+    "Telescope": "4.2-m WHT, 2.5-m INT",
+    "Instrument": null,
+    "Observatory": "La Palma"
+}

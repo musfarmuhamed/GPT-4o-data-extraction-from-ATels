@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17jl (AT 2017foy)",
+            "RA": "20:15:25.457",
+            "Dec": "-37:30:42.21",
+            "redshift": "0.020347",
+            "Type": "Supernova",
+            "Time": "17.0",
+            "Date": "2017-07-21.26"
+        },
+        {
+            "Name": "ASASSN-17jm (AT 2017fqf)",
+            "RA": "02:06:14.749",
+            "Dec": "+09:38:57.15",
+            "redshift": "0.030855",
+            "Type": "Supernova",
+            "Time": "16.8",
+            "Date": "2017-07-24.36"
+        },
+        {
+            "Name": "ASASSN-17jo (AT 2017fqh)",
+            "RA": "02:42:59.070",
+            "Dec": "-10:07:24.97",
+            "redshift": "0.053764",
+            "Type": "Supernova",
+            "Time": "17.0",
+            "Date": "2017-07-23.36"
+        },
+        {
+            "Name": "ASASSN-17jp (AT 2017fqk)",
+            "RA": "02:54:02.094",
+            "Dec": "+02:58:07.71",
+            "redshift": "0.010147",
+            "Type": "Supernova",
+            "Time": "17.1",
+            "Date": "2017-07-24.37"
+        },
+        {
+            "Name": "ASASSN-17jq (AT 2017fra)",
+            "RA": "15:31:51.532",
+            "Dec": "+37:24:44.63",
+            "redshift": "0.029997",
+            "Type": "Supernova",
+            "Time": "16.9",
+            "Date": "2017-07-25.34"
+        }
+    ],
+    "References": [
+        {
+            "Name": "ASAS-SN Homepage",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Name": "List of all ASAS-SN transients",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/transients.html"
+        }
+    ],
+    "Event Type": "Supernova Discovery",
+    "Time": "Ongoing",
+    "Date": "Ongoing",
+    "Telescope": "Brutus (Haleakala, Hawaii), Cassius (Cerro Tololo, Chile)",
+    "Instrument": "14-cm",
+    "Observatory": "ASAS-SN"
+}

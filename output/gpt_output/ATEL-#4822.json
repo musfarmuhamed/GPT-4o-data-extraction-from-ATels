@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J14324449+0953123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young type-II supernova",
+            "Time": "18.70 UT",
+            "Date": "Feb. 18",
+            "Spectrum Range": "350-1000 nm"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A.Ap.",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Author": "Puckett, T.",
+            "Year": 2000,
+            "Journal": "IAUC",
+            "Volume": 7431,
+            "Page": 1
+        }
+    ],
+    "Event Type": "spectroscopic observation",
+    "Time": "18.70 UT",
+    "Date": "Feb. 18",
+    "Telescope": null,
+    "Instrument": "FLOYDS (FTS) spectrograph",
+    "Observatory": null
+}

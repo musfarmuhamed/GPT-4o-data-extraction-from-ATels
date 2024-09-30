@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-048",
+            "RA": "1:37:10.25",
+            "Dec": "-68:23:48.6",
+            "redshift": "0.06",
+            "Type": "type II",
+            "Time": null,
+            "Date": "2456519.75978"
+        },
+        {
+            "Name": "OGLE-2013-SN-049",
+            "RA": "3:36:04.02",
+            "Dec": "-73:09:11.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456519.86362"
+        },
+        {
+            "Name": "OGLE-2013-SN-050",
+            "RA": "0:36:11.73",
+            "Dec": "-63:45:36.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456520.71662"
+        },
+        {
+            "Name": "OGLE-2013-SN-051",
+            "RA": "0:32:19.55",
+            "Dec": "-66:25:44.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456520.71233"
+        },
+        {
+            "Name": "OGLE-2013-SN-052",
+            "RA": "2:39:53.91",
+            "Dec": "-73:07:05.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456520.87379"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. ATEL #4495",
+        "Kozlowski et al. 2013",
+        "ATEL #5290"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "OGLE-IV"
+}

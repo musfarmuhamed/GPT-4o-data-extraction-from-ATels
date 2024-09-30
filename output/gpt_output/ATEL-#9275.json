@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J191840.69+422103.3",
+            "RA": "19h 18m 40.69s",
+            "Dec": "+42d 21m 03.3s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "00:12:26.01815",
+            "Date": "2016-07-25"
+        },
+        {
+            "Name": "MASTER OT J033705.75-131224.9",
+            "RA": "03h 37m 05.75s",
+            "Dec": "-13d 12m 24.9s",
+            "redshift": null,
+            "Type": "possibly QSO",
+            "Time": "05:30:07.28649",
+            "Date": "2016-07-25"
+        },
+        {
+            "Name": "MASTER OT J185300.79+452707.7",
+            "RA": "18h 53m 00.79s",
+            "Dec": "+45d 27m 07.7s",
+            "redshift": null,
+            "Type": "variable star (dwarf nova classification)",
+            "Time": "00:55:32.15808",
+            "Date": "2016-07-24"
+        },
+        {
+            "Name": "MASTER OT J204723.04+072759.1",
+            "RA": "20h 47m 23.04s",
+            "Dec": "+07d 27m 59.1s",
+            "redshift": null,
+            "Type": "outburst",
+            "Time": "01:04:52.009",
+            "Date": "2016-07-27"
+        }
+    ],
+    "References": [
+        {
+            "Source": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010",
+            "URL": "http://master.sai.msu.ru/static/OT/191840.69422103.3.png"
+        },
+        {
+            "Source": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010",
+            "URL": "http://master.sai.msu.ru/static/OT/033705.75-131224.9.png"
+        },
+        {
+            "Source": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010",
+            "URL": "http://master.sai.msu.ru/static/OT/185300.79452707.7.png"
+        },
+        {
+            "Event": "MASTER OT J204723.04+072759.1",
+            "Source": "S.Shurpakov et al., ATEL #5255",
+            "URL": null
+        }
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

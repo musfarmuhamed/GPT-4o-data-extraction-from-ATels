@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10gva",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": "May 7.19",
+            "Date": "2010",
+            "Additional Observation Details": {
+                "Filters": [
+                    "V",
+                    "B",
+                    "U",
+                    "UW1",
+                    "UM2",
+                    "UW2"
+                ],
+                "V Magnitude": "16.88 +/- 0.09 mag",
+                "B Magnitude": "17.02 +/- 0.05 mag",
+                "U Magnitude": "15.65 +/- 0.04 mag",
+                "UVW1 Magnitude": "15.14 +/- 0.03 mag",
+                "UVM2 Magnitude": "14.90 +/- 0.02 mag",
+                "UVW2 Magnitude": "14.86 +/- 0.02 mag"
+            }
+        }
+    ],
+    "References": "ATEL #2603, Poole et al, MNRAS, 2008, 383, 627",
+    "Event Type": "Observation",
+    "Time": "May 7.19",
+    "Date": "2010",
+    "Telescope": "Swift",
+    "Instrument": "Ultra-Violet Optical Telescope",
+    "Observatory": null
+}

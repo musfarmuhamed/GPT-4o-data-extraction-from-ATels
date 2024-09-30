@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J220633.99+312137.0",
+            "RA": "22h 06m 33.99s",
+            "Dec": "+31d 21m 37.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "07.0329 UT",
+            "Date": "2015-09-07"
+        },
+        {
+            "Name": "MASTER OT J225632.47+354238.1",
+            "RA": "22h 56m 32.47s",
+            "Dec": "+35d 42m 38.1s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "07.0706 UT",
+            "Date": "2015-09-07"
+        },
+        {
+            "Name": "MASTER OT J223633.20+374621.1",
+            "RA": "22h 36m 33.20s",
+            "Dec": "+37d 46m 21.1s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "07.05106 UT",
+            "Date": "2015-09-07"
+        }
+    ],
+    "References": "MASTER-Kislovodsk, MASTER-Tunka, MASTER-Amur",
+    "Event Type": "dwarf nova outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

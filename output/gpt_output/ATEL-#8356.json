@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15tb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024614,
+            "Type": "SN Ia",
+            "Time": "+5d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15tf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035288,
+            "Type": "SN Ia",
+            "Time": "+2d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15ti",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "SN Ia",
+            "Time": "-1d",
+            "Date": null
+        }
+    ],
+    "References": "ATel #8329, ATel #8345, ATel #8351",
+    "Event Type": "optical spectroscopic observations",
+    "Time": "December 2-3",
+    "Date": "UT",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM"
+}

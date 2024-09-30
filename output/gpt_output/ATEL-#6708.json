@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1619-383",
+            "RA": "244.926 deg",
+            "Dec": "-38.375 deg",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "07:11:20",
+            "Date": "November 14, 2014"
+        },
+        {
+            "Name": "1RXS J161838.4-381911",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J161815.1-382027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://maxi.riken.jp/top/index.php?cid=1&jname=J1619-383",
+    "Event Type": "nova alert",
+    "Time": "07:11:20",
+    "Date": "November 14, 2014",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

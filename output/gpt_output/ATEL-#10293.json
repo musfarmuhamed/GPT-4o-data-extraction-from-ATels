@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16aqg/AT2016ecm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "SN Type Ia",
+            "Time": null,
+            "Date": "2016-05-23"
+        },
+        {
+            "Name": "LEDA 581422",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9497",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Schlafly et al. 2011 ApJ, 737, 103",
+        "Bianchi et al. 2011 Ap&SS, 335, 161",
+        "ATel #6593"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-05-23",
+    "Telescope": [
+        "SALT",
+        "VLT",
+        "Swift"
+    ],
+    "Instrument": [
+        "RSS",
+        "FORS2",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "ESA Gaia"
+}

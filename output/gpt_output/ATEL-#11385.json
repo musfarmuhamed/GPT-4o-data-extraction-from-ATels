@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J2124-3358",
+            "RA": "21:24:43.8",
+            "Dec": "-33:58:44.5",
+            "redshift": 0.187,
+            "Type": "millisecond pulsar",
+            "Time": "02:49:32.99",
+            "Date": "2018-03-09"
+        },
+        {
+            "Name": "FRB 180309",
+            "RA": "21:24:43.8",
+            "Dec": "-33:58:44.5",
+            "redshift": 0.187,
+            "Type": "fast radio burst",
+            "Time": "02:49:32.99",
+            "Date": "2018-03-09"
+        }
+    ],
+    "References": [
+        "Barsdell et al. 2012",
+        "Cordes & Lazio, 2001",
+        "Manchester et al. 2013",
+        "Macquart & Ekers 2017",
+        "Yao et al. 2017"
+    ],
+    "Event Type": "fast radio burst detection",
+    "Time": "02:49:32.99",
+    "Date": "2018-03-09",
+    "Telescope": "64-m Parkes Telescope",
+    "Instrument": "BPSR backend",
+    "Observatory": "CSIRO"
+}

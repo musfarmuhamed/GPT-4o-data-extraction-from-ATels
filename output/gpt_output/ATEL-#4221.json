@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient reported by MASTER (ATEL #4202)",
+            "RA": "20:08:45.060",
+            "Dec": "-35:54:03.80",
+            "redshift": null,
+            "Type": "UV Ceti-type transient or short time-scale event, but not nova",
+            "Time": "08:57:31 UT",
+            "Date": "2012-06-23"
+        },
+        {
+            "Name": "Object on the ESO-DSS2 I-band image",
+            "RA": "20:08:45.7",
+            "Dec": "-35:54:34.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "1988"
+        }
+    ],
+    "References": "ATEL #4202, Udalski et al. 1997",
+    "Event Type": "Transient follow-up",
+    "Time": "08:57:31 UT",
+    "Date": "2012-06-23",
+    "Telescope": "OGLE",
+    "Instrument": null,
+    "Observatory": null
+}

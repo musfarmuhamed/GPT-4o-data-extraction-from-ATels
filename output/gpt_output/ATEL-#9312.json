@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016emj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.073,
+            "Type": "Type Ia SN",
+            "Time": "18:55--19:26 UT",
+            "Date": "August, 3"
+        },
+        {
+            "Name": "AT 2016emb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.065,
+            "Type": "Type Ic SN",
+            "Time": "19:42--20:33 UT",
+            "Date": "August, 3"
+        }
+    ],
+    "References": "Blondin & Tonry, ApJ, 666, 1024, 2007",
+    "Event Type": "Observation",
+    "Time": "Night",
+    "Date": "August, 3",
+    "Telescope": "BTA",
+    "Instrument": "Scorpio-I",
+    "Observatory": null
+}

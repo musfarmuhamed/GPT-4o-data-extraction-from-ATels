@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17191-2821",
+            "RA": 259.66,
+            "Dec": -28.3,
+            "redshift": null,
+            "Type": "Neutron Star System",
+            "Time": "00:00",
+            "Date": "2012/06/04"
+        }
+    ],
+    "References": [
+        "ATel #1021",
+        "ATel #1022",
+        "ATel #1025",
+        "ATel #1065",
+        "ATel #1068",
+        "ATel #1070",
+        "ATel #1075",
+        "ATel #1096",
+        "http://heasarc.gsfc.nasa.gov/docs/swift/results/transients/weak/IGRJ17191-2821/",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1719-283"
+    ],
+    "Event Type": "Nova Alert",
+    "Time": "17:17:52",
+    "Date": "2012/06/12",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "Swift/BAT",
+    "Observatory": "ISS"
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h43m45.35s",
+            "Dec": "+41d07'54.7\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": [
+                "2010 September 30.566 UT",
+                "2010 September 30.412 UT",
+                "2010 October 1.180 UT"
+            ],
+            "Date": [
+                "2010-09-30",
+                "2010-09-29",
+                "2010-10-01"
+            ]
+        }
+    ],
+    "References": [
+        "Nishiyama and Kabashima",
+        "Miyaki-Argenteus observatory",
+        "Steward Observatory",
+        "Athens University Observatory",
+        "Massey et al. 2006, AJ, 131, 2478"
+    ],
+    "Event Type": "outburst",
+    "Time": [
+        "2010 September 30.566 UT",
+        "2010 September 30.412 UT",
+        "2010 October 1.180 UT"
+    ],
+    "Date": [
+        "2010-09-30",
+        "2010-09-29",
+        "2010-10-01"
+    ],
+    "Telescope": [
+        "robotic 60cm telescope",
+        "40-cm Cassegrain telescope"
+    ],
+    "Instrument": [
+        "E2V CCD (2kx2k, 13.5 micron sq. pixels)",
+        "2184 x 1472 pixel ST-10XME CCD camera (pixel size 6.8 microns square)"
+    ],
+    "Observatory": [
+        "Livermore Optical Transient Imaging System (Super-LOTIS)",
+        "Athens University Observatory"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "09:45 to 23:37",
+            "Date": "2007-05-21"
+        }
+    ],
+    "References": "Krimm et al. (ATEL #1061)",
+    "Event Type": "Observation",
+    "Time": "09:45 to 23:37",
+    "Date": "2007-05-21",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "JEM-X1",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

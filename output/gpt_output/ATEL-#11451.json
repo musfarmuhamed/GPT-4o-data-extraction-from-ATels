@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "08:27 to 09:09 UT",
+            "Date": "2018-03-19"
+        },
+        {
+            "Name": "2MASS 18202191+0711248",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "field comparison star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "#11399, #11400, #11406, #11418, #11420, #11421, #11423, #11424, #11425, #11426, #11427, #11432, #11437, #11439, #11440, #11445",
+    "Event Type": "near-infrared fast-photometry observations",
+    "Time": "08:27 to 09:09 UT",
+    "Date": "2018-03-19",
+    "Telescope": "VLT/Paranal",
+    "Instrument": "HAWK-I",
+    "Observatory": "Paranal"
+}

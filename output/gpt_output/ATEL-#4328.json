@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "23:28:03 to 03:09:59 UTC",
+            "Date": "2012 August 20 to August 21"
+        },
+        {
+            "Name": "MAXI J1910-057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "23:28:03 to 03:09:59 UTC",
+            "Date": "2012 August 20 to August 21"
+        }
+    ],
+    "References": [
+        "ATels #4273",
+        "#4295",
+        "MJD 56159",
+        "ISA project home page: http://sprg.ssl.berkeley.edu/~bodaghee/isa"
+    ],
+    "Event Type": "observation",
+    "Time": "23:28:03 to 03:09:59 UTC",
+    "Date": "2012 August 20 to August 21",
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI",
+    "Observatory": "INTEGRAL"
+}

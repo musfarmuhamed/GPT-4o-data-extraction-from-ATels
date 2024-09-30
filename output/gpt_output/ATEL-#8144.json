@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-09c (PNV J00432114+4124597)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Various",
+            "Date": [
+                "2015-09-30",
+                "2015-10-01",
+                "2015-10-02",
+                "2015-10-04",
+                "2015-10-05",
+                "2015-10-08"
+            ]
+        },
+        {
+            "Name": "M31N 2015-10a (PNV J00415937+4117026)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2015-10-08",
+            "Date": "2015-10-08"
+        }
+    ],
+    "References": [
+        "ATel #8108",
+        "ATel #8109",
+        "CBAT TOCP",
+        "ATel #8134",
+        "ATel #8141"
+    ],
+    "Event Type": "multicolor photometry",
+    "Time": "Various",
+    "Date": "2015-09-30 to 2015-10-08",
+    "Telescope": "0.65-m telescope, 40-inch reflector",
+    "Instrument": null,
+    "Observatory": "Ondrejov, Mount Laguna Observatory (MLO)"
+}

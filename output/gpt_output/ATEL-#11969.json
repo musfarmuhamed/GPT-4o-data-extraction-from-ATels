@@ -1,0 +1,116 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fez",
+            "RA": "12:57:51.3",
+            "Dec": "-28:30:16.8",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "20180817"
+        },
+        {
+            "Name": "AT2018evv",
+            "RA": "13:37:39.1",
+            "Dec": "-29:08:06.0",
+            "redshift": "0.018",
+            "Type": "?",
+            "Time": "Null",
+            "Date": "20180811"
+        },
+        {
+            "Name": "SN2018fel",
+            "RA": "16:52:31.2",
+            "Dec": "23:23:00.7",
+            "redshift": "0.1",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "20180817"
+        },
+        {
+            "Name": "SN2018feb",
+            "RA": "17:10:11.2",
+            "Dec": "21:38:56.5",
+            "redshift": "0.015",
+            "Type": "Ia",
+            "Time": "-11d",
+            "Date": "20180816"
+        },
+        {
+            "Name": "AT2018fcr",
+            "RA": "16:16:42.8",
+            "Dec": "04:12:28.3",
+            "redshift": "0.091",
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "20180813"
+        },
+        {
+            "Name": "SN2018ffb",
+            "RA": "22:58:11.5",
+            "Dec": "-20:17:02.8",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "+4d",
+            "Date": "20180817"
+        },
+        {
+            "Name": "AT2018ffd",
+            "RA": "00:19:06.1",
+            "Dec": "-25:57:35.1",
+            "redshift": "0",
+            "Type": "Mstar",
+            "Time": "Null",
+            "Date": "20180817"
+        },
+        {
+            "Name": "SN2018few",
+            "RA": "01:04:15.5",
+            "Dec": "-42:44:28.1",
+            "redshift": "0.066",
+            "Type": "Ia",
+            "Time": "-3d",
+            "Date": "20180817"
+        },
+        {
+            "Name": "SN2018fey",
+            "RA": "01:22:19.5",
+            "Dec": "-02:29:48.6",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "20180818"
+        },
+        {
+            "Name": "SN2018fex",
+            "RA": "03:55:20.9",
+            "Dec": "-56:45:13.0",
+            "redshift": "0.024",
+            "Type": "IIb",
+            "Time": "~0d",
+            "Date": "20180817"
+        },
+        {
+            "Name": "SN2018ffj",
+            "RA": "02:30:59.8",
+            "Dec": "-17:20:26.9",
+            "redshift": "0.234",
+            "Type": "SLSN-I",
+            "Time": "~0d",
+            "Date": "20180807"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Chen et al. 2018arXiv180804382C"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "2018 August 18",
+    "Date": "20180818",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

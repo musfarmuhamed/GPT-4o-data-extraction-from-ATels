@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 3166",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "October 23 1994"
+        },
+        {
+            "Name": "SN 2012cw",
+            "RA": "10h13m47.95s",
+            "Dec": "+03d26'02.6\"",
+            "redshift": null,
+            "Type": "Type-Ic",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 3169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2003cg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET 3148",
+        "Amanullah et al. 2010, ApJ, 716, 712",
+        "Smartt 2009, ARA&A, 47, 63"
+    ],
+    "Event Type": "Hubble Space Telescope WFPC2 300 s image",
+    "Time": null,
+    "Date": "October 23 1994",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "WFPC2",
+    "Observatory": null
+}

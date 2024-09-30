@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J193347.3+325425",
+            "RA": "19 33 47.26",
+            "Dec": "+32 54 25.4",
+            "redshift": "Null",
+            "Type": "AGN",
+            "Time": "2006-July-07 04:53 UT to 2006-July-07 19:23 UT",
+            "Date": "2006-July-07"
+        }
+    ],
+    "References": [
+        "Tueller et al. ATEL #668 and #669",
+        "Kennea et al. ATEL #677",
+        "Ajello et al. ATEL #697"
+    ],
+    "Event Type": "Swift observations",
+    "Time": "04:53 UT to 19:23 UT",
+    "Date": "2006-July-07",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray telescope (XRT)",
+        "UV-optical telescope (UVOT)"
+    ],
+    "Observatory": "Null"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1817-330",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "08:36 UT",
+            "Date": "Feb 20 2006"
+        }
+    ],
+    "References": [
+        "ATEL #714",
+        "ATEL #733",
+        "Munari & Zwitter 1997,A&A,318,269",
+        "Barbon et al. (1990,A&A,237,79)",
+        "Schlegel dust maps",
+        "Jenniskens & Desert (1994,A&AS,106,39)",
+        "Herbig (1993,ApJ,407,142)",
+        "ATEL #746"
+    ],
+    "Event Type": "High-resolution spectrum acquisition",
+    "Time": "08:36 UT",
+    "Date": "Feb 20 2006",
+    "Telescope": "Magellan-Clay",
+    "Instrument": "MIKE echelle spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

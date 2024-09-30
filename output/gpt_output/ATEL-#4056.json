@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #546; Palmer et al. 2005",
+        "Cadolle Bel et al. 2007, ApJ, 659, 649",
+        "Atel #1599, Krimm et al. 2008",
+        "Atel #2341, Negoro et al. 2010"
+    ],
+    "Event Type": "Softening of X-ray flux (possible hard to soft spectral transition)",
+    "Time": null,
+    "Date": "2012 April 17",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT",
+        "Swift UV/Optical telescope"
+    ],
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

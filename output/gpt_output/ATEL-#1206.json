@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible Nova in M31",
+            "RA": "00h 42m 29.397s",
+            "Dec": "+41\u00b0 18' 24.84\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "02.09",
+            "Date": "2007 September 02"
+        },
+        {
+            "Name": "Possible Nova in M31",
+            "RA": "00h 42m 29.397s",
+            "Dec": "+41\u00b0 18' 24.84\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "03.09",
+            "Date": "2007 September 03"
+        }
+    ],
+    "References": "Massey M31 catalog",
+    "Event Type": "Discovery",
+    "Time": "02.09",
+    "Date": "2007 September 02",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Andor DZ436-BV CCD Camera (with a Marconi 2k x 2k chip with 13.5\u00b5m sq. pixels)",
+    "Observatory": "Skinakas Observatory, Crete, Greece"
+}

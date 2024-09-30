@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-362",
+            "RA": "17:00:58.46",
+            "Dec": "-46:11:08.6",
+            "redshift": null,
+            "Type": "neutron star soft X-ray transient",
+            "Time": "03:40 UT",
+            "Date": "2006 March 27"
+        },
+        {
+            "Name": "XTE J1739-285",
+            "RA": "17:39:53.95",
+            "Dec": "-28:29:46.8",
+            "redshift": null,
+            "Type": "transient X-ray burster",
+            "Time": "03:04 UT",
+            "Date": "2006 March 27"
+        }
+    ],
+    "References": [
+        "ATels #696",
+        "ATels #725",
+        "ATels #748",
+        "ATel #704",
+        "ATel #706",
+        "ATel #712",
+        "ATel #710",
+        "ATel #702",
+        "IAUC #7300",
+        "ATel #622",
+        "ATel #592",
+        "ATel #602"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2006 March 27",
+    "Telescope": "Chandra X-Ray Observatory",
+    "Instrument": "High-Resolution Camera (HRC-S)",
+    "Observatory": null
+}

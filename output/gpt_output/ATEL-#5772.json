@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0059.2-7138",
+            "RA": 14.80208,
+            "Dec": -71.64602,
+            "redshift": null,
+            "Type": "Be/X-ray binary and transient pulsar",
+            "Time": "16:00:15.367",
+            "Date": "2014-01-15"
+        }
+    ],
+    "References": [
+        "Goad et al. 2007, A&A, 476, 1401",
+        "Krimm et al., ATel #5756",
+        "Coe et al., ATel #5766",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Coe et. al, ATel #5766"
+    ],
+    "Event Type": "Observation",
+    "Time": "16:00:15.367",
+    "Date": "2014-01-15",
+    "Telescope": "Swift",
+    "Instrument": "BAT, PC mode",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PG 1553+113",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.4-0.5",
+            "Type": "TeV emitter",
+            "Time": null,
+            "Date": "April 19-20th 2012"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Danforth et al. 2010",
+        "J. Aleksic et al., 2012"
+    ],
+    "Event Type": "high emission state",
+    "Time": "night",
+    "Date": "April 19-20th 2012",
+    "Telescope": [
+        "MAGIC",
+        "KVA",
+        "Liverpool telescope",
+        "REM telescope"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

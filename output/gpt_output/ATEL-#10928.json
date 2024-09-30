@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J031444.34-471210.0",
+            "RA": "03h 14m 44.34s",
+            "Dec": "-47d 12m 10.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "03.21736",
+            "Date": "2017-11-03"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2016-08-31",
+            "Time": "39912",
+            "mlim": "20.7",
+            "Telescope": "MASTER-OAFA"
+        },
+        {
+            "Date": "2017-10-12",
+            "Time": "02:57:02",
+            "mlim": "19.6",
+            "Telescope": null
+        },
+        {
+            "Date": "2016-11-19",
+            "Time": "21:07:11",
+            "mlim": "20.8",
+            "Telescope": "MASTER-SAAO"
+        }
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": "03.21736 UT",
+    "Date": "2017-11-03",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": null
+}

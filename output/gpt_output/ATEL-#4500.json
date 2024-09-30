@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-NOVA-002",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "16:33 UT",
+            "Date": "October 18, 2012"
+        }
+    ],
+    "References": [
+        "ATels #4483",
+        "#4485",
+        "#4487"
+    ],
+    "Event Type": "Target-of-Opportunity observation",
+    "Time": "16:33 UT",
+    "Date": "October 18, 2012",
+    "Telescope": "Swift satellite",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

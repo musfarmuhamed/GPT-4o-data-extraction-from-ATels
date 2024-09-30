@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1709-267",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star, recurrent X-ray transient",
+            "Time": "07:18 - 19:05",
+            "Date": "2012 August 08"
+        },
+        {
+            "Name": "RX J1709.5-2639",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star, recurrent X-ray transient",
+            "Time": "07:18 - 19:05",
+            "Date": "2012 August 08"
+        },
+        {
+            "Name": "XTE J1739-285",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star, recurrent X-ray transient",
+            "Time": "07:18 - 19:05",
+            "Date": "2012 August 08"
+        }
+    ],
+    "References": [
+        "MAXI",
+        "ATEL #2729",
+        "ATel #1302",
+        "ATel #734"
+    ],
+    "Event Type": "outburst",
+    "Time": "07:18 - 19:05",
+    "Date": "2012 August 08",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "ISGRI",
+        "MAXI"
+    ],
+    "Observatory": "Galactic Center region"
+}

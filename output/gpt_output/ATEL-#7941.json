@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15os",
+            "RA": "20:54:08.04",
+            "Dec": "-55:16:28.91",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-08-22.12",
+            "Date": "2015-08-22"
+        },
+        {
+            "Name": "GALEXASC J205408.07-551628.8",
+            "RA": "20:54:08.07",
+            "Dec": "-55:16:28.8",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-08-22.12",
+    "Date": "2015-08-22",
+    "Telescope": "Cassius",
+    "Instrument": "CDK + FLI PL-9000",
+    "Observatory": [
+        "Cerro Tololo",
+        "Siding Springs Observatory"
+    ]
+}

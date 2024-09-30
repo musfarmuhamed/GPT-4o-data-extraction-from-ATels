@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray binary in NGC 7793",
+            "RA": "23:58:08.82",
+            "Dec": "-32:34:03.6",
+            "redshift": null,
+            "Type": "ultraluminous X-ray sources (ULXs)",
+            "Time": "04:40 UT - 15:22 UT",
+            "Date": "2014-12-04"
+        },
+        {
+            "Name": "XMMU J004243.6+412519",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultraluminous X-ray source (ULX)",
+            "Time": null,
+            "Date": "2012"
+        },
+        {
+            "Name": "P13",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultraluminous X-ray source (ULX)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Middleton et al. 2013, Nature, 493, 187",
+        "Motch et al. 2014, Nature, 514, 198"
+    ],
+    "Event Type": "Observation",
+    "Time": "04:40 UT - 15:22 UT",
+    "Date": "2014-12-04",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": null
+}

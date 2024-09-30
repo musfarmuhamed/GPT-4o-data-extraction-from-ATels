@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J22042153+3944349",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0156",
+            "Type": "Type Ia supernova",
+            "Time": "21.25",
+            "Date": "2013-10-21"
+        },
+        {
+            "Name": "UGC 11895",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0156",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectrum observation",
+    "Time": "21.25",
+    "Date": "2013-10-21",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

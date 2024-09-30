@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0513.4-6547",
+            "RA": "78.36688 deg",
+            "Dec": "-65.78888 deg",
+            "redshift": null,
+            "Type": "high-mass X-Ray binary",
+            "Time": "01:34:47",
+            "Date": "2009 April 11"
+        },
+        {
+            "Name": "2MASS 05132826-6547187",
+            "RA": "78.367757",
+            "Dec": "-65.788536",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift UVOT Source",
+            "RA": "78.36783",
+            "Dec": "-65.78843",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Liu, van Paradijs and van den Heuvel, A&A 442, 1135 (2005)",
+    "Event Type": "X-ray transient detection",
+    "Time": "01:34:47",
+    "Date": "2009 April 11",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "Hard X-ray transient monitor",
+    "Observatory": "Swift"
+}

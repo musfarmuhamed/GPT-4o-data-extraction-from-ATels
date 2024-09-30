@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J22370217+3424052",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002722",
+            "Type": "type-II SN",
+            "Time": "24.08",
+            "Date": "Apr. 24.08"
+        },
+        {
+            "Name": "2013XX",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002722",
+            "Type": "type-II SN",
+            "Time": "24.08",
+            "Date": "Apr. 24.08"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Haynes et al.",
+            "Journal": "AJ",
+            "Volume": 115,
+            "Page": 62,
+            "Year": 1998,
+            "Database": "NED"
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Journal": "A.Ap.",
+            "Volume": 488,
+            "Page": 383,
+            "Year": 2008,
+            "Tool": "GELATO"
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Journal": "Ap.J.",
+            "Volume": 666,
+            "Page": 1024,
+            "Year": 2007,
+            "Tool": "SNID"
+        }
+    ],
+    "Event Type": "spectral analysis",
+    "Time": "24.08",
+    "Date": "Apr. 24.08",
+    "Telescope": "1.22m Galileo telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "INAF-Osservatorio Astronomico di Padova"
+}

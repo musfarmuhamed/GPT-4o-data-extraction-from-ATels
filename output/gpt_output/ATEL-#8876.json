@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016bky",
+            "RA": "07:12:58.81",
+            "Dec": "+00:19:57.6",
+            "redshift": null,
+            "Type": "Probable SN in faint host",
+            "Time": null,
+            "Date": "57452.39"
+        },
+        {
+            "Name": "Gaia16ahp",
+            "RA": "07:12:58.81",
+            "Dec": "+00:19:57.6",
+            "redshift": null,
+            "Type": "Probable SN in faint host",
+            "Time": null,
+            "Date": "57452.39"
+        },
+        {
+            "Name": "AT2016aid",
+            "RA": "17:48:18.66",
+            "Dec": "+64:45:52.5",
+            "redshift": null,
+            "Type": "Most likely a CV",
+            "Time": null,
+            "Date": "57458.61"
+        },
+        {
+            "Name": "SDSS J174818.60+644552.4",
+            "RA": "17:48:18.60",
+            "Dec": "+64:45:52.4",
+            "redshift": null,
+            "Type": "Most likely a CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2016aja",
+            "RA": "07:34:20.84",
+            "Dec": "-34:21:54.3",
+            "redshift": null,
+            "Type": "Likely a CV candidate",
+            "Time": null,
+            "Date": "57465.30"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

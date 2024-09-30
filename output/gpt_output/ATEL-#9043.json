@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016ccs (AT2016ccs)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.062,
+            "Type": "Ia supernova",
+            "Time": "11.71",
+            "Date": "2016-05-11"
+        },
+        {
+            "Name": "SDSS J144519.89+035017.5",
+            "RA": "14:45:19.89",
+            "Dec": "+03:50:17.5",
+            "redshift": 0.062,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "11.71",
+    "Date": "2016-05-11",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

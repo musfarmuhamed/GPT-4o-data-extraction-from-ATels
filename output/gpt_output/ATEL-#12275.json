@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J063515.49-624002.9",
+            "RA": "06h 35m 15.49s",
+            "Dec": "-62d 40m 02.9s",
+            "redshift": null,
+            "Type": "No known CV",
+            "Time": "04:32:47 UT",
+            "Date": "2018-12-08"
+        },
+        {
+            "Name": "MASTER OT J231531.76-304848.3",
+            "RA": "23h 15m 31.76s",
+            "Dec": "-30d 48m 48.3s",
+            "redshift": null,
+            "Type": "13 mag Known Dwarf Nova in Flare",
+            "Time": null,
+            "Date": "2018-12-07"
+        },
+        {
+            "Name": "MASTER OT J065447.10-593010.8",
+            "RA": "06h 54m 47.10s",
+            "Dec": "-59d 30m 10.8s",
+            "redshift": null,
+            "Type": "Possible SN in PGC370",
+            "Time": null,
+            "Date": "2018-12-08"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 2010, Advances in Astronomy, vol. 2010, 30L",
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L"
+    ],
+    "Event Type": "possible long GRB181208.19",
+    "Time": "04:32:47 UT",
+    "Date": "2018-12-08",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "OAFA observatory of San Juan National University"
+}

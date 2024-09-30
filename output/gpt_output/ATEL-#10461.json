@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ekr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0199,
+            "Type": "Type Ia Supernova",
+            "Time": "03.8",
+            "Date": "2017-06-03"
+        },
+        {
+            "Name": "ATLAS17glh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0199,
+            "Type": "Type Ia Supernova",
+            "Time": "03.8",
+            "Date": "2017-06-03"
+        }
+    ],
+    "References": [
+        "Harutyunyan et al.,2008, A&A,488, 383",
+        "http://wis-tns.weizmann.ac.il/object/2017ekr/"
+    ],
+    "Event Type": "Spectral Observation",
+    "Time": "03.8",
+    "Date": "2017-06-03",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

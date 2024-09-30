@@ -1,0 +1,90 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13bor",
+            "RA": "03:25:49.08",
+            "Dec": "-19:18:10.5",
+            "redshift": "~0.11",
+            "Type": "SN Ia",
+            "Time": "~9d past max",
+            "Date": "2013-08-11"
+        },
+        {
+            "Name": "LSQ13btf",
+            "RA": "01:39:20.89",
+            "Dec": "-19:49:29.4",
+            "redshift": "~0.19",
+            "Type": "SN Ia",
+            "Time": "~2d pre max",
+            "Date": "2013-08-15"
+        },
+        {
+            "Name": "LSQ13bth",
+            "RA": "03:44:10.80",
+            "Dec": "-19:51:12.8",
+            "redshift": "~0.09",
+            "Type": "SN Ia",
+            "Time": "~7d past max",
+            "Date": "2013-08-15"
+        },
+        {
+            "Name": "LSQ13bwl",
+            "RA": "23:33:55.42",
+            "Dec": "+04:31:00.3",
+            "redshift": "~0.07",
+            "Type": "SN Ia",
+            "Time": "~11d past max",
+            "Date": "2013-08-20"
+        },
+        {
+            "Name": "LSQ13bxv",
+            "RA": "00:39:22.04",
+            "Dec": "-24:05:01.3",
+            "redshift": "~0.14",
+            "Type": "IIn",
+            "Time": "----",
+            "Date": "2013-08-21"
+        },
+        {
+            "Name": "LSQ13byc",
+            "RA": "04:08:43.69",
+            "Dec": "-21:38:08.9",
+            "redshift": "~0.04",
+            "Type": "SN Ibc",
+            "Time": "----",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "LSQ13byn",
+            "RA": "01:36:41.14",
+            "Dec": "-17:53:59.1",
+            "redshift": "~0.11",
+            "Type": "SN Ia",
+            "Time": "~7d pre max",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "OGLE-2013-SN-051",
+            "RA": "00:32:19.54",
+            "Dec": "-66:25:44.2",
+            "redshift": "~0.07",
+            "Type": "SN Ia",
+            "Time": "~7d past max",
+            "Date": "2013-08-16"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Yaron & Gal-Yam, 2012, PASP, 124, 668"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "----",
+    "Date": "2013-08-27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

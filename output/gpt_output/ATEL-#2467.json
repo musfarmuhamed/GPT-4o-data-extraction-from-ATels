@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": "06:33:25",
+            "Date": "3 March 2010"
+        }
+    ],
+    "References": [
+        "ATel #2461",
+        "ATel #2462",
+        "ATel #2464",
+        "Tarana et al., 2008, ApJ, 688, 1295",
+        "Penninx et al., 1989, A&A 208, 146",
+        "Guver et al. 2010, arXiv:0811.3979"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "06:33:25",
+    "Date": "3 March 2010",
+    "Telescope": "SuperAGILE, MAXI, INTEGRAL, Swift, RXTE",
+    "Instrument": "RXTE/ASM, RXTE/PCA",
+    "Observatory": null
+}

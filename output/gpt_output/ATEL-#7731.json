@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg/GS 2023+338",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray binary",
+            "Time": "14:16 to 17:37",
+            "Date": "2015-06-28 to 2015-06-29"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray binary",
+            "Time": "12:00 to 21:30",
+            "Date": "2015-06-26"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray binary",
+            "Time": "21:30 to 04:48",
+            "Date": "2015-06-26 to 2015-06-27"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray binary",
+            "Time": null,
+            "Date": "2015-06-27"
+        }
+    ],
+    "References": [
+        "Atel #7695",
+        "Atel #7702",
+        "Atel #7662",
+        "Atel #7729"
+    ],
+    "Event Type": "outburst monitoring",
+    "Time": "14:16 to 17:37",
+    "Date": "2015-06-28 to 2015-06-29",
+    "Telescope": null,
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

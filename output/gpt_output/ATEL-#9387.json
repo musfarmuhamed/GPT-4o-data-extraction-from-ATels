@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary (NS-LMXB)",
+            "Time": "17:20-21:01",
+            "Date": "August 17, 2016"
+        },
+        {
+            "Name": "KS 1741-293",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary (NS-LMXB)",
+            "Time": "19:45:30",
+            "Date": "August 17, 2016"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "Kuulkers et al. 2007, A&A, 466, 595",
+        "http://integral.esac.esa.int/BULGE",
+        "ATel #9115",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1747-288#lc",
+        "http://www.isdc.unige.ch/integral/archive#DataRelease"
+    ],
+    "Event Type": "Observation",
+    "Time": "17:20-21:01",
+    "Date": "August 17, 2016",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X cameras",
+        "IBIS/ISGRI camera"
+    ],
+    "Observatory": "INTEGRAL Galactic Bulge Monitoring Program"
+}

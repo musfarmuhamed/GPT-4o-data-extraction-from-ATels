@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16do",
+            "RA": "06:34:12.76",
+            "Dec": "-32:59:49.71",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "11:32:27",
+            "Date": "2016-04-23"
+        }
+    ],
+    "References": [
+        {
+            "ATEL": "#8888"
+        },
+        {
+            "ATEL": "#8969"
+        },
+        {
+            "Casares": "2016"
+        }
+    ],
+    "Event Type": null,
+    "Time": "11:32:27",
+    "Date": "2016-04-23",
+    "Telescope": "SWIFT",
+    "Instrument": null,
+    "Observatory": "SOAR"
+}

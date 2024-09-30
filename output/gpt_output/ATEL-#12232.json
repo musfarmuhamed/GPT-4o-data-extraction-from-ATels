@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J030504.43+433641.2",
+            "RA": "03h 05m 04.43s",
+            "Dec": "+43d 36m 41.2s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": null,
+            "Date": "2018-11-20.54828 UT"
+        }
+    ],
+    "References": [
+        {
+            "Image Date": "2014-10-01.54326 UT",
+            "Magnitude Limit": "19.0m",
+            "Source": "MASTER-Amur"
+        },
+        {
+            "Image Date": "2018-10-18 23:13:57",
+            "Magnitude Limit": "19.8m",
+            "Source": "MASTER-Kislovodsk"
+        },
+        {
+            "Image Date": "2018-09-22 17:48:45UT",
+            "Magnitude Limit": "18.7",
+            "Source": "MASTER-Tunka"
+        }
+    ],
+    "Event Type": "OT source detection",
+    "Time": "2018-11-19 15:54:32.201",
+    "Date": "2018-11-19",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": null
+}

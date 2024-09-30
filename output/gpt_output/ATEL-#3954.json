@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER105345.09+541805.1",
+            "RA": "10h 53m 45.09s",
+            "Dec": "+54d 18m 05.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-02-26.68862 UT",
+            "Date": "2012-02-26"
+        },
+        {
+            "Name": "J105345.04+541804.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SDSS galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J105345.04+541804.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SDSS galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER152537.90-075640.7",
+            "RA": "15h 25m 37.90s",
+            "Dec": "-07d 56m 40.7s",
+            "redshift": null,
+            "Type": "UGem type",
+            "Time": "2012-02-28.10059 UT",
+            "Date": "2012-02-28"
+        },
+        {
+            "Name": "CSS 100706:152538-075641",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AAVSO International Variable Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER162410.89+245810.8",
+            "RA": "16h 24m 10.89s",
+            "Dec": "+24d 58m 10.8s",
+            "redshift": null,
+            "Type": "M8 star flare",
+            "Time": "2012-02-24.87938 UT",
+            "Date": "2012-02-24"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/105345.09541805.1_2.png, http://master.sai.msu.ru/static/OT/152537.91-075640.7_1.png, http://master.sai.msu.ru/static/OT/162410.89245810.8.png",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

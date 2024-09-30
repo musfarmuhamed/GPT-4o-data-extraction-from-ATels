@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12gxj",
+            "RA": "02 52 58",
+            "Dec": "+01 36 24",
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20121205"
+        },
+        {
+            "Name": "LSQ12gzm",
+            "RA": "02 40 44",
+            "Dec": "-34 44 26",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20121205"
+        },
+        {
+            "Name": "LSQ12gpw",
+            "RA": "03 12 58",
+            "Dec": "-11 42 40",
+            "redshift": 0.058,
+            "Type": "Ia-pec",
+            "Time": null,
+            "Date": "20121205"
+        },
+        {
+            "Name": "LSQ12hcm",
+            "RA": "03 42 08",
+            "Dec": "+04 13 54",
+            "redshift": 0.028,
+            "Type": "II?",
+            "Time": null,
+            "Date": "20121205"
+        },
+        {
+            "Name": "LSQ12gxh",
+            "RA": "10 10 08",
+            "Dec": "-07 00 13",
+            "redshift": 0.054,
+            "Type": "II",
+            "Time": null,
+            "Date": "20121205"
+        },
+        {
+            "Name": "LSQ12hbo",
+            "RA": "10 56 16",
+            "Dec": "-20 51 32",
+            "redshift": 0.013,
+            "Type": "IIb",
+            "Time": null,
+            "Date": "20121205"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Hadjiyska et al., ATel #3812",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20121205",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13, Grisms 11 and 16",
+    "Observatory": "La Silla"
+}

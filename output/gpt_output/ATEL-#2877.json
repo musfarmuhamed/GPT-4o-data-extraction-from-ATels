@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": "16 59 1.56",
+            "Dec": "-15 15 30.5",
+            "redshift": null,
+            "Type": "Galactic Transient",
+            "Time": "08:05UT",
+            "Date": "September 25th, 2010"
+        }
+    ],
+    "References": [
+        "Negoro et al, 2010, ATEL #2873",
+        "Mangano et al., 2010, GCN #11296",
+        "Marshal 2010, GCN #11298",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "Detection and Monitoring",
+    "Time": "08:05UT",
+    "Date": "September 25th, 2010",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

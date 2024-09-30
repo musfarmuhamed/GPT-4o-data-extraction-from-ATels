@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425773+4108123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2015-10c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": null,
+            "Date": "2015-10"
+        },
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "1963-09"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2008-12"
+        }
+    ],
+    "References": [
+        "Lick Observatory Supernova Search (CBAT TOCP)",
+        "Hornoch et al. (ATel #8233)",
+        "Shafter et al. (2015)",
+        "Pietsch et al. catalogue",
+        "Darnley et al. (2015)",
+        "Henze et al. (2015a, 2015b)"
+    ],
+    "Event Type": "nova eruption",
+    "Time": null,
+    "Date": "2015",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

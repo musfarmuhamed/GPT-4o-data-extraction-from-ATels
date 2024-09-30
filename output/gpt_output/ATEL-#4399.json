@@ -1,0 +1,86 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC Be/X-ray pulsar SXP1062",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Be/X-ray pulsar",
+            "Time": "Null",
+            "Date": "2012"
+        },
+        {
+            "Name": "Be star 2dFS 3831",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Be star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "young supernova remnant NGC 602",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "supernova remnant",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SXP756",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray pulsar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Henault-Brunet et al.",
+            "Year": "2012",
+            "Journal": "MNRAS",
+            "Volume": "420",
+            "Page": "L13"
+        },
+        {
+            "Authors": "Haberl et al.",
+            "Year": "2012",
+            "Journal": "A&A",
+            "Volume": "537",
+            "Page": "L1"
+        },
+        {
+            "Authors": "Udalski",
+            "Year": "2008",
+            "Journal": "Acta Astron.",
+            "Volume": "58",
+            "Page": "187"
+        },
+        {
+            "Authors": "Cowley & Schmidtke",
+            "Year": "2003",
+            "Journal": "AJ",
+            "Volume": "126",
+            "Page": "2949"
+        },
+        {
+            "Authors": "Corbet et al.",
+            "Year": "2009",
+            "Journal": "Proc. IAU Symp.",
+            "Volume": "256",
+            "Page": "361"
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "Null",
+    "Date": [
+        "JD 2455414 to 2455494 (season 1)",
+        "JD 2455699 to 2455993 (season 2)"
+    ],
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

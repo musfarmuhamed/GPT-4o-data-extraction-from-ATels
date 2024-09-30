@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12cni",
+            "RA": "10:26:32.22",
+            "Dec": "+05:35:08.0",
+            "redshift": "0.045",
+            "Type": "Type IIP Supernova",
+            "Time": "Unknown",
+            "Date": "09 Dec 2012"
+        },
+        {
+            "Name": "PS1-12cno",
+            "RA": "09:07:05.21",
+            "Dec": "+11:50:31.9",
+            "redshift": "Unknown",
+            "Type": "QSO",
+            "Time": "Unknown",
+            "Date": "15 Dec 2012"
+        },
+        {
+            "Name": "PS1-12cnk",
+            "RA": "10:36:24.79",
+            "Dec": "+11:21:49.7",
+            "redshift": "0.72",
+            "Type": "QSO",
+            "Time": "Unknown",
+            "Date": "09 Dec 2012"
+        },
+        {
+            "Name": "PS1-12cnd",
+            "RA": "04:39:24.12",
+            "Dec": "-05:32:05.2",
+            "redshift": "Unknown",
+            "Type": "Stellar Variable",
+            "Time": "Unknown",
+            "Date": "01 Dec 2012"
+        }
+    ],
+    "References": [
+        "Valenti et al. (ATels #2668, #3351)",
+        "Tonry et al. 2012, ApJ, 745, 42",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "ATel #4595",
+        "http://ps1sc.org/PS1_System_ATel.shtml"
+    ],
+    "Event Type": "Discovery and spectroscopic confirmation",
+    "Time": "Unknown",
+    "Date": "Unknown",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": "WHT"
+}

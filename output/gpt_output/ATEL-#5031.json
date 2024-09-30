@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": "18h24m32.51s",
+            "Dec": "-24\u00b0 52' 07.9\"",
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "source 23",
+            "RA": "18h24m32.50s",
+            "Dec": "-24\u00b0 52' 07.9\"",
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "18h24m32.51s",
+            "Dec": "-24\u00b0 52' 08.0\"",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": {
+                "2009": {
+                    "F390W": "20.37\u00b10.06",
+                    "F606W": "19.51\u00b10.04",
+                    "F656N": "17.26\u00b10.04"
+                },
+                "2010": {
+                    "F435W": "22.60\u00b10.06",
+                    "F625W": "21.00\u00b10.11",
+                    "F656N": "20.75\u00b10.08"
+                }
+            }
+        }
+    ],
+    "References": [
+        "ATel #4925",
+        "ATel #4927",
+        "ATel #4929",
+        "ATel #4934",
+        "ATel #4959",
+        "ATel #4960",
+        "ATel #4961",
+        "ATel #4964",
+        "ATel #4981",
+        "ATel #5003",
+        "Migliari & Fender 2006, MNRAS, 366, 79",
+        "Becker, et al. (2003, ApJ, 594, 798)"
+    ],
+    "Event Type": "Observation of transient source and its possible optical counterparts",
+    "Time": null,
+    "Date": {
+        "HST WFC3 Imaging": "2009 Aug 08",
+        "ACS/WFC Imaging": "2010 Apr 26"
+    },
+    "Telescope": "HST",
+    "Instrument": [
+        "WFC3",
+        "ACS/WFC"
+    ],
+    "Observatory": "ATCA"
+}

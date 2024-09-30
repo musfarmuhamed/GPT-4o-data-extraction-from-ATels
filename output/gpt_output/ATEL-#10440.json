@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J160656.39+154046.2",
+            "RA": "16h 06m 56.39s",
+            "Dec": "+15d 40m 46.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "29.98135 UT",
+            "Date": "2017-05-29"
+        },
+        {
+            "Name": "MASTER OT J110810.48-713330.6",
+            "RA": "11h 08m 10.48s",
+            "Dec": "-71d 33m 30.6s",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "22.04545 UT",
+            "Date": "2017-05-22"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery - PSN, detection - possible CV",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC, MASTER-OAFA",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "04:52:46",
+            "Date": "2012 July 24"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Krimm et al.",
+            "Year": 2007,
+            "Title": "Atel #1265"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": 2009,
+            "Title": "ApJ, 690, 120"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": 2009,
+            "Title": "MNRAS, 397, 1528"
+        },
+        {
+            "Authors": "Krimm et al.",
+            "Year": 2009,
+            "Title": "Atel #1971"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": 2011,
+            "Title": "MNRAS, 410, 1825"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": 2011,
+            "Title": "MNRAS, 412, L30"
+        },
+        {
+            "Authors": "Farinelli et al.",
+            "Year": 2012,
+            "Title": "MNRAS, in press, arXiv:1205.7059"
+        },
+        {
+            "Authors": "Romano et. al",
+            "Year": 2012,
+            "Title": "ATel #4040"
+        },
+        {
+            "Authors": "Krimm et al.",
+            "Year": 2006,
+            "Title": "ATel #904"
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "04:52:46",
+    "Date": "2012 July 24",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": null
+}

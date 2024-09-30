@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17dhi",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-12-20"
+        },
+        {
+            "Name": "ASASSN-17qu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-12-20"
+        },
+        {
+            "Name": "ASASSN-17qv",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-12-20"
+        },
+        {
+            "Name": "ASASSN-17qw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-12-20"
+        },
+        {
+            "Name": "ASASSN-17qy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-12-19"
+        },
+        {
+            "Name": "ASASSN-17qt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-12-17"
+        },
+        {
+            "Name": "ASASSN-17qx",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-12-19"
+        },
+        {
+            "Name": "ATLAS17nhc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-12-19"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "ATel #11074"
+    ],
+    "Event Type": "Optical spectroscopy",
+    "Time": null,
+    "Date": "2016-12-17 to 2016-12-20",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

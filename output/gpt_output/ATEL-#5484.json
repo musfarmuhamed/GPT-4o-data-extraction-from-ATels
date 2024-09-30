@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "0530-0830 UT",
+            "Date": "2013-10-18"
+        },
+        {
+            "Name": "NVSS J182835-250142",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "background source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATels #5474, #5476, #5478, #5479, #5483",
+    "Event Type": "observation",
+    "Time": "0530-0830 UT",
+    "Date": "2013-10-18",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": "Compact Array Broadband Backend",
+    "Observatory": "ATNF (Australia Telescope National Facility)"
+}

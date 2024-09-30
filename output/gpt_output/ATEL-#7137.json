@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "23:39:01",
+            "Date": "2015-Feb-21"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "01:06:21",
+            "Date": "2015-Feb-22"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "01:25:17",
+            "Date": "2015-Feb-22"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "07:35:17",
+            "Date": "2015-Feb-22"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "07:51:33",
+            "Date": "2015-Feb-22"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB/SFXT",
+            "Time": "13:43:25",
+            "Date": "2015-Feb-22"
+        }
+    ],
+    "References": [
+        "Romano et al, 2014, A&A, 562, A2",
+        "Romano et al. 2015, A&AL, in press, arXiv:1502.04717",
+        "See ATel #6566 for a list of previous outbursts"
+    ],
+    "Event Type": "flaring activity",
+    "Time": "17:11:55 to 17:28:25",
+    "Date": "2015-02-24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift"
+}

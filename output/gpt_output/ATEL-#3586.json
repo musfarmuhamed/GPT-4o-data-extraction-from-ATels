@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": "130.19931",
+            "Dec": "-45.05863",
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "00:53:04",
+            "Date": "2011-08-25"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Evans et al.",
+            "Year": 2009,
+            "Source": "MNRAS, 397, 1177"
+        },
+        {
+            "Authors": "Masetti et al.",
+            "Year": 2006,
+            "Source": "Atel #815"
+        },
+        {
+            "Authors": "Gotz et al.",
+            "Year": 2007,
+            "Source": "ApJ, 655, L101"
+        },
+        {
+            "Authors": "Romano et al.",
+            "Year": 2009,
+            "Source": "MNRAS, 392, 45"
+        },
+        {
+            "Authors": "Sidoli et al.",
+            "Year": 2009,
+            "Source": "MNRAS, 397, 1528"
+        },
+        {
+            "Authors": "ATel #2178",
+            "Year": 2009,
+            "Source": null
+        },
+        {
+            "Authors": "Atel #2520",
+            "Year": 2010,
+            "Source": null
+        },
+        {
+            "Authors": "ATel #904",
+            "Year": 2006,
+            "Source": null
+        },
+        {
+            "Authors": "Kalberla et al.",
+            "Year": 2005,
+            "Source": null
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "00:53:04",
+    "Date": "2011-08-25",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

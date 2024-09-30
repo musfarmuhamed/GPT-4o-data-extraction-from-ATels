@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-01e",
+            "RA": "J00441072+4154221",
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "2.83 UT",
+            "Date": "2017 February 2"
+        }
+    ],
+    "References": [
+        {
+            "Name": "CBAT TOCP",
+            "DOI": null
+        },
+        {
+            "Name": "Steele et al. 2004",
+            "DOI": null
+        },
+        {
+            "Name": "Piascik et al. 2014",
+            "DOI": null
+        },
+        {
+            "Name": "Diaz et al. 2010",
+            "DOI": null
+        },
+        {
+            "Name": "ATel #8586 #8616",
+            "DOI": null
+        }
+    ],
+    "Event Type": "spectrum observation",
+    "Time": "2.83 UT",
+    "Date": "2017 February 2",
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

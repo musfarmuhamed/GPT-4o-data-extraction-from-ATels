@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11moy",
+            "RA": "17 06 18.06",
+            "Dec": "+38 32 19.9",
+            "redshift": 0.06,
+            "Type": "SN Ia",
+            "Time": "Sep 20.20",
+            "Date": null
+        },
+        {
+            "Name": "PTF11muc",
+            "RA": "02 01 51.87",
+            "Dec": "-05 13 55.9",
+            "redshift": 0.102,
+            "Type": "SN Ia",
+            "Time": "Sep 24.48",
+            "Date": null
+        },
+        {
+            "Name": "PTF11mvg",
+            "RA": "21 56 24.78",
+            "Dec": "+11 16 19.7",
+            "redshift": 0.12,
+            "Type": "SN Ia",
+            "Time": "Sep 26.38",
+            "Date": null
+        },
+        {
+            "Name": "PTF11nga",
+            "RA": "21 30 05.72",
+            "Dec": "+03 30 54.4",
+            "redshift": 0.09,
+            "Type": "SN Ia",
+            "Time": "Sep 25.30",
+            "Date": null
+        },
+        {
+            "Name": "PTF11nvm",
+            "RA": "00 49 11.79",
+            "Dec": "+38 47 58.7",
+            "redshift": 0.156,
+            "Type": "SN Ia",
+            "Time": "Sep 30.34",
+            "Date": null
+        },
+        {
+            "Name": "PTF11ogy",
+            "RA": "22 48 17.73",
+            "Dec": "+18 09 22.7",
+            "redshift": 0.1,
+            "Type": "SN Ia",
+            "Time": "Oct 03.33",
+            "Date": null
+        },
+        {
+            "Name": "PTF11okh",
+            "RA": "23 06 02.81",
+            "Dec": "+34 06 36.1",
+            "redshift": 0.019,
+            "Type": "SN Ia",
+            "Time": "Oct 08.35",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253"
+    ],
+    "Event Type": "Discovery of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Keck2, UH88, APO",
+    "Instrument": "DEIMOS, SNIFS, DIS",
+    "Observatory": "Caltech, LCOGT, Weizmann Institute, LBNL, Oxford, Columbia, IPAC, Berkeley"
+}

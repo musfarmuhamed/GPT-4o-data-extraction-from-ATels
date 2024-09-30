@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J011030.95-593639.4",
+            "RA": "01h 10m 30.95s",
+            "Dec": "-59d 36m 39.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-07-13.94845 UT",
+            "Date": "2015-07-13"
+        },
+        {
+            "Name": "MASTER OT J175256.71+120840.1",
+            "RA": "17h 52m 56.71s",
+            "Dec": "+12d 08m 40s.1",
+            "redshift": null,
+            "Type": "UVCet-type flare",
+            "Time": "2015-07-12.958 UT",
+            "Date": "2015-07-12"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "MASTER-SAAO (for first object), MASTER-IAC (for second object)",
+    "Observatory": "MASTER Global Robotic Net"
+}

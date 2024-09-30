@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13dn",
+            "RA": "12:52:58.2",
+            "Dec": "+32:25:09.3",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "15.60",
+            "Date": "2013-12-15"
+        },
+        {
+            "Name": "SDSS J125258.03+322444.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022805",
+            "Type": "star forming galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SDSS J125258.03+322444.3",
+    "Event Type": "discovery",
+    "Time": "15.60",
+    "Date": "2013-12-15",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817/GRB170817A/SSS17a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NS-NS coalescence",
+            "Time": "109.2 days post-burst",
+            "Date": "2017 December 2.08 to 2017 December 6.45"
+        },
+        {
+            "Name": "CXOU J130948",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU 130946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 4993",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Haggard et al. 2017; Margutti et al. 2017; Troja et al. GCN 22201 and Margutti et al. GCN 22203/ATel #11037",
+    "Event Type": "X-ray observation",
+    "Time": "109.2 days post-burst",
+    "Date": "2017 December 2.08 to 2017 December 6.45",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": "Chandra"
+}

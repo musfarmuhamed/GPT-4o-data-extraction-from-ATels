@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray binary",
+            "Time": [
+                "21:40",
+                "02:20",
+                "11:25",
+                "01:44"
+            ],
+            "Date": [
+                "2011-02-23",
+                "2011-02-25",
+                "2011-02-27",
+                "2011-02-28"
+            ]
+        }
+    ],
+    "References": "ATels #3166, #3173, and #3176",
+    "Event Type": "giant outburst",
+    "Time": [
+        "21:40",
+        "02:20",
+        "11:25",
+        "01:44"
+    ],
+    "Date": [
+        "2011-02-23",
+        "2011-02-25",
+        "2011-02-27",
+        "2011-02-28"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X, IBIS/ISGRI, SPI",
+    "Observatory": null
+}

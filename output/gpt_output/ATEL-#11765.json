@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cmi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "20.13 UT",
+            "Date": "2018 June 20"
+        },
+        {
+            "Name": "AT2018bto/PNV J00434212+4122349/Gaia18bkp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "21.19 UT",
+            "Date": "2018 June 21"
+        }
+    ],
+    "References": [
+        "TNS",
+        "ATel #11656"
+    ],
+    "Event Type": "classical nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

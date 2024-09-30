@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235247.28+512650.4",
+            "RA": "23h 52m 47.28s",
+            "Dec": "+51d 26m 50.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-04-01.80236 UT",
+            "Date": "2014-04-01"
+        },
+        {
+            "Name": "USNO-A2.0 1350-18792526",
+            "RA": "23 52 47.40",
+            "Dec": "+51 26 51.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1414-0509927",
+            "RA": "23 52 47.314",
+            "Dec": "+51 26 50.99",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J235247.3+512651",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J235247+512650-BRIR.jpg, http://master.sai.msu.ru/static/OT/235247.28512650.4.png",
+    "Event Type": "new bright CV discovery",
+    "Time": "2014-04-01.80236 UT",
+    "Date": "2014-04-01",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

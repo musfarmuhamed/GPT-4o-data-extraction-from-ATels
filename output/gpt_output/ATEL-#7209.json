@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSNJ07361576-6930230",
+            "RA": "07 36 15.76",
+            "Dec": "-69 30 23.0",
+            "redshift": 0.004,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015-03-09"
+        },
+        {
+            "Name": "PS15br",
+            "RA": "11 25 19.23",
+            "Dec": "08 14 18.5",
+            "redshift": 0.101,
+            "Type": "SLSN",
+            "Time": null,
+            "Date": "2015-02-16"
+        },
+        {
+            "Name": "ASASSN-15ek",
+            "RA": "13 17 06.34",
+            "Dec": "-37 37 37.4",
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2015-03-09"
+        },
+        {
+            "Name": "MASTERJ135329.90-421622.5",
+            "RA": "13 53 29.89",
+            "Dec": "-42 16 22.5",
+            "redshift": 0.052,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "PSNJ20580766-5147074",
+            "RA": "20 58 07.66",
+            "Dec": "-51 47 07.4",
+            "redshift": 0.02,
+            "Type": "Ib",
+            "Time": null,
+            "Date": "2015-02-22"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al. 2005, Ap.J. 634, 1190"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "All",
+    "Date": "2015-03-10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

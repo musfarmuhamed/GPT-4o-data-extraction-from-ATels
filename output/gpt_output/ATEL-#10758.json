@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ghu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018",
+            "Type": "Ia",
+            "Time": "16:26",
+            "Date": "2017-09-16"
+        },
+        {
+            "Name": "SN 2017grn",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018",
+            "Type": "II",
+            "Time": "16:17",
+            "Date": "2017-09-16"
+        },
+        {
+            "Name": "J192441.01+620639.4",
+            "RA": "19:24:41.01",
+            "Dec": "+62:06:39.4",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": "16:16",
+            "Date": "2017-09-16"
+        }
+    ],
+    "References": "ATel #10730, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectroscopic observations",
+    "Time": "16:00",
+    "Date": "2017-09-16",
+    "Telescope": "Hale Telescope",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

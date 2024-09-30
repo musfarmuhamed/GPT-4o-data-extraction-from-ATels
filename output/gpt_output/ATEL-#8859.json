@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bkv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002",
+            "Type": "Type IIn",
+            "Time": "23.5",
+            "Date": "2016 March 23"
+        },
+        {
+            "Name": "SN 1998S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Howell et al. 2005, ApJ, 634, 119; Mathewson & Ford 1996, ApJS, 107, 97, via NED",
+    "Event Type": "spectrum obtained",
+    "Time": "23.5",
+    "Date": "2016 March 23",
+    "Telescope": "LCOGT 2-meter",
+    "Instrument": "FLOYDS",
+    "Observatory": "Haleakala, Hawai'i"
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14536-5522",
+            "RA": "14 53 37.5",
+            "Dec": "-55 22 22.7",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2004-07-24 to 2005-03-03"
+        },
+        {
+            "Name": "IGR J14515-5542",
+            "RA": "14 51 32.9",
+            "Dec": "-55 42 16.3",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2004-07-24 to 2005-03-03"
+        },
+        {
+            "Name": "IGR J14493-5534",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2004-07-24 to 2005-03-03"
+        },
+        {
+            "Name": "IGR J10101-5654",
+            "RA": "10 10 07.8",
+            "Dec": "-56 54 46.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2004-05-09 to 2004-06-14"
+        },
+        {
+            "Name": "IGR J10109-5746",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "2004-05-09 to 2004-06-14"
+        },
+        {
+            "Name": "SWIFT J0917.2-6221",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sy 1 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Revnivtsev et al. 2005; astro-ph/0508155",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2004 to 2005",
+    "Telescope": "Magellan Baade Telescope",
+    "Instrument": "IBIS ISGRI",
+    "Observatory": "Las Campanas Observatory"
+}

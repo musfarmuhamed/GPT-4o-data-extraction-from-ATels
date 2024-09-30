@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS130415:121905+422454",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.076,
+            "Type": "type-Ia supernova",
+            "Time": "18.86 UT",
+            "Date": "Apr. 18"
+        },
+        {
+            "Name": "CSS130415:130408+435408",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.06,
+            "Type": "type-Ia supernova",
+            "Time": "18.93 UT",
+            "Date": "Apr. 18"
+        },
+        {
+            "Name": "PSN J17172203+4104002",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027612,
+            "Type": "type-Ia supernova",
+            "Time": "19.04 UT",
+            "Date": "Apr. 19"
+        },
+        {
+            "Name": "PSN J14211513+6134159",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036446,
+            "Type": "type-Ia supernova",
+            "Time": "19.08 UT",
+            "Date": "Apr. 19"
+        }
+    ],
+    "References": [
+        "Marzke et al. 1996, AJ 112, 1803 via NED",
+        "SDSS Data Release 2, 2004, via NED",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Confirmation",
+    "Time": "Apr. 18-19",
+    "Date": "Apr. 18-19",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

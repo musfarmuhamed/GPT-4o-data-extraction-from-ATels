@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M15 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultracompact X-ray binary",
+            "Time": "16:35 - 17:00",
+            "Date": "2011 May 30"
+        },
+        {
+            "Name": "AC 211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accretion disc corona X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3356",
+        "ATel #3363",
+        "ATel #3378",
+        "Dieball et al. 2005, ApJ, 634, L105",
+        "Simon 2005, A&A 436, 263",
+        "Maccarone et al. 2010, MNRAS, 406, 2087",
+        "Ioannou et al. 2003 A&A 399, 211"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "16:35 - 17:00",
+    "Date": "2011 May 30",
+    "Telescope": "Chandra X-ray Observatory, EVLA",
+    "Instrument": "HRC-I",
+    "Observatory": "Chandra X-ray Observatory"
+}

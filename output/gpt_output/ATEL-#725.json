@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-462",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 5-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star Z source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cygnus X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Z source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "#696, #703, #708, #710, Jonker et al. 2002, MNRAS, 333, 665, ATel #703",
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": "Since January 19",
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "Proportional Counter Array (PCA)",
+    "Observatory": "RXTE"
+}

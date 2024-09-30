@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017yi",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": "Type Ia Supernova",
+            "Time": "00:01:55",
+            "Date": "2017-02-01"
+        },
+        {
+            "Name": "2MASX J02592769+1447417",
+            "RA": "02:59:27.69",
+            "Dec": "+14:47:41.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Observation",
+    "Time": "00:01:55",
+    "Date": "2017-02-01",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

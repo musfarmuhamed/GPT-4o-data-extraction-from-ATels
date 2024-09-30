@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17lj",
+            "RA": "20:03:44.89",
+            "Dec": "-27:59:19.1",
+            "redshift": "0.023",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20170830"
+        },
+        {
+            "Name": "OGLE17ojj",
+            "RA": "00:40:04.69",
+            "Dec": "-64:37:37.0",
+            "redshift": "0.068",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20170830"
+        },
+        {
+            "Name": "AT2017ghm",
+            "RA": "08:11:46.19",
+            "Dec": "+00:51:28.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20170830"
+        },
+        {
+            "Name": "OGLE17nfr",
+            "RA": "02:01:26.89",
+            "Dec": "-65:41:48.1",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20170830"
+        }
+    ],
+    "References": [
+        {
+            "cite": "Smartt et al.",
+            "year": "2015",
+            "journal": "A&A",
+            "volume": "579",
+            "page": "40",
+            "url": "http://www.pessto.org"
+        },
+        {
+            "cite": "Shappee et al.",
+            "year": "2014",
+            "journal": "ApJ",
+            "volume": "788",
+            "page": "48",
+            "url": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "cite": "Wyrzykowski et al.",
+            "year": "2014",
+            "url": "http://ogle.astrouw.edu.pl/"
+        },
+        {
+            "cite": "Blondin & Tonry",
+            "year": "2007",
+            "journal": "ApJ",
+            "volume": "666",
+            "page": "1024"
+        },
+        {
+            "url": "https://github.com/daniel-muthukrishna/DASH"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20170830",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

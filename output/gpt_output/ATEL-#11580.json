@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GAIA 18ayp",
+            "RA": "23 36 34.1",
+            "Dec": "-41 15 21.4",
+            "redshift": "1.41",
+            "Type": "QSO",
+            "Time": "1.4 ks",
+            "Date": "2018 April 23"
+        },
+        {
+            "Name": "PKS 2333-415",
+            "RA": "23 36 34.1",
+            "Dec": "-41 15 21.4",
+            "redshift": "1.41",
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Goad et al. 2007, Evans et al. 2009, Acero et al. 2015, ApJS, 218, 23",
+    "Event Type": "optically flaring state",
+    "Time": "1.4 ks",
+    "Date": "2018 April 23",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

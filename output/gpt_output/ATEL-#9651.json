@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016hff",
+            "RA": "19:25:51.18",
+            "Dec": "-31:21:16.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "57667.26",
+            "Date": "20161006.26"
+        },
+        {
+            "Name": "AT2016hfh",
+            "RA": "19:21:21.14",
+            "Dec": "+47:14:27.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "57668.27",
+            "Date": "20161007.27"
+        },
+        {
+            "Name": "AT2016hfc",
+            "RA": "00:20:11.44",
+            "Dec": "+47:28:56.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "57668.39",
+            "Date": "20161007.39"
+        },
+        {
+            "Name": "AT2016gzs",
+            "RA": "07:52:43.19",
+            "Dec": "+58:41:38.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "57668.58",
+            "Date": "20161007.58"
+        },
+        {
+            "Name": "AT2016hgd",
+            "RA": "09:59:07.46",
+            "Dec": "+50:59:05.6",
+            "redshift": "0.025544",
+            "Type": null,
+            "Time": "57674.63",
+            "Date": "20161013.63"
+        },
+        {
+            "Name": "AT2016hfe",
+            "RA": "20:06:45.56",
+            "Dec": "-31:00:44.2",
+            "redshift": "0.039661",
+            "Type": null,
+            "Time": "57675.24",
+            "Date": "20161014.24"
+        },
+        {
+            "Name": "AT2016hgb",
+            "RA": "00:43:36.60",
+            "Dec": "+41:56:32.1",
+            "redshift": null,
+            "Type": "probable M31 nova",
+            "Time": "57677.52",
+            "Date": "20161016.52"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "16.51+/-0.16, B=16.60+/-0.09, V=15.12+/-0.09, UVW1=18.12+/-0.24, UVW2=19.15+/-0.28",
+            "Date": "2005-04-10"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "17.38+/-0.18, B=17.47+/-0.11, V=15.86+/-0.10, UVW1=18.90+/-0.27, UVW2=20.18+/-0.33",
+            "Date": "2005-05-14"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18.08+/-0.18, B=17.91+/-0.10, V=16.32+/-0.10, UVW1=19.52+/-0.28, UVW2=20.27+/-0.32",
+            "Date": "2005-05-16"
+        }
+    ],
+    "References": [
+        "ATEL #485",
+        "ATEL #486",
+        "ATEL #487"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2005",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, XRT",
+    "Observatory": null
+}

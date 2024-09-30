@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J13544700-5909080",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "20:37-20:56",
+            "Date": "2013-12-03"
+        },
+        {
+            "Name": "Nova Cen 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2013-12-03"
+        },
+        {
+            "Name": "3XMM J135445.1-590904",
+            "RA": "13h 54m 45.5s",
+            "Dec": "-59d 09' 04\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "16:57-21:08",
+            "Date": "2002-02-20"
+        }
+    ],
+    "References": [
+        "CBET #3732",
+        "ATel #5621",
+        "vsnet-alert 16675"
+    ],
+    "Event Type": "Discovery and observation of a nova",
+    "Time": "20:37-20:56",
+    "Date": "2013-12-03",
+    "Telescope": "Swift, XMM-Newton",
+    "Instrument": "XRT, UVOT, EPIC-pn",
+    "Observatory": null
+}

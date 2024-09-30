@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U1608-52",
+            "RA": "16:12:43.059 \u00b1 0.015 s",
+            "Dec": "-52:25:23.203 \u00b1 0.501 arcsec",
+            "redshift": null,
+            "Type": "neutron star X-ray binary",
+            "Time": "09:30-13:00 UT",
+            "Date": "2013 June 2nd"
+        }
+    ],
+    "References": [
+        "ATel #5094",
+        "Grindlay & Liller 1978",
+        "Migliari et al. 2004",
+        "Moore et al. 2000",
+        "Miller-Jones et al. 2010"
+    ],
+    "Event Type": "target of opportunity observations",
+    "Time": "09:30-13:00 UT",
+    "Date": "2013 June 2nd",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": "Compact Array Broadband Backend (CABB)",
+    "Observatory": "ATNF"
+}

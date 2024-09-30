@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553012+6903446",
+            "RA": "09 55 30.12",
+            "Dec": "+69 03 44.6",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": [
+                "03.228",
+                "03.232",
+                "04.082"
+            ],
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "PNV J09553290+6903158",
+            "RA": "09 55 32.90",
+            "Dec": "+69 03 15.8",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": [
+                "03.228",
+                "03.232",
+                "04.082"
+            ],
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "PNV J09553515+6904002",
+            "RA": "09 55 35.15",
+            "Dec": "+69 04 00.2",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": [
+                "03.228",
+                "03.232",
+                "04.082"
+            ],
+            "Date": "2014-01-03"
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery",
+    "Time": "03.228",
+    "Date": "2014-01-03",
+    "Telescope": "Isaac Newton Telescope",
+    "Instrument": "WFC",
+    "Observatory": "Observatorio del Roque de los Muchachos"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ESO198-G024",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0455,
+            "Type": "Type I Seyfert AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10625"
+    ],
+    "Event Type": "AGN activity",
+    "Time": [
+        "UT 2017-08-05.27",
+        "UT 2017-08-09.27"
+    ],
+    "Date": [
+        "2017-08-05",
+        "2017-08-09"
+    ],
+    "Telescope": "ASAS-SN",
+    "Instrument": "ASAS-SN Sky Patrol",
+    "Observatory": "Las Cumbres Observatory"
+}

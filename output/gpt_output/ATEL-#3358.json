@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": "07:36 UT",
+            "Date": "2011 May 12"
+        }
+    ],
+    "References": [
+        "ATel #3339",
+        "ATel #3298",
+        "ATel #2906",
+        "ATel #2927",
+        "Corbel et al. 2002, Science, 298, 196",
+        "Corbel et al. 2005, ApJ, 632, 504",
+        "Kuulkers et al. 2011, arXiv:1102.2102",
+        "ATel #2976"
+    ],
+    "Event Type": "X-ray re-brightening",
+    "Time": "07:36 UT",
+    "Date": "2011 May 12",
+    "Telescope": [
+        "Chandra",
+        "EVLA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

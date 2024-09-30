@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J173324.6-332321",
+            "RA": "17:33:24.60",
+            "Dec": "-33:23:21.5",
+            "redshift": null,
+            "Type": "X-ray Transient",
+            "Time": "11:08 UT",
+            "Date": "2018-04-30"
+        },
+        {
+            "Name": "C2 (ACIS-S)",
+            "RA": "17:33:24.16",
+            "Dec": "-33:23:22.1",
+            "redshift": null,
+            "Type": "Low-luminosity X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "C3 (ACIS-S)",
+            "RA": "17:33:24.11",
+            "Dec": "-33:23:26.1",
+            "redshift": null,
+            "Type": "Low-luminosity X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Rapid Burster (HRC-I)",
+            "RA": "17:33:24.59",
+            "Dec": "-33:23:20.1",
+            "redshift": null,
+            "Type": "Transient Neutron Star Low-mass X-ray Binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "C2 (HRC-I)",
+            "RA": "17:33:24.15",
+            "Dec": "-33:23:21.8",
+            "redshift": null,
+            "Type": "Low-luminosity X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "C3 (HRC-I)",
+            "RA": "17:33:24.10",
+            "Dec": "-33:23:26.0",
+            "redshift": null,
+            "Type": "Low-luminosity X-ray Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Homer et al. 2001, ApJ, 122, 2627",
+        "Lewin et al. 1976, ApJ, 207, L95",
+        "Wijnands et al. 2015, MNRAS, 454,1371",
+        "Harris 1996, AJ, 112, 1487"
+    ],
+    "Event Type": "X-ray Transient Discovery",
+    "Time": "11:08 UT",
+    "Date": "2018-04-30",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

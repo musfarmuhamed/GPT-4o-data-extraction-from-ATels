@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fk",
+            "RA": "11:39:42.54",
+            "Dec": "-12:41:33.15",
+            "redshift": "0.082",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180126"
+        },
+        {
+            "Name": "AT2018jj",
+            "RA": "00:58:28.10",
+            "Dec": "-05:52:32.97",
+            "redshift": "0.038",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180126"
+        }
+    ],
+    "References": "Tonry et al. 2011, PASP, 123, 58; Tonry et al., ATel #8680; Huber et al., ATel #7153; http://star.pst.qub.ac.uk/ps1threepi/",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m MMT Telescope",
+    "Instrument": "Blue Channel Spectrograph",
+    "Observatory": null
+}

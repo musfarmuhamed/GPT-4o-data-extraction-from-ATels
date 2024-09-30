@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016iug",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024,
+            "Type": "Type II supernova",
+            "Time": "10.52 UT",
+            "Date": "December 10"
+        },
+        {
+            "Name": "UGC 07230",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024; Springob et al., 2005, ApJS, 160, 149",
+    "Event Type": "spectrum observation",
+    "Time": "10.52 UT",
+    "Date": "December 10",
+    "Telescope": "Mayall 4m telescope",
+    "Instrument": "KOSMOS",
+    "Observatory": "Kitt Peak National Observatory"
+}

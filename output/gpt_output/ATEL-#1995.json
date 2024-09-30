@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray binary",
+            "Time": "02:45:55 UT",
+            "Date": "2009-03-29"
+        },
+        {
+            "Name": "1A 1118-615",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #940",
+        "Coe et al. 2007, MNRAS 378, 1427",
+        "ATel #647",
+        "ATel #1298",
+        "see the Swift/BAT lightcurve",
+        "Stollberg et al. 1993, IAU Circ. 5836",
+        "Wilson et al. 1994, AIP Conf. Proc. 304, 390",
+        "Shrader et al. 1999, ApJ 512, 920",
+        "ATel #1949"
+    ],
+    "Event Type": "outburst",
+    "Time": "02:45:55 UT to 00:25:41 UT",
+    "Date": "2009-03-29 to 2009-03-30",
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI",
+    "Observatory": null
+}

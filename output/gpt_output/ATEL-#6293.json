@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14cu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "+19d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14dd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ibn",
+            "Time": "+6d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14di",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "+16d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14dl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "+1d",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14dn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14do",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#6252",
+        "#6269",
+        "#6277",
+        "#6283"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": "UT July 7",
+    "Date": null,
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "IMACS",
+    "Observatory": null
+}

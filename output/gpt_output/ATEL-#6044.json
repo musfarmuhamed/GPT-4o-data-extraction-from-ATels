@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Tycho's SNR",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": "104 months",
+            "Date": "since November 2004"
+        },
+        {
+            "Name": "Cas A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Segreto et al 2010 A&A 510 47",
+        "Cusumano et al 2010 A&A 524 64",
+        "Baumgartner et al 2013 ApJS 207 19",
+        "Markwardt et al. 2005 ApJL 633 77",
+        "Tueller et al 2010 ApJS, 186, 378",
+        "Vink et al 2001 ApJL 560 79",
+        "Renaud et al. 2006 ApJL 647 41"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cr (AT 2016ase)",
+            "RA": "11:42:34.65",
+            "Dec": "-25:54:45.22",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-03-06.36",
+            "Date": "2016-03-06"
+        },
+        {
+            "Name": "ASASSN-16cs (AT 2016asf)",
+            "RA": "06:50:36.73",
+            "Dec": "+31:06:44.56",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-03-06.34",
+            "Date": "2016-03-06"
+        }
+    ],
+    "References": "NSF grant AST-1515927, Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, Mt. Cuba Astronomical Foundation, George Skestos, Robert Martin Ayers Sciences Fund",
+    "Event Type": "discovery of transient sources",
+    "Time": "2016-03-06",
+    "Date": "2016-03-06",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

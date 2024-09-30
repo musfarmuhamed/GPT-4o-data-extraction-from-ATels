@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004126.22+414350.0",
+            "RA": "00h 41m 26.22s",
+            "Dec": "+41d 43m 50.0s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "02:57:45.600000000",
+            "Date": "2016-09-02"
+        },
+        {
+            "Name": "MASTER OT J204627.96+242218.0",
+            "RA": "20h 46m 27.96s",
+            "Dec": "+24d 22m 18.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "22:40:35.712000000",
+            "Date": "2016-09-06"
+        },
+        {
+            "Name": "MASTER OT J230921.67+033221.4",
+            "RA": "23h 09m 21.67s",
+            "Dec": "+03d 32m 21.4s",
+            "redshift": null,
+            "Type": "PSN (possibly superluminous or CV?)",
+            "Time": "00:02:15.240000000",
+            "Date": "2016-09-07"
+        },
+        {
+            "Name": "MASTER OT J024902.25-082917.6",
+            "RA": "02h 49m 02.25s",
+            "Dec": "-08d 29m 17.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "05:31:41.568000000",
+            "Date": "2016-09-07"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

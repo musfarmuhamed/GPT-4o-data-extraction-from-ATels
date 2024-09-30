@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81N 2017-10a",
+            "RA": "9h55m31.13s",
+            "Dec": "+69\u00b005'22.3\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:30:14",
+            "Date": "2017-10-30"
+        },
+        {
+            "Name": "M81N 2017-10b",
+            "RA": "9h55m25.97s",
+            "Dec": "+69\u00b001'05.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:01:13",
+            "Date": "2017-11-01"
+        },
+        {
+            "Name": "M81N 2017-11a",
+            "RA": "9h55m40.38s",
+            "Dec": "+69\u00b001'20.8\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:18:12",
+            "Date": "2017-11-18"
+        }
+    ],
+    "References": "Steele et al. 2004",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2-m Liverpool Telescope (LT)",
+    "Instrument": "IO:O optical CCD camera",
+    "Observatory": "Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias"
+}

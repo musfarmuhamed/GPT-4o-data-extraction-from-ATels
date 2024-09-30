@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09232955-6340283",
+            "RA": "09:23:29.55",
+            "Dec": "-63:40:28.3",
+            "redshift": "0.011",
+            "Type": "IIb",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "ASASSN-14dp",
+            "RA": "11:21:58.45",
+            "Dec": "-37:54:24.5",
+            "redshift": "0.002",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "PSN J19370613-4217505",
+            "RA": "19:37:06.13",
+            "Dec": "-42:17:50.5",
+            "redshift": "0.020",
+            "Type": "Iax",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "PSN J21355236-6205398",
+            "RA": "21:35:52.36",
+            "Dec": "-62:05:39.8",
+            "redshift": "0.054",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "PSN J21504715-7355334",
+            "RA": "21:50:47.15",
+            "Dec": "-73:55:33.4",
+            "redshift": "0.031",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "PSN J01103622-3013376",
+            "RA": "01:10:36.22",
+            "Dec": "-30:13:37.6",
+            "redshift": "0.016",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        },
+        {
+            "Name": "PSN J02253046-2537380",
+            "RA": "02:25:30.46",
+            "Dec": "-25:37:38.0",
+            "redshift": "0.000",
+            "Type": "Ic-BL",
+            "Time": "Null",
+            "Date": "2014 Jul 08"
+        }
+    ],
+    "References": "Dopita et al., 2007, ApSS, 310, 255; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic classification",
+    "Time": "Null",
+    "Date": "2014 Jul 08",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

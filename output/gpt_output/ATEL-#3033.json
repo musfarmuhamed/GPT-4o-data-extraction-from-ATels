@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10yow",
+            "RA": "21:54:23.30",
+            "Dec": "+15:09:20.7",
+            "redshift": "0.0245",
+            "Type": "Supernova Type Ic",
+            "Time": null,
+            "Date": "October 2"
+        },
+        {
+            "Name": "SN2010iq",
+            "RA": "21:54:23.30",
+            "Dec": "+15:09:20.7",
+            "redshift": "0.0245",
+            "Type": "Supernova Type Ic",
+            "Time": null,
+            "Date": "October 2"
+        },
+        {
+            "Name": "IC 5145",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0245",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "IAUC 2493",
+        "Oke & Gunn 1982, PASP, 94, 586",
+        "Howell et al. 2005, ApJ 634, 1190"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "October 2",
+    "Telescope": [
+        "Palomar 5-m Hale Telescope",
+        "William Herschel Telescope"
+    ],
+    "Instrument": [
+        "Double-Beam Spectrograph (DBSP)",
+        "Intermediate dispersion Spectrograph and Imaging System (ISIS)"
+    ],
+    "Observatory": "Palomar Observatory"
+}

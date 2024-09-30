@@ -1,0 +1,99 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0601.9-8636",
+            "RA": "06 05 39.1",
+            "Dec": "-86 37 51.6",
+            "redshift": null,
+            "Type": "Gal",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0920.8-0805",
+            "RA": "09 20 46.0",
+            "Dec": "-08 03 21.7",
+            "redshift": null,
+            "Type": "Sy2",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0923.7+2255",
+            "RA": "09 23 42.8",
+            "Dec": "+22 54 31.9",
+            "redshift": null,
+            "Type": "Sy1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1049.4+2258",
+            "RA": "10 49 30.5",
+            "Dec": "+22 57 51.1",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1200.8+0650",
+            "RA": "12 00 57.7",
+            "Dec": "+06 48 21.4",
+            "redshift": null,
+            "Type": "Gal",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1239.3-1611",
+            "RA": "12 39 06.0",
+            "Dec": "-16 10 48.3",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1930.5+3414",
+            "RA": "19 30 13.7",
+            "Dec": "+34 10 51.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2009.0-6103",
+            "RA": "20 08 47.0",
+            "Dec": "-61 05 48.1",
+            "redshift": null,
+            "Type": "Sy1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2152.0-3030",
+            "RA": "21 51 55.5",
+            "Dec": "-30 27 52.6",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tueller et al. (ATEL #668, ATEL #669)",
+        "Moretti et al., 2005",
+        "Elvis et al., 2000"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift Burst Alert Telescope (BAT)",
+        "X-ray Telescope (XRT)"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

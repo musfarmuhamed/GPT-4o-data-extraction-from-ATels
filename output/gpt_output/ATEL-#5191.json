@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13bxl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.145,
+            "Type": "afterglow candidate",
+            "Time": "2013-07-03T23:16:48Z",
+            "Date": "2013-07-03"
+        }
+    ],
+    "References": [
+        "ATEL#5189",
+        "GCN#14967"
+    ],
+    "Event Type": "GRB",
+    "Time": "2013-07-03T23:16:48Z",
+    "Date": "2013-07-03",
+    "Telescope": [
+        "6.5m Magellan telescope",
+        "5m Hale telescope"
+    ],
+    "Instrument": [
+        "IMACS",
+        "DBSP spectrograph"
+    ],
+    "Observatory": [
+        "Las Campanas",
+        "Palomar"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0626-0501169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "2015-09-01"
+        },
+        {
+            "Name": "M4 (NGC621)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Antares",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dornic et al., ATel #7987",
+        "GCN #18231",
+        "ATel #7987",
+        "GCN #18240",
+        "GCN #18236",
+        "ATEL #7994",
+        "ATel #7992",
+        "ATel #7993",
+        "Lyne et al., 1988, Nature, 332, 45-47"
+    ],
+    "Event Type": "Neutrino Alert",
+    "Time": "07:38:24.99",
+    "Date": "2015-09-01",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "SAAO"
+}

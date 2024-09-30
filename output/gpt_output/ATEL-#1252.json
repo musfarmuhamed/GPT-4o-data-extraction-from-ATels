@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1746-331",
+            "RA": "17:49:48.94",
+            "Dec": "-33:12:11.6",
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "23:40 - 23:52",
+            "Date": "2007-10-17"
+        },
+        {
+            "Name": "SLX 1746-331",
+            "RA": "17:49:48.94",
+            "Dec": "-33:12:11.6",
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "23:45 - 23:57",
+            "Date": "2007-10-22"
+        }
+    ],
+    "References": [
+        "Markwardt & Swank 2007, ATel #1235",
+        "Kennea et al. 2007; ATel #1237",
+        "RXTE ASM light curve"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Magellan Baade",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

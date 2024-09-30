@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-019",
+            "RA": "06:13:48.04",
+            "Dec": "-67:55:14.9",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140218"
+        },
+        {
+            "Name": "OGLE-2014-SN-018",
+            "RA": "06:18:20.35",
+            "Dec": "-66:01:08.0",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": null,
+            "Date": "20140219"
+        },
+        {
+            "Name": "LSQ14ws",
+            "RA": "10:11:56.82",
+            "Dec": "+19:13:41.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20140219"
+        },
+        {
+            "Name": "PS1-14mu",
+            "RA": "11:49:06.20",
+            "Dec": "-09:43:33.7",
+            "redshift": "0.019260",
+            "Type": "II",
+            "Time": null,
+            "Date": "20140221"
+        },
+        {
+            "Name": "PS1-14mw",
+            "RA": "12:10:36.85",
+            "Dec": "+18:49:35.4",
+            "redshift": "0.008",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140221"
+        },
+        {
+            "Name": "LSQ14tf",
+            "RA": "12:19:39.70",
+            "Dec": "-34:14:14.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20140214"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org; Hadjiyska et al., ATel #3812; ATel #4495; Wyrzykowski et al. 2012; Scalzo et al., ATel #5480; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383; ATel #5912; ATel #5742; CBET 3778",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2014 Feb 22 UT",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

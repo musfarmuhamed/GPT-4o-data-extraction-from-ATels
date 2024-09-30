@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17hb",
+            "RA": "01:12:34.197",
+            "Dec": "+00:17:29.30",
+            "redshift": "0.019117",
+            "Type": "Type Ia SN",
+            "Time": "2017-05-31.42",
+            "Date": "2017-05-31"
+        },
+        {
+            "Name": "ASASSN-17he",
+            "RA": "09:45:48.363",
+            "Dec": "-14:22:05.60",
+            "redshift": "0.008106",
+            "Type": "Null",
+            "Time": "2017-05-30.05",
+            "Date": "2017-05-30"
+        }
+    ],
+    "References": "#ATEL 10454",
+    "Event Type": "Discovery of transient sources (likely supernovae)",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Cassius telescope",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

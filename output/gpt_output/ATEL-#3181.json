@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "12:10 - 15:22 UT",
+            "Date": "2011-02-19"
+        },
+        {
+            "Name": "RX J1713.7-3946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17507-2856",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Natalucci et al. 1999, ApJ 523, L45; Kaaret et al. 2002, ApJ 575, 1018; ATel#3170; ATel#3172; ATel #342",
+    "Event Type": "Swift TOO observation of neutron star transient",
+    "Time": "12:10 - 15:22 UT",
+    "Date": "2011-02-19",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": "11.93 UT",
+            "Date": "2012 Oct 11"
+        },
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": "9.47 UT",
+            "Date": "2012 Oct 9"
+        }
+    ],
+    "References": [
+        "Smith & Mauerhan, ATel #4412",
+        "ATel #4427",
+        "Brimacombe, ATel #4423",
+        "Margutti et al., ATel #4425",
+        "Leonard et al., ATel #4430",
+        "Burgasser et al., ATel #4431",
+        "Prieto et al., ATel #4439",
+        "Martin et al., ATel #4445",
+        "Gall et al., ATel #4454",
+        "Bohlsen, ATel #4477",
+        "Vinko et al., ATel #4435",
+        "Berger et al. ATel #2184",
+        "Drake et al., ATel #2897"
+    ],
+    "Event Type": "Spectral Evolution Observation",
+    "Time": "11.93 UT",
+    "Date": "2012 Oct 11",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

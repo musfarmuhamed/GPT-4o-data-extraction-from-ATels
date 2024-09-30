@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J034450.8+683753",
+            "RA": "03h44m50s.76",
+            "Dec": "+68o37'52\".9",
+            "redshift": "0",
+            "Type": "cataclysmic variable",
+            "Time": [
+                "Aug. 29.39 UT",
+                "Aug. 30.42 UT",
+                "Sep. 7.38 UT",
+                "Sep. 14.37 UT",
+                "Sept. 1.46 UT",
+                "Sept. 17.42 UT"
+            ],
+            "Date": [
+                "Aug. 29",
+                "Aug. 30",
+                "Sep. 7",
+                "Sep. 14",
+                "Sept. 1",
+                "Sept. 17"
+            ]
+        }
+    ],
+    "References": "http://www.rotse.net/rsvp/j034450.8+683753/ROTSE3_J034450.8+683753.jpg",
+    "Event Type": "transient discovery",
+    "Time": "multiple",
+    "Date": "multiple",
+    "Telescope": "0.45-m ROTSE-IIIb, 9.2-m Hobby-Eberly",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "2017-12-31.77",
+            "Date": "2017-12-31"
+        }
+    ],
+    "References": [
+        "ATel #11116",
+        "ATel #11121",
+        "ATel #5607",
+        "ATel #6527",
+        "ATel #7964",
+        "ATel #9848",
+        "ATel #11117",
+        "ATel #11118",
+        "ATel #11124",
+        "ATel #11125",
+        "ATel #11126",
+        "ATel #6558",
+        "ATel #7984",
+        "ATel #9872"
+    ],
+    "Event Type": "Supersoft X-ray source (SSS) phase",
+    "Time": "2018-01-05.48",
+    "Date": "2018-01-05",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

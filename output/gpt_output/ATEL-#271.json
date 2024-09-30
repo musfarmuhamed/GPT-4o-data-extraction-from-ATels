@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXO M101K J140314.27+541806",
+            "RA": "J140314.27",
+            "Dec": "+541806",
+            "redshift": null,
+            "Type": "ultraluminous X-ray source",
+            "Time": "142 ks",
+            "Date": "2004-03-14"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Pence et al",
+            "Year": 2001,
+            "Publication": "ApJ 561, 189"
+        },
+        {
+            "Author": "Wang et al",
+            "Year": 1999,
+            "Publication": "ApJ 523:121"
+        }
+    ],
+    "Event Type": "Detection",
+    "Time": "142 ks",
+    "Date": "2004-03-14",
+    "Telescope": "Chandra",
+    "Instrument": "X-ray Observatory",
+    "Observatory": null
+}

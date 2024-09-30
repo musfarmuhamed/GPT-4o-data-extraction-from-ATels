@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017jbj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.013492,
+            "Type": "CC",
+            "Time": "20:15:00",
+            "Date": "2017-12-21"
+        },
+        {
+            "Name": "AT 2017jbl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015054,
+            "Type": "II",
+            "Time": "23:13:00",
+            "Date": "2017-12-21"
+        },
+        {
+            "Name": "PS17fjk (AT 2017jco)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "Galactic",
+            "Type": "CV",
+            "Time": "02:05:00",
+            "Date": "2017-12-22"
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Haynes et al. 1993, AJ 105"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

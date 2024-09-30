@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": "267.0207",
+            "Dec": "-24.779",
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": "17:41",
+            "Date": "2015-03-17"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2000"
+        },
+        {
+            "Name": "Terzan 5 X2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2010"
+        },
+        {
+            "Name": "Terzan 5 X3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2012"
+        },
+        {
+            "Name": "CXOGb J174804.8-244644",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quiescent NS LMXB candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGb J174805.0-244641",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio MSP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGb J174805.1-244645",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGb J174804.7-244642",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGb J174804.9-244642",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Heinke et al. (2006, ApJ, 651, 1098)",
+        "Bahramian et al. (2014, ApJ, 780, 127)",
+        "Kuulkers et al. 2003 A&A, 399, 663"
+    ],
+    "Event Type": "Outburst",
+    "Time": "17:41",
+    "Date": "2015-03-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

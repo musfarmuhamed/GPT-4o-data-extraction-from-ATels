@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:02:20",
+            "Date": "2016-01-03"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:53:37",
+            "Date": "2016-01-03"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:20:58",
+            "Date": "2016-01-05"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:55:58",
+            "Date": "2016-01-06"
+        }
+    ],
+    "References": [
+        "ATel #8453",
+        "ATel #8475",
+        "ATel #8500",
+        "ATel #7959"
+    ],
+    "Event Type": "outburst",
+    "Time": "17:30:58",
+    "Date": "2016-01-01",
+    "Telescope": [
+        "INTEGRAL",
+        "Swift"
+    ],
+    "Instrument": [
+        "JEM-X1+2",
+        "IBIS"
+    ],
+    "Observatory": null
+}

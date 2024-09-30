@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J102834.06-023659.7",
+            "RA": "10h 28m 34.06s",
+            "Dec": "-02d 36m 59.7s",
+            "redshift": "0.476",
+            "Type": "quasar",
+            "Time": "18:38:02.723",
+            "Date": "2015-03-26"
+        },
+        {
+            "Name": "MASTER OT J104546.24-022908.4",
+            "RA": "10h 45m 46.24s",
+            "Dec": "-02d 29m 08.4s",
+            "redshift": null,
+            "Type": "UV Ceti type variable star",
+            "Time": "18:50:25.779",
+            "Date": "2015-03-26"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J102834.06-023659.7",
+            "Date": "2012-03-18",
+            "Time": "20:38:15.860",
+            "m_QSO": "19.6"
+        },
+        {
+            "Name": "MASTER OT J104546.24-022908.4",
+            "Date": "2012-03-18",
+            "Time": "20:36:20.852",
+            "m_OT": "20.4"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "18:38:02.723",
+    "Date": "2015-03-26",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J031031.4+431115.0",
+            "RA": "03:10:31.40",
+            "Dec": "+43:11:15.0",
+            "redshift": null,
+            "Type": "U Geminorum-type CV",
+            "Time": "UT",
+            "Date": [
+                {
+                    "Magnitude": "17.3",
+                    "Date": "Feb 5.11"
+                },
+                {
+                    "Magnitude": "16.7",
+                    "Date": "Feb 9.14"
+                },
+                {
+                    "Magnitude": "16.8",
+                    "Date": "Feb 10.15"
+                },
+                {
+                    "Magnitude": "17.3",
+                    "Date": "Feb 11.16"
+                }
+            ]
+        }
+    ],
+    "References": null,
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.45 m ROTSE-IIIb telescope",
+    "Instrument": null,
+    "Observatory": "McDonald Observatory, Texas"
+}

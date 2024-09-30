@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J19535968+4956078",
+            "RA": null,
+            "Dec": null,
+            "redshift": "10500 km/s",
+            "Type": "II-P",
+            "Time": "20150624.98",
+            "Date": "2015 Jun 12.01"
+        },
+        {
+            "Name": "ASASSN-15ln",
+            "RA": null,
+            "Dec": null,
+            "redshift": "11000 km/s",
+            "Type": "II",
+            "Time": "20150625.06",
+            "Date": "2015 Jun 19.58"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Atel #7670",
+        "Bright Supernova website (http://www.rochesterastronomy.org/snimages/)",
+        "CBAT Transient Object Followup Reports (http://www.cbat.eps.harvard.edu/index.html)",
+        "NED for redshifts",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+        "Asiago classification spectra (http://sngroup.oapd.inaf.it)"
+    ],
+    "Event Type": "spectroscopic classification of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC (range 340-820 nm; resolution 1.4 nm)",
+    "Observatory": "Asiago"
+}

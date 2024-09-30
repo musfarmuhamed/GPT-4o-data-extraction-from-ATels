@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting transient pulsar",
+            "Time": "daily average",
+            "Date": "2009-Dec-06"
+        }
+    ],
+    "References": [
+        "Wilson-Hodge et al, ATel #2324",
+        "Tueller et al, ATel #504"
+    ],
+    "Event Type": "major outburst",
+    "Time": "daily average",
+    "Date": "2009-Dec-06",
+    "Telescope": "Swift/BAT",
+    "Instrument": "hard X-ray transient monitor",
+    "Observatory": "Swift"
+}

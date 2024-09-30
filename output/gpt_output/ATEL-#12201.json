@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J142230.43+322310.5",
+            "RA": "14h 22m 30.43s",
+            "Dec": "+32d 23m 10.5s",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "02:27:40.901UT",
+            "Date": "2018-11-09"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Title": "\"MASTER Global Robotic Net\"",
+            "Journal": "Advances in Astronomy",
+            "Year": "2010",
+            "Page": "30L"
+        },
+        {
+            "Author": "Schneider et al.",
+            "Year": "2010"
+        },
+        {
+            "Author": "Veron et al.",
+            "Year": "2010"
+        }
+    ],
+    "Event Type": "Optical Flare",
+    "Time": "02:27:40.901UT",
+    "Date": "2018-11-09",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J175846.44+001801.2",
+            "RA": "17h 58m 46.44s",
+            "Dec": "+00d 18m 01.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-05-24.92549 UT",
+            "Date": "2012-05-24"
+        },
+        {
+            "Name": "MASTER OT J150210.65+230915.3",
+            "RA": "15h 02m 10.65s",
+            "Dec": "+23d 09m 15.3s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-05-24.86818 UT",
+            "Date": "2012-05-24"
+        },
+        {
+            "Name": "MASTER OT J145141.60+245745.7",
+            "RA": "14h 51m 41.60s",
+            "Dec": "+24d 57m 45.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-05-24.86818 UT",
+            "Date": "2012-05-24"
+        },
+        {
+            "Name": "MASTER OT J192159.38+021255.9",
+            "RA": "19h 21m 59.38s",
+            "Dec": "+02d 12m 55.9s",
+            "redshift": null,
+            "Type": "Mira variable",
+            "Time": "2012-05-22.98050 UT",
+            "Date": "2012-05-22"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J1758+0018-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/175846.44001801.2.png",
+        "http://master.sai.msu.ru/static/OT/150210.65230915.3.png",
+        "http://master.sai.msu.ru/static/OT/145141.60245745.6.png",
+        "http://master.sai.msu.ru/static/OT/192159.38021255.9.png",
+        "http://master.sai.msu.ru/static/OT/J192159+021255-anim-DSS-R.gif"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2012-05-24",
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

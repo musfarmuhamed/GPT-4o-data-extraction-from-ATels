@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J2251-1239",
+            "RA": 342.26,
+            "Dec": -12.74,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "08:00 UT",
+            "Date": "2018-01-02"
+        },
+        {
+            "Name": "3FGL J2253.1-1237",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 2247-131",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "5BZB J2249-1300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "5BZQ J2247-1237",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 2243-123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11043, F. Lucarelli et al.",
+    "Event Type": "gamma-ray emission",
+    "Time": "08:00 UT",
+    "Date": "2018-01-02 to 2018-01-04",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

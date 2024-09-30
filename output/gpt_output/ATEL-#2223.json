@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": null,
+            "Date": "2009-10-02"
+        }
+    ],
+    "References": [
+        "ATEL #2150",
+        "ATEL #2155",
+        "ATEL #2182",
+        "ATEL #2200",
+        "ATEL #2201"
+    ],
+    "Event Type": "Flare",
+    "Time": null,
+    "Date": "2009-10-02",
+    "Telescope": "Submillimeter Array (SMA)",
+    "Instrument": null,
+    "Observatory": {
+        "Name": "Submillimeter Array",
+        "Organizations": [
+            "Smithsonian Astrophysical Observatory",
+            "Academia Sinica Institute of Astronomy and Astrophysics"
+        ],
+        "Funding": [
+            "Smithsonian Institution (USA)",
+            "Academia Sinica (Taiwan)"
+        ]
+    }
+}

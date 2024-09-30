@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15ed",
+            "RA": "5:47:35.21",
+            "Dec": "-61:31:04.8",
+            "redshift": null,
+            "Type": "old transient, probably gone now",
+            "Time": "2457146.51709",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15ee",
+            "RA": "0:22:46.27",
+            "Dec": "-69:41:52.8",
+            "redshift": null,
+            "Type": "independent duplicate detection of OGLE15dw, nuclear transient (<0.8'')",
+            "Time": "2457218.86884",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15ef",
+            "RA": "23:32:06.00",
+            "Dec": "-70:05:29.7",
+            "redshift": null,
+            "Type": "likely CV, already gone",
+            "Time": "2457220.85712",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15eg",
+            "RA": "1:25:39.66",
+            "Dec": "-69:21:51.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457221.86253",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15eh",
+            "RA": "4:04:07.01",
+            "Dec": "-65:09:46.5",
+            "redshift": null,
+            "Type": "likely CV, already gone",
+            "Time": "2457226.91438",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15ei",
+            "RA": "2:41:59.17",
+            "Dec": "-70:27:08.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457228.90125",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15ej",
+            "RA": "2:45:21.25",
+            "Dec": "-73:39:23.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457228.90547",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15ek",
+            "RA": "3:00:05.21",
+            "Dec": "-68:52:33.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457228.92467",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15el",
+            "RA": "3:52:02.67",
+            "Dec": "-64:59:27.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457230.88500",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15em",
+            "RA": "0:05:20.63",
+            "Dec": "-65:55:36.1",
+            "redshift": null,
+            "Type": "CV or a very fast transient (<9days) next to a galaxy",
+            "Time": "2457230.83231",
+            "Date": null
+        },
+        {
+            "Name": "OGLE15en",
+            "RA": "0:47:37.95",
+            "Dec": "-65:04:12.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "2457230.78279",
+            "Date": null
+        }
+    ],
+    "References": "Wyrzykowski et al. 2014, AcA,64,197; Kozlowski et al. 2013",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

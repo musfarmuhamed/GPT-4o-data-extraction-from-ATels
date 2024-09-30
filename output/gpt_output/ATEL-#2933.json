@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGLB J174805.2-244647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient LMXB",
+            "Time": "511 s",
+            "Date": "2000 July 24"
+        },
+        {
+            "Name": "CX25",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quiescent LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quiescent LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX19",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX18",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quiescent LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX35",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #2919, #2920, #2922, #2924, #2932, Heinke et al. 2003, ApJ, 590, 809, Heinke et al. 2006, ApJ, 651, 1098, Frank, King & Raine 1992, ATEL #2920",
+    "Event Type": "eclipse",
+    "Time": "511 s",
+    "Date": "2000 July 24",
+    "Telescope": "Chandra",
+    "Instrument": "Swift",
+    "Observatory": null
+}

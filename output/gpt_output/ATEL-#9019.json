@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS160428:132307+523857",
+            "RA": "13h23m07s",
+            "Dec": "+52d38m57s",
+            "redshift": 0.026,
+            "Type": "SN Ia-normal",
+            "Time": "02.33",
+            "Date": "May 02"
+        },
+        {
+            "Name": "CSS160427:134449+210448",
+            "RA": "13h44m49s",
+            "Dec": "+21d04m48s",
+            "redshift": 0.053,
+            "Type": "SN Ia-normal",
+            "Time": "02.41",
+            "Date": "May 02"
+        }
+    ],
+    "References": "Drake et al. 2009, ApJ, 696, 870; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "CSS optical transients",
+    "Time": "02.33, 02.41",
+    "Date": "May 02",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": "17h45m40.2s",
+            "Dec": "-29d00'04.7\"",
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "17:36:07",
+            "Date": "2013 May 18-19"
+        },
+        {
+            "Name": "CXOGC J174540.0-290025",
+            "RA": "17h45m40.2s",
+            "Dec": "-29d00'04.7\"",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "17:36:07",
+            "Date": "2013 May 18-19"
+        },
+        {
+            "Name": "SgrA",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #5020, #5046, #5032",
+        "Muno et al. 2005, ApJ, 622, L113",
+        "Degenaar & Wijnands 2009, A&A, 495, 547"
+    ],
+    "Event Type": "New activity from a second, nearby source",
+    "Time": "17:36:07",
+    "Date": "2013 May 18-19",
+    "Telescope": "NuSTAR",
+    "Instrument": null,
+    "Observatory": null
+}

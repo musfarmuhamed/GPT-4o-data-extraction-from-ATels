@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2467 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tomov et al., 2007, IBVS 5779",
+        "Patterson 1994, PASP 106, 209",
+        "Henden 2008, Observations from AAVSO International Database",
+        "Retter (2002, ASP Conf. Ser. 637,279)"
+    ],
+    "Event Type": "Observational study of nova",
+    "Time": "night",
+    "Date": [
+        "26 June to 8 July 2008",
+        "October 15, 2007",
+        "December 29, 2007",
+        "June 28, 2008",
+        "July 25.94, 2008"
+    ],
+    "Telescope": "60cm Cassegrain telescope",
+    "Instrument": "CCD photometry",
+    "Observatory": "Nicolaus Copernicus University Observatory (Torun, Poland)"
+}

@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATEL#1139",
+            "RA": "00h 42m 45.89s",
+            "Dec": "+41\u00b0 18' 04.2\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": [
+                "July 8.053",
+                "July 10.042",
+                "July 11.042"
+            ],
+            "Date": "2007"
+        },
+        {
+            "Name": "M31N 2007-07a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": [
+                "July 8.055",
+                "July 9.058",
+                "July 10.042",
+                "July 11.010",
+                "July 11.042"
+            ],
+            "Date": "2007"
+        }
+    ],
+    "References": [
+        "ATEL#1131",
+        "ATEL#1139"
+    ],
+    "Event Type": "Pre-discovery and confirmation observation",
+    "Time": [
+        "July 8.053",
+        "July 9.058",
+        "July 10.042",
+        "July 11.010",
+        "July 11.042"
+    ],
+    "Date": "2007",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Roper CCD Camera",
+    "Observatory": "Skinakas Observatory, Crete, Greece"
+}

@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 74194",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "O8.5 Ib (f) | suspected single-lined binary",
+            "Time": [
+                "18.00",
+                "20.96",
+                "22.00",
+                "22.97"
+            ],
+            "Date": "2006 May"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "high mass X-ray binary with O9 Ib secondary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Walborn 1973, AJ 78, 1067",
+        "Maiz Apellaniz et al. 2004, ApJS 151, 103",
+        "Pellizza et al. (astro-ph/0605559)",
+        "Gotz et al., ATel #813",
+        "Mereghetti et al., ATel #814",
+        "Masetti et al., ATel #815",
+        "Brandt et al., ATel #817",
+        "Kennea & Campana ATel #818"
+    ],
+    "Event Type": [
+        "spectroscopic monitoring",
+        "discovery"
+    ],
+    "Time": [
+        "18.00",
+        "20.96",
+        "22.00",
+        "22.97"
+    ],
+    "Date": [
+        "2006 May",
+        null
+    ],
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "Echelle spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

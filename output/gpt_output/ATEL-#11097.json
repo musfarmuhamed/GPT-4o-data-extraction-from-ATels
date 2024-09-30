@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J113841.74+275059.1",
+            "RA": "11h 38m 41.74s",
+            "Dec": "+27d 50m 59.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2017-12-26.11289 UT",
+            "Date": "2017-12-26"
+        }
+    ],
+    "References": [
+        "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+        "http://master.sai.msu.ru/static/OT/113841.74275059.1.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "2017-12-26.11289 UT",
+    "Date": "2017-12-26",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

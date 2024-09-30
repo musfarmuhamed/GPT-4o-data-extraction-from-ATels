@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": "17:48:05.43",
+            "Dec": "-24:46:47.9",
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": "23:04 UT",
+            "Date": "Oct 26, 2011"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3714",
+        "Goad et al. 2007, A&A, 476, 1401",
+        "Heinke et al. 2006 (ApJ, 651, 1098)",
+        "Heinke et al. 2003, ApJ, 590, 809",
+        "Markwardt & Swank 2000, IAUC # 7454",
+        "Wijnands et al. 2005, ApJ, 618, 883",
+        "T. Mihara, transient alert 2010-Oct-27 09:57:39",
+        "Atel #3718"
+    ],
+    "Event Type": "X-ray outburst and Superburst",
+    "Time": "23:04 UT",
+    "Date": "Oct 26, 2011",
+    "Telescope": [
+        "Swift",
+        "RXTE"
+    ],
+    "Instrument": [
+        "XRT (Swift)",
+        "PCA (RXTE)"
+    ],
+    "Observatory": [
+        "NASA Goddard Space Flight Center"
+    ]
+}

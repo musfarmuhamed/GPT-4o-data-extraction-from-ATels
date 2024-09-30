@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000016",
+            "RA": "09:59:16.799",
+            "Dec": "+01:36:48.54",
+            "redshift": 0.31,
+            "Type": "SN Ia",
+            "Time": "r=22.0",
+            "Date": "Jan. 20"
+        },
+        {
+            "Name": "PS1-1000006",
+            "RA": "09:59:54.219",
+            "Dec": "+02:24:42.83",
+            "redshift": 0.38,
+            "Type": "SN Ia",
+            "Time": "r=22.5",
+            "Date": "Jan. 12"
+        },
+        {
+            "Name": "PS1-1000011",
+            "RA": "10:00:27.616",
+            "Dec": "+02:41:38.52",
+            "redshift": 0.34,
+            "Type": "SN Ia",
+            "Time": "r=21.8",
+            "Date": "Jan. 16"
+        },
+        {
+            "Name": "PS1-1000015",
+            "RA": "10:02:08.823",
+            "Dec": "+02:43:06.79",
+            "redshift": 0.22,
+            "Type": "SN Ia",
+            "Time": "r=21.8",
+            "Date": "Jan. 18"
+        },
+        {
+            "Name": "PS1-1000013",
+            "RA": "10:02:09.394",
+            "Dec": "+01:53:56.98",
+            "redshift": 0.618,
+            "Type": "SN Ia",
+            "Time": "r=22.8",
+            "Date": "Jan. 16"
+        },
+        {
+            "Name": "PS1-1000014",
+            "RA": "10:03:14.382",
+            "Dec": "+03:08:39.22",
+            "redshift": 0.46,
+            "Type": "SN Ia",
+            "Time": "r=22.3",
+            "Date": "Jan. 16"
+        },
+        {
+            "Name": "PS1-1000012",
+            "RA": "10:04:55.536",
+            "Dec": "+02:35:27.33",
+            "redshift": 0.37,
+            "Type": "SN Ia",
+            "Time": "r=21.6",
+            "Date": "Jan. 16"
+        },
+        {
+            "Name": "PS1-1000010",
+            "RA": "10:49:14.217",
+            "Dec": "+58:28:02.09",
+            "redshift": 0.44,
+            "Type": "SN Ia",
+            "Time": "r=22.5",
+            "Date": "Jan. 16"
+        }
+    ],
+    "References": "SNID code (Blondin & Tonry 2007, ApJ, 666, 1024)",
+    "Event Type": "Supernova discoveries",
+    "Time": "N/A",
+    "Date": "N/A",
+    "Telescope": "Gemini-N and Gemini-S telescopes, Magellan Clay telescope",
+    "Instrument": "GMOS, MagE",
+    "Observatory": "N/A"
+}

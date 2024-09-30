@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1728-295",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": "07:07:35",
+            "Date": "2010-10-29"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": "07:07:35",
+            "Date": "2010-10-29"
+        }
+    ],
+    "References": [
+        "#2823",
+        "#2824",
+        "#2869",
+        "#2825",
+        "#2827",
+        "#2870"
+    ],
+    "Event Type": "Swift follow-up observation",
+    "Time": "07:07:35",
+    "Date": "2010-10-29",
+    "Telescope": "Swift",
+    "Instrument": "Photon Counting (PC) mode",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

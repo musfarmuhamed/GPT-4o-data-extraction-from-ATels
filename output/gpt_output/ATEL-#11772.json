@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2018-06-21 12:26",
+            "Date": "2018-06-21"
+        },
+        {
+            "Name": "ATLAS18qqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2018-06-21 12:14",
+            "Date": "2018-06-21"
+        }
+    ],
+    "References": [
+        "Smartt et al. ATel #11727",
+        "Zheng et al. ATel #11743",
+        "Ahumada et al. ATel #11752",
+        "Im et al. ATel #11750",
+        "Watson et al. ATel #11751",
+        "Smartt et al. ATel #11742",
+        "Fremling et al. ATel #11738",
+        "Chen et al. #11734, #11729",
+        "Wu et al. ATel #11758"
+    ],
+    "Event Type": "observation",
+    "Time": "2018-06-21 11:49:57",
+    "Date": "2018-06-21",
+    "Telescope": [
+        "SNU Astronomical Observatory (SAO) 1m telescope",
+        "LOAO 1m telescope",
+        "McDonald 0.8 m telescope",
+        "Lee Sang Gak Telescope (LSGT) at SSO"
+    ],
+    "Instrument": "BVRI images and optical spectra",
+    "Observatory": "SNU Astronomical Observatory (SAO)"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20080514-002",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0221,
+            "Type": "Type Ia supernova",
+            "Time": "2008-05-19.78 UT",
+            "Date": "2008-05-19"
+        }
+    ],
+    "References": "ATel #1532, Poole et al. 2008, MNRAS, 383, 627, Dickey & Lockman, 1990, ARAA, 28, 215",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2008-05-19",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": "Swift satellite"
+}

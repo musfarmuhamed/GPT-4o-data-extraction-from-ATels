@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J113930.78+251141.0",
+            "RA": "11h 39m 30.78s",
+            "Dec": "+25d 11m 41.0s",
+            "redshift": "0.0123",
+            "Type": "PSN",
+            "Time": "2014-10-18.07538 UT",
+            "Date": "2014-10-18"
+        },
+        {
+            "Name": "PGC 1728170",
+            "RA": "11h 39m 30.26s",
+            "Dec": "+25d 11m 19.0s",
+            "redshift": "0.0123",
+            "Type": "starburst galaxy",
+            "Time": "2012-03-19.91038 UT",
+            "Date": "2012-03-19"
+        },
+        {
+            "Name": "MASTER OT J033640.80+355213.6",
+            "RA": "03h 36m 40.80s",
+            "Dec": "+35d 52m 13.6s",
+            "redshift": "Null",
+            "Type": "PSN",
+            "Time": "2014-10-19.62853 UT",
+            "Date": "2014-10-19"
+        },
+        {
+            "Name": "USNO-B1.0 1258-0054935",
+            "RA": "03h 36m 40.77s",
+            "Dec": "+35d 52m 06.8s",
+            "redshift": "Null",
+            "Type": "anonymous galaxy",
+            "Time": "2010-10-10.80471 UT",
+            "Date": "2010-10-10"
+        },
+        {
+            "Name": "MASTER OT J000917.60+302230.1",
+            "RA": "00h 09m 17.60s",
+            "Dec": "+30d 22m 30.1s",
+            "redshift": "Null",
+            "Type": "Possible Supernova",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "PGC 1901469",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/113930.78251141.0.png, http://master.sai.msu.ru/static/OT/J033640+355213-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/033640.80355213.6.png",
+    "Event Type": "Null",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

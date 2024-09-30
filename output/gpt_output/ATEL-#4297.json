@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12gzk",
+            "RA": "22:12:41.53",
+            "Dec": "+00:30:43.1",
+            "redshift": "0.0137",
+            "Type": "Type I SN",
+            "Time": "Unknown",
+            "Date": "2012-07-24"
+        },
+        {
+            "Name": "SDSS J221241.53+003042.7",
+            "RA": "22:12:41.53",
+            "Dec": "+00:30:42.7",
+            "redshift": "0.0137",
+            "Type": "dwarf galaxy",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "Oke et al. 1982",
+        "Lantz et al. 2004",
+        "Hook et al. 2004",
+        "Taubenberger et al. 2006",
+        "Burrows et al. 2005",
+        "Mason et al. 2004"
+    ],
+    "Event Type": "discovery",
+    "Time": "Unknown",
+    "Date": "2012-07-24",
+    "Telescope": [
+        "Palomar 5-m Hale telescope",
+        "UH 2.2-m telescope",
+        "Gemini North 8-m telescope",
+        "Swift satellite",
+        "Hubble Space Telescope"
+    ],
+    "Instrument": [
+        "Double Spectrograph",
+        "SNIFS spectrograph",
+        "GMOS Spectrograph",
+        "X-Ray Telescope (XRT)",
+        "ultra-violet imaging telescope (UVOT)",
+        "STIS UV spectroscopy"
+    ],
+    "Observatory": [
+        "Palomar Observatory",
+        "UH Observatory",
+        "Gemini Observatory",
+        "Swift Observatory",
+        "Hubble Space Telescope"
+    ]
+}

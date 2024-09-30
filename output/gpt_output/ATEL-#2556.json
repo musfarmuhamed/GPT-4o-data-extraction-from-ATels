@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Yu & Yan 2009",
+        "ATel #2545",
+        "Gandhi et al. 2008, MNRAS, 390, L29",
+        "Gandhi 2009, ApJ, 697, L167"
+    ],
+    "Event Type": "Transition of Black Hole State",
+    "Time": "A few hours later (relative to April 11, 2010)",
+    "Date": "April 11, 2010",
+    "Telescope": [
+        "Swift",
+        "RXTE"
+    ],
+    "Instrument": [
+        "BAT",
+        "ASM",
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

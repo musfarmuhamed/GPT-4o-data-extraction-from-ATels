@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017ixr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova eruption",
+            "Time": "2017 Dec 27.90",
+            "Date": "2017 Dec 27"
+        },
+        {
+            "Name": "AT 2017ixr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova eruption",
+            "Time": "2018 Jan 12.83",
+            "Date": "2018 Jan 12"
+        }
+    ],
+    "References": "TNS, Piascik et al. 2014, Steele et al. 2004",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": [
+        "SPRAT spectrograph",
+        "IO:O CCD camera"
+    ],
+    "Observatory": "Liverpool Telescope"
+}

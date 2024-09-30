@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11215-5952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "12:16:46",
+            "Date": "2011-03-01"
+        }
+    ],
+    "References": [
+        "Lubinski et al. 2005, Atel #469",
+        "Sidoli et al. 2007, A&A 476, 1307",
+        "Romano et al. 2009, ApJ, 696, 2068",
+        "Romano et al. 2007, A&A, 469, L5",
+        "Sidoli et al. 2007, A&A, 476, 1307",
+        "Romano et al. 2009, ApJ, 696, 2068",
+        "Atel #2257",
+        "Masetti et al. 2006 A&A, 449, 1139"
+    ],
+    "Event Type": "outburst",
+    "Time": "12:16:46",
+    "Date": "2011-03-01",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

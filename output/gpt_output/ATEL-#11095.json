@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-11a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Fe II class nova",
+            "Time": "16:41:02",
+            "Date": "2017-11-04"
+        },
+        {
+            "Name": "M31N 2017-11a (optical re-brightening)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Fe II class nova",
+            "Time": null,
+            "Date": "2017-12-15"
+        }
+    ],
+    "References": [
+        "http://www.cneost.org/ptss/",
+        "https://wis-tns.weizmann.ac.il/object/2017hvi",
+        "ATel #10990",
+        "ATel #10998"
+    ],
+    "Event Type": "Discovery",
+    "Time": "16:41:02",
+    "Date": "2017-11-04",
+    "Telescope": [
+        "2-m Liverpool telescope",
+        "Russian BTA telescope"
+    ],
+    "Instrument": null,
+    "Observatory": "Xingming Observatory"
+}

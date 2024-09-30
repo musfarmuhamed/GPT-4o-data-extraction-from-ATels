@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425563+4114125",
+            "RA": "0h42m55s.63",
+            "Dec": "+41o14'12.5\"",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "29.033 UT",
+            "Date": "2013 May 29"
+        },
+        {
+            "Name": "M31N 1960-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 1962-11b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5091",
+    "Event Type": "independent discovery of a probable nova",
+    "Time": "29.033 UT & 29.151 UT",
+    "Date": "2013 May 29",
+    "Telescope": "0.65-m at Ondrejov & 1.23-m at Calar Alto",
+    "Instrument": "R-band CCD",
+    "Observatory": "Ondrejov & Calar Alto"
+}

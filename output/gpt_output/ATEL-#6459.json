@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17451-3022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": {
+                "First Observation": "1648 seconds",
+                "Second Observation": "UT 10:00",
+                "Third Observation": "UT 2:12"
+            },
+            "Date": {
+                "First Observation": "Aug. 22-24",
+                "Second Observation": "Sept. 5",
+                "Third Observation": "Sept. 9",
+                "Fourth Observation": "Sept. 10"
+            }
+        }
+    ],
+    "References": "Atel #6451",
+    "Event Type": "discovered transient",
+    "Time": {
+        "Sept. 5": "1648 seconds",
+        "Sept. 9": "1950 seconds",
+        "Sept. 10": "856 seconds"
+    },
+    "Date": "Aug. 22-24",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT in PC mode",
+    "Observatory": "Swift"
+}

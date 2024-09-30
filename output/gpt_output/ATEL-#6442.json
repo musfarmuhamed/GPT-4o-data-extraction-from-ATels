@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14gm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "+3 days past explosion",
+            "Date": "Sept. 3"
+        },
+        {
+            "Name": "PSN J00321454-4122559",
+            "RA": "00:32:14.54",
+            "Dec": "-41:22:55.9",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "+3 weeks past max",
+            "Date": "Sept. 3"
+        },
+        {
+            "Name": "PSN J03442399-4440081",
+            "RA": "03:44:23.99",
+            "Dec": "-44:40:08.1",
+            "redshift": null,
+            "Type": "Ib",
+            "Time": "few months past max",
+            "Date": "Sept. 3"
+        },
+        {
+            "Name": "PSN J22152655-1028346",
+            "RA": "22:15:26.55",
+            "Dec": "-10:28:34.6",
+            "redshift": "z~0.01",
+            "Type": "II",
+            "Time": "~10 days past explosion",
+            "Date": "Sept. 3"
+        },
+        {
+            "Name": "PSN J23441603+1046125",
+            "RA": "23:44:16.03",
+            "Dec": "+10:46:12.5",
+            "redshift": null,
+            "Type": "II",
+            "Time": "~10 days past explosion",
+            "Date": "Sept. 3"
+        }
+    ],
+    "References": [
+        "ATel #6440",
+        "ATel #6201",
+        "ATel #6220",
+        "ATel #6437"
+    ],
+    "Event Type": "spectroscopic classifications of supernovae",
+    "Time": null,
+    "Date": "Sept. 3",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": null
+}

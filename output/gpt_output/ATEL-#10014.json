@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ap",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.045,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-03.11"
+        },
+        {
+            "Name": "ASASSN-17bb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-23.65"
+        },
+        {
+            "Name": "ASASSN-17bd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-01-23.61"
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Classification",
+    "Time": null,
+    "Date": "2017-01-26 and 2017-01-27",
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16apd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.102,
+            "Type": "SLSN-I",
+            "Time": "16:25:40",
+            "Date": "2016-05-21"
+        },
+        {
+            "Name": "SDSS J120251.71+441527.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTF12dam",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.107,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATel #9071",
+        "Gehrels et al. 2004",
+        "Roming et al. 2005",
+        "Brown et al. 2014",
+        "Nicholl et al. 2013",
+        "Poole et al. 2008",
+        "Breeveld et al. 2011"
+    ],
+    "Event Type": "observation",
+    "Time": "16:25:40",
+    "Date": "2016-05-21",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": "Nordic Optical Telescope"
+}

@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14E2f",
+            "RA": "00 42 01.13",
+            "Dec": "-43 31 27.7",
+            "redshift": "0.349",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14E2aqu",
+            "RA": "00 40 10.75",
+            "Dec": "-44 01 48.8",
+            "redshift": "0.193",
+            "Type": "blue cont.",
+            "Time": null,
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14X2cy",
+            "RA": "02 22 51.25",
+            "Dec": "-07 11 18.3",
+            "redshift": "0.232",
+            "Type": "II",
+            "Time": "+200",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14X3aeb",
+            "RA": "02 24 24.61",
+            "Dec": "-04 40 29.7",
+            "redshift": "0.314",
+            "Type": "Ia",
+            "Time": "+13",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14S1td",
+            "RA": "02 52 22.94",
+            "Dec": "+00 37 20.0",
+            "redshift": "0.170",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14S1aot",
+            "RA": "02 51 12.85",
+            "Dec": "-00 40 08.8",
+            "redshift": "0.364",
+            "Type": "Ia",
+            "Time": "0",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14S1aow",
+            "RA": "02 50 35.72",
+            "Dec": "+00 56 16.6",
+            "redshift": "0.472",
+            "Type": "Ia",
+            "Time": "0",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14C1es",
+            "RA": "03 36 41.40",
+            "Dec": "-27 50 24.0",
+            "redshift": "0.219",
+            "Type": "Ia",
+            "Time": "+26",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14C2pw",
+            "RA": "03 38 02.38",
+            "Dec": "-29 19 49.2",
+            "redshift": "0.101",
+            "Type": "Ia",
+            "Time": "+80",
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14C2apq",
+            "RA": "03 40 21.49",
+            "Dec": "-29 02 54.9",
+            "redshift": "0.303",
+            "Type": "II",
+            "Time": null,
+            "Date": "2014 Sep 23"
+        },
+        {
+            "Name": "DES14C3aol",
+            "RA": "03 30 09.97",
+            "Dec": "-28 42 27.4",
+            "redshift": "0.075",
+            "Type": "II",
+            "Time": "+25",
+            "Date": "2014 Sep 23"
+        }
+    ],
+    "References": "ATel #4668",
+    "Event Type": "optical spectroscopy of supernova candidates",
+    "Time": null,
+    "Date": "2014 Sep 23, 24",
+    "Telescope": "6.5m Clay telescope",
+    "Instrument": "LDSS-3C",
+    "Observatory": "Las Campanas Observatory"
+}

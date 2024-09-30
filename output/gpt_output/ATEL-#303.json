@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate binary",
+            "Time": {
+                "9 July 2004 04:34 UT": "0.34 +/- 0.10 mJy/beam at 8.460 GHz",
+                "9 July 2004 07:47 UT": "0.29 +/- 0.10 mJy/beam at 8.460 GHz",
+                "10 July 2004 04:15 UT": "11.12 +/- 0.14 mJy/beam at 8.460 GHz",
+                "10 July 2004 05:48 UT": "1.10 +/- 0.14 mJy/beam at 8.460 GHz",
+                "10 July 2004 07:03 UT": "3.27 +/- 0.16 mJy/beam at 8.460 GHz",
+                "10 July 2004 08:17 UT": "3.29 +/- 0.14 mJy/beam at 8.460 GHz",
+                "10 July 2004 08:22 UT": "3.49 +/- 0.14 mJy/beam at 4.860 GHz",
+                "10 July 2004 09:35 UT": "2.60 +/- 0.13 mJy/beam at 8.460 GHz",
+                "11 July 2004 05:47 UT": "2.50 +/- 0.14 mJy/beam at 4.860 GHz",
+                "11 July 2004 09:29 UT": "1.67 +/- 0.16 mJy/beam at 4.860 GHz"
+            },
+            "Date": "9-11 July 2004"
+        }
+    ],
+    "References": [
+        "ATEL #295",
+        "ATEL #296",
+        "ATEL #297",
+        "ATEL #299",
+        "ATEL #300",
+        "ATEL #302",
+        "http://www.aoc.nrao.edu/~mrupen/XRT/V4641Sgr/v4641sgr.shtml"
+    ],
+    "Event Type": "observations",
+    "Time": null,
+    "Date": "9-11 July 2004",
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory"
+}

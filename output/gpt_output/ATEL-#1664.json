@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "14:50 UT",
+            "Date": "2008-08-15"
+        },
+        {
+            "Name": "V709 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate Polar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Chakrabarty et al., ATEL #1660",
+    "Event Type": "Swift observation",
+    "Time": "14:50 UT",
+    "Date": "2008-08-15",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

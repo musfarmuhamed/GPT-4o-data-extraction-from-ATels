@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "15.92 UT",
+            "Date": "2011 Apr.",
+            "Event Type": "latest outburst"
+        },
+        {
+            "Name": "V407 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null,
+            "Event Type": null
+        }
+    ],
+    "References": [
+        "Friedman, S. D. et al. (2011, ApJ, 727, 33)",
+        "Shore et al. (2011, A&A, 527, A98)",
+        "Schlegel, Finkbeiner, & Davis (1998, ApJ, 500, 525)"
+    ],
+    "Event Type": "latest outburst",
+    "Time": "15.92 UT",
+    "Date": "2011 Apr. 15",
+    "Telescope": "Nordic Optical Telescope (NOT)",
+    "Instrument": "FIES echelle spectrograph",
+    "Observatory": "La Palma"
+}

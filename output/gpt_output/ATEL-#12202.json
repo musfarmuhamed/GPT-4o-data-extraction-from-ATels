@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18zk",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02169",
+            "Type": "Ia",
+            "Time": "a week before maximum",
+            "Date": "2018-11-09.55"
+        },
+        {
+            "Name": "ZTF18acbvgqw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.00867",
+            "Type": "Ia",
+            "Time": "a few days before maximum",
+            "Date": "2018-11-09.30"
+        }
+    ],
+    "References": [
+        "ATel #12194",
+        "ATel #11266",
+        "Shappee et al. 2014",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "3-m Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Lick Observatory"
+}

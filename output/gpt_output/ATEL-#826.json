@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20060601-002",
+            "RA": "14:47:47.83",
+            "Dec": "+23:17:58.6",
+            "redshift": "0.10",
+            "Type": "Type IIn",
+            "Time": "June 05.4 UT",
+            "Date": "June 01.2 UT"
+        },
+        {
+            "Name": "SNF20060601-008",
+            "RA": "15:03:01.01",
+            "Dec": "+21:41:40.6",
+            "redshift": "0.065",
+            "Type": "Type II",
+            "Time": "June 05.4 UT",
+            "Date": "June 01.2 UT"
+        }
+    ],
+    "References": "Nearby Supernova Factory",
+    "Event Type": "discovery of supernovae",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST II camera, Supernova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "University of Hawaii 2.2-meter telescope"
+}

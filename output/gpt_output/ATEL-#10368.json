@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163746.50+114950.0",
+            "RA": "16h 37m 46.50s",
+            "Dec": "+11d 49m 50.0s",
+            "redshift": null,
+            "Type": "QSO flare",
+            "Time": "01:43:58UT",
+            "Date": "2017-05-06"
+        },
+        {
+            "Name": "MASTER OT J181624.72+073252.7",
+            "RA": "18h 16m 24.72s",
+            "Dec": "+07d 32m 52.7s",
+            "redshift": null,
+            "Type": "OT with ampl>3.4m",
+            "Time": "2017-05-07.19602 UT",
+            "Date": "2017-05-07"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+        "Hewitt+ 1993",
+        "Schneider+ 2010"
+    ],
+    "Event Type": "QSO flare, OT with ampl>3.4m",
+    "Time": "01:43:58UT, 2017-05-07.19602 UT",
+    "Date": "2017-05-06, 2017-05-07",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

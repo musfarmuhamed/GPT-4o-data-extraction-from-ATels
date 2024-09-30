@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Swift/Burst Alert Telescope (https://swift.gsfc.nasa.gov/results/transients/CygX-3/)",
+        "Corbel et al. 2012, MNRAS 421, 2947",
+        "Fermi/LAT Collaboration et al. 2009, Science 326, 1512",
+        "Tavani et al. 2009, Nature 462, 620",
+        "ATel#8591",
+        "ATel#9502"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "24 hours",
+    "Date": "MJD 57799",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

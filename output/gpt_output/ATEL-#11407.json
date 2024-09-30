@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034838.11-274913.4",
+            "RA": "03h 48m 38.11s",
+            "Dec": "-27d 49m 13.4s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2018-03-11.05672 UT",
+            "Date": "2018-03-11"
+        },
+        {
+            "Name": "PKS 0346-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flare",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J043510.14-464138.9",
+            "RA": "04h 35m 10.14s",
+            "Dec": "-46d 41m 38.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2018-03-11.12385 UT",
+            "Date": "2018-03-11"
+        }
+    ],
+    "References": [
+        {
+            "source": "reference image on 2016-09-27.32462 UT",
+            "data": "m_OT<~19.2 and 19.2 unfiltered magnitude limit"
+        },
+        {
+            "source": "reference image on 2016-08-05.37566 UT",
+            "data": "20.6 unfiltered magnitude limit"
+        }
+    ],
+    "Event Type": [
+        "detection",
+        "flare",
+        "detection",
+        "dwarf nova outburst"
+    ],
+    "Time": [
+        "2018-03-11.05672 UT",
+        "2018-03-11.12385 UT"
+    ],
+    "Date": [
+        "2018-03-11",
+        "2018-03-11"
+    ],
+    "Telescope": "MASTER-OAFA auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

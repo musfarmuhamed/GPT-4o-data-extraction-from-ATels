@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": 338.151704,
+            "Dec": 11.730807,
+            "redshift": 1.037,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "00:00-06:00 UT",
+            "Date": "2017 April 19"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Schmidt 1965, ApJ, 141, 1295",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "ATel#9743",
+        "ATel#9788",
+        "ATel#9840",
+        "ATel#9901",
+        "ATel#9911",
+        "ATel#10007",
+        "ATel#3320",
+        "ATel#4409",
+        "ATel#6631",
+        "ATel#8478",
+        "ATel#8722",
+        "ATel#9869"
+    ],
+    "Event Type": "Gamma-ray activity",
+    "Time": "00:00-06:00 UT",
+    "Date": "2017 April 19",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

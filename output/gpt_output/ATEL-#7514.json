@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN impostor in NGC 2770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "20:45 UT",
+            "Date": "20150515"
+        },
+        {
+            "Name": "PSN J09093496+3307204",
+            "RA": "09:09:34.96",
+            "Dec": "+33:07:20.4",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "20:45 UT",
+            "Date": "20150515"
+        },
+        {
+            "Name": "SNhunt275",
+            "RA": "09:09:34.96",
+            "Dec": "+33:07:20.4",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "20:45 UT",
+            "Date": "20150515"
+        }
+    ],
+    "References": "Elias Rosa et al. ATel#7042, de Ugarte Postigo et al. ATel#7409, Mauerhan et al. 2013, MNRAS, 430, 1801, Pastorello et al. 2013, ApJ, 767, 1",
+    "Event Type": "Brightening",
+    "Time": "20:45 UT",
+    "Date": "20150515",
+    "Telescope": [
+        "1.5m telescope",
+        "0.9m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": "Sierra Nevada Observatory"
+}

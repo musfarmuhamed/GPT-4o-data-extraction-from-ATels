@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": [
+                "24.89 UT Jan. 2014",
+                "26.89 UT Jan. 2014",
+                "27.89 UT Jan. 2014",
+                "28.88 UT Jan. 2014",
+                "28.89 UT Jan. 2014"
+            ],
+            "Date": [
+                "24 Jan. 2014",
+                "26 Jan. 2014",
+                "27 Jan. 2014",
+                "28 Jan. 2014"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #5803",
+        "Henden 2014",
+        "MacDonald et al. 2014",
+        "Uemura+02,04, and 05"
+    ],
+    "Event Type": "imaging",
+    "Time": null,
+    "Date": "Jan. 2014",
+    "Telescope": [
+        "2-m Nayuta telescope",
+        "50-cm telescope",
+        "1.5-m Kanata telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Hyogo",
+        "Osaka",
+        "Hiroshima"
+    ]
+}

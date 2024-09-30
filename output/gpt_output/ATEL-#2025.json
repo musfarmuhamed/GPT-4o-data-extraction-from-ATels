@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova LMC 2009",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "70.74",
+            "Date": "2009-02-05"
+        },
+        {
+            "Name": "U Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "<20 days",
+            "Date": null
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "~30 days",
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #9019",
+        "ATel #1930",
+        "ATel #2001",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Kahabka et al. 1999, A&A 347, L43",
+        "Osborne et al., ATel #764"
+    ],
+    "Event Type": "Outburst",
+    "Time": "70.74 days after discovery",
+    "Date": "2009-02-05",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray Telescope (XRT)",
+        "Ultraviolet/Optical Telescope (UVOT)"
+    ],
+    "Observatory": null
+}

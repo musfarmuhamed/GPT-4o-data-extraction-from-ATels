@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05414-6858",
+            "RA": "05h41m26s",
+            "Dec": "-68d58m23s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR B0540-693",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN1987A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CAL 80",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "SN1987A",
+        "PSR B0540-693",
+        "CAL 80"
+    ],
+    "Event Type": "discovery",
+    "Time": "130 ks and 400 ks",
+    "Date": "May 13-22 and June 6-14, 2010",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

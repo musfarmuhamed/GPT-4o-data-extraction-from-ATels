@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2016-NOVA-01",
+            "RA": "05:09:58.40",
+            "Dec": "-71:39:52.7",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "21.2094 UT",
+            "Date": "2016 January 21"
+        },
+        {
+            "Name": "LMCN 2010-11a",
+            "RA": "05:09:58.40",
+            "Dec": "-71:39:52.7",
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMCN 1990-02a",
+            "RA": "05:09:58.40",
+            "Dec": "-71:39:52.7",
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMCN 1968-12a",
+            "RA": "05:09:58.40",
+            "Dec": "-71:39:52.7",
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mroz et al. 2014, MNRAS, 443, 784",
+    "Event Type": "Discovery of an apparent nova",
+    "Time": "21.2094 UT",
+    "Date": "2016 January 21",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Optical Gravitational Lensing Experiment (OGLE)"
+}

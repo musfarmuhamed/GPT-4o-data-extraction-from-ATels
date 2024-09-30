@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15aem",
+            "RA": "15:04:30.75",
+            "Dec": "+21:59:16.7",
+            "redshift": "~0.050",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-03-25"
+        },
+        {
+            "Name": "2MASX J15043064+2159167",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2015 Apr. 25.0 UT",
+    "Date": "2015-04-25",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Null"
+}

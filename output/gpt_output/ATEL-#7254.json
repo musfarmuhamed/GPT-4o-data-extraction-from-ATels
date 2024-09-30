@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMTJ13254308-2932269",
+            "RA": "13 25 43.07",
+            "Dec": "-29 32 26.9",
+            "redshift": "0.040",
+            "Type": "Ic",
+            "Time": "Unknown",
+            "Date": "20150313"
+        },
+        {
+            "Name": "LSQ15xi",
+            "RA": "12 48 08.40",
+            "Dec": "-26 39 58.5",
+            "redshift": "0.000",
+            "Type": "CV",
+            "Time": "Unknown",
+            "Date": "20150316"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299 http://www.pessto.org",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Scalzo et al., ATel #5480",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al. 2005, Ap.J. 634, 1190"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "Unknown",
+    "Date": "2015 03 18",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

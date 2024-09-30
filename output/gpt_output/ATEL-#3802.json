@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "August 7"
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "November 25 (MJD 55890)"
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "MJD 55898-55902"
+        }
+    ],
+    "References": [
+        "ATel #3534",
+        "ATel #3616",
+        "ATel #3636"
+    ],
+    "Event Type": "Transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MAXI",
+        "RXTE",
+        "FERMI/GBM"
+    ],
+    "Instrument": [
+        null,
+        null,
+        "Earth occultation technique"
+    ],
+    "Observatory": null
+}

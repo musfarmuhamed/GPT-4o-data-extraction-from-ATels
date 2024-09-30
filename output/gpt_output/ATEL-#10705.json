@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17kr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIN supernova",
+            "Time": "5 ks",
+            "Date": "2017 Aug 31"
+        },
+        {
+            "Name": "SN 2017gas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIN supernova",
+            "Time": "5 ks",
+            "Date": "2017 Aug 31"
+        }
+    ],
+    "References": "Brimacombe et al. ATel# 10652, Bose et al., ATel# 10669",
+    "Event Type": "X-ray observation",
+    "Time": "5 ks",
+    "Date": "2017 Aug 31",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

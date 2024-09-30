@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018gep",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "Ic-BL SN 2006aj",
+            "Time": "19:10",
+            "Date": "2018 Sep. 17"
+        },
+        {
+            "Name": "AT2018ggy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "outburst of a symbiotic star",
+            "Time": "19:10",
+            "Date": "2018 Sep. 17"
+        }
+    ],
+    "References": [
+        "Zwicky Transient facility (ZTF; ATel #11266)",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Pian et al. 2006, Nature, 442, 1011",
+        "ATel #12030"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "19:10",
+    "Date": "2018 Sep. 17",
+    "Telescope": "1.22m telescope",
+    "Instrument": null,
+    "Observatory": "Asiago Astrophysical Observatory"
+}

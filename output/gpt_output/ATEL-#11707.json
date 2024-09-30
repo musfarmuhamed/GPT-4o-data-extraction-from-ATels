@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cew",
+            "RA": "23:52:24.20",
+            "Dec": "+28:46:30.60",
+            "redshift": 0.022,
+            "Type": "Ic",
+            "Time": "+7 d",
+            "Date": "2018 Jun 11"
+        },
+        {
+            "Name": "AT2018cho",
+            "RA": "00:13:26.52",
+            "Dec": "+17:29:19.57",
+            "redshift": 0.017,
+            "Type": "II",
+            "Time": "+40 d",
+            "Date": "2018 Jun 11"
+        },
+        {
+            "Name": "AT2018cif",
+            "RA": "22:03:00.93",
+            "Dec": "+02:35:51.31",
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": "+0 d",
+            "Date": "2018 Jun 11"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": "UT",
+    "Date": "2018 Jun 11",
+    "Telescope": "Keck I",
+    "Instrument": "LRIS",
+    "Observatory": "Keck"
+}

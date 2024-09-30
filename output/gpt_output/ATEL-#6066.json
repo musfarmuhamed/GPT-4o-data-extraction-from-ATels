@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V1149 Ori",
+            "RA": 86.19,
+            "Dec": 4.497,
+            "redshift": null,
+            "Type": "stellar flare",
+            "Time": "00:25:54",
+            "Date": "2014-04-12"
+        },
+        {
+            "Name": "MAXI J0545+043",
+            "RA": 86.44,
+            "Dec": 4.32,
+            "redshift": null,
+            "Type": "transient X-ray source",
+            "Time": "00:25:54",
+            "Date": "2014-04-12"
+        }
+    ],
+    "References": null,
+    "Event Type": "Enhanced X-ray emission",
+    "Time": "00:25:54",
+    "Date": "2014-04-12",
+    "Telescope": [
+        "MAXI",
+        "Swift"
+    ],
+    "Instrument": [
+        "MAXI/GSC",
+        "Swift XRT"
+    ],
+    "Observatory": null
+}

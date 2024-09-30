@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090213:030920+160505",
+            "RA": "03:09:19.79",
+            "Dec": "16:05:05.3",
+            "redshift": "0.031",
+            "Type": "SN Ia",
+            "Time": "03:45:55",
+            "Date": "2009-02-13"
+        },
+        {
+            "Name": "NOAO deep ecliptic survey object",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel#1937",
+        "ATEL#1856"
+    ],
+    "Event Type": "discovery of a type Ia supernova",
+    "Time": "03:45:55",
+    "Date": "2009-02-13",
+    "Telescope": "Palomar 200",
+    "Instrument": null,
+    "Observatory": null
+}

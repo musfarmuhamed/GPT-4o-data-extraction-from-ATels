@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S41030+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.4,
+            "Type": "Flat Radio QSO",
+            "Time": "JD2455339.6747",
+            "Date": "May 25, 2010"
+        },
+        {
+            "Name": "SDSS J103351.42+605107.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.4,
+            "Type": "Flat Radio QSO",
+            "Time": "JD2455339.6747",
+            "Date": "May 25, 2010"
+        },
+        {
+            "Name": "CGRaBS J1033+60518",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.4,
+            "Type": "Flat Radio QSO",
+            "Time": "JD2455339.6747",
+            "Date": "May 25, 2010"
+        },
+        {
+            "Name": "1FGLJ1033.8+6048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "JD2455339.6747",
+            "Date": "May 25, 2010"
+        }
+    ],
+    "References": "ATel #2622, ATel #2625, ATel #2628, ATel #3062",
+    "Event Type": "NIR flare",
+    "Time": "JD2545666.773854",
+    "Date": "April 15, 2011",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

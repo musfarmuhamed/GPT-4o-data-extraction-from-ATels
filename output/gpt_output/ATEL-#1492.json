@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:00 UT",
+            "Date": "2008-04-10"
+        },
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": "20h18m38.71s",
+            "Dec": "+40\u00b041'00.3\"",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Weisskopf et al. 2006, ApJ, 652, 387",
+        "Becker et al., 2004, ApJ, 615, 897",
+        "Iyudin et al., 2007, A&A, 468, 919"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "01:39 UT",
+    "Date": "2008-04-27",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

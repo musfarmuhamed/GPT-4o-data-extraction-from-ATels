@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12fdn",
+            "RA": "00:40:23.22",
+            "Dec": "+40:36:10.3",
+            "redshift": null,
+            "Type": "Fe II type nova",
+            "Time": "06.46 UT",
+            "Date": "2012 June 06"
+        },
+        {
+            "Name": "PTF12fdo",
+            "RA": "00:45:09.79",
+            "Dec": "+41:40:50.6",
+            "redshift": null,
+            "Type": "Fe II type nova",
+            "Time": "07.41 UT",
+            "Date": "2012 June 07"
+        },
+        {
+            "Name": "PTF12fdt",
+            "RA": "00:38:56.60",
+            "Dec": "+40:29:49.8",
+            "redshift": null,
+            "Type": "Fe II type nova",
+            "Time": "08.40 UT",
+            "Date": "2012 June 08"
+        },
+        {
+            "Name": "PTF12flx",
+            "RA": "00:42:05.09",
+            "Dec": "+41:15:48.1",
+            "redshift": null,
+            "Type": "Fe II type nova",
+            "Time": "14.39 UT",
+            "Date": "2012 June 14"
+        }
+    ],
+    "References": "Palomar Transient Factory collaboration",
+    "Event Type": "nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

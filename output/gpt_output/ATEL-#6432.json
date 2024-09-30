@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J013135.43+555831.5",
+            "RA": "01h 31m 35.43s",
+            "Dec": "+55d 58m 31.5s",
+            "redshift": null,
+            "Type": "AGN candidate",
+            "Time": "2014-08-24.72139 UT",
+            "Date": "2014-08-24"
+        },
+        {
+            "Name": "WISE J013135.51+555832.0",
+            "RA": "01h 31m 35.52s",
+            "Dec": "+55d 58m 32.4s",
+            "redshift": null,
+            "Type": "AGN candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "R. Edelson, M. Malkan, ApJ 751, 52, 2012",
+        "L. V. Toth et al., PASJ 66, 17, 2014"
+    ],
+    "Event Type": "Flare of AGN candidate",
+    "Time": "2014-08-24.72139 UT",
+    "Date": "2014-08-24",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

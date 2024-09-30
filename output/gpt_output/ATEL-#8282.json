@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J2052-5533",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": [
+                "2015-09-28",
+                "2015-09-29",
+                "2015-10-01",
+                "2015-10-03",
+                "2015-10-06",
+                "2015-10-07",
+                "2015-10-28",
+                "2015-11-02",
+                "2015-11-09"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #8096",
+        "ATel #8114"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": null,
+    "Date": "2015-09-23",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "Cerro Tololo, Chile"
+}

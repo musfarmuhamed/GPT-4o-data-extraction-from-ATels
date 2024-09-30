@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090426:074240+544425 (2EG J0744+5438)",
+            "RA": "07:42:39.78",
+            "Dec": "54:44:25.1",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "04:32:41",
+            "Date": "2009-04-26"
+        },
+        {
+            "Name": "CSS090403:112403+233646 (CRATES radio source)",
+            "RA": "11:24:02.69",
+            "Dec": "23:36:46.0",
+            "redshift": "~ 2.2",
+            "Type": "FSRQ Blazar",
+            "Time": "05:23:45",
+            "Date": "2009-04-03"
+        },
+        {
+            "Name": "CSS090403:120715-023330",
+            "RA": "12:07:15.41",
+            "Dec": "-02:33:30.0",
+            "redshift": null,
+            "Type": "Blazar?",
+            "Time": "07:02:53",
+            "Date": "2009-04-03"
+        },
+        {
+            "Name": "CSS090428:164146+121025",
+            "RA": "16:41:46.77",
+            "Dec": "12:10:25.8",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS090428:150425+102939 (CSS090228:150425+102939)",
+            "RA": "15:04:24.99",
+            "Dec": "10:29:39.2",
+            "redshift": "1.839",
+            "Type": "CV? Blazar?",
+            "Time": "11:12:19",
+            "Date": "2009-02-28"
+        },
+        {
+            "Name": "CSS090428:163942+122414 (CSS080131:163943+122414)",
+            "RA": "16:39:42.70",
+            "Dec": "12:24:14.4",
+            "redshift": null,
+            "Type": "CV? QSO?",
+            "Time": "12:52:08",
+            "Date": "2008-01-31"
+        }
+    ],
+    "References": "Mahabal et al. (ATel #2034)",
+    "Event Type": "Flare",
+    "Time": null,
+    "Date": "2009-04-28",
+    "Telescope": "Palomar 200-inch Hale",
+    "Instrument": "DBSP spectrograph",
+    "Observatory": "Palomar"
+}

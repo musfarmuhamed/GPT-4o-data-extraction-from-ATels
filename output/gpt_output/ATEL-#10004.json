@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17be",
+            "RA": "02:03:10.53",
+            "Dec": "-61:41:10.63",
+            "redshift": 0.04,
+            "Type": "Type Ia supernova",
+            "Time": "2017-01-17.07",
+            "Date": "2017-01-17"
+        },
+        {
+            "Name": "2MASX J02031063-6141105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2017-01-17.07",
+    "Date": "2017-01-17",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

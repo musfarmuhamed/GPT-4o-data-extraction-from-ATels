@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova V392 Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "18:44 UT",
+            "Date": "2018-05-01"
+        },
+        {
+            "Name": "Nova V392 Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "18:80 UT",
+            "Date": "2018-05-02"
+        }
+    ],
+    "References": [
+        "ATel #11588",
+        "ATel #11601",
+        "Bonev et al. 2017, BlgAJ 26, 67",
+        "Munari & Zwitter (1997, A&A 318, 269)",
+        "Puspitarini et al. (2013, A&A 555, 25)",
+        "Gaia Collaboration et al. 2016, A&A 595, 1",
+        "Gaia Collaboration et al. 2018b, A&A, special issue for Gaia DR2"
+    ],
+    "Event Type": "Spectral Observation",
+    "Time": null,
+    "Date": "2018-05-01 and 2018-05-02",
+    "Telescope": null,
+    "Instrument": "ESPERO echelle spectrograph",
+    "Observatory": "Rozhen observatory, Bulgaria"
+}

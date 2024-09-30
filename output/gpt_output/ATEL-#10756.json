@@ -1,0 +1,137 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Lup 2016 (V407 Lup)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Super Soft Source (SSS)",
+            "Time": "11:45 to 17:08 UT",
+            "Date": "11 March 2017"
+        },
+        {
+            "Name": "NVI",
+            "RA": null,
+            "Dec": null,
+            "redshift": -400,
+            "Type": "absorption edge",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption edge",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVII 1s-{2p,3p,4p,5p}",
+            "RA": null,
+            "Dec": null,
+            "redshift": -400,
+            "Type": "absorption lines",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OVII 1s-2p",
+            "RA": null,
+            "Dec": null,
+            "redshift": -3200,
+            "Type": "absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVI 1s-{2p,3p}",
+            "RA": null,
+            "Dec": null,
+            "redshift": -400,
+            "Type": "absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CVI or NVI",
+            "RA": null,
+            "Dec": null,
+            "redshift": -3200,
+            "Type": "absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OI 1s-2p",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "interstellar absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NI 1s-2p",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "interstellar absorption line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He II",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[Ne III]",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission lines",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H delta",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[O III]",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission lines",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[N II]",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9538, ATel #10722, ATel #10632, ATel #10749",
+    "Event Type": "Observation",
+    "Time": "11:45 to 17:08 UT",
+    "Date": "11 March 2017",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC pn, RGS",
+    "Observatory": null
+}

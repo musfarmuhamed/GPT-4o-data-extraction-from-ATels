@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17pv",
+            "RA": "23:37:37.62",
+            "Dec": "-60:43:57.22",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "20171125"
+        },
+        {
+            "Name": "Gaia17dbu",
+            "RA": "06:37:58.15",
+            "Dec": "-15:22:00.59",
+            "redshift": "0.029",
+            "Type": "II",
+            "Time": null,
+            "Date": "20171126"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Classification",
+    "Time": null,
+    "Date": "2017 Nov 28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

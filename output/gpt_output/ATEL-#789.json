@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1900+14",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": "10:12:04 UTC",
+            "Date": "2006-03-25"
+        },
+        {
+            "Name": "SGR 1900+14",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": "12:19:51 UTC",
+            "Date": "2006-03-29"
+        }
+    ],
+    "References": "Vetere et al. GCN# 4922, C. Kouveliotou (priv. comm.), Aptekar et al, ApJS, 137, 227; Ibrahim et al. ApJ, 558, 237; Olive et al., ApJ, 616, 1148",
+    "Event Type": "Burst Detection",
+    "Time": "02:38:10 UTC to 03:13:11 UTC",
+    "Date": "2006-03-29",
+    "Telescope": "Swift",
+    "Instrument": "BAT, UVOT, XRT",
+    "Observatory": null
+}

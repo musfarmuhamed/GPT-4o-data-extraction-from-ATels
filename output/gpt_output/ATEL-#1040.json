@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1749.1-2733",
+            "RA": "17h 49m 06.8s",
+            "Dec": "-27d 32m 30.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": "17h 49m 06.8s",
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17490699-2732268",
+            "RA": "17h 49m 06.99s",
+            "Dec": "-27d 32m 26.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17490675-2732369",
+            "RA": "17h 49m 06.75s",
+            "Dec": "-27d 32m 36.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17490631-2732286",
+            "RA": "17h 49m 06.31s",
+            "Dec": "-27d 32m 28.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Zurita Heras (ATEL #1035)",
+        "Sakano et al. 2002",
+        "Sguera et al (2006)",
+        "Johnson 1966"
+    ],
+    "Event Type": "observation",
+    "Time": "16:05:23 to 19:13:50 UT",
+    "Date": "March 30",
+    "Telescope": "Swift",
+    "Instrument": {
+        "XRT": "Swift/XRT",
+        "UVOT": "Swift/UVOT"
+    },
+    "Observatory": null
+}

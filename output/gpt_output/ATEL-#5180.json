@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13buk",
+            "RA": "00:42:09.45",
+            "Dec": "+40:55:21.6",
+            "redshift": null,
+            "Type": "slow classical nova",
+            "Time": "06:45",
+            "Date": "2013-06-06"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "ATel #4808"
+    ],
+    "Event Type": "Discovery of a nova candidate",
+    "Time": "06:45",
+    "Date": "2013-06-06",
+    "Telescope": [
+        "Lick 3m KAST Spectrograph",
+        "3.5-m ARC telescope"
+    ],
+    "Instrument": [
+        "KAST Spectrograph",
+        "Dual Imaging Spectrograph (DIS)"
+    ],
+    "Observatory": [
+        "Lick Observatory",
+        "Apache Point Observatory"
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-14qh",
+            "RA": "11:16:43.16",
+            "Dec": "-16:45:04.9",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "20140227"
+        },
+        {
+            "Name": "LSQ14xp",
+            "RA": "10:31:03.58",
+            "Dec": "+19:02:01.6",
+            "redshift": "0.16",
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": "20140223"
+        },
+        {
+            "Name": "LSQ14ahn",
+            "RA": "12:24:36.51",
+            "Dec": "-13:54:06.0",
+            "redshift": "0.085",
+            "Type": "SN?",
+            "Time": "+3d?",
+            "Date": "20140308"
+        },
+        {
+            "Name": "PAMELA",
+            "RA": "10:40:17.21",
+            "Dec": "-01:49:09.6",
+            "redshift": "0.14",
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "20140301"
+        },
+        {
+            "Name": "PS1-14rq",
+            "RA": "10:17:13.15",
+            "Dec": "-21:03:57.1",
+            "redshift": "0.012",
+            "Type": "II",
+            "Time": "+3w",
+            "Date": "20140309"
+        },
+        {
+            "Name": "CSS140309-103126-155700",
+            "RA": "10:31:25.62",
+            "Dec": "-15:57:00.2",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "20140309"
+        },
+        {
+            "Name": "MLS140310-111158+053913",
+            "RA": "11:11:57.61",
+            "Dec": "+05:39:13.1",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "20140310"
+        },
+        {
+            "Name": "PS1-14rx",
+            "RA": "12:46:53.35",
+            "Dec": "+14:47:50.1",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "-6d",
+            "Date": "20140309"
+        },
+        {
+            "Name": "LSQ14aeg",
+            "RA": "10:19:36.79",
+            "Dec": "+19:33:20.3",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "~max",
+            "Date": "20140308"
+        },
+        {
+            "Name": "PS1-14qc",
+            "RA": "08:36:07.45",
+            "Dec": "-00:29:28.4",
+            "redshift": "0.058",
+            "Type": "II",
+            "Time": "?",
+            "Date": "20140227"
+        },
+        {
+            "Name": "PS1-14qg",
+            "RA": "09:07:30.56",
+            "Dec": "-09:58:08.7",
+            "redshift": "0.06",
+            "Type": "Ib",
+            "Time": "~max",
+            "Date": "20140227"
+        },
+        {
+            "Name": "PSNJ15044009+1237540",
+            "RA": "15:04:40.09",
+            "Dec": "+12:37:54.0",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "~max",
+            "Date": "20140309"
+        },
+        {
+            "Name": "LSQ14aga",
+            "RA": "14:25:20.53",
+            "Dec": "-16:38:24.3",
+            "redshift": "0.13",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "20140308"
+        },
+        {
+            "Name": "PS1-14qo",
+            "RA": "12:24:32.19",
+            "Dec": "-15:47:14.7",
+            "redshift": "-",
+            "Type": "-",
+            "Time": "-",
+            "Date": "20140227"
+        },
+        {
+            "Name": "PS1-14re",
+            "RA": "15:02:20.56",
+            "Dec": "+05:52:53.5",
+            "redshift": "-",
+            "Type": "-",
+            "Time": "-",
+            "Date": "20140305"
+        },
+        {
+            "Name": "LSQ14agx",
+            "RA": "11:55:00.34",
+            "Dec": "-05:14:45.3",
+            "redshift": "0.14",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "20140305"
+        },
+        {
+            "Name": "LSQ14afa",
+            "RA": "14:58:30.48",
+            "Dec": "-15:25:13.0",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": "-",
+            "Date": "20140308"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Valenti et al., ATel #2668",
+        "Hadjiyska et al., ATel #3812",
+        "http://crts.caltech.edu/",
+        "Forster et al., ATel #5949",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classification",
+    "Time": "Performed on 2014 Mar 10",
+    "Date": "2014 Mar 10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

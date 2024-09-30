@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16cwa",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Type II",
+            "Time": null,
+            "Date": "2016-08-12"
+        },
+        {
+            "Name": "Host Galaxy of OGLE16cwa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.09",
+            "Type": null,
+            "Time": null,
+            "Date": "2017-06-13"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al.; ATel #9543",
+        "Wyrzykowski et al. 2014, AcA,64,197",
+        "Kozlowski et al. 2013",
+        "Klencki et al. 2016, AcA, 66,15",
+        "Prentice et al.; ATel #9516",
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and Classification",
+    "Time": null,
+    "Date": "2016-08-12",
+    "Telescope": "NTT",
+    "Instrument": null,
+    "Observatory": "PESSTO"
+}

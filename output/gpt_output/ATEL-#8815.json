@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP supernova",
+            "Time": [
+                "2016-02-29.3 UT",
+                "2016-03-12.6 UT"
+            ],
+            "Date": [
+                "2016-02-29",
+                "2016-03-12"
+            ]
+        },
+        {
+            "Name": "NGC 2101",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2004dj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1999em",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2004et",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8736",
+        "ATel #8748",
+        "Perez-Torres et al. 2014, http://adsabs.harvard.edu/abs/2015aska.confE..60P"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "2016-02-29.3 UT",
+        "2016-03-12.6 UT"
+    ],
+    "Date": [
+        "2016-02-29",
+        "2016-03-12"
+    ],
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": "CSIRO"
+}

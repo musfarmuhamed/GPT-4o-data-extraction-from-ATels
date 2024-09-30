@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15aj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia Supernova",
+            "Time": "12.17",
+            "Date": "January 12"
+        },
+        {
+            "Name": "NGC 3449",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "citation": "Blondin and Tonry, 2007, ApJ, 666, 1024",
+            "description": "Supernova Identification tool (SNID)"
+        },
+        {
+            "citation": "Thereau et al. 1998, A&AS, 130, 333",
+            "description": "Recession velocity of NGC 3449"
+        }
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": null,
+    "Date": "January 12",
+    "Telescope": "Magellan II (Clay) telescope",
+    "Instrument": "Magellan Inamori Kyocera Echelle (MIKE)",
+    "Observatory": null
+}

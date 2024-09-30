@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ut",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.011471,
+            "Type": "Type-I supernova",
+            "Time": "December 31.1 UT",
+            "Date": "December 31",
+            "Sub-classification": [
+                {
+                    "Method": "SNID",
+                    "Result": "Normal and peculiar type-Ia events one week after maximum light"
+                },
+                {
+                    "Method": "GELATO",
+                    "Result": "Type-Ib/c (85 per cent match)"
+                }
+            ],
+            "Host Galaxy": "NGC 88",
+            "Velocity": "13500 km/s"
+        },
+        {
+            "Name": "PSN J02003208-5810410",
+            "RA": "J02003208",
+            "Dec": "-5810410",
+            "redshift": 0.020371,
+            "Type": "Type-II supernova",
+            "Time": "December 31.2 UT",
+            "Date": "December 31",
+            "Host Galaxy": "PGC127875",
+            "Features": [
+                {
+                    "Name": "Na I D absorption",
+                    "Equivalent Width": "2.7 Ang"
+                },
+                {
+                    "Name": "Blueshifted absorption",
+                    "Associated Feature": "Halpha P-Cyg profile"
+                }
+            ]
+        },
+        {
+            "Name": "PSN J08123984-7953078",
+            "RA": "J08123984",
+            "Dec": "-7953078",
+            "redshift": 0.01489,
+            "Type": "Type-Ib supernova",
+            "Time": "December 31.3 UT",
+            "Date": "December 31",
+            "Host Galaxy": "ESO 018-G1",
+            "Matches": [
+                "Type-Ib events 2008D and 1999ex approximately 10 days after maximum light"
+            ]
+        },
+        {
+            "Name": "MASTER OT J103747.94-270507.2",
+            "RA": "J103747.94",
+            "Dec": "-270507.2",
+            "redshift": 0.007562,
+            "Type": "Type-Ia supernova",
+            "Time": "December 31.3 UT",
+            "Date": "December 31",
+            "Host Galaxy": "IC 2597",
+            "Matches": [
+                "Evolved type-Ia supernovae over 100 days past maximum light"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #8479",
+        "ATel #8495",
+        "ATel #8196"
+    ],
+    "Event Type": "Low-dispersion optical spectra",
+    "Time": "December 31 UT",
+    "Date": "December 31",
+    "Telescope": "Magellan Baade 6.5m",
+    "Instrument": "Not specified",
+    "Observatory": "Las Campanas Observatory"
+}

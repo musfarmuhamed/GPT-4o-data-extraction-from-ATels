@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "338.151704",
+            "Dec": "11.730807",
+            "redshift": "1.037",
+            "Type": "flat spectrum radio quasar",
+            "Time": "December 16, 2016 UT",
+            "Date": "November 23, 2016 UT"
+        }
+    ],
+    "References": [
+        "Schmidt 1965, ApJ, 141, 1295",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "ATel#9776",
+        "ATel#9801",
+        "ATel#9808",
+        "ATel#9821",
+        "ATel#9868",
+        "ATel#9841",
+        "ATel#9743",
+        "ATel#9788",
+        "ATel#9840",
+        "ATel#9863",
+        "ATel#9869",
+        "ATel#9884"
+    ],
+    "Event Type": "Variable gamma-ray emission",
+    "Time": "December 16, 2016 UT",
+    "Date": "November 23, 2016 UT",
+    "Telescope": [
+        "DAMPE",
+        "Chinese Near Earth Object Survey Telescope (CNEOST)"
+    ],
+    "Instrument": [
+        "Swift",
+        "AGILE",
+        "Fermi-LAT"
+    ],
+    "Observatory": "Purple Mountain Observatory"
+}

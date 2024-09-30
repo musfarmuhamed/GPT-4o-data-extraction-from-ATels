@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unnamed gamma-ray source",
+            "RA": "345.43",
+            "Dec": "-1.99",
+            "redshift": "Null",
+            "Type": "gamma-ray source",
+            "Time": "Null",
+            "Date": "2015-04-22"
+        },
+        {
+            "Name": "PKS B2258-022",
+            "RA": "345.283",
+            "Dec": "-1.968",
+            "redshift": "0.778",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2015-04-22"
+        }
+    ],
+    "References": [
+        "Jackson et al. 2002, A&A, 386, 97",
+        "Beasley et al. 2002, ApJS, 141, 13"
+    ],
+    "Event Type": "gamma-ray detection",
+    "Time": "Null",
+    "Date": "2015-04-22",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

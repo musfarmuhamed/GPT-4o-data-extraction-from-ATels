@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE J071634.59-190039.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~ 0.5",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Keane et al., 2016 Nature 530 453",
+        "Williams & Berger, 2016 ApJL in press",
+        "arxiv:1602.08434",
+        "Vedantham et al. 2016, arXiv:1603.04421",
+        "Akiyama & Johnson, arxiv:1603.04880",
+        "ATel #8752",
+        "ATel #8938",
+        "ATel #8865"
+    ],
+    "Event Type": "radio transient",
+    "Time": null,
+    "Date": [
+        "MJD 57470.97",
+        "MJD 57475.96",
+        "MJD 57478.98",
+        "MJD 57479.93"
+    ],
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

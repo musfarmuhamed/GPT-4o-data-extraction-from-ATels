@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18325-0756",
+            "RA": "18h 32m 28.30s",
+            "Dec": "-07d 56m 40.4s",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "10.5 ks",
+            "Date": "2005-11-07"
+        },
+        {
+            "Name": "2MASS J18322828-0756420",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lutovinov et al. 2003 (Atel #154); Bird et al. (2007, ApJS, 170, 175); Krivonos et al. (2007, A&A, 475, 775)",
+    "Event Type": "X-ray follow-up observation",
+    "Time": "10.5 ks",
+    "Date": "2005-11-07",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": "Swift"
+}

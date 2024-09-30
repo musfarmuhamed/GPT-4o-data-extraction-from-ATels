@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 1731+152A",
+            "RA": "17h33m22.640s",
+            "Dec": "+15d13m21.80s",
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily averaged flux",
+            "Date": "2014-08-13"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Condon et al.",
+            "Year": 1998,
+            "Journal": "AJ",
+            "Volume": 115,
+            "Page": 1693
+        },
+        {
+            "Authors": "Healey et al.",
+            "Year": 2007,
+            "Journal": "ApJS",
+            "Volume": 171,
+            "Page": 61
+        }
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": null,
+    "Date": "2014-08-13",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

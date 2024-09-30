@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J065330.46+251150.9",
+            "RA": "06h 53m 30.46s",
+            "Dec": "+25d 11m 50.9s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova in outburst)",
+            "Time": "11:00:34.6",
+            "Date": "2014-02-16"
+        },
+        {
+            "Name": "MASTER OT J054111.82+454054.9",
+            "RA": "05h 41m 11.82s",
+            "Dec": "+45d 40m 54.9s",
+            "redshift": null,
+            "Type": "Dwarf nova of UGSU (SU UMa) type in superoutburst",
+            "Time": "11:01:52.3",
+            "Date": "2014-02-16"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J065330+251150-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/065330.46251150.9.png, http://master.sai.msu.ru/static/OT/054111.82454054.9.png",
+    "Event Type": "Discovery of Optical Transients",
+    "Time": "11:02:10",
+    "Date": "2014-02-16",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

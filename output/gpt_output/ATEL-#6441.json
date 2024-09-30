@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J190844.92+254447.3",
+            "RA": "19h 08m 44.92s",
+            "Dec": "+25d 44m 47.3s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in superoutburst)",
+            "Time": "2014-09-01.62766",
+            "Date": "2014-09-01"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J190844+254447-BRIR5x5.jpg, http://master.sai.msu.ru/static/GRB140831-MASTER-coverage.png, http://master.sai.msu.ru/static/OT/190844.92254447.3.png",
+    "Event Type": "follow up observations of Fermi trigger",
+    "Time": "35 hours after Fermi trigger",
+    "Date": null,
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

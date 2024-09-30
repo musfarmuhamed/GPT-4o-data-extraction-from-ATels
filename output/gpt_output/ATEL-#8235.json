@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2015-11-01.497 UT",
+            "Date": "2015-11-01"
+        }
+    ],
+    "References": [
+        "ATels #8233",
+        "ATels #8234",
+        "ATel #3001",
+        "ATel #3038",
+        "Henze et al. 2015",
+        "Shafter et al. 2015",
+        "Henze et al. 2014",
+        "Poole et al. 2008"
+    ],
+    "Event Type": "eruption detection",
+    "Time": "2015-11-01.497 UT",
+    "Date": "2015-11-01",
+    "Telescope": "Swift Ultraviolet/Optical Telescope (UVOT)",
+    "Instrument": "Swift UVOT",
+    "Observatory": "Swift"
+}

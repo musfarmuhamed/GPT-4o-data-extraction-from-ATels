@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V490 Cep",
+            "RA": "21h 39m 08.2s",
+            "Dec": "+56d 56\u203256.9\u2032\u2032",
+            "redshift": null,
+            "Type": null,
+            "Time": "06:37:31",
+            "Date": "2014-06-17"
+        },
+        {
+            "Name": "Cep X-4",
+            "RA": "21h 39m 08.2s",
+            "Dec": "+56d 56\u203256.9\u2032\u2032",
+            "redshift": null,
+            "Type": null,
+            "Time": "06:37:31",
+            "Date": "2014-06-17"
+        },
+        {
+            "Name": "Ginga 2138+56",
+            "RA": "21h 39m 08.2s",
+            "Dec": "+56d 56\u203256.9\u2032\u2032",
+            "redshift": null,
+            "Type": null,
+            "Time": "06:37:31",
+            "Date": "2014-06-17"
+        }
+    ],
+    "References": [
+        "MAXI team in ATEL #6212",
+        "GCN Circ. 16413",
+        "Krimm et al., 2013, ApJSS 209,14",
+        "Wilson, Finger & Scott (1999, ApJ, 511, 367)"
+    ],
+    "Event Type": "Outburst",
+    "Time": "06:37:31",
+    "Date": "2014-06-17",
+    "Telescope": "Swift-BAT",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Swift"
+}

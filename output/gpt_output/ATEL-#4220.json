@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B21144+40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray Source",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "BZQ J1146+3958",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.088",
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fermi LAT",
+    "Event Type": "Gamma Ray Source Monitoring",
+    "Time": "Unknown",
+    "Date": [
+        "June 18th 2012",
+        "Unknown"
+    ],
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

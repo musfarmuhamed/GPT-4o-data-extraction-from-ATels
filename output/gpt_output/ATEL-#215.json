@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "pulsar XTE J0052-725",
+            "RA": "00h52m09.1s",
+            "Dec": "-72\u00ba33'03\"",
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "optical counterpart MACS J0052-726#004",
+            "RA": "00h52m09.09201s",
+            "Dec": "-72\u00ba33'03.06872\"",
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "IAUC #7932, Zezas et al. astro-ph/0310562, 2003",
+    "Event Type": null,
+    "Time": [
+        "2002-07-04 06:47:00",
+        "2003-07-09 10:37:01"
+    ],
+    "Date": [
+        "June 19, 2002",
+        "June 26, 2002"
+    ],
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

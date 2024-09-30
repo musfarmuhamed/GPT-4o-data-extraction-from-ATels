@@ -1,0 +1,93 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "20:00 - 10:00 UT",
+            "Date": "2010 July 02 - 2010 July 03"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "16:00 - 10:00 UT",
+            "Date": "2010 July 03 - 2010 July 04"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "16:00 - 10:00 UT",
+            "Date": "2010 July 04 - 2010 July 05"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "18:30 - 06:30 UT",
+            "Date": "2010 July 08 - 2010 July 09"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "18:20 - 06:20 UT",
+            "Date": "2010 July 10 - 2010 July 11"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "06:15 - 06:33 UT",
+            "Date": "2010 July 11"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC",
+            "Time": "06:00 - 12:00 UT",
+            "Date": "2010 July 15"
+        }
+    ],
+    "References": [
+        "Atel #2711",
+        "Atel #2714",
+        "Atel #2715",
+        "Atel #2721",
+        "Atel #2724",
+        "Belloni et al., ApJ, 472, L107, 1996",
+        "EXPReS (http://www.expres-eu.org)",
+        "The European VLBI Network (http://www.evlbi.org)",
+        "The National Radio Astronomy Observatory"
+    ],
+    "Event Type": "State Transition",
+    "Time": "Various",
+    "Date": "2010 June 28 - 2010 July 15",
+    "Telescope": [
+        "MERLIN",
+        "European VLBI Network (EVN)",
+        "SWIFT-XRT",
+        "VLBA"
+    ],
+    "Instrument": "",
+    "Observatory": [
+        "European VLBI Network (EVN)",
+        "National Radio Astronomy Observatory",
+        "Associated Universities, Inc."
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0507+17",
+            "RA": "05h10m02.3691s",
+            "Dec": "+18d00m41.582s",
+            "redshift": "0.416",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J0509.9+1802",
+            "RA": "05h10m02.3691s",
+            "Dec": "+18d00m41.582s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GB6 J0509+1806",
+            "RA": "05h09m42.910s",
+            "Dec": "+18d06m30.30s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Perlman et al. 1998, AJ, 115, 1253",
+        "Healey et al. 2007, ApJS, 171, 61",
+        "Ackermann et al. 2011, ApJ, 743, 171"
+    ],
+    "Event Type": "gamma-ray flaring",
+    "Time": null,
+    "Date": "2013 April 21",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

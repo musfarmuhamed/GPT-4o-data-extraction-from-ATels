@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09023787+2556042",
+            "RA": "09:02:37.87",
+            "Dec": "+25:56:04.2",
+            "redshift": "0.00777",
+            "Type": "supernova",
+            "Time": "04:24 UT",
+            "Date": "2015 Apr. 11"
+        },
+        {
+            "Name": "NGC 2735",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.00777",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "USNO-B1 catalog",
+    "Event Type": "discovery",
+    "Time": "04:24 UT",
+    "Date": "2015 Apr. 11",
+    "Telescope": "0.76-m Katzman Automatic Imaging Telescope (KAIT)",
+    "Instrument": null,
+    "Observatory": "Lick Observatory"
+}

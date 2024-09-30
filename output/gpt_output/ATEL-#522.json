@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMM J174457-2850.3",
+            "RA": "17:44:57.44",
+            "Dec": "-28:50:20.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:49 UT",
+            "Date": "2005-06-08"
+        },
+        {
+            "Name": "GRS 1741.9-2853",
+            "RA": "17:45:02.33",
+            "Dec": "-28:54:49.7",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:49 UT",
+            "Date": "2005-06-08"
+        }
+    ],
+    "References": [
+        "ATEL #512",
+        "Sakano et al. (2005, MNRAS, 357, 1211)",
+        "Drimmel et al. 2003, A&A, 409, 205",
+        "Predehl & Schmitt 1995",
+        "Muno et al. (2003, ApJ, 589, 225)"
+    ],
+    "Event Type": "Renewed activity in Galactic Bulge X-ray transients",
+    "Time": "01:49 UT",
+    "Date": "2005-06-08",
+    "Telescope": "Magellan-Baade telescope",
+    "Instrument": "IMACS imaging spectrograph",
+    "Observatory": "CTIO"
+}

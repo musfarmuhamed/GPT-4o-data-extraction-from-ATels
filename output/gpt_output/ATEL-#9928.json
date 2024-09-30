@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 1044+71",
+            "RA": "10h48m27.6199s",
+            "Dec": "+71d43m35.938s",
+            "redshift": "1.15",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2016 December 29"
+        },
+        {
+            "Name": "3FGL J1048.4+7144",
+            "RA": "10h48m27.6199s",
+            "Dec": "+71d43m35.938s",
+            "redshift": "1.15",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2016 December 29"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS 218, 23",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Polatidis et al. 1995, ApJS, 98, 1",
+        "ATel#5784",
+        "ATel#4941",
+        "ATel#5792",
+        "ATel#5869",
+        "ATel#6046",
+        "ATel#5512",
+        "ATel#5739"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": "2016 December 29",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Science Support Center"
+}

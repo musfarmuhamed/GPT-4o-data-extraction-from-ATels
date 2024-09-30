@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae (2200+420)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "11.9 +/- 0.6 Jy at 225 GHz (1.3mm) and 11.0 +/- 0.6 Jy at 342 GHz (870 microns) on 29 Oct 2012",
+            "Date": "29 Oct 2012"
+        },
+        {
+            "Name": "BL Lacertae (2200+420)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13.7 +/- 0.7 Jy",
+            "Date": "4 Nov 2012"
+        },
+        {
+            "Name": "BL Lacertae (2200+420)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2.1 +/- 0.06, 2.7 +/- 0.08, 3.7 +/- 0.18, 5.6 +/- 0.4, 6.6 +/- 0.5 and 8.1 +/- 0.6 Jy at 70, 100, 160, 250, 350 and 500 microns",
+            "Date": "29-30 Oct 2012"
+        },
+        {
+            "Name": "BL Lacertae (2200+420)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "0.9 +/- 0.1 counts/second (X-ray count rate)",
+            "Date": "29 Oct 2012"
+        }
+    ],
+    "References": [
+        "Marscher et al. (2008, Nature, 452, 966)",
+        "Marscher (2012 in the 2011 Fermi Symposium, eConf C110509, arXiv:1201.5402)",
+        "Pilbratt, G.L., Riedinger, J.R., Passvogel, T. et al. 2010, A&A, 518, L1",
+        "Poglitsch, A., Waelkens, C., Geis, N. et al. 2010, A&A, 518, L2",
+        "Griffin, M.J., Abergel, A., Abreu, A. et al. 2010, A&A, 518, L3"
+    ],
+    "Event Type": "Unprecedented brightness/flaring",
+    "Time": "Late October 2012 - 20 November 2012",
+    "Date": "Late October 2012 - 20 November 2012",
+    "Telescope": [
+        "Submillimeter Array (SMA)",
+        "Swift",
+        "Herschel Space Observatory",
+        "Fermi LAT"
+    ],
+    "Instrument": [
+        "PACS",
+        "SPIRE"
+    ],
+    "Observatory": [
+        "Submillimeter Array: Smithsonian Astrophysical Observatory and Academia Sinica Institute of Astronomy and Astrophysics",
+        "Swift: NASA MIDEX mission",
+        "Herschel Space Observatory"
+    ]
+}

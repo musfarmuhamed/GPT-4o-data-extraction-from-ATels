@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1539.2-6227",
+            "RA": "15:39:11.963",
+            "Dec": "-62:28:02.30",
+            "redshift": null,
+            "Type": "galactic transient",
+            "Time": "03:15 UT",
+            "Date": "2008-12-25"
+        }
+    ],
+    "References": "Krimm et al, ATel #1855",
+    "Event Type": "Observation",
+    "Time": "03:15 UT to 22:25 UT",
+    "Date": "2008-12-25 to 2008-12-26",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-Ray Telescope (XRT)",
+        "UltraViolet/Optical Telescope (UVOT)",
+        "Burst Alert Telescope (BAT)"
+    ],
+    "Observatory": "Swift satellite"
+}

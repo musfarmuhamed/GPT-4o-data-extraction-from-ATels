@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "01:00 UT - 13:00 UT",
+            "Date": "2015-06-19 - 2015-06-21"
+        }
+    ],
+    "References": [
+        "ATel #7660",
+        "ATel #3387",
+        "ATel #4028"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "01:00 UT - 13:00 UT",
+    "Date": "2015-06-19 - 2015-06-21",
+    "Telescope": "MAGIC, AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova M31N 2017-11a (AT2017hvi, PTSS-17zap, TCP J00425419+4130425)",
+            "RA": "00 42 54.22",
+            "Dec": "+41 30 42.3",
+            "redshift": null,
+            "Type": "FeII spectroscopic class",
+            "Time": null,
+            "Date": "2017-10-29"
+        }
+    ],
+    "References": [
+        {
+            "Name": "S.C. Williams and M.J. Darnley",
+            "Telescope": "Liverpool telescope",
+            "ATEL": "#10990"
+        },
+        {
+            "Name": "S. Fabrika et al.",
+            "Telescope": "Russian BTA telescope",
+            "ATEL": "#10998"
+        },
+        {
+            "Name": "Z. Xu et al.",
+            "Observatory": "Xingming Observatory",
+            "Date Range": "2017-11-05.52715 to 2017-12-24.56936",
+            "ATEL": "#11095"
+        }
+    ],
+    "Event Type": "pre-discovery detection",
+    "Time": "29.840-30.059",
+    "Date": "2017-10-29/2017-10-30",
+    "Telescope": "Isaac Newton Telescope (INT)",
+    "Instrument": "Wide Field Camera (WFC)",
+    "Observatory": "Spanish Observatorio del Roque de los Muchachos"
+}

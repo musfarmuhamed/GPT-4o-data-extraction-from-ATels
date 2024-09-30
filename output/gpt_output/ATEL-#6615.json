@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J203933.97+260924.5",
+            "RA": "20h 39m 33.97s",
+            "Dec": "+26d 09m 24.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "00:00",
+            "Date": "2014-10-14"
+        },
+        {
+            "Name": "SDSS J203933.92+260925.0",
+            "RA": "20h 39m 33.92s",
+            "Dec": "+26d 09m 25.0s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1161-0507572",
+            "RA": "20h 39m 33.92s",
+            "Dec": "+26d 09m 25.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J073601.27+135954.0",
+            "RA": "07h 36m 01.27s",
+            "Dec": "+13d 59m 54.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "00:00",
+            "Date": "2014-10-24"
+        },
+        {
+            "Name": "USNO-B1.0 1039-0144181",
+            "RA": "07h 36m 01.293s",
+            "Dec": "+13d 59m 53.85s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J203933+260924-POSS-Blue.jpg",
+        "http://master.sai.msu.ru/static/OT/203933.97260924.5.png",
+        "http://master.sai.msu.ru/static/OT/J073601+135954-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/073601.27135954.0.png"
+    ],
+    "Event Type": [
+        "discovery",
+        "outburst"
+    ],
+    "Time": [
+        "2014-10-14.51801 UT",
+        "2012-11-24.481 UT",
+        "2012-11-24.512 UT",
+        "2014-10-24.02365 UT"
+    ],
+    "Date": [
+        "2014-10-14",
+        "2012-11-24",
+        "2012-11-24",
+        "2014-10-24"
+    ],
+    "Telescope": [
+        "MASTER-Tunka",
+        "MASTER-Kislovodsk"
+    ],
+    "Instrument": [
+        "auto-detection system",
+        "auto-detection system"
+    ],
+    "Observatory": [
+        "Tunka",
+        "Kislovodsk"
+    ]
+}

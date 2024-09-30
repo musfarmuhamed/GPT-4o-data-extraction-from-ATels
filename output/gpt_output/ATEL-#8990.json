@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J204810.31-242134.4",
+            "RA": "20h 48m 10.31s",
+            "Dec": "-24d 21m 34.4s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2016-04-26.23845",
+            "Date": "2016-04-26"
+        },
+        {
+            "Name": "MASTER OT J212252.05+273221.9",
+            "RA": "21h 22m 52.05s",
+            "Dec": "+27d 32m 21.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-04-24.20130",
+            "Date": "2016-04-24"
+        },
+        {
+            "Name": "MASTER OT J203832.74+224216.4 (IL Vul)",
+            "RA": "20h 38m 32.74s",
+            "Dec": "+22d 42m 16.4s",
+            "redshift": null,
+            "Type": "UGSU current outburst",
+            "Time": "03:43:32.94",
+            "Date": "2016-04-24"
+        },
+        {
+            "Name": "MASTER OT J172929.09+201808.3 (CSS 081010:172929+201808)",
+            "RA": "17h 29m 29.09s",
+            "Dec": "+20d 18m 08.3s",
+            "redshift": null,
+            "Type": "UGSU current outburst",
+            "Time": "01:44:31.618",
+            "Date": "2016-04-23"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/204810.31-242134.4.png, http://master.sai.msu.ru/static/OT/212252.05273221.9.png",
+    "Event Type": "discoveries and current outbursts",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC, MASTER-SAAO, MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0208-512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "15.68",
+            "Date": "JD 55660"
+        },
+        {
+            "Name": "PKS 0208-512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "14.81",
+            "Date": "JD 55716"
+        }
+    ],
+    "References": [
+        "http://pulsar.sternwarte.uni-erlangen.de/tanami/",
+        "http://www.rem.inaf.it",
+        "http://www.astro.yale.edu/smarts/glast/index.html",
+        "http://www-ra.phys.utas.edu.au/~jayb/ced/agn/B0208-512.png",
+        "Cutri et al. 2003"
+    ],
+    "Event Type": "Gamma Ray flare",
+    "Time": null,
+    "Date": "May 11, 2011",
+    "Telescope": "REM telescope",
+    "Instrument": null,
+    "Observatory": null
+}

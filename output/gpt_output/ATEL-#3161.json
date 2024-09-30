@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HESS J0632+057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3152",
+        "ATel #3153"
+    ],
+    "Event Type": "flux increase",
+    "Time": "Feb. 7-9, 2011",
+    "Date": "2011-02-07",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": "La Palma, Canary Islands, Spain"
+}

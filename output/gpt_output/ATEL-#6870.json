@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ae",
+            "RA": "15:51:05.81",
+            "Dec": "+34:25:55.80",
+            "redshift": null,
+            "Type": "transient source, most likely a supernova",
+            "Time": "2015-01-01.63",
+            "Date": "2015-01-01"
+        },
+        {
+            "Name": "2MASX J15510599+3425520",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031238",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN project, LCOGT, NED",
+    "Event Type": "transient source discovery",
+    "Time": "2015-01-01.63",
+    "Date": "2015-01-01",
+    "Telescope": "Brutus telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J112751.19+411209.8",
+            "RA": "11h 27m 51.19s",
+            "Dec": "+41d 12m 09.8s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-02-08.76638 UT",
+            "Date": "2014-02-08"
+        },
+        {
+            "Name": "SDSS J112751.22+411205.2",
+            "RA": "11h 27m 51.22s",
+            "Dec": "+41d 12m 05.2s",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J112751+411209-Tunka-anim.gif, http://master.sai.msu.ru/static/OT/112751.19411209.8.png",
+    "Event Type": "possible Supernova",
+    "Time": "2014-02-08.76638 UT",
+    "Date": "2014-02-08",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER-Tunka"
+}

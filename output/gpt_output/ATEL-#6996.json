@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 0954+658",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "FSRQ",
+            "Time": "00:21",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "CGRaBSJ0958+6533",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "FSRQ",
+            "Time": "00:21",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "2FGL0958.6+6533",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.368,
+            "Type": "gamma-ray source",
+            "Time": "00:21",
+            "Date": "2015-01-25"
+        }
+    ],
+    "References": [
+        "Atels #3220",
+        "#6709"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "00:21",
+    "Date": "2015-01-25",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory",
+    "Organization": "National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

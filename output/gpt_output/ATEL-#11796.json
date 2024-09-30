@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18qqn/AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:01:55 UT",
+            "Date": "2018-06-20"
+        },
+        {
+            "Name": "ATLAS18qqn/AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:33:12.902 UT",
+            "Date": "2018-06-27"
+        }
+    ],
+    "References": [
+        "Smartt et al. ATel #11727",
+        "Zheng et al. (ATel#11743)",
+        "Klotz et al. (ATel#11757)",
+        "Wu et al. (Atel#11758)",
+        "Basa et al. (ATel#11760)",
+        "Smartt et al. (Atel #11742, #11727)",
+        "Fremling et al. (ATel #11738)",
+        "Chen et al. (ATel #11734, #11729)",
+        "Im et al. (ATel #11772)"
+    ],
+    "Event Type": "Observation",
+    "Time": "13:01:55 UT",
+    "Date": "2018-06-20",
+    "Telescope": [
+        "GWAC/F60-A",
+        "GWAC/F60-B"
+    ],
+    "Instrument": null,
+    "Observatory": "Xinglong Observatory"
+}

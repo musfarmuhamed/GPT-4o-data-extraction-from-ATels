@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 0806+525",
+            "RA": "08h09m49.2s",
+            "Dec": "+52d18m58.2s",
+            "redshift": "0.138",
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2011-02-25"
+        }
+    ],
+    "References": "ATel #3192, ATel #1415, Acciari et al., 2009, ApJ, 690, 126",
+    "Event Type": "VHE (E>100 GeV) flare",
+    "Time": "Observed starting on February 26, monitored with 5 daily observations",
+    "Date": "2011-02-26",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

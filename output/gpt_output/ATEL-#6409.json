@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14duc",
+            "RA": "21:44:40.94",
+            "Dec": "-01:26:44.1",
+            "redshift": 0.12,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ14doz",
+            "RA": "22:29:54.74",
+            "Dec": "-54:10:06.0",
+            "redshift": 0.08,
+            "Type": "SNII-pec",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ14dlu",
+            "RA": "20:40:45.55",
+            "Dec": "-20:21:50.2",
+            "redshift": 0.15,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ14dtr",
+            "RA": "03:19:52.03",
+            "Dec": "-19:28:43.3",
+            "redshift": 0.08,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Baltay et al. 2013, PASP, 125, 683; Valenti et al., ATel #4037",
+    "Event Type": "spectroscopic classification",
+    "Time": "night",
+    "Date": "2014 Aug. 20",
+    "Telescope": "3.6m New Technology Telescope",
+    "Instrument": "EFOSC2 spectrograph",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15S2myz",
+            "RA": "02:41:48.32",
+            "Dec": "-00:22:06.8",
+            "redshift": "0.59",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2015 Dec 11"
+        },
+        {
+            "Name": "DES15S2mwz",
+            "RA": "02:42:33.44",
+            "Dec": "-01:15:16.7",
+            "redshift": "0.51",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2015 Dec 16"
+        }
+    ],
+    "References": "ATel #4668",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "495-920nm",
+    "Date": "2015 Dec 11, 2015 Dec 16",
+    "Telescope": "Gran Telescopio CANARIAS (GTC)",
+    "Instrument": "OSIRIS",
+    "Observatory": "Gran Telescopio CANARIAS"
+}

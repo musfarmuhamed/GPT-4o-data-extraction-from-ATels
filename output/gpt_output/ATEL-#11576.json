@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "Unknown",
+            "Date": "March 11 2018"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #11418",
+        "ATel #11423",
+        "ATel #11420",
+        "ATel #11426",
+        "ATel #11488",
+        "ATel #11510",
+        "ApJ, 544, L45",
+        "https://arxiv.org/abs/1804.09365"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Unknown",
+    "Date": "March 11 2018",
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2155-83",
+            "RA": "22h02m19.9s",
+            "Dec": "-83d38m13s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CRATES J2149-8315",
+            "RA": "21h49m49.9s",
+            "Dec": "-83d15m26s",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "T. Mauch et al. 2003, MNRAS, 342, 1117; Mauch et al. 2003",
+    "Event Type": "gamma-ray flux increase",
+    "Time": null,
+    "Date": "January 5, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

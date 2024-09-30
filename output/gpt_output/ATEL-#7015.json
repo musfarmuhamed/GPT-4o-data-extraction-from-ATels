@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ID": "6569",
+            "Source": "Atel"
+        },
+        {
+            "ID": "6969",
+            "Source": "Atel"
+        }
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2015-01-29",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT",
+        "Fermi/GBM"
+    ],
+    "Instrument": [
+        "MAXI/GSC nova alert system",
+        "Swift/BAT hard X-ray transient monitor"
+    ],
+    "Observatory": null
+}

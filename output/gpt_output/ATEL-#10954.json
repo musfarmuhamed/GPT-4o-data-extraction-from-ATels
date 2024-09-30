@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-17zfr (SN 2017hxo)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.062,
+            "Type": "91T-like SN Ia",
+            "Time": "11.7",
+            "Date": "2017 Nov. 11"
+        },
+        {
+            "Name": "SN 2006cz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J03024953+0529054",
+            "RA": "03h02m49.53s",
+            "Dec": "+05d29m05.4s",
+            "redshift": 0.062,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "PMO-Tsinghua Supernova Survey (PTSS, http://www.cneost.org/ptss/ )",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Observation",
+    "Time": "11.7",
+    "Date": "2017 Nov. 11",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

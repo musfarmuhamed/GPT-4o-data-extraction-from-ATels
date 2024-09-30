@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17abx",
+            "RA": "10:33:19.75",
+            "Dec": "-08:36:03.7",
+            "redshift": "0.065",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2017-01-16"
+        },
+        {
+            "Name": "SN2017hm (ASASSN-17aj)",
+            "RA": "11:33:10.57",
+            "Dec": "-10:13:18.4",
+            "redshift": "0.021",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2017-01-16"
+        },
+        {
+            "Name": "ATLAS17adf",
+            "RA": "11:44:28.23",
+            "Dec": "+16:33:29.8",
+            "redshift": "0.011",
+            "Type": "Galaxy",
+            "Time": "00:00:00",
+            "Date": "2017-01-16"
+        },
+        {
+            "Name": "SN2017hl (ASASSN-17ai)",
+            "RA": "12:07:18.82",
+            "Dec": "+16:50:26.0",
+            "redshift": "0.023",
+            "Type": "Ib",
+            "Time": "00:00:00",
+            "Date": "2017-01-16"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "00:00:00",
+    "Date": "2017-01-16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

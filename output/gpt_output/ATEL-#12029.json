@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18uk (AT 2018fxl)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "progenitor",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Brimacombe et al.",
+            "ATel": "#12018"
+        },
+        {
+            "Authors": "Allard et al.",
+            "IAUS": "282, 235",
+            "Year": 2012
+        },
+        {
+            "Authors": "Zaritsky et al.",
+            "AJ": "128, 1606",
+            "Year": 2004
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Wide-field Infrared Survey Explorer",
+        "Two Micron All Sky Survey",
+        "Spitzer Space Telescope",
+        "Gaia"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "University of California, Los Angeles",
+        "Jet Propulsion Laboratory/California Institute of Technology",
+        "Infrared Processing and Analysis Center/California Institute of Technology",
+        "European Space Agency (ESA)"
+    ]
+}

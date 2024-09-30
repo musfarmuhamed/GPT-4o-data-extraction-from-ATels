@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J09026-4812",
+            "RA": "09h 02m 37s.29",
+            "Dec": "-48d 13' 34\".2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "00:00:00",
+            "Date": "2007-02-05"
+        },
+        {
+            "Name": "2MASS J09023731-4813339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2006, 2007; Tomsick et al. 2006, ApJ, 647, 1309 and ATEL#959",
+    "Event Type": null,
+    "Time": "00:00:00",
+    "Date": "2007-02-05",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": "Chandra"
+}

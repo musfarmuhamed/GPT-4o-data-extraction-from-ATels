@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N LMC 2004",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #801",
+        "ATEL #770",
+        "CBET #498",
+        "ATEL #764",
+        "Greiner et al A&A 405, 703, 2003",
+        "Shore et al ApJ 456, 717, 1996",
+        "Hachisu & Kato astro-ph/0602563"
+    ],
+    "Event Type": "X-ray Telescope Observations",
+    "Time": [
+        "Apr 12.1 - Apr 28.7",
+        "May 10.6 - May 14.5",
+        "May 21.3 - May 24.3",
+        "May 31.0 - Jun 11.0"
+    ],
+    "Date": [
+        "Mar 13.8",
+        "Apr 12.1",
+        "Apr 28.7",
+        "May 10.6",
+        "May 14.5",
+        "May 21.3",
+        "May 24.3",
+        "May 31.0",
+        "Jun 11.0"
+    ],
+    "Telescope": "Swift X-ray telescope",
+    "Instrument": null,
+    "Observatory": null
+}

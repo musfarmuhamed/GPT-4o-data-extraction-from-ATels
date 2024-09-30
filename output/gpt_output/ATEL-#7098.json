@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17488-2018",
+            "RA": 267.208,
+            "Dec": -20.314,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "12:53-16:45",
+            "Date": "2015-02-17"
+        },
+        {
+            "Name": "NGC 6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MXB 1746-20 aka H1745-203",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #2672"
+    ],
+    "Event Type": "renewed activity at hard X-rays",
+    "Time": "12:53-16:45",
+    "Date": "2015-02-17",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

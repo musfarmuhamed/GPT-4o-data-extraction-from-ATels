@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole transient",
+            "Time": "12.3-14.3 h UT",
+            "Date": "2015 Aug 27"
+        }
+    ],
+    "References": [
+        {
+            "ATEL": "6649",
+            "ATELs": [
+                "6090",
+                "7009",
+                "7201",
+                "7434",
+                "7649"
+            ],
+            "Additional References": [
+                {
+                    "Title": "MNRAS",
+                    "Volume": "418",
+                    "Page": "1746",
+                    "Year": "2011",
+                    "Author": "Stiele et al."
+                },
+                {
+                    "Title": "ApJ",
+                    "Volume": "753",
+                    "Page": "55",
+                    "Year": "2012",
+                    "Author": "Dincer et al."
+                },
+                {
+                    "Title": "ApJ",
+                    "Volume": "808",
+                    "Page": "122",
+                    "Year": "2015",
+                    "Author": "Fuerst et al."
+                },
+                {
+                    "Title": "ATEL",
+                    "Volume": "1074",
+                    "Author": "Kalemci et al.",
+                    "Year": "2007"
+                }
+            ]
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "12.3-14.3 h UT",
+    "Date": "2015 Aug 27",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

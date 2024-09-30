@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174342.12-553006.3",
+            "RA": "17h 43m 42.12s",
+            "Dec": "-55d 30m 06.3s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "03.05624",
+            "Date": "2017-07-03"
+        },
+        {
+            "Name": "MASTER OT J185910.46-235548.6",
+            "RA": "18h 59m 10.46s",
+            "Dec": "-23d 55m 48.6s",
+            "redshift": null,
+            "Type": "dwarf nova?",
+            "Time": "05.07468",
+            "Date": "2017-07-05"
+        }
+    ],
+    "References": [
+        {
+            "Image URL": "http://observ.pereplet.ru/MASTEROTJ174342.12-553006.3.png",
+            "Date": "2017-04-28",
+            "Time": "28.20652"
+        },
+        {
+            "Image URL": "http://observ.pereplet.ru/MASTEROTJ185910.46-235548.6.png",
+            "Date": "2015-08-15",
+            "Time": "15.75181"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "UT",
+    "Date": "2017-07",
+    "Telescope": "MASTER-OAFA, MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

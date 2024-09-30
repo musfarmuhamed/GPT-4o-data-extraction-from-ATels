@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2011dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00155,
+            "Type": "Type IIb",
+            "Time": "2011-06-05T04:19:00Z",
+            "Date": "2011-06-05"
+        },
+        {
+            "Name": "SN 1987K",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": "1987-08-07"
+        },
+        {
+            "Name": "SN 2008ax",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": "+10 day",
+            "Date": null
+        },
+        {
+            "Name": "SN 1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3398",
+        "CBET #2736",
+        "Filippenko 1988, AJ, 96, 1941",
+        "Pastorello et al. 2008, MNRAS, 389, 955",
+        "Silverman et al. 2011, ATEL #3398",
+        "Arcavi et al. 2011, ATEL #3413",
+        "Matheson et al. 2000, AJ, 120, 1487"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": "2011-06-05T04:19:00Z",
+    "Date": "2011-06-05",
+    "Telescope": "Palomar Hale 5m",
+    "Instrument": "Double Spectrograph",
+    "Observatory": "Palomar Observatory"
+}

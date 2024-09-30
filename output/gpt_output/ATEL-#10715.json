@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J233054.7-365727.8",
+            "RA": "23h 30m 54.7s",
+            "Dec": "-36d 57m 27.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "07:40:58.398",
+            "Date": "2017-08-31"
+        },
+        {
+            "Name": "MASTER OT J072024.11+274152.5",
+            "RA": "07h 20m 24.11s",
+            "Dec": "+27d 41m 52.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-09-06"
+        },
+        {
+            "Name": "MASTER OT J072024.11+274152.5",
+            "RA": "08h 59m 45.08s",
+            "Dec": "+75d 36m 27.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-08-19"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "OT",
+    "Time": {
+        "MASTER OT J233054.7-365727.8": "07:40:58.398",
+        "MASTER OT J072024.11+274152.5_1": "null",
+        "MASTER OT J072024.11+274152.5_2": "null"
+    },
+    "Date": {
+        "MASTER OT J233054.7-365727.8": "2017-08-31",
+        "MASTER OT J072024.11+274152.5_1": "2017-09-06",
+        "MASTER OT J072024.11+274152.5_2": "2017-08-19"
+    },
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-OAFA (Argentina), MASTER-Kislovodsk, MASTER-Amur"
+}

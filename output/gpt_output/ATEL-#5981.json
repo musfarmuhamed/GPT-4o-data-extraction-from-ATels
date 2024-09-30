@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1222+216",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.432,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATel_2584": "https://www.astronomerstelegram.org/?read=2584"
+        },
+        {
+            "ATel_2684": "https://www.astronomerstelegram.org/?read=2684"
+        },
+        {
+            "ATel_2687": "https://www.astronomerstelegram.org/?read=2687"
+        },
+        {
+            "Larionov_et_al_ATel_5921": "https://www.astronomerstelegram.org/?read=5921"
+        },
+        {
+            "Aleksic_et_al_2011": "https://iopscience.iop.org/article/10.1088/2041-8205/730/1/L8"
+        }
+    ],
+    "Event Type": "detection of very-high-energy (VHE) gamma-ray emission",
+    "Time": null,
+    "Date": {
+        "Start": "2014-02-26",
+        "End": "2014-03-10"
+    },
+    "Telescope": "VERITAS",
+    "Instrument": null,
+    "Observatory": null
+}

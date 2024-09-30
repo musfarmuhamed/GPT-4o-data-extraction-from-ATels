@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J15384000-4744500",
+            "RA": "15:38:43.80",
+            "Dec": "-47:44:41.0",
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "2018-06-03.4306",
+            "Date": "2018-06-03"
+        },
+        {
+            "Name": "PNV J15384000-4744500",
+            "RA": "15:38:43.80",
+            "Dec": "-47:44:41.0",
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "2018-06-06.188",
+            "Date": "2018-06-06"
+        }
+    ],
+    "References": "ATel #11681, ATel #11684, CBAT Transient Object Followup Reports for PNV J15384000-4744500",
+    "Event Type": "observation",
+    "Time": "1.9ks",
+    "Date": "2018-06-06",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

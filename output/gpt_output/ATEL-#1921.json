@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR/AXP",
+            "Time": "17:18:04",
+            "Date": "2009 Jan 23"
+        },
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR/AXP",
+            "Time": "21:14:45",
+            "Date": "2009 Jan 29"
+        },
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR/AXP",
+            "Time": "15:30:59",
+            "Date": "2009 Jan 24"
+        },
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR/AXP",
+            "Time": "22:14:36",
+            "Date": "2009 Jan 25"
+        },
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR/AXP",
+            "Time": "14:21:35",
+            "Date": "2009 Jan 28"
+        }
+    ],
+    "References": [
+        "GCN #8833",
+        "ATEL #1913",
+        "ATEL #1908"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2009 Jan",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "SWIFT XRT",
+        "Soft Gamma-Ray Imager (ISGRI)"
+    ],
+    "Observatory": "ISOC"
+}

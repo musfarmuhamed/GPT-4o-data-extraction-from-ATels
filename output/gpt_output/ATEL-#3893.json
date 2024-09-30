@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GALEX J063213.0+253623",
+            "RA": "06:32:13.06",
+            "Dec": "+25:36:22.5",
+            "redshift": null,
+            "Type": "Optical transient source (likely cataclysmic variable)",
+            "Time": "12:65",
+            "Date": "2012-01-27"
+        }
+    ],
+    "References": [
+        "Tycho-2 (Hog et al., 2000, A&A, 355L, 27)",
+        "ROSAT All Sky Survey Faint Source Catalog (Voges et al., 2000, IAUC, 7432)",
+        "All Sky Automated Survey (ASAS-3, Pojmanski 2001, ASPC, 246, 53)"
+    ],
+    "Event Type": "Detection of optical transient source",
+    "Time": null,
+    "Date": "2012-01-27",
+    "Telescope": "Telephoto lens (F=135mm f/2.0)",
+    "Instrument": "ST8300M CCD",
+    "Observatory": "Ka-Dar Observatory at the Mountain station of Kazan State University (Karachay-Cherkessia, Russia)"
+}

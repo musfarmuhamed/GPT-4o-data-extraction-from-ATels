@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 287",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.306",
+            "Type": "BL Lac",
+            "Time": "2457353.8425",
+            "Date": "2015-11-27"
+        },
+        {
+            "Name": "OJ 287",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.306",
+            "Type": "BL Lac",
+            "Time": "2457361.8497",
+            "Date": "2015-12-05"
+        },
+        {
+            "Name": "OJ 287",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.306",
+            "Type": "BL Lac",
+            "Time": "2457363.8527",
+            "Date": "2015-12-07"
+        }
+    ],
+    "References": [
+        "ATel #8372",
+        "ATel #8374",
+        "ATel #8378",
+        "Falomo, Scarpa, & Bersanelli 1994, ApJS, 93, 125",
+        "Sitko & Junkkarinen 1985, PASP, 97, 1158"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "Cerro Tololo, Chile (CTIO)"
+}

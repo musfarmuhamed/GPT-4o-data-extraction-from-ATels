@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10aauo",
+            "RA": "09:59:54.26",
+            "Dec": "+68:06:02.5",
+            "redshift": "0.035",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "Nov 7"
+        },
+        {
+            "Name": "PTF10aauu",
+            "RA": "09:29:56.74",
+            "Dec": "+35:21:52.6",
+            "redshift": "0.044",
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "Nov 13"
+        },
+        {
+            "Name": "PTF10acbu",
+            "RA": "14:00:46.92",
+            "Dec": "+59:20:16.5",
+            "redshift": "0.009877",
+            "Type": "SN Ic",
+            "Time": "Null",
+            "Date": "Nov 15"
+        }
+    ],
+    "References": [
+        {
+            "Title": "CBET 2486",
+            "Date": "Oct 03.605 UT"
+        },
+        {
+            "Title": "CBET 2600",
+            "Date": "Null"
+        },
+        {
+            "Title": "ATel #1964",
+            "URL": "http://www.astro.caltech.edu/ptf"
+        },
+        {
+            "Title": "Oke & Gunn 1982, PASP, 94, 586",
+            "Date": "Null"
+        },
+        {
+            "Title": "Howell et al. 2005, ApJ 634, 1190",
+            "Date": "Null"
+        }
+    ],
+    "Event Type": "Discovery and Spectroscopic Classification",
+    "Time": "Null",
+    "Date": "December 13 UT",
+    "Telescope": "Palomar 48-inch Oschin Schmidt telescope",
+    "Instrument": "Double-Beam Spectrograph (DBSP)",
+    "Observatory": "Palomar 5-m Hale telescope"
+}

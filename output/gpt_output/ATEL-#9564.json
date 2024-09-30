@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic Nova",
+            "Time": "0.47986",
+            "Date": "2016-09-28"
+        },
+        {
+            "Name": "HD137620",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#9538",
+        "#9539",
+        "#9550",
+        "CBET #4322",
+        "APASS; Henden et al. 2015",
+        "ATel #9550",
+        "AAVSO"
+    ],
+    "Event Type": "follow-up photometry",
+    "Time": "0.47986",
+    "Date": "2016-09-28",
+    "Telescope": "Celestron NexStar 4\"",
+    "Instrument": "Canon EOS 300D camera",
+    "Observatory": "downtown Santiago (Chile)"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J2141-6411",
+            "RA": 325.44346,
+            "Dec": -64.18733,
+            "redshift": null,
+            "Type": "blazar of unknown type",
+            "Time": "daily averaged",
+            "Date": "2014-Sep-22"
+        },
+        {
+            "Name": "PKS 2136-642",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Healey et al. 2007, ApJS, 171, 61",
+        "Kalberla et al. 2005, A&A, 440, 775"
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": "daily averaged",
+    "Date": "2014-Sep-22",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +40.25",
+            "RA": "10h 23m 11.5661s",
+            "Dec": "39d 48m 15.378s",
+            "redshift": 1.254,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "24 November 2015"
+        },
+        {
+            "Name": "FBQS J102333.5+395312",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate-quasar",
+            "Time": null,
+            "Date": "24 November 2015"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS 218, 23",
+        "Helmboldt et al. 2007, ApJ, 658, 203",
+        "Xu et al. 1994, AJ, 108, 395",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Verner et al. 1996, ApJ, 465, 487"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "24 November 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Swift Observatory"
+}

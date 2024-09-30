@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS V +44 17",
+            "RA": "70.35",
+            "Dec": "44.39",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "02:10:23-09:48:47",
+            "Date": "2010-03-31"
+        },
+        {
+            "Name": "BSD 24-491",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0440.9+4431",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Reig and Roche 1999, MNRAS 306, 100",
+    "Event Type": "brightening",
+    "Time": "00:39:30-00:39:42",
+    "Date": "2010-03-31",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

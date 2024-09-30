@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia DR2 369276756923364224",
+            "RA": "00h45m28s.24",
+            "Dec": "+41o29'43\".9",
+            "redshift": "0.203",
+            "Type": "quasar",
+            "Time": "3.5 m telescope at APO: exposures on 2018 October 7.260 UT; Rozhen NAO 50/70cm Schmidt telescope: Photometry on 2018 October 06.812 UT and 2018 October 06.850 UT; ZTF: Outburst on August 2018, 29.453 UT",
+            "Date": "3.5 m telescope at APO: exposures on 2018 October 7.260 UT; Rozhen NAO 50/70cm Schmidt telescope: Photometry on 2018 October 06.812 UT and 2018 October 06.850 UT; ZTF: Outburst on August 2018, 29.453 UT"
+        },
+        {
+            "Name": "Gaia DR2 369288714109887744",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.215",
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Williams et al. 2014, Khan (2017), Dorn-Wallenstein et al. 2017, Vilardell et al (2006)",
+    "Event Type": "spectroscopic confirmation of quasar nature",
+    "Time": "3.5 m telescope: 2018 October 7.260 UT, Rozhen NAO 50/70cm Schmidt telescope: 2018 October 06.812 UT and 2018 October 06.850 UT, ZTF: Outburst on August 2018, 29.453 UT",
+    "Date": "3.5 m telescope: 2018 October 7.260 UT, Rozhen NAO 50/70cm Schmidt telescope: 2018 October 06.812 UT and 2018 October 06.850 UT, ZTF: Outburst on August 2018, 29.453 UT",
+    "Telescope": "3.5 m telescope, 50/70cm Schmidt telescope, Zwicky Transient Facility",
+    "Instrument": "Dual Imaging Spectrograph (DIS)",
+    "Observatory": "APO, Rozhen NAO, ZTF"
+}

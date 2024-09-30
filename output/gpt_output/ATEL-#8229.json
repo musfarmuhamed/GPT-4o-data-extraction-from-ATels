@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0836+710 (4C 71.07)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.172,
+            "Type": "flat-spectrum radio quasar (FSRQ)",
+            "Time": "57325.053097",
+            "Date": "2015-10-30"
+        }
+    ],
+    "References": [
+        "Bulgarelli et al., ATel #8223",
+        "Kalberla et al. 2005",
+        "Vercellone et al., ATel #7898",
+        "Ciprini et al., ATel #7870"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015 October 29",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT/PC",
+        "UVOT"
+    ],
+    "Observatory": "No specific observatory mentioned, data analyzed by Swift Target of Opportunity monitoring"
+}

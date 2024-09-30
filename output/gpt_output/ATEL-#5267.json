@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13bz",
+            "RA": "0:44:27.672",
+            "Dec": "+43:42:42.12",
+            "redshift": null,
+            "Type": "CV in outburst / Very young supernova",
+            "Time": "12.39",
+            "Date": "2013 Aug 12"
+        },
+        {
+            "Name": "u-band point source",
+            "RA": "11.1160454",
+            "Dec": "+43.71147",
+            "redshift": null,
+            "Type": "Candidate progenitor",
+            "Time": null,
+            "Date": "2013 Sept 09"
+        },
+        {
+            "Name": "g-band source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Candidate progenitor",
+            "Time": null,
+            "Date": "2008 Oct 21"
+        }
+    ],
+    "References": "Stanek & Garnavich 1998",
+    "Event Type": "Discovery of a new transient source",
+    "Time": "12.39",
+    "Date": "2013 Aug 12",
+    "Telescope": "\"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

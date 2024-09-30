@@ -1,0 +1,171 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018fcg",
+            "RA": "21:09:36.78",
+            "Dec": "+33:28:59.55",
+            "redshift": "0.101",
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": "2018-08-22"
+        },
+        {
+            "Name": "AT2018fch",
+            "RA": "22:33:35.35",
+            "Dec": "+41:46:59.49",
+            "redshift": "0.085",
+            "Type": "SN Ia-91T",
+            "Time": null,
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "AT2018fhe",
+            "RA": "19:50:48.25",
+            "Dec": "+64:55:22.29",
+            "redshift": "0.068",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-15"
+        },
+        {
+            "Name": "AT2018fio",
+            "RA": "15:21:14.34",
+            "Dec": "+30:38:11.91",
+            "redshift": "0.075",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "AT2018fin",
+            "RA": "16:51:00.82",
+            "Dec": "+25:52:33.50",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-20"
+        },
+        {
+            "Name": "SN2018fdy",
+            "RA": "00:53:13.01",
+            "Dec": "+20:42:52.94",
+            "redshift": "0.082",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "AT2018fhh",
+            "RA": "18:48:19.08",
+            "Dec": "+30:36:25.24",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-20"
+        },
+        {
+            "Name": "AT2018fhg",
+            "RA": "15:03:45.13",
+            "Dec": "+61:34:04.41",
+            "redshift": "0.066",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "SN2018fdt",
+            "RA": "17:04:44.34",
+            "Dec": "+38:14:08.04",
+            "redshift": "0.055",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2018-08-20"
+        },
+        {
+            "Name": "SN2018ffi",
+            "RA": "21:40:11.29",
+            "Dec": "+21:33:30.21",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-19"
+        },
+        {
+            "Name": "SN2018feb",
+            "RA": "17:10:11.16",
+            "Dec": "+21:38:56.53",
+            "redshift": "0.015",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-18"
+        },
+        {
+            "Name": "SN2018evd",
+            "RA": "23:16:51.81",
+            "Dec": "+41:03:33.34",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-20"
+        },
+        {
+            "Name": "AT2018fae",
+            "RA": "17:30:42.75",
+            "Dec": "+62:49:52.06",
+            "redshift": "0.082",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fec",
+            "RA": "18:00:35.19",
+            "Dec": "+61:41:51.76",
+            "redshift": "0.075",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "SN2018fdz",
+            "RA": "18:15:18.53",
+            "Dec": "+29:54:38.68",
+            "redshift": "0.065",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-08-17"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel #11266"
+        },
+        {
+            "Reference": "ATel #11688"
+        },
+        {
+            "Reference": "ATel #11974"
+        },
+        {
+            "Reference": "Trans"
+        },
+        {
+            "Reference": "ATel #11986."
+        },
+        {
+            "Reference": "ATel #11973"
+        },
+        {
+            "Reference": "ATel #11969"
+        },
+        {
+            "Reference": "ATel #11948"
+        }
+    ],
+    "Event Type": "Transient Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

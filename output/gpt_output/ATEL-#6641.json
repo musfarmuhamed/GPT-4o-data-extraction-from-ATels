@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J120451.50+265946.6",
+            "RA": "12:04:51.50",
+            "Dec": "+26:59:46.6",
+            "redshift": "0.00189",
+            "Type": "Ib",
+            "Time": null,
+            "Date": "20141029.14"
+        },
+        {
+            "Name": "MASTER OT J113930.78+251141.0",
+            "RA": "11:39:30.78",
+            "Dec": "+25:11:41.0",
+            "redshift": "0.01226",
+            "Type": "II",
+            "Time": null,
+            "Date": "20141029.12"
+        },
+        {
+            "Name": "Gaia14acg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03145",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20141029.17"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "ATel #6634",
+        "ATel #6639",
+        "ATel #6595",
+        "Huchra et al. 1995, ApJS 99, 391",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al. 2014, ATel #6593"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

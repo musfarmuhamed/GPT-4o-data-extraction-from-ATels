@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": "type-Ia (normal) supernova",
+            "Time": "13.26 UT",
+            "Date": "May 13",
+            "Host Galaxy": "UGC 6434"
+        },
+        {
+            "Name": "UGC 6434",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #9045, Blondin & Tonry 2007, ApJ, 666, 1024, Huchra, J. P. et al., 2012, ApJ Supp. 199",
+    "Event Type": "spectrum observation",
+    "Time": "13.26 UT",
+    "Date": "May 13",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio pulsar",
+            "Time": "13:19:26 - 20:49:37",
+            "Date": "2014-06-03 to 2014-06-05"
+        }
+    ],
+    "References": [
+        "ATel #3115",
+        "ATel #6198",
+        "FERMI/LAT data archive"
+    ],
+    "Event Type": "flaring activity",
+    "Time": "13:19:26 - 20:49:37",
+    "Date": "2014-06-03 to 2014-06-05",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

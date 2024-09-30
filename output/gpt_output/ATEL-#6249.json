@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14bf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP SN",
+            "Time": "June 6.2",
+            "Date": "UT"
+        },
+        {
+            "Name": "ASASSN-14ca",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV in outburst",
+            "Time": "June 9",
+            "Date": "UT"
+        }
+    ],
+    "References": [
+        {
+            "ASASSN-14bf": [
+                "ATel #6169"
+            ],
+            "ASASSN-14ca": [
+                "ATel #6211",
+                "#6221",
+                "vsnet-alert 17369",
+                "vsnet-alert 17371"
+            ]
+        }
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": {
+        "ASASSN-14bf": "MDM 2.4m + OSMOS",
+        "ASASSN-14ca": "LBT 2x8m + MODS"
+    },
+    "Instrument": {
+        "ASASSN-14bf": "OSMOS",
+        "ASASSN-14ca": "MODS"
+    },
+    "Observatory": null
+}

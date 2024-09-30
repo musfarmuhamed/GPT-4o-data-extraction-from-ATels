@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting neutron star",
+            "Time": null,
+            "Date": "2013-04-07"
+        }
+    ],
+    "References": [
+        "Atel #4925",
+        "Atel #4927",
+        "Atel #4929",
+        "Atel #4934",
+        "Atel #4959",
+        "Atel #4960"
+    ],
+    "Event Type": "burst oscillations",
+    "Time": "32s length burst tail light-curve",
+    "Date": "2013-04-07",
+    "Telescope": "Swift/XRT",
+    "Instrument": "Window-Timing mode",
+    "Observatory": null
+}

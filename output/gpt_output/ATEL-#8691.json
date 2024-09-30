@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J033239.21+193215.0",
+            "RA": "03h 32m 39.21s",
+            "Dec": "+19d 32m 15.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-02-12.86192",
+            "Date": "2016-02-12"
+        },
+        {
+            "Name": "MASTER OT J132407.75-003227.3",
+            "RA": "13h 24m 07.75s",
+            "Dec": "-00d 32m 27.3s",
+            "redshift": null,
+            "Type": "QSO 2QZ J132407-0032 optical flare",
+            "Time": "2016-02-11.12831",
+            "Date": "2016-02-11"
+        },
+        {
+            "Name": "MASTER OT J114345.21+342950.5",
+            "RA": "11h 43m 45.21s",
+            "Dec": "+34d 29m 50.5s",
+            "redshift": null,
+            "Type": "possible UVCet type flare",
+            "Time": "2016-02-13.04681",
+            "Date": "2016-02-13"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "observational discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

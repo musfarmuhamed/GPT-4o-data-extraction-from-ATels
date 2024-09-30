@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": "19:37",
+            "Date": "2013-04-28"
+        },
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": "19:37",
+            "Date": "2013-04-28"
+        },
+        {
+            "Name": "Source 23 from Becker et al. (2003)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "19:37",
+            "Date": "2013-04-28"
+        }
+    ],
+    "References": [
+        "ATel #4925",
+        "ATel #4927",
+        "Becker et al. (2003 ApJ, 594, 798)",
+        "ATel #4981"
+    ],
+    "Event Type": "Observation",
+    "Time": "19:37",
+    "Date": "2013-04-28",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

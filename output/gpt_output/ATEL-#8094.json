@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15gg",
+            "RA": "00:02:46.95",
+            "Dec": "-73:30:42.3",
+            "redshift": "0.031",
+            "Type": "Type IIP SN",
+            "Time": "UT",
+            "Date": "2015 September 9.2"
+        },
+        {
+            "Name": "OGLE15gs",
+            "RA": "00:02:46.95",
+            "Dec": "-73:30:42.3",
+            "redshift": "0.031",
+            "Type": "Type IIP SN",
+            "Time": "UT",
+            "Date": "2015 September 9.2"
+        },
+        {
+            "Name": "OGLE15gu",
+            "RA": "00:02:46.95",
+            "Dec": "-73:30:42.3",
+            "redshift": "0.031",
+            "Type": "Type IIP SN",
+            "Time": "UT",
+            "Date": "2015 September 9.2"
+        }
+    ],
+    "References": "Wyrzykowski et al., 2014, AcA, 64, 197",
+    "Event Type": "Discovery",
+    "Time": "UT",
+    "Date": "2015 September 9.2",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS",
+    "Observatory": "LCOGT"
+}

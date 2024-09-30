@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E2so",
+            "RA": "00:35:30.61",
+            "Dec": "-44:22:16.6",
+            "redshift": 0.37,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES15S2it",
+            "RA": "02:43:34.63",
+            "Dec": "-01:31:06.1",
+            "redshift": 0.36,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES15S2og",
+            "RA": "02:46:54.05",
+            "Dec": "-01:00:35.8",
+            "redshift": 0.385,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES15X2asp",
+            "RA": "02:23:14.24",
+            "Dec": "-06:16:05.1",
+            "redshift": 0.37,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES15X2asq",
+            "RA": "02:24:26.78",
+            "Dec": "-06:37:48.2",
+            "redshift": 0.28,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2016 Sep 07"
+        }
+    ],
+    "References": [
+        "ATel #4668",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al, 2005, ApJ, 634, 119",
+        "ATEL #8367"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": "2016 Sep 07",
+    "Date": null,
+    "Telescope": "6.5m Clay telescope",
+    "Instrument": "LDSS-3C",
+    "Observatory": "Las Campanas Observatory"
+}

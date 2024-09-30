@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J153636.22+044127.0",
+            "RA": "15h 36m 36.22s",
+            "Dec": "+04d 41m 27.0s",
+            "redshift": 0.388,
+            "Type": "Quasar / Candidate supermassive black hole binary",
+            "Time": "Null",
+            "Date": "2009-02-04"
+        },
+        {
+            "Name": "SDSS J153636.22+044127.0",
+            "RA": "15h 36m 36.22s",
+            "Dec": "+04d 41m 27.0s",
+            "redshift": 0.388,
+            "Type": "Quasar / Candidate supermassive black hole binary",
+            "Time": "Null",
+            "Date": "2009-02-05"
+        },
+        {
+            "Name": "1RXS J153635.6+044118",
+            "RA": "15h 36m 35.6s",
+            "Dec": "+04d 41m 18s",
+            "redshift": "Null",
+            "Type": "ROSAT Faint Source Catalog source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Boroson & Lauer 2009, arXiv:0901.3779v1",
+        "Carrera et al. 2004, A&A 420, 163",
+        "Richards et al. 2006, ApJS 166, 470",
+        "Steffen et al. 2006, AJ 131, 2826"
+    ],
+    "Event Type": "Observation",
+    "Time": "Null",
+    "Date": [
+        "2009-02-04",
+        "2009-02-05"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-Ray Telescope (XRT)",
+        "Ultraviolet/Optical Telescope (UVOT)"
+    ],
+    "Observatory": "Swift satellite"
+}

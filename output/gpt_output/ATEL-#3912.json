@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "01:17",
+            "Date": "2012-02-01"
+        }
+    ],
+    "References": [
+        "Cao et al. (ATel #3905)",
+        "A.W.S. thanks the NSF for support through AST-1009566"
+    ],
+    "Event Type": "discovery and observation",
+    "Time": null,
+    "Date": "2012-02-02 to 2012-02-03",
+    "Telescope": "9.2m Hobby-Eberly Telescope, 0.65-m telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "Ondrejov"
+}

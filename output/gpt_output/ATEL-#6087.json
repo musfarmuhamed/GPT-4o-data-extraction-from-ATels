@@ -1,0 +1,80 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14asn",
+            "RA": "12:56:25.16",
+            "Dec": "-30:23:49.9",
+            "redshift": "0.05",
+            "Type": "II",
+            "Time": "around max, +30d post-explosion",
+            "Date": "20140318"
+        },
+        {
+            "Name": "LSQ14aym",
+            "RA": "12:58:45.70",
+            "Dec": "-14:36:44.4",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20140324"
+        },
+        {
+            "Name": "LSQ14azm",
+            "RA": "14:26:52.01",
+            "Dec": "-23:06:44.0",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "20140326"
+        },
+        {
+            "Name": "LSQ14azr",
+            "RA": "13:34:16.02",
+            "Dec": "-01:37:22.5",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20140329"
+        },
+        {
+            "Name": "LSQ14baz",
+            "RA": "12:39:18.80",
+            "Dec": "-16:12:28.9",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20140328"
+        },
+        {
+            "Name": "LSQ14bcj",
+            "RA": "14:05:58.39",
+            "Dec": "-12:04:10.4",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "20140403"
+        },
+        {
+            "Name": "PSN J21461482-4631211",
+            "RA": "21:46:14.82",
+            "Dec": "-46:31:21.1",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "20140420"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Pastorello et al. 2012 A&A, 537, 141"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "All night (specific time not provided)",
+    "Date": "2014 Apr 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19203+1328",
+            "RA": "290.145",
+            "Dec": "13.47",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": [
+                "2011-05-14 05:21:38",
+                "2011-05-15 07:51:04"
+            ],
+            "Date": [
+                "2011-05-14",
+                "2011-05-15"
+            ]
+        },
+        {
+            "Name": "IGR J19094+0415",
+            "RA": "287.414",
+            "Dec": "4.254",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": [
+                "2011-05-16 08:28:28",
+                "2011-05-16 21:13:12"
+            ],
+            "Date": [
+                "2011-05-16"
+            ]
+        }
+    ],
+    "References": [
+        "http://isdc.unige.ch",
+        "http://integral.esac.esa.int/isoc/html/schedules/AO8_Long_Term_Plan.html",
+        "http://gpsiasf.iasf-roma.inaf.it/"
+    ],
+    "Event Type": "Galactic Plane Scan",
+    "Time": [
+        "2011-05-14 05:21:38",
+        "2011-05-15 07:51:04",
+        "2011-05-16 08:28:28",
+        "2011-05-16 21:13:12"
+    ],
+    "Date": [
+        "2011-05-14",
+        "2011-05-15",
+        "2011-05-16"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "European Space Astronomy Centre (ESAC)"
+}

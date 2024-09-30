@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 121102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "repeating fast radio burst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Spitler et al., Nature, 531, 7593 202-205, 2016",
+        "MacMahon et al. arXiv:1707.06024v2",
+        "Law et al. arXiv:1705.07553"
+    ],
+    "Event Type": "observation",
+    "Time": "13:51:44",
+    "Date": "2023-08-26",
+    "Telescope": "Green Bank Telescope",
+    "Instrument": "Breakthrough Listen Digital Backend with the C-band receiver",
+    "Observatory": "Green Bank Observatory"
+}

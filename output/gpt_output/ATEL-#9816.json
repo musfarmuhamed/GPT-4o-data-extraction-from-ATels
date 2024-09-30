@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016ipd",
+            "RA": "01:53:34.36",
+            "Dec": "+31:17:43.65",
+            "redshift": "0.036",
+            "Type": "Ia",
+            "Time": "-3d",
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "AT2016ijj",
+            "RA": "01:55:23.55",
+            "Dec": "+21:17:10.05",
+            "redshift": "0.041",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "AT2016ipi",
+            "RA": "05:48:27.02",
+            "Dec": "-23:19:25.39",
+            "redshift": "0.046",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "AT2016iol",
+            "RA": "11:41:56.17",
+            "Dec": "+12:35:09.96",
+            "redshift": "0.034",
+            "Type": "Ia",
+            "Time": "+9d",
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "AT2016hsw",
+            "RA": "03:50:36.44",
+            "Dec": "+13:54:50.96",
+            "redshift": "0.037",
+            "Type": "Ia",
+            "Time": "+20d",
+            "Date": "2016-12-01"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Transients",
+    "Time": "Null",
+    "Date": "2016-12-01",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": "Null"
+}

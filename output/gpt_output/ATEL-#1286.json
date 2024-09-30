@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J052522.48+241331.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J052523.2+241331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-A2.0 1125-02389994",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart",
+            "Time": "07:38",
+            "Date": "2007 Nov 15"
+        },
+        {
+            "Name": "Halpha",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Balmer line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeII 4686",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeII 5412",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeI 5876",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeI 6678",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeI 7065",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HeI 7281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #1279",
+    "Event Type": "Optical spectroscopy",
+    "Time": "07:38",
+    "Date": "2007 Nov 15",
+    "Telescope": "Magellan Clay 6.5m",
+    "Instrument": "LDSS-3 spectrograph",
+    "Observatory": null
+}

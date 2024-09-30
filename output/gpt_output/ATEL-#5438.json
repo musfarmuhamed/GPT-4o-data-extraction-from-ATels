@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KS 1947+300",
+            "RA": 297.344,
+            "Dec": 30.147,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:15:36",
+            "Date": "2013-10-02"
+        },
+        {
+            "Name": "GRO J1948+32",
+            "RA": 297.344,
+            "Dec": 30.147,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:15:36",
+            "Date": "2013-10-02"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Borozdin et al. 1990",
+            "Name": "KS 1947+300",
+            "Date": "1989-06-08"
+        },
+        {
+            "Author": "Chakrabarty et al. 1995",
+            "Name": "KS 1947+300",
+            "Date": "1994"
+        },
+        {
+            "Author": "Galloway et al. 2004",
+            "Name": "KS 1947+300",
+            "Date": "2001-01"
+        },
+        {
+            "Author": "Naik et al. 2006",
+            "Name": "KS 1947+300",
+            "Date": "2001-01"
+        }
+    ],
+    "Event Type": "Nova alert",
+    "Time": "01:15:36",
+    "Date": "2013-10-02",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "X-ray",
+    "Observatory": null
+}

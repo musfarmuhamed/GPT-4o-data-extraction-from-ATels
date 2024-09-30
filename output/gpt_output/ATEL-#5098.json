@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J153605.15+135706.9",
+            "RA": "15h 36m 05.15s",
+            "Dec": "+13d 57m 06.9s",
+            "redshift": null,
+            "Type": "Possible Supernova",
+            "Time": "2013-05-27.89161 UT",
+            "Date": "2013-05-27"
+        },
+        {
+            "Name": "MASTER OT J200116.78+044142.6",
+            "RA": "20h 01m 16.78s",
+            "Dec": "+04d 41m 42.6s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable, likely a dwarf nova",
+            "Time": "2013-05-31.70625 UT",
+            "Date": "2013-05-31"
+        },
+        {
+            "Name": "MASTER OT J221926.10+395436.3",
+            "RA": "22h 19m 26.10s",
+            "Dec": "+39d 54m 36.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable, likely a dwarf nova of UGWZ (WZ Sge) subtype",
+            "Time": "2013-06-02.77100 UT",
+            "Date": "2013-06-02"
+        }
+    ],
+    "References": [
+        "Reference image for MASTER OT J153605.15+135706.9: 2012-04-23.954 UT (magnitude limit 19.9m)",
+        "Reference image for MASTER OT J200116.78+044142.6: 2012-04-15.79271 UT (magnitude limit 17.2m)",
+        "Reference image for MASTER OT J221926.10+395436.3: 2012-11-18.49744 UT (magnitude limit 19.1m)"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Robotic Net",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER-Kislovodsk, MASTER-Amur, MASTER-Tunka"
+}

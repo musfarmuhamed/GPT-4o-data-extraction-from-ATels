@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16ar",
+            "RA": "03:56:21.42",
+            "Dec": "-40:40:02.8",
+            "redshift": "0.077",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-01-09"
+        },
+        {
+            "Name": "LSQ16bu",
+            "RA": "13:23:32.33",
+            "Dec": "-23:53:40.2",
+            "redshift": "0.041",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-01-11"
+        },
+        {
+            "Name": "OGLE15xg",
+            "RA": "02:29:54.78",
+            "Dec": "-70:48:55.6",
+            "redshift": "0.061",
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-11-22"
+        },
+        {
+            "Name": "OGLE16aaa",
+            "RA": "01:07:20.88",
+            "Dec": "-64:16:20.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-12-21"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-01-16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2491 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N nova",
+            "Time": "various",
+            "Date": "various"
+        },
+        {
+            "Name": "U Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V394 CrA",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V2487 Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1475",
+        "IAUC #8934",
+        "CBET #1334",
+        "Williams et al., 1991, ApJ 376, 721",
+        "Munari et al., 1999, A&A 347, L39",
+        "Williams, 1992, AJ 104, 725",
+        "ATel #1478",
+        "Hachisu et al. (2002, ASP Conf. Ser. 261, 629)"
+    ],
+    "Event Type": "observations",
+    "Time": "Apr. 14.99 UT, Apr. 17.06 UT, Apr. 18.99 UT, Apr. 13 - Apr. 18, Apr. 11.36, Apr. 15.08 UT, Apr. 17.08 UT",
+    "Date": "various in April",
+    "Telescope": "60/90 cm Schmidt-Cassegrain telescope, 60 cm Cassegrain telescope",
+    "Instrument": "Canadian Copernicus Spectrograph",
+    "Observatory": "Piwnice Observatory"
+}

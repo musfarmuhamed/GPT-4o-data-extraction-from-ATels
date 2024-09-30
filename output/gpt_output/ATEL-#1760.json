@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accretion-powered millisecond pulsar",
+            "Time": "roughly 10 ks per day",
+            "Date": "2008-09-21"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Hartman et al. 2008",
+            "Journal": "ApJ",
+            "Volume": 675,
+            "Page": 1468
+        },
+        {
+            "Name": "Di Salvo et al. 2008",
+            "Journal": "MNRAS",
+            "Volume": 389,
+            "Page": 185
+        }
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2008-09-21",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

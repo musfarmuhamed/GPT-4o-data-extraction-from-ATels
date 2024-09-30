@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21:57 UT to 10:16 UT",
+            "Date": "2013-04-12 to 2013-04-13"
+        },
+        {
+            "Name": "Markarian 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "02:23 UT to 15:32 UT",
+            "Date": "2013-04-15"
+        }
+    ],
+    "References": [
+        {
+            "Name": "NuStar",
+            "ATel": "#4974"
+        },
+        {
+            "Name": "MAXI",
+            "ATel": "#4978"
+        },
+        {
+            "Name": "VHE",
+            "ATel": "#4976"
+        },
+        {
+            "Name": "Fermi/LAT",
+            "ATel": "#4977"
+        },
+        {
+            "Name": "Swift/BAT",
+            "ATel": "#1449"
+        },
+        {
+            "Name": "Swift/BAT",
+            "ATel": "#2292"
+        }
+    ],
+    "Event Type": "flare",
+    "Time": [
+        "21:57 UT to 10:16 UT",
+        "02:23 UT to 15:32 UT"
+    ],
+    "Date": [
+        "2013-04-12 to 2013-04-13",
+        "2013-04-15"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

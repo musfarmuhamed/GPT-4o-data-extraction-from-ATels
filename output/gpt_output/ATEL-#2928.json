@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray pulsar binary system",
+            "Time": null,
+            "Date": "2010-Oct-10"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Kiziloglu et al.",
+            "ATel": "#2925"
+        },
+        {
+            "Author": "Galis et al.",
+            "ATel": "#1063"
+        }
+    ],
+    "Event Type": "renewed hard X-ray activity",
+    "Time": null,
+    "Date": "2010-Oct-12",
+    "Telescope": "Swift/BAT",
+    "Instrument": "hard X-ray transient monitor",
+    "Observatory": null
+}

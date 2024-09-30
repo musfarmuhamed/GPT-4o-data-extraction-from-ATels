@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15eo",
+            "RA": "03 02 15.55",
+            "Dec": "-74 17 12.2",
+            "redshift": "0.064",
+            "Type": "Ia-norm",
+            "Time": "Not Specified",
+            "Date": "20150816"
+        },
+        {
+            "Name": "ASASSN-15ov",
+            "RA": "03 30 59.20",
+            "Dec": "-18 33 24.5",
+            "redshift": "0.029",
+            "Type": "II",
+            "Time": "Not Specified",
+            "Date": "20150824"
+        }
+    ],
+    "References": "Smartt et al. 2015, Wyrzykowski et al., 2014, Shappee et al. 2014, Blondin & Tonry, 2007, Harutyunyan et al., 2008",
+    "Event Type": "supernova classifications",
+    "Time": "Not Specified",
+    "Date": "2015 September 4th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

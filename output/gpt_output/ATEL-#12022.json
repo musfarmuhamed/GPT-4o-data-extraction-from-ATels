@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18th",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2018-09-08.17",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ASASSN-18ui",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2018-09-08.18",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ASASSN-18ts",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.040",
+            "Type": "Ia",
+            "Time": "2018-09-08.34",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ASASSN-18sw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010",
+            "Type": "Ic",
+            "Time": "2018-09-08.44",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ATLAS18uen",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2018-09-08.39",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "Gaia18ckn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gal",
+            "Time": "2018-09-08.45",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18abrqfjs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2018-09-08.46",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "Gaia18ciw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.008",
+            "Type": "IIP",
+            "Time": "2018-09-08.51",
+            "Date": "2018-09-08"
+        }
+    ],
+    "References": "1, 2, 3, 4",
+    "Event Type": "optical spectroscopic observations",
+    "Time": "2018-09-08",
+    "Date": "2018-09-08",
+    "Telescope": "Hale 5m telescope",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J194211.9+255552",
+            "RA": "19h42m11.13s",
+            "Dec": "+25:56:07.32",
+            "redshift": null,
+            "Type": "unidentified source",
+            "Time": "06:10:09.7",
+            "Date": "2011-12-21"
+        },
+        {
+            "Name": "19421116+2556056 (2MASS All-Sky Catalog of Point Sources)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1159-0412038 (USNO-B1.0 catalog)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #3816",
+    "Event Type": "Swift/XRT follow-up observation",
+    "Time": "06:10:09.7",
+    "Date": "2011-12-21",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

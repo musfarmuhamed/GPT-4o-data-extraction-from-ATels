@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RT Cru",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic star",
+            "Time": "11:26 - 02:34",
+            "Date": "2012-01-20 to 2012-01-23"
+        },
+        {
+            "Name": "IGR J12349-6434",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray emitting symbiotic star",
+            "Time": "11:26 - 02:34",
+            "Date": "2012-01-20 to 2012-01-23"
+        }
+    ],
+    "References": "ATel #519",
+    "Event Type": "detection",
+    "Time": "11:26 - 02:34 and 18:53:58",
+    "Date": "2012-01-20 to 2012-01-23 and 2012-01-24",
+    "Telescope": [
+        "IBIS/ISGRI",
+        "Swift/XRT"
+    ],
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

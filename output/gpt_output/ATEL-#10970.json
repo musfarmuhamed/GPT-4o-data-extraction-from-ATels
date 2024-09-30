@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ot/AT2017hzv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037",
+            "Type": "Ia",
+            "Time": "14.34",
+            "Date": "2017 Nov. 14"
+        },
+        {
+            "Name": "ATLAS17myf/AT2017hvr",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030808",
+            "Type": "Ia",
+            "Time": "14.17",
+            "Date": "2017 Nov. 14"
+        },
+        {
+            "Name": "AT2017hyj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.056046",
+            "Type": "Ia",
+            "Time": "14.15",
+            "Date": "2017 Nov. 14"
+        },
+        {
+            "Name": "Gaia17cvb/AT2017hyz",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018036",
+            "Type": "II",
+            "Time": "14.02",
+            "Date": "2017 Nov. 14"
+        }
+    ],
+    "References": [
+        "ATel #10967",
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": null,
+    "Time": "Nov. 14",
+    "Date": "2017",
+    "Telescope": "du Pont 2.5m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

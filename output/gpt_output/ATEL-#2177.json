@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J221832.8+192527",
+            "RA": "22h 18m 32.7s",
+            "Dec": "+19d 25' 19\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "4885 and 4542 s",
+            "Date": "2009-08-02 and 2009-08-04"
+        },
+        {
+            "Name": "USNO-B1.0 star",
+            "RA": "22h 18m 32.74s",
+            "Dec": "+19d 25' 20.6\"",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": "2009-08-21"
+        }
+    ],
+    "References": "ROSAT All-Sky Survey Bright Source Catalogue",
+    "Event Type": "Observation",
+    "Time": "4885 and 4542 s",
+    "Date": "2009-08-02 and 2009-08-04",
+    "Telescope": "Swift XRT",
+    "Instrument": null,
+    "Observatory": null
+}

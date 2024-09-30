@@ -1,0 +1,126 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASSASN-15go",
+            "RA": "06:11:30.50",
+            "Dec": "-16:29:03.5",
+            "redshift": 0.019,
+            "Type": "Ia",
+            "Phase": "-3d",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15yn",
+            "RA": "14:08:43.54",
+            "Dec": "-26:30:34.2",
+            "redshift": 0.11,
+            "Type": "IIn",
+            "Phase": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15yo",
+            "RA": "14:11:03.99",
+            "Dec": "-26:05:12.8",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Phase": "+8d",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15zd",
+            "RA": "15:07:49.77",
+            "Dec": "+02:13:55.0",
+            "redshift": 0.091,
+            "Type": "Ia",
+            "Phase": "-2d",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15ze",
+            "RA": "15:32:52.10",
+            "Dec": "-15:16:54.4",
+            "redshift": 0.025,
+            "Type": "Ibc?",
+            "Phase": "+1-2 months",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15zf",
+            "RA": "16:57:00.72",
+            "Dec": "+18:29:03.5",
+            "redshift": 0.052,
+            "Type": "II",
+            "Phase": "+1-2 months",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15zg",
+            "RA": "17:08:31.96",
+            "Dec": "+21:20:26.6",
+            "redshift": 0.058,
+            "Type": "?",
+            "Phase": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15zn",
+            "RA": "10:49:50.23",
+            "Dec": "+17:52:59.9",
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Phase": "-8d",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS15zp",
+            "RA": "10:56:31.51",
+            "Dec": "+23:40:26.2",
+            "redshift": null,
+            "Type": "?",
+            "Phase": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Note": "Independently classified by Childress et al. (ATEL #7368). We measure a Si II 6355 velocity of -13,400 km/s."
+        },
+        {
+            "Note": "Independently classified by Childress et al. (ATEL #7368). We measure a Si II 6355 velocity of -9,600 km/s."
+        },
+        {
+            "Note": "We measure a Si II 6355 velocity of -12,800 km/s."
+        },
+        {
+            "Note": "Classified as a SN II by Le Guillou et al. (ATEL #7102). We find better matches to SNe Ib and Ic than SNe II, although we cannot rule out a SN II(b) classification."
+        },
+        {
+            "Note": "Independently classified by Cartier et al. (ATEL #7363)."
+        },
+        {
+            "Note": "Spectrum is dominated by the host galaxy light."
+        },
+        {
+            "Note": "91T-like spectrum."
+        },
+        {
+            "Note": "The spectrum shows a blue continuum."
+        }
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2015 April 9 UT",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

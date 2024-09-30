@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bq (AT 2017xx)",
+            "RA": "07:25:38.206",
+            "Dec": "+59:00:09.63",
+            "redshift": 0.04,
+            "Type": "Type Ia SN",
+            "Time": "2017-01-27.51",
+            "Date": "2017-01-27"
+        },
+        {
+            "Name": "GALEXASC J072538.14+590010.5",
+            "RA": "07:25:38.14",
+            "Dec": "+59:00:10.5",
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN (All Sky Automated Survey for SuperNovae)",
+    "Event Type": "Supernova",
+    "Time": "2017-01-27.51",
+    "Date": "2017-01-27",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

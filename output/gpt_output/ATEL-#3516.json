@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J011527.3-312354",
+            "RA": "01 15 27.3",
+            "Dec": "-31 23 54",
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": null,
+            "Date": "3rd July 2011"
+        },
+        {
+            "Name": "6dFGS gJ011527.4-312352",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.05",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of a bright X-ray flare",
+    "Time": null,
+    "Date": "3rd July 2011",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn detector (medium filter)",
+    "Observatory": null
+}

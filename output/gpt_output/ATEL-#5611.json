@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2008-12"
+        },
+        {
+            "Name": "M31N 2011-10e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2011-10"
+        },
+        {
+            "Name": "M31N 2012-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2012-10"
+        },
+        {
+            "Name": "Observed nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #5607",
+        "ATEL #3725",
+        "ATEL #3727",
+        "ATEL #3728",
+        "ATEL #4503",
+        "Bode et al. (2009), ApJ, 705, 1056",
+        "Williams et al. (2013), arXiv:1303.1980",
+        "Darnley et al. (2012), ApJ, 746, 61"
+    ],
+    "Event Type": "outburst",
+    "Time": {
+        "JD 2456625.357": "B = 19.51 \u00b1 0.01",
+        "JD 2456625.425": "B = 19.61 \u00b1 0.01",
+        "JD 2456625.430": "V = 19.65 \u00b1 0.02",
+        "JD 2456625.435": "i' = 19.29 \u00b1 0.02"
+    },
+    "Date": [
+        "2010-08-07 (HST archival data)",
+        "JD 2456625.357",
+        "JD 2456625.425",
+        "JD 2456625.430",
+        "JD 2456625.435"
+    ],
+    "Telescope": "Liverpool Telescope",
+    "Instrument": [
+        "IO:O CCD camera",
+        "Hubble Space Telescope with ACS/WFC"
+    ],
+    "Observatory": "La Palma"
+}

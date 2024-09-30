@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova ASASSN-16kd",
+            "RA": "17:22:51.426",
+            "Dec": "-31:58:36.28",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVV J172251.46-315837.1",
+            "RA": "17:22:51.465",
+            "Dec": "-31:58:37.08",
+            "redshift": null,
+            "Type": "Likely progenitor",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. (ATel #9469)",
+        "Bohlsen 2016, ATel #9477"
+    ],
+    "Event Type": "Discovery of Nova and progenitor identification",
+    "Time": null,
+    "Date": [
+        "2010",
+        "2016"
+    ],
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO"
+}

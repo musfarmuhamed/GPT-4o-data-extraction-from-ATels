@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray binary",
+            "Time": "16.4 hours",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cornelisse et al. 2012",
+        "ATel #3102",
+        "ATel #8513",
+        "Homan et al. 2014",
+        "Lewis et al. 2008",
+        "ATel #3116"
+    ],
+    "Event Type": "new outburst",
+    "Time": null,
+    "Date": "2016 January 6",
+    "Telescope": "Faulkes Telescopes",
+    "Instrument": "Bessell I-band filter",
+    "Observatory": [
+        "Haleakala on Maui, Hawaii",
+        "Siding Spring, Australia"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2004ds",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "13.5",
+            "Date": "Aug. 13",
+            "Reference": "IAUC #8386"
+        },
+        {
+            "Name": "SN 2004dt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "13.5",
+            "Date": "Aug. 13",
+            "Reference": "IAUC #8386"
+        }
+    ],
+    "References": "IAUC #8386",
+    "Event Type": "Spectroscopic Observation",
+    "Time": "13.5",
+    "Date": "Aug. 13",
+    "Telescope": "10-m Keck I",
+    "Instrument": "LRIS",
+    "Observatory": "California Institute of Technology"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0051-736",
+            "RA": "00h 54m 33.47s",
+            "Dec": "-73d 41' 01.0''",
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": "02:00UT",
+            "Date": "September 24th, 2015"
+        },
+        {
+            "Name": "2MASS J00543343-7341012",
+            "RA": "00h 54m 33.47s",
+            "Dec": "-73d 41' 01.0''",
+            "redshift": null,
+            "Type": "B0 type star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SMC X-2",
+            "RA": "00h 54m 33.47s",
+            "Dec": "-73d 41' 01.0''",
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Negoro et al., ATEL #8088; Schmidtke et al., 2006, AJ, 132, 971; Willingale et al. 2013",
+    "Event Type": "Target-of-opportunity observation",
+    "Time": "02:00UT",
+    "Date": "September 24th, 2015",
+    "Telescope": "Swift",
+    "Instrument": "Photon Counting mode (PC)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS17ha / AT2017jc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "16.8 UT",
+            "Date": "2017-01-16"
+        },
+        {
+            "Name": "SDSS J233710.60-021036.9",
+            "RA": "23h37m10.60s",
+            "Dec": "-02d10m36.9s",
+            "redshift": 0.08,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Observation",
+    "Time": "16.8 UT",
+    "Date": "2017-01-16",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

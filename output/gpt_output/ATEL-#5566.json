@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13cux",
+            "RA": "22:45:21.73",
+            "Dec": "-10:43:38.4",
+            "redshift": "0.085",
+            "Type": "Ia",
+            "Time": "Oct 20.028",
+            "Date": "Nov 8",
+            "Disc Mag": "19.7",
+            "Details": "7 days past max light, resembles SN2007Ie at +7days",
+            "Instrument": "WFCCD",
+            "Observatory": "La Silla-QUEST",
+            "Telescope": "Null"
+        },
+        {
+            "Name": "LSQ13cvv",
+            "RA": "23:40:55.89",
+            "Dec": "-13:53:55.8",
+            "redshift": "0.164",
+            "Type": "Ia",
+            "Time": "Oct 30.078",
+            "Date": "Nov 8",
+            "Disc Mag": "21.1",
+            "Details": "1 day before max, resembles SN2007F at -1 day",
+            "Instrument": "WFCCD",
+            "Observatory": "La Silla-QUEST",
+            "Telescope": "Null"
+        }
+    ],
+    "References": "Hadjiyska et al. ATel#3812, La Silla-QUEST - Baltay et al. PASP 125 683",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "WFCCD",
+    "Observatory": "La Silla-QUEST"
+}

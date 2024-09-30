@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J145056.15-255526.9",
+            "RA": "14h 50m 56.15s",
+            "Dec": "-25d 55m 26.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "00:39:56.914-01:01:26.475",
+            "Date": "2016-01-27.02773 UT"
+        },
+        {
+            "Name": "MASTER OT J180111.99-580705.6",
+            "RA": "18h 01m 11.99s",
+            "Dec": "-58d 07m 05.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": null,
+            "Date": "2016-01-28.08697 UT"
+        },
+        {
+            "Name": "MASTER OT J124204.36+075100.3",
+            "RA": "12h 42m 04.36s",
+            "Dec": "+07d 51m 00.3s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": null,
+            "Date": "2016-01-09.88318 UT"
+        },
+        {
+            "Name": "V0394 Aps",
+            "RA": "18h 04m 11.13s",
+            "Dec": "-71d 59m 47.5s",
+            "redshift": null,
+            "Type": "outburst",
+            "Time": "01:47:53.859",
+            "Date": "2016-01-27"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-04-13.89786",
+            "m_lim": "20.7m"
+        },
+        {
+            "Date": "2015-05-24",
+            "Time": "20:17:12",
+            "m_lim": "19.6m"
+        },
+        {
+            "Date": "2015-03-25",
+            "Time": "21:51:17",
+            "m_lim": "20.2m"
+        },
+        {
+            "Date": "2015-01-03",
+            "Time": "02:17:22",
+            "m_lim": "19.3m"
+        },
+        {
+            "Date": "2015-03-20",
+            "Time": "00:33:41",
+            "m_lim": "20.6m",
+            "m_OT": "18.0m"
+        },
+        {
+            "Date": "2015-05-27",
+            "Time": "20:47:23.841",
+            "m_OT": "18.4m"
+        },
+        {
+            "Date": "2015-10-21",
+            "Time": "19:17:12",
+            "m_OT": "18.9m"
+        },
+        {
+            "Date": "2012-05-15",
+            "Time": "19:58:56.977",
+            "m_OT": "19.6m",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2014-01-03",
+            "Time": "23:45:36.606",
+            "m_OT": "18.8m",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2016-01-05",
+            "Time": "03:43:38.854",
+            "m_OT": "18.6m",
+            "Observatory": "MASTER-IAC"
+        },
+        {
+            "Date": "2016-01-11",
+            "Time": "03:05:20.618",
+            "m_OT": "19.1m",
+            "Observatory": "MASTER-IAC"
+        },
+        {
+            "Date": "2011-03-28",
+            "Time": "23:05:10",
+            "m_lim": "21.6m",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2012-05-17",
+            "Time": "00:15:13.56",
+            "m_lim": "19.5m",
+            "Observatory": "MASTER-Tunka"
+        }
+    ],
+    "Event Type": "dwarf nova outburst, possible dwarf nova outburst, outburst",
+    "Time": "00:39:56.914-01:01:26.475, 01:47:53.859",
+    "Date": "2016-01-27.02773 UT, 2016-01-28.08697 UT, 2016-01-09.88318 UT, 2016-01-27",
+    "Telescope": "MASTER-SAAO auto-detection system, MASTER-Tunka auto-detection system",
+    "Instrument": "MASTER-Kislovodsk, MASTER-IAC",
+    "Observatory": "MASTER Global Robotic Net, MASTER"
+}

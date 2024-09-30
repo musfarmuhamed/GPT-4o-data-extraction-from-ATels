@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016blg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07,
+            "Type": "Type Ia Supernova",
+            "Time": "Apr.04.7",
+            "Date": 2016
+        },
+        {
+            "Name": "SDSS J132713.81-021615.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "Apr.04.7",
+    "Date": 2016,
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Astronomical Observatories (YNAO)"
+}

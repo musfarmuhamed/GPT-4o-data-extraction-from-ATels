@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-066",
+            "RA": "4:26:10.33",
+            "Dec": "-62:31:07.1",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-067",
+            "RA": "3:39:46.50",
+            "Dec": "-75:47:33.6",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-068",
+            "RA": "5:34:00.16",
+            "Dec": "-69:03:06.1",
+            "redshift": null,
+            "Type": "hostless SN or CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-069",
+            "RA": "1:15:50.70",
+            "Dec": "-63:17:17.3",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-070",
+            "RA": "0:45:14.41",
+            "Dec": "-66:19:50.6",
+            "redshift": null,
+            "Type": "hostless SN or CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-071",
+            "RA": "5:26:09.30",
+            "Dec": "-65:08:13.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-NOVA-01",
+            "RA": "3:55:06.31",
+            "Dec": "-69:23:41.1",
+            "redshift": null,
+            "Type": "nova or large amplitude dwarf nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. ATEL #4495",
+        "Kozlowski et al. 2013"
+    ],
+    "Event Type": "discovery of transient candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

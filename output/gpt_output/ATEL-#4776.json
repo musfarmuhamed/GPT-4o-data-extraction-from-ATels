@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J23470787+2929115",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017239",
+            "Type": "type-Ia supernova",
+            "Time": "30.77",
+            "Date": "Jan. 30",
+            "Other": "The expansion velocity, deduced from the Si II 635.5-nm absorption, is about 14000 km/s."
+        },
+        {
+            "Name": "MASTER OT J093135.12+352342.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.052",
+            "Type": "type-Ia supernova",
+            "Time": "31.09",
+            "Date": "Jan. 31",
+            "Other": "The expansion velocity, deduced from the Si II 635.5-nm absorption, is about 11000 km/s."
+        },
+        {
+            "Name": "PSNJ13101968+3228257",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017646",
+            "Type": "type-Ia supernova",
+            "Time": "31.17",
+            "Date": "Jan. 31",
+            "Other": null
+        }
+    ],
+    "References": [
+        "Rhee & van Albada 1996, A&A Supple. 115, 407; via NED",
+        "Rines et al. 2001, ApJL 561, 41, via NED",
+        "Harutyunyan et al. 2008, A&A 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

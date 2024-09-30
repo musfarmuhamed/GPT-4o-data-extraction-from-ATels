@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18zz / SN 2018ioa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.041229",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-11-23.03"
+        },
+        {
+            "Name": "ATLAS18yik / SN 2018hzh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-11-23.13"
+        },
+        {
+            "Name": "ASASSN-18zp / SN 2018ido",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.052997",
+            "Type": "AGN/TDE?",
+            "Time": null,
+            "Date": "2018-11-23.32"
+        }
+    ],
+    "References": "ATel #12228, ATel #12194, ATel #8680, Shappee et al. 2014, Tonry et al. 2011, Blondin & Tonry, 2007, ApJ, 666, 1024, ATel #3516",
+    "Event Type": "spectroscopic observation",
+    "Time": null,
+    "Date": "2018-11-23",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

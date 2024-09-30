@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1727-476=IGR J17269-4737",
+            "RA": "17:26:49.30",
+            "Dec": "-47:38:25.5",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:57UT - 00:09UT",
+            "Date": "Oct 12 - Oct 13"
+        }
+    ],
+    "References": [
+        "ATel #623",
+        "ATel #624",
+        "ATel #626",
+        "ATel #628"
+    ],
+    "Event Type": "near-infrared imaging",
+    "Time": "23:57UT - 00:09UT",
+    "Date": "Oct 12 - Oct 13",
+    "Telescope": "100\" du Pont telescope",
+    "Instrument": "wide-field infrared camera",
+    "Observatory": "Las Campanas Observatory"
+}

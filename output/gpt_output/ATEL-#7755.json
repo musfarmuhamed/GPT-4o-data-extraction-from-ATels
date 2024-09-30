@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole System",
+            "Time": "12:47",
+            "Date": "2015/06/26"
+        }
+    ],
+    "References": [
+        "GCN #17929",
+        "Atel #7646",
+        "ATel #7736",
+        "ATel #7716",
+        "Miller-Jones, J. et al., ApJL, 706, 230",
+        "Shahbaz, T. et al., 1994, MNRAS, 271, L1"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "12:47",
+    "Date": "2015/06/26",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray transient",
+            "Time": "March 8.0-8.2",
+            "Date": "2005-03-08"
+        }
+    ],
+    "References": [
+        "ATel #414",
+        "ATel #422",
+        "ATel #432",
+        "ATel #436"
+    ],
+    "Event Type": "flux increase",
+    "Time": null,
+    "Date": "2005-03-08",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "European gamma-ray satellite"
+}

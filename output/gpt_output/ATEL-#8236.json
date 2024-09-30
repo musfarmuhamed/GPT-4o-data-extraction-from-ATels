@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110707.62-052244.0",
+            "RA": "11h 07m 07.62s",
+            "Dec": "-05d 22m 44.0s",
+            "redshift": null,
+            "Type": "Possible SN",
+            "Time": "2015-11-01.10779 UT",
+            "Date": "2015-11-01"
+        },
+        {
+            "Name": "PGC1045517",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 349171",
+    "Event Type": "discovery",
+    "Time": "2015-11-01.10779 UT",
+    "Date": "2015-11-01",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

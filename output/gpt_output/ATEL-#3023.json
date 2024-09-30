@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SHBL J001355.9-185406",
+            "RA": "00:13:56.05",
+            "Dec": "-18:54:06.5",
+            "redshift": "0.094846",
+            "Type": "BL Lac object",
+            "Time": "2455510.67830",
+            "Date": "November 10th, 2010"
+        },
+        {
+            "Name": "NVSS J001356-185406",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3007",
+        "ATel#3014"
+    ],
+    "Event Type": "NIR brightening",
+    "Time": "2455510.67830",
+    "Date": "November 10th, 2010",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

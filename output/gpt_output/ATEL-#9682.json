@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16eqv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN 1991T-like type-Ia supernova",
+            "Time": "27.1",
+            "Date": "2016-10-27"
+        },
+        {
+            "Name": "2MASX J02314347-2500088",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.085",
+            "Type": "host-galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1997br",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "-4 days before max light",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Colless et al. 2003, 2dFGRS, arXiv:astroph/0306581",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Huber et al. 2015, ATel #7153"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "27.1",
+    "Date": "2016-10-27",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

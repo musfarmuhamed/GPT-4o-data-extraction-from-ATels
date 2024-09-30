@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00435329+4126216",
+            "RA": "0h43m53s.45",
+            "Dec": "+41o26'22\".0",
+            "redshift": null,
+            "Type": "Probable nova",
+            "Time": [
+                "27.816",
+                "29.920",
+                "30.820",
+                "30.829"
+            ],
+            "Date": [
+                "2016 Aug. 27",
+                "2016 Aug. 29",
+                "2016 Aug. 30",
+                "2016 Aug. 30"
+            ]
+        }
+    ],
+    "References": "K. Nishiyama and F. Kabashima",
+    "Event Type": "Discovery",
+    "Time": "2016 Aug. 30.820 UT",
+    "Date": "2016 Aug. 30",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J004428.4+415628",
+            "RA": "00:44:28.4",
+            "Dec": "+41:56:28.1",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXO J004251.2+411639",
+            "RA": "00:42:51.295",
+            "Dec": "+41:16:39.88",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J004239.5+411614",
+            "RA": "00:42:39.526",
+            "Dec": "+41:16:14.46",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J004305.5+411703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J004242.1+411424",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOM31 J004309.7+411901",
+            "RA": "00:43:09.791",
+            "Dec": "+41:19:01.22",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Supper etal 2001, A&A 373, 63",
+        "Primini, Forman & Jones 1993, ApJ 410, 615",
+        "Trinchieri and Fabbiano 1991 ApJ 382, 82"
+    ],
+    "Event Type": "Survey",
+    "Time": null,
+    "Date": "Nov 19, 2001",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": [
+        "HRC",
+        "ACIS-S"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1810.8-2609",
+            "RA": "18:10:44.52",
+            "Dec": "-26:08:42.6",
+            "redshift": null,
+            "Type": "Neutron star X-ray transient",
+            "Time": "21:56-22:16 UT",
+            "Date": "2007-08-05"
+        },
+        {
+            "Name": "XTE J1701-462",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star X-ray transient",
+            "Time": "23:38 - 23:59 UT",
+            "Date": "2007-08-13"
+        }
+    ],
+    "References": [
+        {
+            "Source": "ATel #696",
+            "Authors": "Remillard, Lin et al. 2006"
+        },
+        {
+            "Source": "IAUC # 6838",
+            "Authors": "Ubertini et al. 1998"
+        },
+        {
+            "Source": "GCN #6706",
+            "Authors": "Parsons et al. 2007"
+        },
+        {
+            "Source": "MNRAS,349,94",
+            "Authors": "Jonker, Wijnands & van der Klis 2004"
+        },
+        {
+            "Source": "MNRAS,308,17",
+            "Authors": "Greiner et al. 1999"
+        },
+        {
+            "Source": "ATel #1165",
+            "Authors": "Homan et al. 2007"
+        },
+        {
+            "Source": "ApJ,350,386",
+            "Authors": "McClintock & Remillard, 1990"
+        },
+        {
+            "Source": "ATel #712",
+            "Authors": "Maitra & Bailyn 2006"
+        }
+    ],
+    "Event Type": "Optical observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "William Herschel Telescope",
+            "Date": "2007-08-05",
+            "Instrument": "Aux Port imager",
+            "Observatory": "La Palma"
+        },
+        {
+            "Name": "Magellan Baade telescope",
+            "Date": "2007-08-13",
+            "Instrument": "IMACS imaging spectrograph",
+            "Observatory": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016X",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young type-IIP supernova",
+            "Time": "2016 Jan. 23.88",
+            "Date": "2016-01-23"
+        },
+        {
+            "Name": "SN 2006bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "t = -2 days referring to the maximum brightness",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#8566",
+        "Hosseinzadeh et al. (ATel#8567)",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "optical spectrum",
+    "Time": "2016 Jan. 23.88",
+    "Date": "2016-01-23",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "Li-Jiang observatory of Yunnan Observatories"
+}

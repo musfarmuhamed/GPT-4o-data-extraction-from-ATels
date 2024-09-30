@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES13C3ui",
+            "RA": "03:26:40.68",
+            "Dec": "-28:03:55.0",
+            "redshift": 0.064,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2013 Sep 29"
+        },
+        {
+            "Name": "DES13E1ao",
+            "RA": "00:29:07.55",
+            "Dec": "-43:08:27.6",
+            "redshift": 0.172,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2013 Oct 30"
+        },
+        {
+            "Name": "DES13X3fca",
+            "RA": "02:24:04.15",
+            "Dec": "-04:21:25.3",
+            "redshift": 0.099,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2013 Oct 30"
+        },
+        {
+            "Name": "DES13E1dcb",
+            "RA": "00:30:58.63",
+            "Dec": "-42:10:20.2",
+            "redshift": 0.179,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2013 Nov 01"
+        },
+        {
+            "Name": "DES13X1kae",
+            "RA": "02:15:37.11",
+            "Dec": "-04:12:33.1",
+            "redshift": 0.15,
+            "Type": "Ia-91T",
+            "Time": "Null",
+            "Date": "2013 Nov 01"
+        },
+        {
+            "Name": "DES13S1qv",
+            "RA": "02:52:46.53",
+            "Dec": "-00:07:39.1",
+            "redshift": 0.187,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2013 Nov 01"
+        },
+        {
+            "Name": "DES13C2bxd",
+            "RA": "03:38:02.51",
+            "Dec": "-29:09:25.6",
+            "redshift": 0.039,
+            "Type": "Ic",
+            "Time": "Null",
+            "Date": "2013 Nov 01"
+        },
+        {
+            "Name": "DES13C1juw",
+            "RA": "03:38:31.04",
+            "Dec": "-27:02:34.0",
+            "redshift": 0.2,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2013 Nov 02"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Saunders et al. 2004, SPIE, 5492, 389; M. Smith et al. (ATel #5548)",
+    "Event Type": "Spectroscopic classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph and 2dF fibre positioner",
+    "Observatory": "Null"
+}

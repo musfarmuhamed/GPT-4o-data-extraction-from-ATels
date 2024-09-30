@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016cvm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.069,
+            "Type": "Ia",
+            "Time": "20160618.04",
+            "Date": "20160618"
+        },
+        {
+            "Name": "PTSS-16hxs",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.069,
+            "Type": "Ia",
+            "Time": "20160613.77",
+            "Date": "20160613"
+        }
+    ],
+    "References": [
+        {
+            "Title": "The Asiago Transient Classification Program",
+            "Authors": "Tomasella et al.",
+            "Year": 2014,
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Title": "GELATO",
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Title": "SNID",
+            "Authors": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "20160618.04",
+    "Date": "20160618",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

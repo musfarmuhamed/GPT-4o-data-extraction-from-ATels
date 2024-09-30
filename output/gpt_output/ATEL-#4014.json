@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary",
+            "Time": "21:21:34",
+            "Date": "2011-10-21"
+        },
+        {
+            "Name": "3A 1820-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "non-dipping source",
+            "Time": null,
+            "Date": "1977"
+        }
+    ],
+    "References": [
+        "ATel #3686",
+        "Galloway et al. 2008, ApJS 179, 360",
+        "Diaz Trigo et al., Proc. HRXS conference, 2006",
+        "Welsh et al. 2000, ApJ 120, 943",
+        "Robinson et al. 2001, AIP Conf. Proc. 599, 902",
+        "Cominsky, Simmons & Bowyer 1985, ApJ 298, 581"
+    ],
+    "Event Type": "observation of dips in X-ray intensity",
+    "Time": "21:21:34",
+    "Date": "2011-10-21",
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "proportional counter unit (PCU #2)",
+    "Observatory": null
+}

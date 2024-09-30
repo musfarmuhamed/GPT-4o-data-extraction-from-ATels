@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2247-131",
+            "RA": 342.4983854,
+            "Dec": -12.8546736,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AGL J2251-1239",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Beasley et al. 2002, ApJS, 141, 13",
+    "Event Type": "gamma-ray emission observation",
+    "Time": "daily",
+    "Date": "December 11, 2016",
+    "Telescope": "Fermi",
+    "Instrument": "LAT",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

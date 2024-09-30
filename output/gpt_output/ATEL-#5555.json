@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "00h 57m 40.99s",
+            "Dec": "+44d 31m 01.5s",
+            "redshift": null,
+            "Type": "Milky Way CV",
+            "Time": "13:29:50",
+            "Date": "2013-11-06"
+        }
+    ],
+    "References": [
+        {
+            "Name": "reference image",
+            "RA": "00h 57m 40.99s",
+            "Dec": "+44d 31m 01.5s",
+            "redshift": null,
+            "Type": "reference",
+            "Time": "18:54:47",
+            "Date": "2012-09-24"
+        }
+    ],
+    "Event Type": "discovered OT source",
+    "Time": "13:29:50",
+    "Date": "2013-11-06",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global"
+}

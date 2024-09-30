@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017erp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.006174,
+            "Type": "type-Ia supernova",
+            "Time": "13.9 UT",
+            "Date": "2017 Jun 13"
+        },
+        {
+            "Name": "SN 2003W",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1990N",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 5861",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006174",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024; Theureau et al. 2005, A&A, 430, 373; via NED",
+    "Event Type": "spectroscopy",
+    "Time": "13.9 UT",
+    "Date": "2017 Jun 13",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

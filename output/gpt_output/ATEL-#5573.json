@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Del 2013 (V339 Del)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-soft X-ray source",
+            "Time": "87.9",
+            "Date": "10 Nov"
+        }
+    ],
+    "References": [
+        "Osborne et al. 2011 ApJ 727, 124",
+        "Schwarz et al. 2011 ApJS 197, 31",
+        "Ness et al. 2007 ApJ 665 1334",
+        "(S11)",
+        "(O11)",
+        "(N07)",
+        "ATEL #2423"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": [
+        {
+            "day": "70.8",
+            "rate": "1.5",
+            "date": null
+        },
+        {
+            "day": "84.4",
+            "rate": "varied",
+            "date": null
+        },
+        {
+            "day": "87.9",
+            "rate": "~100",
+            "date": "10 Nov"
+        },
+        {
+            "day": "88.0",
+            "rate": "quasi-periodic oscillation detected",
+            "date": null
+        },
+        {
+            "day": "88.6",
+            "rate": "quasi-periodic oscillation detected",
+            "date": null
+        },
+        {
+            "day": "89.7",
+            "rate": "observed",
+            "date": "12 Nov"
+        }
+    ],
+    "Date": [
+        "10 Nov",
+        "12 Nov"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

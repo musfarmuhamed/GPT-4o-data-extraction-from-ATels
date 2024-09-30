@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035",
+            "Type": "Type Ia SN",
+            "Time": "N/A",
+            "Date": "2015 May 19.5"
+        },
+        {
+            "Name": "SN 2003du",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7527, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Spectrum Observation",
+    "Time": "N/A",
+    "Date": "2015 May 19.5",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": "Faulkes Telescope North"
+}

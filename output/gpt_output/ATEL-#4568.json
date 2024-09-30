@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": [
+                "Oct. 30.84 UT",
+                "Nov. 08.95",
+                "Nov. 09.76",
+                "Nov. 10.72"
+            ],
+            "Date": [
+                "October 30, 2012",
+                "November 08, 2012",
+                "November 09, 2012",
+                "November 10, 2012"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #4557",
+        "ATel #4565"
+    ],
+    "Event Type": "Photometric Observation",
+    "Time": null,
+    "Date": [
+        "October 30, 2012",
+        "November 08, 2012",
+        "November 09, 2012",
+        "November 10, 2012"
+    ],
+    "Telescope": [
+        "Belogradchik 60cm Telescope",
+        "Rozhen 60cm Telescope"
+    ],
+    "Instrument": null,
+    "Observatory": "Bulgaria"
+}

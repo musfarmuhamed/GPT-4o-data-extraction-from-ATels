@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18qk",
+            "RA": "22:10:35.581",
+            "Dec": "-27:14:58.96",
+            "redshift": 0.02395,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "2018-08-01.13"
+        },
+        {
+            "Name": "2MASS J22103576-2714557",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": 0.02395,
+            "Type": "galaxy",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery",
+    "Time": "Unknown",
+    "Date": "2018-08-01",
+    "Telescope": "Paczynski",
+    "Instrument": "Unknown",
+    "Observatory": "Cerro Tololo, Chile"
+}

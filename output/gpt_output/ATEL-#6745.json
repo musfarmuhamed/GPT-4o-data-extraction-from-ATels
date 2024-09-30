@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J075043.33+790917.1",
+            "RA": "07h 50m 43.33s",
+            "Dec": "+79d 09m 17.1s",
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "2014-11-24.62164 UT",
+            "Date": "2014-11-24"
+        },
+        {
+            "Name": "NVSS J075043+790917",
+            "RA": "07h 50m 43.33s",
+            "Dec": "+79d 09m 17.1s",
+            "redshift": null,
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J075042.60+790918.2",
+            "RA": "07h 50m 42.60s",
+            "Dec": "+79d 09m 18.2s",
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "2013-04-26.694 UT",
+            "Date": "2013-04-26"
+        },
+        {
+            "Name": "AllWISE J075043.29+790917.1",
+            "RA": "07h 50m 43.29s",
+            "Dec": "+79d 09m 17.1s",
+            "redshift": null,
+            "Type": "infrared counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "see ATel #5044, S. Shurpakov et al.",
+    "Event Type": "flare",
+    "Time": "2014-11-24.62164 UT",
+    "Date": "2014-11-24",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS081007:030559+054715",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Swift-XRT 0.3-10 keV light curve from 2008-Nov-10 to 2008-Nov-21",
+            "Date": "2008-Nov-10 to 2008-Nov-21"
+        },
+        {
+            "Name": "CSS081007:030559+054715",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Swift observations between 2008-Nov-30 and 2008-Dec-09",
+            "Date": "2008-Nov-30 to 2008-Dec-09"
+        }
+    ],
+    "References": [
+        "ATEL #1825",
+        "ATEL #1835",
+        "ATEL #1847"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT"
+    ],
+    "Observatory": "Swift"
+}

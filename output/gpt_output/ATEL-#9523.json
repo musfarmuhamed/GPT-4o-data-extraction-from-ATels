@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016ggp",
+            "RA": "20:32:39.46",
+            "Dec": "-56:58:36.7",
+            "redshift": "0.048",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160910"
+        },
+        {
+            "Name": null,
+            "RA": "03:24:28.98",
+            "Dec": "-73:06:42.8",
+            "redshift": "0.066",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160913"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Wyrzykowski et al., 2014 arxiv:1409.1095; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "20160920",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

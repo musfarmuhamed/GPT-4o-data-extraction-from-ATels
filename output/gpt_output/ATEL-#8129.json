@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGLJ1948-7906",
+            "RA": "297.12",
+            "Dec": "-79.09",
+            "redshift": null,
+            "Type": "gamma-ray emission",
+            "Time": null,
+            "Date": "2015-10-03 to 2015-10-06"
+        },
+        {
+            "Name": "3FGL J1935.2-7924c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi-LAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1925.8-7826",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi-LAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "gamma-ray detection",
+    "Time": null,
+    "Date": "2015-10-03 to 2015-10-06",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

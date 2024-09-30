@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1946+274",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": "2010 November/December"
+        }
+    ],
+    "References": [
+        "ATEL #2663",
+        "ATEL #2677",
+        "ATEL #2692",
+        "ATEL #2847",
+        "ATEL #3048",
+        "Smith & Takeshima 1998",
+        "Wilson et al. 1998",
+        "Wilson et al., 2003",
+        "Heindl et al. 2001",
+        "Finger et al."
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": [
+        "MJD 55500.7",
+        "MJD 55518.0",
+        "MJD 55518.7",
+        "MJD 55530.6",
+        "MJD 55526",
+        "MJD 55528",
+        "MJD 55530",
+        "MJD 55532",
+        "MJD 55523",
+        "MJD 55524",
+        "MJD 55525"
+    ],
+    "Telescope": [
+        "INTEGRAL",
+        "Swift",
+        "RXTE"
+    ],
+    "Instrument": [
+        "ISGRI",
+        "XRT",
+        "PCA"
+    ],
+    "Observatory": null
+}

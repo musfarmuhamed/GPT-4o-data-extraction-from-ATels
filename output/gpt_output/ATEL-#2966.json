@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J1913-3630",
+            "RA": "19:13:20.89",
+            "Dec": "-36:30:19.4",
+            "redshift": null,
+            "Type": "Flat spectrum radio source",
+            "Time": "18:00-22:00 UT",
+            "Date": "October 21, 2010"
+        },
+        {
+            "Name": "VCS4 J1913-3630",
+            "RA": "19:13:20.89",
+            "Dec": "-36:30:19.4",
+            "redshift": null,
+            "Type": "Flat spectrum radio source",
+            "Time": "18:00-22:00 UT",
+            "Date": "October 21, 2010"
+        }
+    ],
+    "References": "L. Petrov et al. 2006 AJ 131, 1872",
+    "Event Type": "Gamma-ray flare",
+    "Time": "18:00-22:00 UT",
+    "Date": "October 21, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

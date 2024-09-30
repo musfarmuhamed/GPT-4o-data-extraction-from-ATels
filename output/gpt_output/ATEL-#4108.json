@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12aiv",
+            "RA": "15:21:48.92",
+            "Dec": "+50:04:21.0",
+            "redshift": 0.09,
+            "Type": "Type Ia SN",
+            "Time": "MJD 56052.2",
+            "Date": null
+        },
+        {
+            "Name": "PS1-12ahf",
+            "RA": "14:22:44.16",
+            "Dec": "+34:15:16.2",
+            "redshift": 0.06,
+            "Type": "Type Ia SN",
+            "Time": "MJD 56053.1",
+            "Date": null
+        },
+        {
+            "Name": "PS1-12agj",
+            "RA": "13:52:10.57",
+            "Dec": "+46:28:20.4",
+            "redshift": 0.065,
+            "Type": "Type Ia SN",
+            "Time": "MJD 56056.2",
+            "Date": null
+        },
+        {
+            "Name": "PS1-12akg",
+            "RA": "13:24:29.35",
+            "Dec": "+47:43:20.7",
+            "redshift": 2.28,
+            "Type": "QSO",
+            "Time": "MJD 56057.2",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Valenti et al. (ATels #2668, #3351)"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

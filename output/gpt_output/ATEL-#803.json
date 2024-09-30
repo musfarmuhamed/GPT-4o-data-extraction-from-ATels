@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2002"
+        },
+        {
+            "Name": "V4332 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eruptive variable star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31 V1006/7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eruptive variable star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "B3V companion of V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B3V star",
+            "Time": null,
+            "Date": "2005"
+        },
+        {
+            "Name": "Cool oxygen-rich L type supergiant",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "L type supergiant",
+            "Time": null,
+            "Date": "2005"
+        }
+    ],
+    "References": "Henden et al., IAUC 8655, 2006",
+    "Event Type": "spectral observation",
+    "Time": null,
+    "Date": "2004-11-18",
+    "Telescope": "Russian 6-m BTA telescope",
+    "Instrument": null,
+    "Observatory": "Special Astrophysical Observatory"
+}

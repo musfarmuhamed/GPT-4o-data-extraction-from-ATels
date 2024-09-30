@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.048",
+            "Type": "HBL source / blazar",
+            "Time": "23:05 - 23:19",
+            "Date": "September 12"
+        },
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "potentially brighter source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kapanadze et al. \"A recent strong X-ray flaring activity of 1ES 1959+650 with possibly less efficient stochastic acceleration\", MNRAS, 461, L26",
+        "Kapanadze et al. 2017, \"The second strong X-ray flare in 1ES 1959+650\", submitted to MNRAS",
+        "ATel #9949",
+        "#9694",
+        "#9205",
+        "#9121",
+        "#8468",
+        "#8342",
+        "#8289",
+        "#8014",
+        "#10439",
+        "#10622"
+    ],
+    "Event Type": "X-ray flaring activity",
+    "Time": "UTC 23:05 - 23:19",
+    "Date": "September 12",
+    "Telescope": "XRT",
+    "Instrument": "JET-X Wolter I type telescope, EEV CCD2 detector",
+    "Observatory": "Pennsylvania State University, Brera Astronomical Observatory (OAB) and University of Leicester"
+}

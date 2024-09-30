@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1818-245",
+            "RA": "18h 18m 24.8s",
+            "Dec": "-24d 32' 15\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "06:18:52-06:21:02 UT",
+            "Date": "2005-08-20"
+        }
+    ],
+    "References": [
+        "Levine et al. (ATel #578)",
+        "Steeghs et al. (ATel #585)"
+    ],
+    "Event Type": "observation",
+    "Time": "06:18:52-06:21:02 UT",
+    "Date": "2005-08-20",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

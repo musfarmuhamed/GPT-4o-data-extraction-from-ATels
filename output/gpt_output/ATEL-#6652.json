@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J210324.05+011233.5",
+            "RA": "21h 03m 24.05s",
+            "Dec": "+01d 12m 33.5s",
+            "redshift": null,
+            "Type": "possible flaring star",
+            "Time": "12:12:27 UT, 18.9m; 12:14:12 UT, 17.8m",
+            "Date": "2014-10-28"
+        },
+        {
+            "Name": "SDSS J210323.82+011234.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J235002.10+255114.0",
+            "RA": "23h 50m 02.10s",
+            "Dec": "+25d 51m 14.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": null,
+            "Date": "2014-10-29"
+        },
+        {
+            "Name": "SDSS J235001.96+255114.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/210324.05011233.5.png, http://master.sai.msu.ru/static/OT/235002.10255114.0.png",
+    "Event Type": "Optical Transients discovered by MASTER Global MASTER Robotic Net",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

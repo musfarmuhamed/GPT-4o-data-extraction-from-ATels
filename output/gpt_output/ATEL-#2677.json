@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1946+274",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "June 5.0-7.0",
+            "Date": "2010"
+        },
+        {
+            "Name": "GRO J1944+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "June 5.0-7.0",
+            "Date": "2010"
+        }
+    ],
+    "References": "Wilson et al, 2003, ApJ 584:996",
+    "Event Type": "Observation",
+    "Time": "June 11.0-15.0",
+    "Date": "2010",
+    "Telescope": "GBM",
+    "Instrument": "Pulsar and Earth Occultation Projects",
+    "Observatory": "Fermi"
+}

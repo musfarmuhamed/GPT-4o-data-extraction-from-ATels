@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16atw",
+            "RA": "02:05:59.8",
+            "Dec": "+47:44:14.0",
+            "redshift": "0.02",
+            "Type": "IIn",
+            "Time": "08:07:52",
+            "Date": "2016-07-08"
+        },
+        {
+            "Name": "Gaia16aui",
+            "RA": "02:58:29.3",
+            "Dec": "+40:03:52.7",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "08:12:27",
+            "Date": "2016-07-12"
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": null
+}

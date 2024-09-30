@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J171900.4-353217",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:03 to 14:53",
+            "Date": "2010 August 20"
+        }
+    ],
+    "References": [
+        "Atel #2607",
+        "Atel #2803",
+        "Atel #2738"
+    ],
+    "Event Type": "detection of hard X-ray emission",
+    "Time": "17:13 to 15:08",
+    "Date": "2010 August 19 to 2010 August 20",
+    "Telescope": [
+        "Swift",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "XRT",
+        "Jem-X",
+        "ISGRI"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0758-456",
+            "RA": "119.652",
+            "Dec": "-45.704",
+            "redshift": null,
+            "Type": "short soft X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J080114.6-462324",
+            "RA": "120.310",
+            "Dec": "-46.390",
+            "redshift": null,
+            "Type": "cataclysmic variable source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nakagawa et al. ATel #8983",
+        "Kennea et al. #8988",
+        "Masetti et al. 2010, A&A, 519, A96"
+    ],
+    "Event Type": "burst-like activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

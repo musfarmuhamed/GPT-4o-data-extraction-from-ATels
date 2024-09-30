@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17498-2921",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting ms-pulsar",
+            "Time": "03:13 - 03:41 UT",
+            "Date": "2011-09-02"
+        },
+        {
+            "Name": "XTE J1814-338",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ms-pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 0748-676",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3551",
+        "ATel #3556",
+        "ATel #3562",
+        "ATel #3559",
+        "ATel #3606",
+        "ATel #3634",
+        "Krauss et al. 2005, ApJ, 627, 910",
+        "D'Avanzo et al. 2009, A&A, 508, 297",
+        "Jonker & Nelemans 2004, MNRAS, 354, 355",
+        "Greiss et al. (2011; ATel #3562)",
+        "ATel #3601",
+        "ATel #3568"
+    ],
+    "Event Type": "infrared and Chandra follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Irenee du Pont telescope",
+    "Instrument": "Retrocam camera",
+    "Observatory": "Las Campanas observatory"
+}

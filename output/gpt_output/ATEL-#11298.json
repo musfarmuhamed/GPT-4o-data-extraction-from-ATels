@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mus 2018",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "2018 Jan 14.486",
+            "Date": "2018-01-14"
+        }
+    ],
+    "References": [
+        "vsnet-alert 21772",
+        "ASAS-SN, reported in the TOCP",
+        "ATel #11183",
+        "ATel #11212",
+        "ATel #11220",
+        "ATel #11201"
+    ],
+    "Event Type": "discovery",
+    "Time": "2018 Jan 14.486",
+    "Date": "2018-01-14",
+    "Telescope": "SMARTS",
+    "Instrument": "Andicam dual channel photometer",
+    "Observatory": "Stony Brook/SMARTS Nova Atlas"
+}

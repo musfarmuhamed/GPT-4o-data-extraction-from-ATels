@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13dek",
+            "RA": "03:32:25.69",
+            "Dec": "+07:45:31.7",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13doj",
+            "RA": "02:34:35.32",
+            "Dec": "-29:06:56.3",
+            "redshift": 0.062,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13dms",
+            "RA": "03:36:31.41",
+            "Dec": "-25:33:30.0",
+            "redshift": 0.034,
+            "Type": "IIP",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13dnw",
+            "RA": "10:54:47.74",
+            "Dec": "-10:01:20.8",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13dos",
+            "RA": "02:36:44.83",
+            "Dec": "-19:27:10.1",
+            "redshift": 0.093,
+            "Type": "IIpec?",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13dot",
+            "RA": "04:57:17.35",
+            "Dec": "-15:29:31.4",
+            "redshift": 0.02,
+            "Type": "IIpec?",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        },
+        {
+            "Name": "LSQ13doz",
+            "RA": "03:42:20.68",
+            "Dec": "+06:32:12.0",
+            "redshift": 0.081,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2013 Dec 20"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classification",
+    "Time": null,
+    "Date": "2013 Dec 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

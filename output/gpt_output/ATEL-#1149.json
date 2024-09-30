@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-7c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": "19.00741",
+            "Date": "2007-07-19"
+        },
+        {
+            "Name": "M31N 2006-11a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": null,
+            "Date": "2007-07-12 to 2007-07-18"
+        }
+    ],
+    "References": "ATEL #1146, ATEL #1116",
+    "Event Type": "optical nova detection",
+    "Time": "19.00741",
+    "Date": "2007-07-19",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, XRT",
+    "Observatory": null
+}

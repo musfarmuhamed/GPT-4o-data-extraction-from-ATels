@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "23.78 UT",
+            "Date": "2014 Jan 23"
+        },
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel 5789",
+    "Event Type": "Observation",
+    "Time": "23.78 UT",
+    "Date": "2014 Jan 23",
+    "Telescope": "Giant Metrewave Radio Telescope",
+    "Instrument": null,
+    "Observatory": "GMRT"
+}

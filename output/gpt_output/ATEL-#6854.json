@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-14aly",
+            "RA": "09:21:42.02",
+            "Dec": "+16:50:42.6",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014-12-28"
+        },
+        {
+            "Name": "OGLE-2014-SN-204",
+            "RA": "05:40:56.45",
+            "Dec": "-64:31:31.5",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014-12-28"
+        },
+        {
+            "Name": "OGLE-2014-SN-206",
+            "RA": "03:38:27.04",
+            "Dec": "-74:02:49.3",
+            "redshift": "0.07",
+            "Type": "IIn",
+            "Time": "Unknown",
+            "Date": "2014-12-28"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Smartt et al., ATel #5850",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "Unknown",
+    "Date": "2014-12-28",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

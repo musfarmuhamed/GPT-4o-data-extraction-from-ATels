@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and atoll source",
+            "Time": null,
+            "Date": "November 1"
+        },
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "November 8, 2009"
+        }
+    ],
+    "References": [
+        "Jonker & Nelemans 2004",
+        "ATel #1970: http://lheawww.gsfc.nasa.gov/users/craigm/galscan/html/Aql_X-1.html"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2009 November 1",
+    "Telescope": "Swift, RXTE, VLA, Faulkes Telescope",
+    "Instrument": "PCA, XRT, UVOT",
+    "Observatory": "Las Cumbres Observatory Global Telescope Network (LCOGTN)"
+}

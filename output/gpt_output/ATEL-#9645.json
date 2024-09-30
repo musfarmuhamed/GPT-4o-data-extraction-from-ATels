@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS161010:045834-081803",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-10-18.14",
+            "Date": "2016-10-10.48"
+        },
+        {
+            "Name": "SN2016gxp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0178,
+            "Type": "Ia-Pec",
+            "Time": "2016-10-15.05",
+            "Date": "2016-10-05.31"
+        }
+    ],
+    "References": "ATel #8992",
+    "Event Type": "spectroscopic classification and observation",
+    "Time": "2016-10-18.14",
+    "Date": "2016-10-10.48",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

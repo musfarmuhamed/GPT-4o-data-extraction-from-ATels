@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1222+216",
+            "RA": "12h24m54.4s",
+            "Dec": "+21d22m46s",
+            "redshift": "0.43",
+            "Type": "Gamma-ray source",
+            "Time": "Increasing activity observed",
+            "Date": "Apr 16, 2009"
+        },
+        {
+            "Name": "3EG J1224+2118",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Gamma-ray source",
+            "Time": "Increasing activity observed",
+            "Date": "Apr 16, 2009"
+        }
+    ],
+    "References": "Giulia Iafrate (iafrate@oats.inaf.it)",
+    "Event Type": "Increasing gamma-ray flux",
+    "Time": "All-sky scanning mode",
+    "Date": "Ongoing observations",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": [
+        "NASA",
+        "DOE",
+        "France",
+        "Italy",
+        "Japan",
+        "Sweden"
+    ]
+}

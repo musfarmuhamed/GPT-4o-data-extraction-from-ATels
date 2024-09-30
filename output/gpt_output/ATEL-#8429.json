@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+164 (CGRaBSJ0238+1636)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.94,
+            "Type": "high redshift blazar",
+            "Time": "MJD 2457361.78",
+            "Date": "December 5th, 2015"
+        },
+        {
+            "Name": "Gamma-ray source 2FGLJ 0238.7+1637",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #7975",
+        "ATEL #8044"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "MJD 2457361.78",
+    "Date": "December 5th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory of the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

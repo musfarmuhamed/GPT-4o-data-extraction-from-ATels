@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ON 246",
+            "RA": 187.55871,
+            "Dec": 25.30198,
+            "redshift": 0.135,
+            "Type": "BL Lac object",
+            "Time": "Daily timescales",
+            "Date": "22 January 2015"
+        },
+        {
+            "Name": "3FGL J1230.3+2519",
+            "RA": 187.55871,
+            "Dec": 25.30198,
+            "redshift": 0.135,
+            "Type": "BL Lac object",
+            "Time": "Daily timescales",
+            "Date": "22 January 2015"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Nass et al. 1996, A&A, 309, 419",
+        "Acero et al. 2015, arXiv:1501.02003"
+    ],
+    "Event Type": "Gamma-ray outburst activity",
+    "Time": "Daily timescales",
+    "Date": "22 January 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with France, Italy, Japan, and Sweden"
+}

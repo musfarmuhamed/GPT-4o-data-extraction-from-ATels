@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2FGLJ1454.4+5123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "SBS1452+516",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.0831",
+            "Type": "quasar",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": [
+        "ATEL #3347",
+        "ATEL #6282"
+    ],
+    "Event Type": "new outburst",
+    "Time": "Unknown",
+    "Date": "June 13, 2016",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17379-3747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": "00:59",
+            "Date": "8 April 2018"
+        }
+    ],
+    "References": [
+        {
+            "Title": "ATel",
+            "ID": "#11507"
+        },
+        {
+            "Title": "MAXI/GSC",
+            "ID": "#11447"
+        },
+        {
+            "Title": "Swift XRT",
+            "ID": "#11487"
+        },
+        {
+            "Title": "XSPEC",
+            "ID": "Evans et al. 2009, MNRAS, 397, 1177"
+        }
+    ],
+    "Event Type": "X-ray re-brightening",
+    "Time": "00:59",
+    "Date": "8 April 2018",
+    "Telescope": "Swift XRT",
+    "Instrument": "PC-mode",
+    "Observatory": "Las Cumbres Observatory"
+}

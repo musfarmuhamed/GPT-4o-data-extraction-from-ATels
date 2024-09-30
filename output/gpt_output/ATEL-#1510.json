@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080505:155415+105825",
+            "RA": "15:54:15.15",
+            "Dec": "10:58:25.0",
+            "redshift": "0.0362",
+            "Type": "Supernova",
+            "Time": "09:26:53",
+            "Date": "2008-05-05"
+        }
+    ],
+    "References": [
+        "http://voeventnet.org/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "Supernova Detection",
+    "Time": "09:26:53",
+    "Date": "2008-05-05",
+    "Telescope": "Mt. Bigelow 0.7m Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Mt. Bigelow"
+}

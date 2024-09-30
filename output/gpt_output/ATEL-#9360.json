@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016eqf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "zero",
+            "Type": "CV",
+            "Time": "2016-08-09.09",
+            "Date": "2016-08-01.30"
+        },
+        {
+            "Name": "AT 2016eqg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "zero",
+            "Type": "CV",
+            "Time": "2016-08-08.96",
+            "Date": "2016-08-02.27"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Liu et al. 1999, ApJSS 122, 243; ApJSS 122, 257; Liu et al. 2000 ApJSS 128, 387; Atel#9358",
+    "Event Type": "Spectroscopic observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova-Asiago"
+}

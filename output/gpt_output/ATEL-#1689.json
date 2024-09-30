@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J162940.2-112024",
+            "RA": "16 29 40.2",
+            "Dec": "-11 20 24",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "20th August 2008"
+        },
+        {
+            "Name": "USNO-B1.0*0786-0301344",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0*0786-0301348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of new X-ray transient",
+    "Time": null,
+    "Date": "20th August 2008",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn detector",
+    "Observatory": null
+}

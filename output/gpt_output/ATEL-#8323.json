@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2320-035",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.411,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pacciani et al. 2014, ApJ, 790, 45",
+        "ATel#5022",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "high gamma-ray flare",
+    "Time": null,
+    "Date": "2015-11-22",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

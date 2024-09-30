@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J112238.72-053950.1",
+            "RA": "11h 22m 38.72s",
+            "Dec": "-05d 39m 50.1s",
+            "redshift": null,
+            "Type": "QSO flare",
+            "Time": "2016-04-07.88061 UT",
+            "Date": "2016-04-07"
+        },
+        {
+            "Name": "MASTER OT J084630.20-594905.4",
+            "RA": "08h 46m 30.20s",
+            "Dec": "-59d 49m 05.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, ampl>4.4m",
+            "Time": "2016-04-09.85997 UT",
+            "Date": "2016-04-09"
+        },
+        {
+            "Name": "MASTER OT J123325.58-333906.8",
+            "RA": "12h 33m 25.58s",
+            "Dec": "-33d 39m 06.8s",
+            "redshift": null,
+            "Type": "dwarf nova outburst with ampl>4m",
+            "Time": "2016-04-10.95120 UT",
+            "Date": "2016-04-10"
+        },
+        {
+            "Name": "MASTER OT J231437.93-405351.7",
+            "RA": "23h 14m 37.93s",
+            "Dec": "-40d 53m 51.7s",
+            "redshift": null,
+            "Type": "optical transient, ampl>1.6",
+            "Time": "2016-04-11.11149 UT",
+            "Date": "2016-04-11"
+        },
+        {
+            "Name": "MASTER OT J155546.95-174110.2",
+            "RA": "15h 55m 46.95s",
+            "Dec": "-17d 41m 10.2s",
+            "redshift": null,
+            "Type": "optical transient, ampl>1.6",
+            "Time": "2016-04-10.93301 UT",
+            "Date": "2016-04-10"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, v.2010, 30L"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO"
+}

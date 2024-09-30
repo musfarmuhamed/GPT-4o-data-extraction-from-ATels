@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WComae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "18:00",
+            "Date": "2008 June 9"
+        },
+        {
+            "Name": "Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac source",
+            "Time": "06:30",
+            "Date": "2008 June 10"
+        },
+        {
+            "Name": "Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac source",
+            "Time": "06:30",
+            "Date": "2008 June 11"
+        },
+        {
+            "Name": "Mkn 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac source",
+            "Time": null,
+            "Date": "2008 June 12"
+        }
+    ],
+    "References": "Krimm et al., ATel #1449",
+    "Event Type": "Enhanced hard X-ray emission",
+    "Time": "18:00",
+    "Date": "2008 June 9",
+    "Telescope": "AGILE",
+    "Instrument": [
+        "SuperAGILE",
+        "GRID"
+    ],
+    "Observatory": null
+}

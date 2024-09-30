@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova ASASSN-17nj",
+            "RA": "17:30:34.18",
+            "Dec": "-31:06:06.80",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2017-10-15.58",
+            "Date": "2017-10-15"
+        },
+        {
+            "Name": "VVV J173034.12-310607.02",
+            "RA": "17:30:34.12",
+            "Dec": "-31:06:07.02",
+            "redshift": null,
+            "Type": "Progenitor of Nova ASASSN-17nj",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. (ATel #10850)",
+        "Joshi, Banerjee and Srivastava 2017, ATel #10852",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Gonzalez et al., 2012, A&A, 543, 13",
+        "Nishiyama et al. (2009, ApJ, 696, 1407)",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "Galactic Nova",
+    "Time": "2017-10-15.58",
+    "Date": "2017-10-15",
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002"
+}

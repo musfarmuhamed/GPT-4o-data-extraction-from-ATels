@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15ic",
+            "RA": "04:09:55.44",
+            "Dec": "-11:20:22.2",
+            "redshift": 0.18,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-02-10.18"
+        },
+        {
+            "Name": "iPTF15iy",
+            "RA": "08:53:33.26",
+            "Dec": "+61:33:54.5",
+            "redshift": 0.17,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-02-11.33"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W, ATel #4807, ATel #7112, ATel #7119, Yaron & Gal-Yam 2012",
+    "Event Type": "discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNhunt175",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.040878,
+            "Type": "Type Ia",
+            "Time": "NA",
+            "Date": "NA"
+        },
+        {
+            "Name": "CSS130317:141506+270848",
+            "RA": "14h15m06s",
+            "Dec": "+27d08m48s",
+            "redshift": 0.125,
+            "Type": "Type IIn",
+            "Time": "NA",
+            "Date": "NA"
+        },
+        {
+            "Name": "PSN J16545668+4303077",
+            "RA": "16h54m56.68s",
+            "Dec": "+43d03m07.7s",
+            "redshift": null,
+            "Type": "Type II",
+            "Time": "NA",
+            "Date": "NA"
+        }
+    ],
+    "References": "CBAT TOCP, CRTS discovery, NED",
+    "Event Type": "spectroscopic observation",
+    "Time": "NA",
+    "Date": "Mar. 18",
+    "Telescope": "APO 3.5-m",
+    "Instrument": "DIS",
+    "Observatory": "Apache Point Observatory"
+}

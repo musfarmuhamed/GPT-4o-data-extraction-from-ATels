@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17062-6143",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "10:29:46 UT",
+            "Date": "November 3"
+        },
+        {
+            "Name": "Swift J1706.6-6146",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": "10:29:46 UT",
+            "Date": "November 3"
+        }
+    ],
+    "References": "ATel #8241, Degenaar et al. ApJ 767, L37, 2013",
+    "Event Type": "long X-ray burst",
+    "Time": "10:29:46 UT",
+    "Date": "November 3",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTEROT J201931.07-460044.6",
+            "RA": "20h 19m 31.07s",
+            "Dec": "-46d 00m 44.6s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare",
+            "Time": "2015-04-26.08954 UT",
+            "Date": "2015-04-26"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-04-22",
+            "Time": "2015-04-22.08853 UT",
+            "Magnitude limit": 20.8
+        },
+        {
+            "Date": "2015-04-24",
+            "Time": "2015-04-24.111 UT",
+            "Magnitude limit": 20.1
+        },
+        {
+            "Date": "2015-04-12",
+            "Time": "2015-04-12.086 UT",
+            "Magnitude limit": 20.5
+        }
+    ],
+    "Event Type": "Dwarf Nova flare",
+    "Time": "2015-04-26.08954 UT",
+    "Date": "2015-04-26",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net",
+    "Discovery Source": "http://master.sai.msu.ru/static/OT/201931.07-460044.6.png"
+}

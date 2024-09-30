@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13baa",
+            "RA": "16:27:48.83",
+            "Dec": "+19:38:37.3",
+            "redshift": "0.082",
+            "Type": "Gal",
+            "Time": null,
+            "Date": "2013-07-12"
+        },
+        {
+            "Name": "LSQ13bbd",
+            "RA": "22:39:04.84",
+            "Dec": "-10:17:24.3",
+            "redshift": "0.07",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2013-07-07"
+        },
+        {
+            "Name": "OGLE-2013-SN-040",
+            "RA": "00:53:49.35",
+            "Dec": "-63:49:24.3",
+            "redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2013-07-24"
+        },
+        {
+            "Name": "OGLE-2013-SN-041",
+            "RA": "01:36:18.01",
+            "Dec": "-69:34:12.6",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2013-07-23"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al., 2005, ApJ, 634, 1190",
+        "Yaron & Gal-Yam, 2012, PASP, 124, 668",
+        "Kinney et al. (1996)"
+    ],
+    "Event Type": "Supernova classification",
+    "Time": "UT",
+    "Date": "2013-08-05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J131320.24+692649.1",
+            "RA": "13h 13m 20.24s",
+            "Dec": "+69d 26m 49.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "14:08:00.288",
+            "Date": "2013-05-14"
+        },
+        {
+            "Name": "USNO-B1.0 1594-0116928",
+            "RA": "13 13 20.230",
+            "Dec": "+69 26 49.66",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1594-0116930",
+            "RA": "13 13 20.416",
+            "Dec": "+69 26 49.13",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J131320.3+692648",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J131320+692649-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/131320.24692649.1.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "14:08:00.288",
+    "Date": "2013-05-14",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

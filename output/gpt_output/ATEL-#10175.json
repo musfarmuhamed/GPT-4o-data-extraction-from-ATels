@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGC J174540.0-290005/Swift J174540.2-290005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "March 6-16"
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Degenaar et al. 2015, JHEAp, 7, 137; Muno et al. 2005, ApJ 622, L113; ATel #920; Degenaar & Wijnands 2009, A&A 495, 547",
+    "Event Type": "X-ray activity of a transient source",
+    "Time": "Daily monitoring",
+    "Date": "March 6-16",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT/PC-mode",
+    "Observatory": null
+}

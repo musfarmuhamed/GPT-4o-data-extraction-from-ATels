@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS1725+123",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.588,
+            "Type": "QSO",
+            "Time": "JD2456094.9399",
+            "Date": "June 16th 2012"
+        },
+        {
+            "Name": "CGRaBSJ1728+1215",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.588,
+            "Type": "QSO",
+            "Time": "JD2456094.9399",
+            "Date": "June 16th 2012"
+        }
+    ],
+    "References": "Fermi LAT",
+    "Event Type": "NIR brightening",
+    "Time": "JD2456094.9399, JD2455675.9841",
+    "Date": "June 16th 2012, earlier",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory operated by the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

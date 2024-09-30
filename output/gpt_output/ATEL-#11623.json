@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1712.6-3739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "09:18:12",
+            "Date": "2018-05-08"
+        },
+        {
+            "Name": "SAX J1712.6-3739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "09:24:44",
+            "Date": "2018-05-08"
+        },
+        {
+            "Name": "SAX J1712.6-3739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "09:32:36",
+            "Date": "2018-05-08"
+        },
+        {
+            "Name": "4U 1820-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB (not directly mentioned in the text)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1636-536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB (not directly mentioned in the text)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cocchi et al. 2001",
+        "Fiocchi et al. 2008",
+        "in't Zand et al. 2007",
+        "Fiocchi et al. 2008",
+        "Ballantyne & Strohmayer 2004",
+        "Keek et al. 2014",
+        "Atel #8253",
+        "Atel #9882",
+        "Atel #11422"
+    ],
+    "Event Type": "X-ray flare/(superburst event, thermonuclear burst)",
+    "Time": "09:18:12",
+    "Date": "2018-05-08",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

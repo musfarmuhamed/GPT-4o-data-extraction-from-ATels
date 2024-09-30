@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "23:33-23:49 UT",
+            "Date": "2018-03-18"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-03-06"
+        },
+        {
+            "Name": "2MASS 18201471+0710574",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 18201851+0710328",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 18202643+0710117",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11403",
+        "ATel #11406",
+        "ATel #11400",
+        "ATel #11418",
+        "ATel #11437",
+        "ATel #11445",
+        "ATel #11420",
+        "ATel #11426",
+        "ATel #11439",
+        "ATel #11440",
+        "ATel #11451"
+    ],
+    "Event Type": "Photometric observations",
+    "Time": "23:33-23:49 UT",
+    "Date": "2018-03-18",
+    "Telescope": "2 m Himalayan Chandra Telescope (HCT)",
+    "Instrument": null,
+    "Observatory": "Hanle, operated by the Indian Institute of Astrophysics, Bangalore"
+}

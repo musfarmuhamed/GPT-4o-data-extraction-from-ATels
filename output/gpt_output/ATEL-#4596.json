@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC Be/X-ray pulsar SXP1062",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Be star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 602 (young supernova remnant)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova remnant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Henault-Brunet et al. (2012, MNRAS, 420, L13)",
+        "Udalski, 2008, Acta Astron., 58, 187",
+        "Schmidtke, Cowley, and Udalski (ATel #4399)",
+        "Corbet et al., 2009, Proc. IAU Symp. 256, 361"
+    ],
+    "Event Type": "outburst",
+    "Time": {
+        "First": "First season of OGLE-IV data",
+        "Second": "third OGLE-IV season"
+    },
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1930+093",
+            "RA": "292.78859",
+            "Dec": "9.62051",
+            "redshift": null,
+            "Type": "Galactic Transients",
+            "Time": "19:21UT",
+            "Date": "March 3, 2014"
+        },
+        {
+            "Name": "BZB J1931+0937",
+            "RA": "292.78859",
+            "Dec": "9.62051",
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "19:21UT",
+            "Date": "March 3, 2014"
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": "292.78859",
+            "Dec": "9.62051",
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "19:21UT",
+            "Date": "March 3, 2014"
+        },
+        {
+            "Name": "1RXS J193109.5+093714",
+            "RA": "292.78859",
+            "Dec": "9.62051",
+            "redshift": null,
+            "Type": "ROSAT point source",
+            "Time": "19:21UT",
+            "Date": "March 3, 2014"
+        }
+    ],
+    "References": "Negoro et al., ATEL #5943, Goad et al. (2007, A&A, 476, 1401), Evans et al. (2009, MNRAS, 397, 1177), Ackermann et al. (2011), Voges et al. (1999), Kalbera et al (2005)",
+    "Event Type": "Observation",
+    "Time": "19:21UT",
+    "Date": "March 3, 2014",
+    "Telescope": "Swift's X-ray Telescope",
+    "Instrument": "Photon Counting (PC) mode",
+    "Observatory": "Swift"
+}

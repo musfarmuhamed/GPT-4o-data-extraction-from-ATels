@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013/250\u20142014/76"
+        }
+    ],
+    "References": [
+        "ATEL#4923",
+        "ATEL#5013",
+        "Gillessen et al. Nature 2012, 418, 51",
+        "ATEL#5184",
+        "ATEL#5545",
+        "ATEL#5649",
+        "ATEL#5727",
+        "ATEL#5969"
+    ],
+    "Event Type": "monitoring",
+    "Time": null,
+    "Date": "since Feb. 2013",
+    "Telescope": [
+        "Mizusawa 10-m RT",
+        "Takahagi /Hitachi 32-m RT",
+        "Gifu 11-m RT",
+        "Tsukuba 32-m RT",
+        "Kashima 34-m RT"
+    ],
+    "Instrument": null,
+    "Observatory": "Japanese VLBI Network (JVN)"
+}

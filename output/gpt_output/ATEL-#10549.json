@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17hkr",
+            "RA": "15:59:23.11",
+            "Dec": "+53:16:35.31",
+            "redshift": "0.043",
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia17bpn",
+            "RA": "22:58:27.30",
+            "Dec": "-00:16:00.52",
+            "redshift": "0.054",
+            "Type": "Ia",
+            "Time": "+18d",
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17hnm",
+            "RA": "14:37:45.11",
+            "Dec": "+21:20:29.02",
+            "redshift": "0.031",
+            "Type": "Ic",
+            "Time": "-2d",
+            "Date": null
+        },
+        {
+            "Name": "Gaia17bpt",
+            "RA": "00:27:34.00",
+            "Dec": "-12:32:02.76",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": null
+        },
+        {
+            "Name": "PS17dlw",
+            "RA": "22:04:07.00",
+            "Dec": "+00:52:52.78",
+            "redshift": "0.164",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": null
+        },
+        {
+            "Name": "PS17dlv",
+            "RA": "21:54:18.70",
+            "Dec": "-03:00:02.41",
+            "redshift": "0.083",
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17hpt",
+            "RA": "17:34:39.98",
+            "Dec": "+26:18:22.00",
+            "redshift": "0.029",
+            "Type": "SLSN-I",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2017 June 30",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": null
+}

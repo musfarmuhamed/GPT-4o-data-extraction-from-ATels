@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16at",
+            "RA": "12:55:15.5",
+            "Dec": "+00:05:59.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-01-20.586",
+            "Date": "2016-01-20"
+        },
+        {
+            "Name": "UGC 8041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "new transient source",
+    "Time": "2016-01-20.586",
+    "Date": "2016-01-20",
+    "Telescope": "Brutus",
+    "Instrument": "images",
+    "Observatory": "Haleakala, Hawaii"
+}

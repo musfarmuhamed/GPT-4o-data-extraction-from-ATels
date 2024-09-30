@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new bright transient",
+            "RA": "00h42m31.60s",
+            "Dec": "+41d09'51.5\"",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "2010-11-21.03"
+        }
+    ],
+    "References": [
+        "http://www.mpe.mpg.de/~m31novae/opt/m31/M31_table.html",
+        "ATels #2713",
+        "ATels #2727",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "UV Transient Detection",
+    "Time": [
+        "2010-11-21.03",
+        "2010-11-23.05",
+        "2010-11-28.00",
+        "2010-11-30.14"
+    ],
+    "Date": [
+        "2010-11-21",
+        "2010-11-23",
+        "2010-11-28",
+        "2010-11-30"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "UVOT UVW1 filter",
+    "Observatory": null
+}

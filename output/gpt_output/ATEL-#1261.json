@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007on",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006494",
+            "Type": "Type Ia SN",
+            "Time": "2007-11-06.75 UT",
+            "Date": "2007-11-06"
+        }
+    ],
+    "References": [
+        "CBET #1121",
+        "GCN Circ. 6614",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "NED"
+    ],
+    "Event Type": null,
+    "Time": "2007-11-06.75 UT",
+    "Date": "2007-11-06",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

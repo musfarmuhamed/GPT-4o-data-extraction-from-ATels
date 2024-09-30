@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18hq/2018arx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": "UT2018-04-19.3",
+            "Date": "2018-04-19"
+        },
+        {
+            "Name": "SN 2018ass",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP",
+            "Time": "UT2018-04-19.3",
+            "Date": "2018-04-19"
+        }
+    ],
+    "References": "ATel #11541, Shappee et al. 2014, Gaia Alerts, SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "spectroscopic observations",
+    "Time": "UT2018-04-19.3",
+    "Date": "2018-04-19",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

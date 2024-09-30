@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "00:25 - 17:22 UTC",
+            "Date": "14 May 2023"
+        },
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "14:17 - 10:13 UTC",
+            "Date": "16-17 May 2023"
+        }
+    ],
+    "References": [
+        "Atel#9064",
+        "ATel #1613"
+    ],
+    "Event Type": "X-ray activity",
+    "Time": null,
+    "Date": "17 May 2023",
+    "Telescope": "MAXI/GSC, INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X1+JEM-X2",
+    "Observatory": "Musca region"
+}

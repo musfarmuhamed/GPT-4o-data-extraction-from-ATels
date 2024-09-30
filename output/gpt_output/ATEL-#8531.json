@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black-hole X-ray binary",
+            "Time": [
+                "40-60 minutes after sunset"
+            ],
+            "Date": [
+                "2015-12-29",
+                "2015-12-31",
+                "2016-01-04",
+                "2016-01-06",
+                "2016-01-10"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #8515",
+        "GCN #18716",
+        "ATel #8453",
+        "ATel #8454",
+        "ATel #8455",
+        "ATel #8457",
+        "ATel #8458",
+        "ATel #8462",
+        "ATel #8501",
+        "A. Henden (AAVSO web-site)",
+        "ATel #8509",
+        "Szkody & Margon, 1989, IAU Circ. No. 4794",
+        "Jones & Carter, 1989, IAU Circ. No. 4794",
+        "Mart\u00ed et al., 2016, A&A, in press"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Approximately 40-60 minutes after sunset",
+    "Date": "2015-12-29 to 2016-01-10",
+    "Telescope": "0.35-m Celestron C14 robotic telescope",
+    "Instrument": "SBIG ST-10XME CCD camera with Johnson-Cousins BVRI Astrodon Photometric filters",
+    "Observatory": "New Mexico Skies in Mayhill, New Mexico"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J003809.1+403726",
+            "RA": "00:38:09.1",
+            "Dec": "+40:37:26",
+            "redshift": null,
+            "Type": "Fe II-type Classical Nova",
+            "Time": "20.435 UT",
+            "Date": "2010-09-13"
+        },
+        {
+            "Name": "ROTSE3 J003809.1+403726",
+            "RA": "00:38:09.1",
+            "Dec": "+40:37:26",
+            "redshift": null,
+            "Type": "Fe II-type Classical Nova",
+            "Time": "20.918 UT",
+            "Date": "2010-09-13"
+        }
+    ],
+    "References": [
+        "Romadan et al. (ATel #2840)",
+        "A. W. Shafter et al. (ATel #2843)"
+    ],
+    "Event Type": "photometric observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER II Ural-Kourovka",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

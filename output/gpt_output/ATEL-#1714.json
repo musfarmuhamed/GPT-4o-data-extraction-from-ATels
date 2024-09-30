@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17379-3747",
+            "RA": "17h 37m 58.81s",
+            "Dec": "-37d 46m 19.6s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "2:42:26 UT",
+            "Date": "2008-Sep-11"
+        },
+        {
+            "Name": "XTE J1737-376",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt et al, ATel #1709; Shaw et al, ATel #1711",
+    "Event Type": "Observation",
+    "Time": "2:42:26 UT",
+    "Date": "2008-Sep-11",
+    "Telescope": "Swift X-Ray Telescope (XRT)",
+    "Instrument": null,
+    "Observatory": null
+}

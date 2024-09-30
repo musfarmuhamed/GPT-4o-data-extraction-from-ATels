@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX1746-331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "~37 min",
+            "Date": "Apr 8"
+        }
+    ],
+    "References": "ATEL #143, #144",
+    "Event Type": "outburst",
+    "Time": "~37 min",
+    "Date": "Apr 8",
+    "Telescope": [
+        {
+            "Name": "JEM-X",
+            "Instrument": null
+        },
+        {
+            "Name": "RXTE",
+            "Instrument": null
+        },
+        {
+            "Name": "ISGRI detector of the IBIS telescope",
+            "Instrument": null
+        }
+    ],
+    "Observatory": "INTEGRAL"
+}

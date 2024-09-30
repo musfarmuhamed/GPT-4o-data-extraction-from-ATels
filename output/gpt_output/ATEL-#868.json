@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 2030+375",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/neutron star binary",
+            "Time": "6:00 UT to 11:56 UT",
+            "Date": "July 26 to July 27"
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Corbet & Levine (ATel #843), Krimm et al. (ATel #861)",
+    "Event Type": "target of opportunity observation",
+    "Time": "6:00 UT to 11:56 UT",
+    "Date": "July 26 to July 27",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X 1",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

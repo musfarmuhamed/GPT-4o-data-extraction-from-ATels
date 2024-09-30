@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14cnm",
+            "RA": "16:05:24.50",
+            "Dec": "+01:12:58.7",
+            "redshift": "0.0326",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140618"
+        },
+        {
+            "Name": "LSQ14cnl",
+            "RA": "15:50:23.86",
+            "Dec": "+00:34:17.8",
+            "redshift": "0.0549",
+            "Type": "Ib",
+            "Time": null,
+            "Date": "20140618"
+        }
+    ],
+    "References": "[1] SDSS via NED",
+    "Event Type": "spectroscopic observations of supernovae",
+    "Time": null,
+    "Date": "20140619",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

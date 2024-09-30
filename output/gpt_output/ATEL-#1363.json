@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J23206+6431",
+            "RA": "23 20 36.576",
+            "Dec": "+64 30 45.15",
+            "redshift": 0.07173,
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J23203662+6430452",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.07167,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Point-like source near IGR J23206+6431",
+            "RA": "23 20 37.092",
+            "Dec": "+64 30 45.048",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02524-0829",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016721,
+            "Type": "Seyfert 2 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MCG-02-08-014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Edge-on Spiral Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2007, A&A, 475, 775",
+        "2MASS catalog",
+        "Veilleux & Osterbrock, 1987",
+        "6dFGS DDR2 (Jones et al., 2004, MNRAS, 355, 747)"
+    ],
+    "Event Type": "Optical Spectroscopic Identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": "TUG Faint Object Spectrograph and Camera (TFOSC)",
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

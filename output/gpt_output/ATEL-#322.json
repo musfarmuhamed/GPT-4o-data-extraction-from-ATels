@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black-hole candidate",
+            "Time": [
+                "6h",
+                "10h",
+                "0h",
+                "23h",
+                "14h"
+            ],
+            "Date": [
+                "5 August 2004",
+                "8 August 2004",
+                "12 August 2004",
+                "13 August 2004",
+                "17 August 2004"
+            ]
+        }
+    ],
+    "References": [
+        "Homan (2004, ATEL #318)",
+        "Buxton and Bailyn, 2004, ATEL #316",
+        "Homan, 2004, ATEL #318",
+        "Harmon et al. 2002, ApJS 138, 149",
+        "Levine et al. 1996, ApJ 469, L33",
+        "Zdziarski et al. 2004, MNRAS 351, 791"
+    ],
+    "Event Type": [
+        "Very High State",
+        "Intermediate state"
+    ],
+    "Time": [
+        "6h",
+        "10h",
+        "0h",
+        "23h",
+        "14h"
+    ],
+    "Date": [
+        "5 August 2004",
+        "8 August 2004",
+        "12 August 2004",
+        "13 August 2004",
+        "17 August 2004"
+    ],
+    "Telescope": [
+        "Rossi X-ray Timing Explorer",
+        "Compton Gamma-Ray Observatory"
+    ],
+    "Instrument": [
+        "RXTE PCA",
+        "RXTE PCU",
+        "RXTE All Sky Monitor",
+        "Burst and Transient Source Experiment"
+    ],
+    "Observatory": "Compton Gamma-Ray Observatory"
+}

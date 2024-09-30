@@ -1,0 +1,128 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16E1de",
+            "RA": "00:32:14.95",
+            "Dec": "-42:49:05.7",
+            "redshift": 0.292,
+            "Type": "SNIa?",
+            "Time": 21.7,
+            "Date": "2016 Aug 25"
+        },
+        {
+            "Name": "DES16E2dd",
+            "RA": "00:41:49.98",
+            "Dec": "-43:22:30.7",
+            "redshift": 0.0746,
+            "Type": "SNIa",
+            "Time": 19.6,
+            "Date": "2016 Aug 26"
+        },
+        {
+            "Name": "DES16X3km",
+            "RA": "02:26:13.93",
+            "Dec": "-04:40:35.6",
+            "redshift": 0.0542,
+            "Type": "SNII",
+            "Time": 20.2,
+            "Date": "2016 Aug 27"
+        },
+        {
+            "Name": "DES16X3er",
+            "RA": "02:22:44.61",
+            "Dec": "-05:04:31.6",
+            "redshift": 0.167,
+            "Type": "SNIa",
+            "Time": 19.7,
+            "Date": "2016 Aug 27"
+        },
+        {
+            "Name": "DES16X3hj",
+            "RA": "02:22:58.93",
+            "Dec": "-04:07:30.1",
+            "redshift": 0.308,
+            "Type": "SNIa",
+            "Time": 22.8,
+            "Date": "2016 Aug 27"
+        },
+        {
+            "Name": "DES16X3es",
+            "RA": "02:23:38.99",
+            "Dec": "-04:52:01.7",
+            "redshift": 0.554,
+            "Type": "SNIa?",
+            "Time": 22.6,
+            "Date": "2016 Aug 27"
+        },
+        {
+            "Name": "DES16X3jj",
+            "RA": "02:22:47.11",
+            "Dec": "-04:21:32.6",
+            "redshift": 0.238,
+            "Type": "SNII?",
+            "Time": 21.7,
+            "Date": "2016 Aug 27"
+        },
+        {
+            "Name": "DES16C3fv",
+            "RA": "03:30:17.04",
+            "Dec": "-28:19:17.4",
+            "redshift": 0.322,
+            "Type": "SNIa",
+            "Time": 22.8,
+            "Date": "2016 Aug 29"
+        },
+        {
+            "Name": "DES16C3bq",
+            "RA": "03:32:23.33",
+            "Dec": "-28:47:40.1",
+            "redshift": 0.241,
+            "Type": "SNIa",
+            "Time": 21.2,
+            "Date": "2016 Aug 29"
+        },
+        {
+            "Name": "DES16E1md",
+            "RA": "00:34:02.05",
+            "Dec": "-42:20:02.2",
+            "redshift": 0.178,
+            "Type": "SNIa",
+            "Time": 20.4,
+            "Date": "2016 Aug 29"
+        },
+        {
+            "Name": "DES16E1ah",
+            "RA": "00:34:31.09",
+            "Dec": "-43:07:20.8",
+            "redshift": 0.149,
+            "Type": "SNII",
+            "Time": 21.0,
+            "Date": "2016 Aug 29"
+        },
+        {
+            "Name": "DES16C3ea",
+            "RA": "03:31:44.64",
+            "Dec": "-28:15:15.5",
+            "redshift": 0.217,
+            "Type": "SNIa",
+            "Time": 20.9,
+            "Date": "2015 Aug 29"
+        },
+        {
+            "Name": "DES16X1ey",
+            "RA": "02:21:28.55",
+            "Dec": "-04:32:09.1",
+            "redshift": 0.076,
+            "Type": "SNII",
+            "Time": 21.5,
+            "Date": "2016 Aug 29"
+        }
+    ],
+    "References": "ATEL #4668",
+    "Event Type": "New Spectroscopic Classifications by OzDES",
+    "Time": "370-885nm",
+    "Date": "2016 Aug",
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph",
+    "Observatory": "OzDES"
+}

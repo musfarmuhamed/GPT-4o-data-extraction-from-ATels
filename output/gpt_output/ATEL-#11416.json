@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0736+017",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.189,
+            "Type": "quasar",
+            "Time": "NIR flare",
+            "Date": "March 7th, 2018"
+        },
+        {
+            "Name": "CGRaBSJ0739+0137",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.189,
+            "Type": "quasar",
+            "Time": "NIR flare",
+            "Date": "March 7th, 2018"
+        },
+        {
+            "Name": "2FGL0739.2+0138",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR flare",
+    "Time": "JD2458184.721088",
+    "Date": "March 7th, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

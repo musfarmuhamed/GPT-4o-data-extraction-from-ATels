@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "0.02 c/s in the 0.5-10 keV band",
+            "Date": "August 14th, 2008"
+        }
+    ],
+    "References": [
+        "ATel #1425",
+        "ATel #1490",
+        "ATel #1446",
+        "Kaaret et al 2002, ApJ"
+    ],
+    "Event Type": "Outburst and transition to quiescent state observation",
+    "Time": "0.02 c/s in the 0.5-10 keV band",
+    "Date": "August 14th, 2008",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

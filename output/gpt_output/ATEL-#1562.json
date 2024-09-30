@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EF Eridani",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "polar (AM Her type) class of magnetic cataclysmic variables",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Griffiths et al. 1979, ApJLett, 232, L27",
+        "Wheatley & Ramsay 1998, ASP Conf. Ser. 137, 446",
+        "Howell et al. 2006, ApJ, 652, 709",
+        "AAVSO Special Notice #100"
+    ],
+    "Event Type": "X-ray and optical observations",
+    "Time": [
+        "1.6 ksec",
+        "3.4 ksec"
+    ],
+    "Date": [
+        "2008 March 27",
+        "2008 May 22"
+    ],
+    "Telescope": [
+        "Swift/XRT",
+        "RXTE/PCA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

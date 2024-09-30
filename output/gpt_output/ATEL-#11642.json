@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "C17-0117",
+            "RA": "13:34:34.00",
+            "Dec": "-13:25:45.33",
+            "redshift": 0.102,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS18ojt",
+            "RA": "11:43:33.60",
+            "Dec": "-23:34:47.70",
+            "redshift": 0.07,
+            "Type": "Ic",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2018 May 13 UT",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR)"
+}

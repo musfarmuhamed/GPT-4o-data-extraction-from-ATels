@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus A nucleus",
+            "RA": "19:59:28.32385",
+            "Dec": "+40:44:01.9165",
+            "redshift": null,
+            "Type": "Radio source",
+            "Time": null,
+            "Date": "July 2015"
+        },
+        {
+            "Name": "Cygnus A nucleus",
+            "RA": "19:59:28.32385",
+            "Dec": "+40:44:01.9165",
+            "redshift": null,
+            "Type": "Radio source",
+            "Time": null,
+            "Date": "August 2016"
+        },
+        {
+            "Name": "Cygnus A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Transient",
+            "RA": "19:59:28.32385",
+            "Dec": "+40:44:01.9165",
+            "redshift": null,
+            "Type": "Radio source",
+            "Time": null,
+            "Date": "1989"
+        }
+    ],
+    "References": "Canalizo et al (ApJ, 597, 823)",
+    "Event Type": "Radio transient detection",
+    "Time": null,
+    "Date": "2015-2016",
+    "Telescope": "Very Large Array",
+    "Instrument": null,
+    "Observatory": null
+}

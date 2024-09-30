@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11014-6103",
+            "RA": "11h 01m 46.4s",
+            "Dec": "-61d 01m 21s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXH J110146.1-610121",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2XMM J110147.1-61012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14488-4008 - Source #1",
+            "RA": "14h 48m 50.98s",
+            "Dec": "-40d 08m 47.12s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CRATES J1448-4008 (NED03)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J144851-400846",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14488-4008 - Source #2",
+            "RA": "14h 48m 50.68s",
+            "Dec": "-40d 10m 56.52s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010 (ApJS, 186, 1)",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J002829.81+200026.7",
+            "RA": 7.124,
+            "Dec": -20.007,
+            "redshift": 1.552007,
+            "Type": "flat-spectrum radio quasar (FSRQ)",
+            "Time": "2018-10-05.59265 UT",
+            "Date": "2018 October 3-6"
+        },
+        {
+            "Name": "TXS 0025+197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Alam et al. 2015",
+        "Stanek et al. ATel #12082",
+        "Buson et al. ATel #12084",
+        "Komossa et al. ATel #12094",
+        "Douglas et al. 1996 AJ, 111.1945D"
+    ],
+    "Event Type": "outburst",
+    "Time": "2018-10-05.59265 UT",
+    "Date": "2018 October 3-6",
+    "Telescope": "Burst Alert Telescope (BAT), Swift/XRT, ASAS-SN, Fermi-LAT",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Neil Gehrels Swift observatory"
+}

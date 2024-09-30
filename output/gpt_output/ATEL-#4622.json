@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1735-269",
+            "RA": 264.57,
+            "Dec": -27.04,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": "03:40",
+            "Date": "2012 December 6"
+        },
+        {
+            "Name": "SAX J1747.0-2953",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1820-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1828.5-1037",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "David et al. 1997, A&A, 322, 229",
+        "Molkov et al. 2005, A&A 434, 1069",
+        "Sguera et al. 2007, ATel #1340",
+        "Suzuki and Kawai 2005, ATel #539",
+        "Chenevez et al. 2011, ATel #3183",
+        "in 't Zand et al. 2011, ATel #3625",
+        "Serino et al. 2012, PASJ, 64, 91",
+        "Asada et al. 2011, ATel #3760"
+    ],
+    "Event Type": "superburst",
+    "Time": "03:40 - 05:12",
+    "Date": "2012 December 6",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": "International Space Station (ISS)"
+}

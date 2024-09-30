@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150302.53-674306.4",
+            "RA": "15h 03m 02.53s",
+            "Dec": "-67d 43m 06.4s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2015-01-07.05532",
+            "Date": "2015-01-07"
+        },
+        {
+            "Name": "MASTER OT J151146.85-285415.3",
+            "RA": "15h 11m 46.85s",
+            "Dec": "-28d 54m 15.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2015-01-07.10453",
+            "Date": "2015-01-07"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/MASTERJ150302.53-674306.4.png, http://master.sai.msu.ru/static/OT/MASTERJ151146.85-285415.3.png",
+    "Event Type": "Optical Transient",
+    "Time": "2015-01-07",
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO"
+}

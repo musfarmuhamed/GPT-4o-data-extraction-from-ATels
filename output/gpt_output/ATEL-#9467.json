@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016frs",
+            "RA": "02:17:29.36",
+            "Dec": "-59:51:23.4",
+            "redshift": 0.02919,
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "2016-09-06"
+        },
+        {
+            "Name": "SN2016fss",
+            "RA": "14:02:51.91",
+            "Dec": "-30:36:59.2",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "2016-09-06"
+        },
+        {
+            "Name": "CSS160904-230721+025428",
+            "RA": "23:07:21.47",
+            "Dec": "+02:54:28.3",
+            "redshift": 0.063,
+            "Type": "Ia-CSM",
+            "Time": "NULL",
+            "Date": "2016-09-06"
+        },
+        {
+            "Name": "CSS160904-224104+050529",
+            "RA": "22:41:03.74",
+            "Dec": "+05:05:28.5",
+            "redshift": 0.0,
+            "Type": "Stellar",
+            "Time": "NULL",
+            "Date": "2016-09-06"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Drake et al. 2009, 696, 870",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "NULL",
+    "Date": "2016-09-06",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

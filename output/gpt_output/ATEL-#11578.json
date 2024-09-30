@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": null,
+            "Date": "2018-03-11"
+        }
+    ],
+    "References": [
+        "ATEL #11399",
+        "ATEL #11418",
+        "ATEL #11423",
+        "ATEL #11420",
+        "ATEL #11426",
+        "ATEL #11488",
+        "ATEL #11510",
+        "ATEL #11576"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": null,
+    "Date": "2018-03-11",
+    "Telescope": [
+        "NuSTAR",
+        "INTEGRAL",
+        "Swift",
+        "NICER"
+    ],
+    "Instrument": [
+        "Swift/BAT",
+        "NuSTAR"
+    ],
+    "Observatory": null
+}

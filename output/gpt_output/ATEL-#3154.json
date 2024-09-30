@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP707",
+            "RA": "01:04:28.7",
+            "Dec": "-72:31:34",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "04:04:23 - 18:15:24",
+            "Date": "2002-08-27"
+        },
+        {
+            "Name": "MACHO object 206.16885.25",
+            "RA": "01:04:29.0",
+            "Dec": "-72:31:36",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE II object SMC_SC10 57262",
+            "RA": "01:04:29.0",
+            "Dec": "-72:31:36",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE III object SMC110.5 9503",
+            "RA": "01:04:29.0",
+            "Dec": "-72:31:36",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Rajoelimanana, Charles & Udalski (2010, arXiv:1012.4610)",
+        "Meyssonnier & Azzopardi (1993)"
+    ],
+    "Event Type": "detection of new X-ray pulsar",
+    "Time": "04:04:23 - 18:15:24",
+    "Date": "2002-08-27",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

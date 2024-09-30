@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2011dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": "2011-Jun-12.3",
+            "Date": "2011-Jun-12"
+        },
+        {
+            "Name": "SN 2011by",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "2011-Jun-22.7",
+            "Date": "2011-Jun-22"
+        }
+    ],
+    "References": [
+        "ATel #3398",
+        "CBET #2736",
+        "CBET #2708",
+        "ATel #3400",
+        "ATel #3414",
+        "ATel #3410"
+    ],
+    "Event Type": "10-ksec Chandra ToO observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

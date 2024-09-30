@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15E1mvi",
+            "RA": "00:30:05.94",
+            "Dec": "-43:02:02.9",
+            "redshift": 0.58,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 06"
+        },
+        {
+            "Name": "DES15X1mwg",
+            "RA": "02:20:29.45",
+            "Dec": "-05:31:45.4",
+            "redshift": 0.603,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 09"
+        },
+        {
+            "Name": "DES15X3mwb",
+            "RA": "02:23:45.79",
+            "Dec": "-05:03:12.2",
+            "redshift": 0.85,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 09"
+        },
+        {
+            "Name": "DES15X2nkz",
+            "RA": "02:22:13.21",
+            "Dec": "-05:52:18.2",
+            "redshift": 0.469,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 13"
+        },
+        {
+            "Name": "DES15X1ney",
+            "RA": "02:17:43.19",
+            "Dec": "-04:58:33.8",
+            "redshift": 0.565,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 14"
+        },
+        {
+            "Name": "DES15X1mzz",
+            "RA": "02:19:37.22",
+            "Dec": "-05:52:08.7",
+            "redshift": 0.649,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 14"
+        },
+        {
+            "Name": "DES15C2nfs",
+            "RA": "03:34:29.04",
+            "Dec": "-29:10:08.5",
+            "redshift": 0.551,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 15"
+        }
+    ],
+    "References": "#4668",
+    "Event Type": "optical spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "GMOS",
+    "Instrument": "Gemini-South and Gemini-North",
+    "Observatory": "Dark Energy Survey"
+}

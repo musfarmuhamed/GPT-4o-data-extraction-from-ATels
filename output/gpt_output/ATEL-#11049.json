@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17lbg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.192,
+            "Type": "AGN flare or TDE",
+            "Time": "2017-08-01.5",
+            "Date": "2017-08-01"
+        },
+        {
+            "Name": "Gaia17dbg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.192,
+            "Type": "AGN flare or TDE",
+            "Time": "2017-11-25.0",
+            "Date": "2017-11-25"
+        }
+    ],
+    "References": "Bianchi et al. 2011 Ap&SS, 335, 161; Schlafly et al. 2011 ApJ, 737, 103; Rixon et al, 2014, ATel #6593",
+    "Event Type": "Discovery of optical transient",
+    "Time": "2017-08-01.5",
+    "Date": "2017-08-01",
+    "Telescope": [
+        "SALT/RSS",
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Instrument": [
+        "RSS (SALT)",
+        "XRT (Swift)",
+        "UVOT (Swift)"
+    ],
+    "Observatory": [
+        "SALT",
+        "Swift"
+    ]
+}

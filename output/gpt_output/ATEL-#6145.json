@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF14awe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Kazarian 654",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PGC 2732472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#4807",
+        "ATel#6130",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "14.15 UT",
+    "Date": "2014 May 14",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": "2012 Apr 02.1",
+            "Date": "2012-04-02"
+        },
+        {
+            "Name": "Chandra source 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Chandra source 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBETs #2974",
+        "CBETs #2975",
+        "ATels #3855",
+        "ATels #3860",
+        "ATels #3861",
+        "ATels #3863",
+        "ATels #3956"
+    ],
+    "Event Type": "Chandra ToO observation",
+    "Time": "2012 Apr 02.1",
+    "Date": "2012-04-02",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3",
+    "Observatory": null
+}

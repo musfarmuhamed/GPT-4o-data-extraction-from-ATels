@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MOA 2012 BLG-320",
+            "RA": "17:50:53.90",
+            "Dec": "-32:37:20.46",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2012-05-22 19:12:00",
+            "Date": "2012-05-22"
+        },
+        {
+            "Name": "Progenitor of MOA 2012 BLG-320",
+            "RA": "17:50:53.90",
+            "Dec": "-32:37:20.46",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate luminosity red transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V450 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "slow classical nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HR Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "slow classical nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Telescope": "VLT",
+            "Instrument": "UVES",
+            "Observatory": "Paranal Observatory"
+        },
+        {
+            "Telescope": "CTIO 1.3m",
+            "Instrument": "ANDICAM",
+            "Observatory": "Cerro Tololo Inter-American Observatory"
+        }
+    ],
+    "Event Type": "microlensing event and transient",
+    "Time": "2012-06-04 01:55:12",
+    "Date": "2012-06-04",
+    "Telescope": "VLT",
+    "Instrument": "UVES",
+    "Observatory": "Paranal Observatory"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "2017-07-28T00:00:00",
+            "Date": "2017-07-28"
+        },
+        {
+            "Name": "Swift J181723.1-164300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "2017-07-30T00:00:00",
+            "Date": "2017-07-30"
+        }
+    ],
+    "References": [
+        "Barthelmy et al. 2017, GCN #21369, #21385",
+        "Palmer et al. 2017, GCN #21400"
+    ],
+    "Event Type": "thermonuclear type-I burst",
+    "Time": "00:00:00",
+    "Date": "2017-07-28",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": "Swift/BAT"
+}

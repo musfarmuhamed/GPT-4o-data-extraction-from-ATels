@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 676",
+            "RA": 330.4314,
+            "Dec": 50.81566,
+            "redshift": 1.899,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "2012-10-21",
+            "Date": "2012-10-24"
+        }
+    ],
+    "References": [
+        {
+            "title": "Beasley et al. 2002",
+            "journal": "ApJS",
+            "volume": "141",
+            "page": "13"
+        },
+        {
+            "title": "Sowards-Emmerd et al. 2005",
+            "journal": "ApJ",
+            "volume": "626",
+            "page": "95"
+        },
+        {
+            "title": "Kalberla et al. 2005",
+            "journal": "A&A",
+            "volume": "440",
+            "page": "775"
+        }
+    ],
+    "Event Type": "Gamma-ray flaring activity",
+    "Time": "2012-10-21T00:00:00Z",
+    "Date": "2012-10-24T00:00:00Z",
+    "Telescope": "Fermi LAT, Swift XRT",
+    "Instrument": "Gamma-ray detector, X-ray detector",
+    "Observatory": "Fermi Gamma-ray Space Telescope, Neil Gehrels Swift Observatory"
+}

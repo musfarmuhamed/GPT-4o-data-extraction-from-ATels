@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSNJ 09195286-6854419",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-II supernova",
+            "Time": "12.3",
+            "Date": "2016 Jan."
+        },
+        {
+            "Name": "PGC 26383",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011208",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ 666, 1024",
+    "Event Type": "optical spectroscopy",
+    "Time": "12.3",
+    "Date": "2016 Jan.",
+    "Telescope": "Clay telescope",
+    "Instrument": "LDSS3",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J004305.5+411703",
+            "RA": "00h43m05s.55",
+            "Dec": "+41o17'03''.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "31.54 UT",
+            "Date": "2001 Aug 31"
+        },
+        {
+            "Name": "CXOU J004242.1+411424",
+            "RA": "00h42m42s.1",
+            "Dec": "+41o14'24''.7",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "31.54 UT",
+            "Date": "2001 Aug 31"
+        },
+        {
+            "Name": "XMMU J004308.5+411820",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "super-soft transient",
+            "Time": null,
+            "Date": "2001 June"
+        },
+        {
+            "Name": "XMMU J004245.2+411721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2001 June"
+        }
+    ],
+    "References": "IAUC #7659",
+    "Event Type": "observation",
+    "Time": "5000-sec",
+    "Date": "2001 Aug 31",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": null
+}

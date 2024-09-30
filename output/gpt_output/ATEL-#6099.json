@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SNIa",
+            "Time": "22:36:22",
+            "Date": "2014-01-31"
+        },
+        {
+            "Name": "M82X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ULX",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAU Central Bureau Telegrams, 3792, 1, 2014",
+        "ATel # 5786, 2014",
+        "arXiv: 1401.7968",
+        "ATels #5835, #5992",
+        "ATel #5992"
+    ],
+    "Event Type": "supernova",
+    "Time": "22:36:22",
+    "Date": "2014-01-31",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "SPI",
+        "IBIS/ISGRI",
+        "JEM-X",
+        "OMC"
+    ],
+    "Observatory": null
+}

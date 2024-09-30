@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/neutron star HMXB",
+            "Time": [
+                "14:04:22 UT",
+                "10:59:42 UT"
+            ],
+            "Date": [
+                "April 23, 2007",
+                "April 25, 2007"
+            ]
+        }
+    ],
+    "References": "Galis et al, ATel #1063; ATEL #904; http://swift.gsfc.nasa.gov/docs/swift/results/transients/weak/SAXJ2103.5p4545/",
+    "Event Type": "Outburst detection",
+    "Time": "14:04:22 UT; 10:59:42 UT",
+    "Date": "April 23, 2007; April 25, 2007",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

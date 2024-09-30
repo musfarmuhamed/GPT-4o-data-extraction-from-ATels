@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 2308+34",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio source",
+            "Time": "JD2456581.865868",
+            "Date": "Oct 16th, 2013"
+        },
+        {
+            "Name": "HB892308+341",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.82",
+            "Type": "high redshift QSO",
+            "Time": "JD2456581.865868",
+            "Date": "Oct 16th, 2013"
+        },
+        {
+            "Name": "2FGLJ2311.0+3425",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi LAT source",
+            "Time": "JD2456581.865868",
+            "Date": "Oct 16th, 2013"
+        }
+    ],
+    "References": "Atel#5477",
+    "Event Type": "Gamma Ray activity",
+    "Time": "JD2456581.865868",
+    "Date": "Oct 16th, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

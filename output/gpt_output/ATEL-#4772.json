@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09133717+2959587 (SNhunt168)",
+            "RA": "09:13:37.17",
+            "Dec": "+29:59:58.7",
+            "redshift": "0.024537",
+            "Type": "type-Ic supernova",
+            "Time": "Jan. 29.86 UT",
+            "Date": "2023-01-29"
+        },
+        {
+            "Name": "SN 2004aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type IIb supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MCG +5-22-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Mahdavi & Geller 2004, ApJ 607, 202",
+        "Taubenberger et al 2006, MNRAS 371, 1459",
+        "Barbon et al 1995, A&AS 110, 513",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": "Jan. 29.86 UT",
+    "Date": "2023-01-29",
+    "Telescope": "Asiago 1.22-m Galileo Telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Asiago Observatory"
+}

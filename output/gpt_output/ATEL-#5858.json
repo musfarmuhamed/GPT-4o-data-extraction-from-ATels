@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": "20:40:17",
+            "Date": "2014-02-03"
+        },
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": "19:05:17",
+            "Date": "2014-02-05"
+        }
+    ],
+    "References": [
+        "Atel #5845",
+        "Atel #5810",
+        "Atel #5790"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": [
+        "20:40:17",
+        "19:05:17"
+    ],
+    "Date": [
+        "2014-02-03",
+        "2014-02-05"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

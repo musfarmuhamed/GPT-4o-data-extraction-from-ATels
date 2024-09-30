@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ky (AT 2017gda)",
+            "RA": "16:23:11.76",
+            "Dec": "+01:45:16.04",
+            "redshift": 0.03,
+            "Type": "Supernova",
+            "Time": "2017-08-17.29",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17kz (AT 2017gea)",
+            "RA": "02:44:57.30",
+            "Dec": "+34:05:40.03",
+            "redshift": 0.0318,
+            "Type": "Supernova",
+            "Time": "2017-08-17.51",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Las Cumbres Observatory",
+        "Gordon and Betty Moore Foundation",
+        "Ohio State University",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP)",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)"
+    ],
+    "Event Type": "Discovery of new transient sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Type": "14-cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "Cassius",
+            "Type": "14-cm",
+            "Location": "Cerro Tololo, Chile"
+        }
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

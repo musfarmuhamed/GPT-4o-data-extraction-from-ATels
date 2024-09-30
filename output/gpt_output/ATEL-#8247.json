@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01181560+1505588",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054,
+            "Type": "Type Ia Supernova",
+            "Time": "03.9 UT",
+            "Date": "2015 Nov. 03"
+        },
+        {
+            "Name": "SN 2002fk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ,666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "03.9 UT",
+    "Date": "2015 Nov. 03",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of NAOC"
+}

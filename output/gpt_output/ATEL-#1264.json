@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ESO 140-43",
+            "RA": "18 45 10",
+            "Dec": "-62 21 21",
+            "redshift": "0.0141",
+            "Type": "Seyfert-1 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ESO 141-55",
+            "RA": "19 21 19",
+            "Dec": "-58 39 49",
+            "redshift": "0.0366",
+            "Type": "Seyfert-1 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Voges et al., 1999, A&A, 349, 389",
+        "Revnivtsev et al., 2004, A&A, 418, 927",
+        "Ueda et al., 2005, ApJS, 161, 185"
+    ],
+    "Event Type": "Observation",
+    "Time": "378 ks",
+    "Date": {
+        "Start": "2007-10-29",
+        "End": "2007-11-04"
+    },
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X",
+        "OMC"
+    ],
+    "Observatory": null
+}

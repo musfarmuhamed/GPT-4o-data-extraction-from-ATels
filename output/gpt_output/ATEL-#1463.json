@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova 2008bo",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00495,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2008-04-04.71"
+        },
+        {
+            "Name": "Supernova 2008bo",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00495,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2008-04-06.31"
+        }
+    ],
+    "References": [
+        "CBET #1324",
+        "CBET #1325",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Dickey & Lockman, 1990, ARAA, 28, 215",
+        "NED"
+    ],
+    "Event Type": "Supernova Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift Satellite",
+    "Instrument": "UVOT, XRT",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2013ej",
+            "RA": "J01364816",
+            "Dec": "+1545310",
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": "2013 July 30",
+            "Date": "2013 July 31"
+        },
+        {
+            "Name": "PSN J01364816+1545310",
+            "RA": "J01364816",
+            "Dec": "+1545310",
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": "2013 July 30",
+            "Date": "2013 July 31"
+        },
+        {
+            "Name": "M74 X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ULX source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J013649.2+154527",
+            "RA": "J013649.2",
+            "Dec": "+154527",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3606",
+        "Atel #5228",
+        "#5229",
+        "#5230",
+        "#5237"
+    ],
+    "Event Type": "Observation",
+    "Time": "2013 July 30",
+    "Date": "2013 July 31",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray Telescope (XRT)",
+        "UltraViolet/Optical Telescope (UVOT)"
+    ],
+    "Observatory": null
+}

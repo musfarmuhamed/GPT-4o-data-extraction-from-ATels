@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J2058+0516",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 1.185,
+            "Type": "hard X-ray transient",
+            "Time": "13:42 UT",
+            "Date": "2011 June 1"
+        },
+        {
+            "Name": "Mg II",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 1.185,
+            "Type": "absorption line",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Fe II",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 1.185,
+            "Type": "absorption line",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Swift J1644/GRB110328A",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "transient/gamma-ray burst",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATEL #3390, ATEL #3425, ATEL #3384, Levan et al, astro-ph/1104.3356, Bloom et al, astro-ph/1104.3257, Burrows et al., astro-ph/1104.4787, Zauderberg et al., Nature, submitted",
+    "Event Type": "observation",
+    "Time": "13:42 UT",
+    "Date": "2011 June 1",
+    "Telescope": "Keck II",
+    "Instrument": "DEIMOS spectrograph",
+    "Observatory": "Null"
+}

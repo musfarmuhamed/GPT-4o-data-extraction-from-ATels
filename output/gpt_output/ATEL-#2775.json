@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate X-ray binary",
+            "Time": "~/daily",
+            "Date": "2010-03-22 to 2010-08-05"
+        }
+    ],
+    "References": [
+        "ATel #2258",
+        "ATels #2263, #2268, #2424",
+        "ATels #2518, #2530, #2549",
+        "Curran et al. 2010",
+        "Lewis et al. 2008, arXiv:0712.2751"
+    ],
+    "Event Type": "monitoring",
+    "Time": null,
+    "Date": "2010-03-22 to 2010-08-05",
+    "Telescope": [
+        "Faulkes Telescopes North and South",
+        "William Herschel Telescope"
+    ],
+    "Instrument": [
+        "Long-slit Intermediate Resolution Infrared Spectrograph (LIRIS)"
+    ],
+    "Observatory": [
+        "Siding Spring, Australia",
+        "Haleakala on Maui",
+        "Observatorio del Roque de los Muchachos, La Palma, Spain"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "JD 2457705.57",
+            "Date": "2016-11-13"
+        }
+    ],
+    "References": "Jorstad et al. ATel #9676; Balonek et al. ATel #9732; Minervini et al. ATel #9743",
+    "Event Type": "optical flare",
+    "Time": "JD 2457705.57",
+    "Date": "2016-11-13",
+    "Telescope": "Ferson 0.4-m telescope",
+    "Instrument": "FLI PL1001 CCD camera",
+    "Observatory": "Foggy Bottom University in Hamilton, NY"
+}

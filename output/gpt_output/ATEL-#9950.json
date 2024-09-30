@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J154313.55-712056.3",
+            "RA": "15h 43m 13.55s",
+            "Dec": "-71d 20m 56.3s",
+            "redshift": null,
+            "Type": "possibly dwarf nova",
+            "Time": "00:10:20 UT",
+            "Date": "2017-01-05"
+        },
+        {
+            "Name": "MASTER OT J152615.50-424755.1",
+            "RA": "15h 26m 15.50s",
+            "Dec": "-42d 47m 55.1s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "08:16:03 UT",
+            "Date": "2017-01-04"
+        }
+    ],
+    "References": [
+        {
+            "Image Date": "2015-06-22",
+            "Time": "18:18:00 UT",
+            "Magnitude Limit": "19.5m"
+        },
+        {
+            "Image Date": "2016-12-27",
+            "Time": "01:50:18 UT",
+            "Magnitude Limit": "18.8m"
+        },
+        {
+            "Image Date": "2016-12-31",
+            "Time": "02:25:24 UT",
+            "Magnitude Limit": "18.3m"
+        },
+        {
+            "Image Date": "2016-03-10",
+            "Time": "01:38:16 UT",
+            "Magnitude Limit": "20.7m"
+        },
+        {
+            "Image Date": "2016-06-29",
+            "Time": "19:09:08 UT",
+            "Magnitude Limit": "20.0m"
+        },
+        {
+            "Image Date": "2016-01-18",
+            "Time": "01:15:36 UT",
+            "Magnitude Limit": "16.6m"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

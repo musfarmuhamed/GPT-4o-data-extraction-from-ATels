@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "14:25 UT",
+            "Date": "2016-06-19"
+        },
+        {
+            "Name": "1AGLR J2254+1609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "14:25 UT",
+            "Date": "2016-06-19"
+        }
+    ],
+    "References": [
+        "ATel #9157",
+        "ATel #9150"
+    ],
+    "Event Type": "gamma-ray activity enhancement",
+    "Time": "14:25 UT",
+    "Date": "2016-06-21",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "1.1",
+            "Date": "2011-05-01"
+        },
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2011-04-14"
+        },
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "22.9",
+            "Date": "2011-04-22"
+        }
+    ],
+    "References": [
+        "CBET #2700",
+        "IAUC # 9205",
+        "ATel #3310"
+    ],
+    "Event Type": "radio continuum detection",
+    "Time": "1.1",
+    "Date": "2011-05-01",
+    "Telescope": "EVLA",
+    "Instrument": "radio telescope",
+    "Observatory": "National Radio Astronomy Observatory"
+}

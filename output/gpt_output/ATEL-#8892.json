@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16dp",
+            "RA": "14:59:42.13",
+            "Dec": "+04:05:08.09",
+            "redshift": "0.032641",
+            "Type": "supernova",
+            "Time": "UT 2016-03-31.47",
+            "Date": "2016-03-31"
+        },
+        {
+            "Name": "SDSS J145942.12+040518.1",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.032641",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Null",
+    "Event Type": "discovery",
+    "Time": "UT 2016-03-31.47",
+    "Date": "2016-03-31",
+    "Telescope": "14-cm Brutus, LCOGT 1-m robotic telescope",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii; CTIO"
+}

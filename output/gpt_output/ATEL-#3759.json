@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0158-744",
+            "RA": 29.85647,
+            "Dec": -74.25795,
+            "redshift": null,
+            "Type": "soft X-ray transient, supersoft source (SSS)",
+            "Time": "15:33:38",
+            "Date": "2011-11-11"
+        }
+    ],
+    "References": "ATel #3756, GCN #12555, Evans et al. 2009, MNRAS 397, 1177, Kalberla et al. 2005, A&A, 440, 775, USNO B1.0 catalog, Kennea et al. (ATel #3758)",
+    "Event Type": "Swift follow-up observations",
+    "Time": "15:33:38",
+    "Date": "2011-11-11",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

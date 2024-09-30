@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016grj",
+            "RA": "21:38:24.61",
+            "Dec": "-04:45:46.7",
+            "redshift": "0.119",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20160929"
+        },
+        {
+            "Name": "AT2016grp",
+            "RA": "01:39:06.64",
+            "Dec": "-29:54:37.2",
+            "redshift": "0.02",
+            "Type": "-",
+            "Time": "NULL",
+            "Date": "20160929"
+        },
+        {
+            "Name": "SN2016flq",
+            "RA": "00:28:36.50",
+            "Dec": "-01:33:03.1",
+            "redshift": "0.06",
+            "Type": "Ic",
+            "Time": "NULL",
+            "Date": "20160929"
+        },
+        {
+            "Name": "SN2016gra",
+            "RA": "02:15:54.46",
+            "Dec": "+04:11:41.2",
+            "redshift": "0.032",
+            "Type": "II",
+            "Time": "NULL",
+            "Date": "20160929"
+        },
+        {
+            "Name": "MLS160925-224708-083931",
+            "RA": "22:47:07.52",
+            "Dec": "-08:39:30.6",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": "NULL",
+            "Date": "20160929"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "http://www.pessto.org",
+        "Huber et al., ATel #7153",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "http://crts.caltech.edu/",
+        "https://wis-tns.weizmann.ac.il/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "NULL",
+    "Date": "20160929",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

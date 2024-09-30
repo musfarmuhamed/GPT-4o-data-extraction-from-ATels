@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10htz",
+            "RA": "13:08:37.52",
+            "Dec": "+79:47:13.2",
+            "redshift": "0.035",
+            "Type": "II",
+            "Time": null,
+            "Date": "April 03 UT"
+        },
+        {
+            "Name": "CGCG 352-058",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "PTF (ATEL #1964; http://www.astro.caltech.edu/ptf/)",
+        "Oke & Gunn 1982, PASP, 94, 586",
+        "Howell et al. 2005, ApJ 634, 1190"
+    ],
+    "Event Type": "discovery of a new supernova",
+    "Time": null,
+    "Date": "April 03 UT",
+    "Telescope": "Palomar 5-m Hale telescope",
+    "Instrument": "Double-Beam Spectrograph (DBSP)",
+    "Observatory": null
+}

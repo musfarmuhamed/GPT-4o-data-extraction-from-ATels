@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "13:01:40 UTC",
+            "Date": "2011-02-13"
+        },
+        {
+            "Name": "4U 1608-52",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2005"
+        }
+    ],
+    "References": [
+        "ATel #3172",
+        "ATel #482"
+    ],
+    "Event Type": "superburst",
+    "Time": "13:01:40 UTC",
+    "Date": "2011-02-13",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X, IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

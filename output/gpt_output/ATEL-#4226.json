@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 4424",
+            "RA": "12h27m12.83s",
+            "Dec": "+09d25'13.1\"",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2001"
+        },
+        {
+            "Name": "SN 2012cg",
+            "RA": "12h27m12.83s",
+            "Dec": "+09d25'13.1\"",
+            "redshift": null,
+            "Type": "Type-Ia Supernova",
+            "Time": null,
+            "Date": "2012"
+        }
+    ],
+    "References": [
+        "CBET 3111",
+        "Cortes et al. 2008, ApJ, 683, 78",
+        "Silverman et al. 2012, arXiv:1206.1328",
+        "Marion et al. (Atel #4215)",
+        "Silverman et al. 2012"
+    ],
+    "Event Type": "Supernova Detection",
+    "Time": null,
+    "Date": "2001",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "WFPC2",
+    "Observatory": null
+}

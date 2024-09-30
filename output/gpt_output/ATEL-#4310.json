@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J0639+0548",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma-ray transient",
+            "Time": "Null",
+            "Date": "2012 June 22"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": "06 39 38.57",
+            "Dec": "+05 53 53.4",
+            "redshift": "Null",
+            "Type": "nova",
+            "Time": "Null",
+            "Date": "2012 August 9"
+        },
+        {
+            "Name": "V407 Cyg",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "nova",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Nova Sco 2012",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "nova",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL #4224",
+        "CBET #3202",
+        "CBET #2199",
+        "ATEL #2487",
+        "Science, 329, 817",
+        "CBET #3136",
+        "ATEL #4157",
+        "ATEL #4284"
+    ],
+    "Event Type": "gamma-ray transient from nova",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Fermi LAT, 0.3m telescope, 0.28m reflector, 2.6m Nordic Optical Telescope",
+    "Instrument": "LHIRES III spectrograph, LISA spectrograph, FIES high resolution spectrum",
+    "Observatory": "Observatoire de Haute Provence, Nordic Optical Telescope on the island of La Palma"
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553278+6902139",
+            "RA": "09 55 32.78",
+            "Dec": "+69 02 13.9",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        },
+        {
+            "Name": "PNV J09555380+6903383",
+            "RA": "09 55 53.80",
+            "Dec": "+69 03 38.3",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        },
+        {
+            "Name": "PNV J09555778+6902041",
+            "RA": "09 55 57.78",
+            "Dec": "+69 02 04.1",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        },
+        {
+            "Name": "PNV J09553792+6902498",
+            "RA": "09 55 37.92",
+            "Dec": "+69 02 49.8",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        },
+        {
+            "Name": "PNV J09553560+6904154",
+            "RA": "09 55 35.60",
+            "Dec": "+69 04 15.4",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        },
+        {
+            "Name": "PNV J09553266+6906072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "9.102",
+            "Date": "2012 Jan."
+        }
+    ],
+    "References": "ATEL #3735, ATEL #3770",
+    "Event Type": "discovery",
+    "Time": "9.102",
+    "Date": "2012 Jan.",
+    "Telescope": "2.54-m Isaac Newton Telescope",
+    "Instrument": "narrow-band H-alpha CCD",
+    "Observatory": "La Palma"
+}

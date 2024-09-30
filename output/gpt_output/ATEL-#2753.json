@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAGIC J2001+435",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "VHE gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J2001.1+4351",
+            "RA": "20 01 13.5",
+            "Dec": "43 53 02.8",
+            "redshift": null,
+            "Type": "Fermi-LAT gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MG4 J200112+4352",
+            "RA": "20 01 12.9",
+            "Dec": "43 52 52.8",
+            "redshift": null,
+            "Type": "radio source, BL Lac object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bassani et al., MNRAS 397 (2009) L55",
+    "Event Type": "Discovery of VHE gamma-ray emission",
+    "Time": "1.5 hour-long",
+    "Date": "July 16th",
+    "Telescope": "17m diameter imaging Cherenkov telescopes",
+    "Instrument": "standard cuts optimized for soft energy spectra sources",
+    "Observatory": "La Palma, Canary Islands, Spain"
+}

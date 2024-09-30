@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18sg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "23:45:36",
+            "Date": "2018-08-14"
+        },
+        {
+            "Name": "SN2018fcw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "23:45:36",
+            "Date": "2018-08-14"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Shappee et al. 2014; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": "00:00:00",
+    "Date": "2018-08-17",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova-Asiago Observatory"
+}

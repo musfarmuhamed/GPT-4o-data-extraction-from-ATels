@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": [
+                "2008-05-31.47 UT",
+                "2008-07-15.70 UT",
+                "2008-07-18.30 UT"
+            ],
+            "Date": [
+                "2008-05-31",
+                "2008-07-15",
+                "2008-07-18"
+            ]
+        },
+        {
+            "Name": "XMMU J004241.2+411821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2008-05-31.47 UT",
+                "2008-07-15.70 UT",
+                "2008-07-18.30 UT"
+            ],
+            "Date": [
+                "2008-05-31",
+                "2008-07-15",
+                "2008-07-18"
+            ]
+        }
+    ],
+    "References": "Pietsch et al. (2008, ATel #1647)",
+    "Event Type": "Chandra ACIS observations of transient sources",
+    "Time": "2008-05-31.47 UT to 2008-07-15.70 UT",
+    "Date": "2008-05-31 to 2008-07-15",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

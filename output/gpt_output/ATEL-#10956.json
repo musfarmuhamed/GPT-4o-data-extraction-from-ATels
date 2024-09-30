@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017gax (Gaia 17cgy)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ib/c",
+            "Time": "02:04",
+            "Date": "2017-11-09"
+        },
+        {
+            "Name": "SN 2017hjw (Gaia 17crm)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN 1a",
+            "Time": "11:33",
+            "Date": "2017-11-09"
+        }
+    ],
+    "References": [
+        "ATEL #10638",
+        "ATEL #10640",
+        "ATEL #10863"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "1.0m telescope",
+        "2.0m"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "CTIO",
+        "Hakeakala Observatory"
+    ]
+}

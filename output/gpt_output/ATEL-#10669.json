@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17kr (SN 2017gas)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2017-08-18.35"
+        },
+        {
+            "Name": "ASASSN-17kz (SN 2017gea)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-08-18.46"
+        },
+        {
+            "Name": "Gaia17bzv (SN 2017fzy)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017-08-18.48"
+        }
+    ],
+    "References": "All-Sky Automated Survey for Supernovae (ASAS-SN, Shappee et al. 2014), Gaia Alerts (http://gsaweb.ast.cam.ac.uk/alerts/alertsindex), SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "optical spectroscopic observation of supernova candidates",
+    "Time": null,
+    "Date": "2017-08-18",
+    "Telescope": "Hale 5m telescope",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

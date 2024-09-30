@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Candidate 1",
+            "RA": "00h41m23.07s",
+            "Dec": "+41d06'17.4\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "7.418 UT",
+            "Date": "2011 June 7"
+        },
+        {
+            "Name": "Nova Candidate 2",
+            "RA": "00h42m02.69s",
+            "Dec": "+41d02'54.5\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "7.418 UT",
+            "Date": "2011 June 7"
+        },
+        {
+            "Name": "Nova Candidate 3",
+            "RA": "00h42m24.13s",
+            "Dec": "+41d11'54.9\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "7.418 UT",
+            "Date": "2011 June 7"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478",
+    "Event Type": "Discovery",
+    "Time": "7.418 UT",
+    "Date": "2011 June 7",
+    "Telescope": "Robotic 60cm telescope",
+    "Instrument": "E2V CCD (2kx2k, 13.5 micron sq. pixels)",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

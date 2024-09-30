@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1136.5+6737",
+            "RA": "11:36:30.1",
+            "Dec": "+67:37:04",
+            "redshift": "0.1342",
+            "Type": "X-ray bright high-peaked frequency BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "Title": "MAXI 3-year catalog",
+            "Authors": "Hiroi et al.",
+            "Year": 2013
+        },
+        {
+            "Title": "Second Fermi-LAT source catalog (2FGL)",
+            "Authors": "Nolan et al.",
+            "Year": 2012
+        },
+        {
+            "Title": "first Fermi-LAT catalog of >10 GeV sources (1FHL)",
+            "Authors": "Ackermann et al.",
+            "Year": 2013
+        }
+    ],
+    "Event Type": "discovery of very high energy (VHE; E>100 GeV) gamma-ray emission",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MAGIC telescopes",
+    "Instrument": "Imaging Atmospheric Cherenkov Telescopes",
+    "Observatory": "La Palma, Spain"
+}

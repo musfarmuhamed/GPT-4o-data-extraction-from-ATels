@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accretion-powered pulsar",
+            "Time": "54500",
+            "Date": "2008-02-04"
+        }
+    ],
+    "References": [
+        "ATel #2095",
+        "ATel #1426",
+        "Camero-Arranz et al. 2009, astro-ph 0906.4224"
+    ],
+    "Event Type": "torque reversal",
+    "Time": "54500",
+    "Date": "2008-02-04",
+    "Telescope": [
+        "Fermi",
+        "Swift"
+    ],
+    "Instrument": [
+        "GBM",
+        "BAT"
+    ],
+    "Observatory": null
+}

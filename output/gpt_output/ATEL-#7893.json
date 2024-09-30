@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J16303221+0913530",
+            "RA": "16:30:32.21",
+            "Dec": "+09:13:53.0",
+            "redshift": "0.078",
+            "Type": "Ia supernova",
+            "Time": "21:08:52",
+            "Date": "2015-08-07"
+        },
+        {
+            "Name": "SDSS J163032.17+091346.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.076",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN1999ee",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBAT report http://www.cbat.eps.harvard.edu/unconf/followups/J16303221+0913530.html",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2015-08-05.85",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos, La Palma"
+}

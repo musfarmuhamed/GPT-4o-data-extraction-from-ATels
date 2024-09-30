@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V407 Cygni",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2010"
+        },
+        {
+            "Name": "Nova Sco 2016",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "1 week and an on-source time of 430ks",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2016-NOVA-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "1 week and an on-source time of 430ks",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Fermi-LAT Collaboration 2014",
+        "CBET 4285",
+        "ATel #9246"
+    ],
+    "Event Type": "gamma-ray observations",
+    "Time": "1 week and an on-source time of 430ks",
+    "Date": null,
+    "Telescope": "Fermi-LAT",
+    "Instrument": "Fermi-LAT",
+    "Observatory": null
+}

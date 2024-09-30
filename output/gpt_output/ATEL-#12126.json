@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FIRST J141918.9+394036",
+            "RA": "14h19m18.85075s",
+            "Dec": "+39d40'36.0492''",
+            "redshift": null,
+            "Type": "slowly-evolving extragalactic radio transient, possibly a fading orphan long gamma-ray burst (LGRB)",
+            "Time": "12:00 to 19:00 UTC",
+            "Date": "18 September 2018"
+        }
+    ],
+    "References": "Law et al. 2018, arXiv:1808.08964",
+    "Event Type": "Real-time observation with European VLBI Network (e-EVN)",
+    "Time": "12:00 to 19:00 UTC",
+    "Date": "18 September 2018",
+    "Telescope": [
+        "Effelsberg",
+        "Westerbork Single Telescope",
+        "Jodrell Bank Mk2 Telescope",
+        "Medicina",
+        "Onsala",
+        "Tianma",
+        "Torun",
+        "Hartebeesthoek",
+        "Sardinia",
+        "Cambridge",
+        "Defford",
+        "Knockin"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "European VLBI Network",
+        "e-MERLIN at Jodrell Bank Observatory"
+    ]
+}

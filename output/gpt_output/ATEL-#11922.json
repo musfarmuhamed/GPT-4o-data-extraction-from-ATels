@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004613.05+242014.1",
+            "RA": "00h 46m 13.05s",
+            "Dec": "+24d 20m 14.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:28:20.467",
+            "Date": "2018-08-07"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Lipunov et al.",
+            "Title": "\"MASTER Global Robotic Net\"",
+            "Journal": "Advances in Astronomy",
+            "Year": 2010,
+            "Page": "30L"
+        },
+        {
+            "GCN": "GCN #23091",
+            "URL": "https://gcn.gsfc.nasa.gov/gcn3/23091.gcn3"
+        },
+        {
+            "URL": "https://gcn.gsfc.nasa.gov/other/555287944.fermi"
+        }
+    ],
+    "Event Type": "OT discovery",
+    "Time": "22:38:59.66",
+    "Date": "2018-08-06",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

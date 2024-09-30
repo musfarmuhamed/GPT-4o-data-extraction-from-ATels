@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192809.82+551616.5",
+            "RA": "19h 28m 09.82s",
+            "Dec": "+55d 16m 16.5s",
+            "redshift": null,
+            "Type": "Possible Nova",
+            "Time": [
+                "2014 Mar. 15.686",
+                "2014 Mar. 16.778",
+                "2014 Mar. 20.749",
+                "2014 Mar. 22.743",
+                "2014 Mar. 23.910"
+            ],
+            "Date": [
+                "2014-03-15",
+                "2014-03-16",
+                "2014-03-20",
+                "2014-03-22",
+                "2014-03-23"
+            ]
+        },
+        {
+            "Name": "MASTER OT J124851.01+483953.5",
+            "RA": "12h 48m 51.01s",
+            "Dec": "+48d 39m 53.5s",
+            "redshift": "1.856",
+            "Type": "Flaring Quasar",
+            "Time": "2014-03-23.66150 UT",
+            "Date": "2014-03-23"
+        }
+    ],
+    "References": [
+        "Balanutsa et al., ATel #5994",
+        "CRTS",
+        "Quasar B1246+4856",
+        "NVSS J124850+483953",
+        "SDSS J124850.94+483953.1"
+    ],
+    "Event Type": "Discovery",
+    "Time": [
+        "2014-03-15.686",
+        "2014-03-16.778",
+        "2014-03-20.749",
+        "2014-03-22.743",
+        "2014-03-23.910",
+        "2014-03-23.66150"
+    ],
+    "Date": [
+        "2014-03-15",
+        "2014-03-16",
+        "2014-03-20",
+        "2014-03-22",
+        "2014-03-23"
+    ],
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-Kislovodsk",
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ]
+}

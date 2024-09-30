@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18wd",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.021465,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018-10-03.00"
+        },
+        {
+            "Name": "ASASSN-18wq",
+            "RA": "SDSS J092317.60+422248.7",
+            "Dec": "Null",
+            "redshift": 0.009,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018-10-03.07"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Shappee et al. 2014; Falco, E. et al, The Updated Zwicky Catalog (UZC), Version of August 2000, based on 1999 PASP 111, 438 (via NED); Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observation",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

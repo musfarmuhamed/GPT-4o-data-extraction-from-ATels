@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mm",
+            "RA": "15:25:23.50",
+            "Dec": "+29:10:24.5",
+            "redshift": "0.021466",
+            "Type": "supernova",
+            "Time": "2015-07-13.35",
+            "Date": "2015-07-13"
+        },
+        {
+            "Name": "SDSS J152523.40+291018.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021466",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2015-07-13"
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "new transient source (most likely a supernova)",
+    "Time": "2015-07-13.35",
+    "Date": "2015-07-13",
+    "Telescope": "quadruple 14-cm \"Brutus\"",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

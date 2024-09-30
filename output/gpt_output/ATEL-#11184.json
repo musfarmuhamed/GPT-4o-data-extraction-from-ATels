@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "high-energy peaked BL Lac",
+            "Time": "1:15 UTC - 7:05 UTC",
+            "Date": "MJD 58135"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11077",
+        "ATel #11086",
+        "http://fact-project.org/monitoring/index.php?y=2018&m=01&d=16&source=1&timebin=12&plot=month",
+        "http://fact-project.org/monitoring/index.php?y=2018&m=01&d=16&source=1&timebin=3&plot=night"
+    ],
+    "Event Type": "enhanced gamma-ray flux",
+    "Time": "1:15 UTC - 7:05 UTC",
+    "Date": "MJD 58135",
+    "Telescope": "First G-APD Cherenkov Telescope (FACT)",
+    "Instrument": "semi-conductor photo sensors (SiPM)",
+    "Observatory": "Observatorio del Roque de los Muchachos"
+}

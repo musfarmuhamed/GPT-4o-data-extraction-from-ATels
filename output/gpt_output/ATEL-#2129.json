@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "09:00",
+            "Date": "2022-07-08"
+        },
+        {
+            "Name": "Swift J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "23:00",
+            "Date": "2022-07-13"
+        },
+        {
+            "Name": "Swift J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "02:00",
+            "Date": "2022-07-14"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Atel",
+            "ID": "#1107",
+            "Date": "2007-06"
+        },
+        {
+            "Reference": "Krimm et al.",
+            "Date": "2007",
+            "Note": "Swift-XRT position and 182.0658 Hz power density spectrum"
+        }
+    ],
+    "Event Type": "Detection of increased activity of Swift J1756.9-2508",
+    "Time": "09:00",
+    "Date": "2022-07-08",
+    "Telescope": [
+        "RXTE",
+        "Swift"
+    ],
+    "Instrument": [
+        "PCA",
+        "BAT"
+    ],
+    "Observatory": null
+}

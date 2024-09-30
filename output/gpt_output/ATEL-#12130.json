@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018hla",
+            "RA": "08:36:39.72",
+            "Dec": "+01:07:06.42",
+            "redshift": 0.201,
+            "Type": "AGN",
+            "Time": null,
+            "Date": "2018-10-17"
+        },
+        {
+            "Name": "SN2018hkw",
+            "RA": "02:38:22.78",
+            "Dec": "-11:44:20.98",
+            "redshift": 0.027,
+            "Type": "Ia-91bg",
+            "Time": null,
+            "Date": "2018-10-17"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Shappee et al. 2014, ApJ, 788, 48; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": null,
+    "Time": null,
+    "Date": "2018-10-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

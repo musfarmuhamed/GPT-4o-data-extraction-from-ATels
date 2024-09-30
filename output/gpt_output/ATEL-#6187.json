@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J185624.15+400311.8",
+            "RA": "18h 56m 24.15s",
+            "Dec": "+40d 03m 11.8s",
+            "redshift": null,
+            "Type": "CV (Dwarf Nova)",
+            "Time": "2014-05-29.94169 UT",
+            "Date": "2014-05-29"
+        },
+        {
+            "Name": "MASTER OT J200357.07-183211.3",
+            "RA": "20h 03m 57.07s",
+            "Dec": "-18d 32m 11.3s",
+            "redshift": null,
+            "Type": "CV (Dwarf Nova, likely UGSU type)",
+            "Time": "2014-05-29.96318 UT",
+            "Date": "2014-05-29"
+        }
+    ],
+    "References": [
+        "ATel #6071"
+    ],
+    "Event Type": "Detection of new cataclysmic variables (CVs)",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

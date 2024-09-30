@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0911-635/Swift J0911.9-6452",
+            "RA": "09:12:02.43",
+            "Dec": "-64:52:06.4",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "06:34:20 UTC",
+            "Date": "2016-04-09"
+        },
+        {
+            "Name": "NGC 2808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 15 from Servillat et al. (2008)",
+            "RA": "09:12:02.46",
+            "Dec": "-64:52:06.37",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 1 from Servillat et al. (2008)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 10 from Servillat et al. (2008)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8872, #8884, #8914; Kim et al. (2007, ApJS, 169, 401); Servillat et al. (2008, A&A, 490, 641); Anderson et al. (2008, AJ, 135, 2055); Testa et al. (2012, A&A, 547, A28); Ferraro et al. (2015, ApJL, 807, L1); Heinke et al. (2014, MNRAS, 444, 443); Edmonds et al. (2002, ApJ, 564, L17); Haggard et al. (2004, ApJ, 613, 512); Pallanca et al. (2013, ApJ, 773, 122)",
+    "Event Type": "Chandra ToO Observation",
+    "Time": "06:34:20 UTC",
+    "Date": "2016-04-09",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-S",
+    "Observatory": null
+}

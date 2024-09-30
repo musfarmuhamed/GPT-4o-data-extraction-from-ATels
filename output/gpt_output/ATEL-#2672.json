@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6440 X-2",
+            "RA": "17 48 52.4497",
+            "Dec": "-20 21 27.4491",
+            "redshift": "Null",
+            "Type": "Accreting Millisecond X-ray Pulsar (AMXP), Low Mass X-ray Binary",
+            "Time": "10h 13m 00s UT",
+            "Date": "June 12th, 2010"
+        },
+        {
+            "Name": "NGC 6440",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Globular Cluster",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Accreting Millisecond X-ray Pulsar (AMXP)",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Pooley et al. 2002, ApJ 573, 184",
+        "Altarmirano et al. 2010, ApJL 712, 58",
+        "Altamirano et al. 2008, ApJL 674, 45",
+        "Gavriil et al. 2007, ApJ 669, 22",
+        "Heinke et al. 2010, ApJ 714, 894",
+        "Patruno et al. 2009, ApJ 707, 1296"
+    ],
+    "Event Type": "Observation",
+    "Time": "10h 13m 00s UT",
+    "Date": "June 12th, 2010",
+    "Telescope": [
+        "RXTE",
+        "Swift"
+    ],
+    "Instrument": [
+        "PCA",
+        "XRT"
+    ],
+    "Observatory": "Null"
+}

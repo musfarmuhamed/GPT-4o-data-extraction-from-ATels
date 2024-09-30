@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": "04:00-8:00",
+            "Date": "Sept 27"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Drake et al.",
+            "Year": 2012,
+            "Identifier": "ATel #4334"
+        },
+        {
+            "Authors": "Smith & Mauerhan",
+            "Year": 2012,
+            "Identifier": "ATel #4412"
+        },
+        {
+            "Authors": "Martin et al.",
+            "Year": 2012,
+            "Identifier": "ATel #4416"
+        },
+        {
+            "Authors": "Margutti et al.",
+            "Year": 2012,
+            "Identifier": "ATel #4414"
+        },
+        {
+            "Authors": "Brimacombe et al.",
+            "Year": 2012,
+            "Identifier": "ATel #4423"
+        },
+        {
+            "Authors": "Smith et al.",
+            "Year": 2010,
+            "Journal": "ApJ",
+            "Volume": 709,
+            "Page": 856
+        }
+    ],
+    "Event Type": "Transitioning to Type IIn supernova",
+    "Time": "04:00-8:00",
+    "Date": "Sept 27",
+    "Telescope": "Bok 2.3 m telescope",
+    "Instrument": "B&C spectrograph",
+    "Observatory": null
+}

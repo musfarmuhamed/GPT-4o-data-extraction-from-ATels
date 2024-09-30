@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1750-3243",
+            "RA": "267.727 deg",
+            "Dec": "-32.720 deg",
+            "redshift": null,
+            "Type": "Gamma-ray transient",
+            "Time": null,
+            "Date": "2012 June 16-30"
+        },
+        {
+            "Name": "Nova Sco 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2012 June 1-3"
+        }
+    ],
+    "References": [
+        "CBET #3136",
+        "ATEL #4157",
+        "CBET #2199",
+        "ATEL #2487",
+        "The Fermi LAT collaboration 2010, Science, 329, 817"
+    ],
+    "Event Type": "Gamma-ray transient detection",
+    "Time": null,
+    "Date": "2012 June 16-30",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "International collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

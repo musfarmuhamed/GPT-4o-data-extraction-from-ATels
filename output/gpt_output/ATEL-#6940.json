@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SZ Psc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "RS CVn binary star system",
+            "Time": "09:08:42",
+            "Date": "15 January 2015"
+        }
+    ],
+    "References": "D'Elia et al. 2015, GCN Circ. 17303",
+    "Event Type": "detection and preliminary analysis of a large flare",
+    "Time": "09:08:42",
+    "Date": "15 January 2015",
+    "Telescope": "Swift",
+    "Instrument": [
+        {
+            "Name": "Burst Alert Telescope (BAT)",
+            "Observatory": "Swift"
+        },
+        {
+            "Name": "X-Ray Telescope (XRT)",
+            "Observatory": "Swift"
+        },
+        {
+            "Name": "Ultraviolet/Optical Telescope (UVOT)",
+            "Observatory": "Swift"
+        }
+    ]
+}

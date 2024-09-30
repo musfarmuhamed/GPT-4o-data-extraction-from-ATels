@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018bwq",
+            "RA": "21:29:11.76",
+            "Dec": "-29:09:46.2",
+            "redshift": 0.084,
+            "Type": "Ia",
+            "Time": "15:34 UT",
+            "Date": "2018-05-13"
+        }
+    ],
+    "References": [
+        "Scalzo et al. 2017, PASA, 34:30",
+        "Keller et al., 2007, PASA, 24, 1",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "16:29 UT",
+    "Date": "2018-05-22",
+    "Telescope": "3.9m Anglo-Australian Telescope",
+    "Instrument": "KOALA+AAOmega and grisms 580V+385R",
+    "Observatory": "Siding Spring Observatory"
+}

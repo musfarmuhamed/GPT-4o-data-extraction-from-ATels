@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS1843-02",
+            "RA": 282.5,
+            "Dec": -2.0,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "null",
+            "Date": "null"
+        }
+    ],
+    "References": [
+        "GCN#18675",
+        "Atel#7386",
+        "Finger et al. 1999",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1848-024"
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": "approximately same time as MAXI/GSC detection",
+    "Date": "2015 December 8.12 (MJD 57364.12)",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": "X-ray",
+    "Observatory": "null"
+}

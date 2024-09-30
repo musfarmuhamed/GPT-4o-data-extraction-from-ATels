@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17586-2129",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2009 June 27",
+            "Date": "MJD 55009"
+        },
+        {
+            "Name": "Swift J175834.6-212331",
+            "RA": "17 58 34.56",
+            "Dec": "-21 23 20.82",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "14:50:26 UTC",
+            "Date": "2009 August 7"
+        },
+        {
+            "Name": "2MASS 17583455-2123215",
+            "RA": "269.643997",
+            "Dec": "-21.389313",
+            "redshift": null,
+            "Type": "high-mass X-Ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al 2007, ApJS 170, 175",
+        "Revnivtsev et al 2008, A&A 491, 209"
+    ],
+    "Event Type": "gamma-ray outburst",
+    "Time": "14:50:26 UTC",
+    "Date": "2009 August 7",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), X-Ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2007gr",
+            "RA": "02 43 27.97151",
+            "Dec": "+37 20 44.6873",
+            "redshift": null,
+            "Type": "Type Ibc",
+            "Time": "21:00-09:00 UTC",
+            "Date": "6-7 September"
+        },
+        {
+            "Name": "J0253+3835",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reference source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET 1034, Soderberg et al., in prep.",
+    "Event Type": "VLBI detection of the supernova",
+    "Time": "21:00-09:00 UTC",
+    "Date": "6-7 September",
+    "Telescope": "Darnhall, Jodrell Bank (MkII), Medicina, Onsala, Torun, Westerbork",
+    "Instrument": "e-VLBI",
+    "Observatory": "European VLBI Network (EVN)"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN HFF13Zar",
+            "RA": "07:17:24.931",
+            "Dec": "+37:44:10.80",
+            "redshift": "0.5458",
+            "Type": "Supernova",
+            "Time": "17.9",
+            "Date": "2013-10-17"
+        },
+        {
+            "Name": "Host Galaxy A",
+            "RA": "109.3537889",
+            "Dec": "37.7355689",
+            "redshift": "0.49",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Host Galaxy B",
+            "RA": "109.3537579",
+            "Dec": "37.7373075",
+            "redshift": "0.03",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Host Galaxy C",
+            "RA": "109.3539984",
+            "Dec": "37.7367520",
+            "redshift": "0.56",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "PI:J.Lotz, HST PID 13498",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Advanced Camera for Surveys",
+    "Observatory": "Space Telescope Science Institute"
+}

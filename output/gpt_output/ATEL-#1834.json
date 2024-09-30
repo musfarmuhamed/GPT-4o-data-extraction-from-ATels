@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1995-11e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Long-period Mira variable",
+            "Time": "2008-07-06.8 UT",
+            "Date": "2008-07-06"
+        },
+        {
+            "Name": "V14148 D31C",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Mira variable",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shafter & Irby 2001, ApJ, 563, 749",
+        "Darnley et al. 2004, MNRAS, 353, 571",
+        "Stanek et al. 1999, AJ, 117, 2810"
+    ],
+    "Event Type": "Detection and Spectroscopic Analysis",
+    "Time": "2008-11-03 UT",
+    "Date": "2008-11-03",
+    "Telescope": "9.2-m Hobby Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": null
+}

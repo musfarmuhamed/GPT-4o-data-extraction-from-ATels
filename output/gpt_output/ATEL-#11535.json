@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J182525.98+081046.9",
+            "RA": "18h 25m 25.98s",
+            "Dec": "+08d 10m 46.9s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "00:00:00",
+            "Date": "2018-04-13"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2018-04-05",
+            "Time": "02:20:46",
+            "Magnitude Limit": "18.5",
+            "Observatory": "MASTER-IAC"
+        },
+        {
+            "Date": "2018-03-16",
+            "Time": null,
+            "Magnitude Limit": "18.6",
+            "Observatory": "MASTER-OAFA"
+        },
+        {
+            "Date": "2013-06-14",
+            "Time": "20:21:27.922",
+            "Unfiltered_magnitude": "16.6",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2014-03-28",
+            "Time": "20:15:30.452",
+            "Unfiltered_magnitude": "16.7",
+            "Observatory": "MASTER-Tunka"
+        },
+        {
+            "Date": "2014-04-04",
+            "Time": "01:13:09",
+            "Magnitude Limit": "17.5",
+            "Observatory": "MASTER-Kislovodsk"
+        }
+    ],
+    "Event Type": "discovery - dwarf nova outburst",
+    "Time": null,
+    "Date": "2018-04-13",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-OAFA"
+}

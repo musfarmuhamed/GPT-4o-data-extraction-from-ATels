@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018enb",
+            "RA": "21:39:34.57",
+            "Dec": "+08:52:47.30",
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2018eog",
+            "RA": "20:28:11.97",
+            "Dec": "-03:08:13.47",
+            "redshift": 0.02,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTSS-18hdi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2018 August 5 UT",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

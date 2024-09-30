@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V392 Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical nova",
+            "Time": "13.21",
+            "Date": "2018-07-13"
+        },
+        {
+            "Name": "H\u03b1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I (6678\u212b)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I (7065\u212b)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emission line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11588, #11590, #11594, #11601, #11605, #11617, #11647; CBAT, ARAS, and Darnley & Starrfield 2018",
+    "Event Type": "Classical nova eruption",
+    "Time": "13.21",
+    "Date": "2018-07-13",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "FRODOSpec",
+    "Observatory": null
+}

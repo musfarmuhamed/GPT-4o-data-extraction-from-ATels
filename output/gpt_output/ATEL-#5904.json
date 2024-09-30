@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient, low-mass X-ray binary",
+            "Time": "2 hours",
+            "Date": "2014 February 12"
+        },
+        {
+            "Name": "GMRT 1744-28",
+            "RA": "17h 44m 31.09s",
+            "Dec": "-28d 44' 26.8\"",
+            "redshift": null,
+            "Type": "Unresolved radio source",
+            "Time": null,
+            "Date": "2014 February 12"
+        }
+    ],
+    "References": [
+        "ATel #5790",
+        "ATel #5810",
+        "ATel #5845",
+        "ATel #5858",
+        "ATel #5883",
+        "ATel #5896",
+        "ATel #5901",
+        "ATel #5895",
+        "Smith et al. 1997",
+        "Wijnands and Wang 2002, ApJ, 568, L93"
+    ],
+    "Event Type": "Radio follow-up observation",
+    "Time": "2 hours",
+    "Date": "2014 February 12",
+    "Telescope": "GMRT",
+    "Instrument": "Continuum mode",
+    "Observatory": "National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research"
+}

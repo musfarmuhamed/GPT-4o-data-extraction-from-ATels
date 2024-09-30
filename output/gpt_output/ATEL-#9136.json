@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J180241.87+090312.9",
+            "RA": "18h 02m 41.87s",
+            "Dec": "+09d 03m 12.9s",
+            "redshift": null,
+            "Type": "PSN(18.4m)",
+            "Time": "2016-06-05.16160 UT",
+            "Date": "2016-06-05"
+        },
+        {
+            "Name": "PGC135878",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J031316.27-261217.0",
+            "RA": "03h 13m 16.27s",
+            "Dec": "-26d 12m 17.0s",
+            "redshift": null,
+            "Type": "new dwarf nova outburst",
+            "Time": "2016-06-01.17642 UT",
+            "Date": "2016-06-01"
+        },
+        {
+            "Name": "MASTER OT J204719.21+074704.8",
+            "RA": "20h 47m 19.21s",
+            "Dec": "+07d 47m 04.8s",
+            "redshift": null,
+            "Type": "new dwarf nova outburst",
+            "Time": "2016-06-06.17414 UT",
+            "Date": "2016-06-06"
+        },
+        {
+            "Name": "MASTER OT J174845.03-283646.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible red giant",
+            "Time": "23:11:57.197UT",
+            "Date": "2016-06-09"
+        },
+        {
+            "Name": "MASTER OT J174643.71-290652.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible red giant",
+            "Time": "23:11:57.197UT",
+            "Date": "2016-06-09"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 349171"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

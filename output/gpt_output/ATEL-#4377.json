@@ -1,0 +1,80 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER J215411.92+332449.0",
+            "RA": "21h 54m 11.92s",
+            "Dec": "+33d 24m 49.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "21:01:11.802",
+            "Date": "2012-09-15"
+        },
+        {
+            "Name": "OT MASTER J233834.36+700148.9",
+            "RA": "23h 38m 34.36s",
+            "Dec": "+70d 01m 48.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2012-09-11"
+        },
+        {
+            "Name": "MASTER J010147.00+730046.6",
+            "RA": "01h 01m 47.00s",
+            "Dec": "+73d 00m 46.6s",
+            "redshift": null,
+            "Type": "new CV?",
+            "Time": null,
+            "Date": "2012-09-13"
+        },
+        {
+            "Name": "MASTER J204552.23+203551.9",
+            "RA": "20h 45m 52.23s",
+            "Dec": "+20d 35m 51.9s",
+            "redshift": null,
+            "Type": "new Mira variable",
+            "Time": null,
+            "Date": "2012-09-11"
+        }
+    ],
+    "References": [
+        {
+            "Event Type": "reference",
+            "Time": "17:23:43",
+            "Date": "2010-11-03",
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        },
+        {
+            "Event Type": "reference",
+            "Time": "2011-12-26",
+            "Date": "2012-09-11",
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        },
+        {
+            "Event Type": "reference",
+            "Time": "2011-09-05",
+            "Date": "2011-09-05",
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        },
+        {
+            "Event Type": "reference",
+            "Time": "2010-10-26",
+            "Date": "2010-10-26",
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "null",
+    "Date": "null",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER-Kislovodsk"
+}

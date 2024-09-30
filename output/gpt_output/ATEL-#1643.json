@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1754.2-2754",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "burster neutron star transient",
+            "Time": "29 ks",
+            "Date": "July 15, 2008"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Bassa et al.",
+            "Year": 2008,
+            "Atel": "#1575"
+        },
+        {
+            "Authors": "Sakano et al.",
+            "Year": 1999,
+            "Atel": null
+        },
+        {
+            "Authors": "Krivonos et al.",
+            "Year": 2007,
+            "Atel": null
+        },
+        {
+            "Authors": "Del Santo et al.",
+            "Year": 2007,
+            "Atel": "#1143"
+        },
+        {
+            "Authors": "Chelovekov & Grebenev",
+            "Year": 2007,
+            "Atel": "#1094"
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "Swift"
+    ],
+    "Instrument": [
+        "ACIS-S",
+        "ACIS-I",
+        "XRT"
+    ],
+    "Observatory": [
+        "Chandra",
+        "Swift"
+    ]
+}

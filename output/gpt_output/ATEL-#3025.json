@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1137-65",
+            "RA": 174.8724,
+            "Dec": -65.3978,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "23:13",
+            "Date": "2010-11-10"
+        },
+        {
+            "Name": "GT Mus",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical",
+            "Time": "23:13",
+            "Date": "2010-11-10"
+        },
+        {
+            "Name": "HD 101379",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical",
+            "Time": "23:13",
+            "Date": "2010-11-10"
+        }
+    ],
+    "References": "Nakajima et al., ATEL #3021; Evans et al. 2009, MNRAS, 397, 1177",
+    "Event Type": "X-ray outburst",
+    "Time": "23:13",
+    "Date": "2010-11-10",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

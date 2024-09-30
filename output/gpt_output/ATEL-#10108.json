@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17cq (AT 2017axl)",
+            "RA": "06:15:55.494",
+            "Dec": "-55:56:51.66",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2017-02-18.22",
+            "Date": "2017-02-18"
+        },
+        {
+            "Name": "ASASSN-17cs (AT 2017azw)",
+            "RA": "04:22:50.186",
+            "Dec": "-82:04:11.11",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2017-02-21.02",
+            "Date": "2017-02-21"
+        }
+    ],
+    "References": [
+        "ASAS-SN",
+        "J. Brimacombe",
+        "P. Cacella",
+        "Las Cumbres Observatory"
+    ],
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

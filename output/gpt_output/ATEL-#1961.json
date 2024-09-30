@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-302/IGRJ17391-3021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "18:39:55.43",
+            "Date": "2009-03-10"
+        }
+    ],
+    "References": [
+        "ATel #1659",
+        "ATel #1466",
+        "Rahoui et al. 2008, A&A, 484, 801"
+    ],
+    "Event Type": "triggered on supergiant fast X-ray transient",
+    "Time": "18:39:55.43",
+    "Date": "2009-03-10",
+    "Telescope": "Swift Burst Alert Telescope",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

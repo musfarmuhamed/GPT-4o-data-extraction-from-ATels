@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1750-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient accreting X-ray pulsar",
+            "Time": null,
+            "Date": "End of January 2008"
+        },
+        {
+            "Name": "AX J1749.1-2639",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient accreting X-ray pulsar",
+            "Time": null,
+            "Date": "End of January 2008"
+        }
+    ],
+    "References": [
+        "ATel #1376",
+        "ATel #1385",
+        "Scott et al. (ApJ 488, 831, 1997)"
+    ],
+    "Event Type": "Repeated observation",
+    "Time": [
+        "11 Feb 2008",
+        "20 Feb 2008",
+        "23 Feb 2008"
+    ],
+    "Date": "End of January 2008",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "INTEGRAL Galactic Bulge monitoring program",
+        "JEM-X",
+        "ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

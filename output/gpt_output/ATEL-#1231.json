@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11435-6109",
+            "RA": "11h 44m 00s.31",
+            "Dec": "-61d 07' 36\".5",
+            "redshift": null,
+            "Type": "High Mass X-ray Binary (HMXB)",
+            "Time": "0.3-10 keV",
+            "Date": "2007 September 23"
+        }
+    ],
+    "References": [
+        "ATEL #359",
+        "ATEL #362",
+        "Wen et al. 2006",
+        "ATEL #370"
+    ],
+    "Event Type": "Observation",
+    "Time": "5 ks",
+    "Date": "2007 September 23",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": "ACIS",
+    "Observatory": "Chandra"
+}

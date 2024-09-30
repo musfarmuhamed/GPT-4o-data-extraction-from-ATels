@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "00:08 - 00:53",
+                "21:24 - 00:53",
+                "22:02 - 23:41"
+            ],
+            "Date": [
+                "June 27",
+                "June 27 - June 28",
+                "June 28"
+            ]
+        }
+    ],
+    "References": [
+        "Revnivtsev et al., ATEL 297",
+        "Bikmaev et al., ATEL 309",
+        "Swank et al., ATEL 536"
+    ],
+    "Event Type": "Variability Observation",
+    "Time": [
+        "00:08 - 00:53 (UT) June 27",
+        "21:24 (June 27) - 00:53 (June 28) (UT)",
+        "22:02 - 23:41 (UT) June 28"
+    ],
+    "Date": "June 27 - June 28",
+    "Telescope": "1.5-m Russian-Turkish telescope (RTT150)",
+    "Instrument": null,
+    "Observatory": null
+}

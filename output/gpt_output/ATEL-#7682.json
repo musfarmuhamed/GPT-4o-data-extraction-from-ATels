@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V 0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BQCam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": "14:24:00",
+            "Date": "2012-01-06"
+        },
+        {
+            "Name": "BQCam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": "00:57:36",
+            "Date": "2015-02-01"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Goranskii et al.",
+            "Year": 2001
+        },
+        {
+            "Authors": "Goranskij & Barsukova",
+            "Year": 2004,
+            "ID": "ATel #245"
+        },
+        {
+            "Authors": "Kaur et al.",
+            "Year": 2008,
+            "ID": "ATel #1807"
+        },
+        {
+            "Authors": "Goranskij, Barsukova & Valeev",
+            "Year": 2010,
+            "ID": "ATel #2381"
+        }
+    ],
+    "Event Type": "optical enhancement",
+    "Time": "00:00:00",
+    "Date": "2015-06-21",
+    "Telescope": "IAC80",
+    "Instrument": "Optical Monitoring Camera (OMC)",
+    "Observatory": "Observatorio del Teide, Tenerife (Spain)"
+}

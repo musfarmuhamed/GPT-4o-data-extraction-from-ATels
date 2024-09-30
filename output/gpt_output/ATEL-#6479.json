@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14hi",
+            "RA": "18:57:46.67",
+            "Dec": "+57:27:14.7",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2014-09-16.30",
+            "Date": "2014-09-16"
+        },
+        {
+            "Name": "ASASSN-14hj",
+            "RA": "21:16:35.73",
+            "Dec": "-07:49:10.6",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2014-09-16.11",
+            "Date": "2014-09-16"
+        },
+        {
+            "Name": "ASASSN-14hk",
+            "RA": "01:39:35.68",
+            "Dec": "+35:38:40.8",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2014-09-16.60",
+            "Date": "2014-09-16"
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2014-09-16",
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Diameter": "14-cm",
+            "Number": "quadruple",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "Cassius",
+            "Diameter": "14-cm",
+            "Number": "double",
+            "Location": "Cerro Tololo, Chile"
+        }
+    ],
+    "Instrument": null,
+    "Observatory": "ASAS-SN"
+}

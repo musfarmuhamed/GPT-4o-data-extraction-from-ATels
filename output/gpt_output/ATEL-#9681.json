@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110533.80+194118.7",
+            "RA": "11h 05m 33.80s",
+            "Dec": "+19d 41m 18.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2016-10-23.06338 UT",
+            "Date": "2016-10-23"
+        },
+        {
+            "Name": "MASTER OT J174222.87-515806.4",
+            "RA": "17h 42m 22.87s",
+            "Dec": "-51d 58m 06.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-10-25.77892 UT",
+            "Date": "2016-10-25"
+        },
+        {
+            "Name": "MASTER OT J015252.11-102655.8",
+            "RA": "01h 52m 52.11s",
+            "Dec": "-10d 26m 55.8s",
+            "redshift": "low redshift",
+            "Type": "QSO flare",
+            "Time": "2016-10-21.99448 UT",
+            "Date": "2016-10-21"
+        },
+        {
+            "Name": "MASTER OT J200518.34+863434.7",
+            "RA": "20h 05m 18.34s",
+            "Dec": "+86d 34m 34.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-10-27.57641 UT",
+            "Date": "2016-10-27"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+        "D'Abrusco+, 2009",
+        "Abraham+, 2012"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

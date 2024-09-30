@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1620.1-5002",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1621-501",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL# 11252; Lepingwell et al.",
+        "Chenevez et al., ATel 11272",
+        "Gorgone et al., in preparation"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

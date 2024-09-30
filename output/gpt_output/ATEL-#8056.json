@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN15-po",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "WZ Sge cataclysmic variable",
+            "Time": "23:43:44",
+            "Date": "2015-09-12"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel #8042",
+            "Source": "Wheatley et al. 2003",
+            "Identifier": "MNRAS, 345, 49"
+        },
+        {
+            "Reference": "Warner (1987)",
+            "Source": "MNRAS, 227, 23",
+            "Identifier": null
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "23:43:44",
+    "Date": "2015-09-12",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

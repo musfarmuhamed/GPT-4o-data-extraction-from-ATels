@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS18qqn (AT2018cow)",
+            "RA": "244.000",
+            "Dec": "22.268",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "ATel #11738",
+        "ATel #11775"
+    ],
+    "Event Type": "bright transient",
+    "Time": [
+        "2018-06-13 04:07:45 UTC",
+        "2018-06-16 10:35:02 UTC",
+        "2018-06-13 05:10:01.30 UTC"
+    ],
+    "Date": [
+        "2018-06-13",
+        "2018-06-16",
+        "2018-06-23"
+    ],
+    "Telescope": [
+        "Palomar 48-inch",
+        "NuSTAR"
+    ],
+    "Instrument": null,
+    "Observatory": "HAWC"
+}

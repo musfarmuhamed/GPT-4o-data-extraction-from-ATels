@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J12592491+2744198",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.020221,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16bg",
+            "RA": "12:59:25.100",
+            "Dec": "+27:44:24.97",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2016-02-06.47",
+            "Date": "2016-02-06"
+        }
+    ],
+    "References": "ASAS-SN, AT 2016acx",
+    "Event Type": "Discovery",
+    "Time": "2016-02-06.47",
+    "Date": "2016-02-06",
+    "Telescope": "1.0m LCOGT robotic telescope",
+    "Instrument": null,
+    "Observatory": "Siding Spring Observatory"
+}

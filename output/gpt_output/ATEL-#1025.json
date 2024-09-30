@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17191-2821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fast-transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": 259.8114,
+            "Dec": -28.3005,
+            "redshift": null,
+            "Type": null,
+            "Time": "02:37 UTC",
+            "Date": "March 8"
+        }
+    ],
+    "References": "Turler et al. 2007, ATEL #1021; Swank et al. 2007, ATEL #1022; Kuulkers et al. 2007, ATEL #1008",
+    "Event Type": "fast-transient discovery and observation",
+    "Time": [
+        "02:37 UTC",
+        "10:44 UTC"
+    ],
+    "Date": "March 8",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

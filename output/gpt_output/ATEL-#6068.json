@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OP 313",
+            "RA": "13h10m28.6s",
+            "Dec": "+32d20m44s",
+            "redshift": "0.9980",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "B2 1308+32",
+            "RA": "13h10m28.6s",
+            "Dec": "+32d20m44s",
+            "redshift": "0.9980",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1310.6+3222",
+            "RA": "13h10m28.6s",
+            "Dec": "+32d20m44s",
+            "redshift": "0.9980",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FHL J1310.6+3222",
+            "RA": "13h10m28.6s",
+            "Dec": "+32d20m44s",
+            "redshift": "0.9980",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Hewett and Wild 2010, MNRAS, 405, 2302",
+        "Ackermann et al. 2013, ApJS, 209, 34"
+    ],
+    "Event Type": "Increased gamma-ray flux",
+    "Time": "13h10m28.6s",
+    "Date": "2014 April 14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA, DOE, France, Italy, Japan, and Sweden"
+}

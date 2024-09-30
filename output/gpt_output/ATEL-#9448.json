@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016fij",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0389,
+            "Type": "Type Ia Supernova",
+            "Time": "27.5",
+            "Date": "Aug. 27, 2016"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, Ap.J. 666, 1024",
+        "Silverman et al. 2012, MNRAS, 425, 1789",
+        "Liu & Modjaz 2014, arXiv:1405.1437",
+        "2dFGRS S501Z101; NED"
+    ],
+    "Event Type": "Observation",
+    "Time": "27.5",
+    "Date": "Aug. 27, 2016",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "+Kast",
+    "Observatory": "Lick Observatory"
+}

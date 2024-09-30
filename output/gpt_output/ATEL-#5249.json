@@ -1,0 +1,105 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13avk",
+            "RA": "22:55:19.31",
+            "Dec": "-03:13:27.9",
+            "redshift": "~0.043",
+            "Type": "SN Ia",
+            "Time": "+60",
+            "Date": "2013-06-19"
+        },
+        {
+            "Name": "LSQ13avm",
+            "RA": "21:23:13.48",
+            "Dec": "-02:14:46.6",
+            "redshift": "0",
+            "Type": "Star?",
+            "Time": "---",
+            "Date": "2013-06-22"
+        },
+        {
+            "Name": "LSQ13avy",
+            "RA": "16:09:16.16",
+            "Dec": "+11:58:27.0",
+            "redshift": "0.064",
+            "Type": "SN Ia",
+            "Time": "+35",
+            "Date": "2013-06-19"
+        },
+        {
+            "Name": "LSQ13azx",
+            "RA": "16:54:58.72",
+            "Dec": "+13:07:27.8",
+            "redshift": "0.13",
+            "Type": "SN Ia",
+            "Time": "+20",
+            "Date": "2013-07-12"
+        },
+        {
+            "Name": "LSQ13bca",
+            "RA": "21:16:16.39",
+            "Dec": "-20:30:48.9",
+            "redshift": "~0.08",
+            "Type": "SN II",
+            "Time": "-3",
+            "Date": "2013-07-07"
+        },
+        {
+            "Name": "LSQ13bdk",
+            "RA": "22:44:00.31",
+            "Dec": "+01:00:20.8",
+            "redshift": "0.156",
+            "Type": "SN Ia",
+            "Time": "+5",
+            "Date": "2013-07-15"
+        },
+        {
+            "Name": "LSQ13bgd",
+            "RA": "02:32:42.01",
+            "Dec": "-33:00:04.1",
+            "redshift": "0.035",
+            "Type": "SN II",
+            "Time": "0",
+            "Date": "2013-07-25"
+        },
+        {
+            "Name": "LSQ13bic",
+            "RA": "22:11:54.30",
+            "Dec": "+03:29:39.0",
+            "redshift": "~0.07",
+            "Type": "SN Ia",
+            "Time": "0",
+            "Date": "2013-07-28"
+        },
+        {
+            "Name": "LSQ13bir",
+            "RA": "21:14:02.98",
+            "Dec": "-31:19:23.4",
+            "redshift": "~0.1",
+            "Type": "SN Ia",
+            "Time": "+5",
+            "Date": "2013-07-27"
+        },
+        {
+            "Name": "OGLE-2013-SN-038",
+            "RA": "23:39:24.83",
+            "Dec": "-67:02:55.1",
+            "redshift": "0.045",
+            "Type": "SN II?",
+            "Time": "~+10?",
+            "Date": "2013-07-17"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "Unknown",
+    "Date": "2013-08-04",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

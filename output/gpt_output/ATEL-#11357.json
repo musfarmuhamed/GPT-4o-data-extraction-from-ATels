@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1813-095",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "new black-hole transient",
+            "Time": "02:57 to 18:13 UTC",
+            "Date": "2018 February 23"
+        }
+    ],
+    "References": [
+        "ATels #11323",
+        "ATels #11326",
+        "ATels #11332",
+        "ATels #11356"
+    ],
+    "Event Type": "observation",
+    "Time": "02:57 to 18:13 UTC",
+    "Date": "2018 February 23",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "ISGRI"
+    ],
+    "Observatory": null
+}

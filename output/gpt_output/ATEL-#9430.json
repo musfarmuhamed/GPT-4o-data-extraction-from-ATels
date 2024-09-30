@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jq (AT 2016fob)",
+            "RA": "08:05:09.121",
+            "Dec": "-22:35:59.18",
+            "redshift": null,
+            "Type": "Transient Supernova",
+            "Time": "06:24:36",
+            "Date": "2016-08-30"
+        },
+        {
+            "Name": "CGMW 2-2125",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "The ASAS-SN project",
+    "Event Type": "Discovery",
+    "Time": "06:24:36",
+    "Date": "2016-08-30",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

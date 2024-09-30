@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17498-2921",
+            "RA": "17:49:55.38",
+            "Dec": "-29:19:19.7",
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NIR Source",
+            "RA": "17:49:55.33",
+            "Dec": "-29:19:19.6",
+            "redshift": null,
+            "Type": "NIR counterpart candidate",
+            "Time": null,
+            "Date": "2010-05-11"
+        }
+    ],
+    "References": "Atel #3551, Atel #3559, Atel #3555, Atel #3561, Minniti et al. 2010, Gonzalez et al. 2011, Nishiyama et al. 2009",
+    "Event Type": "search for counterpart of accreting millisecond pulsar",
+    "Time": null,
+    "Date": null,
+    "Telescope": "VISTA telescope",
+    "Instrument": "camera with pixel sampling of 0.34 arcsec",
+    "Observatory": "Paranal observatory"
+}

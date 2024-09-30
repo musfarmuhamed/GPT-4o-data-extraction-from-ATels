@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19566+0326",
+            "RA": "19:56:39.11",
+            "Dec": "03:26:43.7",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "07:11 UT",
+            "Date": "May 15th"
+        },
+        {
+            "Name": "IGR J19566+0326",
+            "RA": "19:56:39.11",
+            "Dec": "03:26:43.7",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "07:41 UT",
+            "Date": "May 16th"
+        }
+    ],
+    "References": [
+        "Cherepashchuk et al., ATel, #7506",
+        "Greiner et al. 2008, PASP, 120, 405",
+        "Schlafly et al. 2011",
+        "Molkov et al. (ATel #7520)"
+    ],
+    "Event Type": "Observation",
+    "Time": "07:11 UT, 07:41 UT",
+    "Date": "May 15th, May 16th",
+    "Telescope": "2.2m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO's La Silla observatory"
+}

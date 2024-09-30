@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASAS-SN18ao",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.058,
+            "Type": "Ia",
+            "Time": "07:40:48",
+            "Date": "2018-01-14"
+        },
+        {
+            "Name": "SN2018gm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.058,
+            "Type": "Ia",
+            "Time": "07:40:48",
+            "Date": "2018-01-14"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Shappee et al. 2014; Atel #11178; Atel #11180; SDSS14",
+    "Event Type": "spectroscopic classification",
+    "Time": "23:18:00",
+    "Date": "2018-01-16",
+    "Telescope": "Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J21431689+4334476",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019",
+            "Type": "Type Ia",
+            "Time": "7.4",
+            "Date": "2015 July 7"
+        }
+    ],
+    "References": [
+        {
+            "Title": "ATel #7767"
+        },
+        {
+            "Title": "Blondin & Tonry 2007, ApJ, 666, 1024"
+        },
+        {
+            "Title": "Seeberger, Huchtmeier, & Weinberger 1994, A&A, 286, 17 via NED"
+        },
+        {
+            "Title": "Schlafly & Finkbeiner 2011, ApJ, 737, 103 via NED"
+        }
+    ],
+    "Event Type": "obtained a spectrum",
+    "Time": "7.4 UT",
+    "Date": "2015 July 7",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

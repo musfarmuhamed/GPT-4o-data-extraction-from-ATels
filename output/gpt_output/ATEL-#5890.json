@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XSS J12270-4859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary, millisecond pulsar",
+            "Time": "20:46:15 UTC",
+            "Date": "2014-02-12"
+        },
+        {
+            "Name": "2FGL J1227.7-4953",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "10:20:25 UTC",
+            "Date": "2012-07-23"
+        }
+    ],
+    "References": [
+        "ATel #5647",
+        "Bassa et al. 2014, arXiv:1402.0765",
+        "de Martino et al. (2013, A&A 550, A89)"
+    ],
+    "Event Type": "radio pulsations observation",
+    "Time": "20:46:15 UTC",
+    "Date": "2014-02-12",
+    "Telescope": "GMRT",
+    "Instrument": "coherent phased-array mode recorder",
+    "Observatory": "National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research"
+}

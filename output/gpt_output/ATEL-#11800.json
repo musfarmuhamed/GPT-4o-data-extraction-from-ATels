@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IRAS 16293-2422",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "maser radio emission source",
+            "Time": null,
+            "Date": "June 2018"
+        }
+    ],
+    "References": [
+        {
+            "Author": "S.A. Dzib et al.",
+            "Year": 2018,
+            "Journal": "A&A",
+            "Volume": 614,
+            "Pages": "A20"
+        },
+        {
+            "Author": "P. Colom et al.",
+            "Year": 2016,
+            "Journal": "Astron. Reports",
+            "Volume": 60,
+            "Pages": "730"
+        }
+    ],
+    "Event Type": "flare",
+    "Time": null,
+    "Date": "June 2018",
+    "Telescope": "22-meter radio telescope",
+    "Instrument": null,
+    "Observatory": "Pushchino, Russia"
+}

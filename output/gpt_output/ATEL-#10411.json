@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05104-6910",
+            "RA": "05 10 39.91",
+            "Dec": "-69 07 05.48",
+            "redshift": null,
+            "Type": null,
+            "Time": "9000",
+            "Date": "January 2008"
+        },
+        {
+            "Name": "IGR J12412+3007 (Source A)",
+            "RA": "12 40 52.60",
+            "Dec": "+30 04 28.3",
+            "redshift": null,
+            "Type": "AGN (Candidate Quasar)",
+            "Time": "2470",
+            "Date": "December 2014"
+        },
+        {
+            "Name": "IGR J12412+3007 (Source B)",
+            "RA": "12 40 57.84",
+            "Dec": "+30 13 13.0",
+            "redshift": null,
+            "Type": "AGN (Candidate Quasar)",
+            "Time": "2470",
+            "Date": "December 2014"
+        }
+    ],
+    "References": [
+        "Mereminskiy et al. (2016, MNRAS 459, 140)",
+        "Grebenev et al. (2013, MNRAS 428, 50)",
+        "Zebrun et al. (2001 A&A 51, 317)",
+        "Brescia et al. (2015, MNRAS 450, 3893)",
+        "Mateos et al.(2012, MNRAS 426, 3271)"
+    ],
+    "Event Type": "Update Identification/Classification of Unidentified Soft Gamma Ray Sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

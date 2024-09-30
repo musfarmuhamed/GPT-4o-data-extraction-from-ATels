@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16328-4726",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1630-472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16320-4751",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010, ApJ Supp, 186, 1",
+        "Tueller et al. 2010, ApJ Supp, 186, 378",
+        "Grupe et al. 2009, ATel #2075",
+        "Baumgartner et al. 2010, HEAD, 11, 1305",
+        "ATel #649"
+    ],
+    "Event Type": "X-ray flare detection",
+    "Time": "MJD 54,992.329",
+    "Date": "2009-09-30",
+    "Telescope": "Swift BAT",
+    "Instrument": "BAT (Burst Alert Telescope), XRT (X-Ray Telescope)",
+    "Observatory": "Swift"
+}

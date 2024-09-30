@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT105123.02+672528.3",
+            "RA": "10:51:22.86",
+            "Dec": "+67:25:28.2",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": null,
+            "Date": "2012 January 6"
+        },
+        {
+            "Name": "1RXS J105120.5+672550",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3845",
+        "Zacharias et al. 2010, AJ, 139, 2184",
+        "Monet et al. 2003, AJ, 125, 984",
+        "Voges et al., 2000, IAUC, 7432"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2012 January 6",
+    "Telescope": "80mm f/7.5 refractor",
+    "Instrument": "unfiltered ST-8300M CCD camera",
+    "Observatory": "Mountain station of Kazan State University, Karachay-Cherkessia, Russia"
+}

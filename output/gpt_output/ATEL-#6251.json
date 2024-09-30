@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ct",
+            "RA": "17:23:51.3",
+            "Dec": "-77:13:49.9",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "2014-06-19.17",
+            "Date": "2014-06-19"
+        },
+        {
+            "Name": "PKS 1716-771",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J1725.1-7714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active galaxy with undetermined type",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Massaro et al. 2013",
+    "Event Type": "discovery of new transient source",
+    "Time": "2014-06-19.17",
+    "Date": "2014-06-19",
+    "Telescope": "Cassius",
+    "Instrument": "null",
+    "Observatory": "Cerro Tololo, Chile"
+}

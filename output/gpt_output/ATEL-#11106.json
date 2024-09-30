@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110101.63-402718.4",
+            "RA": "11h 01m 01.63s",
+            "Dec": "-40d 27m 18.4s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-12-29.21464",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J122255.80-494229.3",
+            "RA": "12h 22m 55.80s",
+            "Dec": "-49d 42m 29.3s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-12-29.20721",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J121930.26+011030.4",
+            "RA": "12h 19m 30.26s",
+            "Dec": "+01d 10m 30.4s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-12-29.23730",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J114608.91+404638.5",
+            "RA": "11h 46m 08.91s",
+            "Dec": "+40d 46m 38.5s",
+            "redshift": null,
+            "Type": "UVCet flare",
+            "Time": "2017-12-28.14959",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J060111.26-703607.8",
+            "RA": "06h 01m 11.26s",
+            "Dec": "-70d 36m 07.8s",
+            "redshift": null,
+            "Type": "QSO flare",
+            "Time": "2017-12-26.21008",
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-OAFA, MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

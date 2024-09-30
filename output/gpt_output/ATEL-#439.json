@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": "2004-10-05"
+        },
+        {
+            "Name": "Candidate counterpart of SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible counterpart",
+            "Time": null,
+            "Date": "2004-10-05"
+        },
+        {
+            "Name": "Two closest objects (IR images candidate B)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Unresolved components",
+            "Time": null,
+            "Date": "2001"
+        }
+    ],
+    "References": [
+        "Gaensler et al., astro-ph/0502393",
+        "Cameron et al., astro-ph/0502428",
+        "Kouveliotou et al. 2005, GCN #2929",
+        "Israel et al., ATel #378",
+        "Kaplan et al. 2002, ApJ, 564, 935",
+        "Mereghetti et al., astro-ph/0411695",
+        "Eikenberry et al. 2001, ApJ, 563, L133"
+    ],
+    "Event Type": "Radio position refinement",
+    "Time": null,
+    "Date": "2004",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Optical nova candidate in M 31",
+            "RA": "00h43m12.08s",
+            "Dec": "+41d19'15.8\"",
+            "redshift": null,
+            "Type": "Nova candidate",
+            "time": [
+                {
+                    "Magnitude": 17.0,
+                    "Time": null,
+                    "Date": "2008 May 26.45 UT"
+                },
+                {
+                    "Magnitude": 17.5,
+                    "Time": null,
+                    "Date": "2008 May 27.45 UT"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "Massey et al. 2006, AJ, 131, 2478",
+        "http://scully.harvard.edu/~cgi/CheckMP"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2008 May 26.45 UT",
+    "Telescope": "60cm telescope",
+    "Instrument": "E2V CCD (2kx2k)",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

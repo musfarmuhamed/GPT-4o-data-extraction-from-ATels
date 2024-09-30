@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15js",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021,
+            "Type": "Type Ia",
+            "Time": "07.159 UT",
+            "Date": "2015 June 7"
+        },
+        {
+            "Name": "ASASSN-15kk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.013,
+            "Type": "Type Ia",
+            "Time": "08.206 UT",
+            "Date": "2015 June 8"
+        }
+    ],
+    "References": [
+        "ATEL #7548",
+        "ATEL #7593"
+    ],
+    "Event Type": "Optical spectra",
+    "Time": "07.159 UT & 08.206 UT",
+    "Date": "2015 June 7 & 2015 June 8",
+    "Telescope": "Hiltner 2.4m Telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM Observatory"
+}

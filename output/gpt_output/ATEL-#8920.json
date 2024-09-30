@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16ajv",
+            "RA": "07:42:53.90",
+            "Dec": "+14:48:04.10",
+            "redshift": "0.068",
+            "Type": "type Ia supernova",
+            "Time": "21:04:19",
+            "Date": "2016-04-06"
+        },
+        {
+            "Name": "2MASX J07425397+1448004",
+            "RA": "07:42:53.97",
+            "Dec": "+14:48:00.4",
+            "redshift": null,
+            "Type": "proposed host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observation",
+    "Time": "21:04:19",
+    "Date": "2016-04-06",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

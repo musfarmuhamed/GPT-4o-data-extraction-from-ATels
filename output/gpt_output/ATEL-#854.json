@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006dn",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017",
+            "Type": "Type Ib",
+            "Time": "08.5 UT",
+            "Date": "July 08.5 UT"
+        },
+        {
+            "Name": "SN 2006do",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02843",
+            "Type": "Type Ia",
+            "Time": "08.6 UT",
+            "Date": "July 08.6 UT"
+        }
+    ],
+    "References": [
+        "CBET #571",
+        "CBET #572",
+        "Elmhamdi et al. 2004, A&A, 429, 963",
+        "Da Costa et al. 1991, ApJS, 75, 935"
+    ],
+    "Event Type": "classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "Supernova Integral Field Spectrograph",
+    "Observatory": null
+}

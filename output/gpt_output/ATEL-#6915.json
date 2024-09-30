@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ar",
+            "RA": "02:28:20.36",
+            "Dec": "+10:23:03.87",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-01-13.28",
+            "Date": "2015-01-13"
+        },
+        {
+            "Name": "CGCG 439-010",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028820",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "LCOGT, Mt. Cuba Astronomical Foundation, ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": "2015-01-13.28",
+    "Date": "2015-01-13",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "21:29:03",
+            "Date": "3 Feb 2011"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "21:29:03",
+            "Date": "3 Feb 2011"
+        }
+    ],
+    "References": "Krimm et al., ATel #3144",
+    "Event Type": "observation",
+    "Time": "21:29:03",
+    "Date": "3 Feb 2011",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

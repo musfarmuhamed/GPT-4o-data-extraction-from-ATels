@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "Unknown",
+            "Date": "April 3 2010 (MJD 55289)"
+        }
+    ],
+    "References": [
+        "Finger et al., 2006",
+        "ATel #2337",
+        "ATel #2497",
+        "ATel#2496"
+    ],
+    "Event Type": "outburst",
+    "Time": "Unknown",
+    "Date": [
+        "March 25 2010 (MJD 55280)",
+        "April 3 2010 (MJD 55289)",
+        "April 3 2010 (MJD 55289.8)",
+        "April 6 2010"
+    ],
+    "Telescope": [
+        "Swift",
+        "RXTE",
+        "INTEGRAL",
+        "Suzaku"
+    ],
+    "Instrument": [
+        "ISGRI",
+        "Swift/XRT"
+    ],
+    "Observatory": [
+        "INTEGRAL/ISOC",
+        "Swift",
+        "MAXI",
+        "Suzaku"
+    ]
+}

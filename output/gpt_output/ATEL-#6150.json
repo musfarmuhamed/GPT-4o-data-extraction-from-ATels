@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ay",
+            "RA": "15:57:03.15",
+            "Dec": "+37:24:57.78",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-05-19.55",
+            "Date": "2014-05-19"
+        },
+        {
+            "Name": "SDSS J155702.70+372500.0",
+            "RA": "15:57:02.70",
+            "Dec": "+37:25:00.0",
+            "redshift": "0.030869",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2014-05-19",
+    "Date": "2014-05-19",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

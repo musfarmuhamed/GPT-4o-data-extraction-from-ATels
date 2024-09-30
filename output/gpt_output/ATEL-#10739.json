@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMT17swb",
+            "RA": "02 47 59.53",
+            "Dec": "-22 00 00.9",
+            "redshift": "0.036",
+            "Type": "II?",
+            "Time": "00:00",
+            "Date": "20170911"
+        },
+        {
+            "Name": "AT2017gjp",
+            "RA": "02 47 59.53",
+            "Dec": "-22 00 00.9",
+            "redshift": "0.036",
+            "Type": "II?",
+            "Time": "00:00",
+            "Date": "20170828"
+        },
+        {
+            "Name": "ATLAS17klo",
+            "RA": "23 22 15.15",
+            "Dec": "-23 42 08.6",
+            "redshift": "0.026",
+            "Type": "II",
+            "Time": "00:00",
+            "Date": "20170718"
+        },
+        {
+            "Name": "SN2017gqg",
+            "RA": "23 22 15.15",
+            "Dec": "-23 42 08.6",
+            "redshift": "0.026",
+            "Type": "II",
+            "Time": "00:00",
+            "Date": "20170718"
+        },
+        {
+            "Name": "ATLAS17koa",
+            "RA": "06 59 14.59",
+            "Dec": "+24 55 19.9",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20170909"
+        },
+        {
+            "Name": "SN2017grd",
+            "RA": "06 59 14.59",
+            "Dec": "+24 55 19.9",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20170909"
+        },
+        {
+            "Name": "Gaia17cfa",
+            "RA": "02 39 58.28",
+            "Dec": "-00 31 48.3",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20170902"
+        },
+        {
+            "Name": "SN2017glu",
+            "RA": "02 39 58.28",
+            "Dec": "-00 31 48.3",
+            "redshift": "0.051",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20170902"
+        },
+        {
+            "Name": "MASTERJ233054.70-365727.8",
+            "RA": "23 30 54.70",
+            "Dec": "-36 57 27.7",
+            "redshift": "0.053",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20170801"
+        },
+        {
+            "Name": "OGLE17osk",
+            "RA": "04 03 36.10",
+            "Dec": "-69 37 45.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00",
+            "Date": "20170821"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Scalzo et al. ATel #5480; Wyrzykowski et al., 2014 arxiv:1409.1095; Tonry et al. 2011, PASP, 123, 58; Tonry et al. ATel #8680; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova Classifications",
+    "Time": "00:00",
+    "Date": "20170911",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

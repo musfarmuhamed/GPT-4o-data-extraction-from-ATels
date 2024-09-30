@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-SN-2014-002",
+            "RA": "04:04:31.74",
+            "Dec": "-63:50:15.7",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20140108"
+        },
+        {
+            "Name": "MLS140107-065605+251444",
+            "RA": "06:56:05.38",
+            "Dec": "+25:14:44.2",
+            "redshift": "MW",
+            "Type": "Star",
+            "Time": "00:00",
+            "Date": "20140108"
+        },
+        {
+            "Name": "LSQ14ae",
+            "RA": "11:44:52.78",
+            "Dec": "-24:23:40.8",
+            "redshift": "0.115",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20140108"
+        },
+        {
+            "Name": "LSQ14av",
+            "RA": "02:55:06.72",
+            "Dec": "-30:05:53.8",
+            "redshift": "0.157",
+            "Type": "Ia",
+            "Time": "00:00",
+            "Date": "20140108"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "OGLE-IV, ATel #4495; Wyrzykowski et al. 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "00:00",
+    "Date": "20140108",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

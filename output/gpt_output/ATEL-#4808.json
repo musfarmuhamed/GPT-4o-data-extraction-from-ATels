@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF13b",
+            "RA": "12 09 11.71",
+            "Dec": "+43 25 01.0",
+            "redshift": 0.024,
+            "Type": "SN II",
+            "Time": "Feb 05.35",
+            "Date": "Feb 01.29"
+        },
+        {
+            "Name": "PTF13c",
+            "RA": "11 56 40.76",
+            "Dec": "+32 37 51.3",
+            "redshift": 0.0114,
+            "Type": "SN II",
+            "Time": "Feb 05.34",
+            "Date": "Feb 01.29"
+        },
+        {
+            "Name": "PTF13d",
+            "RA": "13 21 45.97",
+            "Dec": "+31 14 18.2",
+            "redshift": 0.024,
+            "Type": "SN II",
+            "Time": "Feb 05.42",
+            "Date": "Feb 01.35"
+        },
+        {
+            "Name": "PTF13e",
+            "RA": "12 13 44.43",
+            "Dec": "+28 38 55.7",
+            "redshift": 0.024,
+            "Type": "SN Ia",
+            "Time": "Feb 05.37",
+            "Date": "Feb 01.31"
+        },
+        {
+            "Name": "PTF13f",
+            "RA": "16 29 26.18",
+            "Dec": "+38 25 11.2",
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": "Feb 05.51",
+            "Date": "Feb 01.52"
+        },
+        {
+            "Name": "PTF13i",
+            "RA": "14 33 37.75",
+            "Dec": "+35 57 52.4",
+            "redshift": 0.034,
+            "Type": "SN Ia",
+            "Time": "Feb 05.48",
+            "Date": "Feb 01.50"
+        },
+        {
+            "Name": "PTF13v",
+            "RA": "13 38 42.35",
+            "Dec": "+32 18 23.1",
+            "redshift": 0.062,
+            "Type": "SN IIb",
+            "Time": "Feb 05.44",
+            "Date": "Feb 01.46"
+        },
+        {
+            "Name": "PTF13ai",
+            "RA": "12 54 15.74",
+            "Dec": "+09 26 25.4",
+            "redshift": 0.0453,
+            "Type": "SN Ia",
+            "Time": "Feb 05.39",
+            "Date": "Feb 04.41"
+        }
+    ],
+    "References": "WISeREP (Yaron & Gal-Yam 2012)",
+    "Event Type": "iPTF supernovae classification",
+    "Time": "UT 2013 Feb 5",
+    "Date": "2013 Feb 5",
+    "Telescope": "3.5m telescope",
+    "Instrument": "Dual Imaging Spectrograph",
+    "Observatory": "Apache Point Observatory"
+}

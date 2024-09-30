@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17391-3021",
+            "RA": "17 39 01.52",
+            "Dec": "-30 19 34.9",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "August 28"
+        },
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #181, ATEL #182, Condon et al. 1998, AJ 115, 1693",
+    "Event Type": "transient X-ray source observation",
+    "Time": null,
+    "Date": "August 28",
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory"
+}

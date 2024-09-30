@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bh",
+            "RA": "16:03:51.705",
+            "Dec": "+39:59:24.17",
+            "redshift": "0.031864",
+            "Type": "transient",
+            "Time": "2017-01-27",
+            "Date": "2017-01-27"
+        },
+        {
+            "Name": "CGCG 223-033 NED01",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031864",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN, SDSS, S. Kiyota, NED",
+    "Event Type": "discovery of a transient source",
+    "Time": "2017-01-26.61",
+    "Date": "2017-01-26",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

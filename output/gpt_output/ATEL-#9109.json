@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J174540.2-290037",
+            "RA": "17:45:40.26",
+            "Dec": "-29:00:37.85",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "~0.9 ks",
+            "Date": "2016 May 28 and 30, and June 1"
+        },
+        {
+            "Name": "CXOGCJ174540.0-290031",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate black hole low-mass X-ray binary (LMXB)",
+            "Time": null,
+            "Date": "2004-2005"
+        },
+        {
+            "Name": "SWIFT J174540.7-290015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unclassified transient",
+            "Time": null,
+            "Date": "2016"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": null,
+            "Date": "2013 July"
+        },
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": null,
+            "Date": "2016 March 23"
+        }
+    ],
+    "References": [
+        "Bower et al. 2005, ApJ 633, 218",
+        "Degenaar et al. 2015, JHEA 7, 137",
+        "Muno et al., 2005a, ApJ 622, L113",
+        "Muno et al., 2005b, ApJ 633, 228",
+        "Ponti et al. 2015, MNRAS 446, 1536",
+        "Porquet et al., 2005, A&A 443, 571"
+    ],
+    "Event Type": "X-ray transient activity",
+    "Time": "~0.9 ks",
+    "Date": "2016 May 28 and 30, and June 1",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

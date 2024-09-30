@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1820-303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultra-compact low-mass X-ray binary",
+            "Time": "00:00:00",
+            "Date": "2010-04-04"
+        }
+    ],
+    "References": [
+        "ATels #2071",
+        "ATels #2167"
+    ],
+    "Event Type": "low/hard state",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "RXTE/ASM",
+        "MAXI/GSC",
+        "Swift/BAT",
+        "RXTE/PCA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

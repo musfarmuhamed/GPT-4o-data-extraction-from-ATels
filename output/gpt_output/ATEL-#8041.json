@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15pm",
+            "RA": "01:38:36.08",
+            "Dec": "-04:40:48.04",
+            "redshift": "0.048784",
+            "Type": "supernova",
+            "Time": "2015-09-11.56",
+            "Date": "2015-09-11"
+        },
+        {
+            "Name": "ASASSN-15pn",
+            "RA": "04:03:26.32",
+            "Dec": "-05:29:31.30",
+            "redshift": "0.038393",
+            "Type": "supernova",
+            "Time": "2015-09-11.61",
+            "Date": "2015-09-11"
+        }
+    ],
+    "References": [
+        "2MASX J01383676-0440581",
+        "SDSS J040326.23-052930.6",
+        "ASAS-SN",
+        "NED",
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU"
+    ],
+    "Event Type": "supernova discovery",
+    "Time": "2015-09-11.56 and 2015-09-11.61",
+    "Date": "2015-09-11",
+    "Telescope": "CDK 43-cm telescope",
+    "Instrument": null,
+    "Observatory": "Savannah Skies Observatory"
+}

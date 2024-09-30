@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": "14:37-15:02 UTC",
+            "Date": "April 18"
+        },
+        {
+            "Name": "2MASS J17443041-2746004",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potential NIR counterpart to IGR J17445-2747",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGPS J174430.20-274601.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10265",
+        "ATel #10256",
+        "ATel #10272",
+        "ATel #10273",
+        "ATel #10284"
+    ],
+    "Event Type": "X-ray burst detection and NIR follow-up",
+    "Time": "14:37-15:02 UTC",
+    "Date": "April 18",
+    "Telescope": "Gemini North",
+    "Instrument": "Near InfraRed Imager and spectrograph (NIRI)",
+    "Observatory": "Mauna Kea, Hawaii"
+}

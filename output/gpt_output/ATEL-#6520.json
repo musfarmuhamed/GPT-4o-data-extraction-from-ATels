@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14E1anf",
+            "RA": "00 33 56.13",
+            "Dec": "-43 20 59.1",
+            "redshift": 0.149,
+            "Type": "Type Ia",
+            "Time": "Null",
+            "Date": "2014 Sep 17,18,19,20"
+        },
+        {
+            "Name": "DES14E1tb",
+            "RA": "00 28 48.01",
+            "Dec": "-43 33 44.2",
+            "redshift": 0.37,
+            "Type": "Type Ia",
+            "Time": "Null",
+            "Date": "2014 Sep 17,18,20"
+        },
+        {
+            "Name": "DES14E2u",
+            "RA": "00 37 51.13",
+            "Dec": "-43 43 17.2",
+            "redshift": 0.292,
+            "Type": "Type Ia",
+            "Time": "Null",
+            "Date": "2014 Sep 17,19"
+        },
+        {
+            "Name": "DES14X2ags",
+            "RA": "02 24 00.58",
+            "Dec": "-06 29 51.8",
+            "redshift": 0.3,
+            "Type": "Type Ia",
+            "Time": "Null",
+            "Date": "2014 Sep 18"
+        },
+        {
+            "Name": "DES14S2qb",
+            "RA": "02 43 59.72",
+            "Dec": "-00 54 22.1",
+            "redshift": 0.24,
+            "Type": "Type Ia",
+            "Time": "Null",
+            "Date": "2014 Sep 18"
+        }
+    ],
+    "References": [
+        "Howell and Wang, 2002, BAAS, 34, 1256",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph, 2dF fibre positioner",
+    "Observatory": "Null"
+}

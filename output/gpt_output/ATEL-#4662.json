@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J221510.66+684428.8",
+            "RA": "22h 15m 10.66s",
+            "Dec": "+68d 44m 28.8s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2012-12-19.47498 UT",
+            "Date": "2012-12-19"
+        },
+        {
+            "Name": "MASTER OT J132104.04+560957.8",
+            "RA": "13h 21m 04.04s",
+            "Dec": "+56d 09m 57.8s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2012-12-19.72653 UT",
+            "Date": "2012-12-19"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/221510.66684428.8.png",
+        "http://master.sai.msu.ru/static/OT/132104.04560957.8_1.png"
+    ],
+    "Event Type": "discovery",
+    "Time": "2012-12-19.47498 UT",
+    "Date": "2012-12-19",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

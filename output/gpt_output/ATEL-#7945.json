@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15oi",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "TDE",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #7910",
+        "#7936",
+        "#7937"
+    ],
+    "Event Type": "ToO observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

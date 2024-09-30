@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15tm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.016",
+            "Type": "IIP",
+            "Time": "~max",
+            "Date": null
+        },
+        {
+            "Name": "PSN J12265018+1615496",
+            "RA": "12:26:50.18",
+            "Dec": "+16:15:49.6",
+            "redshift": "0.0455",
+            "Type": "Ia-norm",
+            "Time": "+30",
+            "Date": null
+        },
+        {
+            "Name": "PSN J11234588-0106212",
+            "RA": "11:23:45.88",
+            "Dec": "-01:06:21.2",
+            "redshift": "0.0186",
+            "Type": "Ia-91T/99aa",
+            "Time": "+20",
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Celestial_Object": "ASASSN-15tm",
+            "Reference": "ATel #8365"
+        },
+        {
+            "Celestial_Object": "PSN J12265018+1615496",
+            "Reference": "K. Itagaki"
+        },
+        {
+            "Celestial_Object": "PSN J11234588-0106212",
+            "Reference": "K. Itagaki"
+        }
+    ],
+    "Event Type": "classification of optical transients",
+    "Time": null,
+    "Date": "December 9 UT",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

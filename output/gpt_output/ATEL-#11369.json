@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18dv/SN 2017yj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": "UT 2018 Feb.28.5 - Feb.28.7"
+        },
+        {
+            "Name": "ASASSN-18dm/SN 2017yc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Type Ia Supernova",
+            "Time": null,
+            "Date": "UT 2018 Feb.28.5 - Feb.28.7"
+        }
+    ],
+    "References": [
+        "ATel#11368",
+        "ATel#11343"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "UT 2018 Feb.28.5 - Feb.28.7",
+    "Date": "UT 2018 Feb.28.5 - Feb.28.7",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories"
+}

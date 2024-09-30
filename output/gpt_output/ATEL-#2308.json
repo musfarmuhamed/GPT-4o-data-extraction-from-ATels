@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible nova in M 31",
+            "RA": "00h42m35.31s",
+            "Dec": "+41d12'59.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "18.67 UT",
+            "Date": "2009 November 18"
+        },
+        {
+            "Name": "Possible nova in M 31",
+            "RA": "00h42m35.31s",
+            "Dec": "+41d12'59.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "20.25 UT",
+            "Date": "2009 November 20"
+        },
+        {
+            "Name": "Possible nova in M 31",
+            "RA": "00h42m35.31s",
+            "Dec": "+41d12'59.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "21.14 UT",
+            "Date": "2009 November 21"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ 131, 2478",
+    "Event Type": "Observation",
+    "Time": "20.25 UT",
+    "Date": "2009 November 20",
+    "Telescope": "60cm telescope",
+    "Instrument": "E2V CCD (2kx2k, 13.5 micron sq. pixels)",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

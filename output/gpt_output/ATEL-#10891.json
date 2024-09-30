@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1749-200",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient and type-1 X-ray burster",
+            "Time": "16:23 TT",
+            "Date": "2017 October 23"
+        },
+        {
+            "Name": "CX1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent X-ray transient and accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "suspected quiescent LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX15",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "suspected cataclysmic variable",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #10821, #10826, #10827, #10832",
+    "Event Type": null,
+    "Time": "16:23 TT",
+    "Date": "2017 October 23",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

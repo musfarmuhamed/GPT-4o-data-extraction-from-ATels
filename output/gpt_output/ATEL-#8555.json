@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16al",
+            "RA": "15:00:27.46",
+            "Dec": "-13:33:09.0",
+            "redshift": 0.009,
+            "Type": "IIp",
+            "Time": "Null",
+            "Date": "2016-01-15"
+        },
+        {
+            "Name": "PS16op",
+            "RA": "12:59:00.83",
+            "Dec": "-26:07:40.5",
+            "redshift": 0.48,
+            "Type": "SLSN Ic",
+            "Time": "Null",
+            "Date": "2016-01-11"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Huber et al., ATel #7153",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2016 January 15th",
+    "Date": "2016-01-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

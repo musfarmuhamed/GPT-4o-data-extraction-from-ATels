@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright transient",
+            "Time": "10.83",
+            "Date": "2014 Nov."
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Pal et al.",
+            "ATel": "#6680"
+        },
+        {
+            "Authors": "Shappee et al.",
+            "ATel": "#6676"
+        }
+    ],
+    "Event Type": "near-infrared observations",
+    "Time": "10.83",
+    "Date": "2014 Nov.",
+    "Telescope": "1.2-m telescope",
+    "Instrument": "Near-Infrared Imager/Spectrometer with a 256x256 NICMOS3 array",
+    "Observatory": "Mt.Abu Infrared Observatory"
+}

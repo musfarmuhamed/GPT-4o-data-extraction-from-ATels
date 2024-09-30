@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424720+4116195",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "10.45 UT",
+            "Date": "2012 Sep. 10"
+        },
+        {
+            "Name": "M31N 2012-09a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012 Sep. 10"
+        },
+        {
+            "Name": "M31N 1984-07a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2004-11f",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #4364, Pietsch et al. (2007, A&A, 465, 375)",
+    "Event Type": "spectroscopic observations",
+    "Time": "10.45 UT",
+    "Date": "2012 Sep. 10",
+    "Telescope": "9.2m Hobby-Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "Hobby-Eberly Telescope"
+}

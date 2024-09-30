@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 347929 (1RXS J180724.2+194217)",
+            "RA": "18 07 0",
+            "Dec": "+19 38 60",
+            "redshift": null,
+            "Type": "Variable Star",
+            "Time": "08:52",
+            "Date": "2013-05-19"
+        },
+        {
+            "Name": "MAXI J1807+196",
+            "RA": "18 07 0",
+            "Dec": "+19 38 60",
+            "redshift": null,
+            "Type": "Possible X-ray transient",
+            "Time": null,
+            "Date": "2013-05-19"
+        }
+    ],
+    "References": [
+        "Usui et al. ATel #2700",
+        "Keanna et al. ATel #2701"
+    ],
+    "Event Type": "X-ray enhancement",
+    "Time": "08:52",
+    "Date": "2013-05-19",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "MAXI/GSC",
+    "Observatory": null
+}

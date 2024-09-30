@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Star 1",
+            "RA": "17:48:52.63",
+            "Dec": "-20:20:56.5",
+            "redshift": null,
+            "Type": "Variable Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 2",
+            "RA": "17:48:52.40",
+            "Dec": "-20:21:38.9",
+            "redshift": null,
+            "Type": "Variable Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Heinke & Budac (2009, Atel 2139) and Heinke et al. (2009, Atel 2143)",
+    "Event Type": "Optical Observations",
+    "Time": "UT",
+    "Date": "July 30 and 31",
+    "Telescope": "0.76-m Katzman Automatic Imaging Telescope (KAIT)",
+    "Instrument": "Unfiltered Mode",
+    "Observatory": "Lick Observatory"
+}

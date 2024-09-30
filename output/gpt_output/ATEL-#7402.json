@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1441+25",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.939,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J144357.93+250051.0",
+            "RA": "14:43:57.93",
+            "Dec": "+25:00:51.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pacciani et al. 2014, ApJ, 790, 45",
+        "ATEL#6878",
+        "ATEL#6895",
+        "ATEL#6923",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015-03-21 to 2015-04-15",
+    "Telescope": "FERMI-LAT",
+    "Instrument": null,
+    "Observatory": "Swift Observatory"
+}

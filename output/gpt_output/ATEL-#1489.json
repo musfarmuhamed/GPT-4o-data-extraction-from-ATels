@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19112+1358",
+            "RA": "19 11 12.6",
+            "Dec": "+13 58 52",
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "07:05",
+            "Date": "2008-04-24"
+        },
+        {
+            "Name": "IRAS 19089+1351",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GRS 1915+105",
+    "Event Type": "detection",
+    "Time": "07:05",
+    "Date": "2008-04-24",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bol 194",
+            "RA": "00:43:45.17",
+            "Dec": "+41:06:09.0",
+            "redshift": null,
+            "Type": "X-ray Transient",
+            "Time": "20 ks",
+            "Date": "2007-11-07.64"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Galleti et al.",
+            "Year": 2006,
+            "Journal": "A&A",
+            "Volume": 456,
+            "Page": 985
+        },
+        {
+            "Author": "Pietsch et al.",
+            "Year": 2007,
+            "ATel": "#1294"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "20 ks",
+    "Date": "2007-11-07.64",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": "Chandra X-ray Observatory"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole primary",
+            "Time": null,
+            "Date": "2000-12-01"
+        }
+    ],
+    "References": [
+        "IAUC 7390",
+        "IAUC 7412",
+        "IAUC 7418"
+    ],
+    "Event Type": "Spectroscopic and Photometric Observations",
+    "Time": null,
+    "Date": [
+        "2000-10-26",
+        "2000-11-30",
+        "2000-12-01",
+        "2000-12-04"
+    ],
+    "Telescope": [
+        "6.5-m MMT",
+        "FLWO 1.2-m",
+        "VATT 1.8-m"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

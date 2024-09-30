@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS160603:162117+441254",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "cataclysmic binary star",
+            "Time": "Null",
+            "Date": "UT 2016 June 5.33-5.57"
+        },
+        {
+            "Name": "2MASS J16211735+4412541",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "cataclysmic binary star",
+            "Time": "Null",
+            "Date": "UT 2016 June 5.33-5.57"
+        }
+    ],
+    "References": [
+        "ATel #9112",
+        "ATel #9113",
+        "ATel #9122"
+    ],
+    "Event Type": "observation",
+    "Time": "Null",
+    "Date": [
+        "UT 2016 June 5.33-5.57",
+        "UT 2016 June 6.33-6.57",
+        "UT 2016 June 7.33-7.57",
+        "UT 2016 June 8.33-8.57"
+    ],
+    "Telescope": "60cm Newtonian telescope",
+    "Instrument": "Moravian Instruments G2-4000 CCD camera",
+    "Observatory": "Masaryk University Observatory in Brno, Czech Republic"
+}

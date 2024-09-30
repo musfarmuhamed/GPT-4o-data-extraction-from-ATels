@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "1048 s",
+            "Date": "2012-11-18"
+        }
+    ],
+    "References": [
+        "ATel #4224",
+        "ATel #4310",
+        "CBET #3202",
+        "ATel #4352",
+        "ATel #4408",
+        "ATel #4321",
+        "ATel #4569",
+        "ATel #4542"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": "1048 s",
+    "Date": "2012-11-18",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "Swift satellite"
+}

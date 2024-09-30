@@ -1,0 +1,159 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "12.459",
+            "Date": "2016-12-12"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "12.7822",
+            "Date": "2016-12-12"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "12.9782",
+            "Date": "2016-12-12"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "13.1092",
+            "Date": "2016-12-13"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "13.7976",
+            "Date": "2016-12-13"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.1390",
+            "Date": "2016-12-14"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.378",
+            "Date": "2016-12-14"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.38311",
+            "Date": "2016-12-14"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.43503",
+            "Date": "2016-12-14"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "14.47",
+            "Date": "2016-12-14"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "15.36662",
+            "Date": "2016-12-15"
+        }
+    ],
+    "References": [
+        "ATel #9848",
+        "#9852",
+        "#9853",
+        "#9857",
+        "#9861",
+        "#9864",
+        "#9865",
+        "#9872",
+        "#9874",
+        "#9881",
+        "Darnley et al. 2014, 2015, 2016",
+        "Henze et al. 2014, 2015a, 2015b"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2016",
+    "Telescope": {
+        "1": "0.4-m f/10 Meili telescope",
+        "2": "1.05-m Schmidt telescope",
+        "3": "0.5-m f/6.5 MITSuME telescope",
+        "4": "0.51-m f/12",
+        "5": "0.5-m f/6.8",
+        "6": "0.5-m f/4.5 CDK astrograph",
+        "7": "0.6-m f/5.7",
+        "8-1": "0.43-m f/6.8 CDK astrograph",
+        "8-2": "0.32-m f/8.0 CDK astrograph",
+        "9": "0.5-m f/6.8",
+        "10": "1.6-m f/12 Pirka telescope"
+    },
+    "Instrument": {
+        "1": "SBIG STL-1001E CCD",
+        "2": "KWFC",
+        "3": "Apogee Alta U6",
+        "4": "Andor DW936N-BV",
+        "5": "FLI 1001E CCD",
+        "6": "FLI-PL11002M CCD",
+        "7": "CCD",
+        "8-1": "SBIG STL-11000M CCD",
+        "8-2": "SBIG STXL-6303E CCD",
+        "9": "CCD",
+        "10": "MSI"
+    },
+    "Observatory": {
+        "1": "Nayoro Observatory, Japan",
+        "2": "Kiso Observatory, Japan",
+        "3": "Okayama Astrophysical Observatory, Japan",
+        "4": "Osaka Kyoiku University, Japan",
+        "5": "Miyaki-Argenteus Observatory, Japan",
+        "6": "New Mexico Skies, USA",
+        "7": "Itagaki Observatory (Yamagata station), Japan",
+        "8-1": "AstroCamp Observatory, Spain",
+        "8-2": "AstroCamp Observatory, Spain",
+        "9": "Itagaki Observatory (Okayama station), Japan",
+        "10": "Nayoro Observatory, Hokkaido University, Japan"
+    }
+}

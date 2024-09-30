@@ -1,0 +1,143 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J081855.19+300252.6",
+            "RA": "08h 18m 55.19s",
+            "Dec": "+30d 02m 52.6s",
+            "redshift": null,
+            "Type": "UV Ceti type",
+            "Time": "00:12:30.00837 UT",
+            "Date": "2014-09-12"
+        },
+        {
+            "Name": "SDSS J081855.22+300253.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J08185522+3002538",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J213253.43+213159.7",
+            "RA": "21h 32m 53.43s",
+            "Dec": "+21d 31m 59.7s",
+            "redshift": null,
+            "Type": "OH maser",
+            "Time": "00:14:14.73235 UT",
+            "Date": "2014-09-14"
+        },
+        {
+            "Name": "USNO-B1.0 1115-0565128",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J21325363+2132006",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J213253.62+213200.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IRAS 21305+2118",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS J213254.0+213158",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J213809.25+212824.0",
+            "RA": "21h 38m 09.25s",
+            "Dec": "+21d 28m 24.0s",
+            "redshift": null,
+            "Type": "SU UMa type",
+            "Time": "00:14:14.77706 UT",
+            "Date": "2014-09-14"
+        },
+        {
+            "Name": "SDSS J213809.26+212823.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1114-0563330",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J213809.2+212824",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BW Peg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing variable",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/081855.19300252.6.jpg",
+        "http://master.sai.msu.ru/static/OT/J213253+213159-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/213253.43213159.7.png",
+        "http://master.sai.msu.ru/static/OT/J213809+212824-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/213809.25212824.0.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

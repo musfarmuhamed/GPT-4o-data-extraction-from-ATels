@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 6256",
+            "RA": "16h 59m 32.9007s",
+            "Dec": "-37d 07' 14.22\"",
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": "21:01 - 22:42 UTC",
+            "Date": "2017 Oct 23"
+        },
+        {
+            "Name": "IGR J16597-3704",
+            "RA": "16h 59m 32.9007s",
+            "Dec": "-37d 07' 14.22\"",
+            "redshift": null,
+            "Type": "neutron star X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "20:29:21 - 20:47:29",
+            "Date": "2017 Oct 22"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "07:30 - 07:51 UTC",
+            "Date": "2017 Oct 25"
+        }
+    ],
+    "References": [
+        "ATel #10880",
+        "ATel #10881",
+        "ATel #10885"
+    ],
+    "Event Type": "follow-up VLA radio observations",
+    "Time": "21:01 - 22:42 UTC",
+    "Date": "2017 Oct 23",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

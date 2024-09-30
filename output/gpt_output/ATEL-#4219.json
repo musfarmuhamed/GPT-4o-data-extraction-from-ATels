@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17062-6143",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unclassified X-ray transient/neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #13386",
+        "ATel #1840",
+        "ATel #1853",
+        "in 't Zand et al. 2011, A&A 525, 111",
+        "in 't Zand 2008, A&A 485, 183",
+        "Degenaar et al. 2010, MNRAS 404, 1591",
+        "ATel #4214"
+    ],
+    "Event Type": "thermonuclear X-ray burst",
+    "Time": "2012-06-25T00:00:00Z",
+    "Date": "2012-06-25",
+    "Telescope": "Swift/BAT",
+    "Instrument": null,
+    "Observatory": null
+}

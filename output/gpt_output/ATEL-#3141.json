@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": "307.46",
+            "Dec": "40.89",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "20:00",
+            "Date": "2011-01-27"
+        },
+        {
+            "Name": "Cygnus X-3",
+            "RA": "307.46",
+            "Dec": "40.89",
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "11:00",
+            "Date": "2011-02-01"
+        }
+    ],
+    "References": [
+        "ATel #3130",
+        "ATel #3135",
+        "Tavani et al. 2009, Nature 462, 620",
+        "Abdo et al. 2009, Science 326, 1512",
+        "ATel #2609",
+        "ATel #2645"
+    ],
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": "20:00",
+    "Date": "2011-01-27",
+    "Telescope": [
+        "RATAN-600",
+        "AMI Large Array",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

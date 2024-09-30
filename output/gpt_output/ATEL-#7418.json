@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15adk",
+            "RA": "16:33:13.65",
+            "Dec": "-12:45:35.0",
+            "redshift": 16.62,
+            "Type": "recurrent variable (likely CV)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SSSJ163313.6-124534",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent variable (likely CV)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14bi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent variable (likely CV)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "S8NM005820",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "R=19.4 stellar source in the GSC2.3 catalogue",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wright et al., ATel #7407",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Davis et al. 2015, AAS Meeting 225,344"
+    ],
+    "Event Type": "detection of bright transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

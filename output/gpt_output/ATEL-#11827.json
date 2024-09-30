@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole XRB candidate",
+            "Time": [
+                {
+                    "Start": "18:31:41.4",
+                    "End": "03:05:32.5"
+                },
+                {
+                    "Start": "19:51:31.3",
+                    "End": "04:52:18.9"
+                },
+                {
+                    "Start": "19:29:38.9",
+                    "End": "04:48:22.9"
+                }
+            ],
+            "Date": [
+                {
+                    "Start": "05-Jul-2018",
+                    "End": "06-Jul-2018"
+                },
+                {
+                    "Start": "06-Jul-2018",
+                    "End": "07-Jul-2018"
+                },
+                {
+                    "Start": "07-Jul-2018",
+                    "End": "08-Jul-2018"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "ATel #11420",
+        "ATels #11820",
+        "ATel #11823"
+    ],
+    "Event Type": "state transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Arcminute Microkelvin Imager Large Array (AMI-LA)",
+    "Instrument": null,
+    "Observatory": "Mullard Radio Astronomy Observatory"
+}

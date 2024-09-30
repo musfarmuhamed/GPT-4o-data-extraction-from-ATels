@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-057",
+            "RA": "00:37:02.41",
+            "Dec": "-64:29:49.9",
+            "redshift": "~0.10",
+            "Type": "SN Ia",
+            "Time": "UT",
+            "Date": "2013-08-22"
+        },
+        {
+            "Name": "PSN J01340066-3423404",
+            "RA": "01:34:00.66",
+            "Dec": "-34:23:40.4",
+            "redshift": "0.013",
+            "Type": "SN II",
+            "Time": "UT",
+            "Date": "2013-08-27"
+        },
+        {
+            "Name": "PSN J02224207+2816012",
+            "RA": "02:22:42.07",
+            "Dec": "+28:16:01.1",
+            "redshift": "0.017",
+            "Type": "SN Ia",
+            "Time": "UT",
+            "Date": "2013-08-27"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Wyrzykowski et al., ATEL #4495; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383; Yaron & Gal-Yam, 2012, PASP, 124, 668",
+    "Event Type": "supernova classifications",
+    "Time": "UT",
+    "Date": "2013-08-29",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

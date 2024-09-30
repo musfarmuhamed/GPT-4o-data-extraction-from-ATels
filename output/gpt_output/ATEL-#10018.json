@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017mu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0815,
+            "Type": "Type Ia Supernova",
+            "Time": "Jan.26.7",
+            "Date": "2017"
+        },
+        {
+            "Name": "SN 1989B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "+5 days from the maximum light",
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J093036.72+212437.4",
+            "RA": "09h30m36.72s",
+            "Dec": "+21d24m37.4s",
+            "redshift": 0.0815,
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Optical spectrum observation",
+    "Time": "Jan.26.7",
+    "Date": "2017",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

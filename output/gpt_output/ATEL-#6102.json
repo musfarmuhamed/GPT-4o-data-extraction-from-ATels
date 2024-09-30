@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ar",
+            "RA": "09:09:41.7",
+            "Dec": "+37:36:06.5",
+            "redshift": null,
+            "Type": "transient source, probably a supernova",
+            "Time": "24.28",
+            "Date": "2014-04-24"
+        },
+        {
+            "Name": "IC 527",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02298",
+            "Type": "barred spiral galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage and the list of all ASAS-SN transients",
+    "Event Type": "discovery of a new transient source",
+    "Time": "24.28",
+    "Date": "2014-04-24",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

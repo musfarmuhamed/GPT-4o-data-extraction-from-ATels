@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18fv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "J-class nova",
+            "Time": [
+                "23 April 23:10 (UTC)",
+                "13 May 05:30 (UTC)",
+                "13 May 20:50 (UTC)"
+            ],
+            "Date": [
+                "23 April 2018",
+                "13 May 2018",
+                "13 May 2018"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #11454",
+        "ATel #11456",
+        "ATel #11460",
+        "ATel #11468",
+        "ATel #11506",
+        "ATel #11508",
+        "ATel #11546",
+        "ATel #11553",
+        "ATel #11608",
+        "Strope et al. (2010)",
+        "INTEGRAL Picture of the Month (June 2018)"
+    ],
+    "Event Type": "Observation",
+    "Time": "23 April 23:10 (UTC)",
+    "Date": "23 April 2018",
+    "Telescope": "INTEGRAL",
+    "Instrument": "Optical Monitoring Camera (OMC)",
+    "Observatory": "INTEGRAL"
+}

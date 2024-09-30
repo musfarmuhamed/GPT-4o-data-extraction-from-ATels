@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0142+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "anomalous X-ray pulsar",
+            "Time": "36.7 hr after the burst",
+            "Date": "Feb. 8th 2007"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Gavriil et al.",
+            "Year": 2007,
+            "ATel": "#993"
+        },
+        {
+            "Author": "Gohler et al.",
+            "Year": 2005,
+            "Journal": "A&A",
+            "Volume": 433,
+            "Page": 1079
+        },
+        {
+            "Author": "Patel et al.",
+            "Year": 2003,
+            "Journal": "ApJ",
+            "Volume": 587,
+            "Page": 367
+        },
+        {
+            "Author": "Juett et al.",
+            "Year": 2002,
+            "Journal": "ApJ",
+            "Volume": 568,
+            "Page": "L31"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

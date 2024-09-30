@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16479-4514",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High Mass X-ray Binary",
+            "Time": "22:44:45 UT",
+            "Date": "2008-03-19"
+        },
+        {
+            "Name": "IGR J16479-4514",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High Mass X-ray Binary",
+            "Time": "22:59:57 UT",
+            "Date": "2008-03-19"
+        }
+    ],
+    "References": [
+        "Barthelmy et al. 2008, GCN 7466",
+        "Markwardt et al, ATel #816",
+        "Kennea et al., 2005, ATel #599"
+    ],
+    "Event Type": "Outburst",
+    "Time": "22:44:45 UT",
+    "Date": "2008-03-19",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift Burst Alert Telescope (BAT)",
+        "Swift/XRT"
+    ],
+    "Observatory": "Swift satellite"
+}

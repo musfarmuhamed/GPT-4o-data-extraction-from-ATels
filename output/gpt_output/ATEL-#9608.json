@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J105440.86-391319.0",
+            "RA": "10h 54m 40.86s",
+            "Dec": "-39d 13m 19s.0",
+            "redshift": null,
+            "Type": "PSN in PGC600519",
+            "Time": "02:56:46.019UT",
+            "Date": "2016-10-08"
+        },
+        {
+            "Name": "MASTER OT J160918.30-333456.7",
+            "RA": "16h 09m 18.30s",
+            "Dec": "-33d 34m 56.7s",
+            "redshift": null,
+            "Type": "bright possible dwarf nova outburst",
+            "Time": null,
+            "Date": "2016-09-21.72860"
+        },
+        {
+            "Name": "MASTER OT J155546.00-734455.8",
+            "RA": "15h 55m 46.00s",
+            "Dec": "-73d 44m 55.8s",
+            "redshift": null,
+            "Type": "OT with ampl>4.6m, no VIZIER data",
+            "Time": null,
+            "Date": "2016-09-19.83295"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-02-27",
+            "Time": "22:35:30UT",
+            "m_lim": 19.8,
+            "Image Link": "http://master.sai.msu.ru/static/OT/MASTEROTJ105440.86-391319.0.jpg"
+        },
+        {
+            "Date": "2016-04-04.98706",
+            "Time": null,
+            "m_lim": 19.7,
+            "Image Link": "http://master.sai.msu.ru/static/OT/160918.30-333456.7.png"
+        },
+        {
+            "Date": "2016-03-09.84253",
+            "Time": null,
+            "m_lim": 20.8,
+            "Image Link": "http://master.sai.msu.ru/static/OT/155546.00-734455.8.png"
+        }
+    ],
+    "Event Type": "OT source discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

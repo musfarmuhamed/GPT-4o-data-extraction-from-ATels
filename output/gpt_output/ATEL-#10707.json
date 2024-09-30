@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017glx",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.011,
+            "Type": "91T-like supernova",
+            "Time": "04.7",
+            "Date": "2017 Sep. 04"
+        },
+        {
+            "Name": "Host galaxy NGC 6824",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.011,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Discovered",
+    "Time": "04.7",
+    "Date": "2017 Sep. 04",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

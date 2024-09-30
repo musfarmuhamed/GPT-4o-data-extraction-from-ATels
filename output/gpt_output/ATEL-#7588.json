@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2032+107",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.601,
+            "Type": "FSRQ",
+            "Time": "20:11:15",
+            "Date": "2015-06-01"
+        }
+    ],
+    "References": [
+        "Pacciani et al. 2014, ApJ, 790, 45",
+        "ATel#7453",
+        "ATel#7457",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "ATEL#7460"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2015-05-23 to 2015-06-02",
+    "Telescope": "FERMI-LAT",
+    "Instrument": null,
+    "Observatory": null
+}

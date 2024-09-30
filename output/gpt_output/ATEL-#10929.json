@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034412.48-263556.5",
+            "RA": "03h 44m 12.48s",
+            "Dec": "-26d 35m 56.5s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "05:27:16 UT",
+            "Date": "2017-11-06"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+        "Hamburg et al. GCN #22079",
+        "Kozlova et al. GCN #22076",
+        "Kienlin et al. GCN #21520",
+        "Lipunov et al. GCN #22080",
+        "Lipunov et al. GCN#22102",
+        "Burgess et al., 'Viewing short Gamma-ray Bursts from a different angles', arXiv:1710.05823 https://arxiv.org/abs/1710.05823"
+    ],
+    "Event Type": "discovery",
+    "Time": "05:27:16 UT - 07:42:22 UT",
+    "Date": "2017-11-06",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017jzp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-01-12"
+        },
+        {
+            "Name": "SN2018bf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "2018-01-12"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": "2018-01-12",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

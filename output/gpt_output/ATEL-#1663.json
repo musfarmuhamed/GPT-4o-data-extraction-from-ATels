@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "P60-NGC891-080813",
+            "RA": "02:22:32.70",
+            "Dec": "42:21:56.1",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "13:45",
+            "Date": "2008-08-13"
+        },
+        {
+            "Name": "NGC891",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "B. Tully, Schlegel et al",
+    "Event Type": "discovery",
+    "Time": "13:45",
+    "Date": "2008-08-13",
+    "Telescope": "Palomar 60-inch",
+    "Instrument": "FasTING",
+    "Observatory": "Palomar"
+}

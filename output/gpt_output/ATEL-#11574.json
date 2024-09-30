@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #11399",
+        "ATEL #11418",
+        "ATEL #11420",
+        "ATEL #11421",
+        "ATEL #11423",
+        "ATEL #11426",
+        "ATEL #11432",
+        "ATEL #11437",
+        "ATEL #11451",
+        "ATEL #11510",
+        "ATEL #11539",
+        "Gandhi et al., 2016",
+        "Gandhi et al., 2017",
+        "Dallilar et al., 2017",
+        "Krimm et al., 2013"
+    ],
+    "Event Type": "optical monitoring and variability study",
+    "Time": "1.1Hz cadence for several hours per epoch",
+    "Date": "beginning on 28 March 2018 UT (MJD 58205)",
+    "Telescope": "University of Florida Rosemary Hill Observatory 14-inch telescope",
+    "Instrument": "DMK CCD",
+    "Observatory": "Rosemary Hill Observatory"
+}

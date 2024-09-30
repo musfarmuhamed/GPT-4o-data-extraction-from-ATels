@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424012+4117273",
+            "RA": "0h42m40s.11",
+            "Dec": "+41o17'26\".9",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "14.740 UT",
+            "Date": "2018 Oct."
+        },
+        {
+            "Name": "PNV J01334673+3032181",
+            "RA": "1h33m46s.70",
+            "Dec": "+30o32'18\".4",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "14.766 UT",
+            "Date": "2018 Oct."
+        }
+    ],
+    "References": "R. Belligoli et al.",
+    "Event Type": null,
+    "Time": "14.740 UT",
+    "Date": "2018 Oct.",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "R-band CCD frame",
+    "Observatory": "Ondrejov"
+}

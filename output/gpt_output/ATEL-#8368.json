@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS 111127:033357+332152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable of unknown subtype",
+            "Time": "2015-11-30T00:00:00Z",
+            "Date": "2015-11-30"
+        }
+    ],
+    "References": "Drake et al. 2009, ApJ, 696, 870; C. Littlefield, vsnet-alert 19305; http://filico.dfa.uhu.es/ciecem/css0333+33.png; http://lewcook.com/CSS%20111127=033357+332152.jpg; https://drive.google.com/file/d/0B96c7_bXGorzaG9ub2tDWFNmLWs",
+    "Event Type": "detection and photometric series",
+    "Time": null,
+    "Date": "2015-11-28 to 2015-12-04",
+    "Telescope": [
+        "35-cm",
+        "50-cm",
+        "60-cm",
+        "74-cm"
+    ],
+    "Instrument": "CCD",
+    "Observatory": "Catalina Real-Time Transient Survey"
+}

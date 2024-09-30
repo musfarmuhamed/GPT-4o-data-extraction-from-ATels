@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.2326,
+            "Type": "hydrogen-poor super-luminous supernova (SLSN-I)",
+            "Time": null,
+            "Date": "2015-06-05"
+        },
+        {
+            "Name": "APMUKS(BJ) B215839.70-615403.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.2326,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7642",
+        "Quimby et al., 2007, ApJ 668, L99",
+        "Dong et al. 2015, in prep."
+    ],
+    "Event Type": "supernova",
+    "Time": null,
+    "Date": "2015-06-05",
+    "Telescope": [
+        "du Pont 2.5-m telescope",
+        "SALT 10-m telescope",
+        "SOAR 4-m telescope",
+        "Clay 6.5-m telescope",
+        "LCOGT 1-m robotic telescopes",
+        "SWIFT UVOT/XRT"
+    ],
+    "Instrument": [
+        "WFCCD",
+        "RSS",
+        "Goodman",
+        "MagE"
+    ],
+    "Observatory": [
+        "Las Campanas Observatory",
+        "Cerro Pachon"
+    ]
+}

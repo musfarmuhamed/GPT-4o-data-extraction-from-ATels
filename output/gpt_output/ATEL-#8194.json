@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15dhn",
+            "RA": "00:48:56.64",
+            "Dec": "+43:03:34.8",
+            "redshift": "0.15",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2015-10-11.38"
+        }
+    ],
+    "References": [
+        {
+            "Brink et al.": "2013MNRAS.435.1047B",
+            "Rebbapragada et al.": "2015AAS...22543402R",
+            "Wozniak et al.": "2013AAS...22143105W",
+            "ATel #7112": null,
+            "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)": null,
+            "WISeREP (Yaron & Gal-Yam 2012)": null
+        }
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Gemini N",
+    "Instrument": "GMOS",
+    "Observatory": null
+}

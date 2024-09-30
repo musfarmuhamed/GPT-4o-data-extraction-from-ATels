@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cas A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Tycho",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 0115+63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": [
+                "03:59",
+                "19:43",
+                "13:59"
+            ],
+            "Date": [
+                "2016-06-08",
+                "2016-06-10",
+                "2016-06-13"
+            ]
+        }
+    ],
+    "References": "ATEL #9149",
+    "Event Type": "Outburst",
+    "Time": [
+        "03:59 - 2016-06-10 08:13 UTC",
+        "19:43 - 2016-06-13 00:02 UTC",
+        "13:59 - 2016-06-15 15:53 UTC"
+    ],
+    "Date": [
+        "2016-06-08",
+        "2016-06-10",
+        "2016-06-13"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

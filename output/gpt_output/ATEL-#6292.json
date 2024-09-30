@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0943+105",
+            "RA": 146.646125,
+            "Dec": 10.28504,
+            "redshift": 1.0045,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily average",
+            "Date": "2014-07-02"
+        },
+        {
+            "Name": "GB6 J0946+1016",
+            "RA": 146.646125,
+            "Dec": 10.28504,
+            "redshift": 1.0045,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily average",
+            "Date": "2014-07-02"
+        },
+        {
+            "Name": "MG1 J094636+1017",
+            "RA": 146.646125,
+            "Dec": 10.28504,
+            "redshift": 1.0045,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily average",
+            "Date": "2014-07-02"
+        },
+        {
+            "Name": "2FGL J0946.5+1015",
+            "RA": 146.646125,
+            "Dec": 10.28504,
+            "redshift": 1.0045,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily average",
+            "Date": "2014-07-02"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Nolan et al.",
+            "Year": 2012,
+            "Source": "ApJS, 199, 31"
+        },
+        {
+            "Authors": "Beasley et al.",
+            "Year": 2002,
+            "Source": "ApJS, 141, 13"
+        },
+        {
+            "Authors": "Hewett & Wild",
+            "Year": 2010,
+            "Source": "MNRAS, 405, 2302"
+        }
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "daily average",
+    "Date": "2014-07-02",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": {
+        "Collaboration": [
+            "NASA",
+            "DOE",
+            "Scientific institutions in France",
+            "Scientific institutions in Italy",
+            "Scientific institutions in Japan",
+            "Scientific institutions in Sweden"
+        ]
+    }
+}

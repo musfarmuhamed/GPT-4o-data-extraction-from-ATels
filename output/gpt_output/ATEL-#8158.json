@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J214254.34+153642.8",
+            "RA": "21h 42m 54.34s",
+            "Dec": "+15d 36m 42.8s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "14:19:05.975104",
+            "Date": "2015-10-13"
+        },
+        {
+            "Name": "SDSS star J214254.30+153642.2",
+            "RA": "21h 42m 54.30s",
+            "Dec": "+15d 36m 42.2s",
+            "redshift": null,
+            "Type": "faint star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/214254.34153642.8.png",
+    "Event Type": "detection",
+    "Time": "14:19:05.975104",
+    "Date": "2015-10-13",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

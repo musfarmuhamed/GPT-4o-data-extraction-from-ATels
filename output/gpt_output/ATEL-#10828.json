@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017hbf",
+            "RA": "15:51:17.65",
+            "Dec": "-15:27:10.6",
+            "redshift": "0.037946",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-09-28"
+        },
+        {
+            "Name": "2MASX J15511737-1527048",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037946",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transient source",
+    "Time": null,
+    "Date": "2017-09-28",
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

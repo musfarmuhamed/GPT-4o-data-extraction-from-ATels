@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J180539.49+342329.1",
+            "RA": "18h 05m 39.49s",
+            "Dec": "+34d 23m 29.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable, most likely a dwarf nova of SU UMa (UGSU) type in superoutburst",
+            "Time": "2014-01-26.92191",
+            "Date": "2014-01-26"
+        },
+        {
+            "Name": "GALEX J180539.6+342328",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-04-05.79133",
+            "Date": "2011-04-05"
+        }
+    ],
+    "References": "1RXS, USNO, GSC, 2MASS, GCVS and AAVSO VSX, Catalina Sky Survey, POSS-II BRIR, POSS-I OR and Quick-V plates",
+    "Event Type": "discovery",
+    "Time": "2014-01-26.92191",
+    "Date": "2014-01-26",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

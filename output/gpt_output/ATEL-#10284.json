@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMSL1 J174429.4-274609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J17443041-2746004",
+            "RA": "17h 44m 30.412s",
+            "Dec": "-27d 46m 00.48s",
+            "redshift": null,
+            "Type": "Likely counterpart of the X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #10265",
+        "ATEL #10273",
+        "Malizia et al. 2010, MNRAS, 408, 975",
+        "Heinke et al. (ATel #10265)"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "July 2012",
+    "Telescope": "VLT",
+    "Instrument": "ISAAC",
+    "Observatory": null
+}

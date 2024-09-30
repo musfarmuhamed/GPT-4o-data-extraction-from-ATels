@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J072959.96+110205.4",
+            "RA": "07h 29m 59.96s",
+            "Dec": "+11d 02m 05.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-10-21.04249 UT",
+            "Date": "2012-10-21"
+        },
+        {
+            "Name": "MASTER OT J205355.86+341410.0",
+            "RA": "20h 53m 55.86s",
+            "Dec": "+34d 14m 10.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2012-10-28.75475 UT",
+            "Date": "2012-10-28"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-02-22",
+            "Time": "2012-02-22.75453 UT",
+            "link": "http://master.sai.msu.ru/static/OT/072959.96110205.4_1.png"
+        },
+        {
+            "Date": "2010-09-15",
+            "Time": "2010-09-15.81128 UT",
+            "link": "http://master.sai.msu.ru/static/OT/205355.86341410.0_1.png"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER Global Net"
+}

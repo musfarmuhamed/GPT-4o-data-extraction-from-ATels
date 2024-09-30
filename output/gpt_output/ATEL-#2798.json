@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+262",
+            "RA": "05h38m54.574s",
+            "Dec": "+26d18'56\".82",
+            "redshift": null,
+            "Type": "Be X-ray binary",
+            "Time": "Fermi/GBM and MAXI/GSC",
+            "Date": "2010 July 29"
+        },
+        {
+            "Name": "Unresolved source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "likely a background radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2705",
+        "ATel #2754"
+    ],
+    "Event Type": "outburst and radio observation",
+    "Time": null,
+    "Date": [
+        "2010 July 24",
+        "2010 July 31",
+        "2010 August 7"
+    ],
+    "Telescope": "WSRT",
+    "Instrument": null,
+    "Observatory": null
+}

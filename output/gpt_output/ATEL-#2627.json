@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J171900.4-353217",
+            "RA": "17 19 00.60",
+            "Dec": "-35 32 19.4",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "1.9 ksec",
+            "Date": "11th May 2010"
+        },
+        {
+            "Name": "XTE J1719-356",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "[ATel #2607], [ATel #2615], [ATel #2616]",
+    "Event Type": null,
+    "Time": "1.9 ksec",
+    "Date": "11th May 2010",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT, Swift-UVOT",
+    "Observatory": "ESA's XMM-Newton"
+}

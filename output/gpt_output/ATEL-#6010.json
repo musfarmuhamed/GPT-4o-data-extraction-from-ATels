@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J190929.14+751454.0",
+            "RA": "19h 09m 29.14s",
+            "Dec": "+75d 14m 54.0s",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2014-03-23.82110 UT",
+            "Date": "2014-03-23"
+        },
+        {
+            "Name": "MASTER OT J131234.19+722827.9",
+            "RA": "13h 12m 34.19s",
+            "Dec": "+72d 28m 27.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-03-23.90383 UT",
+            "Date": "2014-03-23"
+        },
+        {
+            "Name": "MASTER OT J170611.58+564451.7",
+            "RA": "17h 06m 11.58s",
+            "Dec": "+56d 44m 51.7s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2014-03-24.04866 UT",
+            "Date": "2014-03-24"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/190929.14751454.0.png, http://master.sai.msu.ru/static/OT/131234.19722827.9.png, http://master.sai.msu.ru/static/OT/170611.58564451.7.jpg",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

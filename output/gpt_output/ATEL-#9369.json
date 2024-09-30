@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016evq",
+            "RA": "20:02:17.07",
+            "Dec": "+56:23:03.4",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "57598.42",
+            "Date": "20160729.42"
+        },
+        {
+            "Name": "AT2016ete",
+            "RA": "01:26:02.08",
+            "Dec": "-15:02:19.0",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "57602.59",
+            "Date": "20160802.59"
+        }
+    ],
+    "References": "see Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "twin 0.5m telescope system",
+    "Instrument": "cyan and orange filters",
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

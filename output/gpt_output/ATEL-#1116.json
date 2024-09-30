@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2006-11a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "16:40 UT",
+            "Date": "June 1, 2007"
+        }
+    ],
+    "References": "http://cfa-www.harvard.edu/iau/CBAT_M31.html#2006-11a, http://www.mpe.mpg.de/~m31novae/xray/swift/index.php",
+    "Event Type": "nova detection",
+    "Time": "16:40 UT",
+    "Date": "June 1, 2007",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1222+21",
+            "RA": 186.2,
+            "Dec": 21.4,
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "09:20/09:30",
+            "Date": "2010-06-17/2010-05-19"
+        }
+    ],
+    "References": [
+        "ATel #2684",
+        "ATel #2641",
+        "ATel #2348",
+        "ATel #2584",
+        "ATel #2349"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "09:20 UT to 09:30 UT",
+    "Date": "2010-06-17 to 2010-05-19",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

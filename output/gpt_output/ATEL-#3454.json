@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J185003.2-005627",
+            "RA": 282.5139,
+            "Dec": -0.9398,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "88s to 17.5 ks after BAT trigger",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Beardmore, et al., GCN Circ. 12083",
+        "Goad et al. (2007, A&A, 476, 1401)",
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Kalberla et al. (2005)",
+        "Markwardt et al., GCN Circ. 12086",
+        "Poole et al. (2008, MNRAS, 383, 627)",
+        "Schlegel et al. (1998)"
+    ],
+    "Event Type": "type I burst",
+    "Time": "88s to 17.5 ks after BAT trigger",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

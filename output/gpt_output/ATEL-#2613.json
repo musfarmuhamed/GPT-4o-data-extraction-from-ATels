@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1424-418",
+            "RA": "14:27:56.3",
+            "Dec": "-42:06:19.4",
+            "redshift": "1.52",
+            "Type": "gamma-ray Blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "3EG J1429-4217",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma-ray Blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1FGL J1428.2-4204",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma-ray Blazar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL #2103",
+        "ATEL #2104",
+        "ATEL #2583"
+    ],
+    "Event Type": "significant optical flaring activity",
+    "Time": "22 UT",
+    "Date": "May 11",
+    "Telescope": "Automatic Telescope for Optical Monitoring (ATOM)",
+    "Instrument": "Null",
+    "Observatory": "H.E.S.S. IACT array in Namibia"
+}

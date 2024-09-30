@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12fth",
+            "RA": "03:11:17.45",
+            "Dec": "-25:06:34.9",
+            "redshift": 0.021532,
+            "Type": "II",
+            "Time": null,
+            "Date": "20121031"
+        },
+        {
+            "Name": "LSQ12ftc",
+            "RA": "04:19:12.72",
+            "Dec": "-24:21:18.7",
+            "redshift": 0.1,
+            "Type": "II",
+            "Time": null,
+            "Date": "20121031"
+        },
+        {
+            "Name": "LSQ12ftb",
+            "RA": "04:21:41.26",
+            "Dec": "-23:42:19.1",
+            "redshift": 0.04,
+            "Type": "II",
+            "Time": null,
+            "Date": "20121031"
+        }
+    ],
+    "References": [
+        "Aldering et al 2002, SPIE, 4836, 61",
+        "Howell et al 2002, BAAS, 34, 1256",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "HIPASS Catalog (2006HIPAS.C...0000) via NED"
+    ],
+    "Event Type": "spectroscopic observations of supernovae",
+    "Time": null,
+    "Date": "20121026",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

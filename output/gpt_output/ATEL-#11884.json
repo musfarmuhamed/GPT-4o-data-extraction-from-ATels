@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": 233.851,
+            "Dec": -57.24,
+            "redshift": null,
+            "Type": "black hole candidate in a low-mass X-ray binary",
+            "Time": "00:28:13",
+            "Date": "2018-07-22"
+        }
+    ],
+    "References": [
+        "Y Xu et al. 2012 ApJ, 852, 2",
+        "GCN #21792",
+        "ATel #10699"
+    ],
+    "Event Type": "re-brightening of black hole candidate",
+    "Time": "00:28:13 - 11:11:35",
+    "Date": "2018-07-22 - 2018-07-23",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "ISGRI"
+    ],
+    "Observatory": "INTEGRAL observatory"
+}

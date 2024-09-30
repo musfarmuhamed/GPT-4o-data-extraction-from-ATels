@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17njh",
+            "RA": "03:31:20.63",
+            "Dec": "+04:07:54.54",
+            "redshift": 0.02,
+            "Type": "II",
+            "Time": "+15 d",
+            "Date": null
+        },
+        {
+            "Name": "PS17fig",
+            "RA": "01:15:50.07",
+            "Dec": "+34:36:55.80",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": null
+        },
+        {
+            "Name": "PS17fih",
+            "RA": "01:23:10.22",
+            "Dec": "+39:04:29.07",
+            "redshift": 0.038,
+            "Type": "II",
+            "Time": "+14 d",
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17npa",
+            "RA": "00:30:35.16",
+            "Dec": "+01:31:00.38",
+            "redshift": 0.079,
+            "Type": "Ia",
+            "Time": "+0 d",
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17npk",
+            "RA": "02:34:20.77",
+            "Dec": "+23:46:35.76",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "+0 d",
+            "Date": null
+        },
+        {
+            "Name": "PSP17G",
+            "RA": "02:34:20.77",
+            "Dec": "+23:46:35.76",
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": "+25 d",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATEL #11066"
+    ],
+    "Event Type": "classification of optical transients",
+    "Time": null,
+    "Date": "2017 Dec 15 UT",
+    "Telescope": "Shane",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

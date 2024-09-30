@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13cj",
+            "RA": "16:17:11.01",
+            "Dec": "+04:33:14.72",
+            "redshift": "0.018 +/- 0.005",
+            "Type": "Type Ia SNe",
+            "Time": "Null",
+            "Date": "Aug. 27"
+        },
+        {
+            "Name": "ASASSN-13ch",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Type Ia SNe",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SDSS J161711.04+043314.7",
+            "RA": "16:17:11.04",
+            "Dec": "+04:33:14.7",
+            "redshift": "Null",
+            "Type": "E/S0 galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #5333, #5334",
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "Aug. 27",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "LCO"
+}

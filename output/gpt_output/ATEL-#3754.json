@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2468 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "11.8 ks",
+            "Date": "2011"
+        }
+    ],
+    "References": [
+        "ATel #2157",
+        "IAUC #8936"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "August 8, 2011",
+        "October 3, 2011",
+        "October 21, 2011"
+    ],
+    "Date": "2011",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray",
+        "UVOT"
+    ],
+    "Observatory": null
+}

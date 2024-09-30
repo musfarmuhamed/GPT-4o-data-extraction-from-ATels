@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12elq",
+            "RA": "20:32:15.46",
+            "Dec": "+01:29:15.7",
+            "redshift": null,
+            "Type": "ultra-luminous Type Ic SNe",
+            "Time": null,
+            "Date": "20120820"
+        },
+        {
+            "Name": "LSQ12elk",
+            "RA": "02:05:19.66",
+            "Dec": "-05:58:20.3",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "+0-2d",
+            "Date": "20120810"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Quimby et al. 2011, Nature, 474, 487"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2012 August 25",
+    "Date": "2012 August 25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

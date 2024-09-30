@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2011hs",
+            "RA": "22:57:11.77",
+            "Dec": "-43:23:4.8",
+            "redshift": null,
+            "Type": "type-IIb 'hypernova'",
+            "Time": "16:28:36",
+            "Date": "2011-11-15"
+        }
+    ],
+    "References": [
+        "Milisavljevic CBET 2902",
+        "Kalberla 2005",
+        "Breeveld et al. 2011, arXiv:1102.4717",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": null,
+    "Time": "16:28:36",
+    "Date": "2011-11-15",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

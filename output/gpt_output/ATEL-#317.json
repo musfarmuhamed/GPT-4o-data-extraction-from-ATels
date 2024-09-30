@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1829-098",
+            "RA": "18h29m35s",
+            "Dec": "-09d51'",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "July 30.9 (UTC)",
+            "Date": "2023-07-30"
+        },
+        {
+            "Name": "G21.5-0.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1WGA J1830.1-0954",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Monitoring observations",
+    "Time": "May 22 to June 10",
+    "Date": "2023-05-22 to 2023-06-10",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

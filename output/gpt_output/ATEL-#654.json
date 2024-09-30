@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16493-4348",
+            "RA": "16 49 26.92",
+            "Dec": "-43 49 8.96",
+            "redshift": null,
+            "Type": null,
+            "Time": "4.1 ks",
+            "Date": "2005 Oct 21.1965"
+        },
+        {
+            "Name": "PSR J1649-4349",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16492695-4349090",
+            "RA": "16 49 26.95",
+            "Dec": "-43 49 09.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J164913.6-435527",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #232",
+        "ATEL #457",
+        "Bird et al. 2004, ApJ 607, L33",
+        "ATEL #465"
+    ],
+    "Event Type": null,
+    "Time": "4.1 ks",
+    "Date": "2005 Oct 21.1965",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": null
+}

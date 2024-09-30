@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS141021-030330-053334",
+            "RA": "03 03 30.43",
+            "Dec": "-05 33 33.9",
+            "redshift": 0.097,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "20141021"
+        },
+        {
+            "Name": "OGLE-2014-SN-107",
+            "RA": "00 42 28.75",
+            "Dec": "-64 45 51.0",
+            "redshift": 0.067,
+            "Type": "Ia-91T",
+            "Time": "Unknown",
+            "Date": "20140627"
+        },
+        {
+            "Name": "LSQ14fum",
+            "RA": "05 29 38.19",
+            "Dec": "-61 46 34.8",
+            "redshift": 0.001,
+            "Type": "M-star",
+            "Time": "Unknown",
+            "Date": "20140916"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "http://ogle.astrouw.edu.pl/",
+        "Drake et al. 2009, 696, 870",
+        "http://crts.caltech.edu/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "Unknown",
+    "Date": "2014 October 22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

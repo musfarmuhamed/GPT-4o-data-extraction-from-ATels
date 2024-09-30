@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J17452791-2305213",
+            "RA": "17:45:28.02",
+            "Dec": "-23:05:23.1 +/-0.1\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "2012-04-21T01:50:40.32Z",
+            "Date": "2012-04-21"
+        }
+    ],
+    "References": [
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J17452791-2305213.html",
+        "Orio 2004 RMxAC, 20, 182",
+        "Ness et al. 2007 ApJ, 665, 1334",
+        "Mukai et al. 2008, ApJ, 677, 1248"
+    ],
+    "Event Type": "nova outburst",
+    "Time": "2012-04-21T21:55:19.968Z",
+    "Date": "2012-04-21",
+    "Telescope": "Swift satellite",
+    "Instrument": "XRT and UVOT",
+    "Observatory": "Ka-Dar Observatory's TAU Station"
+}

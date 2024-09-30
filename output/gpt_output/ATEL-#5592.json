@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C+50.11",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High redshift quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J035930.6+505730",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NRAO 0150",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "JD 2456608.030504",
+        "JD 2456187.001782",
+        "JD 2456596.939676"
+    ],
+    "Event Type": "NIR flare",
+    "Time": null,
+    "Date": "November 11, 2013",
+    "Telescope": "2.1m",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory operated by the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

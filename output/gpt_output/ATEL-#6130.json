@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J172145.92+694914.1",
+            "RA": "17h 21m 45.92s",
+            "Dec": "+69d 49m 14.1s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "14:10:38",
+            "Date": "2014-05-08"
+        },
+        {
+            "Name": "Kazarian 654 = PGC 2732472 = SDSS J172144.04+694907.3 = GALEX J172144.6+694907 = 2MASX J17214397+6949069",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J232100.42+494614.0",
+            "RA": "23h 21m 00.42s",
+            "Dec": "+49d 46m 14.0s",
+            "redshift": null,
+            "Type": "new Cataclysmic Variable (dwarf nova in outburst)",
+            "Time": "17:08:45",
+            "Date": "2014-05-08"
+        },
+        {
+            "Name": "USNO-B1.0 1397-0491066 = GALEX J232100.4+494615",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J172145+694914-MASTER-Amur.jpg, http://master.sai.msu.ru/static/OT/172145.92694914.1.png, http://master.sai.msu.ru/static/OT/J232100+494614-BRIR.jpg, http://master.sai.msu.ru/static/OT/J232100+494614-POSS-R.jpg, http://master.sai.msu.ru/static/OT/232100.42494614.0.png",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

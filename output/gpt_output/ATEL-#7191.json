@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J202246.23+074636.3",
+            "RA": "20h 22m 46.23s",
+            "Dec": "+07d 46m 36.3s",
+            "redshift": null,
+            "Type": "superluminous supernova or high amplitude CV",
+            "Time": "2015-03-09.09259 UT",
+            "Date": "2015-03-09"
+        },
+        {
+            "Name": "MASTER OT J145936.51-714660.0",
+            "RA": "14h 59m 36.51s",
+            "Dec": "-71d 46m 60.0s",
+            "redshift": null,
+            "Type": "fast optical transient",
+            "Time": "2015-03-08.85120 UT",
+            "Date": "2015-03-08"
+        },
+        {
+            "Name": "MASTER OT J073110.47-462722.5",
+            "RA": "07h 31m 10.47s",
+            "Dec": "-46d 27m 22.5s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "2015-03-06.86260 UT",
+            "Date": "2015-03-06"
+        },
+        {
+            "Name": "MASTER OT J162719.40-643245.9",
+            "RA": "16h 27m 19.40s",
+            "Dec": "-64d 32m 45.9s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "2015-03-08.98890 UT",
+            "Date": "2015-03-08"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Kislovodsk, MASTER-SAAO"
+}

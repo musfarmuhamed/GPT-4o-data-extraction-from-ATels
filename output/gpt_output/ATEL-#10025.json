@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE17aaj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TDE candidate",
+            "Time": "06:06UT - 08:02UT",
+            "Date": "2017 Jan 28"
+        },
+        {
+            "Name": null,
+            "RA": "01:56:21.9",
+            "Dec": "-71:05:43.19",
+            "redshift": null,
+            "Type": "unrelated source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "A-Tels #10006",
+        "#9977"
+    ],
+    "Event Type": "Observation",
+    "Time": "06:06UT - 08:02UT",
+    "Date": "2017 Jan 28",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": "ATCA",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017fem",
+            "RA": "14 32 27.32",
+            "Dec": "+27 25 36.75",
+            "redshift": "0.014",
+            "Type": "IIp",
+            "Time": null,
+            "Date": "20170702"
+        },
+        {
+            "Name": "SN2017fvf",
+            "RA": "03 17 53.31",
+            "Dec": "-07 18 00.97",
+            "redshift": "0.017",
+            "Type": "IIp",
+            "Time": null,
+            "Date": "20170730"
+        },
+        {
+            "Name": "SN2017fvr",
+            "RA": "04 47 28.23",
+            "Dec": "+23 58 57.83",
+            "redshift": "0.013",
+            "Type": "IIp",
+            "Time": null,
+            "Date": "20170801"
+        },
+        {
+            "Name": "SN2017ggq",
+            "RA": "20 12 54.90",
+            "Dec": "+16 12 41.28",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "20170806"
+        },
+        {
+            "Name": "SN2017gay",
+            "RA": "00 40 24.37",
+            "Dec": "+41 04 03.20",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "20170815"
+        }
+    ],
+    "References": "Tonry et al., 2011, PASP, 123, 58; http://gsaweb.ast.cam.ac.uk/alerts",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "23-25 August 2017",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

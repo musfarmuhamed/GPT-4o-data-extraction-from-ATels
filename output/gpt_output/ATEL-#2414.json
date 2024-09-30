@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VCS2 J0109+6133",
+            "RA": "01 09 46.34439",
+            "Dec": "+61 33 30.4557",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "Two-week period ending, 1-day period",
+            "Date": "February 1, 2010"
+        },
+        {
+            "Name": "1FGL J0131.2+6121",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unassociated source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fomalont, E. B. et al., 2003, AJ, 126:2562-2566, http://fermi.gsfc.nasa.gov/ssc/data/access/lat/1yr_catalog/",
+    "Event Type": "gamma-ray flux increase",
+    "Time": "Two-week period ending, 1-day period",
+    "Date": "February 1, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

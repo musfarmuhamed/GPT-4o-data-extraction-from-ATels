@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16bcg",
+            "RA": "04:19:41.78",
+            "Dec": "-38:42:46.83",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bco",
+            "RA": "04:49:12.68",
+            "Dec": "-62:21:40.93",
+            "redshift": "0.028",
+            "Type": "IIp",
+            "Time": "+4d",
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bcp",
+            "RA": "03:25:51.28",
+            "Dec": "-50:18:09.72",
+            "redshift": "0.068",
+            "Type": "Ia",
+            "Time": "+14d",
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bdd",
+            "RA": "08:02:29.56",
+            "Dec": "-72:25:33.40",
+            "redshift": "0.028",
+            "Type": "Ia",
+            "Time": "~max",
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bew",
+            "RA": "14:02:51.91",
+            "Dec": "-30:36:59.26",
+            "redshift": "0.038",
+            "Type": "Ia",
+            "Time": "~max",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J021729.29-595123.9",
+            "RA": "02:17:29.29",
+            "Dec": "-59:51:23.90",
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATEL #9467"
+    ],
+    "Event Type": "classification of optical transients",
+    "Time": "UT",
+    "Date": "2016 Sep 7",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SLX 1735-269",
+            "RA": 264.605,
+            "Dec": -27.043,
+            "redshift": null,
+            "Type": "neutron star binary",
+            "Time": "15:26 UT",
+            "Date": "2017-02-20"
+        },
+        {
+            "Name": "MAXI J0158-157",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1501-026",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "David et al. 1997, A&A, 322, 229; Molkov et al. 2005, 434, 1069; Galloway et al. 2008, ApJS, 179, 360; Gallow et al. 2008; Negoro et al. ATel. #4622; Serino et al. 2016, PASJ, 68, S95; Morii et al. 2013, ApJ, 779, 118; Nakahira et al. ATel. #7954",
+    "Event Type": "soft X-ray burst",
+    "Time": "15:26 UT",
+    "Date": "2017-02-20",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "MAXI/GSC",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000249",
+            "RA": "10:00:44.00",
+            "Dec": "+03:24:14.0",
+            "redshift": "0.22",
+            "Type": "type Ia SN",
+            "Time": "1.88",
+            "Date": "2010 April"
+        },
+        {
+            "Name": "PS1-1000250",
+            "RA": "09:56:52.40",
+            "Dec": "+02:35:47.7",
+            "redshift": "0.48",
+            "Type": "background AGN",
+            "Time": "22.08",
+            "Date": "2010 Feb."
+        },
+        {
+            "Name": "PS1-1000251",
+            "RA": "12:25:20.66",
+            "Dec": "+46:00:54.7",
+            "redshift": "0.12",
+            "Type": "type Ia SN",
+            "Time": "25.54",
+            "Date": "2010 Feb."
+        }
+    ],
+    "References": "http://www.ps1sc.org/PS1_System_ATel.htm",
+    "Event Type": "discovery and classification of three optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Pan-STARRS Telescope #1 (PS1)",
+    "Instrument": "ISIS spectrograph",
+    "Observatory": "William Herschel Telescope"
+}

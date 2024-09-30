@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16316-4028",
+            "RA": "16h31.6m",
+            "Dec": "-40\u00b028'",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20 ks",
+            "Date": "Feb. 28 2003"
+        },
+        {
+            "Name": "3EG 1631-4033",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EGRET source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J163336.7-404609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1720-318",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "3EG 1631-4033, 1RXS J163336.7-404609, XTE J1720-318",
+    "Event Type": "detection",
+    "Time": "20 ks",
+    "Date": "Feb. 28 2003",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": "INTEGRAL",
+    "Observatory": "not specified"
+}

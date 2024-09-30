@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18nut",
+            "IAU Name": "AT2018bfd",
+            "RA": "14:29:00.52",
+            "Dec": "+17:19:30.63",
+            "redshift": "0.052",
+            "Type": "Ia",
+            "Time": "+2d",
+            "Date": "2018 May 08 UT"
+        },
+        {
+            "Name": "ASASSN-18jn",
+            "IAU Name": "AT2018bfh",
+            "RA": "10:22:41.19",
+            "Dec": "+15:56:20.11",
+            "redshift": "0.044",
+            "Type": "Ia",
+            "Time": "+5d",
+            "Date": "2018 May 08 UT"
+        },
+        {
+            "Name": "ASASSN-18jp",
+            "IAU Name": "AT2018bfr",
+            "RA": "11:04:47.50",
+            "Dec": "-15:37:59.20",
+            "redshift": "0.072",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2018 May 08 UT"
+        },
+        {
+            "Name": "C17-0118",
+            "IAU Name": "AT2018bft",
+            "RA": "13:53:19.15",
+            "Dec": "-04:51:31.87",
+            "redshift": "0.075",
+            "Type": "Ia",
+            "Time": "-3d",
+            "Date": "2018 May 08 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classification of optical transients",
+    "Time": "2018 May 08 UT",
+    "Date": "2018 May 08 UT",
+    "Telescope": "Shane 3-m telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Not specified"
+}

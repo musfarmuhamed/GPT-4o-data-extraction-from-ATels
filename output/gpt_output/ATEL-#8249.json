@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15rw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "03.7",
+            "Date": "2015 Nov"
+        },
+        {
+            "Name": "GALEXASC J021558.44+121415.2",
+            "RA": "021558.44",
+            "Dec": "+121415.2",
+            "redshift": "0.0189",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #8212",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "ATEL #8239"
+    ],
+    "Event Type": "Optical spectrum observation",
+    "Time": "03.7",
+    "Date": "2015 Nov",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of NAOC"
+}

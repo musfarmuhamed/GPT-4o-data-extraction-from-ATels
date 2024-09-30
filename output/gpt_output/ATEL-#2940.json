@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "20:18",
+            "Date": "2010-10-13"
+        },
+        {
+            "Name": "Swift/XRT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#2919",
+        "#2920",
+        "#2922",
+        "#2924",
+        "#2929",
+        "#2932",
+        "#2933",
+        "#2937",
+        "#2939"
+    ],
+    "Event Type": "INTEGRAL ToO observation",
+    "Time": "00:05",
+    "Date": "2010-10-15",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

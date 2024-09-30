@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "12 56 11.167",
+            "Dec": "-05 47 21.52",
+            "redshift": "0.5632",
+            "Type": "flat-spectrum radio quasar",
+            "Time": "03:18 UT",
+            "Date": "2018-01-18"
+        }
+    ],
+    "References": [
+        "Marziani et al. 1996, ApJS, 104, 37",
+        "ATel #11189",
+        "ATel #11190",
+        "Villata et al., A&AS 130, 305 (1998)",
+        "Landessternwarte Koenigstuhl",
+        "https://www.lsw.uni-heidelberg.de/projects/extragalactic/charts/1253-055.html"
+    ],
+    "Event Type": "Observation",
+    "Time": "03:18 UT",
+    "Date": "2018-01-18",
+    "Telescope": "0.3 m telescope",
+    "Instrument": "Johnson-Cousins R filter, STL-6303 SBig CCD",
+    "Observatory": "Astronomical Observatory of the University of Siena"
+}

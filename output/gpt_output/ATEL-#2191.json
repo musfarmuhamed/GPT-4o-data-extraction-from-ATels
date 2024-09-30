@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": "11:15:15",
+            "Date": "2009 September 5"
+        },
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": "2009 May 6"
+        },
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": "2008 March 15"
+        },
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": "2007 October 16"
+        }
+    ],
+    "References": [
+        "Romano et al, ATel #2044",
+        "Sidoli et al. 2009, MNRAS, in press, arXiv:0907.4041",
+        "Barthelmy et al., GCN #7419"
+    ],
+    "Event Type": "outburst",
+    "Time": "11:15:15",
+    "Date": "2009 September 5",
+    "Telescope": "Swift",
+    "Instrument": [
+        {
+            "Name": "BAT",
+            "Observatory": "Swift"
+        },
+        {
+            "Name": "XRT",
+            "Observatory": "Swift"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2012fr",
+            "RA": "J03333599",
+            "Dec": "-3607377",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2012-10-31"
+        },
+        {
+            "Name": "SN2012fr",
+            "RA": "J03333599",
+            "Dec": "-3607377",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2012-11-02"
+        }
+    ],
+    "References": [
+        "ATels #4523",
+        "ATels #4525",
+        "ATels #4535"
+    ],
+    "Event Type": "Observations",
+    "Time": null,
+    "Date": [
+        "2012-10-31",
+        "2012-11-02"
+    ],
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "Nearby Supernova Factory II"
+}

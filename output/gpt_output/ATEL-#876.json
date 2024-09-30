@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4332 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "peculiar nova",
+            "Time": "5630-7350A",
+            "Date": "2006 August 4"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eruptive variable star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1006/7 in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eruptive variable star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kimeswenger, 2006, AN V.327, 44",
+        "Banergee et al., 2003, ApJ V.598, L31"
+    ],
+    "Event Type": "spectra",
+    "Time": "5630-7350A",
+    "Date": "2006 August 4",
+    "Telescope": "Russian 6-m telescope",
+    "Instrument": null,
+    "Observatory": "SAO"
+}

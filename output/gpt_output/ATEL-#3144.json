@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624 (aka SAX J1709.1-3624)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary system and possible black hole candidate",
+            "Time": null,
+            "Date": "28 Jan 2011 (MJD 55589)"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible black hole candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17091-3624 (2007 Outburst)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible black hole candidate",
+            "Time": null,
+            "Date": "July 2007 (MJD 54296)"
+        }
+    ],
+    "References": [
+        "Kuulkers et al, ATel #149",
+        "Capitanio, F. et al, ApJ 690:1621, 2009"
+    ],
+    "Event Type": "Renewed activity",
+    "Time": null,
+    "Date": "03 Feb 2011",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

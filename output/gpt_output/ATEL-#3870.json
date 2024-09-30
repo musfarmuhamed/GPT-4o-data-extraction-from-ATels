@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER013902.45+613055.6",
+            "RA": "01h 39m 02.45s",
+            "Dec": "+61d 30m 55.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-01-13.87624 UT",
+            "Date": "2012-01-13"
+        },
+        {
+            "Name": "MASTER161755.05+563552.6",
+            "RA": "16h 17m 55.05s",
+            "Dec": "+56d 35m 52.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-01-15.97579 UT",
+            "Date": "2012-01-15"
+        },
+        {
+            "Name": "MASTER040821.91+141515.0",
+            "RA": "04h 08m 21.91s",
+            "Dec": "+14d 15m 15.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-01-18.57602 UT",
+            "Date": "2012-01-18"
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/MASTER01390245+6130556/OT013902.45+613055.jpg",
+        "http://observ.pereplet.ru/images/MASTER161755.05+563552.6/MASTER161755.05+563552.6.png",
+        "http://observ.pereplet.ru/images/OT040821+141515/MASTER040821.91+141515.jpg"
+    ],
+    "Event Type": "OT source discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVV-NOV-018",
+            "RA": "16:13:03.44",
+            "Dec": "-51:41:51.91",
+            "redshift": null,
+            "Type": "nova-like",
+            "Time": "00:00",
+            "Date": "2014-05-10"
+        },
+        {
+            "Name": "VVV-NOV-019",
+            "RA": "14:00:45.37",
+            "Dec": "-61:33:39.95",
+            "redshift": null,
+            "Type": "nova-like",
+            "Time": "00:00",
+            "Date": "2014-05-11"
+        }
+    ],
+    "References": [
+        "Contreras Pena et al. 2016, arXiv:1602.06267",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "nova discoveries",
+    "Time": null,
+    "Date": null,
+    "Telescope": "VISTA telescope",
+    "Instrument": "FIRE",
+    "Observatory": "Magellan Observatory"
+}

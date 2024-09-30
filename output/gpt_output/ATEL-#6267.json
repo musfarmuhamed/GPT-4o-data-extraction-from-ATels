@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dc",
+            "RA": "2:18:37.82",
+            "Dec": "+33:37:01.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-06-24.61",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J02183825+3336556",
+            "RA": null,
+            "Dec": null,
+            "redshift": "no redshift",
+            "Type": "dwarf galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients"
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-06-24.61",
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

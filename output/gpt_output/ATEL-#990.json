@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14175-4641",
+            "RA": "14h17m03.8s",
+            "Dec": "-46d41m39.7s",
+            "redshift": "0.076",
+            "Type": "Seyfert 2 galaxy (LEDA 511869)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J14552-5133",
+            "RA": "14h55m17.93s",
+            "Dec": "-51d34m13.27s",
+            "redshift": "0.016",
+            "Type": "Narrow Line Seyfert 1 galaxy (WKK4438)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16351-5806",
+            "RA": "16h35m13.17s",
+            "Dec": "-58d04m49.68s",
+            "redshift": "0.009",
+            "Type": "Seyfert 2 galaxy (ESO 137-34)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Masetti et al., 2006, A&A, 459, 21; Kuiper et al., 2006, Atel 684",
+    "Event Type": "Observation and detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": "X-ray telescope",
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": "13:31:36",
+            "Date": "2008-07-17"
+        }
+    ],
+    "References": [
+        "Markwardt et al., ATEL #1569",
+        "Degenaar et al., ATEL #1572",
+        "Barthelmy et al., GCN Circ. #7985",
+        "Woosley et al 2004, ApJS 151 75"
+    ],
+    "Event Type": "thermonuclear X-ray burst",
+    "Time": "13:31:36",
+    "Date": "2008-07-17",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

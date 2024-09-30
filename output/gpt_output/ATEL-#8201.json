@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J103747.94-270507.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:21:41",
+            "Date": "2015-10-20"
+        },
+        {
+            "Name": "IC 2597",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2007cv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2008"
+        }
+    ],
+    "References": [
+        "Popova et al. 2015, ATEL#8196",
+        "Brown et al 2014, Ap&SS, 354, 89, arXiv:1407.3808",
+        "Poole et al. 2008",
+        "Breeveld et al. 2011"
+    ],
+    "Event Type": null,
+    "Time": "21:21:41",
+    "Date": "2015-10-20",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

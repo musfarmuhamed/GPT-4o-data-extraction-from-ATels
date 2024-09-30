@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-012",
+            "RA": "07:27:43.45",
+            "Dec": "-69:20:35.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20140210"
+        },
+        {
+            "Name": "MLS140111-122630-031800",
+            "RA": "12:26:30.48",
+            "Dec": "-03:18:00.0",
+            "redshift": "0.612",
+            "Type": "AGN",
+            "Time": null,
+            "Date": "20130518"
+        },
+        {
+            "Name": "LSQ14vr",
+            "RA": "12:44:32.69",
+            "Dec": "-23:57:20.4",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "20140122"
+        },
+        {
+            "Name": "LSQ14vv",
+            "RA": "14:04:26.66",
+            "Dec": "-19:41:38.3",
+            "redshift": "0.077",
+            "Type": null,
+            "Time": null,
+            "Date": "20140217"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Valenti et al.",
+            "ATel": "#4037",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Author": "Hadjiyska et al.",
+            "ATel": "#3812"
+        },
+        {
+            "Author": "Wyrzykowski et al.",
+            "Publication": "2012",
+            "ATel": "#4495"
+        },
+        {
+            "Author": "Blondin & Tonry",
+            "Publication": "2007",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024"
+        },
+        {
+            "Author": "Harutyunyan et al.",
+            "Publication": "2008",
+            "Journal": "A&A",
+            "Volume": "488",
+            "Page": "383"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2014 Feb 21 UT",
+    "Date": "2014 Feb 21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1543-564",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BHC transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Negoro et al., ATEL #3300",
+        "Kennea et al., ATEL #3331",
+        "Munoz-Darias ATEL #3341",
+        "Munoz-Darias, ATEL #3355"
+    ],
+    "Event Type": "soft state entry",
+    "Time": null,
+    "Date": "MJD 55696.7",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

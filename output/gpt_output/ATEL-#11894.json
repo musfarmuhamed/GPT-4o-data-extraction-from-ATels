@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018ecf",
+            "RA": "14:06:34.39",
+            "Dec": "-34:18:03.7",
+            "redshift": "0.012",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018-07-23"
+        },
+        {
+            "Name": "SN2018dyv",
+            "RA": "19:43:17.32",
+            "Dec": "-54:34:14.4",
+            "redshift": "0.041",
+            "Type": "IIn",
+            "Time": "Null",
+            "Date": "2018-07-14"
+        },
+        {
+            "Name": "SN2018dzt",
+            "RA": "21:27:52.80",
+            "Dec": "-51:19:55.7",
+            "redshift": "0.053",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018-07-17"
+        },
+        {
+            "Name": "SN2018ebu",
+            "RA": "21:57:19.87",
+            "Dec": "-45:34:39.2",
+            "redshift": "0.061",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018-07-22"
+        },
+        {
+            "Name": "SN2018ecg",
+            "RA": "00:00:20.89",
+            "Dec": "-36:28:48.0",
+            "redshift": "0.104",
+            "Type": "Ic",
+            "Time": "Null",
+            "Date": "2018-07-10"
+        },
+        {
+            "Name": "SN2018edn",
+            "RA": "00:43:35.29",
+            "Dec": "-70:33:01.0",
+            "redshift": "0.066",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018-07-22"
+        },
+        {
+            "Name": "SN2018ebx",
+            "RA": "00:55:26.41",
+            "Dec": "-74:18:42.1",
+            "redshift": "0.034",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018-07-21"
+        },
+        {
+            "Name": "SN2018ecb",
+            "RA": "02:09:28.49",
+            "Dec": "-35:54:52.9",
+            "redshift": "0.061",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018-07-22"
+        },
+        {
+            "Name": "SN2018cqg",
+            "RA": "03:21:13.77",
+            "Dec": "-57:13:31.2",
+            "redshift": "0.020",
+            "Type": "Ibc",
+            "Time": "Null",
+            "Date": "2018-06-16"
+        }
+    ],
+    "References": "Tonry et al. (2011, PASP, 123, 58), Tonry et al. (ATel #8680), Shappee et al. (2014, ApJ, 788, 48), http://www.astronomy.ohio-state.edu/~assassin/index.shtml, http://gsaweb.ast.cam.ac.uk/alerts, http://bosssupernova.com/",
+    "Event Type": "Supernova classifications",
+    "Time": "Null",
+    "Date": "2018-07-25",
+    "Telescope": "4.1m SOAR Telescope",
+    "Instrument": "Goodman High Throughput Spectrograph",
+    "Observatory": "Null"
+}

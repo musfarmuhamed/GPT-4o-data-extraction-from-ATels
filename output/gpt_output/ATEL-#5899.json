@@ -1,0 +1,116 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163152.63+300645.1",
+            "RA": "16h 31m 52.63s",
+            "Dec": "+30d 06m 45.1s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "19:29:47.530176",
+            "Date": "2014-02-16"
+        },
+        {
+            "Name": "SDSS J163152.66+300646.1",
+            "RA": "16h 31m 52.66s",
+            "Dec": "+30d 06m 46.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J163152.7+300646",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J163152.6+300647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1SXPS J163152.7+300643",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J091013.77+461735.4",
+            "RA": "09h 10m 13.77s",
+            "Dec": "+46d 17m 35.4s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "19:01:07.790416",
+            "Date": "2014-02-17"
+        },
+        {
+            "Name": "PGC 82329",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0267",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J09101496+4617356",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J091014.98+461735.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J041758.27-025018.8",
+            "RA": "04h 17m 58.27s",
+            "Dec": "-02d 50m 18.8s",
+            "redshift": null,
+            "Type": "QSO (PKS B0415-029) Flare",
+            "Time": "16:10:18.936800",
+            "Date": "2014-02-15"
+        },
+        {
+            "Name": "J0417-0250",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J163152+300645-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/163152.63300645.1.png",
+        "http://master.sai.msu.ru/static/OT/J091013+461735-Tunka-sum.jpg",
+        "http://master.sai.msu.ru/static/OT/091013.77461735.4.png",
+        "http://master.sai.msu.ru/static/OT/041758.27-025018.8.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

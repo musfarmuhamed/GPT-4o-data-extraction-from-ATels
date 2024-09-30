@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004126.22+414350.0",
+            "RA": "00:41:26.22",
+            "Dec": "+41:43:50.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "02.12339",
+            "Date": "2016-09-02"
+        },
+        {
+            "Name": "M31N 2013-11b",
+            "RA": "00:41:26.22",
+            "Dec": "+41:43:50.0",
+            "redshift": null,
+            "Type": "red LPV",
+            "Time": "01.025",
+            "Date": "2013-12-01"
+        }
+    ],
+    "References": [
+        "ATel #9470",
+        "ATel #5569",
+        "ATel #5640",
+        "ATel #5744"
+    ],
+    "Event Type": "Transient/Variable",
+    "Time": "09.08",
+    "Date": "2016-09-09",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": [
+        {
+            "Name": "SPRAT spectrograph",
+            "Type": "Spectroscopy"
+        },
+        {
+            "Name": "IO:O optical imager",
+            "Type": "Photometry"
+        }
+    ],
+    "Observatory": null
+}

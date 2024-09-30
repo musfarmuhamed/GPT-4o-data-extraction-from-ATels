@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMTJ13494831-0658174",
+            "RA": "13:49:48.31",
+            "Dec": "-06:58:17.4",
+            "redshift": 0.075,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Aug 17"
+        },
+        {
+            "Name": "PSNJ19251269-5336028",
+            "RA": "19:25:12.69",
+            "Dec": "-53:36:02.8",
+            "redshift": 0.054,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Aug 17"
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Jones et al. 2009, 6dF Galaxy Survey",
+        "Fairall 1983, MNRAS, 203, 47",
+        "Donzelli & Pastoriza 1997, ApJS, 111, 181"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2015 Aug 17",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

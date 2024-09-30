@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J1703-6212",
+            "RA": 255.902255,
+            "Dec": -62.2111133,
+            "redshift": 1.755,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "Mar 29, 2015"
+        },
+        {
+            "Name": "3EG J1659-6251",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source (not noted as AGN)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1703.6-6211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fey et al., 2004, AJ, 127, 1791; Titov et al., 2011, AJ, 142, 165; Hartman et al., 1999, ApJS, 123, 79; Acero et al. 2015, arXiv:1501.02003",
+    "Event Type": "Increasing gamma-ray flux observation",
+    "Time": "Daily averaged",
+    "Date": "Mar 29, 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

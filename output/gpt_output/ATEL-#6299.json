@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SGR",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SNR G57.2+0.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR1937+21",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Millisecond Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings et al. ATel #6294",
+        "Campana et al. GCN 16535",
+        "Gaensler GCN 16533",
+        "Backer et al. 1982"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-BAT",
+    "Instrument": "Swift-XRT",
+    "Observatory": "Swift"
+}

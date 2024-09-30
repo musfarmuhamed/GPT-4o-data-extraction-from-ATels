@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14cv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "22.9",
+            "Date": "June 22"
+        },
+        {
+            "Name": "ASASSN-14cv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "23.1",
+            "Date": "June 23"
+        }
+    ],
+    "References": [
+        "vsnet-alert 17395",
+        "vsnet-alert 17402",
+        "vsnet-alert 17404"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "22.9",
+        "23.1"
+    ],
+    "Date": [
+        "June 22",
+        "June 23"
+    ],
+    "Telescope": [
+        "0.23-m Schmidt-Cassegrain",
+        "0.31-m DK"
+    ],
+    "Instrument": [
+        "Lhires III spectrograph",
+        "slit spectroscope 600 l/mm"
+    ],
+    "Observatory": null
+}

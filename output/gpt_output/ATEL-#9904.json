@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016jah",
+            "RA": "04:14:48.15",
+            "Dec": "+35:10:57.80",
+            "redshift": 0.021,
+            "Type": "IIp",
+            "Time": "-5d",
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016jav",
+            "RA": "06:39:59.94",
+            "Dec": "+53:46:53.26",
+            "redshift": 0.057,
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016izg",
+            "RA": "07:53:12.80",
+            "Dec": "+12:53:55.95",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016jax",
+            "RA": "08:32:53.77",
+            "Dec": "+42:08:01.63",
+            "redshift": 0.035,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016jaw",
+            "RA": "08:48:21.89",
+            "Dec": "+24:31:51.93",
+            "redshift": 0.043,
+            "Type": "Ia",
+            "Time": "+8d",
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016izk",
+            "RA": "08:49:04.76",
+            "Dec": "+14:24:50.63",
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016izw",
+            "RA": "09:57:41.20",
+            "Dec": "-03:12:46.15",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "-6d",
+            "Date": "2016-12-27"
+        },
+        {
+            "Name": "AT2016jag",
+            "RA": "15:23:19.79",
+            "Dec": "-04:09:19.50",
+            "redshift": 0.007,
+            "Type": "Ib",
+            "Time": "+1 month",
+            "Date": "2016-12-27"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2016-12-27",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": null
+}

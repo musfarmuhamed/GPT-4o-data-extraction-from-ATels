@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16pk (AT 2016jdl)",
+            "RA": "12:27:39.911",
+            "Dec": "+40:36:53.36",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2016-12-29.55",
+            "Date": "2016-12-29"
+        },
+        {
+            "Name": "ASASSN-16pl (AT 2016jdv)",
+            "RA": "14:14:31.630",
+            "Dec": "+03:11:20.33",
+            "redshift": "0.026934",
+            "Type": "supernova",
+            "Time": "2016-12-29.61",
+            "Date": "2016-12-29"
+        }
+    ],
+    "References": [
+        "SDSS J122739.96+403651.3",
+        "IC 0988"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2016-12-29",
+    "Date": "2016-12-29",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

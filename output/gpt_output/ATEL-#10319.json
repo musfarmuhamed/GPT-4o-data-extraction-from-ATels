@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017dcc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0245,
+            "Type": "broad-lined type Ic SN",
+            "Time": "23:04:07 UT",
+            "Date": "April 23, 2017"
+        }
+    ],
+    "References": [
+        "Guiterrez et al., ATel #10313",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "23:04:07 UT",
+        "07:31 UT"
+    ],
+    "Date": "April 23, 2017",
+    "Telescope": [
+        "GTC",
+        "Swift"
+    ],
+    "Instrument": [
+        "grism 1000B",
+        "XRT and UVOT"
+    ],
+    "Observatory": [
+        "La Palma, Canary Islands, Spain",
+        "Swift space telescope"
+    ]
+}

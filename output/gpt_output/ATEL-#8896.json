@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16dm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-P SN near peak",
+            "Time": "UT 2016 April 2",
+            "Date": "2016-04-02"
+        },
+        {
+            "Name": "ASASSN-16dn",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.012 +/- 0.003",
+            "Type": "normal Type Ia SN before maximum light",
+            "Time": "UT 2016 April 2",
+            "Date": "2016-04-02"
+        },
+        {
+            "Name": "ASASSN-16dp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN about a week after maximum",
+            "Time": "UT 2016 April 2",
+            "Date": "2016-04-02"
+        }
+    ],
+    "References": [
+        "ATel #8882",
+        "ATel #8885",
+        "ATel #8892",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "Optical spectra",
+    "Time": "UT 2016 April 2",
+    "Date": "2016-04-02",
+    "Telescope": "F. L. Whipple Observatory 1.5-m",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

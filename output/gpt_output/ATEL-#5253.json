@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J19150199+0719471",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": null,
+            "Date": "2013 May 31"
+        }
+    ],
+    "References": [
+        {
+            "CBET": 3554,
+            "URL_CBAT": "http://www.cbat.eps.harvard.edu/unconf/followups/J19150199+0719471.html",
+            "vsnet-alert 15768": "referenced",
+            "vsnet-alert 15779": "referenced",
+            "vsnet-alert 15817": "referenced",
+            "vsnet-alert 15850": "referenced"
+        }
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": null,
+    "Date": [
+        "June 11-14",
+        "June 28"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

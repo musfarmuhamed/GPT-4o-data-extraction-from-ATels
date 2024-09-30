@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J13041770-1020012",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01037",
+            "Type": "Type II supernova",
+            "Time": "03.73",
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "NGC 4939",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01037",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005cs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova template",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectrum observation and classification",
+    "Time": "03.73",
+    "Date": "2014-01-03",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0728-25 (X 0726-260)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nakajima et al. (2016, ATel #9820)",
+        "Krimm et al. 2013, ApJS, 209, 14",
+        "Corbet & Peele 1997, ApJ, 489, L83"
+    ],
+    "Event Type": "X-ray brightening investigation",
+    "Time": null,
+    "Date": {
+        "start": "2005-02-15",
+        "end": "2016-12-02"
+    },
+    "Telescope": "Swift BAT",
+    "Instrument": "BAT transient monitor",
+    "Observatory": "Swift Observatory"
+}

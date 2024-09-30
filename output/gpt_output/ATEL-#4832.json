@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2013ab",
+            "RA": "14h32m44.49s",
+            "Dec": "+09\u00b053'12.3\"",
+            "redshift": null,
+            "Type": "Type II Supernova",
+            "Time": "02:31:55",
+            "Date": "2013-02-21"
+        }
+    ],
+    "References": [
+        "CBET 3422",
+        "Atel #4823",
+        "Atel #4824"
+    ],
+    "Event Type": "Swift-ToO Observation",
+    "Time": "02:31:55",
+    "Date": "2013-02-21",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT, Swift/UVOT",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

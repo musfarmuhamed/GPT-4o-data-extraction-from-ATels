@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New gamma-ray source",
+            "RA": "76.89 deg",
+            "Dec": "-56.70 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "Oct 31, 2014"
+        },
+        {
+            "Name": "PMN J0508-5628",
+            "RA": "05h08m24.52s",
+            "Dec": "-56d28m28.6s",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mauch et al. 2003, MNRAS, 342, 1117",
+    "Event Type": "gamma-ray emission",
+    "Time": null,
+    "Date": "Oct 31, 2014",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15dfs",
+            "RA": "23:59:07.40",
+            "Dec": "+46:27:27.53",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-10-03.35"
+        },
+        {
+            "Name": "iPTF15dgu",
+            "RA": "01:45:28.79",
+            "Dec": "+40:07:59.08",
+            "redshift": 0.13,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-10-03.42"
+        },
+        {
+            "Name": "iPTF15dht",
+            "RA": "23:55:40.93",
+            "Dec": "+33:54:39.89",
+            "redshift": 0.08,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-10-10.35"
+        },
+        {
+            "Name": "iPTF15dik",
+            "RA": "00:00:30.84",
+            "Dec": "+04:30:19.01",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-10-11.29"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        "Keck1",
+        "Keck2"
+    ],
+    "Instrument": [
+        "LRIS",
+        "DEIMOS"
+    ],
+    "Observatory": "Null"
+}

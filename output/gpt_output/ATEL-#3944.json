@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1822.3-1606",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star",
+            "Time": "55757.0",
+            "Date": "2011-07-14"
+        }
+    ],
+    "References": [
+        "Cummings et al. ATel. #3488",
+        "Kuiper et al. 2011",
+        "Livingstone et al. 2011"
+    ],
+    "Event Type": "Burst detection",
+    "Time": null,
+    "Date": "2011-07-14",
+    "Telescope": [
+        "RXTE",
+        "Swift",
+        "Suzaku",
+        "XMM-Newton"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

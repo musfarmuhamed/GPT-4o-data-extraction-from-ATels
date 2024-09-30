@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016cdg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.056,
+            "Type": "Ia",
+            "Time": "UT 19.75",
+            "Date": "2016-05-19"
+        },
+        {
+            "Name": "CGCG 301-013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "observation",
+    "Time": "UT 19.75",
+    "Date": "2016-05-19",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

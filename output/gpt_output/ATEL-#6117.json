@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J210316.39+314913.6",
+            "RA": "21h 03m 16.39s",
+            "Dec": "+31d 49m 13.6s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova)",
+            "Time": "2014-05-03.84978 UT",
+            "Date": "2014-05-03"
+        },
+        {
+            "Name": "USNO-A2.0 1200-16918984",
+            "RA": "21h 03m 16.46s",
+            "Dec": "+31d 49m 14.1s",
+            "redshift": null,
+            "Type": "Blue Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1218-0550734",
+            "RA": "21h 03m 16.453s",
+            "Dec": "+31d 49m 13.98s",
+            "redshift": null,
+            "Type": "Blue Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J210316+314913-OVR.jpg, http://master.sai.msu.ru/static/OT/J210316+314913-POSS-B.jpg, http://master.sai.msu.ru/static/OT/210316.39314913.6.png",
+    "Event Type": "Auto-detection of Cataclysmic Variable (dwarf nova)",
+    "Time": "2014-05-03.84978 UT",
+    "Date": "2014-05-03",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

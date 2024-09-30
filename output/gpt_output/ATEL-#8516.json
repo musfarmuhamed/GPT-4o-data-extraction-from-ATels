@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg (GS 2023+338)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole binary X-ray transient",
+            "Time": "Summer",
+            "Date": "2015"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "source",
+            "Time": "Triggered Time",
+            "Date": "21 December 2015"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "source",
+            "Time": "Triggered Time",
+            "Date": "23 December 2015"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole",
+            "Time": null,
+            "Date": "26 December 2015 to 4 January 2016"
+        }
+    ],
+    "References": [
+        "Jenke 2015, GCN 18719",
+        "Barthelmy et al. 2015, GCN 18716",
+        "ATels #8475, #8500, #8510, #8512"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Fermi",
+        "Swift",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "Gamma Ray Burst Monitor (GBM)",
+        "Burst Alert Telescope (BAT)",
+        "OMC",
+        "ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

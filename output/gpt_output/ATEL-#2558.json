@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KT Eri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2009-11-25T13:00:00Z",
+            "Date": "2009-11-25"
+        }
+    ],
+    "References": [
+        "CBET#2050",
+        "IAUC#9098",
+        "ATel#2434",
+        "ATel#2423",
+        "ATel#2418",
+        "ATel#2392",
+        "B. V. Jackson et al., 2004",
+        "P. Hick et al., 2005",
+        "P. Hick et al., 2007"
+    ],
+    "Event Type": "white light observations of the initial outburst of Nova Eridani 2009",
+    "Time": "2009-11-01T03:07:48Z",
+    "Date": "2009-11-01",
+    "Telescope": "Solar Mass Ejection Imager (SMEI)",
+    "Instrument": "Three baffled CCD cameras",
+    "Observatory": "USAF/NASA Coriolis satellite"
+}

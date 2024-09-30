@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS 1354-645",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "stellar-mass black hole",
+            "Time": "05:18:17",
+            "Date": "2015-06-10"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Brocksopp, C., et al.",
+            "Year": 2001,
+            "Journal": "MNRAS",
+            "Volume": 323,
+            "Page": 517
+        },
+        {
+            "Author": "Casares, J., et al.",
+            "Year": 2009,
+            "Journal": "ApJS",
+            "Volume": 181,
+            "Page": 238
+        },
+        {
+            "Author": "Reynolds, M. T., & Miller, J. M.",
+            "Year": 2011,
+            "Journal": "ApJ",
+            "Volume": 734,
+            "Page": "L17"
+        }
+    ],
+    "Event Type": "outburst",
+    "Time": "05:18:17",
+    "Date": "2015-06-10",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

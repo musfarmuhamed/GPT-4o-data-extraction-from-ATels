@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "1994",
+            "Date": null
+        },
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "1989",
+            "Date": null
+        },
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2005-08-31",
+            "Date": "2005-08-31"
+        },
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2005-09-01",
+            "Date": "2005-09-01"
+        }
+    ],
+    "References": [
+        "Grove et al., 1995, ApJ 438, L25",
+        "Kendziorra et al., 1994, A&A 291, L31",
+        "ATel #504",
+        "ATel #557",
+        "ATel #595",
+        "ATel #597",
+        "Kreykenbohm et al., 2004, A&A 427, 975"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Integral",
+    "Instrument": [
+        "ISGRI",
+        "SPI"
+    ],
+    "Observatory": null
+}

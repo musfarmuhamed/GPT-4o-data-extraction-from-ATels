@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016P",
+            "RA": "13:57.31.13",
+            "Dec": "+06:05:51.6",
+            "redshift": null,
+            "Type": "Ic-BL",
+            "Time": "Jan 20.9 UT",
+            "Date": null
+        }
+    ],
+    "References": "Zhang & Wang 2016, Atel #8563",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift",
+        "0.9-m OSN telescope"
+    ],
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": [
+        "Granada, Spain"
+    ]
+}

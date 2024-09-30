@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J17143828+4340517",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.031,
+            "Type": "type-Ia supernova",
+            "Time": "05.55UT",
+            "Date": "November 05",
+            "Expansion Velocity": "10,500 km/sec"
+        },
+        {
+            "Name": "MASTER OT J011330.63+493634.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "06.77UT",
+            "Date": "November 06",
+            "Expansion Velocity": "10,000 km/sec"
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "ATel 6670"
+    ],
+    "Event Type": "classification of two supernovae",
+    "Time": [
+        "November 05.55UT",
+        "November 06.77UT"
+    ],
+    "Date": [
+        "November 05",
+        "November 06"
+    ],
+    "Telescope": "2m Himalayan Chandra Telescope",
+    "Instrument": "+HFOSC",
+    "Observatory": "Indian Astronomical Observatory"
+}

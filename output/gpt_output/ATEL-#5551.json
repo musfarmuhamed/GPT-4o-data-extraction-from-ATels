@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1908+094",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "14:22-18:19 UT",
+            "Date": "2013-11-04"
+        },
+        {
+            "Name": "XTE J1908+094",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "14:27-20:24 UT",
+            "Date": "2013-11-05"
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #5523",
+        "Atel #5529",
+        "Miller-Jones et al. Atel #5530",
+        "Rushton et al. Atel #5532",
+        "Negoro et al. (Atel #5549)",
+        "review Fender & Belloni, 2012, Science, 337, 540"
+    ],
+    "Event Type": "hard-to-soft state transition",
+    "Time": null,
+    "Date": "2013-11-05",
+    "Telescope": "AMI",
+    "Instrument": null,
+    "Observatory": "Cambridge, UK"
+}

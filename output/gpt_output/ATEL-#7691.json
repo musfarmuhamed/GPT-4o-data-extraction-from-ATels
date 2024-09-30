@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lp",
+            "RA": "01:49:10.32",
+            "Dec": "+05:38:23.32",
+            "redshift": 0.017686,
+            "Type": "Transient",
+            "Time": "2015-06-20.61",
+            "Date": "2015-06-20"
+        },
+        {
+            "Name": "Mrk 0576",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017686,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovered a new transient source, most likely a bright supernova",
+    "Time": "2015-06-20.61",
+    "Date": "2015-06-20",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope, LCOGT 1-m robotic telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii, Cerro Tololo, Chile"
+}

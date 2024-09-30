@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17453-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Granat 1741.9-2853",
+            "RA": 266.265,
+            "Dec": -28.92,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2007-02-15 to 2007-02-20"
+        },
+        {
+            "Name": "Swift J174535.5-290135.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2007-02-17 to 2007-02-20"
+        }
+    ],
+    "References": [
+        "ATel #1005",
+        "ATel #1006",
+        "Muno et al. 2003, ApJ 598, 474",
+        "Kuulkers et al. 2007, A&A, in press, astro-ph/0701244"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": [
+        "INTEGRAL IBIS/ISGRI",
+        "Swift/XRT",
+        "JEM-X"
+    ],
+    "Observatory": [
+        "INTEGRAL",
+        "Swift"
+    ]
+}

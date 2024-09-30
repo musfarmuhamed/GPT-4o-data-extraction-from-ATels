@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15S2mpg",
+            "RA": "02:43:52.74",
+            "Dec": "-01:13:45.4",
+            "redshift": "0.186",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 03"
+        },
+        {
+            "Name": "DES15S2mpl",
+            "RA": "02:46:53.90",
+            "Dec": "-01:09:52.4",
+            "redshift": "0.257",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 03"
+        },
+        {
+            "Name": "DES15S1lyi",
+            "RA": "02:48:51.28",
+            "Dec": "-00:09:07.9",
+            "redshift": "0.359",
+            "Type": "Ia?",
+            "Time": null,
+            "Date": "2015 Dec 03"
+        },
+        {
+            "Name": "DES15S1mjm",
+            "RA": "02:51:22.81",
+            "Dec": "-00:38:54.5",
+            "redshift": "0.26",
+            "Type": "Ia?",
+            "Time": null,
+            "Date": "2015 Dec 03"
+        }
+    ],
+    "References": [
+        "ATEL #4668",
+        "Saunders et al. 2004, SPIE, 5492, 389",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell and Wang, 2002, BAAS, 34, 1256"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph",
+    "Observatory": null
+}

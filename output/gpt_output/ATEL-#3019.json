@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Bol 126",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": "2007 until 2010 Oct. 11",
+            "Date": "2010-10-12.48"
+        },
+        {
+            "Name": "M31N 2007-06b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2007-06"
+        }
+    ],
+    "References": [
+        "ATel #3013",
+        "Massey et al. 2006, AJ, 131, 2478",
+        "Pietsch et al. 2005, A&A, 442, 879",
+        "Shafter & Quimby 2007, ApJ, 671, L121",
+        "Henze et al. 2009, A&A, 500, 769"
+    ],
+    "Event Type": "nova outburst",
+    "Time": "2010 Oct. 12.48",
+    "Date": "2010-10-12",
+    "Telescope": "Super-LOTIS",
+    "Instrument": "E2V CCD",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

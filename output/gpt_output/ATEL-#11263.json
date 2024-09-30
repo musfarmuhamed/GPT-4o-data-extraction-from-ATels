@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary (LMXB)",
+            "Time": null,
+            "Date": "2017 October 11"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary (LMXB)",
+            "Time": null,
+            "Date": "2017 October 19"
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2015, JHEA 7, 137",
+        "ATel #10859",
+        "ATel #10900",
+        "Evans et al. 2007, A&A 469, 379; 2009, MNRAS 397, 1177",
+        "Trap et al. 2009, A&A 504, 501"
+    ],
+    "Event Type": "X-ray transients",
+    "Time": null,
+    "Date": "2018 February 4",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": null
+}

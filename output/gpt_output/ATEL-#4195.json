@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1910.2-0546",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high energy transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Field comparison star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "comparison star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL#4139",
+        "ATEL#4140",
+        "ATEL#4144",
+        "ATEL#4145",
+        "ATEL#4146"
+    ],
+    "Event Type": "Optical Photometry",
+    "Time": "HJD 56080.945, HJD 56082.930, HJD 5683.805",
+    "Date": "June 1st, June 3rd, June 4th",
+    "Telescope": "0.9m SMARTS Consortium telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo Inter-American Observatory in Chile"
+}

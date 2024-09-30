@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RXTE J1747-274",
+            "RA": "17:48:21",
+            "Dec": "-27:21:08",
+            "redshift": null,
+            "Type": null,
+            "Time": "22:09UT",
+            "Date": "May 23rd 2005"
+        },
+        {
+            "Name": "RXTE J1747-274",
+            "RA": "17:46:58",
+            "Dec": "-27:17:04",
+            "redshift": null,
+            "Type": null,
+            "Time": "22:09UT",
+            "Date": "May 23rd 2005"
+        },
+        {
+            "Name": "RXTE J1747-274",
+            "RA": "17:46:42",
+            "Dec": "-27:34:49",
+            "redshift": null,
+            "Type": null,
+            "Time": "22:09UT",
+            "Date": "May 23rd 2005"
+        },
+        {
+            "Name": "RXTE J1747-274",
+            "RA": "17:48:06",
+            "Dec": "-27:38:12",
+            "redshift": null,
+            "Type": null,
+            "Time": "22:09UT",
+            "Date": "May 23rd 2005"
+        },
+        {
+            "Name": "IGR J17473-2721",
+            "RA": "17:47:17.8",
+            "Dec": "-27:20:39",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt et al., ATEL #498; Grebenev et al., ATEL #467",
+    "Event Type": "observation",
+    "Time": "22:09UT",
+    "Date": "May 23rd 2005",
+    "Telescope": "Swift",
+    "Instrument": "XRT (Photon Counting mode)",
+    "Observatory": "Swift observatory"
+}

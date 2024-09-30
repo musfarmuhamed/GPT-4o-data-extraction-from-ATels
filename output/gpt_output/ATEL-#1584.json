@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": "20h18m38.90s",
+            "Dec": "+40d40'58.5\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "09hr UT",
+            "Date": "May 30 and June 3, 2008"
+        },
+        {
+            "Name": "IGR J2018+4043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1547",
+        "ATel #1492",
+        "Dubner et al. ATel #1518",
+        "Bykov et al. 2006 ApJL 649, L21",
+        "ATel #788",
+        "ATel #1497",
+        "ATel #1498",
+        "ATel #1497"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "09hr UT",
+    "Date": "May 30 and June 3, 2008",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

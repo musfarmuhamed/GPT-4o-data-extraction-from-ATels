@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "01:00:00",
+            "Date": "2016-09-19"
+        },
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "01:00:00",
+            "Date": "2016-09-21"
+        }
+    ],
+    "References": [
+        "ATel #9350",
+        "ATel #9450",
+        "ATel #9102",
+        "ATel #9105",
+        "ATel #9160",
+        "ATel #9513"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "01:00:00",
+    "Date": "2016-09-19",
+    "Telescope": "AGILE",
+    "Instrument": "GRID",
+    "Observatory": null
+}

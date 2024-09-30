@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2009ip",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Supernova Impostor",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Close-by source reported by Campana",
+            "RA": "22 23 09.32",
+            "Dec": "-28 56 50.2",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Smith & Mauerhan 2012, Atel #4412",
+        "Margutti & Soderberg 2012, Atel #4457",
+        "Campana (2012, ATel #4444)",
+        "Prieto et al. 2012, Atel #4439",
+        "Kalberla et al. 2005"
+    ],
+    "Event Type": "X-ray Observation",
+    "Time": "Null",
+    "Date": [
+        "Sep 25, 2012",
+        "Oct 2, 2012",
+        "Oct 8, 2012",
+        "Oct 14, 2012"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Null"
+}

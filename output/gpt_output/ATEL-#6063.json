@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J161633.80+333044.1",
+            "RA": "16h 16m 33.80s",
+            "Dec": "+33d 30m 44.1s",
+            "redshift": "Unknown",
+            "Type": "flaring quasar",
+            "Time": "06.70830 UT",
+            "Date": "2014-04-06"
+        },
+        {
+            "Name": "FIRST J161633.7+333043",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J161633+333043",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J161633.77+333043.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J161633.7+333044",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J161633.77+333043.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS J161633.9+333043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Variable Object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/161633.80333044.1.png",
+    "Event Type": "flaring quasar discovery",
+    "Time": "06.70830 UT",
+    "Date": "2014-04-06",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

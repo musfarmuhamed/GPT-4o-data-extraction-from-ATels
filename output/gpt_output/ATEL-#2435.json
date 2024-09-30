@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2010-01d",
+            "RA": "00h42m42.81s",
+            "Dec": "+41d16'14.7\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "15.52",
+            "Date": "2010-01-15"
+        },
+        {
+            "Name": "M31N 2010-01a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2010-01-25"
+        },
+        {
+            "Name": "M31N 2010-01b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2010-01-25"
+        }
+    ],
+    "References": "http://www.mpe.mpg.de/~m31novae/xray/ao8/index.php",
+    "Event Type": "Nova Discovery",
+    "Time": "15.52",
+    "Date": "2010-01-15",
+    "Telescope": "XMM-Newton",
+    "Instrument": "Optical monitor",
+    "Observatory": "XMM-Newton Observatory"
+}

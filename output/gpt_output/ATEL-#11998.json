@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J050321.63-284353.2",
+            "RA": "05h 03m 21.63s",
+            "Dec": "-28d 43m 53.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2018-08-31.06248 UT",
+            "Date": "2018-08-31"
+        },
+        {
+            "Name": "MASTER OT J010723.1-373424.7",
+            "RA": "01h 07m 23.1s",
+            "Dec": "-37d 34m 24.7s",
+            "redshift": null,
+            "Type": "Outburst",
+            "Time": "2018-08-29 02:52:16.497UT",
+            "Date": "2018-08-29"
+        }
+    ],
+    "References": [
+        "2015-02-17.87686 UT with mlim=21.2m",
+        "2017-10-14 21:25:24UT with mlim=20.0",
+        "2018-08-12 03:50:00.178 with m_OT=19.3"
+    ],
+    "Event Type": "Detection",
+    "Time": "2018-08-31.06248 UT",
+    "Date": "2018-08-31",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

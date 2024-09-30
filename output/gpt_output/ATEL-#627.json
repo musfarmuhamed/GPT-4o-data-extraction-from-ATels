@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TSS J004420.7+412311",
+            "RA": "00h44m20.7s",
+            "Dec": "+41o23'11\"",
+            "redshift": null,
+            "Type": "Optical transient",
+            "Time": "October 11.15 UT",
+            "Date": "October 11 and 12, 2023"
+        },
+        {
+            "Name": "M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://grad40.as.utexas.edu/~quimby/tss/nova7.png",
+    "Event Type": "Discovery",
+    "Time": "October 11.15 UT",
+    "Date": "October 11 and 12, 2023",
+    "Telescope": "0.45m ROTSE-IIIb",
+    "Instrument": "Unfiltered CCD images",
+    "Observatory": "McDonald Observatory"
+}

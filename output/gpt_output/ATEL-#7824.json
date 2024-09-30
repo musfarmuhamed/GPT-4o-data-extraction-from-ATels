@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mx",
+            "RA": "14h 24m 43.90s",
+            "Dec": "+26d 02m 55.4s",
+            "redshift": "0.031",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "NULL"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Tomasella et al.",
+            "Year": 2014,
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Source": "ATel",
+            "Number": 7816
+        },
+        {
+            "Source": "Bright Supernova website",
+            "URL": "http://www.rochesterastronomy.org/snimages/"
+        },
+        {
+            "Source": "The Astronomer's Telegram",
+            "URL": "NULL"
+        },
+        {
+            "Author": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Author": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Source": "Padova Asiago SN group",
+            "URL": "http://sngroup.oapd.inaf.it"
+        }
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "NULL",
+    "Date": "NULL",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110235.37+271333.0",
+            "RA": "11h 02m 35.37s",
+            "Dec": "+27d 13m 33.0s",
+            "redshift": null,
+            "Type": "UV Cet type",
+            "Time": "23:44:22.73913 UTC",
+            "Date": "2015-02-23"
+        },
+        {
+            "Name": "Sloan J110235.41+271332.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J190436.33+192828.7",
+            "RA": "19h 04m 36.33s",
+            "Dec": "+19d 28m 28.7s",
+            "redshift": null,
+            "Type": "OH MASER (Mira type)",
+            "Time": "02:00:08.345 UTC",
+            "Date": "2015-02-23"
+        },
+        {
+            "Name": "19024+1923 OH Maser",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J185302.95+091634.3",
+            "RA": "18h 53m 02.95s",
+            "Dec": "+09d 16m 34.3s",
+            "redshift": null,
+            "Type": "OH MASER (Mira type)",
+            "Time": "22:19:40.802 UTC",
+            "Date": "2015-02-21"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "Nakashima+, 2003"
+    ],
+    "Event Type": "Optical Transient",
+    "Time": "00:00:00",
+    "Date": "2015-02-23",
+    "Telescope": "MASTER-Tunka/MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

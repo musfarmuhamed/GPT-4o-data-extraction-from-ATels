@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16cfr/AT 2016jbu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0049",
+            "Type": "supernova impostor",
+            "Time": null,
+            "Date": "2016-12-01"
+        },
+        {
+            "Name": "NGC 2442",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0049",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia16cfr/",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2016-12-01",
+    "Telescope": "du Pont 2.5-m telescope, 6.5-m Magellan telescope",
+    "Instrument": "WFCCD, FIRE spectrometer",
+    "Observatory": "Las Campanas Observatory"
+}

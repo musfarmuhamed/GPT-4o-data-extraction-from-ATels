@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17jz (AT 2017fro)",
+            "RA": "17:19:55.849",
+            "Dec": "+41:40:49.32",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-07-27.37"
+        },
+        {
+            "Name": "ASASSN-17kr (AT 2017gas)",
+            "RA": "20:17:11.320",
+            "Dec": "+58:12:08.00",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-08-10.41"
+        },
+        {
+            "Name": "ASASSN-17ks (AT 2017gat)",
+            "RA": "23:53:17.032",
+            "Dec": "-32:46:32.83",
+            "redshift": "0.0231",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-08-13.33"
+        },
+        {
+            "Name": "ASASSN-17kt (AT 2017gav)",
+            "RA": "17:03:21.182",
+            "Dec": "+45:24:48.47",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-08-12.33"
+        },
+        {
+            "Name": "ASASSN-17kw (AT 2017gbk)",
+            "RA": "06:11:11.769",
+            "Dec": "-33:21:00.28",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-08-15.41"
+        },
+        {
+            "Name": "ASASSN-17kx (AT 2017gbv)",
+            "RA": "03:42:01.371",
+            "Dec": "-39:19:56.11",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-08-16.39"
+        }
+    ],
+    "References": [
+        "All Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014)",
+        "Gordon and Betty Moore Foundation through grant GBMF5490 to the Ohio State University",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)"
+    ],
+    "Event Type": "supernovae and other classes of transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "quadruple 14-cm 'Brutus' telescope",
+        "14-cm 'Cassius' telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

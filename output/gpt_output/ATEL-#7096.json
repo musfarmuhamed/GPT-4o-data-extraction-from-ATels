@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J180408.9-342058",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "34.2 ks",
+            "Date": [
+                "2015-02-16T12:46:00Z",
+                "2015-02-17T04:25:00Z"
+            ]
+        },
+        {
+            "Name": "GRO J1750-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "34.2 ks",
+            "Date": [
+                "2015-02-16T12:46:00Z",
+                "2015-02-17T04:25:00Z"
+            ]
+        },
+        {
+            "Name": "IGR J17451-3022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "20 ks",
+            "Date": [
+                "2015-02-16T12:46:00Z",
+                "2015-02-17T04:25:00Z"
+            ]
+        },
+        {
+            "Name": "IGR J17454-2919",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "19 ks",
+            "Date": [
+                "2015-02-16T12:46:00Z",
+                "2015-02-17T04:25:00Z"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #6997",
+        "ATel #7008",
+        "ATel #7039",
+        "ATel #1385",
+        "ATel #1400",
+        "ATel #6839",
+        "ATel #6451",
+        "ATel #7028",
+        "ATel #6530",
+        "ATel #6574",
+        "ATel #6602"
+    ],
+    "Event Type": "Detection of outbursts",
+    "Time": "2015-02-16T12:46:00Z to 2015-02-17T04:25:00Z",
+    "Date": "2015-02-16 to 2015-02-17",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

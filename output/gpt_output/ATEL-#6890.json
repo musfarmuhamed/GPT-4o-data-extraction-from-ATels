@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J12320498-1056010",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.134,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unknown",
+            "RA": "12:32:08.19",
+            "Dec": "-10:56:14.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings; GCN #17267",
+        "van der Horst et al.; ATel #6883, #GCN 17286",
+        "Cummings et al.; ATel #6871, GCN #17268",
+        "Levan et al.; ATel #6873, GCN #17281",
+        "Fong et al.; ATel #6881, GCN #17285",
+        "van der Horst et al.; ATel #6883, GCN #17286"
+    ],
+    "Event Type": "short/soft GRB",
+    "Time": "07.378 UT",
+    "Date": "2015 Jan 07",
+    "Telescope": "Karl G. Jansky Very Large Array",
+    "Instrument": null,
+    "Observatory": "Very Large Array (VLA)"
+}

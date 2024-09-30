@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17cpj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.012,
+            "Type": "Ic",
+            "Time": "after max",
+            "Date": "2017-10-13.12"
+        }
+    ],
+    "References": [
+        "ATel#10863",
+        "Hunter et al. 2009, A&A, 508, 371",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2017-10-17.8",
+    "Date": "2017-10-17",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Gaia Photometric Science survey"
+}

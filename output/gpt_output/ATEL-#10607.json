@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ka",
+            "RA": "01:20:55.501",
+            "Dec": "-43:08:53.53",
+            "redshift": 0.027,
+            "Type": "Type Ia supernova",
+            "Time": "2017-07-27.23",
+            "Date": "2017-07-27"
+        },
+        {
+            "Name": "ESO 244-G 019",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, ATEL #10605",
+    "Event Type": "Discovery",
+    "Time": "2017-07-27.23",
+    "Date": "2017-07-27",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

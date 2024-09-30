@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": null,
+            "Date": "October 2014"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": null,
+            "Date": "Jan 21st, 2015"
+        }
+    ],
+    "References": [
+        "ATel #6649",
+        "ATel #6960",
+        "ATel #7009",
+        "Yu & Yan 2009, ApJ, 701, 1940",
+        "Tang et al. 2011, RAA, 11, 434",
+        "Corbel et al. (2013)"
+    ],
+    "Event Type": "outburst transition",
+    "Time": null,
+    "Date": [
+        "October 2014",
+        "Jan 21st, 2015"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS160603:162117+441254",
+            "RA": "162117+441254",
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic binary",
+            "Time": "2016-06-01.616 UT",
+            "Date": "2016-06-01"
+        },
+        {
+            "Name": "2MASS J16211735+4412541",
+            "RA": "16211735+4412541",
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic binary",
+            "Time": "2016-06-01.616 UT",
+            "Date": "2016-06-01"
+        },
+        {
+            "Name": "SDSS J162117.36+441254.0",
+            "RA": "162117.36+441254.0",
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic binary",
+            "Time": "2016-06-01.616 UT",
+            "Date": "2016-06-01"
+        },
+        {
+            "Name": "CRTS J162117.3+441254",
+            "RA": "162117.3+441254",
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic binary",
+            "Time": "2016-06-01.616 UT",
+            "Date": "2016-06-01"
+        }
+    ],
+    "References": "Drake et al., ATel#9112; Palaversa et al., 2013, AJ, 146, 101; Lohr et al., 2013, A&A 549, 86; Drake et al., 2014, ApJS, 213, 9; Scaringi et al. ATel#9122; Thorstensen ATel#9141; Szkody priv. communication; Maehara, ATel#9113; Zejda & Pejcha, ATel#9132; Poole et al. 2008, MNRAS, 383, 627; Walter & Bond, CBAT 370",
+    "Event Type": "outburst",
+    "Time": "2016-06-01.616 UT",
+    "Date": "2016-06-01",
+    "Telescope": "Swift",
+    "Instrument": "Swift UVOT",
+    "Observatory": "Mt. Suhora Observatory, Krakow, DSO-17 telescope (SKYNET robotic telescope network)"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": "22:53:57.748",
+            "Dec": "+16:08:53.56",
+            "redshift": "Null",
+            "Type": "blazar",
+            "Time": "6 and 12 UT",
+            "Date": "September 15th, 2009"
+        },
+        {
+            "Name": "3C 273",
+            "RA": "12:29:06.700",
+            "Dec": "+02:03:08.60",
+            "redshift": "Null",
+            "Type": "blazar",
+            "Time": "0 and 6 UT",
+            "Date": "September 15th, 2009"
+        }
+    ],
+    "References": [
+        "Fey et al. 2004, AJ, 127, 3587",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "ATEL #2181",
+        "ATEL #2155",
+        "ATEL #2150",
+        "ATEL #1628, 24 July 2008",
+        "ATEL #1707, 8 Sept 2008",
+        "ATEL #2168, 19 August 2009"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": "between 6 and 12 UT / between 0 and 6 UT",
+    "Date": "September 15th, 2009",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

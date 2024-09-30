@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J11430127+2357016",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II",
+            "Time": "31.75 UT",
+            "Date": "May 31.75 UT"
+        },
+        {
+            "Name": "PSN J16412717+5747050",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "4.81 UT",
+            "Date": "June 4.81 UT"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Haynes et al 1997, AJ, 113, 1197",
+        "Wegner et al. 2003, AJ, 126, 2268"
+    ],
+    "Event Type": [
+        "Type II Supernova",
+        "Type Ia Supernova"
+    ],
+    "Time": [
+        "31.75 UT",
+        "4.81 UT"
+    ],
+    "Date": [
+        "May 31.75 UT",
+        "June 4.81 UT"
+    ],
+    "Telescope": "2m Himalayan Chandra Telescope",
+    "Instrument": "HFOSC",
+    "Observatory": "Indian Astronomical Observatory"
+}

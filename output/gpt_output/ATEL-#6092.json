@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J140804.26-115949.7",
+            "RA": "14:08:04.26",
+            "Dec": "-11:59:49.7",
+            "redshift": "0.034",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-04-23"
+        },
+        {
+            "Name": "PSN J14192892-0537361",
+            "RA": "14:19:28.92",
+            "Dec": "-05:37:36.1",
+            "redshift": "0.035",
+            "Type": "II",
+            "Time": null,
+            "Date": "2014-04-23"
+        }
+    ],
+    "References": "ATel #6084, ATel #6091",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2014-04-23",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

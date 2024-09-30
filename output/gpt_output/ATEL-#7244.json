@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate polar cataclysmic variable",
+            "Time": null,
+            "Date": "2015"
+        },
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7217",
+        "ATel #7239",
+        "Fermi coll., 2014, Science 345, 554"
+    ],
+    "Event Type": "nova",
+    "Time": "02:38 UT to 06:59 UT",
+    "Date": "2015-03-14 to 2015-03-16",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X, IBIS, ISGRI",
+    "Observatory": null
+}

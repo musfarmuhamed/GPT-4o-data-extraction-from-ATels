@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tavani et al. 2009",
+        "Abdo et al. 2009",
+        "Yu & Xing, submitted to ApJ"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": "MJD 55727-55731",
+    "Date": null,
+    "Telescope": [
+        "RXTE",
+        "Swift",
+        "Fermi"
+    ],
+    "Instrument": [
+        "ASM",
+        "BAT",
+        "LAT"
+    ],
+    "Observatory": null
+}

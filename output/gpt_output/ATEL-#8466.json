@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3XMM J202421.7+335050",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "3.26 h",
+            "Date": "2015-11-27"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": null,
+            "Date": "2015-12-23"
+        }
+    ],
+    "References": [
+        "GCN Circ. 18716",
+        "ATEL#8455",
+        "ATEL#8462",
+        "Rana et al., arXiv:150704049"
+    ],
+    "Event Type": null,
+    "Time": "14 ks",
+    "Date": "2015-11-27",
+    "Telescope": "NuSTAR, Chandra X-ray Observatory",
+    "Instrument": "Chandra/ACIS",
+    "Observatory": "Chandra X-ray Observatory"
+}

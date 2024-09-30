@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DO Dra",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetic dwarf nova",
+            "Time": null,
+            "Date": "June 8, 2017"
+        },
+        {
+            "Name": "V1323 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate polar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MU Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate polar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "FO Aqr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate polar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "2008A&A...486..855A",
+        "2017JASS...34...37H",
+        "2017ATel10477....1B",
+        "2017ASPC..511...43A",
+        "2014ATel.5944....1A",
+        "2005JASS...22..197K",
+        "2016ApJ...833...93L",
+        "1990AJ.....99.1941B",
+        "1990Ap&SS.169..237A",
+        "2017A&A...606A...7H"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": [
+        "JD2457913-69",
+        "JD2457930-31",
+        "JD2458043",
+        "JD2458055",
+        "JD2458069"
+    ],
+    "Telescope": [
+        {
+            "Telescope": "25-cm (f/4.7) reflector",
+            "Instrument": "CCD camera",
+            "Observatory": null
+        },
+        {
+            "Telescope": "60-cm telescope",
+            "Instrument": "filter R",
+            "Observatory": "Astronomical Observatory and Planetarium in Hlohovec, Slovakia"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11dsf",
+            "RA": "16:11:33.55",
+            "Dec": "+40:18:03.5",
+            "redshift": 0.385,
+            "Type": "optical transient",
+            "Time": null,
+            "Date": "2011 May 12"
+        }
+    ],
+    "References": [
+        "Law et al., 2009",
+        "Rau et al., 2009"
+    ],
+    "Event Type": "optical transient discovery",
+    "Time": null,
+    "Date": "2011 May 12",
+    "Telescope": [
+        "Palomar 60\" Telescope",
+        "Keck (+LRIS)",
+        "KPNO 4m (+RC Spectrograph)"
+    ],
+    "Instrument": [
+        "LRIS",
+        "RC Spectrograph"
+    ],
+    "Observatory": [
+        "Palomar",
+        "Keck",
+        "KPNO"
+    ]
+}

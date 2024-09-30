@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192513.88-521137.6",
+            "RA": "19h 25m 13.88s",
+            "Dec": "-52d 11m 37.6s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-03-24.05163 UT",
+            "Date": "2015-03-24"
+        },
+        {
+            "Name": "MASTER OT J203529.80+063652.8",
+            "RA": "20h 35m 29.80s",
+            "Dec": "+06d 36m 52.8s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-03-25.06265 UT",
+            "Date": "2015-03-25"
+        },
+        {
+            "Name": "MASTER OT J204313.96-321110.3",
+            "RA": "20h 43m 13.96s",
+            "Dec": "-32d 11m 10.3s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "2015-03-25.09162 UT",
+            "Date": "2015-03-25"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO, MASTER-Kislovodsk"
+}

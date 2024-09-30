@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018cts",
+            "RA": "13:59:14.0",
+            "Dec": "+28:32:26.76",
+            "redshift": 0.064,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-22"
+        },
+        {
+            "Name": "SN2018ctt",
+            "RA": "21:52:18.98",
+            "Dec": "+44:14:38.57",
+            "redshift": 0.054,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-24"
+        },
+        {
+            "Name": "SN2018cqi",
+            "RA": "13:57:40.91",
+            "Dec": "+17:30:29.05",
+            "redshift": 0.022,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-06-22"
+        },
+        {
+            "Name": "SN2018cto",
+            "RA": "17:24:32.03",
+            "Dec": "+70:22:20.81",
+            "redshift": 0.051,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-24"
+        },
+        {
+            "Name": "SN2018cty",
+            "RA": "13:01:45.69",
+            "Dec": "+61:27:55.72",
+            "redshift": 0.056,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-24"
+        },
+        {
+            "Name": "SN2018cow",
+            "RA": "16:16:00.22",
+            "Dec": "+22:16:04.87",
+            "redshift": null,
+            "Type": "SN Ic-BL",
+            "Time": null,
+            "Date": "2018-06-22"
+        },
+        {
+            "Name": "SN2018cua",
+            "RA": "15:32:03.55",
+            "Dec": "+23:31:01.32",
+            "redshift": 0.091,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-24"
+        },
+        {
+            "Name": "SN2018cur",
+            "RA": "12:59:09.12",
+            "Dec": "+37:19:00.19",
+            "redshift": 0.015,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-06-26"
+        },
+        {
+            "Name": "SN2018ctc",
+            "RA": "14:18:18.00",
+            "Dec": "+28:58:23.84",
+            "redshift": 0.042,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-06-26"
+        }
+    ],
+    "References": "ATel #11266, ATel #11688, Blagorodnova et. al. 2018, PASP, 130, 5003, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Astronomical Transient Classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60) telescope",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": null
+}

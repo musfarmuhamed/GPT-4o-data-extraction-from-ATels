@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": "09:55:42.217",
+            "Dec": "+69:40:26.56",
+            "redshift": null,
+            "Type": "Ia Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN_J09554214+6940260",
+            "RA": "09:55:42.217",
+            "Dec": "+69:40:26.56",
+            "redshift": null,
+            "Type": "Ia Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #5789",
+        "ATEL #5786",
+        "ATEL 5797",
+        "Guever & Oezel, MNRAS, 400, 2050, 2009",
+        "Nielsen et al., MNRAS 426, 2668 (2012)",
+        "Nielsen et al., MNRAS 435, 187 (2013)"
+    ],
+    "Event Type": "Pre-explosion observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": "Chandra data archive"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J171916.9-290410",
+            "RA": "17:19:16.97",
+            "Dec": "-29:04:10.35",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2008-03-30"
+        },
+        {
+            "Name": "XTE J1719-291",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2008-03-25"
+        }
+    ],
+    "References": "Markwardt & Swank, ATEL #1442",
+    "Event Type": "Swift/XRT follow-up observation",
+    "Time": null,
+    "Date": "2008-03-30",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

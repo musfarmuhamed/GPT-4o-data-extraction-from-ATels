@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB181016",
+            "RA": "15:46:20.5",
+            "Dec": "-25:24:32",
+            "Redshift": "1.8",
+            "Type": "FRB",
+            "Time": "04:16:56.3",
+            "Date": "2018-10-16"
+        },
+        {
+            "Name": "FRB181017",
+            "RA": "22:05:55",
+            "Dec": "-08:50:30",
+            "Redshift": "0.2",
+            "Type": "FRB",
+            "Time": "10:24:37.4",
+            "Date": "2018-10-17"
+        }
+    ],
+    "References": [
+        "Bailes et al 2017, PASA, 34, 45",
+        "Caleb et al 2017 MNRAS 468, 3746"
+    ],
+    "Event Type": "FRB",
+    "Time": "04:16:56.3",
+    "Date": "2018-10-16",
+    "Telescope": "Molonglo",
+    "Instrument": "automated GPU-accelerated/machine learning based pipeline",
+    "Observatory": "Molonglo"
+}

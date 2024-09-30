@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "Feb 21.9",
+                "Feb 27.9",
+                "Feb 27.96-28.10",
+                "Mar 1"
+            ],
+            "Date": [
+                "Feb 21",
+                "Feb 27",
+                "Feb 27-28",
+                "Mar 1"
+            ]
+        }
+    ],
+    "References": "Kuulkers et al. 1998, ApJ, 494, 753; ATEL #432",
+    "Event Type": "Observation",
+    "Time": [
+        "Feb 21-Mar 1"
+    ],
+    "Date": [
+        "Feb 21",
+        "Feb 27",
+        "Mar 1"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "pointed instruments",
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KT Eri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "2010-01-23T21:48:52 to 2010-01-24T02:25:30",
+            "Date": "2010-01-23 to 2010-01-24"
+        },
+        {
+            "Name": "V4743 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC 9098",
+        "ATel #2392",
+        "Ness et al. 2010, in prep"
+    ],
+    "Event Type": null,
+    "Time": "2010-01-23T21:48:52 to 2010-01-24T02:25:30",
+    "Date": "2010-01-23 to 2010-01-24",
+    "Telescope": "Chandra",
+    "Instrument": "Low Energy Transmission Grating (LETG)",
+    "Observatory": "Chandra Observatory"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17nn (AT 2017hks)",
+            "RA": "21:17:59.636",
+            "Dec": "-45:10:00.55",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-10-09.12",
+            "Date": "2017-10-09"
+        },
+        {
+            "Name": "ASASSN-17nf (AT 2017hfv)",
+            "RA": "07:41:26.054",
+            "Dec": "+18:43:45.29",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-10-10.62",
+            "Date": "2017-10-10"
+        },
+        {
+            "Name": "ASASSN-17ng (AT 2017hgz)",
+            "RA": "21:48:20.114",
+            "Dec": "-34:57:10.40",
+            "redshift": "0.016151",
+            "Type": "supernova",
+            "Time": "2017-10-10.02",
+            "Date": "2017-10-10"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Brutus",
+        "Cassius"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

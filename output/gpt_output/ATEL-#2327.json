@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Eri 2009",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N nova",
+            "Time": "Nov. 27.00 UT",
+            "Date": "2009"
+        },
+        {
+            "Name": "USNO-B1.0 0798-0048756",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TYC 5325-1102-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "vsnet-alert 11695",
+        "vsnet-alert 11696",
+        "AAVSO data",
+        "Munari & Zwitter (1997)"
+    ],
+    "Event Type": "optical observations",
+    "Time": "Nov. 26.33 UT, Nov. 27.75 UT, Nov. 27.00 UT, Nov. 27.91 UT, Nov. 15.0 UT",
+    "Date": "2009",
+    "Telescope": "60 cm Cassegrain telescope, 25 cm Schmidt-Cassegrain telescope, 60/90 cm Schmidt-Cassegrain telescope",
+    "Instrument": "echelle spectrograph",
+    "Observatory": "Nicolaus Copernicus University Observatory, Olsztyn Planetarium and Astronomical Observatory"
+}

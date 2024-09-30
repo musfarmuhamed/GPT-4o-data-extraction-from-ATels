@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102 (3FGL J2232.5+1143)",
+            "RA": 338.1517038,
+            "Dec": 11.7308067,
+            "redshift": 1.037,
+            "Type": "flat spectrum radio quasar",
+            "Time": "daily averaged",
+            "Date": "21 February 2016"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Schmidt 1965, ApJ, 141, 1295",
+        "ATel #8590",
+        "ATel #8598"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "increasing",
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

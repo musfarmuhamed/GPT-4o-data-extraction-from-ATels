@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2016 Dec 13.96 UT - Dec 14.15 UT",
+            "Date": "2016"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2016 Dec 12",
+            "Date": "2016"
+        }
+    ],
+    "References": "[ATels #9848,#9852,#9853,#9857; Henze et al. 2014, 2015a, 2015b; Darnley et al. 2014, 2015, 2016]",
+    "Event Type": "eruption",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1-m telescope, 0.65-m telescope",
+    "Instrument": "SBIG STX 16803 detector, Moravian Instruments G2-3200 CCD camera",
+    "Observatory": "Embry Riddle Aeronautical University, Ondrejov Observatory"
+}

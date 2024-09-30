@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J115113.3-623730",
+            "RA": "11:51:13.00",
+            "Dec": "-62:37:28.8",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:04",
+            "Date": "2010 Jul 19"
+        },
+        {
+            "Name": "2MASS object 11511302-6237292",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO B-1 object 0273-0386669",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Greiner et al. 2008, PASP 120, 405",
+        "S. Otero 2010, VSNET Alert 12084",
+        "Kalberla et al. 2005",
+        "T. Kato 2010, VSNET Alert 12085"
+    ],
+    "Event Type": "observation",
+    "Time": "00:04",
+    "Date": "2010 Jul 19",
+    "Telescope": "GROND",
+    "Instrument": "7-channel imager",
+    "Observatory": "XMM"
+}

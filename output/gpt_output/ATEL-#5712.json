@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZBJ0424+0036",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.31,
+            "Type": "QSO",
+            "Time": "JD2456649.89125",
+            "Date": "Dec 23rd, 2013"
+        },
+        {
+            "Name": "HB89 0422+004",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.31,
+            "Type": "QSO",
+            "Time": "JD2456649.89125",
+            "Date": "Dec 23rd, 2013"
+        },
+        {
+            "Name": "2FGL0424.7+0034",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "JD2456649.89125",
+            "Date": "Dec 23rd, 2013"
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR brightening",
+    "Time": "JD2456649.89125",
+    "Date": "Dec 23rd, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

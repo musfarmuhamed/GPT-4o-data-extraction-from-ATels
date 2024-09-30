@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12.6 ks",
+            "Date": "2008-10-19"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "42 ks",
+            "Date": "2008-10-21"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12.6 ks",
+            "Date": "2008-10-22"
+        }
+    ],
+    "References": [
+        "Atel #1804",
+        "Atel #1739",
+        "Atel #1745",
+        "Atel #1779",
+        "Atel #1798"
+    ],
+    "Event Type": "state transition",
+    "Time": "12.6 ks, 42 ks",
+    "Date": "2008-10-19 to 2008-10-22",
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI",
+    "Observatory": null
+}

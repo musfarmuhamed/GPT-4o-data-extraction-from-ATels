@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Solar Corona",
+            "RA": "00h 32m 37s",
+            "Dec": "+03o 23' 55\"",
+            "redshift": null,
+            "Type": "Coronal and Chromospheric",
+            "Time": "UT = 10:54:33",
+            "Date": "March 29, 2006"
+        },
+        {
+            "Name": "Solar Corona",
+            "RA": "00h 32m 37s",
+            "Dec": "+03o 23' 55\"",
+            "redshift": null,
+            "Type": "Coronal and Chromospheric",
+            "Time": "UT = 10:55:44",
+            "Date": "March 29, 2006"
+        }
+    ],
+    "References": [
+        "http://www.tug.tubitak.gov.tr/~irekk/eclipse2006/ut105433.jpg",
+        "http://www.tug.tubitak.gov.tr/~irekk/eclipse2006/ut105544.jpg",
+        "http://www.tug.tubitak.gov.tr/~irekk/eclipse2006/fe7892.jpg",
+        "http://www.tug.tubitak.gov.tr/~irekk/eclipse2006/halpha.jpg"
+    ],
+    "Event Type": "Total Solar Eclipse",
+    "Time": null,
+    "Date": "March 29, 2006",
+    "Telescope": "Russian-Turkish 1.5-meter optical telescope (RTT150)",
+    "Instrument": "Coude-echelle spectrometer, 1040 x 1160 pixels nitrogen cooled CCD",
+    "Observatory": "TUBITAK National Observatory, Antalya, Turkey"
+}

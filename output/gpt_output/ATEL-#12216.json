@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018ilu",
+            "RA": "23:33:20.98",
+            "Dec": "+04:48:34.66",
+            "redshift": 0.007,
+            "Type": "Ia",
+            "Time": "2018-11-15.04 UT",
+            "Date": "2018-11-12.37"
+        },
+        {
+            "Name": "SN 2018gea",
+            "RA": "00:56:20.70",
+            "Dec": "-09:35:00.18",
+            "redshift": 0.103,
+            "Type": "IIn",
+            "Time": "2018-11-15.12 UT",
+            "Date": "2018-09-09.56"
+        },
+        {
+            "Name": "SN 2018ihs",
+            "RA": "02:28:13.65",
+            "Dec": "+26:03:36.65",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": "2018-11-15.13 UT",
+            "Date": "2018-11-09.47"
+        },
+        {
+            "Name": "AT 2017cai",
+            "RA": "06:53:56.69",
+            "Dec": "-43:15:28.26",
+            "redshift": 0,
+            "Type": "CV?",
+            "Time": "2018-11-15.32 UT",
+            "Date": "2017-03-06.12"
+        },
+        {
+            "Name": "AT 2018ikn",
+            "RA": "09:45:42.02",
+            "Dec": "-14:19:34.50",
+            "redshift": 0.00771,
+            "Type": "AGN",
+            "Time": "2018-11-15.34 UT",
+            "Date": "2018-11-02.54"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al. (2011, PASP, 123, 58); Tonry et al., ATel #8680; Kulkarni et al. 2018, ATel 11266; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383; Drake et al. 2010, ApJ, 718, 127; Chen et al. 2018, arXiv:1808.04382; Keel 1996, ApJS, 106, 27",
+    "Event Type": "transient object classification",
+    "Time": "2018-11-15",
+    "Date": "2018-11-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

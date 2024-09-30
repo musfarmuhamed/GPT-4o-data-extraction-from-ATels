@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2010P",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2010O",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2145",
+        "CBET #2144",
+        "Neff, Ulvestad & Teng 2004, ApJ, 611, 186",
+        "Ulvestad 2009 AJ, 138, 152",
+        "Perez-Torres et al 2009, A&A 507, 17"
+    ],
+    "Event Type": "Radio observations",
+    "Time": "1900UT-0150UT",
+    "Date": "29th Jan 2010-1st Feb 2010",
+    "Telescope": "MERLIN",
+    "Instrument": null,
+    "Observatory": null
+}

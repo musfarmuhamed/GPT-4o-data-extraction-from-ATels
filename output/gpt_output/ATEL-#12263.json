@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018hco",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.09",
+            "Type": "TDE",
+            "Time": null,
+            "Date": "2018-Sep-18"
+        }
+    ],
+    "References": "Blagorodnova, PASP, 130, 2018; Lang 2014 arXiv:1410.7397; ATEL #11266",
+    "Event Type": "Discovery and Follow-up Observations",
+    "Time": null,
+    "Date": "2018-Oct-04",
+    "Telescope": "Swift/UVOT, SEDM, Keck/LRIS, VLA, AMI, XMM, Spitzer",
+    "Instrument": "UVOT, LRIS, SEDM",
+    "Observatory": "ATLAS, ZTF, Swift"
+}

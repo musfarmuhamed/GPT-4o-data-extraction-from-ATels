@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": "15 +/- 2 cts/s",
+            "Date": "31st January, 2012"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": "11.8 +/- 1.2 cts/s to 4.6 +/- 0.4 cts/s",
+            "Date": {
+                "start": "February 4, 2012",
+                "end": "March 02, 2012"
+            }
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": null,
+            "Date": {
+                "start": "March 02, 2012",
+                "end": "June 20, 2012"
+            }
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": null,
+            "Date": "May 14, 2012"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": null,
+            "Date": "May 30, 2012"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": null,
+            "Date": "July 12, 2012"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": "2.62 +/- 0.06",
+            "Date": "February 8, 2012"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole X-ray binary",
+            "Time": "2.79 +/- 0.07",
+            "Date": "February 28, 2012"
+        }
+    ],
+    "References": [
+        "Altamirano et al. (Atel #3913)",
+        "Drave et al. (Atel #3916)"
+    ],
+    "Event Type": "X-ray activity",
+    "Time": null,
+    "Date": {
+        "start": "February 2012",
+        "end": "July 12, 2012"
+    },
+    "Telescope": [
+        "SWIFT",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "XRT",
+        "IBIS"
+    ],
+    "Observatory": null
+}

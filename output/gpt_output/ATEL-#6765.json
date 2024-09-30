@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14kp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "II",
+            "Time": null,
+            "Date": "Nov 27"
+        },
+        {
+            "Name": "ASASSN-14kq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "Nov 27"
+        },
+        {
+            "Name": "LSQ14gfn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "Nov 27"
+        }
+    ],
+    "References": [
+        "ATel #6736",
+        "ATel #6737",
+        "Baltay et al., PASP, 2013, 125, 683"
+    ],
+    "Event Type": "optical spectroscopic classifications of optical transients",
+    "Time": null,
+    "Date": "Nov 27",
+    "Telescope": "Las Campanas 2.5-m du Pont telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

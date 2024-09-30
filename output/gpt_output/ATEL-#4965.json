@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08461506+4134400",
+            "RA": "08:46:15.06",
+            "Dec": "+41:34:40.0",
+            "redshift": "0.030364",
+            "Type": "Ia",
+            "Time": "N/A",
+            "Date": "20130409"
+        },
+        {
+            "Name": "UGC4578 LSQ13xf",
+            "RA": "10:16:03.24",
+            "Dec": "+05:07:12.7",
+            "redshift": "0.048973",
+            "Type": "IIb",
+            "Time": "N/A",
+            "Date": "20130409"
+        },
+        {
+            "Name": "PSN J12362767+1145281",
+            "RA": "12:36:27.67",
+            "Dec": "+11:45:28.1",
+            "redshift": "0.065846",
+            "Type": "Ia",
+            "Time": "N/A",
+            "Date": "20130409"
+        },
+        {
+            "Name": "IC 3573 LSQ13ua",
+            "RA": "09:57:57.82",
+            "Dec": "+17:19:34.7",
+            "redshift": "N/A",
+            "Type": "N/A",
+            "Time": "N/A",
+            "Date": "20130409"
+        }
+    ],
+    "References": [
+        "http://snfactory.lbl.gov",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Aldering et al 2002, SPIE, 4836, 61",
+        "Sloan Digital Sky Survey (http://skyserver.sdss.org/public/en/) via NED"
+    ],
+    "Event Type": "spectroscopic observations of supernovae",
+    "Time": "N/A",
+    "Date": "20130409",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

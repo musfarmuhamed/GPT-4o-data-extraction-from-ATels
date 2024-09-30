@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17oz",
+            "RA": "06:07:54.964",
+            "Dec": "+45:12:18.237",
+            "redshift": null,
+            "Type": "g~16.2 Gaia star",
+            "Time": "16:00:53",
+            "Date": "2014-01-04"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Kochanek et al. 2017",
+        "Jayasinghe et al. 2018"
+    ],
+    "Event Type": "stellar outburst",
+    "Time": null,
+    "Date": "2017-11-19",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "MDM 2.4m",
+        "FTN 2m",
+        "FLWO 1.5m",
+        "Three Hills Observatory"
+    ],
+    "Instrument": [
+        "OSMOS",
+        "FLOYDS",
+        "FAST",
+        "ALPY"
+    ],
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas"
+    ]
+}

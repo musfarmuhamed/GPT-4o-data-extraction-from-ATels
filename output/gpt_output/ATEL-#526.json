@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HETE J1900.5-2455",
+            "RA": "19:00:08.65",
+            "Dec": "-24:55:13.7",
+            "redshift": null,
+            "Type": "2.65-ms X-ray pulsar",
+            "Time": "07:27 to 07:57 UT",
+            "Date": "18 June 2005"
+        }
+    ],
+    "References": [
+        {
+            "ID": "#516",
+            "Authors": "Vanderspek et al.",
+            "Type": "ATEL"
+        },
+        {
+            "ID": "#523",
+            "Authors": "Morgan, Kaaret & Vanderspek",
+            "Type": "ATEL"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "07:27 to 07:57 UT",
+    "Date": "18 June 2005",
+    "Telescope": "Robotic Palomar 60-inch Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

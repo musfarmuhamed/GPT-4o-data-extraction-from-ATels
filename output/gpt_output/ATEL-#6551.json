@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J00150875-3912501",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "05:21:47",
+            "Date": "2014-10-07"
+        }
+    ],
+    "References": [
+        "ATEL#6548",
+        "Swift Optical Ultraviolet Supernova Archive (SOUSA; Brown et al 2014, Ap&SS, in press, arXiv:1407.3808)",
+        "Swift/UVOT photometric system (Poole et al. 2008, Breeveld et al. 2011)",
+        "Cepheid distance modulus of 26.434 +/- 0.037 (Gieren et al. 2008)"
+    ],
+    "Event Type": "Observation Request",
+    "Time": "05:21:47",
+    "Date": "2014-10-07",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

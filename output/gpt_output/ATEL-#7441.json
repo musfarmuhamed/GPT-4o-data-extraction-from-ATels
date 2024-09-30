@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Sugizaki et al. 2015",
+    "Event Type": "Normal outburst",
+    "Time": "April 24.20",
+    "Date": "2015-04-24",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": [
+        "Nova alert system",
+        "transient monitor"
+    ],
+    "Observatory": null
+}

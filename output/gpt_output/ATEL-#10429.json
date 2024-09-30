@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17fnt",
+            "RA": "10:52:04.44",
+            "Dec": "+11:35:41.69",
+            "redshift": 0.043,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017 May 25"
+        },
+        {
+            "Name": "ASASSN-17gr",
+            "RA": "16:08:39.59",
+            "Dec": "+12:00:39.03",
+            "redshift": 0.016,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2017 May 25"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients from spectroscopic observations",
+    "Time": null,
+    "Date": "2017 May 25",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

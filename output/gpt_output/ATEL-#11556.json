@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018asj",
+            "RA": "09 22 58.75",
+            "Dec": "+09 04 10.7",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "SN 2018atq",
+            "RA": "11 47 04.12",
+            "Dec": "+19 33 02.8",
+            "redshift": 0.17,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2018 04 11"
+        },
+        {
+            "Name": "SN 2018avu",
+            "RA": "10 40 15.59",
+            "Dec": "+01 53 17.5",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018 04 15"
+        },
+        {
+            "Name": "SN 2018awn",
+            "RA": "11 30 11.62",
+            "Dec": "+04 24 55.5",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018 04 20"
+        },
+        {
+            "Name": "SN 2018awp",
+            "RA": "00 16 14.08",
+            "Dec": "-31 37 02.8",
+            "redshift": 0.07,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2018 04 19"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Smartt et al. 2015",
+            "Journal": "A&A",
+            "Volume": 579,
+            "Page": 40,
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "Shappee et al. 2014",
+            "Journal": "ApJ",
+            "Volume": 788,
+            "Page": 48,
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Title": "Blondin & Tonry, 2007",
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Title": "Harutyunyan et al., 2008",
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 April 20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

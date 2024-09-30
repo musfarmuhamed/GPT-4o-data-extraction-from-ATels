@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP169 (XTE J0054-720, RX J0052.9-7158)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP165",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP46.6 (1WGA 0053.8-7226, XTE J0053-724)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": "January 6, 1998"
+        },
+        {
+            "Name": "SXP46.4 (XTE SMC 46.4s Pulsar)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Lochner et al.",
+            "Year": 1997,
+            "Reference": "IAUC # 6814"
+        },
+        {
+            "Authors": "Corbet et al.",
+            "Year": 2004,
+            "Reference": "AIP Conf. Proc. 714, 337"
+        },
+        {
+            "Authors": "Corbet et al.",
+            "Year": 1998,
+            "Reference": "IAUC # 6803"
+        },
+        {
+            "Authors": "Laycock et al.",
+            "Year": 2005,
+            "Reference": "ApJSup 161, 96"
+        },
+        {
+            "Authors": "Corbet et al.",
+            "Year": 2002,
+            "Reference": "IAUC # 7932"
+        }
+    ],
+    "Event Type": "regular outbursts",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE Proportional Counter Array",
+    "Instrument": null,
+    "Observatory": null
+}

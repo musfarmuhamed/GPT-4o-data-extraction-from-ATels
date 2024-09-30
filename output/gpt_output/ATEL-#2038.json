@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGC J174538.0-290022",
+            "RA": "17h 45m 38.0s",
+            "Dec": "-29m 00m 22s",
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": "~40 ks",
+            "Date": "2009 April 1-5"
+        },
+        {
+            "Name": "CXOGC J174537.9-290025",
+            "RA": "17h 45m 37.9s",
+            "Dec": "-29m 00m 25s",
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": "~40 ks",
+            "Date": "2009 April 1-5"
+        }
+    ],
+    "References": "Wijnands et al. 2006, A&A, 449, 1117; Muno et al. 2005, ApJ, 622, L113",
+    "Event Type": "faint outburst",
+    "Time": "~40 ks",
+    "Date": "2009 April 1-5",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn",
+    "Observatory": null
+}

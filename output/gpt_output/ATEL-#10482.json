@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New gamma-ray source",
+            "RA": "236.05 deg",
+            "Dec": "-6.82 deg",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2017-05-15"
+        },
+        {
+            "Name": "New gamma-ray source",
+            "RA": "236.05 deg",
+            "Dec": "-6.82 deg",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2017-05-21"
+        },
+        {
+            "Name": "New gamma-ray source",
+            "RA": "236.05 deg",
+            "Dec": "-6.82 deg",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "2017-05-24"
+        },
+        {
+            "Name": "New X-ray source",
+            "RA": "236.08226 deg",
+            "Dec": "-6.82075 deg",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2017-05-26"
+        },
+        {
+            "Name": "ASASSN-17gs (AT2017egv)",
+            "RA": "236.08226 deg",
+            "Dec": "-6.82075 deg",
+            "redshift": "z~0.04",
+            "Type": "Optical transient",
+            "Time": "09:36 UT",
+            "Date": "2017-05-25"
+        },
+        {
+            "Name": "2MASX J15441967-0649156",
+            "RA": "unknown",
+            "Dec": "unknown",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery of gamma-ray and X-ray sources with associated optical and radio transient",
+    "Time": null,
+    "Date": "2017-05-25",
+    "Telescope": "Fermi Gamma-ray Space Telescope, Swift",
+    "Instrument": "Large Area Telescope (LAT), XRT",
+    "Observatory": "NASA, DOE, SSDC, AGILE, EGRET, INTEGRAL"
+}

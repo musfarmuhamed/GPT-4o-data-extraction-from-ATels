@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J071016.92+333946.8",
+            "RA": "07h 10m 16.92s",
+            "Dec": "+33d 39m 46.8s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "2015-02-21.61432 UT",
+            "Date": "2015-02-21",
+            "References": null
+        },
+        {
+            "Name": "MASTER OT J081659.74+511233.7",
+            "RA": "08h 16m 59.74s",
+            "Dec": "+51d 12m 33.7s",
+            "redshift": null,
+            "Type": "possible dwarf Nova or super luminous SN",
+            "Time": "2015-02-21.64956 UT",
+            "Date": "2015-02-21",
+            "References": null
+        },
+        {
+            "Name": "MASTER OT J113137.81-455430.8",
+            "RA": "11h 31m 37.81s",
+            "Dec": "-45d 54m 30.8s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "2015-02-22.78789 UT",
+            "Date": "2015-02-22",
+            "References": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka, MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A1744-36",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1748-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "#265, #255, #204, #267, #210, #266",
+    "Event Type": "outburst",
+    "Time": [
+        "Jul 7.354",
+        "Jul 10.941",
+        "Jul 14.04"
+    ],
+    "Date": [
+        "2003-11",
+        "2004-04"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

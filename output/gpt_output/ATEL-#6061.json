@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14an",
+            "RA": "17:59:24.02",
+            "Dec": "25:20:33.2",
+            "redshift": null,
+            "Type": "new transient source",
+            "Time": "00:30:43",
+            "Date": "2014-04-10"
+        },
+        {
+            "Name": "OT J175924.12+252031.7",
+            "RA": "17:59:24.12",
+            "Dec": "25:20:31.7",
+            "redshift": null,
+            "Type": "bright transient source",
+            "Time": "00:30:43",
+            "Date": "2014-04-04"
+        }
+    ],
+    "References": "Vladimirov et al. 2014, ATel #6059; vsnet-alert 17194",
+    "Event Type": "discovery",
+    "Time": "00:30:43",
+    "Date": "2014-04-10",
+    "Telescope": "Brutus",
+    "Instrument": "quadruple 14-cm",
+    "Observatory": "Haleakala, Hawaii"
+}

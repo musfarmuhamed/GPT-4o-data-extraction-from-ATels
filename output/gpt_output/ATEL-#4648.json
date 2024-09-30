@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 0102.2-7219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova remnant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Suzaku J0102-7204",
+            "RA": "01:02:46.8",
+            "Dec": "-72:04:56",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2XMM J010247.4-720449",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4628",
+        "ATel #3761"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "8 Dec. 2012",
+    "Telescope": "SAAO 1.9m",
+    "Instrument": null,
+    "Observatory": null
+}

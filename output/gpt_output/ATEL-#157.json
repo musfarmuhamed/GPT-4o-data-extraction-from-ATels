@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18483-0311",
+            "RA": "18h48.3m",
+            "Dec": "-03o11m",
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXH J184817.3-031017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO846-031",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Known X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRO J1849-03",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Known X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GS1845-03",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Known X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Possible outburst",
+    "Time": "UT 04:57 - 05:27",
+    "Date": "April 26",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEMX",
+    "Observatory": "INTEGRAL observatory"
+}

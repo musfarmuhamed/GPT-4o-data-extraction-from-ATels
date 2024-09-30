@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J192328.22+612413.5",
+            "RA": "19h 23m 28.22s",
+            "Dec": "+61d 24m 13.5s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "20.82697",
+            "Date": "2014-04-20"
+        },
+        {
+            "Name": "USNO-A2.0 1500-06848103",
+            "RA": "19h 23m 28.36s",
+            "Dec": "+61d 24m 13.8s",
+            "redshift": null,
+            "Type": "Blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1514-0248617",
+            "RA": "19h 23m 28.253s",
+            "Dec": "+61d 24m 13.25s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J192328.3+612413",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J192333.2+612507",
+            "RA": "19h 23m 33.2s",
+            "Dec": "+61d 25m 07s",
+            "redshift": null,
+            "Type": "ROSAT X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J192328.25+612413.1",
+            "RA": "19h 23m 28.25s",
+            "Dec": "+61d 24m 13.1s",
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J192328.25+612413.0",
+            "RA": "19h 23m 28.25s",
+            "Dec": "+61d 24m 13.0s",
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "List of Optical Transients discovered by MASTER Global MASTER Robotic Net",
+    "Event Type": "New Cataclysmic Variable",
+    "Time": "20.82697",
+    "Date": "2014-04-20",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": null
+}

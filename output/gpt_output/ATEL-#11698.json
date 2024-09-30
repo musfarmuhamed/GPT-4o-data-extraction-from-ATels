@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J153519.70-063028.9",
+            "RA": "15h 35m 19.70s",
+            "Dec": "-06d 30m 28.9s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2018-06-06.96657 UT",
+            "Date": "2018-06-06"
+        }
+    ],
+    "References": [
+        {
+            "Name": "USNO-B1",
+            "r2mag": 20.95,
+            "B2mag": 20.44
+        }
+    ],
+    "Event Type": "detection",
+    "Time": "2018-06-06.96657 UT",
+    "Date": "2018-06-06",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

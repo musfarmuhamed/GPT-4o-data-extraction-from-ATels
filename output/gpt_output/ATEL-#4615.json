@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS121106:014420+082311",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fast optical transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Mahabal et al., ATEL #4586",
+        "de Ugarte Postigo et al., ATEL #4589",
+        "Mahabal et al., ATEL #4605"
+    ],
+    "Event Type": "radio observations",
+    "Time": [
+        "One hour"
+    ],
+    "Date": [
+        "19th November",
+        "21st November",
+        "23rd November"
+    ],
+    "Telescope": "15GHz AMI Large Array",
+    "Instrument": null,
+    "Observatory": "Cambridge, UK"
+}

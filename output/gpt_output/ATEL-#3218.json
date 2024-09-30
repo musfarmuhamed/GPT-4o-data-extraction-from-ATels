@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": "18h 06m 32.177s",
+            "Dec": "-22d 14' 17.20\"",
+            "redshift": null,
+            "Type": "neutron star transient/X-ray burster",
+            "Time": "23:59 TT",
+            "Date": "2011 March 7"
+        }
+    ],
+    "References": [
+        "ATEL #3193",
+        "ATEL #3202",
+        "ATEL #3210",
+        "Cornelisse et al. 2002, A&A, 392, 931"
+    ],
+    "Event Type": "observation",
+    "Time": "23:59 TT",
+    "Date": "2011 March 7",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

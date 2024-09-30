@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bv",
+            "RA": "01:44:16.85",
+            "Dec": "-41:53:36.98",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-02-16.04",
+            "Date": "2016-02-16"
+        },
+        {
+            "Name": "ASASSN-16bw",
+            "RA": "13:08:25.40",
+            "Dec": "-41:58:50.10",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-02-17.37",
+            "Date": "2016-02-17"
+        }
+    ],
+    "References": [
+        "LCRS B014209.4-420839",
+        "ESO 323-G084"
+    ],
+    "Event Type": "Discovery of transient sources, likely supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

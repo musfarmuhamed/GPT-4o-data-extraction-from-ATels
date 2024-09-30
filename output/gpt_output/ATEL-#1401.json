@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1750-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accretion-powered pulsar",
+            "Time": "Unknown",
+            "Date": "2008 January 29"
+        },
+        {
+            "Name": "AX J1749.1-2639",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accretion-powered pulsar",
+            "Time": "Unknown",
+            "Date": "2008 January 29"
+        }
+    ],
+    "References": [
+        "ATEL#1376",
+        "ATEL#1385",
+        "ATEL#1400",
+        "Scott et al. 1997, ApJ 488, 831",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/weak/AXJ1749.1-2639/",
+        "http://heasarc.nasa.gov/cgi-bin/Tools/w3nh/w3nh.pl"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Unknown",
+    "Date": "2008 February 15",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": null
+}

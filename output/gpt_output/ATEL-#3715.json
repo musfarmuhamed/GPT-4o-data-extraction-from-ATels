@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new transient source",
+            "RA": "08h 14m 43.89s",
+            "Dec": "+12d 54m 59.7s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "18:58:57",
+            "Date": "2011-10-24"
+        },
+        {
+            "Name": "SDSS J081443.33+125503.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J081443.90+125500.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/SN111024/sdss081443.png",
+    "Event Type": "detection",
+    "Time": "18:58:57",
+    "Date": "2011-10-24",
+    "Telescope": "MASTER auto-detection system",
+    "Instrument": null,
+    "Observatory": "Blagoveshchensk (MASTER-Amur)"
+}

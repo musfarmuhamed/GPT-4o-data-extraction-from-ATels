@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17qx (AT 2017iyk)",
+            "RA": "03:23:28.000",
+            "Dec": "-41:18:19.40",
+            "redshift": "0.07",
+            "Type": "supernovae",
+            "Time": "17.9",
+            "Date": "2017-12-18.10"
+        },
+        {
+            "Name": "ASASSN-17qz (AT 2017iyw)",
+            "RA": "08:13:30.627",
+            "Dec": "+71:25:45.13",
+            "redshift": "0.0215",
+            "Type": "supernovae",
+            "Time": "15.8",
+            "Date": "2017-12-18.3"
+        },
+        {
+            "Name": "ASASSN-17rg (AT 2017jcv)",
+            "RA": "04:20:40.370",
+            "Dec": "-38:14:46.59",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "18.1",
+            "Date": "2017-12-23.15"
+        },
+        {
+            "Name": "ASASSN-17rh (AT 2017jdh)",
+            "RA": "04:29:23.230",
+            "Dec": "+01:59:51.04",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "16.9",
+            "Date": "2017-12-22.27"
+        },
+        {
+            "Name": "ASASSN-17ri (AT 2017jdx)",
+            "RA": "00:47:56.226",
+            "Dec": "+22:22:23.48",
+            "redshift": "0.019417",
+            "Type": "supernovae",
+            "Time": "17.7",
+            "Date": "2017-12-20.09"
+        },
+        {
+            "Name": "ASASSN-17rj (AT 2017jdy)",
+            "RA": "03:49:32.816",
+            "Dec": "-26:52:17.83",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "18.0",
+            "Date": "2017-12-24.11"
+        },
+        {
+            "Name": "ASASSN-17rk (AT 2017jdz)",
+            "RA": "04:24:09.862",
+            "Dec": "-38:57:38.11",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "18.2",
+            "Date": "2017-12-23.15"
+        },
+        {
+            "Name": "ASASSN-17rl (AT 2017jea)",
+            "RA": "07:15:00.042",
+            "Dec": "+46:22:43.79",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "17.6",
+            "Date": "2017-12-23.25"
+        },
+        {
+            "Name": "ASASSN-17rn (AT 2017jeg)",
+            "RA": "08:36:24.641",
+            "Dec": "+26:07:24.65",
+            "redshift": "Unk",
+            "Type": "supernovae",
+            "Time": "18.2",
+            "Date": "2017-12-26.34"
+        },
+        {
+            "Name": "ASASSN-17ro (AT 2017jeh)",
+            "RA": "07:30:04.070",
+            "Dec": "+54:26:11.20",
+            "redshift": "0.020961",
+            "Type": "supernovae",
+            "Time": "17.3",
+            "Date": "2017-12-26.30"
+        },
+        {
+            "Name": "ASASSN-17rr (AT 2017jet)",
+            "RA": "08:37:00.960",
+            "Dec": "+81:41:45.55",
+            "redshift": "0.04",
+            "Type": "supernovae",
+            "Time": "16.8",
+            "Date": "2017-12-26.50"
+        }
+    ],
+    "References": "ASAS-SN, Shappee et al. 2014, Las Cumbres Observatory, Gordon and Betty Moore Foundation, NSF grant AST-1515927, Mt. Cuba Astronomical Foundation, Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+    "Event Type": "ongoing All Sky Automated Survey for SuperNovae",
+    "Time": "N/A",
+    "Date": "N/A",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": "N/A",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Cerro Tololo, Chile"
+    ]
+}

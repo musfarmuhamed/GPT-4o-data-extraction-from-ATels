@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1728-295",
+            "RA": 262.157,
+            "Dec": -29.52,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "09:35",
+            "Date": "2010-08-28"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": 262.157,
+            "Dec": -29.52,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": "2003-09-25 to 2003-10-10"
+        }
+    ],
+    "References": "Barlow et al. 2005, A&A, 437, L27",
+    "Event Type": "Outburst",
+    "Time": "09:35",
+    "Date": "2010-08-28",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": "RXTE Observatory"
+}

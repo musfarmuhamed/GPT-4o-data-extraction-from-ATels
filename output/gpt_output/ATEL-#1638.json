@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "First Nova in NGC 2403",
+            "RA": "07h37m38s.36",
+            "Dec": "+65o36'29\".8",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:02:58",
+            "Date": "2002-12-30"
+        },
+        {
+            "Name": "Second Nova in NGC 2403",
+            "RA": "07h36m53s.98",
+            "Dec": "+65o34'54\".7",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22:46:56",
+            "Date": "2005-01-14"
+        }
+    ],
+    "References": [
+        "ING Archive",
+        "Subaru telescope at Mauna Kea",
+        "Kitt Peak visitor center, AZ",
+        "HST-ACS",
+        "ESO HST archive",
+        "SMOKA archive"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.54-m Isaac Newton Telescope (INT)",
+    "Instrument": null,
+    "Observatory": "La Palma"
+}

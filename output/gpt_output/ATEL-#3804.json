@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2011it",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015894,
+            "Type": "broad-line type-Ic supernova",
+            "Time": "00:22:48",
+            "Date": "2011-12-08"
+        },
+        {
+            "Name": "SN1998bw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broad-line type-Ic supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRB980425",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray burst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tomasella, CBET 2938",
+        "Kalberla 2005",
+        "de Vaucouleurs et al. 1991, RC3 catalogue, via NED",
+        "Pian 2000 Apj 536 778",
+        "Breeveld et al. 2011, arXiv:1102.4717",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "Swift-ToO observation",
+    "Time": "00:22:48",
+    "Date": "2011-12-08",
+    "Telescope": "Swift",
+    "Instrument": "Swift-UVOT",
+    "Observatory": "Swift"
+}

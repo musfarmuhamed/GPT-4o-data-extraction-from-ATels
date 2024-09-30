@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1023+0038",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transitional Millisecond Pulsar",
+            "Time": "13:33 - 15:24 UT",
+            "Date": "October 31"
+        }
+    ],
+    "References": [
+        "Atel #5513",
+        "#5514",
+        "#5515",
+        "#5516",
+        "Deller et al. 2012",
+        "Archibald et al. 2009",
+        "Papitto et al. 2013"
+    ],
+    "Event Type": "Change of state",
+    "Time": "13:33 UT",
+    "Date": "October 31",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": {
+        "Name": null,
+        "Location": null
+    }
+}

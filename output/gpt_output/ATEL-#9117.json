@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ft",
+            "RA": "23:56:13.736",
+            "Dec": "-00:32:28.44",
+            "redshift": "0.022215",
+            "Type": "supernova",
+            "Time": "2016-06-05.58",
+            "Date": "2016-06-05"
+        },
+        {
+            "Name": "CGCG 382-005",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022215",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, and the Robert Martin Ayers Sciences Fund",
+    "Event Type": "transient discovery",
+    "Time": "2016-06-05",
+    "Date": "2016-06-05",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

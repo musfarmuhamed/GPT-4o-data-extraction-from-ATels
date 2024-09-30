@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016hvu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0185,
+            "Type": "Transient",
+            "Time": "2016-11-09.89",
+            "Date": "2016-11-09"
+        },
+        {
+            "Name": "PNV J00424181+4113433",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "Nova Candidate",
+            "Time": "2016-11-09.90",
+            "Date": "2016-11-09"
+        }
+    ],
+    "References": "CRTS; Drake et al. 2009, ApJ, 696, 870; http://crts.caltech.edu/; ATel #9716",
+    "Event Type": "Spectroscopic Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

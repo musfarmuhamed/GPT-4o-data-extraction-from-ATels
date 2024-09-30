@@ -1,0 +1,105 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-092",
+            "RA": "6:50:59.82",
+            "Dec": "-71:55:50.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456939.85820",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-093",
+            "RA": "3:23:13.44",
+            "Dec": "-66:24:53.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456939.64195",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-094",
+            "RA": "4:46:52.42",
+            "Dec": "-65:53:50.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456939.73838",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-095",
+            "RA": "4:37:42.20",
+            "Dec": "-68:34:53.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456939.73407",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-096",
+            "RA": "1:35:25.42",
+            "Dec": "-73:38:53.3",
+            "redshift": "0.04",
+            "Type": "II",
+            "Time": "2456942.65944",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-097",
+            "RA": "4:04:08.70",
+            "Dec": "-66:44:38.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456942.74349",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-098",
+            "RA": "3:40:52.39",
+            "Dec": "-70:38:19.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456943.67899",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-099",
+            "RA": "8:18:12.99",
+            "Dec": "-70:42:53.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456942.87101",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-100",
+            "RA": "3:34:28.84",
+            "Dec": "-78:01:04.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456943.72543",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-101",
+            "RA": "23:44:29.75",
+            "Dec": "-65:06:01.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "2456943.56166",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2014",
+        "Kozlowski et al. 2013",
+        "ATEL #6570"
+    ],
+    "Event Type": "Discovery of new on-going transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": "Transient Detection System",
+    "Observatory": null
+}

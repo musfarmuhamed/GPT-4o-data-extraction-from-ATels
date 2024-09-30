@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12fmx",
+            "RA": "03:12:52.18",
+            "Dec": "-00:12:12.8",
+            "redshift": "0.067416",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20121021"
+        },
+        {
+            "Name": "LSQ12fnt",
+            "RA": "03:32:41.41",
+            "Dec": "-01:11:11.1",
+            "redshift": "0.030451",
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20121021"
+        }
+    ],
+    "References": "SDSS DR9 : http://skyserver.sdss3.org/dr9/en/",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": null
+}

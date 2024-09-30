@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J220627.82+374653.5",
+            "RA": "22h 06m 27.82s",
+            "Dec": "+37d 46m 53.5s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-12-27.42500 UT",
+            "Date": "2013-12-27"
+        },
+        {
+            "Name": "MASTER OT J021757.25+310405.7",
+            "RA": "02h 17m 57.25s",
+            "Dec": "+31d 04m 05.7s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-12-27.71660 UT",
+            "Date": "2013-12-27"
+        },
+        {
+            "Name": "MASTER OT J081520.10+174343.7",
+            "RA": "08h 15m 20.10s",
+            "Dec": "+17d 43m 43.7s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-12-27.75933 UT",
+            "Date": "2013-12-27"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J220627+374653-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/220627.82374653.5.png, http://master.sai.msu.ru/static/OT/021757.25310405.7.png, http://master.sai.msu.ru/static/OT/081520.10174343.7.png, http://master.sai.msu.ru/static/OT/J081520+174343-NEAT-2003.jpg",
+    "Event Type": "Discovery",
+    "Time": "2013-12-27",
+    "Date": "2013-12-27",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-Amur, MASTER-Kislovodsk"
+}

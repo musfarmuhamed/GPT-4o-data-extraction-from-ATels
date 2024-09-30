@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:37:19.9 UT",
+            "Date": "2012-April-12"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "19:59:04 UT",
+            "Date": "2012-04-11"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:54:00 UT",
+            "Date": "2012-04-12"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:37:28 UT",
+            "Date": "2012-04-12"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "08:29:02 UT",
+            "Date": "2012-04-13"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Krimm et al.",
+            "Year": 2007,
+            "ID": "Atel #1265"
+        },
+        {
+            "Author": "Sidoli et al.",
+            "Year": 2009,
+            "ID": "ApJ, 690, 120"
+        },
+        {
+            "Author": "Sidoli et al.",
+            "Year": 2009,
+            "ID": "MNRAS, 397, 1528"
+        },
+        {
+            "Author": "Krimm et al.",
+            "Year": 2009,
+            "ID": "Atel #1971"
+        },
+        {
+            "Author": "Romano et al.",
+            "Year": 2011,
+            "ID": "410, 1825"
+        },
+        {
+            "Author": "Romano et al.",
+            "Year": 2011,
+            "ID": "MNRAS, 412, L30"
+        },
+        {
+            "Author": "Romano et al.",
+            "Year": 2011,
+            "ID": "ATel #3235"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "00:37:19.9 UT",
+    "Date": "2012-April-12",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift"
+}

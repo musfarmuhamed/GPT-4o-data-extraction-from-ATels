@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J03564+6242",
+            "RA": "59.099",
+            "Dec": "62.714",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4C +62.08",
+            "RA": "03h55m41.79s",
+            "Dec": "+62d40m57.60s",
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, 8C survey, NRAO 1987 Green Bank radio survey, USNO B-1 catalogue, 2MASS catalogue, Kellerman et al. 1989",
+    "Event Type": "possible association",
+    "Time": null,
+    "Date": "April 2, 2011 to April 10, 2011",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

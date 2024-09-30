@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Markarian 421",
+            "RA": "11 04 27.31",
+            "Dec": "38 12 31.8",
+            "redshift": 0.031,
+            "Type": "high-synchrotron-peaked BL Lac",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Nebula",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Punch et al 1992, Nature 358, 477",
+        "Abdo et al 2011, ApJ 736, 131",
+        "Gaidos et al. 1996, Nature 383, 319",
+        "Fortson et al. 2012, American Institute of Physics Conference Series, 1505, 514",
+        "ATel #4974"
+    ],
+    "Event Type": "flaring activity",
+    "Time": "Null",
+    "Date": [
+        "2012/12/01",
+        "2013/04/11",
+        "2013/04/12",
+        "2013/04/13"
+    ],
+    "Telescope": [
+        "MAGIC",
+        "VERITAS"
+    ],
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

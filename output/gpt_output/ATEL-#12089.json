@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SPIRITS 18eo",
+            "RA": "09:32:06.36",
+            "Dec": "21:30:14.2",
+            "redshift": null,
+            "Type": "IR transient/strong variable",
+            "Time": null,
+            "Date": "2018-09-07"
+        },
+        {
+            "Name": "SPIRITS 18ec",
+            "RA": "13:30:03.07",
+            "Dec": "47:10:12.7",
+            "redshift": null,
+            "Type": "IR transient/strong variable",
+            "Time": null,
+            "Date": "2018-08-13"
+        },
+        {
+            "Name": "SPIRITS 18dz",
+            "RA": "09:32:04.41",
+            "Dec": "21:32:50.5",
+            "redshift": null,
+            "Type": "IR transient/strong variable",
+            "Time": null,
+            "Date": "2018-08-01"
+        },
+        {
+            "Name": "SPIRITS 18ae",
+            "RA": "14:03:17.81",
+            "Dec": "54:18:52.9",
+            "redshift": null,
+            "Type": "IR transient/strong variable",
+            "Time": null,
+            "Date": "2018-04-24"
+        }
+    ],
+    "References": [
+        "#6644",
+        "#7929",
+        "#8688",
+        "#8940",
+        "#9434",
+        "#10171",
+        "#10172",
+        "#10488",
+        "#10903",
+        "#11575",
+        "Kasliwal et al. 2017, ApJ, 839, 88",
+        "Sorce et al. 2014, MNRAS, 444, 527",
+        "Tully et al. 2013, ApJ, 146, 86"
+    ],
+    "Event Type": "infrared transients/strong variables",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Spitzer",
+    "Instrument": "IRAC",
+    "Observatory": "Spitzer InfraRed Intensive Transients Survey (SPIRITS)"
+}

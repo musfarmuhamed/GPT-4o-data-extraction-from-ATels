@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS131031:004302-070331",
+            "RA": "00:43:02",
+            "Dec": "-07:03:31",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2013 Nov 09"
+        },
+        {
+            "Name": "CSS131025:003216-074653",
+            "RA": "00:32:16",
+            "Dec": "-07:46:53",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2013 Nov 09"
+        },
+        {
+            "Name": "CSS131025:000816-033618",
+            "RA": "00:08:16",
+            "Dec": "-03:36:18",
+            "redshift": "0.07",
+            "Type": "IIn",
+            "Time": "UT",
+            "Date": "2013 Nov 09"
+        },
+        {
+            "Name": "CSS131023:221244+014803",
+            "RA": "22:12:44",
+            "Dec": "+01:48:03",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2013 Nov 09"
+        },
+        {
+            "Name": "CSS121211:040157+035721",
+            "RA": "04:01:57",
+            "Dec": "+03:57:21",
+            "redshift": "0.07",
+            "Type": "IIn",
+            "Time": "UT",
+            "Date": "2013 Nov 09"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Drake et al. 2013, ATel#4733"
+    ],
+    "Event Type": "spectroscopic classification of supernova candidates",
+    "Time": "UT",
+    "Date": "2013 Nov 09",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO B1.0 0936-0303814",
+            "RA": "17h30m06.19s",
+            "Dec": "+03d38m18.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "16:56",
+            "Date": "2006-02-09"
+        },
+        {
+            "Name": "1RXS J173006.4+033813",
+            "RA": "17h30m06.19s",
+            "Dec": "+03d38m18.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XRT J173006.19+033818.8",
+            "RA": "17h30m06.19s",
+            "Dec": "+03d38m18.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "16:56",
+            "Date": "2006-02-09"
+        },
+        {
+            "Name": "UVOT J173006.46+033819.6",
+            "RA": "17h30m06.46s",
+            "Dec": "+03d38m19.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #2014",
+    "Event Type": "observation",
+    "Time": "16:56",
+    "Date": "2006-02-09",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "SWIFT"
+}

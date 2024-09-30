@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC6948",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": "04:13",
+            "Date": "2017-05-06"
+        },
+        {
+            "Name": "SN 2017aew",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2017-05-14"
+        }
+    ],
+    "References": [
+        "ATel #10381",
+        "ATel #10372"
+    ],
+    "Event Type": null,
+    "Time": "04:13",
+    "Date": "2017-05-06",
+    "Telescope": "2.0m Liverpool Telescope",
+    "Instrument": null,
+    "Observatory": "La Palma"
+}

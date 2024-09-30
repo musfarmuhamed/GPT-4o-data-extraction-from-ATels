@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient",
+            "RA": "+89.06 deg",
+            "Dec": "-33.21 deg",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "09:21",
+            "Date": "2011-01-11"
+        },
+        {
+            "Name": "faint X-ray source",
+            "RA": "+89.06 deg",
+            "Dec": "-33.21 deg",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "19:38",
+            "Date": "2011-01-10"
+        }
+    ],
+    "References": null,
+    "Event Type": "X-ray transient alert",
+    "Time": "09:21",
+    "Date": "2011-01-11",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "transient alert system",
+    "Observatory": null
+}

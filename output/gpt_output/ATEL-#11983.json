@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018ely",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova Candidate",
+            "Time": "2018-08-08.195",
+            "Date": "2018-07-31"
+        },
+        {
+            "Name": "AT2018feu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova Candidate",
+            "Time": "2018-08-24.008",
+            "Date": "2018-08-17"
+        },
+        {
+            "Name": "AT2018fhy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova Candidate",
+            "Time": "2018-08-24.066",
+            "Date": "2018-08-21"
+        },
+        {
+            "Name": "PNV J00392190+4015488",
+            "RA": "00h39m21.90s",
+            "Dec": "+40d15m48.8s",
+            "redshift": null,
+            "Type": "M31 Nova: Fe II",
+            "Time": "2018-08-24.091",
+            "Date": "2018-08-13"
+        },
+        {
+            "Name": "PNV J00451587+4210269",
+            "RA": "00h45m15.87s",
+            "Dec": "+42d10m26.9s",
+            "redshift": null,
+            "Type": "M31 Nova: Fe II",
+            "Time": "2018-08-24.138",
+            "Date": "2018-08-13"
+        }
+    ],
+    "References": [
+        "TNS",
+        "CBAT TOCP"
+    ],
+    "Event Type": "Spectroscopic Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": [
+        "SPRAT",
+        "IO:O"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ16442-554",
+            "RA": "16 44 38.15",
+            "Dec": "-55 50 45.93",
+            "redshift": null,
+            "Type": null,
+            "Time": "14:09:58",
+            "Date": "2009-09-02"
+        },
+        {
+            "Name": "2MASS 16443770-5550454",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNOB1 0341-0647474",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "#2185",
+    "Event Type": "observation",
+    "Time": "14:09:58",
+    "Date": "2009-09-02",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

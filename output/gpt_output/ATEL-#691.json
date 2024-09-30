@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006E",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00272,
+            "Type": "Supernova",
+            "Time": "13.83 UT",
+            "Date": "Jan. 13"
+        }
+    ],
+    "References": [
+        "IAUC #8658",
+        "Brown et al. 2005, ApJ, 635, 1192",
+        "ATEL #690",
+        "Dickey & Lockman 1990, ARAA 28, 215"
+    ],
+    "Event Type": "Report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift Ultraviolet/Optical Telescope (UVOT), X-Ray Telescope (XRT)",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": "Swift-satellite"
+}

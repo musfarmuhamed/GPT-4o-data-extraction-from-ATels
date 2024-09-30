@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010jr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ESO 362-18",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2545",
+        "CBET #2548",
+        "ATel #3037",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "Zimmermann et al., 1994, Nature 367, 621",
+        "Immler, Aschenbach & Wang, 2001, ApJ 554, 202",
+        "Chandra et al. 2009, ApJ 699, 388"
+    ],
+    "Event Type": null,
+    "Time": "2010-11-15.64 to 2010-11-19.50",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": null
+}

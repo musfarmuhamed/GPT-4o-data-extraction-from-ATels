@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "06:00:00",
+            "Date": "2018-07-02"
+        },
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "06:00:00",
+            "Date": "2018-07-04"
+        }
+    ],
+    "References": [
+        "ATel #11804",
+        "ATel #11805",
+        "Koljonen et al., 612, A27, 2018"
+    ],
+    "Event Type": "gamma-ray detection",
+    "Time": "06:00:00",
+    "Date": "2018-07-02",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": "AGILE"
+}

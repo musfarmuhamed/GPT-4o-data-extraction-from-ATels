@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16418-4532",
+            "RA": "16h 41m 50.95s",
+            "Dec": "-45d 32' 26.5\"",
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient (SFXT) candidate",
+            "Time": "11:56:29 UT",
+            "Date": "2013 April 2"
+        }
+    ],
+    "References": [
+        "Goad et al. 2007, A&A, 476, 1401; Evans et al. 2009, MNRAS, 397, 1177",
+        "Romano et al. 2012, Atel #4148",
+        "Krimm et al, 2006, ATel #904; 15-50 keV"
+    ],
+    "Event Type": "detection/flare",
+    "Time": "11:56:29 UT",
+    "Date": "2013 April 2",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), XRT, UVOT",
+    "Observatory": null
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CI Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Symbiotic star",
+            "Time": [
+                {
+                    "Date": "October 2008",
+                    "Event": "Maximum at B=10.28, V=9.50, V\u2212Rc=+0.80, V\u2212Ic=+2.07"
+                },
+                {
+                    "Date": "March 2010",
+                    "Event": "Minimum brightness B=12.1, V=11.0, V\u2212Ic=+3.2"
+                },
+                {
+                    "Date": "August 24, 2010",
+                    "Event": "B=10.67, V=9.73, V\u2212Rc=+1.14, V\u2212Ic=+2.36"
+                },
+                {
+                    "Date": "October 8, 2010",
+                    "Event": "System weakened to B=12.4, V=11.1, V\u2212Rc=+1.40, V\u2212Ic=+3.22"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "Munari et al. 2008, CBET #1487",
+        "Siviero et al. 2009, MNRAS 399, 2139",
+        "Munari et al. 2010, ATel #2732"
+    ],
+    "Event Type": "Outburst",
+    "Time": "First week of October 2008 to October 8, 2010",
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "Echelle",
+    "Observatory": null
+}

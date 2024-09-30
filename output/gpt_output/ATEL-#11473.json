@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS18kh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.075",
+            "Type": "transient",
+            "Time": "07:33",
+            "Date": "2018-03-07"
+        },
+        {
+            "Name": "PS18kh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.075",
+            "Type": "transient",
+            "Time": "10:17",
+            "Date": "2018-03-18"
+        },
+        {
+            "Name": "PS18kh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.075",
+            "Type": "transient",
+            "Time": "02:09",
+            "Date": "2018-03-20"
+        },
+        {
+            "Name": "PS18kh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.075",
+            "Type": "transient",
+            "Time": "04:04",
+            "Date": "2018-03-20"
+        }
+    ],
+    "References": [
+        "http://star.pst.qub.ac.uk/ps1threepi/",
+        "arXiv:1612.05560",
+        "panstarrs.ifa.hawaii.edu",
+        "ATel #7153"
+    ],
+    "Event Type": "tidal disruption event",
+    "Time": [
+        "07:33",
+        "10:17",
+        "02:09",
+        "04:04"
+    ],
+    "Date": [
+        "2018-03-07",
+        "2018-03-18",
+        "2018-03-20",
+        "2018-03-20"
+    ],
+    "Telescope": [
+        "University of Hawaii 88-inch",
+        "University of Hawaii 88-inch",
+        "du Pont 2.5m",
+        "F. L. Whipple Observatory 1.5-m"
+    ],
+    "Instrument": [
+        "SNIFS",
+        "SNIFS",
+        "WFCCD",
+        "FAST"
+    ],
+    "Observatory": [
+        "University of Hawaii",
+        "University of Hawaii",
+        "Las Campanas Observatory",
+        "F. L. Whipple Observatory"
+    ]
+}

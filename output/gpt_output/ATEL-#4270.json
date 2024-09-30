@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00422371+4110142",
+            "RA": "00h42m23.71s",
+            "Dec": "+41d10m14.2",
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "UT 2012/07/17",
+            "Date": "2012/07/17"
+        },
+        {
+            "Name": "PNV J00423991+4126573",
+            "RA": "00h42m39.91s",
+            "Dec": "+41d26m57.3s",
+            "redshift": null,
+            "Type": "Fe-II class nova",
+            "Time": "UT 2012/07/19",
+            "Date": "2012/07/19"
+        }
+    ],
+    "References": [
+        "ATel 4259",
+        "ATel 4266"
+    ],
+    "Event Type": "spectroscopic follow-up",
+    "Time": null,
+    "Date": null,
+    "Telescope": "200-inch Hale telescope",
+    "Instrument": "Double Beam Spectrograph (DBSP)",
+    "Observatory": "Palomar Observatory"
+}

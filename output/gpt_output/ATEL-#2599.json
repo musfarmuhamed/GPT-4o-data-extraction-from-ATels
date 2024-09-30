@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16493-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary, B0.5 I supergiant",
+            "Time": [
+                {
+                    "Tmax (BAT)": "MJD 54,301.39 +/- 0.14 + n x 6.7906 +/- 0.0020"
+                },
+                {
+                    "Tmax (PCA)": "MJD 54,301.55 +/- 0.14 + n x 6.7851 +/- 0.0016"
+                },
+                {
+                    "Tmax (BAT) 20.07 day period": "MJD 54,265.1 +/- 0.5"
+                },
+                {
+                    "Tmax (PCA) 20.09 day period": "MJD 54,266.0 +/- 0.7"
+                }
+            ],
+            "Date": [
+                {
+                    "Swift BAT survey": "2004-12-21 to 2009-09-30"
+                },
+                {
+                    "PCA survey": "2004-06-07 to 2010-04-11"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "Grebenev et al. (2005, ATel #457)",
+        "Hill et al. (2008, MNRAS, 385, 423)",
+        "Nespoli et al. (2010, arXiv:1004.4101v1)",
+        "Baumgartner et al. (2010, HEAD, 11, 1305)",
+        "Farrell et al. (2008, MNRAS, 389, 608)"
+    ],
+    "Event Type": "X-ray binary discovery and analysis",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift BAT",
+        "PCA"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

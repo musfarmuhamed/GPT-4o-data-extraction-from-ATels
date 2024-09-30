@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "21:25",
+                "10:21",
+                "13:54"
+            ],
+            "Date": [
+                "15 December 2016",
+                "16 December 2016",
+                "17 December 2016"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #9863",
+        "ATel #9869",
+        "ATel #9868",
+        "ATel #4449"
+    ],
+    "Event Type": "multi-frequency radio observations",
+    "Time": [
+        "21:25",
+        "10:21",
+        "13:54"
+    ],
+    "Date": [
+        "15 December 2016",
+        "16 December 2016",
+        "17 December 2016"
+    ],
+    "Telescope": "INAF Medicina 32 m radio telescope",
+    "Instrument": "null",
+    "Observatory": "Medicina"
+}

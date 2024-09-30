@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018btb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-06-11"
+        },
+        {
+            "Name": "SN2018bpd",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2018-06-11"
+        },
+        {
+            "Name": "AT2018bpi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M star",
+            "Time": null,
+            "Date": "2018-06-11"
+        },
+        {
+            "Name": "SN2018btm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2018-06-11"
+        }
+    ],
+    "References": "ATel #11444, ATel #11660",
+    "Event Type": "Spectral Classification of Astronomical Transients",
+    "Time": null,
+    "Date": "2018-06-11",
+    "Telescope": "University of Hawaii 88-inch (UH88)",
+    "Instrument": "SuperNova Integral Field Spectrograph (SNIFS)",
+    "Observatory": null
+}

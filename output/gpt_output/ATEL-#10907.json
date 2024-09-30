@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0243.6+6124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star (NS) X-ray binary",
+            "Time": null,
+            "Date": "2017-10-03"
+        }
+    ],
+    "References": [
+        "ATEL #10809",
+        "ATEL #10811",
+        "ATEL #10812",
+        "ATEL #10813",
+        "ATEL #10815",
+        "ATEL #10822",
+        "ATEL #10866"
+    ],
+    "Event Type": "Detection and Monitoring",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Insight-HXMT",
+        "Fermi/GBM",
+        "MAXI",
+        "BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

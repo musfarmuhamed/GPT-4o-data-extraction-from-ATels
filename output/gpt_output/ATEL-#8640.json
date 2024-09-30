@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16alt",
+            "RA": "05:55:10.82",
+            "Dec": "-62:15:59.1",
+            "redshift": 0.0538,
+            "Type": "SNII",
+            "Time": null,
+            "Date": "2015-12-29"
+        },
+        {
+            "Name": "SN2016zr",
+            "RA": "09:13:54.15",
+            "Dec": "+29:04:52.8",
+            "redshift": 0.0536,
+            "Type": "SNII",
+            "Time": null,
+            "Date": "2016-01-29"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-02-04",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

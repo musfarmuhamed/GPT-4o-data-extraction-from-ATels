@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018aca",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0435",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "UT 2018-03-09"
+        },
+        {
+            "Name": "SN 2018acj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0078",
+            "Type": "IIP",
+            "Time": null,
+            "Date": "UT 2018-03-09"
+        }
+    ],
+    "References": [
+        "ATel#11391",
+        "https://wis-tns.weizmann.ac.il/object/2018aca"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "2018-03-09",
+    "Date": "2018-03-09",
+    "Telescope": "Xinglong 2.16-m",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Observatory of NAOC"
+}

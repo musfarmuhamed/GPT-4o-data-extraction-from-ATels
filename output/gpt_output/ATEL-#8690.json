@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016aey",
+            "RA": "09:54:38.69",
+            "Dec": "+39:32:35.5",
+            "redshift": 0.0476,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-02-11"
+        }
+    ],
+    "References": "Tonry et al. ATel 8680",
+    "Event Type": "transient",
+    "Time": null,
+    "Date": "2016-02-11",
+    "Telescope": "UH 2.2m",
+    "Instrument": "SNIFS spectrometer",
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

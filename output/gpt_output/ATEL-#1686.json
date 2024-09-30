@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1824-141",
+            "RA": 276.099,
+            "Dec": -14.4154,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18246-1425",
+            "RA": 276.099,
+            "Dec": -14.4154,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1679",
+        "ATEL #1680",
+        "ATEL #1681",
+        "Stephen et al.",
+        "A. Kong"
+    ],
+    "Event Type": "pulsar detection",
+    "Time": "11:20 UT",
+    "Date": "2008-08-28",
+    "Telescope": [
+        "Swift XRT",
+        "RXTE PCA"
+    ],
+    "Instrument": [
+        "XRT",
+        "PCA"
+    ],
+    "Observatory": [
+        "Swift",
+        "RXTE"
+    ]
+}

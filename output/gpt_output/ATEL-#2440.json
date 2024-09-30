@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0244-470",
+            "RA": "02h44m13.46s",
+            "Dec": "-47d03m51.9s",
+            "redshift": "1.385",
+            "Type": "blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1FGL J0245.9-4652",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Mauch T. et al. 2003, MNRAS,342, 1117",
+        "A.Abdo et al. 2010 arXiv:1002.0150"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": "Null",
+    "Date": "12 Feb 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

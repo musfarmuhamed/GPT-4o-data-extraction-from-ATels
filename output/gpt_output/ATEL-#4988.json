@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2012-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "J-class nova",
+            "Time": "90 days after outburst",
+            "Date": "2012-12"
+        },
+        {
+            "Name": "M31N 2013-01a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "12 days after optical detection",
+            "Date": "2013-01"
+        },
+        {
+            "Name": "M31N 2013-02b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "6 days after first detection",
+            "Date": "2013-02"
+        }
+    ],
+    "References": [
+        "ATel #4757",
+        "ATel #4833",
+        "M 31 (apparent) optical nova catalogue",
+        "Strope et al. 2010 (AJ, 140, 34)",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "UV light curves observation",
+    "Time": "2013-01-23.41 to 2013-03.08.01 UT",
+    "Date": "2013",
+    "Telescope": "Swift satellite",
+    "Instrument": "Ultra-violet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

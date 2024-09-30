@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J124825.03+174937.7",
+            "RA": "12:48:25.03",
+            "Dec": "+17:49:37.7",
+            "redshift": null,
+            "Type": "possibly a quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J124808.84+174440.6",
+            "RA": "12:48:08.84",
+            "Dec": "+17:44:40.6",
+            "redshift": null,
+            "Type": "possibly a Sy2 or elliptical",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PGC 043234",
+            "RA": "12:48:15.213",
+            "Dec": "+17:46:26.20",
+            "redshift": "0.0206",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Miller et al., 2014; ATel #6800",
+        "Jose et al., 2014; ATel #6777",
+        "Holoien et al., 2014",
+        "Maksym et al., 2013",
+        "Khabibullin & Sazonov 2014"
+    ],
+    "Event Type": "likely tidal disruption event (TDE)",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "HRC-LETG",
+    "Observatory": null
+}

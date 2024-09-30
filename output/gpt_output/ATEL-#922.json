@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006lc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "Ic",
+            "Time": "13:19",
+            "Date": "2006-10-25"
+        }
+    ],
+    "References": [
+        "IAUC 8766",
+        "CBET 693"
+    ],
+    "Event Type": "observations",
+    "Time": "13:19",
+    "Date": "2006-10-25",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

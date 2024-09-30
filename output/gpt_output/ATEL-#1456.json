@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1816.7-1613",
+            "RA": 274.176,
+            "Dec": -16.266,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18:47",
+            "Date": "March 24, 2008"
+        },
+        {
+            "Name": "Swift J181642.3-161320",
+            "RA": 274.176458,
+            "Dec": -16.222361,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "18:47",
+            "Date": "April 1, 2008"
+        },
+        {
+            "Name": "0737-0562754",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "USNO B1.0 catalog",
+    "Event Type": "Detection of a galactic transient",
+    "Time": "18:47 UTC",
+    "Date": "April 1, 2008",
+    "Telescope": "Swift Burst Alert Telescope",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

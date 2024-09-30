@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "12 56 11.167",
+            "Dec": "-05 47 21.52",
+            "redshift": "0.5362",
+            "Type": "flat-spectrum radio quasar",
+            "Time": "Mar 21.11",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Marziani et al. 1996, ApJS, 104, 37",
+        "Fermi/LAT collaboration (ATel #11189)",
+        "ATel #11190",
+        "ATel #11196",
+        "ATel #11200",
+        "ATel #11202",
+        "ATel #11216",
+        "ATel #11239",
+        "ATel #11246",
+        "ATel #11354",
+        "Villata et al., A&AS 130, 305 (1998)",
+        "Tuorla Observatory"
+    ],
+    "Event Type": "Observation",
+    "Time": "Mar 21.11",
+    "Date": "2018",
+    "Telescope": "0.3 m telescope",
+    "Instrument": "Johnson-Cousins R filter",
+    "Observatory": "Astronomical Observatory of the University of Siena"
+}

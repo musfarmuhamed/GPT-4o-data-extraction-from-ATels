@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018pr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.092,
+            "Type": "type Ia supernova",
+            "Time": "9.7",
+            "Date": "2018-02-09"
+        },
+        {
+            "Name": "SN 2018pt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.127,
+            "Type": "91T-like type Ia supernova",
+            "Time": "-4",
+            "Date": "2018-02-09"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classifications",
+    "Time": "9.7",
+    "Date": "2018-02-09",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories"
+}

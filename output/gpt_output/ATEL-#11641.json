@@ -1,0 +1,80 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018biy",
+            "RA": "16 47 05.71",
+            "Dec": "-07 18 56.0",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "20180508"
+        },
+        {
+            "Name": "SN2018biq",
+            "RA": "21 21 50.79",
+            "Dec": "-61 24 29.9",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": "+4 to +7",
+            "Date": "20180509"
+        },
+        {
+            "Name": "SN2018bhs",
+            "RA": "16 34 15.76",
+            "Dec": "+26 53 22.4",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "-7 to -4",
+            "Date": "20180509"
+        },
+        {
+            "Name": "SN2018bht",
+            "RA": "16 26 29.80",
+            "Dec": "+17 19 14.1",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": "-3 to +3",
+            "Date": "20180509"
+        },
+        {
+            "Name": "AT2018bhn",
+            "RA": "17 57 27.07",
+            "Dec": "+09 12 02.5",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "20180509"
+        },
+        {
+            "Name": "AT2018bgu",
+            "RA": "19 09 06.64",
+            "Dec": "-25 38 41.9",
+            "redshift": null,
+            "Type": "?",
+            "Time": null,
+            "Date": "20180506"
+        },
+        {
+            "Name": "SN2018bgk",
+            "RA": "19 48 39.14",
+            "Dec": "-26 45 41.6",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": "+8 to +10",
+            "Date": "20180504"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Chen et al. ATel #10510"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018 May 12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

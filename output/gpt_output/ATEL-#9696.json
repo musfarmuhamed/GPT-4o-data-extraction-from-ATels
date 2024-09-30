@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16mc",
+            "RA": "19:58:41.31",
+            "Dec": "-52:21:23.65",
+            "redshift": 0.019,
+            "Type": "Ia",
+            "Time": "+15d",
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "ASASSN-16lz",
+            "RA": "06:05:51.16",
+            "Dec": "-50:46:50.29",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "AT2016hkn",
+            "RA": "02:08:34.23",
+            "Dec": "+29:14:11.10",
+            "redshift": 0.022,
+            "Type": "IIb",
+            "Time": null,
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "AT2016hns",
+            "RA": "21:39:41.05",
+            "Dec": "+24:24:24.12",
+            "redshift": 0.037,
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "ATLAS16dpb",
+            "RA": "02:57:34.01",
+            "Dec": "+05:58:41.30",
+            "redshift": 0.023,
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "PS16eui",
+            "RA": "01:54:17.84",
+            "Dec": "-01:55:23.00",
+            "redshift": 0.062,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2016-10-30"
+        },
+        {
+            "Name": "OGLE16evl",
+            "RA": "04:27:13.89",
+            "Dec": "-73:45:54.60",
+            "redshift": 0.044,
+            "Type": "II",
+            "Time": null,
+            "Date": "2016-10-30"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2016-10-30",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

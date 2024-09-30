@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1859+083",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "09.80 s",
+            "Date": [
+                "February 7, 2014",
+                "February 8, 2014",
+                "January 26.0-31.0, 2014",
+                "January 31.0-February 5.0, 2014",
+                "February 5.0-10.0, 2014"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #7034",
+        "ATel #7037",
+        "R. H. D. Corbet et al., ApJ 695:30-35, 2009"
+    ],
+    "Event Type": "pulsations",
+    "Time": "09.80 s",
+    "Date": [
+        "February 7, 2014",
+        "February 8, 2014",
+        "January 26.0-31.0, 2014",
+        "January 31.0-February 5.0, 2014",
+        "February 5.0-10.0, 2014"
+    ],
+    "Telescope": "Fermi",
+    "Instrument": "GBM NaI detectors",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

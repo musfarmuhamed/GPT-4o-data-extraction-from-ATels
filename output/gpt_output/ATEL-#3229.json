@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "UT March 13 03:21 to March 16 16:40",
+            "Date": "March 13 - March 16"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "UT March 13 03:21 to March 16 16:40",
+            "Date": "March 13 - March 16"
+        }
+    ],
+    "References": [
+        "ATel #3225",
+        "ATels #3144",
+        "#3159",
+        "#3203"
+    ],
+    "Event Type": "observation",
+    "Time": "UT March 13 03:21 - March 16 16:40",
+    "Date": "March 13 - March 16",
+    "Telescope": "INTEGRAL, RXTE/PCA",
+    "Instrument": "JEM-X, IBIS/ISGRI, PCA",
+    "Observatory": "INTEGRAL, RXTE"
+}

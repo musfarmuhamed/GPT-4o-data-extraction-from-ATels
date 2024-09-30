@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00333+6122 (source 1)",
+            "RA": "00h 33m 18.36s",
+            "Dec": "+61d 27m 42.4s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J00333+6122 (source 2)",
+            "RA": "00h 33m 57.82s",
+            "Dec": "+61d 26m 30.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17487-3124 (source 1)",
+            "RA": "17h 48m 47.0s",
+            "Dec": "-31d 24m 23.6s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17487-3124 (source 2)",
+            "RA": "17h 48m 30.92s",
+            "Dec": "-31d 24m 40.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18485-0047",
+            "RA": "18h 48m 25.67s",
+            "Dec": "-00d 46m 33.3s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J21272+4241",
+            "RA": "21h 27m 18.42s",
+            "Dec": "+42d 39m 08.6s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

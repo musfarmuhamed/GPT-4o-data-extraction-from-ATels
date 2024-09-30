@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift/BAT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Light curve",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Light curve",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 2030+375",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #4319",
+    "Event Type": "Outburst",
+    "Time": "~1 day long flare around MJD 56172",
+    "Date": "MJD 56172",
+    "Telescope": "Swift/BAT, MAXI",
+    "Instrument": null,
+    "Observatory": null
+}

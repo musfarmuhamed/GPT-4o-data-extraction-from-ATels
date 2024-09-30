@@ -1,0 +1,87 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J124017.72-040542.9",
+            "RA": "12h 40m 17.72s",
+            "Dec": "-04d 05m 42.9s",
+            "redshift": null,
+            "Type": "flare star of UV Ceti type",
+            "Time": "19:37:53 UT",
+            "Date": "2014-04-03"
+        },
+        {
+            "Name": "CATALINA CSS J124017.7-040543",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "N/A",
+            "Date": "2009-06-14"
+        },
+        {
+            "Name": "SDSS J124017.67-040542.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J12401764-0405427",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J124017.67-040542.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J182205.85+270849.7",
+            "RA": "18h 22m 05.85s",
+            "Dec": "+27d 08m 49.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": null,
+            "Date": "2014-04-05"
+        },
+        {
+            "Name": "USNO-B1.0 1171-0355226",
+            "RA": "18 22 05.838",
+            "Dec": "+27 08 50.27",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS J182205.8+270849",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2006-05-04"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/124017.72-040542.9.png",
+        "http://master.sai.msu.ru/static/OT/J182205+270849-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/182205.85270849.7.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

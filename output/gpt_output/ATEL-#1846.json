@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accreting Millisecond Pulsar",
+            "Time": "60 ks",
+            "Date": "2008 October 1"
+        }
+    ],
+    "References": [
+        "ATEL #1728",
+        "Fabian et al. 1989, MNRAS, 238, 729",
+        "Di Salvo et al. 2008, MNRAS, 389, 1851",
+        "ATEL #1844"
+    ],
+    "Event Type": "Observation",
+    "Time": "Start Time=MJD 54739.99517",
+    "Date": "2008 October 1",
+    "Telescope": "XMM Newton",
+    "Instrument": "EPIC PN, RGS1-2",
+    "Observatory": null
+}

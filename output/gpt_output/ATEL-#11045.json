@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "06:00",
+            "Date": "2017-12-07"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "06:00",
+            "Date": "2017-12-09"
+        }
+    ],
+    "References": [
+        "ATel #10560",
+        "ATel #10386",
+        "ATel #10292"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "06:00",
+    "Date": "2017-12-07",
+    "Telescope": "AGILE",
+    "Instrument": "gamma-ray detector",
+    "Observatory": "AGILE observatory"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J0055-727",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "18.4s X-ray pulsar",
+            "Time": null,
+            "Date": "November/December 2003"
+        }
+    ],
+    "References": [
+        "Corbet et al. 2003, ATEL #214",
+        "Corbet 1986, MNRAS, 220, 1047"
+    ],
+    "Event Type": "Periodic outburst detection",
+    "Time": [
+        "May 21",
+        "June 23",
+        "July 29",
+        "September 1",
+        "October 7"
+    ],
+    "Date": [
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Telescope": "RXTE Proportional Counter Array",
+    "Instrument": null,
+    "Observatory": null
+}

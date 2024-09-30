@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fqj",
+            "RA": "14:23:49.00",
+            "Dec": "+34:06:10.35",
+            "redshift": 0.1,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18ablvime",
+            "RA": "00:07:01.25",
+            "Dec": "+33:10:58.35",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18abmxdhb",
+            "RA": "16:45:29.83",
+            "Dec": "+65:14:20.26",
+            "redshift": 0.08,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18abptsco",
+            "RA": "17:26:51.42",
+            "Dec": "+34:14:47.61",
+            "redshift": 0.12,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18aaycrnz",
+            "RA": "17:15:03.12",
+            "Dec": "+44:29:52.03",
+            "redshift": 0.15,
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18abhxhwv",
+            "RA": "18:27:14.75",
+            "Dec": "+19:56:18.99",
+            "redshift": 0.04,
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        },
+        {
+            "Name": "ZTF18ablvjom",
+            "RA": "23:07:41.18",
+            "Dec": "+33:33:37.41",
+            "redshift": 0.19,
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "2018-09-08"
+        }
+    ],
+    "References": [
+        "Bellm & Kulkarni 2017",
+        "ATel #11266",
+        "Huber et al., ATel #7153"
+    ],
+    "Event Type": "transients",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "6.5m MMT Telescope",
+    "Instrument": "Blue Channel Spectrograph",
+    "Observatory": "Null"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016ieq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.066,
+            "Type": "IIn",
+            "Time": "2016-12-07.88",
+            "Date": "2016-11-14.43"
+        },
+        {
+            "Name": "SN 2016isg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": "2016-12-07.92",
+            "Date": "2016-12-06.08"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATel #8944",
+        "ATel #8979",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "http://gsaweb.ast.cam.ac.uk/alerts"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope Unbiased Transient Survey (NUTS)"
+}

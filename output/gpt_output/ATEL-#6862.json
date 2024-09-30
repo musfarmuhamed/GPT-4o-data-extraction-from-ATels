@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASS J06593158-0405277",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FU Orionis type eruption",
+            "Time": "20.58 UT",
+            "Date": "2014 December 20"
+        },
+        {
+            "Name": "2MASS J06593168-0405224",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "young star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Maehara, Kojima, and Fujii (ATEL #6770)",
+        "Hillenbrand (ATEL #6797)",
+        "Hackstein et al. (ATEL #6838)",
+        "Hartmann & Kenyon 1996 [ARAA 34, 207]",
+        "Dobashi et al. 2005 [PASJ 57, SP1]",
+        "Dobashi 2011 [PASJ 63, SP1]"
+    ],
+    "Event Type": "outburst",
+    "Time": "20.58 UT",
+    "Date": "2014 December 20",
+    "Telescope": "NASA Infrared Telescope Facility",
+    "Instrument": "SpeX",
+    "Observatory": "Mauna Kea"
+}

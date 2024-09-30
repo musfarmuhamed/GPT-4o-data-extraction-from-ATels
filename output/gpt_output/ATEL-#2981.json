@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-10ayu",
+            "RA": "22:28:13.76",
+            "Dec": "-08:04:35.49",
+            "redshift": 0.11,
+            "Type": "SN Ia",
+            "Time": "08:00:00",
+            "Date": "2010-08-18"
+        },
+        {
+            "Name": "PS1-10bik",
+            "RA": "22:45:30.15",
+            "Dec": "23:22:53.54",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "08:00:00",
+            "Date": "2010-08-16"
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A.Ap. 488, 383",
+    "Event Type": "Discovery",
+    "Time": "08:00:00",
+    "Date": "2010-08-16",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC+Gr4",
+    "Observatory": "Pan-STARRS 1"
+}

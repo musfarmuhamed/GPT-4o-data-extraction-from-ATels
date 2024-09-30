@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI GRB130505A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J091721.89+014203.2",
+            "RA": "09h 17m 21.89s",
+            "Dec": "+01d 42m 03.2s",
+            "redshift": null,
+            "Type": "Optical Source",
+            "Time": "58.6 to 163.0 ks",
+            "Date": null
+        }
+    ],
+    "References": "Kocevski et al., GCN circ. 14594; Serino et al., GCN circ. 14586",
+    "Event Type": "Optical Fading and Swift/XRT Detection",
+    "Time": "58.6 to 163.0 ks",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "UVOT, XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018ids",
+            "RA": "21:16:11.36",
+            "Dec": "+11:56:46.45",
+            "redshift": "0.036",
+            "Type": "Ia",
+            "Time": "2018-11-17.04 UT",
+            "Date": "2018-11-05.31"
+        },
+        {
+            "Name": "SN 2018ihx",
+            "RA": "01:10:44.20",
+            "Dec": "-00:55:00.85",
+            "redshift": "0.144",
+            "Type": "Ia",
+            "Time": "2018-11-17.07 UT",
+            "Date": "2018-11-08.44"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al., ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "classification",
+    "Time": "2018-11-17",
+    "Date": "2018-11-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

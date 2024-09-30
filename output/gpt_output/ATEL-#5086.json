@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1824-2452I",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond radio pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #4925",
+        "Atel #4927",
+        "Atel #4929",
+        "Atel #4934",
+        "Atel #4959",
+        "Atel #4960",
+        "Atel #4961",
+        "Atel #4964",
+        "Atel #4981",
+        "Atel #5003",
+        "Atel #5031",
+        "Atel #5045",
+        "Atel #5068",
+        "Atel #5069",
+        "Papitto et al. 2013, arXiv:1305.3884"
+    ],
+    "Event Type": "type-I burst",
+    "Time": "56389.9292192 MJD(TDB)",
+    "Date": "2013 April 5",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT",
+    "Observatory": "ATCA"
+}

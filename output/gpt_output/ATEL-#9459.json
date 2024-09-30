@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J050727.73-132416.1",
+            "RA": "05h 07m 27.73s",
+            "Dec": "-13d 24m 16.1s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "07:28:50",
+            "Date": "2016-09-06"
+        },
+        {
+            "Name": "PGC938372",
+            "RA": null,
+            "Dec": null,
+            "redshift": "147 Mpc",
+            "Type": "spiral",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "Discovery",
+    "Time": "07:28:50",
+    "Date": "2016-09-06",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO and MASTER-OAFA"
+}

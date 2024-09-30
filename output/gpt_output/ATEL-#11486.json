@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18aql",
+            "RA": "16:07:15.74",
+            "Dec": "+26:11:48.05",
+            "redshift": 0.054,
+            "Type": "SN Ia + 3 weeks",
+            "Time": "Null",
+            "Date": "2018-03-15"
+        },
+        {
+            "Name": "AT2018zo",
+            "RA": "16:07:15.74",
+            "Dec": "+26:11:48.05",
+            "redshift": 0.054,
+            "Type": "SN Ia + 3 weeks",
+            "Time": "Null",
+            "Date": "2018-03-15"
+        },
+        {
+            "Name": "ATLAS18mgs",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2018-03-15"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "detection",
+    "Time": "Null",
+    "Date": "2018-03-15",
+    "Telescope": "Very Large Telescope (VLT)",
+    "Instrument": "FOcal Reducer/low dispersion Spectrograph 2 (FORS2)",
+    "Observatory": "Null"
+}

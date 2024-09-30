@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17dj/AT 2017cav",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "Ia",
+            "Time": "10.18",
+            "Date": "2017 Mar"
+        },
+        {
+            "Name": "SN 2005el",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.022,
+            "Type": "Ia",
+            "Time": "2 days past maximum light",
+            "Date": null
+        }
+    ],
+    "References": "ATEL #10155",
+    "Event Type": "spectrum observation and classification",
+    "Time": "10.18",
+    "Date": "2017 Mar",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos observatory (La Palma)"
+}

@@ -1,0 +1,84 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-15p/ASASSN-15ar",
+            "RA": "02:28:20.38",
+            "Dec": "+10:23:03.7",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-10"
+        },
+        {
+            "Name": "OGLE-2015-SN-013",
+            "RA": "03:15:22.08",
+            "Dec": "-74:18:56.5",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-01"
+        },
+        {
+            "Name": "OGLE-2015-SN-007",
+            "RA": "04:28:01.29",
+            "Dec": "-68:17:12.9",
+            "redshift": 0.06,
+            "Type": "II",
+            "Time": "Unknown",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "ASASSN-15as",
+            "RA": "09:39:16.55",
+            "Dec": "+06:25:48.5",
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-13"
+        },
+        {
+            "Name": "ASASSN-15az",
+            "RA": "11:08:37.60",
+            "Dec": "-10:14:57.8",
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-14"
+        },
+        {
+            "Name": "LSQ14gow",
+            "RA": "05:55:48.70",
+            "Dec": "-15:57:00.3",
+            "redshift": 0.2,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014-12-17"
+        },
+        {
+            "Name": "LSQ15z",
+            "RA": "13:08:22.48",
+            "Dec": "-08:43:57.8",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-07"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2014, arXiv:1411.0299, http://www.pessto.org",
+        "Smartt et al., ATel #5850",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095; http://ogle.astrouw.edu.pl/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "ATel #6915",
+        "ATel # 6925",
+        "ATel #6920"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2015-01-14",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

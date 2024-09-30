@@ -1,0 +1,89 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": [
+                "~0.1 count/s",
+                "30 +/- 3 count/s",
+                "~0.1 count/s"
+            ],
+            "Date": [
+                "July 6th, 2016",
+                "July 10th, 2016",
+                "July 15th, 2016",
+                "July 29th, 2016"
+            ]
+        },
+        {
+            "Name": "SXP 6.85",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": [
+                "0.3 +/- 0.1 count/s",
+                "<0.13 count/s"
+            ],
+            "Date": [
+                "April 29th-30th, 2015",
+                "July 29th, 2016"
+            ]
+        },
+        {
+            "Name": "IGR J01217-7257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": [
+                "0.31 +/- 0.07 count/s",
+                "<0.07 c/s"
+            ],
+            "Date": [
+                "July 6th, 2016",
+                "July 10th, 2016",
+                "July 15th, 2016",
+                "July 29th, 2016"
+            ]
+        },
+        {
+            "Name": "3XMM J004855.1-734946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": [
+                "~0.04 count/s",
+                "0.22 +- 0.02 count/s",
+                "~0.04 count/s",
+                "<0.1 c/s",
+                "0.30 +/- 0.06 count/s"
+            ],
+            "Date": [
+                "June 8th, 2016",
+                "June 16th, 2016",
+                "June 28th, 2016",
+                "July 12th, 2016",
+                "July 15th, 2016",
+                "July 29th, 2016"
+            ]
+        }
+    ],
+    "References": [
+        "Nikolajuk et al, ATEL #7481",
+        "Coe et al., ATEL #5806",
+        "Haberl et al., ATEL #8305",
+        "Evans et al., ATEL #9197",
+        "Vasilopoulos et al., ATEL #9229"
+    ],
+    "Event Type": "Transient Detection",
+    "Time": "Various",
+    "Date": "2016",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": "S-CUBED"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017gsa",
+            "RA": "01 02 06.79",
+            "Dec": "+01 16 32.7",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "20170912"
+        },
+        {
+            "Name": "AT2017gge",
+            "RA": "16 20 34.86",
+            "Dec": "+24 07 25.6",
+            "redshift": "0.066",
+            "Type": "?",
+            "Time": null,
+            "Date": "20170710"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al. (2011, PASP, 123, 58); Tonry et al. (ATel #8680); SNID (Blondin & Tonry, 2007, ApJ, 666, 1024); GELATO (Harutyunyan et al., 2008, A&A, 488, 383)",
+    "Event Type": "Supernova Classification",
+    "Time": null,
+    "Date": "2017 Sept. 13",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J202315.58+741752.1",
+            "RA": "20h 23m 15.58s",
+            "Dec": "+74d 17m 52.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-01-08.70432 UT",
+            "Date": "2014-01-08"
+        },
+        {
+            "Name": "MASTER OT J173825.36+173255.1",
+            "RA": "17h 38m 25.36s",
+            "Dec": "+17d 32m 55.1s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type in superoutburst",
+            "Time": "2014-01-12.13206 UT",
+            "Date": "2014-01-12"
+        },
+        {
+            "Name": "MASTER OT J004951.91+512641.4",
+            "RA": "00h 49m 51.91s",
+            "Dec": "+51d 26m 41.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-01-12.41072 UT",
+            "Date": "2014-01-12"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J202315+741752-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/202315.58741752.1.png",
+        "http://master.sai.msu.ru/static/OT/J173825+173255-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/173825.36173255.1.jpg",
+        "http://master.sai.msu.ru/static/OT/J004951+512641-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/004951.91512641.4.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system, MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J135748.95-272623.4",
+            "RA": "13h 57m 48.95s",
+            "Dec": "-27d 26m 23.4s",
+            "redshift": null,
+            "Type": "PSN in PGC754881",
+            "Time": "00:33:57.4",
+            "Date": "2016-03-30"
+        },
+        {
+            "Name": "MASTER OT J140159.54-321845.6",
+            "RA": "14h 01m 59.54s",
+            "Dec": "-32d 18m 45.6s",
+            "redshift": null,
+            "Type": "optical flare of possible new Blazar",
+            "Time": "22:01:52.9",
+            "Date": "2016-03-30"
+        },
+        {
+            "Name": "MASTER OT J134842.64-335212.5",
+            "RA": "13h 48m 42.64s",
+            "Dec": "-33d 52m 12.5s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "19:22:05.1",
+            "Date": "2016-03-28"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 349171",
+        "http://master.sai.msu.ru/static/OT/135748.95-272623.4.png",
+        "http://master.sai.msu.ru/static/OT/MASTEROTJ140159.54-321845.6.jpg",
+        "http://master.sai.msu.ru/static/OT/134842.64-335212.5.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-IAC",
+        "MASTER-SAAO"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J19140+0951",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant X-ray Binary (SGXB)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "AX J1841.0-0536": [
+                "Halpern et al. (2004, ATel #289)",
+                "Negueruela et al. (2005, ESA-SP 604, 165)"
+            ],
+            "IGR J19140+0951": [
+                "in 't Zand et al. (2006, A&A 448, 1101)"
+            ]
+        }
+    ],
+    "Event Type": "Spectroscopy",
+    "Time": null,
+    "Date": "2006-07-14",
+    "Telescope": "ESO 3.5m NTT",
+    "Instrument": "SofI spectrograph/imager",
+    "Observatory": "La Silla, Chile"
+}

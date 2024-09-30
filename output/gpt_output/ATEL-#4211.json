@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Scorpii 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II-type classical nova",
+            "Time": "17.879 UT",
+            "Date": "2012-06-17"
+        },
+        {
+            "Name": "Nova Ophiuchi 2012 No. 2",
+            "RA": "PNV J17395600-2447420",
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II-type nova",
+            "Time": "27.806 UT",
+            "Date": "2012-05-27"
+        }
+    ],
+    "References": "Wagner R.M. et al. (ATEL # 4157, CBET # 3136), Raj et al. (ATEL # 4169), Imamura (CBET # 3124)",
+    "Event Type": null,
+    "Time": [
+        "17.879 UT",
+        "27.806 UT"
+    ],
+    "Date": [
+        "2012-06-17",
+        "2012-05-27"
+    ],
+    "Telescope": "Mt. Abu 1.2-m telescope",
+    "Instrument": "PRL Near-Infrared NICMOS3 Imager/Spectrometer",
+    "Observatory": null
+}

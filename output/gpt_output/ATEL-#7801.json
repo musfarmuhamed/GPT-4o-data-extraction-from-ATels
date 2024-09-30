@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1502+106",
+            "RA": 226.10408,
+            "Dec": 10.49422,
+            "redshift": 1.8383,
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UT",
+            "Date": "13 July 2015"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS 218, 23",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Hewett & Wild 2010, MNRAS, 405, 2302",
+        "ATel#1650",
+        "ATel#1905",
+        "ATel #7592",
+        "ATel#7783"
+    ],
+    "Event Type": "increased gamma-ray activity",
+    "Time": "12:00-18:00 UT",
+    "Date": "13 July 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in collaboration with many scientific institutions across France, Italy, Japan and Sweden"
+}

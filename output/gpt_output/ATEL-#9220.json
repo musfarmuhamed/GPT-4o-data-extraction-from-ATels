@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016csv",
+            "RA": "16:48:09.17",
+            "Dec": "+46:05:24.18",
+            "redshift": "0.03",
+            "Type": "II",
+            "Time": "07:15:11.6",
+            "Date": "2016-07-05"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680, Blondin and Tonry 2007, ApJ, 666, 1024, Rixon et al,2014, ATel #6593",
+    "Event Type": "Classification",
+    "Time": "07:15:11.6",
+    "Date": "2016-07-05",
+    "Telescope": "60 inches optical telescope at Palomar (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

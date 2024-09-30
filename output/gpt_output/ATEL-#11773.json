@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "transient",
+            "Time": "21:02 UT",
+            "Date": "2018 June 22"
+        },
+        {
+            "Name": "ATLAS18qqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "transient",
+            "Time": "21:02 UT",
+            "Date": "2018 June 22"
+        }
+    ],
+    "References": [
+        "Kaastra, J. S., & Bleeker, J., 2016, A&A, 587,151",
+        "Ludlam, R. M., et al., 2018, ApJ, 858, L5",
+        "Smartt, S. J., et al., 2018, ATEL 11727"
+    ],
+    "Event Type": "observation",
+    "Time": "21:02 UT",
+    "Date": "2018 June 22",
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

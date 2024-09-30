@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "06:00:00 - 12:00:00",
+            "Date": "2016-06-23"
+        },
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "2014-06-15"
+        }
+    ],
+    "References": [
+        "ATel #9186",
+        "ATel #9176",
+        "ATel #9157",
+        "ATel #9178",
+        "ATel #9150",
+        "ATel #6236"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": [
+        "LAT"
+    ],
+    "Observatory": "Fermi"
+}

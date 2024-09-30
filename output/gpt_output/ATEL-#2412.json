@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "U Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "2010-01-28 23:31 UTC",
+            "Date": "2010-01-28"
+        }
+    ],
+    "References": [
+        "http://www.aavso.org/publications/alerts/alert415.shtml"
+    ],
+    "Event Type": "Outburst",
+    "Time": "From 2010-01-28 17:01:43 to 2010-01-29 05:10:01",
+    "Date": "2010-01-28",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEMX-2"
+    ],
+    "Observatory": "INTEGRAL"
+}

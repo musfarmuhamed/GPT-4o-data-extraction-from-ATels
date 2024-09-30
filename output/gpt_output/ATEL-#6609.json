@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lac",
+            "RA": "2FGLJ2202.8+4216",
+            "Dec": null,
+            "redshift": "0.0686",
+            "Type": "blazar",
+            "Time": "2456952.47",
+            "Date": "21st October 2014"
+        },
+        {
+            "Name": "BL Lac",
+            "RA": "2FGLJ2202.8+4216",
+            "Dec": null,
+            "redshift": "0.0686",
+            "Type": "blazar",
+            "Time": "2456932.786",
+            "Date": "2nd October 2014"
+        }
+    ],
+    "References": "Carrasco et al. (ATel #6572)",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "IO:I imaging camera, SkyCamZ wide field camera",
+    "Observatory": "La Palma"
+}

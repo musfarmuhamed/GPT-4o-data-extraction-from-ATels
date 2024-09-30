@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "3 UT",
+            "Date": "2016 November 30"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "4 UT",
+            "Date": "2016 November 30"
+        },
+        {
+            "Name": "CTA 102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "0 UT",
+            "Date": "2016 November 29"
+        }
+    ],
+    "References": [
+        "ATel #9756",
+        "ATel #9676",
+        "ATel #9732",
+        "ATel #9756",
+        "ATel #9776",
+        "ATel #9801",
+        "ATel #9743",
+        "ATel #9788"
+    ],
+    "Event Type": "intra-day optical flaring",
+    "Time": "3 UT",
+    "Date": "2016 November 30",
+    "Telescope": "Ferson 0.4-m telescope",
+    "Instrument": "FLI PL1001 CCD camera",
+    "Observatory": "Colgate University's Foggy Bottom Observatory"
+}

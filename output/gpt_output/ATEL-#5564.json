@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 2308+34",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "10:29:83194",
+            "Date": "2013-10-29"
+        },
+        {
+            "Name": "MASTER OT J234843.23+250250.4",
+            "RA": "23:48:43.23",
+            "Dec": "+25:02:50.4",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "10:29:84551",
+            "Date": "2013-10-29"
+        }
+    ],
+    "References": "ATel # 5517, ATel # 5477, ATel # 5487, ATel # 5526, ATel # 5558",
+    "Event Type": "optical photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.35m Newton",
+    "Instrument": "CCD STL11000M",
+    "Observatory": "SAO Plana"
+}

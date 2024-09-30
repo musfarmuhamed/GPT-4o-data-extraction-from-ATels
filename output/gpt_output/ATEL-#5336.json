@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Delphini 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "27.09 UT",
+            "Date": "August 27"
+        },
+        {
+            "Name": "HD 191082",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "A0V star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1280 Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fast nova",
+            "Time": null,
+            "Date": "February 24 to March 3, 2007"
+        }
+    ],
+    "References": "Das et al. 2008, MNRAS, 391, 1874",
+    "Event Type": "Observation",
+    "Time": "27.09 UT",
+    "Date": "August 27",
+    "Telescope": "Apache Point Observatory 3.5m telescope",
+    "Instrument": "TripleSpec",
+    "Observatory": "Apache Point Observatory"
+}

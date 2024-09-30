@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004100+411531.5",
+            "RA": "00:41:00.0",
+            "Dec": "+41:15:31.5",
+            "redshift": null,
+            "Type": "X-ray point source",
+            "Time": "14:00",
+            "Date": "2007-07-31"
+        },
+        {
+            "Name": "CXOM31 J004145+411108.8",
+            "RA": "00:41:45.1",
+            "Dec": "+41:11:08.8",
+            "redshift": null,
+            "Type": "X-ray point source",
+            "Time": "14:00",
+            "Date": "2007-07-31"
+        },
+        {
+            "Name": "CXOM31 J004210+410434.1",
+            "RA": "00:42:10.9",
+            "Dec": "+41:04:34.1",
+            "redshift": null,
+            "Type": "X-ray point source",
+            "Time": "14:00",
+            "Date": "2007-07-31"
+        }
+    ],
+    "References": "Prestwitch et al. (2003, ApJ 595, 719)",
+    "Event Type": "Discovery",
+    "Time": "14:00",
+    "Date": "2007-07-31",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": "Chandra X-ray Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10fqs",
+            "RA": "12:18:50.16",
+            "Dec": "+14:26:39.2",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "16.393",
+            "Date": "2010-04-16"
+        },
+        {
+            "Name": "M99",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M85OT 2006-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": "2006"
+        }
+    ],
+    "References": "Kulkarni et al. 2007, Nature, 447, 458",
+    "Event Type": "discovery",
+    "Time": "16.393",
+    "Date": "2010-04-16",
+    "Telescope": "Gemini-South",
+    "Instrument": "GMOS",
+    "Observatory": "Palomar Observatory"
+}

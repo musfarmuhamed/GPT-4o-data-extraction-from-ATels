@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 676",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.899,
+            "Type": "flat spectrum radio quasar",
+            "Time": "04:10",
+            "Date": "2012-07-07"
+        },
+        {
+            "Name": "NRAO 676",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.899,
+            "Type": "flat spectrum radio quasar",
+            "Time": "04:12",
+            "Date": "2012-07-07"
+        },
+        {
+            "Name": "GSC2.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "1989.745"
+        },
+        {
+            "Name": "USNO-B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "1980.9"
+        }
+    ],
+    "References": [
+        "Sowards-Emmerd et al. 2005, ApJ, 626, 95",
+        "Lasker et al. 2008, AJ, 136, 735",
+        "ATel#4182"
+    ],
+    "Event Type": "detection of gamma-ray activity",
+    "Time": "04:10",
+    "Date": "2012-07-07",
+    "Telescope": "2.56m Nordic Optical Telescope",
+    "Instrument": "R and i-filters",
+    "Observatory": "La Palma"
+}

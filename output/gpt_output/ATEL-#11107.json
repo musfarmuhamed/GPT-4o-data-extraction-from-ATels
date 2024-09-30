@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0716+714",
+            "RA": "07:21:53.45",
+            "Dec": "+71:20:36.36",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "21:43 UTC",
+            "Date": "2017-12-28"
+        }
+    ],
+    "References": [
+        {
+            "ATel": "11100",
+            "MAGIC collaboration": "https://www.lsw.uni-heidelberg.de/projects/extragalactic/charts/0716+714.html",
+            "Villata et al.": "A&AS 130, 305 (1998)",
+            "Tuorla Observatory blazar monitoring program": "http://users.utu.fi/kani/1m/S5_0716+714.html",
+            "ATel #6999": null,
+            "ATel #6953": null
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "21:43 UTC",
+    "Date": "2017-12-28",
+    "Telescope": "0.3 m telescope",
+    "Instrument": "STL-6303 SBig CCD",
+    "Observatory": "Astronomical Observatory of the University of Siena"
+}

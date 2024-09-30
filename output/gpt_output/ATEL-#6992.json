@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "25.31 UT",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "J121240.42+041655.8",
+            "RA": "12h 12m 40.42s",
+            "Dec": "+04d 16m 55.8s",
+            "redshift": null,
+            "Type": "SDSS source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6981",
+    "Event Type": "spectroscopic observations",
+    "Time": "25.31 UT",
+    "Date": "2015-01-25",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "FRODOSpec spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11435-6109",
+            "RA": "11h43m52s",
+            "Dec": "-61d09m00s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "12:30-14:20 UTC",
+            "Date": "Nov. 23, 2004"
+        },
+        {
+            "Name": "4U1145-619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1E1145.1-6141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J114358.1-610736",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ROSAT source 1RXS J114358.1-610736"
+    ],
+    "Event Type": "discovery",
+    "Time": "12:30-14:20 UTC",
+    "Date": "Nov. 23, 2004",
+    "Telescope": "IBIS/ISGRI, JEM-X",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

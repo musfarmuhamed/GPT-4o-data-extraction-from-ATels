@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016iae",
+            "RA": "04:12:05.52",
+            "Dec": "-32:51:44.7",
+            "redshift": "0.003468",
+            "Type": "Transient",
+            "Time": "57699.47",
+            "Date": "20161107.47"
+        },
+        {
+            "Name": "ATLAS16dvr",
+            "RA": "04:12:05.52",
+            "Dec": "-32:51:44.7",
+            "redshift": "0.003468",
+            "Type": "Transient",
+            "Time": "57699.47",
+            "Date": "20161107.47"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "bright transient",
+    "Time": "57699.47",
+    "Date": "20161107.47",
+    "Telescope": "ATLAS",
+    "Instrument": "Null",
+    "Observatory": "Haleakala and Mauna Loa"
+}

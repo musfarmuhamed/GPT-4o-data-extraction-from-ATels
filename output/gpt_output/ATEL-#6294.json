@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": "293.73199",
+            "Dec": "+21.89673",
+            "redshift": null,
+            "Type": "SGR",
+            "Time": "09:32:48",
+            "Date": "07/05/2014"
+        },
+        {
+            "Name": "GRB 140705A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "09:32:48",
+            "Date": "07/05/2014"
+        }
+    ],
+    "References": "Stamatikos et al. GCN 16520, Lien et al. GCN 16522, Osborne et al. GCN 16521, Chester et al. GCN 16523, Breeveld et al. 2011, AIP Conf. Proc. 1358, 373, Schlegel et al. 1998, Cummings, GCN 16530",
+    "Event Type": "Astronomical Alert",
+    "Time": "09:32:48",
+    "Date": "07/05/2014",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

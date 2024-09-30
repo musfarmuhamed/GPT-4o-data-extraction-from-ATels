@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HDE 245770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart of X-ray pulsar",
+            "Time": null,
+            "Date": [
+                "16 Feb 2014",
+                "17 Feb 2014",
+                "22 Feb 2014",
+                "23 Feb 2014",
+                "24 Feb 2014",
+                "25 Feb 2014",
+                "26 Feb 2014"
+            ]
+        },
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "27 Feb 2014"
+        }
+    ],
+    "References": "Giovannelli et al., 2013, A&A, 560, A1G; Tagagi et al., 2014, ATel #5931",
+    "Event Type": "Optical activity observation, X-ray emission prediction",
+    "Time": null,
+    "Date": [
+        "16 Feb 2014",
+        "17 Feb 2014",
+        "22 Feb 2014",
+        "23 Feb 2014",
+        "24 Feb 2014",
+        "25 Feb 2014",
+        "26 Feb 2014",
+        "27 Feb 2014"
+    ],
+    "Telescope": "1.52 m Cassini telescope, 36 cm telescope",
+    "Instrument": null,
+    "Observatory": "Loiano Observatory, Montecatini Val di Cecina Astronomical Center"
+}

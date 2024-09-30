@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0243.6+6124",
+            "RA": "02h 43m 40.4373s",
+            "Dec": "61d 26m 03.713s",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "00:31 UT to 01:30 UT",
+            "Date": "2017 November 8"
+        },
+        {
+            "Name": "3C48",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Calibrator (Primary)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J0244+6228",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Calibrator (Secondary)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kennea et al., ATel #10809",
+        "Doroshenko et al. (2017, arXiv:1710.10912)",
+        "Bahramian et al. (2017, ATel #10866)"
+    ],
+    "Event Type": "Radio detection",
+    "Time": "00:31 UT to 01:30 UT",
+    "Date": "2017 November 8",
+    "Telescope": "Karl G. Jansky Very Large Array",
+    "Instrument": null,
+    "Observatory": "Karl G. Jansky Very Large Array"
+}

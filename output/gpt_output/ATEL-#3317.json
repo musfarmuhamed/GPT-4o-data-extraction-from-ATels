@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SBS1150+497",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.334,
+            "Type": "quasar",
+            "Time": "2455680.827569",
+            "Date": null
+        },
+        {
+            "Name": "SBS1149+499",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.093,
+            "Type": "quasar",
+            "Time": "2455680.752870",
+            "Date": null
+        }
+    ],
+    "References": "Hays and Donato, etal. Atel #3313",
+    "Event Type": "Gamma Ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "LAT",
+    "Instrument": null,
+    "Observatory": "Fermi"
+}

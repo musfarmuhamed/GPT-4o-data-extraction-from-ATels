@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "2008-01-07.58",
+            "Date": "2008-01-07"
+        },
+        {
+            "Name": "SN 2008A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "2008-01-09.38",
+            "Date": "2008-01-09"
+        }
+    ],
+    "References": [
+        "CBET #1193",
+        "CBET #1198"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "2008-01-07.58",
+        "2008-01-09.38"
+    ],
+    "Date": [
+        "2008-01-07",
+        "2008-01-09"
+    ],
+    "Telescope": "Swift Ultraviolet/Optical Telescope",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

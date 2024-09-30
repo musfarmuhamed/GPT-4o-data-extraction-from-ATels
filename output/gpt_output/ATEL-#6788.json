@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GAIA14ACE",
+            "RA": "01:31:39.88",
+            "Dec": "-29:00:05.2",
+            "redshift": null,
+            "Type": "M-star",
+            "Time": null,
+            "Date": "2014-11-16.0"
+        },
+        {
+            "Name": "GAIA14ACP",
+            "RA": "04:00:18.12",
+            "Dec": "-25:52:06.5",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2014-11-16.0"
+        },
+        {
+            "Name": "GAIA14ACR",
+            "RA": "03:58:51.39",
+            "Dec": "+14:11:15.3",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2014-11-18.1"
+        },
+        {
+            "Name": "GAIA14ACY",
+            "RA": "00:40:40.84",
+            "Dec": "-28:57:23.2",
+            "redshift": "0.12",
+            "Type": "SNIa ~ 21 days post-max",
+            "Time": null,
+            "Date": "2014-11-15.9"
+        },
+        {
+            "Name": "GAIA14ADC",
+            "RA": "21:04:15.58",
+            "Dec": "+51:19:57.1",
+            "redshift": null,
+            "Type": "M-star",
+            "Time": null,
+            "Date": "2014-11-15.8"
+        },
+        {
+            "Name": "GAIA14ADE",
+            "RA": "23:50:52.01",
+            "Dec": "+28:58:59.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2014-11-15.9"
+        }
+    ],
+    "References": "ESA Gaia (cosmos.esa.int/gaia), DPAC Photometric Science Alerts Team (http://gaia.ac.uk/selected-gaia-science-alerts)",
+    "Event Type": "Spectroscopic confirmation and classifications for Gaia Photometric Science Alerts",
+    "Time": null,
+    "Date": "Over the nights of 15-18 November",
+    "Telescope": "2.5m Isaac Newton Telescope",
+    "Instrument": "IDS/RED+2/R300V",
+    "Observatory": "La Palma"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20030163-2154516",
+            "RA": "20:03:01.63",
+            "Dec": "-21:54:51.6",
+            "redshift": 0.018623,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15ml",
+            "RA": "20:03:01.67",
+            "Dec": "-21:54:48.25",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-07-12.46",
+            "Date": "2015-07-12.46"
+        }
+    ],
+    "References": "Mt. Cuba Astronomical Foundation",
+    "Event Type": "discovery",
+    "Time": "2015-07-12.46",
+    "Date": "2015-07-12.46",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

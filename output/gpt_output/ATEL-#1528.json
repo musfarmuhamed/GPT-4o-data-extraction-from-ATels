@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXH J173523.7-354013",
+            "RA": "17h 35m 23.75s",
+            "Dec": "-35d 40' 16.2\"",
+            "redshift": null,
+            "Type": "Galactic transient",
+            "Time": "10:32:37 UT",
+            "Date": "May 14, 2008"
+        },
+        {
+            "Name": "UVOT Transient",
+            "RA": "17h 35m 23.75s",
+            "Dec": "-35d 40' 16.1\"",
+            "redshift": null,
+            "Type": "transient optical source",
+            "Time": "10:35:07 UT",
+            "Date": "May 14, 2008"
+        }
+    ],
+    "References": [
+        "Krimm et al. GCN #7713",
+        "Baumgartner et al. GCN #7727"
+    ],
+    "Event Type": "outburst",
+    "Time": "10:32:37 UT",
+    "Date": "May 14, 2008",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift"
+}

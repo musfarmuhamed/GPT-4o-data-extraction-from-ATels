@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15dc",
+            "RA": "15:01:30.82",
+            "Dec": "-00:32:24.38",
+            "redshift": "0.041605",
+            "Type": "Supernova",
+            "Time": "2015-02-16.54",
+            "Date": "2015-02-16.54"
+        }
+    ],
+    "References": [
+        {
+            "Name": "SDSS J150130.77-003222.8",
+            "RA": "15:01:30.77",
+            "Dec": "-00:32:22.8",
+            "redshift": "0.041605",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2015-02-16.54",
+    "Date": "2015-02-16.54",
+    "Telescope": "Planewave CDK 0.61-m telescope",
+    "Instrument": "Null",
+    "Observatory": "Sierra Remote Observatory"
+}

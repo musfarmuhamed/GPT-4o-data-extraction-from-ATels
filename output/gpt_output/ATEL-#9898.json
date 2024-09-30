@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16pd",
+            "RA": "07:05:26.700",
+            "Dec": "-76:00:33.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-12-23.22",
+            "Date": "2016-12-23"
+        }
+    ],
+    "References": [
+        {
+            "Name": "PGC 241921",
+            "RA": null,
+            "Dec": null,
+            "redshift": "No redshift information available"
+        }
+    ],
+    "Event Type": "transient source discovery",
+    "Time": "2016-12-23.22",
+    "Date": "2016-12-23",
+    "Telescope": "Cassius",
+    "Instrument": "quadruple 14-cm",
+    "Observatory": "Cerro Tololo"
+}

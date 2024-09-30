@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2493 Cyg (HBC 722)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FUor (debated as EXor)",
+            "Time": null,
+            "Date": "2012 May 11"
+        }
+    ],
+    "References": [
+        "Lorenzetti et al. 2009 ApJ 693, 1056",
+        "Miller et al. 2011 ApJ 730, 80; ATel #2801, ATel #2854",
+        "Kospal et al. 2011 A&A 527, A133",
+        "Lorenzetti et al. 2012 ApJ 749 188",
+        "Semkov et al. 2012 arXiv1205.2532S",
+        "Antoniucci et al. 2011 A&A 534, A32"
+    ],
+    "Event Type": "near-IR spectroscopic monitoring",
+    "Time": null,
+    "Date": "2012 May 11",
+    "Telescope": "AZT24 1m IR telescope",
+    "Instrument": "low resolution near-IR spectrometer (R~250)",
+    "Observatory": "Campo Imperatore, Italy"
+}

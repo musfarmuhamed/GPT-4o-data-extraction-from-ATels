@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "07.52",
+            "Date": "2002-04-07"
+        },
+        {
+            "Name": "4U 1820-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultra-compact binary",
+            "Time": null,
+            "Date": "2000"
+        },
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary pulsar",
+            "Time": null,
+            "Date": "2001"
+        },
+        {
+            "Name": "4U 0614+091",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2001"
+        }
+    ],
+    "References": [
+        "Markwardt and Swank, 2002",
+        "in't Zand et al. 2002, IAUC 7867",
+        "Ehle et al. 2002, IAUC 7872",
+        "Markwardt and Swank, 2002, IAUC 7876",
+        "Miller et al., 2002, ATEL 90",
+        "Asai et al. 2000, ApJS, 131, 571",
+        "Schulz et al. 2001, ApJ, 5363, 941",
+        "Juett et al., 2001, ApJ, 560, L59",
+        "Morrison and McCammon, 1983, ApJ, 270, 119",
+        "Verner et al. 1993, ADNDT, 55, 233"
+    ],
+    "Event Type": "observation",
+    "Time": "07.52",
+    "Date": "2002-04-07",
+    "Telescope": "XMM-Newton",
+    "Instrument": "Reflection Grating Spectrometer (RGS)",
+    "Observatory": null
+}

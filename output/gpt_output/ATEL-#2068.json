@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1627-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft gamma-ray repeater",
+            "Time": null,
+            "Date": "2008 May 28"
+        },
+        {
+            "Name": "SGR 1627-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft gamma-ray repeater",
+            "Time": null,
+            "Date": "2008 September 27-28"
+        },
+        {
+            "Name": "SGR 1627-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft gamma-ray repeater",
+            "Time": null,
+            "Date": "2008 June 03"
+        }
+    ],
+    "References": [
+        "Esposito et al. 2008, MNRAS, 390, L34",
+        "Esposito et al. 2009, ApJ, 690, L105",
+        "ATEL #1564 by Woods et al."
+    ],
+    "Event Type": "bursts, periodic signal detection",
+    "Time": [
+        "2.594578(6) s",
+        "2.59439 \u00b1 0.00004 s"
+    ],
+    "Date": [
+        "2008 May 28",
+        "2008 September 27-28",
+        "2008 June 03"
+    ],
+    "Telescope": [
+        "XMM-Newton",
+        "Chandra"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

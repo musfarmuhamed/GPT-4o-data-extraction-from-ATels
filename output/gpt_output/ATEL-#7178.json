@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15jq",
+            "RA": "11:32:48.79",
+            "Dec": "+37:54:01.4",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "2015-02-18",
+            "Date": "2015-02-12.41"
+        },
+        {
+            "Name": "iPTF15li",
+            "RA": "12:32:38.63",
+            "Dec": "+05:36:41.4",
+            "redshift": "0.14",
+            "Type": "SN Ia",
+            "Time": "2015-02-26",
+            "Date": "2015-02-15.53"
+        },
+        {
+            "Name": "iPTF15lp",
+            "RA": "11:11:40.55",
+            "Dec": "+53:59:06.4",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "2015-02-17",
+            "Date": "2015-02-15.34"
+        },
+        {
+            "Name": "iPTF15nu",
+            "RA": "12:15:22.57",
+            "Dec": "+53:40:36.0",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "2015-03-01",
+            "Date": "2015-02-17.36"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Yaron & Gal-Yam 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "discovery and classification of Type Ia SNe",
+    "Time": "Varies",
+    "Date": "Varies",
+    "Telescope": [
+        "P200",
+        "NOT",
+        "FTN"
+    ],
+    "Instrument": [
+        "DBSP",
+        "ALFOSC",
+        "FLOYDS"
+    ],
+    "Observatory": "intermediate Palomar Transient Factory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18027-1455",
+            "RA": "18h 02m 47.32s",
+            "Dec": "-14deg 54' 54.6\"",
+            "redshift": null,
+            "Type": "Sey 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J19284+0107",
+            "RA": "19h 28m 29.6s",
+            "Dec": "+01deg 06' 42.4\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Panessa et al. 2008, A&A, 483, 151; Combi et al. 2004 ATel #246; 2nd IBIS catalogue; IGR Sources page maintained by J. Rodriguez & A. Bodaghee (http://irfu.cea.fr/Sap/IGR-Sources/)",
+    "Event Type": "identification and positional refinement",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XMM-Newton",
+    "Instrument": "MOS 1 and MOS 2",
+    "Observatory": "XMM-Newton satellite"
+}

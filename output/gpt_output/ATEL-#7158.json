@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-02a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova, Fe II class",
+            "Time": "21.742 UT",
+            "Date": "2015-02-21"
+        },
+        {
+            "Name": "M31N 2015-02b",
+            "RA": "J00413317+4110124",
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova, He/N class",
+            "Time": "21.702 UT",
+            "Date": "2015-02-21"
+        }
+    ],
+    "References": [
+        "#7065",
+        "#7076",
+        "#7104",
+        "#7113",
+        "#7116",
+        "#7142"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": null,
+    "Date": "2015-02-21",
+    "Telescope": "Russian BTA telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

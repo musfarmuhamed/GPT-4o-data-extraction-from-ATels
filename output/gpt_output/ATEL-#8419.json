@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ub",
+            "RA": "11:07:13.07",
+            "Dec": "+65:05:58.21",
+            "redshift": "0.032",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-12-14"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "ATel #8409",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2015-12-16.3 UT",
+    "Date": "2015-12-16",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Null"
+}

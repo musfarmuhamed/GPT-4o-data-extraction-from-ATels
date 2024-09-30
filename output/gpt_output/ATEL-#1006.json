@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-290135.6",
+            "RA": "17h 45m 35.4s",
+            "Dec": "-29d 01m 38s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "21:39 to 00:37",
+            "Date": "16-17 Feb 2007"
+        },
+        {
+            "Name": "GRS 1741.9-2853",
+            "RA": "17h 45m 02.0s",
+            "Dec": "-28d 54m 54s",
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1005",
+        "ATEL #753",
+        "Muno et al. 2003, ApJ, 598, 474",
+        "GCN #6020"
+    ],
+    "Event Type": "Galactic center transient detection",
+    "Time": "21:39 to 00:37",
+    "Date": "16-17 Feb 2007",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "INTEGRAL"
+}

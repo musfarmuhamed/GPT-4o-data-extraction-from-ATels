@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Cyg 2014 (PNV J20214234+3103296)",
+            "RA": "20214234",
+            "Dec": "3103296",
+            "redshift": null,
+            "Type": "Fe II-type classical Nova",
+            "Time": "2.125 UT, 9.104 UT",
+            "Date": "April 2, 2014 - April 9, 2014"
+        }
+    ],
+    "References": [
+        "Arai & Ayani, CBET 3482",
+        "Munari et al. (CBET 3482)",
+        "Schlegel et al. 1998",
+        "Schlafly & Finkbeiner 2011",
+        "Poznanski et al. (2012)",
+        "NASA IPAC Infrared Science Archive (IRSA)",
+        "AAVSO observations",
+        "vsnet-alert 17182"
+    ],
+    "Event Type": "Nova Observation",
+    "Time": "April 2.125 UT - April 9.104 UT",
+    "Date": "April 2014",
+    "Telescope": "60 cm Cassegrain telescopes, 2 m RCC telescope",
+    "Instrument": "SBIG STL-1001 camera, FLI PL09000 camera, grizm spectrograph, Coude spectrograph",
+    "Observatory": "Nicolaus Copernicus University Observatory (Torun, Poland), Rozhen Observatory (Bulgaria)"
+}

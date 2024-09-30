@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN candidate",
+            "RA": "12h 41m 38.10s",
+            "Dec": "+47d 47m 51s.4",
+            "redshift": null,
+            "Type": "Transient source",
+            "Time": "2010-12-19.01 UT",
+            "Date": "2010-12-19"
+        },
+        {
+            "Name": "OT",
+            "RA": "12h 41m 38.10s",
+            "Dec": "+47d 47m 51s.4",
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2010-12-19.05 UT",
+                "2010-12-20.11 UT"
+            ],
+            "Date": [
+                "2010-12-19",
+                "2010-12-20"
+            ]
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/SN101219/sn.html",
+    "Event Type": "Transient source detection",
+    "Time": "2010-12-19.01 UT",
+    "Date": "2010-12-19",
+    "Telescope": "MASTER Robotic Net",
+    "Instrument": null,
+    "Observatory": "Kislovodsk"
+}

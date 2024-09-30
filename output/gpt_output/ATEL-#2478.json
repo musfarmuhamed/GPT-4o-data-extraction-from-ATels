@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008M",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": "10.1 ks",
+            "Date": "2008-01-28 to 2008-01-30"
+        },
+        {
+            "Name": "ESO 121-026",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #1214, Dickey & Lockman, 1990, ARAA 28, Terry, Paturel & Ekholm, 2002, A&A 393, 57",
+    "Event Type": "X-ray point-source detection",
+    "Time": "10.1 ks",
+    "Date": "2008-01-28 to 2008-01-30",
+    "Telescope": "Swift X-Ray Telescope (XRT)",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

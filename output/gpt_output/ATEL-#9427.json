@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "4-10 keV fluxes",
+            "Date": "2016-08-27"
+        },
+        {
+            "Name": "GX 340-0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2363",
+        "ATel #3830",
+        "ATel #6991"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2016-08-27",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

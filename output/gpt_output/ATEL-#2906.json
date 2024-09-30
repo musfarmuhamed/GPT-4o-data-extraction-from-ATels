@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": "16 59 01.67709",
+            "Dec": "-15 15 28.7324",
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "13:30 to 18:30 UT",
+            "Date": "30 September 2010"
+        },
+        {
+            "Name": "MAXI J1659-152",
+            "RA": "16 59 01.67709",
+            "Dec": "-15 15 28.7324",
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "13:30 to 18:00 UT",
+            "Date": "4 October 2010"
+        }
+    ],
+    "References": [
+        "Negoro et al. 2010, ATel #2873",
+        "Mangano et al. 2010, GCN #11296",
+        "de Ugarte Postigo et al. 2010, GCN #11304",
+        "van der Horst et al. 2010, ATel #2874",
+        "Marshall 2010, GCN #11298",
+        "Kalamkar et al. 2010, ATel #2881",
+        "Yang et al. 2010, arXiv1009.1367",
+        "Rushton et al. 2010, ATel #2734"
+    ],
+    "Event Type": "Observation",
+    "Time": "13:30 to 18:30 UT",
+    "Date": "30 September 2010",
+    "Telescope": "EVN",
+    "Instrument": null,
+    "Observatory": "European VLBI Network"
+}

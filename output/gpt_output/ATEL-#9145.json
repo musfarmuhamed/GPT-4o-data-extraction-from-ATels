@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016csu",
+            "RA": "13:40:31.71",
+            "Dec": "+55:35:35.6",
+            "redshift": "0.036665",
+            "Type": "transient",
+            "Time": "57535.35",
+            "Date": "2016-06-13"
+        },
+        {
+            "Name": "AT2016cst",
+            "RA": "15:36:44.91",
+            "Dec": "+48:17:43.8",
+            "redshift": "0.075233",
+            "Type": "transient",
+            "Time": "57541.42",
+            "Date": "2016-06-19"
+        },
+        {
+            "Name": "AT2016csv",
+            "RA": "16:48:09.17",
+            "Dec": "+46:05:24.1",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "57545.40",
+            "Date": "2016-06-23"
+        },
+        {
+            "Name": "AT2016cvj",
+            "RA": "16:32:59.21",
+            "Dec": "+31:57:43.2",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "57546.42",
+            "Date": "2016-06-24"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": "2016-06-13",
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

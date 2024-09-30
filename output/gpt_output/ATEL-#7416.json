@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1441+25",
+            "RA": "14h43m56.9s",
+            "Dec": "+25d01m44s",
+            "redshift": 0.939,
+            "Type": "FSRQ",
+            "Time": "Night",
+            "Date": "2015 April 17/18"
+        },
+        {
+            "Name": "PKS 1441+25",
+            "RA": "14h43m56.9s",
+            "Dec": "+25d01m44s",
+            "redshift": 0.939,
+            "Type": "FSRQ",
+            "Time": "Night",
+            "Date": "2015 April 18/19"
+        }
+    ],
+    "References": [
+        "Shaw et al. 2012, ApJ, 748, 49",
+        "ATel #7402",
+        "http://www.swift.psu.edu/monitoring/source.php?source=PKS1441+25"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "Night",
+    "Date": "2015 April 17/18 and 2015 April 18/19",
+    "Telescope": "MAGIC telescopes",
+    "Instrument": "Imaging Atmospheric Cherenkov Telescopes",
+    "Observatory": "La Palma, Spain"
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1824-141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18246-1425",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J18242381-1424509",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Infrared source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1679",
+        "ATEL #1680"
+    ],
+    "Event Type": "Follow-up observations",
+    "Time": "15:40 UT",
+    "Date": "2008-08-26",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift observatory"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J223315.51+393539.5",
+            "RA": "22h 33m 15.51s",
+            "Dec": "+39d 35m 39.5s",
+            "redshift": null,
+            "Type": "CV (cataclysmic variable) / dwarf nova",
+            "Time": "2013-07-12.65778 UT",
+            "Date": "2013-07-12"
+        },
+        {
+            "Name": "MASTER OT J023406.06+384142.4",
+            "RA": "02h 34m 06.05s",
+            "Dec": "+38d 41m 42.4s",
+            "redshift": null,
+            "Type": "CV (cataclysmic variable) / dwarf nova (SU UMa type)",
+            "Time": "2013-07-19.98779 UT",
+            "Date": "2013-07-19"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-08-18",
+            "Time": "2012-08-18.69272 UT",
+            "Image URL": "http://master.sai.msu.ru/static/OT/223315.51393539.5.png",
+            "Magnitude Limit": "19.2m"
+        },
+        {
+            "Date": "2013-02-06",
+            "Time": "2013-02-06.66060 UT",
+            "Image URL": "http://master.sai.msu.ru/static/OT/023406.06384142.4.png",
+            "Magnitude Limit": "17.9m"
+        }
+    ],
+    "Event Type": "Discovery of Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

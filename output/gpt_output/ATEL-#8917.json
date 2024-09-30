@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016blq",
+            "RA": "11 08 55.51",
+            "Dec": "-29 01 26.4",
+            "redshift": 0.04,
+            "Type": "IIb",
+            "Time": "max",
+            "Date": "2016 04 05"
+        },
+        {
+            "Name": "AT2016bls",
+            "RA": "12 20 17.22",
+            "Dec": "-26 53 47.0",
+            "redshift": 0.96,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "2016 04 05"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2016 04 05",
+    "Date": null,
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

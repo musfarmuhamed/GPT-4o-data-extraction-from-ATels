@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15qc",
+            "RA": "00:39:17.98",
+            "Dec": "03:57:00.14",
+            "redshift": "0.017649",
+            "Type": "Supernova",
+            "Time": "2015-10-01.48",
+            "Date": "2015-10-01"
+        },
+        {
+            "Name": "UGC 00402",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017649",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Science Fund"
+    ],
+    "Event Type": "Discovery of a transient source",
+    "Time": "2015-10-01.48",
+    "Date": "2015-10-01",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

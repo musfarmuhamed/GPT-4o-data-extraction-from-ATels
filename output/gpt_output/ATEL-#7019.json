@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09551301+6904206",
+            "RA": "9h55m13s.01",
+            "Dec": "+69o04'20\".6",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "29.117 UT",
+            "Date": "2015-01-29"
+        },
+        {
+            "Name": "PNV J09550693+6902588",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "29.117 UT",
+            "Date": "2015-01-29"
+        },
+        {
+            "Name": "PNV J09554328+6902033",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "29.117 UT",
+            "Date": "2015-01-29"
+        },
+        {
+            "Name": "PNV J09555775+6902126",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "29.117 UT",
+            "Date": "2015-01-29"
+        }
+    ],
+    "References": [
+        "ATel #6968",
+        "ATel #6599",
+        "ATel #6678",
+        "ATel #6552"
+    ],
+    "Event Type": "discovery of a probable nova",
+    "Time": "29.117 UT",
+    "Date": "2015-01-29",
+    "Telescope": "Isaac Newton Telescope (INT)",
+    "Instrument": "WFC (Wide Field Camera)",
+    "Observatory": "Observatorio del Roque de los Muchachos, La Palma"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-014",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.05",
+            "Type": "type-Ib supernova",
+            "Time": "Feb 15.02 UT",
+            "Date": "2014"
+        },
+        {
+            "Name": "LSQ13cum",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ib supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-017",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.043",
+            "Type": "type-IIn supernova",
+            "Time": "Mar 3.12",
+            "Date": "2013"
+        },
+        {
+            "Name": "2MASX J04272268-7442059",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #5561",
+        "ATel #4495",
+        "ATel #4859",
+        "ATel #4863"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "Feb 15.02 UT",
+    "Date": "2014",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

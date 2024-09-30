@@ -1,0 +1,86 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGILE transient AGL J1035-6055",
+            "RA": 158.96,
+            "Dec": -60.92,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 1",
+            "RA": 158.6952,
+            "Dec": -60.789,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 2",
+            "RA": 159.8552,
+            "Dec": -61.0845,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 3",
+            "RA": 159.012,
+            "Dec": -61.1721,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 4",
+            "RA": 158.4467,
+            "Dec": -61.0806,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 5",
+            "RA": 159.871,
+            "Dec": -60.9844,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source 6",
+            "RA": 158.0859,
+            "Dec": -60.9434,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J103640.6-603610",
+            "RA": 159.1692,
+            "Dec": -60.6029,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lucarelli et al., ATel #9947",
+        "IAUC 7432, Voges et al. 2000"
+    ],
+    "Event Type": "X-ray follow-up observations",
+    "Time": "03:07:20 UT to 09:36:42 UT",
+    "Date": "2017-01-08",
+    "Telescope": "Swift-XRT",
+    "Instrument": "Photon Counting (PC) mode",
+    "Observatory": "Swift Observatory"
+}

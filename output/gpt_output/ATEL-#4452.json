@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyx",
+            "RA": "9h04m41s.52",
+            "Dec": "-32d22'47\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "339 days from 2011-04-14",
+            "Date": "2012-03-18"
+        },
+        {
+            "Name": "T Pyx",
+            "RA": "9h04m41s.52",
+            "Dec": "-32d22'47\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "521 days from 2011-04-14",
+            "Date": "2012-09-16"
+        }
+    ],
+    "References": [
+        "CBET #2700",
+        "IAUC #9205",
+        "ATels #3285",
+        "ATels #3549",
+        "ATels #3647",
+        "ATels #3707",
+        "ATels #3782",
+        "ATels #3310",
+        "ATels #3318",
+        "ATels #3679",
+        "private communication, EVLA nova team"
+    ],
+    "Event Type": "target of opportunity observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "GMRT",
+    "Instrument": null,
+    "Observatory": "National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research"
+}

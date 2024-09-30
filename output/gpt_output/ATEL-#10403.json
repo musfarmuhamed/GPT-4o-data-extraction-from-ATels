@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17bbt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.032,
+            "Type": "II",
+            "Time": "2017-05-19.10",
+            "Date": "2017-04-23"
+        },
+        {
+            "Name": "ATLAS17fgz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.074,
+            "Type": "Ia",
+            "Time": "2017-05-18.92",
+            "Date": "2017-05-14"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "ATel #8680",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593",
+        "http://cosmos.esa.int/gaia",
+        "http://gsaweb.ast.cam.ac.uk/alerts/"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC (range 350-950 nm; resolution 1.6 nm FWHM)",
+    "Observatory": "Nordic Optical Telescope"
+}

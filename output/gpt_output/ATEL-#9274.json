@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": "11h 19m 19s",
+            "Dec": "-61d 28' 38''",
+            "redshift": null,
+            "Type": "high magnetic field pulsar",
+            "Time": "01:27:51 UT",
+            "Date": null
+        },
+        {
+            "Name": "3XMM J111914.2-612749",
+            "RA": "11h 19m 14.11s",
+            "Dec": "-61d 27' 48.3''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "01:28:53.8 UT",
+            "Date": null
+        }
+    ],
+    "References": "Antonopoulou et al. MNRAS 447, 3924, 3935 (2015); Younes et al, GCN Circular #19736",
+    "Event Type": "SGR burst",
+    "Time": "01:27:51 UT",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), XRT, UVOT",
+    "Observatory": null
+}

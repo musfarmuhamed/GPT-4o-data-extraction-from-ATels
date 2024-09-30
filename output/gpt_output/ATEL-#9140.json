@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16cqc",
+            "RA": "21:06:11.50",
+            "Dec": "-25:10:40.0",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "+3 months",
+            "Date": "2016 June 10"
+        },
+        {
+            "Name": "PS16cro",
+            "RA": "21:27:20.05",
+            "Dec": "-02:44:37.1",
+            "redshift": "0.087",
+            "Type": "II",
+            "Time": "+1 month",
+            "Date": "2016 June 10"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2016 June 10",
+    "Telescope": "SOAR 4-m",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

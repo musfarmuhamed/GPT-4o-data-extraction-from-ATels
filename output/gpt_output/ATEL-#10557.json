@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V5668 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II classical nova",
+            "Time": "15.634 UT",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "V443 Sct",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "1989"
+        }
+    ],
+    "References": [
+        "CBET No. 4030",
+        "ATEL #7230",
+        "ATEL #7283",
+        "ATEL #7315",
+        "ATEL #7303",
+        "ATEL #7643",
+        "Molaro et al. MN, 463, L117, 2016",
+        "Tajitsu et al. ApJ, 818, 191, 2016",
+        "Wagner et al. 2017 in prep.",
+        "Williams, Phillips, and Hamuy, ApJS, 90, 297, 1994",
+        "Helton et al., ApJ, 755, 37, 2012",
+        "Calv\u00e9n et al. 2017, AAS 230, 317.01",
+        "Starrfield et al. 2017, AAS 230, 317.02"
+    ],
+    "Event Type": "Observation",
+    "Time": "28.40 UT",
+    "Date": "2017-05-28",
+    "Telescope": "Large Binocular Telescope",
+    "Instrument": "MODS1 & MODS2 two-channel spectrographs",
+    "Observatory": "Mt. Graham, Arizona"
+}

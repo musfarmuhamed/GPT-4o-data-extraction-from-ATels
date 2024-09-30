@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J181227.8-181234",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bursting neutron-star in a presumed low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1812-182",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1H 1812-182",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1810-189",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient burst source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cackett et al. 2006, MNRAS 369, 1965",
+        "Markwardt et al. 2008, ATel #1685",
+        "Torres et al. 2008, ATel #1696",
+        "Markwardt et al. 2008, ATel #1443",
+        "Swank & Markwardt 2001, ASP Conf. Proc. 251, 94",
+        "Kuulkers et al. 2003, A&A 399, 663",
+        "Titarchuk 1994, ApJ 434, 570"
+    ],
+    "Event Type": "thermonuclear (type-I) X-ray burst",
+    "Time": "between MJD 54717 and 54736",
+    "Date": "between 2008 August 21 and October 19",
+    "Telescope": "Rossi X-ray Timing Explorer",
+    "Instrument": "Proportional Counter Array (PCA)",
+    "Observatory": null
+}

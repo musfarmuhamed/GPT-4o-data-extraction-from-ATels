@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016aez",
+            "RA": "05 31 18.16",
+            "Dec": "-29 17 42.3",
+            "redshift": "0.038",
+            "Type": "SNIa",
+            "Time": "a few days after max",
+            "Date": "2016-02-05"
+        },
+        {
+            "Name": "SN2016ajb",
+            "RA": "09 56 40.96",
+            "Dec": "-10 38 32.9",
+            "redshift": "0.069",
+            "Type": "SNIa",
+            "Time": "around maximum light",
+            "Date": "2016-02-11"
+        },
+        {
+            "Name": "SN2016aix",
+            "RA": "01 44 16.90",
+            "Dec": "-41 53 37.1",
+            "redshift": "0.029",
+            "Type": "SNIa",
+            "Time": "~ 1 week before max",
+            "Date": "2016-02-14"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al., ATel #8680",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.pessto.org",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "http://gsaweb.ast.cam.ac.uk/alertsc",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2016-02-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

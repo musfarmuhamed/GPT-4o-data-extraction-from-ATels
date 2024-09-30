@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J131847.92+672030.3",
+            "RA": "13h 18m 47.92s",
+            "Dec": "+67d 20m 30.3s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "22.73999",
+            "Date": "2015-03-22"
+        },
+        {
+            "Name": "SDSS J131848.80+672028.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery - possible SN",
+    "Time": "22.73999",
+    "Date": "2015-03-22",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

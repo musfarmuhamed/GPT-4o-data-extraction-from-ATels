@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J054925.67+102044.8",
+            "RA": "05 49 25.67",
+            "Dec": "+10 20 44.8",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "04.858",
+            "Date": "2014-01-04"
+        },
+        {
+            "Name": "J133357.95+240714.7",
+            "RA": "13 33 57.95",
+            "Dec": "+24 07 14.7",
+            "redshift": "<23.5",
+            "Type": "CV",
+            "Time": "05.023",
+            "Date": "2014-01-05"
+        },
+        {
+            "Name": "J043202.75+744704.4",
+            "RA": "04 32 02.75",
+            "Dec": "+74 47 04.4",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "05.689",
+            "Date": "2014-01-05"
+        },
+        {
+            "Name": "J052304.99-080228.3",
+            "RA": "05 23 04.99",
+            "Dec": "-08 02 28.3",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "05.793",
+            "Date": "2014-01-05"
+        },
+        {
+            "Name": "J035204.44+283253.0",
+            "RA": "03 52 04.44",
+            "Dec": "+28 32 53.0",
+            "redshift": null,
+            "Type": "UV",
+            "Time": "06.647",
+            "Date": "2014-01-06"
+        },
+        {
+            "Name": "J111830.64+801437.9",
+            "RA": "11 18 30.64",
+            "Dec": "+80 14 37.9",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "07.388",
+            "Date": "2014-01-07"
+        }
+    ],
+    "References": "ATel #5710",
+    "Event Type": "Discovery",
+    "Time": "2014-01-04 to 2014-01-07",
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk and MASTER-Amur auto-detection systems",
+    "Instrument": "Not specified",
+    "Observatory": "Not specified"
+}

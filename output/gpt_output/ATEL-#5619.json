@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2013dy",
+            "RA": "22:18:17.60",
+            "Dec": "40:34:09.6",
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "10.45",
+            "Date": "July 2013"
+        },
+        {
+            "Name": "NGC 7250",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2013"
+        }
+    ],
+    "References": "CBET #3588, Zheng et al. 2013, Weiler et al. 2002",
+    "Event Type": "radio observations",
+    "Time": null,
+    "Date": "4 - 6 August 2013",
+    "Telescope": "five eMERLIN antennas",
+    "Instrument": null,
+    "Observatory": "eMERLIN"
+}

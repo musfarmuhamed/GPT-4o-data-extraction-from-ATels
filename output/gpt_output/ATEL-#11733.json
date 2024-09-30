@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V4332 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": "1994"
+        }
+    ],
+    "References": "Barsukova et al. (2017, ASPC, 510, 401)",
+    "Event Type": "merger in a contact system",
+    "Time": null,
+    "Date": "1994",
+    "Telescope": [
+        "Russian 6 m telescope BTA",
+        "SAO 1 m Zeiss telescope",
+        "smaller telescopes of SAI Crimean Station"
+    ],
+    "Instrument": [
+        "SCORPIO focal reducer",
+        "UBVRI photometer based on CCD EEV 42-40 chip"
+    ],
+    "Observatory": null
+}

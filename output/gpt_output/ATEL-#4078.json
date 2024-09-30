@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PG 1553+113",
+            "RA": "15:55:46.0",
+            "Dec": "+11:11:20",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "02:59:10",
+            "Date": "2012-04-15"
+        },
+        {
+            "Name": "PG 1553+113",
+            "RA": "15:55:46.0",
+            "Dec": "+11:11:20",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "04:23:22",
+            "Date": "2012-04-17"
+        },
+        {
+            "Name": "PG 1553+113",
+            "RA": "15:55:46.0",
+            "Dec": "+11:11:20",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "02:16:56",
+            "Date": "2012-04-21"
+        },
+        {
+            "Name": "PG 1553+113",
+            "RA": "15:55:46.0",
+            "Dec": "+11:11:20",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "02:48:55",
+            "Date": "2012-04-23"
+        }
+    ],
+    "References": "Steele, I.A., S.D. Bates, C.J. Mottram et al. \"RINGO2: an EMCCD-based polarimeter for GRB follow-up\", Proc. SPIE 7735, 773549 (2010).",
+    "Event Type": "optical polarimetric observations",
+    "Time": null,
+    "Date": "2012",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "RINGO2 polarimeter",
+    "Observatory": "La Palma, Canary Islands"
+}

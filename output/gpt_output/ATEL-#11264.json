@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J164710.2-455216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "19:27:11",
+            "Date": "2018-02-05"
+        },
+        {
+            "Name": "CXOU J1647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "07:25:58",
+            "Date": "2018-02-06"
+        },
+        {
+            "Name": "CXOU J1647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:33:36",
+            "Date": "2018-02-06"
+        }
+    ],
+    "References": [
+        "Barthelmy et al. 2018, GCN #22389",
+        "D'Ai et al. 2017, GCN #21095",
+        "ATEL #10878"
+    ],
+    "Event Type": "burst detection",
+    "Time": "19:27:11",
+    "Date": "2018-02-05",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": null
+}

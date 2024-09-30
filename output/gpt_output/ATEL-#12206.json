@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1153-1124",
+            "RA": "178.44 deg",
+            "Dec": "-11.11 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS J1153-1105",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.269",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/",
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": null,
+    "Date": "November 10, 2018 - November 11, 2018",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

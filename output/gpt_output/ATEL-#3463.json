@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1112.2-8238",
+            "RA": "167.94718",
+            "Dec": "-82.64561",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "17:04",
+            "Date": "2011-06-29"
+        },
+        {
+            "Name": "2MASS J121114776-8238392",
+            "RA": "167.949007",
+            "Dec": "-82.644241",
+            "redshift": null,
+            "Type": "M5V dwarf or cooler",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Goad et al. (2007, A&A, 476, 1401)",
+        "Burrows et al, 2011, arXiv 1104.4787",
+        "Cenko et al, ATel #3426"
+    ],
+    "Event Type": "Detection of X-ray transient",
+    "Time": "17:04",
+    "Date": "2011-06-29",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": "Swift"
+}

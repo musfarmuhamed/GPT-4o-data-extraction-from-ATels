@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.94",
+            "Type": "QSO",
+            "Time": "2458071.8471",
+            "Date": "November 14th 2017"
+        },
+        {
+            "Name": "CGRaBSJ0238+1636",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.94",
+            "Type": "QSO",
+            "Time": "2458071.8471",
+            "Date": "November 14th 2017"
+        }
+    ],
+    "References": [
+        "ATEL #8044",
+        "ATEL #8429",
+        "ATEL #10062"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "2458071.8471",
+    "Date": "November 14th 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

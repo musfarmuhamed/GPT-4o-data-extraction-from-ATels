@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMM J174457-2850.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2015, JHEA 7, 137",
+        "ATel #9551",
+        "Degenaar et al. 2014, ApJ 792, 109"
+    ],
+    "Event Type": "X-ray monitoring",
+    "Time": null,
+    "Date": "2017 February 2",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

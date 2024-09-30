@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6 J1604+5714",
+            "RA": "16h04m37.3546s",
+            "Dec": "+57d14m36.660s",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1604.6+5710",
+            "RA": "241.15445 deg",
+            "Dec": "+57.178528 deg",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J160437.36+571436.6",
+            "RA": "16h04m37.36s",
+            "Dec": "+57d14m36.68s",
+            "redshift": null,
+            "Type": "Gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nolan et al. (2012 ApJS, 199, 31)",
+        "Beasley et al. (2002, ApJS, 141, 13)",
+        "Massaro, F. et al. (2011 ApJ, 740L, 48)",
+        "Massaro, F. et al. (2012 ApJ, 752, 61)",
+        "Ackermann et al. (2011 ApJ, 743, 171)"
+    ],
+    "Event Type": "Rapid optical variability detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": null,
+    "Observatory": "University of California, Los Angeles, and the Jet Propulsion Laboratory/California Institute of Technology"
+}

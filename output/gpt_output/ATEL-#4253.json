@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J20233626-2816434",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010187",
+            "Type": "Type Ia supernova",
+            "Time": "11.5",
+            "Date": "2012-07-11"
+        },
+        {
+            "Name": "ESO 462-G016",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010187",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2009dc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2006gz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Theureau et al 1998, A&AS, 130, 333",
+        "Thomas et al 2011, ApJ, 743, 27",
+        "Taubenberger et al 2011, MNRAS, 412, 2735",
+        "Hicken et al 2007, ApJ 669, 17"
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": "11.5",
+    "Date": "2012-07-11",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "Nearby Supernova Factory II"
+}

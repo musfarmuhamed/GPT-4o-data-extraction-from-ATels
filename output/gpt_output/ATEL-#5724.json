@@ -1,0 +1,95 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J172758.09+380021.5",
+            "RA": "17h 27m 58.09s",
+            "Dec": "+38d 00m 21.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2014-01-04.84034 UT",
+            "Date": "2014-01-04"
+        },
+        {
+            "Name": "USNO-A2.0 1275-09374556",
+            "RA": "17 27 58.19",
+            "Dec": "+38 00 22.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1280-0316081",
+            "RA": "17 27 58.131",
+            "Dec": "+38 00 22.78",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J172758.13+380022.4",
+            "RA": "17 27 58.13",
+            "Dec": "+38 00 22.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J172758.0+380021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J172758.1+380022",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "FIRST J172758.2+380019",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J172758.28+380026.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS J172758.1+380023",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Flesch, 2010"
+    ],
+    "Event Type": "new bright CV",
+    "Time": "2014-01-04",
+    "Date": "2014-01-04",
+    "Telescope": "Catalina Sky Survey",
+    "Instrument": null,
+    "Observatory": "MASTER-Amur"
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J055348.98+482209.0",
+            "RA": "05h 53m 48.98s",
+            "Dec": "+48d 22m 09.0s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa type in superoutburst",
+            "Time": "2014-03-13.45517 UT",
+            "Date": "2014-03-13"
+        },
+        {
+            "Name": "MASTER OT J203824.15+174242.3",
+            "RA": "20h 38m 24.15s",
+            "Dec": "+17d 42m 42.3s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-03-16.06113 UT",
+            "Date": "2014-03-16"
+        },
+        {
+            "Name": "MASTER OT J213826.42+284622.4",
+            "RA": "21h 38m 26.42s",
+            "Dec": "+28d 46m 22.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-03-16.07071 UT",
+            "Date": "2014-03-16"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J055349+482209-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/055348.98482209.0.png",
+        "http://master.sai.msu.ru/static/OT/J203824+174242-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/203824.15174242.3.jpg",
+        "http://master.sai.msu.ru/static/OT/213826.42284622.4.jpg"
+    ],
+    "Event Type": "Discovery of cataclysmic variables (dwarf novae)",
+    "Time": null,
+    "Date": "2014-03",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Amur and MASTER-Kislovodsk"
+}

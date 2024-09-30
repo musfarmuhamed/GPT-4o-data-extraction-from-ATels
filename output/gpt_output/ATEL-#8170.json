@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN Antikythera",
+            "RA": "09:49:48.01",
+            "Dec": "+17:07:23.0",
+            "redshift": "0.332",
+            "Type": "Supernova",
+            "Time": "Unknown",
+            "Date": "Oct 9, 2015"
+        },
+        {
+            "Name": "SN Eleanor",
+            "RA": "09:49:47.97",
+            "Dec": "+17:07:24.9",
+            "redshift": "Unknown",
+            "Type": "Supernova",
+            "Time": "Unknown",
+            "Date": "Apr 23, 2011"
+        },
+        {
+            "Name": "SN Alexander",
+            "RA": "09:49:48.07",
+            "Dec": "+17:07:24.0",
+            "redshift": "Unknown",
+            "Type": "Supernova",
+            "Time": "Unknown",
+            "Date": "Apr 23, 2011"
+        }
+    ],
+    "References": "Benitez 2000, ApJ, 536, 571",
+    "Event Type": "Supernova Discovery",
+    "Time": "Unknown",
+    "Date": "Oct 9, 2015",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Wide Field Camera 3 Infrared detector (WFC3-IR), Advanced Camera for Surveys (ACS)",
+    "Observatory": "Space Telescope Science Institute"
+}

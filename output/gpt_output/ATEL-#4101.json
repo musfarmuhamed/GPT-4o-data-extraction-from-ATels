@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 2259+586",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4080",
+        "GCN #13237",
+        "GCN #13280"
+    ],
+    "Event Type": "Bursting activity",
+    "Time": [
+        "2012-04-19T12:03:10",
+        "2012-04-21T06:28:49",
+        "2012-05-05T06:04:47",
+        "2012-05-07T16:25:07"
+    ],
+    "Date": [
+        "2012-04-19",
+        "2012-04-21",
+        "2012-05-05",
+        "2012-05-07"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "SPI Anti-Coincidence System (ACS)",
+    "Observatory": null
+}

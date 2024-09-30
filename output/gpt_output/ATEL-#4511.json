@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2012-05c",
+            "RA": "00:42:31.49",
+            "Dec": "+41:26:13.8",
+            "redshift": null,
+            "Type": "Supersoft X-ray Source (SSS)",
+            "Time": "2012-08-08.96 UT",
+            "Date": "2012-08-08"
+        },
+        {
+            "Name": "PNV J00423149+4126138",
+            "RA": "00:42:31.49",
+            "Dec": "+41:26:13.8",
+            "redshift": null,
+            "Type": "Optical Nova",
+            "Time": "Discovery reported in ATel#4096",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#4096",
+        "ATel#4181",
+        "Rauch 2003, A&A, 403, 709",
+        "Montalto et al. 2009, A&A, 507, 283",
+        "Henze et al. 2011, A&A, 533, A52"
+    ],
+    "Event Type": "Discovery of Supersoft X-ray Source and optical nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC pn and MOS",
+    "Observatory": null
+}

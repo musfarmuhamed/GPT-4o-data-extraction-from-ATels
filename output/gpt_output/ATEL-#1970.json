@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "MJD 54897.76",
+            "Date": "2009-03-07"
+        },
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "MJD 54894.65",
+            "Date": "2009-03-04"
+        },
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "2009-03-10"
+        },
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "2009-03-14"
+        }
+    ],
+    "References": [
+        "ATel #1218",
+        "ATel #1553",
+        "ATel #1557",
+        "ATel #1216",
+        "ATel #1218",
+        "ATel #1219",
+        "ATel #1229",
+        "ATel #1232",
+        "ATel #1079",
+        "ATel #1080",
+        "ATel #1087",
+        "Maitra & Bailyn 2008, ApJ, 688, 537",
+        "Lewis et al. 2008, arXiv:0712.2751"
+    ],
+    "Event Type": "new outburst",
+    "Time": null,
+    "Date": "2009-03-07",
+    "Telescope": [
+        "Faulkes Telescopes North",
+        "Faulkes Telescopes South",
+        "Swift/BAT",
+        "RXTE/ASM"
+    ],
+    "Instrument": [
+        "Swift/BAT light curve",
+        "Swift/BAT transient monitor"
+    ],
+    "Observatory": "Las Cumbres Observatory Global Telescope Network (LCOGTN)"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:00:26 - 00:36:42",
+            "Date": "2013-10-19"
+        },
+        {
+            "Name": "Optical/NIR counterpart of MAXI J1828-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATels #5474, #5476, #5478, #5479, #5482",
+    "Event Type": "Observation",
+    "Time": "00:00:26 - 00:36:42",
+    "Date": "2013-10-19",
+    "Telescope": "REM robotic telescope",
+    "Instrument": "Optical and near-infrared",
+    "Observatory": "La Silla (Chile)"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jc",
+            "RA": "20:40:39.878",
+            "Dec": "-54:18:38.96",
+            "redshift": "0.010914",
+            "Type": "supernova",
+            "Time": "2016-08-22.17",
+            "Date": "2016-08-22"
+        },
+        {
+            "Name": "NGC 6942",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010914",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "P. Marples, NED",
+    "Event Type": "Transient discovery",
+    "Time": "2016-08-22",
+    "Date": "2016-08-22",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

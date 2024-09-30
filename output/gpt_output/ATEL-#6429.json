@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014bc",
+            "RA": "12h18m57.71s",
+            "Dec": "+47d18m11.3s",
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "00:00",
+            "Date": "2014-08-07"
+        },
+        {
+            "Name": "SN 2014bi",
+            "RA": "12h06m02.99s",
+            "Dec": "+47d29m33.5s",
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "00:00",
+            "Date": "2014-08-07"
+        },
+        {
+            "Name": "SN 1981K",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00",
+            "Date": "2014-08-07"
+        }
+    ],
+    "References": "CBET #3877, Smartt et al; CBET #3892, Kumar et al; van Dyk et al, 1992, ApJ, v396, p195",
+    "Event Type": "radio observations",
+    "Time": "00:00",
+    "Date": "2014-08-07",
+    "Telescope": "Jansky Very Large Array",
+    "Instrument": null,
+    "Observatory": null
+}

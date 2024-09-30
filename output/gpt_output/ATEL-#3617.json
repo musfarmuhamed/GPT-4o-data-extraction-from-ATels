@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17361-4441",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 6388",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3565",
+        "ATEL #3566",
+        "Wilson et al 2011, MNRAS",
+        "Nucita et al. 2008, A&A, 478, 736",
+        "Cseh et al. 2010, MNRAS, 406, 1049",
+        "Merloni, 2003, MNRAS, 345, 1057",
+        "Kording et al. 2006, A&A, 456, 439"
+    ],
+    "Event Type": "target of opportunity observation",
+    "Time": "8h",
+    "Date": null,
+    "Telescope": "Australian Telescope Compact Array",
+    "Instrument": "CABB correlator",
+    "Observatory": "ATCA"
+}

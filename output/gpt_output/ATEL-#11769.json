@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBS J1700+6830",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.301,
+            "Type": "QSO",
+            "Time": "JD2458290.9496",
+            "Date": "June 21th, 2018"
+        },
+        {
+            "Name": "RGB J1700+685",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "JD2458290.9496",
+            "Date": "June 21th, 2018"
+        }
+    ],
+    "References": "2FGLJ1700.2+6831",
+    "Event Type": "outburst",
+    "Time": "JD2458290.9496",
+    "Date": "June 21th, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

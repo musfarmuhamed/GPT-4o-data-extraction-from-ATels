@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "20:24:10",
+            "Date": "2012-04-25"
+        },
+        {
+            "Name": "Swift J1749.4-2807",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing millisecond X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt, C. B., & Strohmayer, T. E., 2010, ApJ, 717, L149",
+    "Event Type": "flux dip / eclipse",
+    "Time": "20:24:10",
+    "Date": "2012-04-25",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

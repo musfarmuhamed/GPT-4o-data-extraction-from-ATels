@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424660+4117553",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2015-07-11T01:00:00Z",
+                "2015-07-12T00:40:34Z"
+            ],
+            "Date": [
+                "2015-07-11",
+                "2015-07-12"
+            ]
+        },
+        {
+            "Name": "PNV J00431911+4116082",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII type nova",
+            "Time": [
+                "2015-07-11T01:00:00Z",
+                "2015-07-12T00:40:34Z"
+            ],
+            "Date": [
+                "2015-07-11",
+                "2015-07-12"
+            ]
+        },
+        {
+            "Name": "PNV J00423445+4116443",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2015-07-11T01:00:00Z",
+                "2015-07-12T00:40:34Z"
+            ],
+            "Date": [
+                "2015-07-11",
+                "2015-07-12"
+            ]
+        },
+        {
+            "Name": "PNV J00431983+4123071",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2015-07-11T01:00:00Z",
+                "2015-07-12T00:40:34Z"
+            ],
+            "Date": [
+                "2015-07-11",
+                "2015-07-12"
+            ]
+        },
+        {
+            "Name": "PNV J00424534+4119303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "2015-07-11T01:00:00Z",
+                "2015-07-12T00:40:34Z"
+            ],
+            "Date": [
+                "2015-07-11",
+                "2015-07-12"
+            ]
+        }
+    ],
+    "References": [
+        "ATel#7492",
+        "ATel#7554",
+        "ATel#7564",
+        "ATel#7580",
+        "ATel#7586",
+        "ATel#7603",
+        "ATel#7713",
+        "ATel#7766"
+    ],
+    "Event Type": "novae observation",
+    "Time": [
+        "2015-07-11T01:00:00Z",
+        "2015-07-12T00:40:34Z"
+    ],
+    "Date": [
+        "2015-07-11",
+        "2015-07-12"
+    ],
+    "Telescope": "2m RCC telescope",
+    "Instrument": "focal reducer FoReRo2",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

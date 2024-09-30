@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mf",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026",
+            "Type": "type Ia supernova",
+            "Time": "21:52:05",
+            "Date": "2015-07-09"
+        },
+        {
+            "Name": "SN2000cp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 09108 NED02",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7775",
+    "Event Type": "spectroscopic observation",
+    "Time": "21:52:05",
+    "Date": "2015-07-09",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos on La Palma"
+}

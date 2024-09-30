@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-04a",
+            "RA": "J004528.12+414117.6",
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "2016 Aug 21.17 UT",
+            "Date": "2016-08-21"
+        },
+        {
+            "Name": "V723 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very slow nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V5558 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very slow nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8950",
+        "ATel #9116",
+        "ATel #9390",
+        "Shafter et al. 2011",
+        "Piascik et al. 2014",
+        "Steele et al. 2004",
+        "Tanaka et al. 2011"
+    ],
+    "Event Type": "Optical observation and spectral analysis",
+    "Time": "2016 June 3.19 UT, 2016 Aug 21.17 UT",
+    "Date": "2016-06-03, 2016-08-21",
+    "Telescope": "2m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Liverpool Observatory"
+}

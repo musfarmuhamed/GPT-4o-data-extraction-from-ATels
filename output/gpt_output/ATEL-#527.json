@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient millisecond pulsar",
+            "Time": "787s",
+            "Date": "2005 June 16"
+        }
+    ],
+    "References": [
+        "ATEL #517",
+        "ATEL #511",
+        "ATEL #515"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray Telescope",
+        "UV/Optical Telescope"
+    ],
+    "Observatory": "Swift"
+}

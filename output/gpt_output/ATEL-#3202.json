@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": "271.63564",
+            "Dec": "-22.23767",
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3193",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "Cornelisse et al. 2002, A&A 392, 931",
+        "in 't Zand et al. 1998, NuPhS 69, 228",
+        "Campana 2009, ApJ 699, 1144"
+    ],
+    "Event Type": "renewed activity detected",
+    "Time": null,
+    "Date": "2011 March 1",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

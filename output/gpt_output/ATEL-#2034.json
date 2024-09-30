@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090421:174806+340401",
+            "RA": "17:48:05.81",
+            "Dec": "+34:04:01.1",
+            "redshift": "2.76",
+            "Type": "Blazar",
+            "Time": "09:20:39",
+            "Date": "2009-04-21"
+        },
+        {
+            "Name": "CSS090421:130824+354638",
+            "RA": "13:08:23.68",
+            "Dec": "+35:46:37.6",
+            "redshift": "1.05",
+            "Type": "Blazar",
+            "Time": "06:05:05",
+            "Date": "2009-04-21"
+        },
+        {
+            "Name": "CSS090403:112403+233646",
+            "RA": "11:24:02.69",
+            "Dec": "+23:36:46.0",
+            "redshift": "Null",
+            "Type": "Blazar",
+            "Time": "05:23:18",
+            "Date": "2009-04-03"
+        },
+        {
+            "Name": "CSS090426:074240+544425",
+            "RA": "07:42:39.78",
+            "Dec": "+54:44:25.1",
+            "redshift": "0.72",
+            "Type": "Blazar",
+            "Time": "04:32:14",
+            "Date": "2009-04-26"
+        }
+    ],
+    "References": [
+        "http://voeventnet.caltech.edu/feeds/ATEL/CRTS/904211350794109737.atel.html",
+        "http://voeventnet.caltech.edu/feeds/ATEL/CRTS/904211350594134822.atel.html",
+        "http://voeventnet.caltech.edu/feeds/ATEL/CRTS/904031230574116468.atel.html",
+        "http://voeventnet.caltech.edu/feeds/ATEL/CRTS/904261550254119759.atel.html"
+    ],
+    "Event Type": "Optical flaring of blazars",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "P60",
+    "Instrument": "Null",
+    "Observatory": "Caltech"
+}

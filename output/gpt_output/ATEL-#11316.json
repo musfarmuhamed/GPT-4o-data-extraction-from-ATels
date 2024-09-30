@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE18be/SN2018be",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.151",
+            "Type": [
+                "SN Type I",
+                "SN Type Ia"
+            ],
+            "Time": [
+                "Null",
+                "Null"
+            ],
+            "Date": [
+                "2018-01-06",
+                "2018-01-16",
+                "2018-02-01"
+            ]
+        }
+    ],
+    "References": "Wyrzykowski et al. 2014, Acta Astronomica 64, 197; ATel #11192; ATEL #11192; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "discovery, classification spectrum obtained, additional spectrum obtained",
+    "Time": null,
+    "Date": "2018-01-06",
+    "Telescope": [
+        "NTT",
+        "VLT"
+    ],
+    "Instrument": [
+        "EFOSC2",
+        "FORS2"
+    ],
+    "Observatory": "ESO"
+}

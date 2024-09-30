@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Globular Cluster Terzan 6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": "14:02",
+            "Date": "2017-10-09"
+        },
+        {
+            "Name": "GRS 1747-312",
+            "RA": "267.69505",
+            "Dec": "-31.27512",
+            "redshift": null,
+            "Type": "Low Mass X-Ray Binary",
+            "Time": "14:02",
+            "Date": "2017-10-09"
+        }
+    ],
+    "References": "Evans et al. 2009, MNRAS, 397, 1177; in't Zand et al. 2003, A&A, 406, 233",
+    "Event Type": "on-going outburst",
+    "Time": "14:02",
+    "Date": "2017-10-09",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

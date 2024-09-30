@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11egb",
+            "RA": "18 42 47.95",
+            "Dec": "+47 33 40.0",
+            "redshift": "0.132",
+            "Type": "SN Ia",
+            "Time": "May 28.34",
+            "Date": "2011-06-01"
+        },
+        {
+            "Name": "PTF11ftr",
+            "RA": "23 55 35.79",
+            "Dec": "+29 12 19.9",
+            "redshift": "0.0178",
+            "Type": "SN II",
+            "Time": "Jun 12.46",
+            "Date": "2011-07-05"
+        },
+        {
+            "Name": "PTF11fve",
+            "RA": "16 39 12.18",
+            "Dec": "+60 04 52.1",
+            "redshift": "0.09",
+            "Type": "SN IIn",
+            "Time": "Jun 12.37",
+            "Date": "2011-06-29"
+        },
+        {
+            "Name": "PTF11fwe",
+            "RA": "16 52 16.96",
+            "Dec": "+27 21 58.0",
+            "redshift": "0.054",
+            "Type": "SN Ia",
+            "Time": "Jun 13.43",
+            "Date": "2011-07-05"
+        },
+        {
+            "Name": "PTF11fxh",
+            "RA": "21 35 17.32",
+            "Dec": "+04 43 09.2",
+            "redshift": "0.1325",
+            "Type": "SN Ia",
+            "Time": "Jun 13.42",
+            "Date": "2011-07-05"
+        },
+        {
+            "Name": "PTF11gal",
+            "RA": "13 29 26.92",
+            "Dec": "+47 52 05.5",
+            "redshift": "0.15",
+            "Type": "SN Ia",
+            "Time": "Jun 19.18",
+            "Date": "2011-06-29"
+        },
+        {
+            "Name": "PTF11gcb",
+            "RA": "16 32 05.74",
+            "Dec": "+25 47 01.8",
+            "redshift": "0.19",
+            "Type": "SN Ia",
+            "Time": "Jun 20.26",
+            "Date": "2011-06-29"
+        },
+        {
+            "Name": "PTF11gdm",
+            "RA": "16 56 23.70",
+            "Dec": "+41 30 15.1",
+            "redshift": "0.143",
+            "Type": "SN Ia",
+            "Time": "Jun 21.28",
+            "Date": "2011-06-29"
+        },
+        {
+            "Name": "PTF11gdz",
+            "RA": "03 16 34.77",
+            "Dec": "+41 02 53.7",
+            "redshift": "0.013",
+            "Type": "SN II",
+            "Time": "Jun 22.46",
+            "Date": "2011-07-06"
+        },
+        {
+            "Name": "PTF11gjn",
+            "RA": "14 06 57.11",
+            "Dec": "+55 04 30.9",
+            "redshift": "0.251",
+            "Type": "SN Ia",
+            "Time": "Jun 25.21",
+            "Date": "2011-07-05"
+        },
+        {
+            "Name": "PTF11glq",
+            "RA": "16 31 00.14",
+            "Dec": "+21 16 53.6",
+            "redshift": "0.156",
+            "Type": "SN Ia",
+            "Time": "Jun 27.26",
+            "Date": "2011-06-29"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B ",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "PTF (collaboration of Caltech, LCOGT, Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley)"
+}

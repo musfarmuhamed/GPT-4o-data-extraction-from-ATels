@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "99 days after outburst",
+            "Date": "21 November 2013"
+        },
+        {
+            "Name": "CV",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ion",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CVI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ion",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ion",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVII",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ion",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Interstellar neutral line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NI",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Interstellar neutral line",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#5624",
+        "ATel#5573",
+        "ATel#5593"
+    ],
+    "Event Type": "Observation",
+    "Time": "34000 seconds, 8.5 hours",
+    "Date": "21 November 2013",
+    "Telescope": "XMM-Newton",
+    "Instrument": [
+        {
+            "Name": "MOS",
+            "Type": "European Photon Imaging Cameras"
+        },
+        {
+            "Name": "RGS",
+            "Type": "Reflection Grating Spectrometers"
+        },
+        {
+            "Name": "Optical monitor",
+            "Filter": "UVW2 filter"
+        }
+    ],
+    "Observatory": null
+}

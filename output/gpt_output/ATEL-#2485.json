@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J125708.9-172527",
+            "RA": "12h57m08s.93",
+            "Dec": "-17o25'27\".1",
+            "redshift": null,
+            "Type": "SN candidate",
+            "Time": "08.53 UT",
+            "Date": "March 08, March 09, March 15, March 16",
+            "Telescope": "0.45-m ROTSE-IIIa, ROTSE-IIIc",
+            "Instrument": "unfiltered CCD",
+            "Observatory": "Siding Spring Observatory, Australia; H.E.S.S. site, Namibia"
+        },
+        {
+            "Name": "NFP J125709.0-172514",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0494",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null,
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        }
+    ],
+    "References": "Rawle et al., 2008, MNRAS, 385, 2097; via. SIMBAD",
+    "Event Type": "Discovery",
+    "Time": "08.53 UT",
+    "Date": "March 08, March 09, March 15, March 16",
+    "Telescope": "0.45-m ROTSE-IIIa, ROTSE-IIIc",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "Siding Spring Observatory, Australia; H.E.S.S. site, Namibia"
+}

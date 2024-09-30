@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQ J1727+4530",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.717,
+            "Type": "intermediate redshift quasar",
+            "Time": "2457219.9008",
+            "Date": "July 16th, 2015"
+        },
+        {
+            "Name": "CGraBS J1727+4530",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.717,
+            "Type": "intermediate redshift quasar",
+            "Time": "2457219.9008",
+            "Date": "July 16th, 2015"
+        },
+        {
+            "Name": "2FGL J1727.1+4531",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.717,
+            "Type": "intermediate redshift quasar",
+            "Time": "2457219.9008",
+            "Date": "July 16th, 2015"
+        }
+    ],
+    "References": [
+        "ATEL #3302",
+        "ATEL #6614"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "2457219.9008",
+    "Date": "July 16th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

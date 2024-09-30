@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KT Eri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2009-11-18",
+            "Date": "2009-11-18"
+        },
+        {
+            "Name": "Nova CSS081007:030559+054715",
+            "RA": "030559",
+            "Dec": "+054715",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2008-10-07"
+        }
+    ],
+    "References": [
+        "Yamaoka et al. (2009, CBET#2050)",
+        "Ragan et al. (2009, ATEL#2327)",
+        "Pejcha et al. (2008, ATel#1825)",
+        "Prieto et al. (2008 ATel#1835)",
+        "Drake et al. (2009, Atel#1940)"
+    ],
+    "Event Type": "Nova Outburst",
+    "Time": "2009-11-10.41",
+    "Date": "2005-01-17 to 2009-11-18",
+    "Telescope": "Catalina Sky Survey 0.7m",
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey (CRTS)"
+}

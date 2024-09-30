@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 1217+71",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.45,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1219.2+7107",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.45,
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ciprini et al., Atel #4885",
+        "MASTER (Atel # 4889)"
+    ],
+    "Event Type": "Gamma-ray flaring activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA, a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

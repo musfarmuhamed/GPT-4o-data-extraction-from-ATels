@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GALEXASC J032107.24-311845.8",
+            "RA": "03:21:07.437",
+            "Dec": "-31:18:45.64",
+            "redshift": "0.06831",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15og",
+            "RA": "03:21:07.437",
+            "Dec": "-31:18:45.64",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-08-13.29",
+            "Date": "2015-08-13"
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "2015-08-13.29",
+    "Date": "2015-08-13",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

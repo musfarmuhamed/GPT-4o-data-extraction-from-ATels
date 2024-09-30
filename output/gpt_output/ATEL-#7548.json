@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15js",
+            "RA": "10:50:38.35",
+            "Dec": "+12:17:49.19",
+            "redshift": "0.021059",
+            "Type": "Transient (likely supernova)",
+            "Time": "2015-05-21.210",
+            "Date": "2015-05-21"
+        },
+        {
+            "Name": "2MFGC 08437",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021059",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "Discovery",
+    "Time": "2015-05-21.210",
+    "Date": "2015-05-21",
+    "Telescope": [
+        "Brutus",
+        "0.41-m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Observatoire Chante-Perdrix-Dauban, France"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11435-6109",
+            "RA": "11h44m00.4s",
+            "Dec": "-61d07'16\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J114358.1-610736",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E 1141.6-6050",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "Feb 5, 1980",
+            "Date": null
+        },
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accretion-powered ms pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel 350",
+        "Swank & Markwardt (ATel 359)",
+        "Thompson et al. 1996; AJ 115, 258",
+        "Eckert et al.",
+        "ATel 352",
+        "Markwardt et al. ATel 353",
+        "Remillard (ATel 357)"
+    ],
+    "Event Type": "X-ray observations",
+    "Time": "July 1996 to April 2002",
+    "Date": [
+        "21/22-jul-1996",
+        "10/11-sep-1996",
+        "11-apr-1997",
+        "31-dec-2000/06-jan-2001",
+        "10-jan-2002"
+    ],
+    "Telescope": "BeppoSAX",
+    "Instrument": "Wide Field Cameras",
+    "Observatory": null
+}

@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Type IIb Supernova 2011cb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": [
+                "2011 May 5.7 UT",
+                "2011 May 13.7 UT",
+                "2011 May 19.9 UT"
+            ],
+            "Date": [
+                "2011-05-05",
+                "2011-05-13",
+                "2011-05-19"
+            ]
+        },
+        {
+            "Name": "PGC 69707 (ESO 109-021)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #2711",
+    "Event Type": "Radio Observation",
+    "Time": [
+        "2011 May 5.7 UT",
+        "2011 May 13.7 UT",
+        "2011 May 19.9 UT"
+    ],
+    "Date": [
+        "2011-05-05",
+        "2011-05-13",
+        "2011-05-19"
+    ],
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": "CABB 2 GHz backend system",
+    "Observatory": "Australia Telescope National Facility managed by CSIRO"
+}

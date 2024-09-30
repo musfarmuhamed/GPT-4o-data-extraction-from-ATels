@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1741.5-6548",
+            "RA": "17 41 23.47",
+            "Dec": "-65 47 27.6",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "19:42:45",
+            "Date": "2013 Mar 19"
+        },
+        {
+            "Name": "UVOT counterpart (possible)",
+            "RA": "17 41 24.11",
+            "Dec": "-65 47 27.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Burrows et al, 2011, Nature 476, 421",
+        "Cenko et al, 2012, ApJ 753, 77"
+    ],
+    "Event Type": "X-ray transient detection",
+    "Time": "19:42:45",
+    "Date": "2013 Mar 19",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC",
+            "RA": "14.511 deg",
+            "Dec": "-72.165 deg",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "13:17 UT",
+            "Date": "2016-08-08"
+        },
+        {
+            "Name": "MAXI J0058-721",
+            "RA": "14.511 deg",
+            "Dec": "-72.165 deg",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "17:14 to 21:00",
+            "Date": "2016-08-07 to 2016-08-08"
+        },
+        {
+            "Name": "SXP 202A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J0057-720",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J0058-7203",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP 6.85",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kennea et al. ATel #9299",
+        "Coe et al. ATel #9307",
+        "Schmidtke et al. ATel #9320",
+        "Suzuki et al. ATel #5925",
+        "Kennea et al. #5930"
+    ],
+    "Event Type": "nova-alert",
+    "Time": "13:17 UT",
+    "Date": "2016-08-08",
+    "Telescope": "Swift/XRT",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

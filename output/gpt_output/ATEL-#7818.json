@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova 2015-02a in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II class nova",
+            "Time": [
+                "18.993",
+                "19.001",
+                "20.014",
+                "20.026"
+            ],
+            "Date": [
+                "2015 July 18",
+                "2015 July 19",
+                "2015 July 20",
+                "2015 July 20"
+            ]
+        },
+        {
+            "Name": "probable nova in ATel #7795",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": [
+                "18.993",
+                "20.014"
+            ],
+            "Date": [
+                "2015 July 18",
+                "2015 July 20"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #7065",
+        "ATel #7076",
+        "ATel #7104",
+        "ATel #7158",
+        "Strope, Schaefer & Henden 2010",
+        "ATel #7795"
+    ],
+    "Event Type": "optical re-brightening",
+    "Time": null,
+    "Date": "2015 July",
+    "Telescope": "50/70 cm Schmidt telescope",
+    "Instrument": null,
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

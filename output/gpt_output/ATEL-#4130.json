@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J184555.4-003941",
+            "RA": "281.47800 deg",
+            "Dec": "-0.65944 deg",
+            "redshift": null,
+            "Type": "galactic transient source",
+            "Time": "09:27:38.346 UT",
+            "Date": "2012 May 24"
+        },
+        {
+            "Name": "Swift J1845.7-0037",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "alternate name for XMMSL1 J184555.4-003941",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 18455462-0039341",
+            "RA": "281.477598",
+            "Dec": "-0.659499",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Goad et al. (2007, A&A, 476, 1401)",
+        "Kalberla et al. (2005)"
+    ],
+    "Event Type": "detection of a galactic transient source",
+    "Time": "09:27:38.346 UT",
+    "Date": "2012 May 24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-Ray Telescope (XRT)",
+        "Burst Alert Telescope (BAT)"
+    ],
+    "Observatory": "Swift"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16aiy/AT 2016blp",
+            "RA": "10:56:05.54",
+            "Dec": "+14:29:25.1",
+            "redshift": 0.06,
+            "Type": "Type Ia supernova",
+            "Time": "March 27.1",
+            "Date": "2016"
+        },
+        {
+            "Name": "CGCG 095-071",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Baltay et al. 2013, PASP, 125, 683; Blondin & Tonry 2007, ApJ, 666, 1024; SDSS DR5, via NED",
+    "Event Type": "Discovery",
+    "Time": "March 27.1",
+    "Date": "2016",
+    "Telescope": "LCOGT 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Haleakala, Hawai'i"
+}

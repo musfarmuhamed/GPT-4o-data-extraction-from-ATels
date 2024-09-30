@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016gjr",
+            "RA": "20:37:01.95",
+            "Dec": "+06:24:04.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "57650.35",
+            "Date": "20160919.35"
+        },
+        {
+            "Name": "AT2016gjq",
+            "RA": "19:33:59.21",
+            "Dec": "-13:44:05.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "57651.31",
+            "Date": "20160920.31"
+        },
+        {
+            "Name": "AT2016gkk",
+            "RA": "18:59:48.77",
+            "Dec": "+45:01:29.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "57652.30",
+            "Date": "20160921.30"
+        },
+        {
+            "Name": "AT2016gkj",
+            "RA": "19:11:27.86",
+            "Dec": "+55:48:10.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "57652.30",
+            "Date": "20160921.30"
+        },
+        {
+            "Name": "AT2016gkl",
+            "RA": "21:22:04.33",
+            "Dec": "+36:45:21.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "57652.37",
+            "Date": "20160921.37"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS (twin 0.5m telescope system)",
+    "Instrument": "cyan and orange filters",
+    "Observatory": "Haleakala and Mauna Loa"
+}

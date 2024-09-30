@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": "00h 29m 02.82s",
+            "Dec": "+59d 34' 19.3\"",
+            "redshift": null,
+            "Type": "accreting neutron star",
+            "Time": "02:12:04.94",
+            "Date": "2015-07-25"
+        },
+        {
+            "Name": "V1037 Cas",
+            "RA": "00h 29m 02.82s",
+            "Dec": "+59d 34' 19.3\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "02:12:04.94",
+            "Date": "2015-07-25"
+        }
+    ],
+    "References": [
+        "Barthelmy et al. GCN Circ. #18061",
+        "Sakamoto et al., GCN Circ. #18067",
+        "Sanna et al. (ATEL #7836)",
+        "Fox and Kulkarni (ATEL #354)",
+        "Breeveld et al. 2011, AIP Conf. Proc. 1358, 373",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "type I X-ray burst",
+    "Time": "02:12:04.94",
+    "Date": "2015-07-25",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": null
+}

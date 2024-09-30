@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16ab",
+            "RA": "11:04:01.31",
+            "Dec": "-05:33:37.4",
+            "redshift": 0.073,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2016-01-08"
+        },
+        {
+            "Name": "MASTERJ165420.77-615258",
+            "RA": "16:54:20.77",
+            "Dec": "-61:52:58.0",
+            "redshift": 0.018,
+            "Type": "IIp",
+            "Time": "Null",
+            "Date": "2016-01-08"
+        },
+        {
+            "Name": "PS16n",
+            "RA": "05:03:43.99",
+            "Dec": "+03:24:44.9",
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2016-01-08"
+        },
+        {
+            "Name": "PS16el",
+            "RA": "10:51:12.54",
+            "Dec": "+19:21:45.0",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2016-01-08"
+        },
+        {
+            "Name": "PS16ez",
+            "RA": "09:24:26.46",
+            "Dec": "+05:10:14.7",
+            "redshift": 0.09,
+            "Type": "Ia 91-T like",
+            "Time": "Null",
+            "Date": "2016-01-08"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Baltay et al. 2013, PASP, 125, 683; Huber et al., ATel #7153; Gorbovskoy et al. 2013, ARep, 57, 233",
+    "Event Type": "Supernova Classifications",
+    "Time": "Null",
+    "Date": "2016-01-08",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

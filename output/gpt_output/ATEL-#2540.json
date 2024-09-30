@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": "17h 53m 31.896s",
+            "Dec": "-23d 49' 14.86\"",
+            "redshift": null,
+            "Type": "neutron star transient/X-ray burster",
+            "Time": "08:18 TT",
+            "Date": "2010 April 5"
+        }
+    ],
+    "References": [
+        "Chenevez et al. 2010, ATEL #2505",
+        "Degenaar & Wijnands 2008, ATEL #1809",
+        "Starling & Evans 2008, ATEL #1814",
+        "Torres et al. 2010, ATEL #2526"
+    ],
+    "Event Type": "observation",
+    "Time": "08:18 TT",
+    "Date": "2010 April 5",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": "HRC-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2013ej",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "31.3 UT",
+            "Date": "2013 July 31"
+        },
+        {
+            "Name": "0127+145",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Extragalactic radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "0528+134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Extragalactic radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3606",
+        "ATel #5228",
+        "#5229",
+        "#5230",
+        "#5237",
+        "#5243",
+        "CBET #3609"
+    ],
+    "Event Type": "Observation",
+    "Time": "31.3 UT",
+    "Date": "2013 July 31",
+    "Telescope": "32m radio telescopes",
+    "Instrument": null,
+    "Observatory": "Istituto di Radioastronomia (INAF-IRA) in Medicina and Noto"
+}

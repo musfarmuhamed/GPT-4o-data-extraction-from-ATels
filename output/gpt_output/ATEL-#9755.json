@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016iae",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0035",
+            "Type": "type Ic supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 1532",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0035",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al., 2008, A&A,488, 383",
+    "Event Type": "observation",
+    "Time": "UT Nov.12.7",
+    "Date": "Nov.12",
+    "Telescope": "2.4m telescope",
+    "Instrument": "+YFOSC",
+    "Observatory": "Lijiang Observatory of YNAO"
+}

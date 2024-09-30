@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": "16:05:01",
+            "Date": "2011-04-12"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": "05:42:29",
+            "Date": "2011-04-17"
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010-01"
+        }
+    ],
+    "References": [
+        "ATel #3277",
+        "ATel #32763",
+        "ATel #3280"
+    ],
+    "Event Type": "low-frequency oscillation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

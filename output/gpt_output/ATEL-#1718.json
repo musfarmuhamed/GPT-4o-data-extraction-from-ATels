@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J162940.2-112024",
+            "RA": "16 29 40.2",
+            "Dec": "-11 20 24",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "Aug 20, 2008"
+        },
+        {
+            "Name": "USNO-B1.0 0786-0301344",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "stellar flare",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1689",
+        "ATel #1499",
+        "Guedel 2004, A&AR 12, 71"
+    ],
+    "Event Type": "Observation",
+    "Time": "1.3 ksec",
+    "Date": "Sep 5, 2008",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": "XMM-Newton"
+}

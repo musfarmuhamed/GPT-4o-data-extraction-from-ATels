@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V1323 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate polar",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "V1323 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate polar",
+            "Time": null,
+            "Date": "2014-01-24"
+        },
+        {
+            "Name": "VSX J180243.9+400331",
+            "RA": "18:02:43.9",
+            "Dec": "+40:03:31",
+            "redshift": null,
+            "Type": "Variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TT Ari",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cataclysmic Variable (CV)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "vsnet-alert 16958",
+        "Breus et al., 2012",
+        "Kim et al., 2012",
+        "Andronov et al., 2012",
+        "Kim et al., 2009",
+        "vsnet-chat 7889"
+    ],
+    "Event Type": "Luminosity State Change",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

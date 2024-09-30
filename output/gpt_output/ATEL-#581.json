@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2005dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005di",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.025",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC # 8583",
+        "CBET #198",
+        "CBET #199"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2005 August 14 UT",
+    "Telescope": "Hale 200\"",
+    "Instrument": "DBSP spectrograph",
+    "Observatory": "Palomar Observatory"
+}

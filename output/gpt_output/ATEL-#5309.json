@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0549.7-6812",
+            "RA": "05 50 06.47",
+            "Dec": "-68 14 55.7",
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "21:03:43.819",
+            "Date": "2013 August 20"
+        },
+        {
+            "Name": "ROSAT counterpart 1RXS J055007.0-681451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm, Holland & Kennea, ATel #5293; Goad et al. (2007, A&A, 476, 1401); Evans et al. (2009, MNRAS, 397, 1177); Kraft et al. 1991, ApJ 374, 344",
+    "Event Type": "Swift observations",
+    "Time": "21:03:43.819",
+    "Date": "2013 August 20",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": "Swift Observatory"
+}

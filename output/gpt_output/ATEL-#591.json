@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J12349-6434",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1234.7-6433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RT Cru",
+            "RA": "12h34m54.7s",
+            "Dec": "-64d33m55.6s",
+            "redshift": null,
+            "Type": "symbiotic star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "N. Masetti et al. ATel # 528",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

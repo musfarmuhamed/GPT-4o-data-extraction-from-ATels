@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000305",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.77,
+            "Type": "AGN",
+            "Time": "19.3",
+            "Date": "2010-05-19"
+        },
+        {
+            "Name": "SDSS J152844.16+425722.5",
+            "RA": "15h28m44.16s",
+            "Dec": "+42d57m22.5s",
+            "redshift": 0.77,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSSJ125956.21+032433.0",
+            "RA": "12h59m56.21s",
+            "Dec": "+03d24m33.0s",
+            "redshift": 0.75,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS100405:125956+032434",
+            "RA": "12h59m56.21s",
+            "Dec": "+03d24m34s",
+            "redshift": 0.75,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Kankare et al. (2010, ATel#2716)",
+    "Event Type": "AGN Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "PS1",
+    "Instrument": null,
+    "Observatory": null
+}

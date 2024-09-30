@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J04173792+3617317",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0188,
+            "Type": "Type Ia supernova",
+            "Time": "2014-12-13T17:31:12",
+            "Date": "2014-12-13"
+        },
+        {
+            "Name": "UGC03000",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0188,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A, 488, 383",
+    "Event Type": "Spectral observation",
+    "Time": "2014-12-13T17:31:12",
+    "Date": "2014-12-13",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

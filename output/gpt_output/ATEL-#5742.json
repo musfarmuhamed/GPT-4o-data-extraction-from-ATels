@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J22370560+3424319",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.002722,
+            "Type": "type-Ib supernova",
+            "Time": "08.32 UT",
+            "Date": "Jan 08"
+        },
+        {
+            "Name": "PSN J121036761+184935",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.008179,
+            "Type": "type Ia supernova",
+            "Time": "09.09 UT",
+            "Date": "Jan. 09"
+        },
+        {
+            "Name": "PSN J12033124+0202357",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018906,
+            "Type": "type Ia supernova",
+            "Time": "09.13 UT",
+            "Date": "Jan. 09"
+        }
+    ],
+    "References": [
+        "Springob et al. 2005, ApJS, 160, 149",
+        "Benetti et al. 2011, MNRAS, 411, 2726",
+        "Hamuy et al. 2002, AJ, 124, 417",
+        "Giovanelli et al. 1997, AJ, 114, 122",
+        "Patat et al. 1996, MNRAS, 278, 111",
+        "Smith et al. 2004, AJ, 128, 1558",
+        "Pastorello et al. 2007, MNRAS, 377, 1531",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

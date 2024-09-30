@@ -1,0 +1,84 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ce (AT 2018rw)",
+            "RA": "06:09:39.232",
+            "Dec": "-33:35:23.56",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-10"
+        },
+        {
+            "Name": "ASASSN-18cd (AT 2018qq)",
+            "RA": "09:58:32.853",
+            "Dec": "-27:49:50.86",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-10"
+        },
+        {
+            "Name": "ASASSN-18cc (AT 2018qp)",
+            "RA": "14:14:32.405",
+            "Dec": "03:11:22.16",
+            "redshift": "0.026934",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-09"
+        },
+        {
+            "Name": "ASASSN-18cb (AT 2018pq)",
+            "RA": "12:55:31.252",
+            "Dec": "-50:03:16.95",
+            "redshift": "0.007111",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-08"
+        },
+        {
+            "Name": "ASASSN-18bx (AT 2018po)",
+            "RA": "11:32:51.941",
+            "Dec": "-38:45:42.93",
+            "redshift": "0.032",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-06"
+        },
+        {
+            "Name": "ASASSN-18bw (AT 2018pj)",
+            "RA": "07:10:31.737",
+            "Dec": "32:38:45.95",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-02-04"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Gordon and Betty Moore Foundation",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Villum Fonden (Denmark)"
+    ],
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Payne-Gaposchkin",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

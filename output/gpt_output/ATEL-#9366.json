@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "03:40:12",
+            "Date": "09 Aug 2016"
+        },
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "08:04:01",
+            "Date": "09 Aug 2016"
+        }
+    ],
+    "References": "Burgay et al., Atel #9286; Majid et al. Atel #9321; Younes et al., GCN Circular #19735; Kennea et al., Atel #9274; Archibald et al. Atel #9284 and arXiv:1608.01007v1",
+    "Event Type": "SGR-like events",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Parkes radio telescope",
+    "Instrument": "H-OH receiver, PDFB backend",
+    "Observatory": "Parkes"
+}

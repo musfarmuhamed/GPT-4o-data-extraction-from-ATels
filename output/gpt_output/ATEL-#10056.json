@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017aac",
+            "RA": "08:10:30.93",
+            "Dec": "+05:15:37.1",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "At max",
+            "Date": "20170129"
+        },
+        {
+            "Name": "SN2017vp",
+            "RA": "09:02:35.11",
+            "Dec": "+09:45:11.5",
+            "redshift": "0.05",
+            "Type": "II",
+            "Time": "> +20 d",
+            "Date": "20170126"
+        },
+        {
+            "Name": "SN2017abw",
+            "RA": "09:39:27.20",
+            "Dec": "-29:29:23.3",
+            "redshift": "0.08",
+            "Type": "II?",
+            "Time": "?",
+            "Date": "20170126"
+        },
+        {
+            "Name": "SN2017adj",
+            "RA": "13:43:23.25",
+            "Dec": "-19:56:37.1",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "-7 to -4 d",
+            "Date": "20170130"
+        },
+        {
+            "Name": "SN2017aaa",
+            "RA": "13:49:49.15",
+            "Dec": "-03:04:48.0",
+            "redshift": "0.047",
+            "Type": "Ia",
+            "Time": "-7 to -4 d",
+            "Date": "20170130"
+        },
+        {
+            "Name": "SN2017acb",
+            "RA": "15:50:37.63",
+            "Dec": "-58:44:00.6",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "> +20 d",
+            "Date": "20170127"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. (ATel #8680)",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2017 February 6",
+    "Date": "2017 February 6",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla Observatory"
+}

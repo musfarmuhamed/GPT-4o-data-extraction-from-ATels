@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12cht",
+            "RA": "03:33:04.148",
+            "Dec": "-28:12:49.41",
+            "redshift": "0.148",
+            "Type": "Type IIn supernova",
+            "Time": "2012 Nov. 28.37 UT",
+            "Date": "2012-11-28"
+        },
+        {
+            "Name": "LSQ12heq",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATel #4739",
+        "ATel #4758",
+        "ATel #4644",
+        "Leonard et al. 2000, ApJ, 536, 239",
+        "Fassia et al. 2001, MNRAS, 325, 907",
+        "http://www.pessto.org/"
+    ],
+    "Event Type": "discovery of transient",
+    "Time": "2012 Nov. 28.37 UT",
+    "Date": "2012-11-28",
+    "Telescope": "6.5-m Magellan Clay telescope",
+    "Instrument": "Low-Dispersion Survey Spectrograph-3",
+    "Observatory": "La Silla-Quest Survey"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "20:01:45",
+            "Date": "2011-03-14"
+        },
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "00:33:03",
+            "Date": "2011-03-27"
+        }
+    ],
+    "References": [
+        "ATel #2873",
+        "ATel #2877",
+        "GCN #11296",
+        "ATel #3201"
+    ],
+    "Event Type": "Continuous Swift follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "Photon Counting (PC) mode",
+    "Observatory": "Swift Science Data Centre at the University of Leicester"
+}

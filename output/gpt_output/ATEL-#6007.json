@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J05114396+6729294",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia Supernova",
+            "Time": "24.87 UT",
+            "Date": "March 24"
+        },
+        {
+            "Name": "UGC 3252",
+            "RA": null,
+            "Dec": null,
+            "redshift": "6115 km/s",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "De Vaucouleurs et al. 1991, RC3.9, via NED; Harutyunyan et al. 2008, A.Ap. 488, 383; Blondin and Tonry 2007, Ap.J. 666, 1024.",
+    "Event Type": "Optical spectrogram",
+    "Time": "24.87 UT",
+    "Date": "March 24",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSI+61d303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "2013-11-16 to 2014-12-06",
+            "Date": "MJD 56612 to MJD 56997"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Gregory",
+            "Date": "2002"
+        },
+        {
+            "Name": "Massi & Haron",
+            "Date": "2013"
+        },
+        {
+            "Name": "VERITAS collaboration",
+            "EventID": "Atel #6785",
+            "Time": "2014-10-16 to 2014-10-17",
+            "Date": null
+        }
+    ],
+    "Event Type": "Monitoring of microquasars",
+    "Time": "2013-11-16 to 2014-12-06",
+    "Date": "MJD 56612 to MJD 56997",
+    "Telescope": "RATAN-600",
+    "Instrument": null,
+    "Observatory": "RATAN"
+}

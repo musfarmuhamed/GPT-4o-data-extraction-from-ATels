@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14043-6148",
+            "RA": "14h 04m 29.63s",
+            "Dec": "-61d 47m 19.7s",
+            "redshift": null,
+            "Type": "Unidentified",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0282-0474947",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "G311.45-0.13",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Non-thermal Radio Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1; Caswell & Barnes, 1985, MNRAS, 216, 753",
+    "Event Type": "X-ray follow-up observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

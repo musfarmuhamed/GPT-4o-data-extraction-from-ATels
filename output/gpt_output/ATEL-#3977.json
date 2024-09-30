@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PG 1553+113",
+            "RA": "15h 55m 43.0s",
+            "Dec": "+11d 11m 24s",
+            "redshift": "0.4-0.5",
+            "Type": "TeV BL-Lac object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Danforth et al. 2010",
+        "Kalberla et al. 2005",
+        "Schlegel et al. 1998",
+        "Tramacere et al. 2007"
+    ],
+    "Event Type": "multi-wavelength campaign",
+    "Time": null,
+    "Date": "2012 February 23 - March 5",
+    "Telescope": [
+        {
+            "Name": "MAGIC",
+            "Instrument": "gamma-ray",
+            "Observatory": null
+        },
+        {
+            "Name": "Metsahovi",
+            "Instrument": "radio (37 GHz)",
+            "Observatory": null
+        },
+        {
+            "Name": "REM",
+            "Instrument": "near-infrared (J, H, K bands)",
+            "Observatory": null
+        },
+        {
+            "Name": "KVA",
+            "Instrument": "optical",
+            "Observatory": null
+        },
+        {
+            "Name": "Swift/UVOT",
+            "Instrument": "UV",
+            "Observatory": null
+        },
+        {
+            "Name": "Swift/XRT",
+            "Instrument": "X-ray",
+            "Observatory": null
+        }
+    ]
+}

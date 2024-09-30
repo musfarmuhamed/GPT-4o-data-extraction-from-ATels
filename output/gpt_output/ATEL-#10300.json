@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17fd (AT 2017dfb)",
+            "RA": "15:39:05.04",
+            "Dec": "+05:34:16.93",
+            "redshift": "0.025955",
+            "Type": "supernova",
+            "Time": "2017-04-19.51",
+            "Date": "2017-04-19"
+        },
+        {
+            "Name": "ASASSN-17fe (AT 2017dfo)",
+            "RA": "09:20:38.04",
+            "Dec": "-29:57:03.53",
+            "redshift": "0.035948",
+            "Type": "supernova",
+            "Time": "2017-04-19.11",
+            "Date": "2017-04-19"
+        }
+    ],
+    "References": "Shappee et al. 2014; Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "discovery of transient sources (most likely supernovae)",
+    "Time": "2017-04-19",
+    "Date": "2017-04-19",
+    "Telescope": [
+        "Brutus",
+        "Cassius"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

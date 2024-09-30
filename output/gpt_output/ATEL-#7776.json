@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.2326",
+            "Type": "Superluminous Supernova (SLSN)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "APMUKS(BJ) B215839.70-615403.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.2326",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC1260",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006gy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Superluminous Supernova (SLSN-II)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7774",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "McMahon et al. 2013, The Messenger, 154, 35",
+        "Mannucci et al. 2005, A&A, 433, 807",
+        "Neill et al. 2011, ApJ, 727, 15",
+        "Stoll et al. 2011, ApJ, 730, 34",
+        "Lunnan et al. 2014, ApJ, 787, 138",
+        "Lunnan et al. 2015, ApJ, 804, 90",
+        "Rees 1988, Nature, 333, 523",
+        "Leonard & Filippenko 2001, PASP, 113, 920",
+        "Savaglio et al. 2009, ApJ, 691, 182",
+        "Kelly et al. 2014, ApJ, 789, 23"
+    ],
+    "Event Type": "Detection and characterisation of host galaxy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ESO Telescopes",
+    "Instrument": null,
+    "Observatory": "Paranal Observatories"
+}

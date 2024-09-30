@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CC Eridani",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary system",
+            "Time": "11:22:52 UT",
+            "Date": "2008 October 16"
+        },
+        {
+            "Name": "II Peg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AB Dor",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Algol",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EV Lac",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Crespo-Chacon et al. (2007, A&A, 471, 929)",
+        "Pan & Jordan (1995, MNRAS, 272, 11)",
+        "Nordon & Behar (2007, A&A ,464, 309)",
+        "Osten et al., 2007, ApJ, 654",
+        "Maggio et al., 2000, A&A, 356, 627",
+        "Favata & Scmitt, 1999, A&A 350, 900",
+        "Osten et al. ATEL #1499"
+    ],
+    "Event Type": "superflare",
+    "Time": "11:22:52 UT",
+    "Date": "2008 October 16",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

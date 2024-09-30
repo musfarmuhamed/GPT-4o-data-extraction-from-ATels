@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MG1 J050533+0415",
+            "RA": "05h05m34.774s",
+            "Dec": "+04d15m54.62s",
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "MNRAS, 376, 371",
+            "Authors": "N. Jackson et al.",
+            "Year": 2007
+        },
+        {
+            "Title": "submitted to ApJ, arXiv:1108.1420",
+            "Authors": "M. Ackermann et al.",
+            "Year": 2011
+        },
+        {
+            "Title": "submitted to ApJ, arXiv:1108.1435",
+            "Authors": "A. Abdo et al.",
+            "Year": 2011
+        }
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": "00:00:00 to 06:00:00 UTC",
+    "Date": "August 19, 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

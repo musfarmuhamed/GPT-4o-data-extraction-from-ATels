@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13ao",
+            "RA": "12:43:12.05",
+            "Dec": "+43:31:59.9",
+            "redshift": null,
+            "Type": "CV in a strong outburst",
+            "Time": "2013 June 8.28",
+            "Date": "2013-06-08"
+        },
+        {
+            "Name": "ASASSN-13ap",
+            "RA": "13:56:42.41",
+            "Dec": "+61:30:23.9",
+            "redshift": null,
+            "Type": "CV in outburst",
+            "Time": "2013 June 8.34",
+            "Date": "2013-06-08"
+        },
+        {
+            "Name": "ASASSN-13aq",
+            "RA": "15:57:59.37",
+            "Dec": "-04:24:15.6",
+            "redshift": null,
+            "Type": "CV in outburst",
+            "Time": "2013 June 9.38",
+            "Date": "2013-06-09"
+        }
+    ],
+    "References": [
+        "#4987",
+        "#4999",
+        "#5010",
+        "#5052",
+        "#5082",
+        "#5102"
+    ],
+    "Event Type": "discovery of three new transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "double 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

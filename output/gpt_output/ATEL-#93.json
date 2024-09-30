@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1901+014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J190141.0+012618",
+            "RA": "19h01m40.1s",
+            "Dec": "+1 26' 30\"",
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source at 19h01m39.90s, +01 26' 39.2\"",
+            "RA": "19h01m39.90s",
+            "Dec": "+01 26' 39.2\"",
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #7880",
+        "ATEL #89"
+    ],
+    "Event Type": null,
+    "Time": "04:15 - 04:30",
+    "Date": "2002 April 18",
+    "Telescope": "Jacobus Kapteyn Telescope, IAC80 Telescope",
+    "Instrument": "B, V, R, I filters",
+    "Observatory": "Instituto de Astrof\u00edsica de Canarias, Tenerife"
+}

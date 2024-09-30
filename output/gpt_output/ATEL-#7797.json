@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "06:41 to 21:41",
+            "Date": "2015-07-06"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:11 to 12:46",
+            "Date": "2015-07-08 to 2015-07-11"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-07-01"
+        }
+    ],
+    "References": [
+        "Atel #7763",
+        "Atel #7752",
+        "Atel #7788",
+        "Reynolds et al. 2014",
+        "Bernardini & Cackett 2014"
+    ],
+    "Event Type": "observation",
+    "Time": "06:41 to 21:41, 23:11 to 12:46",
+    "Date": "2015-07-06, 2015-07-08 to 2015-07-11",
+    "Telescope": "NuSTAR",
+    "Instrument": null,
+    "Observatory": null
+}

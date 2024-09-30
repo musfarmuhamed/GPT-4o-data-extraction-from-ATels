@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HLX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate-mass black hole candidate",
+            "Time": "08:05-09:35 UT",
+            "Date": "2012-08-27"
+        },
+        {
+            "Name": "HLX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate-mass black hole candidate",
+            "Time": "06:17-07:48 UT",
+            "Date": "2012-08-28"
+        },
+        {
+            "Name": "ESO243-49",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~ 6700 km/s",
+            "Type": "candidate host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": "~ 9330 km/s",
+            "Type": "extended far-UV-bright region",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Godet et al. 2012, ATel #4327; Kong 2012, ATel #4332; Wiersema et al. 2010, ApJ, 721, L102; Farrell et al. 2012, ApJ, 747, L13; Soria et al. 2012a, MNRAS, 420, 3599; Soria et al 2012b, submitted to MNRAS; Davis et al. 2011, ApJ, 734, 111",
+    "Event Type": "optical observation",
+    "Time": "08:05-09:35 UT, 06:17-07:48 UT",
+    "Date": "2012-08-27, 2012-08-28",
+    "Telescope": "Very Large Telescope",
+    "Instrument": "FORS2 spectrograph",
+    "Observatory": null
+}

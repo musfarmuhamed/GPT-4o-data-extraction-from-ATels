@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Dong",
+            "Year": "2015"
+        },
+        {
+            "Author": "Brown",
+            "Atel": "#8086"
+        }
+    ],
+    "Event Type": "late-time re-brightening at UV wavelengths",
+    "Time": null,
+    "Date": "September 12, 2015 to September 19, 2015",
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": "Swift satellite"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://swift.gsfc.nasa.gov/results/transients/SWIFTJ1753.5-0127/",
+    "Event Type": "Gradual Decrease in Hard X-rays",
+    "Time": null,
+    "Date": {
+        "start": "mid-February (MJD 57070)",
+        "notable_dates": [
+            {
+                "MJD 55172": "ATel #2341"
+            },
+            {
+                "MJD 55319": "NA"
+            },
+            {
+                "MJD 55620": "NA"
+            },
+            {
+                "MJD 56040": "ATel #4056"
+            }
+        ]
+    },
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

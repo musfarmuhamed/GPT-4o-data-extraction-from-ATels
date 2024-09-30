@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032",
+            "RA": "19h 56m 39.108s",
+            "Dec": "+03d 26m 43.66s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "01:22 TT",
+            "Date": "2015 October 10"
+        },
+        {
+            "Name": "MAXI J1957+032",
+            "RA": "19h 56m 39.108s",
+            "Dec": "+03d 26m 43.66s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:26 TT",
+            "Date": "2016 October 3"
+        }
+    ],
+    "References": [
+        "ATEL #8143",
+        "ATEL #8146",
+        "ATEL #9565",
+        "ATEL #9572",
+        "ATEL #7506",
+        "ATEL #7524",
+        "ATEL #8149",
+        "ATEL #8197"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": [
+        "HRC-S",
+        "ACIS-S"
+    ],
+    "Observatory": null
+}

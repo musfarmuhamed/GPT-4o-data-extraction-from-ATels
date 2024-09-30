@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V598 Pup",
+            "RA": "07 05 42.5067",
+            "Dec": "-38 14 39.48",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "Nov. 18"
+        },
+        {
+            "Name": "V598 Pup",
+            "RA": "07 05 42.5067",
+            "Dec": "-38 14 39.48",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "Nov. 21"
+        }
+    ],
+    "References": [
+        "ATel #1282",
+        "ATel #1285",
+        "ATel #1301"
+    ],
+    "Event Type": "nova detection",
+    "Time": null,
+    "Date": "Nov. 18 and Nov. 21",
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory"
+}

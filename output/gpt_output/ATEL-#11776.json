@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "21:22",
+            "Date": "2018-06-24"
+        }
+    ],
+    "References": [
+        "ATEL#11727",
+        "ATEL#11732",
+        "ATEL#11740",
+        "ATEL#11753",
+        "ATEL#11759",
+        "ATEL#11766",
+        "ATEL#11737",
+        "ATEL#11749",
+        "ATEL#11773",
+        "ATEL#11774",
+        "ATEL#11775"
+    ],
+    "Event Type": "optical transient",
+    "Time": null,
+    "Date": "2018-06-19",
+    "Telescope": [
+        "Liverpool Telescope",
+        "Palomar 60-inch telescope"
+    ],
+    "Instrument": [
+        "SPRAT",
+        "SED Machine"
+    ],
+    "Observatory": null
+}

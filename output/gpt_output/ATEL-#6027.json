@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J062954.27+253911.7",
+            "RA": "06h 29m 54.27s",
+            "Dec": "+25d 39m 11.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "12:21:50",
+            "Date": "2014-03-29"
+        },
+        {
+            "Name": "MASTER OT J052622.61+734629.7",
+            "RA": "05h 26m 22.61s",
+            "Dec": "+73d 46m 29.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "12:09:32",
+            "Date": "2014-03-30"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/062954.27253911.7.png",
+        "http://master.sai.msu.ru/static/OT/J052622+734629-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/J052622+734629-POSS-B.jpg",
+        "http://master.sai.msu.ru/static/OT/052622.61734629.7.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": "N/A",
+    "Date": "N/A",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": "N/A",
+    "Observatory": "N/A"
+}

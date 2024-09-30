@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J193922.39+665346.0",
+            "RA": "19h 39m 22.39s",
+            "Dec": "+66d 53m 46.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": null,
+            "Date": "2014-03-13.71683 UT"
+        },
+        {
+            "Name": "USNO-B1.0 1568-0205185",
+            "RA": "19h 39m 22.449s",
+            "Dec": "+66d 53m 47.88s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J193922.4+665347",
+            "RA": "19h 39m 22.4s",
+            "Dec": "+66d 53m 47s",
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J193908.6+665256",
+            "RA": "19h 39m 08.418s",
+            "Dec": "+66d 52m 56.09s",
+            "redshift": null,
+            "Type": "possibly hot white dwarf or CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1568-0205140",
+            "RA": "19h 39m 08.418s",
+            "Dec": "+66d 52m 56.09s",
+            "redshift": null,
+            "Type": "blue object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Image": "http://master.sai.msu.ru/static/OT/193922.39665346.0.png"
+        },
+        {
+            "Color-combined DSS finder chart": "http://master.sai.msu.ru/static/OT/J193922+665346-BRIR.jpg"
+        },
+        {
+            "Finder chart (2x zoom)": "http://master.sai.msu.ru/static/OT/J193922+665346-BRIR5x5.jpg"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2014-03-13.71683 UT",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

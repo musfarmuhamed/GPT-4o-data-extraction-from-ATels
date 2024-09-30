@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J114655.24+660959.3",
+            "RA": "11h 46m 55.24s",
+            "Dec": "+66d 09m 59.3s",
+            "redshift": "Null",
+            "Type": "possible Supernova",
+            "Time": "2014-08-09.63454 UT",
+            "Date": "2014-08-09"
+        },
+        {
+            "Name": "PGC 36760",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.0413",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SDSS J114654.97+660942.3",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.0413",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "2014-04-21.58762 UT",
+    "Event Type": "Possible GRB 140809A (Fermi trigger 429246673)",
+    "Time": "2014-08-09.63454 UT",
+    "Date": "2014-08-09",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "May 2004",
+            "Date": "2004-05"
+        }
+    ],
+    "References": "GCN 2603, 2604",
+    "Event Type": "burst active",
+    "Time": "May 2004",
+    "Date": "2004-05",
+    "Telescope": [
+        "RXTE",
+        "Chandra"
+    ],
+    "Instrument": [
+        "PCA",
+        "ACIS"
+    ],
+    "Observatory": null
+}

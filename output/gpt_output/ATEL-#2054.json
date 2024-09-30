@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C 31.03",
+            "RA": "01h12m50.3330s",
+            "Dec": "+32d08m17.433s",
+            "redshift": "0.603",
+            "Type": "Flat Spectrum Radio Source",
+            "Time": "06:00:00",
+            "Date": "May 20, 2009"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Beasley, A. J et al.",
+            "Year": "2002",
+            "Journal": "ApJS",
+            "Volume": "141"
+        },
+        {
+            "Author": "Wills, D., Wills, B. J.",
+            "Year": "1976",
+            "Journal": "Ap. J. Suppl.",
+            "Volume": "31",
+            "Page": "143"
+        },
+        {
+            "Author": "Healey, S. et al.",
+            "Year": "2007",
+            "Journal": "ApJS",
+            "Volume": "171"
+        }
+    ],
+    "Event Type": "Gamma-ray flux increase",
+    "Time": "06:00:00",
+    "Date": "May 20, 2009",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "Null"
+}

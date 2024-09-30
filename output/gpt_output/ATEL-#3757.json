@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "accreting millisecond pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3733",
+        "ATel #3736",
+        "Hartman et al. (2008, ApJ, 675, 1468)",
+        "Di Salvo et al. 2008, MNRAS, 389, 1851",
+        "Burderi et al. 2009, A&A, 496L, 17B"
+    ],
+    "Event Type": "RXTE PCA observations",
+    "Time": "between Nov 4.9 and Nov 9.2",
+    "Date": "2011",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

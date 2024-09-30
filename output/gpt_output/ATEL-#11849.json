@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2018-07b",
+            "RA": "0h42m07s.64",
+            "Dec": "+41o19'44\".0",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "13.991 UT",
+            "Date": "2018 Jul."
+        },
+        {
+            "Name": "PNV J00420765+4119438",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "K. Itagaki",
+    "Event Type": "discovery",
+    "Time": "13.991 UT",
+    "Date": "2018 Jul.",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

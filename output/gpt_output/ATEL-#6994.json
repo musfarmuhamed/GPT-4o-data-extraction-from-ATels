@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15cb",
+            "RA": "12:39:50.23",
+            "Dec": "03:47:49.8",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "CSS150123-025554+010011",
+            "RA": "02:55:53.99",
+            "Dec": "01:00:10.8",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "LSQ15ex",
+            "RA": "12:01:25.70",
+            "Dec": "-06:42:50.4",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "LSQ15ey",
+            "RA": "14:12:05.08",
+            "Dec": "-07:23:36.8",
+            "redshift": 0.038,
+            "Type": "?",
+            "Time": "Unknown",
+            "Date": "2015-01-25"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2014, arXiv:1411.0299",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al. 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classification",
+    "Time": "Unknown",
+    "Date": "2015-01-25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

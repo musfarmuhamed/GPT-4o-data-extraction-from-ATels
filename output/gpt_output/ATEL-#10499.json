@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017egm",
+            "RA": "10 19 05.62",
+            "Dec": "+46 27 14.1",
+            "redshift": "0.0307",
+            "Type": "hydrogen-poor super-luminous supernova (SLSN-I)",
+            "Time": "06:54",
+            "Date": "2017-June-02"
+        },
+        {
+            "Name": "NGC 3191",
+            "RA": "10 19 05.77",
+            "Dec": "+46 27 18.6",
+            "redshift": "0.0307",
+            "Type": "star forming galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Delgado et al, TNS Astronomical Transient Report No 11679; Dong et al., ATEL #10498",
+    "Event Type": "X-ray emission possibly associated with supernova or star-forming galaxy",
+    "Time": "06:54 to 09:09",
+    "Date": "2017-June-02 to 2017-June-15",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": "Null"
+}

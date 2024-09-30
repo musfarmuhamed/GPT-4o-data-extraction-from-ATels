@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 345",
+            "RA": 250.745041,
+            "Dec": 39.810276,
+            "redshift": 0.5928,
+            "Type": "flat spectrum radio quasar",
+            "Time": "06:00-12:00",
+            "Date": "2017 May 31"
+        },
+        {
+            "Name": "NRAO 512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Marziani et al. 1996, ApJS, 104, 37",
+        "Lister et al. 2013, AJ, 146, 120",
+        "Schinzel et al. 2012, A&A, 537, 70",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "ATel#2226"
+    ],
+    "Event Type": "high-level gamma-ray activity",
+    "Time": "06:00-12:00",
+    "Date": "2017 May 31",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": [
+        "NASA",
+        "DOE",
+        "scientific institutions across France",
+        "Italy",
+        "Japan",
+        "Sweden"
+    ]
+}

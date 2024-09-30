@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1859+082",
+            "RA": 284.854,
+            "Dec": 8.208,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:42",
+            "Date": "2015 February 8"
+        }
+    ],
+    "References": [
+        {
+            "Name": "XTE J1859+083",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "9.8 s pulsar",
+            "Time": null,
+            "Date": "1999 August 8"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Ser X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Event Type": "X-ray increase",
+    "Time": "00:42",
+    "Date": "2015 February 8",
+    "Telescope": "GSC A0 detector",
+    "Instrument": "high-voltage of the gas counter",
+    "Observatory": "MAXI"
+}

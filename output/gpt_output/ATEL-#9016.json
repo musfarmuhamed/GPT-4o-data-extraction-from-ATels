@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16eu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "core-collapse supernova",
+            "Time": "May 01.23",
+            "Date": "UT"
+        },
+        {
+            "Name": "2016ccf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "core-collapse supernova",
+            "Time": "May 01.23",
+            "Date": "UT"
+        },
+        {
+            "Name": "ASASSN-16es",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "SN Ia",
+            "Time": "May 01.31",
+            "Date": "UT"
+        },
+        {
+            "Name": "2016cbx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "SN Ia",
+            "Time": "May 01.31",
+            "Date": "UT"
+        },
+        {
+            "Name": "CSS160417:133446+135114",
+            "RA": "13:34:46",
+            "Dec": "+13:51:14",
+            "redshift": "0.019",
+            "Type": "SN Ia",
+            "Time": "May 01.43",
+            "Date": "UT"
+        },
+        {
+            "Name": "ps16cbu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028",
+            "Type": "SN Ia",
+            "Time": "May 01.48",
+            "Date": "UT"
+        },
+        {
+            "Name": "2016ccb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028",
+            "Type": "SN Ia",
+            "Time": "May 01.48",
+            "Date": "UT"
+        }
+    ],
+    "References": [
+        "ATEL #9011",
+        "ATEL #9001"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": "Unknown",
+    "Observatory": "National Research Council of Canada"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00420640+4108211",
+            "RA": "0h42m06s.40",
+            "Dec": "+41o08'21\".1",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "7.751 UT",
+            "Date": "2015 Mar. 7"
+        },
+        {
+            "Name": "J004206.53+410821.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J004206.46+410820.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fliri et al. 2006, A&A, 445, 23; Massey et al. 2006, AJ, 131, 2478; CBET #2487, ATel #3039",
+    "Event Type": "discovery of probable nova",
+    "Time": "7.751 UT",
+    "Date": "2015 Mar. 7",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

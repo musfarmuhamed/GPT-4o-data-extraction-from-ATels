@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 501",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray brightening",
+            "Time": "2-10 keV",
+            "Date": "2011 November 1"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Hiroi et al.",
+            "URL": "http://arxiv.org/abs/1108.5516"
+        },
+        {
+            "Name": "Xue and Cui",
+            "Publication": "ApJ, vol.622, p160",
+            "Year": "2005"
+        },
+        {
+            "URL": "http://maxi.riken.jp/top/index.php?cid=1&jname=J1653+397"
+        }
+    ],
+    "Event Type": "Detection of X-ray brightening",
+    "Time": null,
+    "Date": "2011 November 1",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "MAXI/GSC all-sky survey",
+    "Observatory": null
+}

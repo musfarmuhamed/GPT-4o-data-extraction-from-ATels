@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE17aaj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.116,
+            "Type": "TDE candidate",
+            "Time": null,
+            "Date": "2017-01-01"
+        },
+        {
+            "Name": "GALEXASC J015624.70-710415.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9977",
+        "Kalberla & Haud 2015, A&A, 578, A78",
+        "Schlafly et al. 2011, ApJ, 737, 103",
+        "ATel #4495",
+        "Kozlowski et al. 2013, AcA, 63, 1, 1",
+        "Wyrzykowski et al. 2014, AcA, 64, 197"
+    ],
+    "Event Type": "Tidal Disruption Event candidate",
+    "Time": null,
+    "Date": "2017-01-01",
+    "Telescope": "VLT/FORS2",
+    "Instrument": null,
+    "Observatory": "VLT"
+}

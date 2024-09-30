@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J203248.71-295522.0",
+            "RA": "20h 32m 48.71s",
+            "Dec": "-29d 55m 22.0s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2017-06-19.20638 UT",
+            "Date": "2017-06-19"
+        },
+        {
+            "Name": "MASTER OT J233652.06+130550.8",
+            "RA": "23h 36m 52.06s",
+            "Dec": "+13d 05m 50.8s",
+            "redshift": null,
+            "Type": "CV or QSO flare",
+            "Time": "2017-06-20.20566 UT",
+            "Date": "2017-06-20"
+        },
+        {
+            "Name": "MASTER OT J200232.78-205500.8",
+            "RA": "20h 02m 32.78s",
+            "Dec": "-20d 55m 00.8s",
+            "redshift": null,
+            "Type": "Blue OT (CV?)",
+            "Time": "2017-06-19 00:58:01.515 UT",
+            "Date": "2017-06-19"
+        },
+        {
+            "Name": "MASTER OT J132548.18-031429.2",
+            "RA": "13h 25m 48.18s",
+            "Dec": "-03d 14m 29.2s",
+            "redshift": null,
+            "Type": "UVCet type flare",
+            "Time": "2017-06-16.83683 UT",
+            "Date": "2017-06-16"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

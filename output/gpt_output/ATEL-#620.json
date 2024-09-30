@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2005eu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0349",
+            "Type": "Ia",
+            "Time": "6.5 UT",
+            "Date": "Oct 6"
+        },
+        {
+            "Name": "SNF20051003-003",
+            "RA": "02:31:04.93",
+            "Dec": "+27:42:06.5",
+            "redshift": "0.0154",
+            "Type": "Ia",
+            "Time": "6.6 UT",
+            "Date": "Oct 6"
+        },
+        {
+            "Name": "SNF20051004-001",
+            "RA": "03:39:23.74",
+            "Dec": "+35:02:49.0",
+            "redshift": "0.003",
+            "Type": "Ia",
+            "Time": "6.6 UT",
+            "Date": "Oct 6"
+        }
+    ],
+    "References": "IAUC # 8611, Garavini et al. 2004 AJ 128, 387, Salvo et al. 2001 MNRAS 321, 254, Hamuy et al. 2002 AJ 124, 417",
+    "Event Type": "Supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii 2.2-meter telescope, Palomar Oschin 48-inch, Lick 1-m Nickel Reflector",
+    "Instrument": "Supernova Integral Field Spectrograph (SNIFS), QUEST II camera",
+    "Observatory": "University of Hawaii, Palomar, Lick"
+}

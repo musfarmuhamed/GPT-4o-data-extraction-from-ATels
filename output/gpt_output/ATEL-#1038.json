@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1856+053",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole binary candidate",
+            "Time": null,
+            "Date": {
+                "Start": "March 9",
+                "End": "March 24"
+            }
+        }
+    ],
+    "References": [
+        "ATel #1024",
+        "ATel #1026"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": {
+        "Start": "March 9",
+        "End": "March 24"
+    },
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AXP 1E1547.0-5408",
+            "RA": "15 50 53.84",
+            "Dec": "-54 18 23.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "82 seconds after the first BAT trigger",
+            "Date": null
+        },
+        {
+            "Name": "CXOU J155054.1-541824",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "1E1547.0-5408",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm et al., GCN Circ. 8311; Gelfand & Gaensler 2007; Krimm et al. (GCN Circ. 8318); GCN Circ. 8312",
+    "Event Type": "X-ray source detection",
+    "Time": "520 s (increased count rate); 2.5 s frame of data",
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT (Photon Counting mode), UVOT",
+    "Observatory": null
+}

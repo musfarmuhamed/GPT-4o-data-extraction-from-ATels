@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0911-655",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "2.9 ms",
+            "Date": null
+        },
+        {
+            "Name": "NGC2808",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sanna et al. 2016 arXiv:1611.02995",
+        "Mihara et al. 2011",
+        "Atel #9738"
+    ],
+    "Event Type": "discovery of pulsations and radio counterpart search",
+    "Time": "7.5 hr",
+    "Date": "August 28th 2011",
+    "Telescope": "Parkes Radio Telescope",
+    "Instrument": "multibeam receiver at a frequency of 1369 MHz and Digital Filterbank DFB4",
+    "Observatory": "Parkes"
+}

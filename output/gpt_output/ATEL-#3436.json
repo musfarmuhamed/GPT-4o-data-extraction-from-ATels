@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J184542.4+483134",
+            "RA": "18:45:42.622",
+            "Dec": "+48:31:30.84",
+            "redshift": null,
+            "Type": "Eclipsing AM Her-type star (polar)",
+            "Time": "HJD(UTC) = 2455684.5149 + 0.054908 x E",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Monet et al. 2003 AJ, 125, 984",
+        "Denisenko & Sokolovsky 2011 AstL, 37, 91",
+        "Denisenko & Smirnov 2011 PZP, 11, 10",
+        "Voges et al. 1999 A&A, 349, 389",
+        "Kalberla et al. 2005 A&A, 440, 775",
+        "Schwope et al. 2007 A&A, 469, 1027"
+    ],
+    "Event Type": "Observations and Analysis",
+    "Time": [
+        "2011 April 30",
+        "2011 May 02",
+        "2011 May 03",
+        "2011 April 25",
+        "2011 April 26",
+        "2010 May 20"
+    ],
+    "Date": "2011",
+    "Telescope": [
+        "2.6-m Shajn",
+        "1.25-m AZT-11",
+        "Swift satellite"
+    ],
+    "Instrument": [
+        "Swift/UVOT",
+        "Swift/XRT"
+    ],
+    "Observatory": "Crimean Astrophysical Observatory"
+}

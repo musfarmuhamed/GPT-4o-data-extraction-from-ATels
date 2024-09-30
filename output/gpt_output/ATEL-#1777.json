@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": [
+                "August 14th",
+                "October 1st",
+                "October 8th"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #1662",
+        "Kaaret et al 2002, ApJ",
+        "SuperAGILE on October 9th (Pacciani et al., ATel #1775)",
+        "in't Zand et al. 2007, A&A"
+    ],
+    "Event Type": "outburst",
+    "Time": "various times (exact times not specified)",
+    "Date": "October 1st, October 8th, October 9th",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

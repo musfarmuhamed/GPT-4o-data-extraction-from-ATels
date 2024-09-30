@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018jgn",
+            "RA": "00:02:56.0",
+            "Dec": "-26:54:52.9",
+            "redshift": "0.067",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20181201"
+        },
+        {
+            "Name": "SN2018jfv",
+            "RA": "01:03:03.6",
+            "Dec": "+27:28:14.2",
+            "redshift": "0.061",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20181129"
+        },
+        {
+            "Name": "SN2018jff",
+            "RA": "23:48:06.4",
+            "Dec": "-44:58:49.0",
+            "redshift": "0.063",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20181126"
+        },
+        {
+            "Name": "SN2018jbm",
+            "RA": "01:42:17.6",
+            "Dec": "-45:24:51.9",
+            "redshift": "0.0625",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20181126"
+        },
+        {
+            "Name": "SN2018jfz",
+            "RA": "03:20:18.7",
+            "Dec": "-00:17:47.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20181128"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al., 2011, PASP, 123, 58",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Chen et al. 2018, ApJ, 867L, 31"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": null,
+    "Date": "20181201",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

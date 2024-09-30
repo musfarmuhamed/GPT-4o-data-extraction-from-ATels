@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1946+274",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray pulsar",
+            "Time": "5.0-6.0",
+            "Date": "June",
+            "pulsation_frequency": "63.463(9) mHz",
+            "pulsed_flux": "0.17 +/- 0.02 cnts cm^-2 s^-1",
+            "energy_band": "12-50 keV"
+        }
+    ],
+    "References": [
+        "ATel #2677",
+        "ATel #2663"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "April 30 2011",
+    "Telescope": "Fermi",
+    "Instrument": "GBM",
+    "Observatory": null
+}

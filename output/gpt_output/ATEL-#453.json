@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00",
+            "Date": "2005-03-26"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "02:45",
+            "Date": "2005-04-02"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23:30",
+            "Date": "2005-04-03"
+        }
+    ],
+    "References": [
+        "ATEL #444",
+        "ATEL #438"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "00:00",
+        "02:45",
+        "23:30"
+    ],
+    "Date": [
+        "2005-03-26",
+        "2005-04-02",
+        "2005-04-03"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI, IBIS/ISGRI",
+    "Observatory": null
+}

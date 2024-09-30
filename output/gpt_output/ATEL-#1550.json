@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Infrared source in NGC300",
+            "RA": "00:54:34.53",
+            "Dec": "-37:38:31.71",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "Dec. 28, 2007"
+        },
+        {
+            "Name": "SN2008S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC # 8946",
+        "ATEL #1544",
+        "Prieto et al. 2008, ApJL accepted, http://arxiv.org/abs/0803.0324"
+    ],
+    "Event Type": "Luminous Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Spitzer",
+    "Instrument": "IRAC, MIPS",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-001",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-002",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0722,
+            "Type": "Type II supernova (probable)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Wyrzykowski et al., ATeL #4718",
+    "Event Type": "optical spectroscopy",
+    "Time": "01:00 AM",
+    "Date": "Jan 8",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

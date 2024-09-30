@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J161308.18+260953.3",
+            "RA": "16h 13m 08.18s",
+            "Dec": "+26d 09m 53.3s",
+            "redshift": null,
+            "Type": "PSN (Possible Superluminous SN)",
+            "Time": "03:05:47",
+            "Date": "2017-02-16"
+        },
+        {
+            "Name": "SDSS galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "Discovery",
+    "Time": "03:05:47",
+    "Date": "2017-02-16",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

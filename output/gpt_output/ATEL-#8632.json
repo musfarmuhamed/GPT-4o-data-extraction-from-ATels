@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553757+6900146",
+            "RA": "9h55m37s.57",
+            "Dec": "+69o00'14\".6",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "30.200 UT",
+            "Date": "2016 Jan",
+            "Magnitude": "20.6 \u00b1 0.2"
+        },
+        {
+            "Name": "PNV J09553757+6900146",
+            "RA": "9h55m37s.57",
+            "Dec": "+69o00'14\".6",
+            "redshift": null,
+            "Type": "probable nova",
+            "Time": "3.194 UT",
+            "Date": "2016 Feb",
+            "Magnitude": "20.3 \u00b1 0.25"
+        }
+    ],
+    "References": "J. Vrastil",
+    "Event Type": "discovery",
+    "Time": "30.200 UT",
+    "Date": "2016 Jan",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD",
+    "Observatory": "Ondrejov"
+}

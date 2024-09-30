@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016ad",
+            "RA": "09 16 40.73",
+            "Dec": "+22 17 52.8",
+            "redshift": 0.050376,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "20160108"
+        },
+        {
+            "Name": "AT 2016ae",
+            "RA": "07 41 31.56",
+            "Dec": "+36 39 12.2",
+            "redshift": 0.06,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "20160104"
+        },
+        {
+            "Name": "AT 2016af",
+            "RA": "08 38 51.34",
+            "Dec": "-00 20 06.9",
+            "redshift": 0.05,
+            "Type": "supernova",
+            "Time": "Unknown",
+            "Date": "20160109"
+        }
+    ],
+    "References": "Huber et al. ATel #7153",
+    "Event Type": "Probable supernovae discovery",
+    "Time": "Unknown",
+    "Date": "Unknown",
+    "Telescope": "Pan-STARRS",
+    "Instrument": "Unknown",
+    "Observatory": "Unknown"
+}

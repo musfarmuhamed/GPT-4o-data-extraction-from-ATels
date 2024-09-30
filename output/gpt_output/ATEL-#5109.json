@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553291+6905261",
+            "RA": "09 55 32.91",
+            "Dec": "+69 05 26.1",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "03.905 UT",
+            "Date": "2013 June 3"
+        },
+        {
+            "Name": "PNV J09552524+6905322",
+            "RA": "09 55 25.24",
+            "Dec": "+69 05 32.2",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "03.905 UT",
+            "Date": "2013 June 3"
+        },
+        {
+            "Name": "PNV J09553917+6902390",
+            "RA": "09 55 39.17",
+            "Dec": "+69 02 39.0",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "03.901 UT",
+            "Date": "2013 June 3"
+        }
+    ],
+    "References": [
+        {
+            "Type": "ATel",
+            "Numbers": [
+                4894,
+                4968,
+                5015
+            ]
+        }
+    ],
+    "Event Type": "Discovery of Novae",
+    "Time": "03.905 UT",
+    "Date": "2013 June 3",
+    "Telescope": "2.5-m Isaac Newton Telescope",
+    "Instrument": "WFC",
+    "Observatory": "Observatorio del Roque de los Muchachos"
+}

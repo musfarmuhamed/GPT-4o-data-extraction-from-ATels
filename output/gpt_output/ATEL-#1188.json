@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070815-007",
+            "RA": "22:12:00.43",
+            "Dec": "07:31:49.3",
+            "redshift": "0.04",
+            "Type": "II",
+            "Time": "Aug 15.3",
+            "Date": "Aug 15"
+        },
+        {
+            "Name": "SNF20070816-002",
+            "RA": "00:16:26.16",
+            "Dec": "-00:21:09.2",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "Aug 16.3",
+            "Date": "Aug 16"
+        },
+        {
+            "Name": "SNF20070816-006",
+            "RA": "22:53:42.55",
+            "Dec": "12:05:54.4",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "Aug 16.3",
+            "Date": "Aug 16"
+        },
+        {
+            "Name": "SNF20070819-007",
+            "RA": "01:39:05.65",
+            "Dec": "06:14:42.0",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "Aug 19.5",
+            "Date": "Aug 19"
+        }
+    ],
+    "References": "USNO-B1.0 catalog",
+    "Event Type": "Discovery of Supernovae",
+    "Time": "Various times between Aug 15 and Aug 19 UTC",
+    "Date": "Aug 15 through Aug 19",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera, SuperNova Integral Field Spectrograph",
+    "Observatory": "Palomar-QUEST Consortium, University of Hawaii 2.2-meter telescope"
+}

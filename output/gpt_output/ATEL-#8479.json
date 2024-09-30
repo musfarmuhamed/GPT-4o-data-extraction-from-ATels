@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ut",
+            "RA": "00:21:21.09",
+            "Dec": "-48:38:30.34",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "12:30",
+            "Date": "2015-12-30"
+        },
+        {
+            "Name": "NGC 88",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011471",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovery",
+    "Time": "12:30",
+    "Date": "2015-12-30",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

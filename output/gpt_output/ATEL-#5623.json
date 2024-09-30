@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13eal",
+            "RA": "00 30 18.69",
+            "Dec": "+11 54 43.5",
+            "redshift": 0.058,
+            "Type": "SN II",
+            "Time": "Nov 11.61",
+            "Date": "Nov 26"
+        },
+        {
+            "Name": "iPTF13ebs",
+            "RA": "09 21 08.27",
+            "Dec": "+49 35 33.5",
+            "redshift": 0.027,
+            "Type": "SN IIb",
+            "Time": "Nov 25.35",
+            "Date": "Dec 02"
+        },
+        {
+            "Name": "iPTF13ecn",
+            "RA": "09 55 32.49",
+            "Dec": "+68 37 08.8",
+            "redshift": 0.039,
+            "Type": "SN II",
+            "Time": "Nov 25.55",
+            "Date": "Dec 02"
+        },
+        {
+            "Name": "iPTF13ecz",
+            "RA": "09 39 01.65",
+            "Dec": "+50 36 00.8",
+            "redshift": 0.025,
+            "Type": "SN II",
+            "Time": "Nov 25.49",
+            "Date": "Dec 02"
+        },
+        {
+            "Name": "iPTF13edf",
+            "RA": "07 44 09.51",
+            "Dec": "+40 19 28.5",
+            "redshift": 0.0267,
+            "Type": "SN IIb/Ib",
+            "Time": "Nov 28.30",
+            "Date": "Nov 29"
+        },
+        {
+            "Name": "iPTF13eer",
+            "RA": "09 04 07.99",
+            "Dec": "+47 42 28.1",
+            "redshift": 0.047,
+            "Type": "SN II",
+            "Time": "Dec 01.52",
+            "Date": "Dec 02"
+        },
+        {
+            "Name": "iPTF13eew",
+            "RA": "02 48 40.85",
+            "Dec": "+15 30 49.3",
+            "redshift": 0.025,
+            "Type": "SN II",
+            "Time": "Dec 02.12",
+            "Date": "Dec 02"
+        }
+    ],
+    "References": "ATel #4807",
+    "Event Type": "Discovery and classification of core-collapse supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "P200, Keck1, Keck2",
+    "Instrument": "DBSP, LRIS, DEIMOS",
+    "Observatory": null
+}

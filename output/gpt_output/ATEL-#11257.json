@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MWC 148",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#11223",
+        "ATel#11233",
+        "Bonev et al. 2017, BlgAJ, 26, 67"
+    ],
+    "Event Type": "optical spectroscopic and photometric observations",
+    "Time": null,
+    "Date": [
+        "2018 Jan 26",
+        "2018 Jan 27",
+        "2018 Feb 1"
+    ],
+    "Telescope": [
+        "2m RCC telescope",
+        "50/70cm Schmidt telescope"
+    ],
+    "Instrument": "ESpeRo spectrograph",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

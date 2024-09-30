@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16ath",
+            "RA": "23:49:30.88",
+            "Dec": "+17:22:08.2",
+            "redshift": "0.075 \u00b1 0.017",
+            "Type": "Type Ia supernova",
+            "Time": "00:01",
+            "Date": "2016-07-11"
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "transient",
+    "Time": "00:01",
+    "Date": "2016-07-11",
+    "Telescope": "60/90 cm Schmidt telescope",
+    "Instrument": "Bessell B,V,R,I filters",
+    "Observatory": "Konkoly Observatory, Piszkesteto, Hungary"
+}

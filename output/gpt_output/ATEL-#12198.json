@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18zj",
+            "RA": "10:06:50.875",
+            "Dec": "+01:41:33.96",
+            "redshift": null,
+            "Type": "TDE candidate",
+            "Time": null,
+            "Date": "2018-11-06.65"
+        },
+        {
+            "Name": "2MASS J10065085+0141342",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.045815",
+            "Type": "E+A/post-starburst galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014; ATel #12194",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Holoien et al. 2014",
+        "Arcavi et al. 2014",
+        "French et al. 2017"
+    ],
+    "Event Type": "Spectroscopic observation",
+    "Time": null,
+    "Date": "2018-11-09",
+    "Telescope": "3-m Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "Lick Observatory"
+}

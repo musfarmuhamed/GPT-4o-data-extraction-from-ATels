@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1810-189",
+            "RA": "272.58535",
+            "Dec": "-19.07026",
+            "redshift": "0",
+            "Type": "X-ray binary",
+            "Time": "16:55",
+            "Date": "2008-03-18"
+        },
+        {
+            "Name": "2MASS 1810233-1904136",
+            "RA": "null",
+            "Dec": "null",
+            "redshift": "null",
+            "Type": "IR source",
+            "Time": "null",
+            "Date": "null"
+        },
+        {
+            "Name": "2MASS 18102072-1904093",
+            "RA": "null",
+            "Dec": "null",
+            "redshift": "null",
+            "Type": "IR source",
+            "Time": "null",
+            "Date": "null"
+        }
+    ],
+    "References": "ATEL#1424, ATEL#1432, Krimm, Kennea, Tueller, Markwardt, Swank",
+    "Event Type": "Observation",
+    "Time": "16:55",
+    "Date": "2008-03-18",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "null"
+}

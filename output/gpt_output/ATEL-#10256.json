@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": 266.133,
+            "Dec": -27.784,
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": "MJD 57853.7739",
+            "Date": "April 10, 2017"
+        },
+        {
+            "Name": "XMMSL1 J174429.4-274609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": "MJD 57853.7739",
+            "Date": "April 10, 2017"
+        }
+    ],
+    "References": [
+        "Bird et al. 2006",
+        "Malizia et al. 2010"
+    ],
+    "Event Type": "type-I X-ray burst",
+    "Time": "MJD 57853.7739",
+    "Date": "April 10, 2017",
+    "Telescope": "JEM-X",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

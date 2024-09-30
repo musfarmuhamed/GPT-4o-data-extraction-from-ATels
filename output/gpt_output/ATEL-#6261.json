@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6J1037+5711",
+            "RA": "10:37:44.30",
+            "Dec": "+57:11:55.6",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1037.6+5712",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Monet et al., 2003, AJ, 125, 984-993",
+    "Event Type": "Optical Polarization Angle Rotation",
+    "Time": null,
+    "Date": "April 30, 2014",
+    "Telescope": "1.3-m Skinakas telescope",
+    "Instrument": "4-channel optical polarimeter",
+    "Observatory": "Skinakas Observatory"
+}

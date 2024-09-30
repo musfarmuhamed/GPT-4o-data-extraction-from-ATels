@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "13:10:19",
+            "Date": "2011-05-21"
+        }
+    ],
+    "References": [
+        "ATels #3298",
+        "#3339",
+        "#3358",
+        "Kuulkers et al. 2011, arXiv:1102.2102",
+        "Miller-Jones et al., ATel #3358"
+    ],
+    "Event Type": "Observation",
+    "Time": "13:10:19",
+    "Date": "2011-05-21",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, XRT",
+    "Observatory": "University of Leicester, UK Swift Science Data Centre"
+}

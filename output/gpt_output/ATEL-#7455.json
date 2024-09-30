@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ic",
+            "RA": "06:14:51.380",
+            "Dec": "-42:47:56.03",
+            "redshift": null,
+            "Type": "transient source, possibly a supernova",
+            "Time": "00:57:36",
+            "Date": "2015-04-27"
+        },
+        {
+            "Name": "2MASX J06145320-4247357",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.063724",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J061451.60-424726.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J061448.06-424739.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN, NED",
+    "Event Type": "Discovery",
+    "Time": "00:57:36",
+    "Date": "2015-04-27",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J001021.33+731516.5",
+            "RA": "00h 10m 21.33s",
+            "Dec": "+73d 15m 16.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "unknown",
+            "Date": "2016-05-24.18141 UT"
+        },
+        {
+            "Name": "MASTER OT J203111.28-625350.6",
+            "RA": "20h 31m 11.28s",
+            "Dec": "-62d 53m 50.6s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "unknown",
+            "Date": "2016-05-16.85579 UT"
+        },
+        {
+            "Name": "MASTER OT J180606.58+272108.8 (ASASSN-13ct)",
+            "RA": "unknown",
+            "Dec": "unknown",
+            "redshift": null,
+            "Type": null,
+            "Time": "02:21:39.752",
+            "Date": "2016-05-24"
+        },
+        {
+            "Name": "MASTER OT J223854.45+053607.5 (SDSSJ223854.51+053606.8)",
+            "RA": "unknown",
+            "Dec": "unknown",
+            "redshift": null,
+            "Type": null,
+            "Time": "03:40:23.608",
+            "Date": "2016-05-23"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-08-18.87785 UT",
+            "m_lim": "19.3m",
+            "Observatory": "MASTER-IAC database"
+        },
+        {
+            "Date": "2015-01-15 16:45:51UT",
+            "m_lim": "19.6",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2014-10-03 19:04:16UT",
+            "m_lim": "19.6",
+            "Observatory": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2012-09-08 17:30:52UT",
+            "m_lim": "19.2",
+            "Observatory": "MASTER-Tunka"
+        },
+        {
+            "Date": "2011-12-26 11:44:57UT",
+            "m_lim": "19.0",
+            "Observatory": "MASTER-Tunka"
+        },
+        {
+            "Date": "2010-10-09 12:08:50UT",
+            "m_lim": "19.4",
+            "Observatory": "MASTER-Tunka"
+        },
+        {
+            "Date": "2015-10-10.77578 UT",
+            "m_lim": "20.2m",
+            "Observatory": null
+        }
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": null,
+    "Date": "unknown",
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

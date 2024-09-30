@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080329:130259+103027",
+            "RA": "13:02:58.75",
+            "Dec": "10:30:27.0",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "07:55:16",
+            "Date": "2008-03-29"
+        },
+        {
+            "Name": "CGCG 071-101",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://voeventnet.org/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "optical transient detection",
+    "Time": "07:55:16",
+    "Date": "2008-03-29",
+    "Telescope": "Mt. Bigelow 0.7m Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey"
+}

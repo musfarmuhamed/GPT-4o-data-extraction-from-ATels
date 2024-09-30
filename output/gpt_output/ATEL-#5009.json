@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": "17h 45m 33.3s",
+            "Dec": "-28d 58m 55s",
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": "19:15:25UT",
+            "Date": "April 25, 2013"
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": "17h 45m 40.19s",
+            "Dec": "-29d 00m 28.4s",
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": null,
+            "Date": "April 25, 2013"
+        }
+    ],
+    "References": "Degenaar et al (ATEL #5006), Dwelly and Ponti (ATEL #5008), Barthelmy et al. (GCN #14443), Gillessen et al. (2012, 2013)",
+    "Event Type": "Detection of a short flare",
+    "Time": "19:15:25UT",
+    "Date": "April 25, 2013",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Swift Observatory"
+}

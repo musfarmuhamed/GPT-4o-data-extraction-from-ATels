@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.2326",
+            "Type": "highly superluminous supernova",
+            "Time": "18.15 UT",
+            "Date": "October 18"
+        },
+        {
+            "Name": "iPTF13ehe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "superluminous supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7642,#7774; Dong et al. 2015; arXiv:1507.03010v2; ATel #8086; ATel #8089; ATel#7774; Yan et al. 2015; arXiv:1508.04420; ATel #8086",
+    "Event Type": "optical spectrum observation",
+    "Time": "18.15 UT",
+    "Date": "October 18",
+    "Telescope": "Walter Baade Magellan 6.5m",
+    "Instrument": "IMACS",
+    "Observatory": "Las Campanas Observatory"
+}

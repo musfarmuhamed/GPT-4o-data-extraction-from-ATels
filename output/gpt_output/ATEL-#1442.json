@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unnamed Source",
+            "RA": 259.889,
+            "Dec": -29.06,
+            "redshift": null,
+            "Type": null,
+            "Time": "20:36 UTC",
+            "Date": "2008-03-25"
+        }
+    ],
+    "References": {
+        "Time": [
+            "17:20 UTC",
+            "20:36 UTC"
+        ],
+        "Date": [
+            "2008-03-21",
+            "2008-03-25"
+        ]
+    },
+    "Event Type": "Detection of new source",
+    "Time": "17:20 UTC",
+    "Date": "2008-03-21",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

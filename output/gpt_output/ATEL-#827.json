@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT060520:143933+054636",
+            "RA": "14:39:33.21",
+            "Dec": "+05:46:36.6",
+            "redshift": "0.1608",
+            "Type": "Optical Transient",
+            "Time": "Unknown",
+            "Date": "20 May 2006 UT"
+        },
+        {
+            "Name": "anonymous galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.1608",
+            "Type": "star-forming disk galaxy",
+            "Time": "Unknown",
+            "Date": null
+        }
+    ],
+    "References": "http://www.astro.caltech.edu/~aam/science/OT060520_143933+054636/",
+    "Event Type": "Optical Transient",
+    "Time": "Unknown",
+    "Date": "20 May 2006 UT",
+    "Telescope": "Palomar-Quest, UH 2.2-m, Keck-I 10-m, Palomar 200-inch, Palomar 60-inch",
+    "Instrument": "SNIFS integral-field spectrograph, LRIS long-slit spectrograph, DBSP long-slit spectrograph",
+    "Observatory": "Mauna Kea, Palomar"
+}

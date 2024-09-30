@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT 081",
+            "RA": "267.88674",
+            "Dec": "9.65020",
+            "redshift": "0.322",
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1749+096",
+            "RA": "267.88674",
+            "Dec": "9.65020",
+            "redshift": "0.322",
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4C +09.57",
+            "RA": "267.88674",
+            "Dec": "9.65020",
+            "redshift": "0.322",
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lanyi et al. 2010, AJ, 139, 1695",
+        "Stickel, Fried, Kuehr 1988, A&A, 191, 16",
+        "Balonek et al, 2016, ATel #9259",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Kalberla et al. 2005, A&A, 440, 775"
+    ],
+    "Event Type": "multi-wavelength outburst",
+    "Time": [
+        "2016 July 16",
+        "2016 July 20"
+    ],
+    "Date": [
+        "2016 July 16",
+        "2016 July 17",
+        "2016 July 20"
+    ],
+    "Telescope": [
+        "Large Area Telescope (LAT)",
+        "Swift"
+    ],
+    "Instrument": [
+        "Fermi Gamma-ray Space Telescope",
+        "Swift XRT",
+        "Swift UVOT"
+    ],
+    "Observatory": [
+        "Fermi",
+        "Swift"
+    ]
+}

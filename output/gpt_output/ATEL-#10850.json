@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17nj",
+            "RA": "17:30:34.18",
+            "Dec": "-31:06:06.80",
+            "redshift": null,
+            "Type": "possibly a classical nova",
+            "Time": "00:14:01",
+            "Date": "2017-10-14"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Kochanek et al. 2017",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "transient source",
+    "Time": "00:14:01",
+    "Date": "2017-10-14",
+    "Telescope": "Cassius",
+    "Instrument": "14-cm telescope",
+    "Observatory": "CTIO, Chile"
+}

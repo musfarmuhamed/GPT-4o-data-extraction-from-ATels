@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "MJD 55934.5",
+            "Date": "2012-01-08"
+        }
+    ],
+    "References": [
+        "ATel #3624",
+        "ATel #1613",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1301-616"
+    ],
+    "Event Type": "X-ray flux increase",
+    "Time": null,
+    "Date": "2012-01-08",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14db",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0375,
+            "Type": "type-Ia SN",
+            "Time": "25.1",
+            "Date": "2014 June 25"
+        },
+        {
+            "Name": "ESO 075-G049",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2008C",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2004aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. 2014, ATel #6260",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Jones et al. 2009, MNRAS, 399, 683, via NED",
+        "ATel #6260"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "25.1",
+    "Date": "2014 June 25",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

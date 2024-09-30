@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1990-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova (RN)",
+            "Time": "28.855",
+            "Date": "2016-07-28"
+        },
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova (RN)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova (RN)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATels #9276,#9280,#9281,#9383,#8238,#8243,#7969,#7976 and Darnley et al. 2016",
+    "Event Type": "Eruption",
+    "Time": "26.87",
+    "Date": "2016-07-26",
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

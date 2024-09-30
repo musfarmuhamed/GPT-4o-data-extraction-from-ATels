@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J174902.10+191331.2",
+            "RA": "17:49:02.10",
+            "Dec": "+19:13:31.2",
+            "redshift": null,
+            "Type": "Cataclismic Variable",
+            "Time": null,
+            "Date": "1974-05-25"
+        },
+        {
+            "Name": "HR 6642",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Denisenko et al. (ATel #4324)",
+        "Mickaelian et al. 2007 A&A 464,1177"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "1974-05-25",
+    "Telescope": "Objective-Prism",
+    "Instrument": "IIaF emulsion",
+    "Observatory": "Digitized First Byurakan Survey"
+}

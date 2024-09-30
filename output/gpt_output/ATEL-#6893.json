@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SRCX #1",
+            "RA": "12:32:04.985",
+            "Dec": "-10:56:00.21",
+            "redshift": null,
+            "Type": "Absorbed power-law",
+            "Time": "07:53",
+            "Date": "2015-01-09"
+        },
+        {
+            "Name": "SRCX #2",
+            "RA": "12:32:05.104",
+            "Dec": "-10:56:02.78",
+            "redshift": null,
+            "Type": "Absorbed power-law",
+            "Time": "07:53",
+            "Date": "2015-01-09"
+        }
+    ],
+    "References": [
+        "Cummings; GCN 17267",
+        "van der Horst et al. (GCN 17286)",
+        "http://www.swift.ac.uk/xrt_positions/00020464/",
+        "Fong et al. (GCN 17271)",
+        "Kalberla et al. 2005"
+    ],
+    "Event Type": "Observation",
+    "Time": "07:53",
+    "Date": "2015-01-09",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": "Chandra X-ray Observatory"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0142+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "anomalous X-ray pulsar (AXP)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Citation": "Wright et al. 2010, ApJ, 140, 1868",
+            "Link": null
+        },
+        {
+            "Citation": "Wang & Kaspi 2008, ApJ, 695",
+            "Link": null
+        },
+        {
+            "Citation": "Wang et al. 2008, AIPC, 983, 274",
+            "Link": null
+        },
+        {
+            "Citation": "WISE preliminary data release",
+            "Link": "http://wise2.ipac.caltech.edu/docs/release/prelim/index.html"
+        }
+    ],
+    "Event Type": "Mid-IR imaging",
+    "Time": null,
+    "Date": "2010 Feb. 3-7",
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": "WISE bands 3.4, 4.6, 11.6, and 22.1 microns",
+    "Observatory": null
+}

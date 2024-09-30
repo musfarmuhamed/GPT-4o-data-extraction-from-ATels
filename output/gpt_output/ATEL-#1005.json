@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17453-2853",
+            "RA": 266.32,
+            "Dec": -28.89,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "18:35 - 22:17",
+            "Date": "2007-02-15"
+        },
+        {
+            "Name": "Unknown",
+            "RA": 266.4,
+            "Dec": -29.05,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "18:35 - 22:17",
+            "Date": "2007-02-15"
+        }
+    ],
+    "References": "ATel #438, #874, Kuulkers et al. 2007, ATel #753, #756, ATel #892",
+    "Event Type": "Transient X-ray sources activation",
+    "Time": "18:35 - 22:17",
+    "Date": "2007-02-15",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": null
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J0852-5755",
+            "RA": 133.16125,
+            "Dec": -57.925056,
+            "redshift": null,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "11 December 2017"
+        },
+        {
+            "Name": "3FGL J0852.6-5756",
+            "RA": 133.16125,
+            "Dec": -57.925056,
+            "redshift": null,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "11 December 2017"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Murphy et al. 2010 MNRAS, 402, 2403"
+    ],
+    "Event Type": "Enhanced gamma-ray emission",
+    "Time": null,
+    "Date": "14 December 2017",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15blq",
+            "RA": "17 31 42.40",
+            "Dec": "+43 53 33.9",
+            "redshift": "0.18",
+            "Type": "probable super-luminous supernova",
+            "Time": "Null",
+            "Date": "20150725"
+        },
+        {
+            "Name": "SDSS J173142.34+435333.2",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.18",
+            "Type": "faint host",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "MASTER OT J173142.37+435334.1",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Huber et al. ATel #7153, Shumkov et al. (ATel #8104)",
+    "Event Type": "discovery of a probable supernova",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Pan-STARRS",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

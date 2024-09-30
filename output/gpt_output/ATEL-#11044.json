@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17dce",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright blue hostless transient",
+            "Time": "MJD 58088.71",
+            "Date": "2017-12-01"
+        },
+        {
+            "Name": "Gaia17dcv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blue transient",
+            "Time": "MJD 58088.755 - MJD 58089.831",
+            "Date": "2017-12-01"
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "transients",
+    "Time": "not specified",
+    "Date": "not specified",
+    "Telescope": "2-m RCC telescope",
+    "Instrument": "CCD",
+    "Observatory": "Terskol Observatory"
+}

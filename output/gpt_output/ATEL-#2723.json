@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10ksq",
+            "RA": "23:45:50.60",
+            "Dec": "-06:46:53.1",
+            "redshift": "0.035",
+            "Type": "Type II",
+            "Time": "Null",
+            "Date": "June 14"
+        },
+        {
+            "Name": "MCG -01-60-028",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.035",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "http://www.astro.caltech.edu/ptf/",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "June 14",
+    "Telescope": "Keck-1 10-m",
+    "Instrument": "Low Resolution Imaging Spectrometer (LRIS)",
+    "Observatory": "Null"
+}

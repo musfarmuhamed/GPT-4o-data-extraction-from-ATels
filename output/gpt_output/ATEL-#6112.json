@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14as",
+            "RA": "12:57:33.9",
+            "Dec": "+35:31:34.0",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-05-01.37",
+            "Date": null
+        },
+        {
+            "Name": "MCG+06-29-001",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03744",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, list of all ASAS-SN transients",
+    "Event Type": "discovery of a new transient source",
+    "Time": "2014-05-01.37",
+    "Date": null,
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope, LCOGT 1-m robotic telescope, RCOS 51-cm telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; McDonald Observatory; New Mexico"
+}

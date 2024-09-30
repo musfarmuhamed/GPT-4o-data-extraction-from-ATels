@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IC 1496",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": "June 21.4 UT",
+            "Date": "June 21",
+            "References": [
+                {
+                    "Reference": "Weidong Li",
+                    "Source": "private communication"
+                },
+                {
+                    "Reference": "Li et al. 2001",
+                    "Source": "PASP 113, 1178"
+                },
+                {
+                    "Reference": "Garavini et al.",
+                    "Source": "ApJ accepted"
+                },
+                {
+                    "Reference": "Kirshner et al. 1993",
+                    "Source": "ApJ 415, 589"
+                }
+            ]
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Weidong Li",
+            "Source": "private communication"
+        },
+        {
+            "Reference": "Li et al. 2001",
+            "Source": "PASP 113, 1178"
+        },
+        {
+            "Reference": "Garavini et al.",
+            "Source": "ApJ accepted"
+        },
+        {
+            "Reference": "Kirshner et al. 1993",
+            "Source": "ApJ 415, 589"
+        }
+    ],
+    "Event Type": "Supernova observation",
+    "Time": "June 21.4 UT",
+    "Date": "June 21",
+    "Telescope": "University of Hawaii 2.2-m telescope",
+    "Instrument": "Supernova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

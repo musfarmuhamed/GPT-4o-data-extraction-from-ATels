@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MWC 560",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic binary",
+            "Time": "5.967 UT",
+            "Date": "February 5"
+        }
+    ],
+    "References": [
+        "Tomov et al. 1990, Nature 346, 637",
+        "Leibowitz and Formiggini 2014, AJ 150, 52",
+        "Mikolajewski et al. 1997, IBVS 4519"
+    ],
+    "Event Type": "brightness rise",
+    "Time": "5.967 UT",
+    "Date": "February 5",
+    "Telescope": [
+        "Asiago 1.22m telescope",
+        "Varese 0.61m telescope"
+    ],
+    "Instrument": [
+        "Multi Mode Spectrograph"
+    ],
+    "Observatory": null
+}

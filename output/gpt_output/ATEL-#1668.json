@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond X-ray pulsar",
+            "Time": "14:50",
+            "Date": "2008-08-15"
+        }
+    ],
+    "References": [
+        "ATEL #1660",
+        "ATEL #1664",
+        "ATEL #1665",
+        "ATEL #1666",
+        "ATEL #1667",
+        "Markwardt & Swank, ATEL #1664",
+        "Poole et al, 2008, MNRAS 383,627",
+        "Torres et al. 2008, ApJ, 672, 1079",
+        "Russell et al. ATEL #1666"
+    ],
+    "Event Type": "UVOT analysis",
+    "Time": "14:50",
+    "Date": "2008-08-15",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

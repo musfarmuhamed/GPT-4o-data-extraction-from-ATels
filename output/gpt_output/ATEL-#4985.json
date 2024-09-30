@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS130413:130441+315257",
+            "RA": "13h04m41s",
+            "Dec": "+31\u00b052'57\"",
+            "redshift": 0.17,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS130413:163836+260935",
+            "RA": "16h38m36s",
+            "Dec": "+26\u00b009'35\"",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS130401:173433+434219",
+            "RA": "17h34m33s",
+            "Dec": "+43\u00b042'19\"",
+            "redshift": 0.035,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Further to ATel#4984",
+    "Event Type": "classification of CRTS supernova candidates",
+    "Time": "UT",
+    "Date": "2013-04-14",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

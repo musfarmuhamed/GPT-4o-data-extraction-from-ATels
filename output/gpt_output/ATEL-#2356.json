@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004253.1+411422",
+            "RA": "00:42:53.15",
+            "Dec": "+41:14:22.9",
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": "19 ks",
+            "Date": "2009-12-17.89"
+        },
+        {
+            "Name": "CXOM31 J004253.1+411422",
+            "RA": "00:42:53.15",
+            "Dec": "+41:14:22.9",
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": "4.4 ks",
+            "Date": "2009-12-22.04"
+        }
+    ],
+    "References": "Kaaret (2002, ApJ, 578, 114)",
+    "Event Type": "discovery of a new X-ray transient",
+    "Time": "19 ks, 4.4 ks",
+    "Date": "2009-12-17.89, 2009-12-22.04",
+    "Telescope": "Chandra, Swift",
+    "Instrument": "HRC-I, UVOT",
+    "Observatory": null
+}

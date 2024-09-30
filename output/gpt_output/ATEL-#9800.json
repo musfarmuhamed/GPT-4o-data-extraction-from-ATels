@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16fsn",
+            "RA": "05:55:38.77",
+            "Dec": "-64:37:57.5",
+            "redshift": "0.075",
+            "Type": "Ia",
+            "Time": "+1d",
+            "Date": "20161117"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095 http://ogle.astrouw.edu.pl/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "IAU Transient Name Server"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2012 November 27th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

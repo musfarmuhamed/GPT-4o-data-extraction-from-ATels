@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0115+634",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Binary X-ray pulsar",
+            "Time": null,
+            "Date": "March 12, 2008"
+        },
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accretion powered pulsar",
+            "Time": null,
+            "Date": "March 15, 2008"
+        },
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star transient",
+            "Time": "19:27 UT",
+            "Date": "March 15, 2008"
+        }
+    ],
+    "References": [
+        "ATel #326",
+        "ATel #1425",
+        "GCN/Swift Transient Notice"
+    ],
+    "Event Type": "Increased activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/BAT",
+    "Instrument": "Hard X-ray Transient Monitor",
+    "Observatory": null
+}

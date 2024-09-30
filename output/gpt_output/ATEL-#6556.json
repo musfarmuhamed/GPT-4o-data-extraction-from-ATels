@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J014825.10+430652.0",
+            "RA": "01h 48m 25.10s",
+            "Dec": "+43d 06m 52.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-10-01.62759",
+            "Date": "2014-10-01"
+        },
+        {
+            "Name": "MASTER OT J000606.97+422331.9",
+            "RA": "00h 06m 06.97s",
+            "Dec": "+42d 23m 31.9s",
+            "redshift": null,
+            "Type": "UV Ceti type (flaring red dwarf)",
+            "Time": "2014-10-03.58700",
+            "Date": "2014-10-03"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J014825+430652-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/014825.10430652.0.png",
+        "http://master.sai.msu.ru/static/OT/000606.97422331.9.png"
+    ],
+    "Event Type": [
+        "detection",
+        "detection"
+    ],
+    "Time": [
+        "2014-10-01.62759",
+        "2014-10-03.58700"
+    ],
+    "Date": [
+        "2014-10-01",
+        "2014-10-03"
+    ],
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

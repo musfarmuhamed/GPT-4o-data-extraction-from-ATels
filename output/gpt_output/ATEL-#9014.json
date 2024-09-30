@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016cce",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic supernova",
+            "Time": "30.7",
+            "Date": "2016-04-30"
+        },
+        {
+            "Name": "PTSS-16dzd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic supernova",
+            "Time": "30.7",
+            "Date": "2016-04-30"
+        },
+        {
+            "Name": "SN 2004aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "PMO-Tsinghua Supernova Survey (PTSS: http://119.78.210.3/ptss2/ ), Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "30.7",
+    "Date": "2016-04-30",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Astronomical Observatories (YNAO)"
+}

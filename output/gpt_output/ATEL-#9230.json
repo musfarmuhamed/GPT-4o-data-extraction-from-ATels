@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16arv",
+            "RA": "22:07:27.5",
+            "Dec": "-05:31:22.2",
+            "redshift": 0.056,
+            "Type": "Ia",
+            "Time": "10:02:26.7",
+            "Date": "2016-07-08"
+        },
+        {
+            "Name": "OT J220727.43-053121.8",
+            "RA": "22:07:27.43",
+            "Dec": "-05:31:21.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "09:08:30",
+            "Date": "2016-06-16.09813"
+        }
+    ],
+    "References": [
+        "Atel #9161",
+        "http://www.astro.caltech.edu/sedm",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+        "http://cosmos.esa.int/gaia",
+        "http://gaia.ac.uk/selected-gaia-science-alerts",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "classification",
+    "Time": "10:02:26.7",
+    "Date": "2016-07-08",
+    "Telescope": "60 inches optical telescope at Palomar (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar"
+}

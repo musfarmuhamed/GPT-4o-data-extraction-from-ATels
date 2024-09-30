@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT17cd/AT 2017fzw",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.005,
+            "Type": "91bg-like Type Ia supernova",
+            "Time": "13.8 UT",
+            "Date": "2017 August 13"
+        },
+        {
+            "Name": "ATLAS17jiv/AT 2017gah",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009,
+            "Type": "Type Ia supernova",
+            "Time": "13.6 UT",
+            "Date": "2017 August 13"
+        }
+    ],
+    "References": "ATel #10629, ATel #10633",
+    "Event Type": "spectra obtained",
+    "Time": "13.8 UT, 13.6 UT",
+    "Date": "2017 August 13",
+    "Telescope": "Las Cumbres Observatory 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

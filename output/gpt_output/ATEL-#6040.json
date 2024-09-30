@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-14vw",
+            "RA": "09:58:08.07",
+            "Dec": "+07:57:50.3",
+            "redshift": "0.091",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140325"
+        },
+        {
+            "Name": "PS1-14vx",
+            "RA": "10:41:51.41",
+            "Dec": "+16:49:01.0",
+            "redshift": "0.057",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140325"
+        },
+        {
+            "Name": "PSNJ12091001+3134257",
+            "RA": "12:09:10.01",
+            "Dec": "+31:34:25.7",
+            "redshift": "0.020",
+            "Type": "Ia-91bg",
+            "Time": null,
+            "Date": "20140325"
+        },
+        {
+            "Name": "CSS140326:122257+282955",
+            "RA": "12:22:57.30",
+            "Dec": "+28:29:54.9",
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": null,
+            "Date": "20140326"
+        },
+        {
+            "Name": "PS1-14wl",
+            "RA": "13:32:41.28",
+            "Dec": "-20:36:25.2",
+            "redshift": "0.034",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140325"
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Smartt et al., ATel #5850",
+        "Inserra et al. 2013, ApJ, 770, 128",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification of optical transients",
+    "Time": null,
+    "Date": "2014-04-02",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

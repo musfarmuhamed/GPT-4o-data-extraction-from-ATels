@@ -1,0 +1,112 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cym",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.046,
+            "Type": "Ia",
+            "Time": "20151203.85",
+            "Date": "20151127.363"
+        },
+        {
+            "Name": "CSS151130:014258+273410",
+            "RA": null,
+            "Dec": null,
+            "redshift": "~0.04",
+            "Type": "IIb?",
+            "Time": "20151203.88",
+            "Date": "20151130"
+        },
+        {
+            "Name": "PSN J05225991-0008174",
+            "RA": "05225991",
+            "Dec": "-0008174",
+            "redshift": 0.03474,
+            "Type": "II",
+            "Time": "20151203.98",
+            "Date": "20151202.295"
+        },
+        {
+            "Name": "ASASSN-15tj",
+            "RA": "075527.63",
+            "Dec": "+520911.1",
+            "redshift": 0.022265,
+            "Type": "Ia",
+            "Time": "20151204.02",
+            "Date": "20151203.540"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Tomasella et al.",
+            "Year": "2014",
+            "Journal": "AN",
+            "Volume": "335",
+            "Page": "841"
+        },
+        {
+            "Author": "Drake et al.",
+            "Year": "2009",
+            "Journal": "696",
+            "Page": "870",
+            "URL": "http://crts.caltech.edu/"
+        },
+        {
+            "Author": "Shappee et al.",
+            "Year": "2014",
+            "Journal": "ApJ",
+            "Volume": "788",
+            "Page": "48",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Author": "Ostriker et al.",
+            "Year": "1988",
+            "Journal": "AJ",
+            "Volume": "96",
+            "Page": "1775"
+        },
+        {
+            "Author": "Leonard et al.",
+            "Year": "2002",
+            "Journal": "AJ",
+            "Volume": "124",
+            "Page": "2490"
+        },
+        {
+            "Author": "Hamuy et al.",
+            "Year": "2002",
+            "Journal": "AJ",
+            "Volume": "124",
+            "Page": "417"
+        },
+        {
+            "Author": "Stritzinger et al.",
+            "Year": "2002",
+            "Journal": "AJ",
+            "Volume": "124",
+            "Page": "2100"
+        },
+        {
+            "Author": "Harutyunyan et al.",
+            "Year": "2008",
+            "Journal": "A&A",
+            "Volume": "488",
+            "Page": "383"
+        },
+        {
+            "Author": "Blondin and Tonry",
+            "Year": "2007",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024"
+        }
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico",
+    "Instrument": "AFOSC",
+    "Observatory": null
+}

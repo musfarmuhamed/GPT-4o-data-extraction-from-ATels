@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary transient and Type I X-ray burster",
+            "Time": "18:50-22:32",
+            "Date": "13 September 2015"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "IAU Circ. #6597",
+        "ATels #3170, 3181"
+    ],
+    "Event Type": "renewed X-ray activity",
+    "Time": "20:51",
+    "Date": "13 September 2015",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

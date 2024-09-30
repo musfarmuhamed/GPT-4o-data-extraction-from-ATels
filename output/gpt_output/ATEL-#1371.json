@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2S 1553-54",
+            "RA": "15 57 47.75",
+            "Dec": "-54 24 52.4",
+            "redshift": null,
+            "Type": "transient accreting pulsar",
+            "Time": "2008 January 24",
+            "Date": "2008-01-24"
+        }
+    ],
+    "References": [
+        "Krimm, ATel #1345",
+        "Apparao, 1978, Nature, 271, 225"
+    ],
+    "Event Type": "outburst",
+    "Time": "2008 January 24",
+    "Date": "2008-01-24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

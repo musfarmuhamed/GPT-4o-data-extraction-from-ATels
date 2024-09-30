@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14lt",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": "12:00",
+            "Date": "2014-12-11"
+        },
+        {
+            "Name": "PSN J09525558+4250511",
+            "RA": "09 52 55.58",
+            "Dec": "+42 50 51.1",
+            "redshift": 0.016,
+            "Type": "II",
+            "Time": "02:09",
+            "Date": "2014-12-12"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; arXiv:1103.5165; CBAT Transient Objects Confirmation Page (TOCP); ATel #6802; Jones et al. 2009 The 6dF Galaxy Survey DR3; Elmhamdi et al. 2003, MNRAS 338, 939; van Driel et al. 2001, A&A 378, 370; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

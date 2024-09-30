@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425145+4118352",
+            "RA": "0h42m51s.45",
+            "Dec": "+41o18'35\".2",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2017-02-15.725",
+            "Date": "1080-s"
+        },
+        {
+            "Name": "Type-II Cepheid in Fliri et al. (2006)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-II Cepheid",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Fliri et al. (2006)",
+        "Massey et al. (2006)",
+        "Steele et al. (2004)",
+        "Poole et al. (2008)",
+        "Breeveld et al. (2011)"
+    ],
+    "Event Type": "Discovery of possible nova",
+    "Time": "2017-02-15.725 UT",
+    "Date": "2017-02-15",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

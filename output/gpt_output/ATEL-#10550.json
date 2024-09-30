@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J034250.70-015228.7",
+            "RA": "03h 42m 50.70s",
+            "Dec": "-01d 52m 28.7s",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "2017-07-01.1753UT",
+            "Date": "2017-07-01"
+        },
+        {
+            "Name": "MASTER OT J123136.88-172313.5",
+            "RA": "12h 31m 36.88s",
+            "Dec": "-17d 23m 13.5s",
+            "redshift": null,
+            "Type": "flaring OT",
+            "Time": "2017-06-23.81919 UT",
+            "Date": "2017-06-23"
+        }
+    ],
+    "References": [
+        "ATEL #10240",
+        "ATEL #10225",
+        "http://www.supernova.thistlethwaites.com/sn2017/sndate.html",
+        "http://leda.univ-lyon1.fr/ledacat.cgi?PGC135685",
+        "http://master.sai.msu.ru/static/OT/MASTEROTJ034250.70-015228.7.jpg",
+        "http://master.sai.msu.ru/static/OT/123136.88-172313.5.png"
+    ],
+    "Event Type": [
+        "SN",
+        "Optical Transient (OT)"
+    ],
+    "Time": [
+        "2017-07-01.1753UT",
+        "2017-06-23.81919 UT"
+    ],
+    "Date": [
+        "2017-07-01",
+        "2017-06-23"
+    ],
+    "Telescope": "MASTER-SAAO auto-detection system",
+    "Instrument": "unfiltered",
+    "Observatory": "MASTER Global Robotic Net"
+}

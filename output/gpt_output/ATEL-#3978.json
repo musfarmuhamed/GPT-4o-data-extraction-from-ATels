@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New gamma-ray source",
+            "RA": "159.604 deg",
+            "Dec": "-53.242 deg",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1038-5311",
+            "RA": "10h 38m 40.56s",
+            "Dec": "-53d 11' 42.9\"",
+            "redshift": null,
+            "Type": "bright flat spectrum radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Massardi et al. 2008 MNRAS, 384, 775",
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "March 6-8, 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

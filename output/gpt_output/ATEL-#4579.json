@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J230207.47+773104.0",
+            "RA": "23h 02m 07.47s",
+            "Dec": "+77d 31m 04.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-11-13.57846 UT",
+            "Date": "2012-11-13"
+        },
+        {
+            "Name": "MASTER OT J235317.35+142433.8",
+            "RA": "23h 53m 17.35s",
+            "Dec": "+14d 24m 33.8s",
+            "redshift": null,
+            "Type": "PSN in SDSS J235317.41+142434.4",
+            "Time": "2012-11-15.56586 UT",
+            "Date": "2012-11-15"
+        },
+        {
+            "Name": "MASTER OT J064058.32+213814.1",
+            "RA": "06h 40m 58.32s",
+            "Dec": "+21d 38m 14.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2012-11-15.73451 UT",
+            "Date": "2012-11-15"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/230207.47773104.0.png",
+        "http://master.sai.msu.ru/static/OT/J230207+773104-DSS-Blue.jpg",
+        "http://master.sai.msu.ru/static/OT/235317.35142433.8.png",
+        "http://master.sai.msu.ru/static/OT/064058.32213814.1.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2012-11",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

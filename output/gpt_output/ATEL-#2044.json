@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": "14:02:11",
+            "Date": "May 6",
+            "References": [
+                "in't Zand et al., 2006, ATel #915",
+                "Bozzo et al., 2008, ATel #1493",
+                "in't Zand et al. 1998, IAUC # 6840",
+                "Grebenev & Sunyaev, 2005, AstL 31, 672",
+                "Sguera et al., 2005, A&A 444, 221",
+                "Barthelmy et al., GCN #7419",
+                "Grebenev & Sunyaev, 2008, ATel #1482",
+                "Bird et al., 2009, MNRAS, 393, L11",
+                "Zurita Heras & Chaty, 2009, A&A, 493, L1"
+            ]
+        }
+    ],
+    "References": [
+        "in't Zand et al., 2006, ATel #915",
+        "Bozzo et al., 2008, ATel #1493",
+        "in't Zand et al. 1998, IAUC # 6840",
+        "Grebenev & Sunyaev, 2005, AstL 31, 672",
+        "Sguera et al., 2005, A&A 444, 221",
+        "Barthelmy et al., GCN #7419",
+        "Grebenev & Sunyaev, 2008, ATel #1482",
+        "Bird et al., 2009, MNRAS, 393, L11",
+        "Zurita Heras & Chaty, 2009, A&A, 493, L1"
+    ],
+    "Event Type": "Outburst",
+    "Time": "14:02:11",
+    "Date": "May 6",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

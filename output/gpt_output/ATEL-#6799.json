@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J012612.90+114027.7 - PSN in PGC 1397065",
+            "RA": "01h 26m 12.90s",
+            "Dec": "+11d 40m 27.7s",
+            "redshift": "unknown",
+            "Type": "probably a \"pure\" type Ia Supernova",
+            "Time": "2014-12-09.77363 UT",
+            "Date": "2014-12-09"
+        },
+        {
+            "Name": "PGC 1397065",
+            "RA": "N/A",
+            "Dec": "N/A",
+            "redshift": "unknown",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/012612.90114027.7.png",
+    "Event Type": "Discovery",
+    "Time": "2014-12-09.77363 UT",
+    "Date": "2014-12-09",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": "Null",
+    "Observatory": "MASTER Global Robotic Net"
+}

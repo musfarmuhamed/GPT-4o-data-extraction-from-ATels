@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J190121.24+471703.4",
+            "RA": "19h 01m 21.24s",
+            "Dec": "+47d 17m 03.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "00:07:28.310",
+            "Date": "2013-05-18"
+        },
+        {
+            "Name": "MASTER OT J165153.86+702525.7",
+            "RA": "16h 51m 53.86s",
+            "Dec": "+70d 25m 25.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "23:37:08.875",
+            "Date": "2013-05-23"
+        },
+        {
+            "Name": "ASASSN-13ak",
+            "RA": "17h 48m 27.86s",
+            "Dec": "+50d 50m 39s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": "2012-05-12"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J190121+471703-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/190121.24471703.4.png",
+        "http://master.sai.msu.ru/static/OT/J165153+702525-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/165153.86702525.7.png",
+        "http://master.sai.msu.ru/static/OT/174827.89505040.0.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

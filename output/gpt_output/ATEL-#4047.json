@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNhunt121",
+            "RA": "J06424255",
+            "Dec": "-2726498",
+            "redshift": null,
+            "Type": "peculiar type-Ic supernova",
+            "Time": "14.02 UT",
+            "Date": "Apr. 14",
+            "Telescope": "European Southern Observatory's New Technology Telescope",
+            "Instrument": "EFOSC2",
+            "Observatory": "European Southern Observatory"
+        },
+        {
+            "Name": "NGC 2272",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.007",
+            "Type": null,
+            "Time": null,
+            "Date": null,
+            "Telescope": null,
+            "Instrument": null,
+            "Observatory": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Wegner et al. 2003, AJ 126,2268"
+    ],
+    "Event Type": "spectrogram",
+    "Time": "14.02 UT",
+    "Date": "Apr. 14",
+    "Telescope": "European Southern Observatory's New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "European Southern Observatory"
+}

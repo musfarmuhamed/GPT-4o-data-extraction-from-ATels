@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00515-7328",
+            "RA": "00h 51m 59.41s",
+            "Dec": "-73d 29m 25.8s",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "June 21st, 2009"
+        },
+        {
+            "Name": "IGR J00515-7328",
+            "RA": "00h 51m 59.80s",
+            "Dec": "-73d 29m 26.5s",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "August 20th, 2011"
+        }
+    ],
+    "References": "Sturm et al. (ATEL #3575), Coe et al (2010, MNRAS, 406, 2533), Evans et al. (2009, MNRAS 397, 1177)",
+    "Event Type": "Detection of Transient",
+    "Time": null,
+    "Date": [
+        "June 21st, 2009",
+        "August 20th, 2011"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Science Data Centre, University of Leicester"
+}

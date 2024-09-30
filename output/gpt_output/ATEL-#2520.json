@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "15:53:38",
+            "Date": "2010-03-28"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Gotz et al.",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 655,
+            "Page": "L101"
+        },
+        {
+            "Author": "Romano et al.",
+            "Year": 2009,
+            "Journal": "MNRAS",
+            "Volume": 392,
+            "Page": "45"
+        },
+        {
+            "Author": "Sidoli et al.",
+            "Year": 2009,
+            "Journal": "MNRAS",
+            "Volume": 397,
+            "Page": "1528"
+        },
+        {
+            "Author": "ATel",
+            "Year": 2009,
+            "Journal": "ATel",
+            "Number": 2178
+        },
+        {
+            "Author": "Krimm et al.",
+            "Year": 2006,
+            "Journal": "ATel",
+            "Number": 904
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "15:53:38",
+    "Date": "2010-03-28",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

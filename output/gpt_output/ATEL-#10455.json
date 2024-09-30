@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J152915.84-344746.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Source": "2MASS-PSC",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "AllWISE",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "GSC2.3",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "Gaia-DR1",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "NOMAD-1",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "GALEX",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "2MASS images",
+            "Result": "no counterparts"
+        },
+        {
+            "Source": "Gemini archives",
+            "Result": "no imaging observations"
+        },
+        {
+            "Source": "ESO archives",
+            "Result": "no imaging observations"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "MJD57881",
+    "Telescope": "14\" Meade LX-200 reflector",
+    "Instrument": "WAT-910BD integrating video camera",
+    "Observatory": "Tangra observatory"
+}

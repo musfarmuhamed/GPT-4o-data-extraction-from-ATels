@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1424-41 (also known as 2FGL J1428.0-4206)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "January 6",
+            "time": null,
+            "type": "flat spectrum radio quasar",
+            "Telescope": "Swift",
+            "Instrument": "XRT, UVOT",
+            "Observatory": "Swift Observatory"
+        },
+        {
+            "Name": "PKS 1424-41 (also known as 2FGL J1428.0-4206)",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "January 7",
+            "Telescope": "Swift",
+            "Instrument": "XRT",
+            "Observatory": "Swift Observatory"
+        },
+        {
+            "Name": "PKS 1424-41 (also known as 2FGL J1428.0-4206)",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "January 13 - 27",
+            "Telescope": "Fermi LAT",
+            "Instrument": "Gamma-ray detector",
+            "Observatory": "Fermi"
+        }
+    ],
+    "References": "Nolan et al. 2012, ApJS, 199, 31; Kalberla et al. 2005, A&A, 440, 775; ATel#4714; ATel#4717",
+    "Event Type": "gamma-ray and X-ray flaring activity",
+    "Time": "Null",
+    "Date": "January 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

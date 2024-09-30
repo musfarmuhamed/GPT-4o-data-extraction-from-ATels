@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17177-3656",
+            "RA": "17 17 42.62",
+            "Dec": "-36 56 04.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "06:07:15",
+            "Date": "2011-03-22"
+        },
+        {
+            "Name": "2MASS J17174269-3656039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Frankowski et al. 2011 (ATel #3223), ATel #3224, ATel #3226",
+    "Event Type": "Observation",
+    "Time": "06:07:15 to 12:00:48 UT",
+    "Date": "2011-03-22",
+    "Telescope": "Chandra",
+    "Instrument": "HETGS",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16ams",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "late spectra-type star",
+            "Time": "night",
+            "Date": "2016 May 17"
+        },
+        {
+            "Name": "Gaia16aoy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": null,
+            "Date": "2016 May"
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": null,
+    "Time": "night",
+    "Date": "2016 May 17",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT",
+    "Observatory": null
+}

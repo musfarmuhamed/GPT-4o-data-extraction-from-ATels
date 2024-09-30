@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J23523718+1433092",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0266",
+            "Type": "SN Ia",
+            "Time": "UT",
+            "Date": "September 21, 2015"
+        },
+        {
+            "Name": "PSN J02524671+4656470",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0281",
+            "Type": "SN Ia",
+            "Time": "UT",
+            "Date": "September 21, 2015"
+        },
+        {
+            "Name": "PSN J02051332+0606084",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ib",
+            "Time": "UT",
+            "Date": "September 21, 2015"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, Ap.J. 666, 1024; Silverman et al. 2012, MNRAS, 425, 1789; Liu & Modjaz, 2014, arXiv:1405.1437",
+    "Event Type": "classification update",
+    "Time": "UT",
+    "Date": "September 21, 2015",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Type Ia supernova",
+            "RA": "13:29:12.82",
+            "Dec": "11:16:20.60",
+            "redshift": "0.0221",
+            "Type": "Type Ia supernova",
+            "Time": "Null",
+            "Date": "May 14"
+        },
+        {
+            "Name": "UGC 8472",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.0221",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Thomas et al. 2007, ApJL, 654, 53; Howell et al. 2006, Nature, 443, 308",
+    "Event Type": "Discovery",
+    "Time": "UTC",
+    "Date": "May 14",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

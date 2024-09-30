@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "8.85408\u00b0, 61.50819\u00b0",
+            "RA": "8.85408\u00b0",
+            "Dec": "61.50819\u00b0",
+            "redshift": null,
+            "Type": "radio source 87GB 003232.7+611352",
+            "Time": "11 ks",
+            "Date": "January 24, 2016"
+        },
+        {
+            "Name": "8.96088\u00b0, 61.45953\u00b0",
+            "RA": "8.96088\u00b0",
+            "Dec": "61.45953\u00b0",
+            "redshift": null,
+            "Type": "B1 IV star HD 3191",
+            "Time": null,
+            "Date": "January 24, 2016"
+        }
+    ],
+    "References": "ATel #8554, ATel #8706",
+    "Event Type": "transient gamma-ray source detection",
+    "Time": null,
+    "Date": "January 14, 2016",
+    "Telescope": "XMM-Newton",
+    "Instrument": null,
+    "Observatory": "Fermi LAT"
+}

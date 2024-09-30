@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 1365",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2001"
+        },
+        {
+            "Name": "SN 2012fr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia supernova",
+            "Time": null,
+            "Date": "2012"
+        },
+        {
+            "Name": "PSN J03333599-3607377",
+            "RA": "03h 33m 35.99s",
+            "Dec": "-36d 07' 37.7\"",
+            "redshift": null,
+            "Type": "Type-Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel#4523, http://www.rochesterastronomy.org/snimages",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "WFPC2",
+    "Observatory": null
+}

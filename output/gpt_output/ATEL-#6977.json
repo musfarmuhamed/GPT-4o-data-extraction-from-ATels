@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J03581436+3541327",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.057,
+            "Type": "Type Ia Supernova",
+            "Time": "+19 days",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "PSN J08294049+4346533",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.084,
+            "Type": "Type Ia Supernova",
+            "Time": "+5 days",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "PSN J09351328+5028219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn Supernova",
+            "Time": "+17 - +20 days",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "PSN J12393982+1124426",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.11-0.12",
+            "Type": "SN 2006S-like",
+            "Time": "-5 days",
+            "Date": "2015-01-21"
+        },
+        {
+            "Name": "PSN J08572629+4845195",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.4,
+            "Type": "Quasar",
+            "Time": null,
+            "Date": "2015-01-21"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al. 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Spectroscopic Classifications",
+    "Time": "2015-01-21.6 - 2015-01-21.8",
+    "Date": "2015-01-21",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Lijiang Gaomeigu Station of Yunnan Observatories"
+}

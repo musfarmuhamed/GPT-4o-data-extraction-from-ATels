@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1932+091",
+            "RA": "293.169",
+            "Dec": "9.227",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18:09:36",
+            "Date": "2014-05-26"
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5943",
+    "Event Type": "nova alert",
+    "Time": "18:09:36",
+    "Date": "2014-05-26",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

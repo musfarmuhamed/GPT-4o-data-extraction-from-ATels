@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2018htr",
+            "RA": null,
+            "Dec": null,
+            "redshift": "467 km/s",
+            "Type": "Likely an LBV or other stellar outburst",
+            "Time": "2018-11-04",
+            "Date": "UT"
+        }
+    ],
+    "References": [
+        "Smith et al., 2010, AJ, 193, 1451",
+        "Foley et al., 2011, ApJ, 732, 32",
+        "Sollerman et al., 1998, ApJ, 493, 933",
+        "Monnier Ragaigne et al., 2003, A&A, 408, 465",
+        "Karachentsev et al., 2013, AJ, 145, 101",
+        "Tully et al., 2013, AJ, 146, 86"
+    ],
+    "Event Type": "Spectral and photometric observations",
+    "Time": "2018-11-04",
+    "Date": "UT",
+    "Telescope": "SOAR, Swope",
+    "Instrument": "Goodman spectrograph, Direct imager",
+    "Observatory": "SOAR observatory"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12fxd",
+            "RA": "05 22 17.02",
+            "Dec": "-25 35 47.1",
+            "redshift": 0.032,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20121031"
+        },
+        {
+            "Name": "LSQ12ftr",
+            "RA": "04 26 41.32",
+            "Dec": "-20 58 13.5",
+            "redshift": 0.0,
+            "Type": "stellar",
+            "Time": "Null",
+            "Date": "20121031"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812"
+    ],
+    "Event Type": "transient classifications",
+    "Time": "Null",
+    "Date": "2012 November 4th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

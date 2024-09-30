@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08357-0404",
+            "RA": "08 35 42.48",
+            "Dec": "-04 04 37.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 2617",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014213",
+            "Type": "Seyfert",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5010",
+        "ATel #5059",
+        "Krivonos et al., 2012, private comm.",
+        "Baumgartner et al., 2012"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "April 22 - June 2, 2013",
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": "INTEGRAL observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-026",
+            "RA": "1:13:38.51",
+            "Dec": "-69:32:11.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-027",
+            "RA": "0:22:59.80",
+            "Dec": "-74:38:32.3",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-028",
+            "RA": "0:25:34.27",
+            "Dec": "-62:54:52.5",
+            "redshift": "0.0343",
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2013-SN-029",
+            "RA": "0:36:16.30",
+            "Dec": "-73:59:57.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013",
+    "Event Type": "transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": "Magellanic Clouds"
+}

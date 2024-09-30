@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "00:00 to 03:00 UT",
+            "Date": "2014-06-07 to 2014-06-09"
+        },
+        {
+            "Name": "1AGLR J2254+1609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "00:00 to 03:00 UT",
+            "Date": "2014-06-07 to 2014-06-09"
+        },
+        {
+            "Name": "2FGL J2253.9+1609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "00:00 to 03:00 UT",
+            "Date": "2014-06-07 to 2014-06-09"
+        }
+    ],
+    "References": "ATel #6182, ATel #6213",
+    "Event Type": "Gamma-ray enhancement",
+    "Time": "00:00 to 03:00 UT",
+    "Date": "2014-06-07 to 2014-06-09",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": "AGILE"
+}

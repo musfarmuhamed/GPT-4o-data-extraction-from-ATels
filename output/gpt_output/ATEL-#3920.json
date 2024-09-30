@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unusual nova",
+            "Time": "02:05.744",
+            "Date": "2012-02-05",
+            "Mag": "19.4 +/- 0.2",
+            "Band": "R"
+        },
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unusual nova",
+            "Time": "02:08.720",
+            "Date": "2012-02-08",
+            "Mag": "19.2 +/- 0.1",
+            "Band": "R"
+        },
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unusual nova",
+            "Time": "02:08.732",
+            "Date": "2012-02-08",
+            "Mag": "18.9 +/- 0.25",
+            "Band": "I"
+        },
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unusual nova",
+            "Time": "02:10.725",
+            "Date": "2012-02-10",
+            "Mag": "19.0 +/- 0.15",
+            "Band": "R"
+        },
+        {
+            "Name": "PTF12ahb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unusual nova",
+            "Time": "02:12.721",
+            "Date": "2012-02-12",
+            "Mag": "18.35 +/- 0.10",
+            "Band": "R"
+        }
+    ],
+    "References": [
+        "ATEL #3905",
+        "ATEL #3912"
+    ],
+    "Event Type": "photometric observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

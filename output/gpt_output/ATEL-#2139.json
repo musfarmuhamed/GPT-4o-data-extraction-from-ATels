@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new transient LMXB",
+            "RA": "17:48:52.76",
+            "Dec": "-20:21:24.1",
+            "redshift": null,
+            "Type": "Low-Mass X-ray Binary (LMXB)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-Mass X-ray Binary (LMXB)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pooley et al. 2002, ApJ, 573,184",
+        "Freire et al. 2008, ApJ, 675, 670"
+    ],
+    "Event Type": "discovery",
+    "Time": "15:06 to 05:26 (TT)",
+    "Date": "July 28-29",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": "Chandra X-ray Observatory"
+}

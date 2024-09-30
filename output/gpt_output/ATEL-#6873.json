@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B/Swift J123205.1-105602",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Burst (GRB)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J12320498-1056010",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.134,
+            "Type": "Galaxy (Passive System)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Cummings et al. ATel #6871",
+        "Fong et al. (GCN 17271)",
+        "Castro-Tirado et al. (GCN 17278)",
+        "Gehrels et al. 2005 Nature 437 851",
+        "Fong et al. 2013 ApJ 769 56",
+        "Manners et al. 2003 MNRAS 343 293",
+        "Tanvir et al. 2013 Nature 500 547",
+        "Berger et al. 2013 ApJ 774 23"
+    ],
+    "Event Type": "Imaging and Spectroscopy Observation",
+    "Time": null,
+    "Date": "2015 Jan 4.28",
+    "Telescope": "ESO VLT",
+    "Instrument": "FORS2",
+    "Observatory": "European Southern Observatory (ESO)"
+}

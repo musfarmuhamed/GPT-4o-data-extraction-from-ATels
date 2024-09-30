@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J2032+4127/ MT91 213",
+            "RA": "20h32m13.13s",
+            "Dec": "+41d27m24.4s",
+            "redshift": null,
+            "Type": "pulsar/ Be-star binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TeV J2032+4130",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "extended TeV gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VER J2032+414",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray point source",
+            "Time": "16 September - 27 September 2017",
+            "Date": "2017-09-16 to 2017-09-27"
+        },
+        {
+            "Name": "MAGIC J2032+4127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray point source",
+            "Time": "10 September - 25 September 2017",
+            "Date": "2017-09-10 to 2017-09-25"
+        }
+    ],
+    "References": [
+        "Lyne et al., MNRAS, 451, 581, 2015",
+        "Bird et al., arXiv:1708.04718",
+        "Takata et al., ApJ, 836, 241"
+    ],
+    "Event Type": "detection of enhanced TeV gamma-ray flux",
+    "Time": "16 September - 27 September 2017",
+    "Date": "2017-09-16 to 2017-09-27",
+    "Telescope": "VERITAS, MAGIC",
+    "Instrument": null,
+    "Observatory": "Fred Lawrence Whipple Observatory, El Roque de Los Muchachos"
+}

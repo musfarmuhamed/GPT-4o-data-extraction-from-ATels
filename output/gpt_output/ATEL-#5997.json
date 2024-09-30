@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Bursting Pulsar",
+            "Time": "03:41 UT",
+            "Date": "March 10, 2014"
+        }
+    ],
+    "References": [
+        "ATels #5790",
+        "#5810",
+        "#5845",
+        "#5858",
+        "#5883",
+        "#5904",
+        "Nishiuchi et al. 1999; ApJ, 517, 436",
+        "ATel #438",
+        "ATel #5858",
+        "ATel #5963"
+    ],
+    "Event Type": "Ongoing outburst observation",
+    "Time": "03:41 UT",
+    "Date": "March 10, 2014",
+    "Telescope": [
+        "Swift",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "Swift/XRT",
+        "JEM-X",
+        "IBIS"
+    ],
+    "Observatory": [
+        "INTEGRAL Science Operations Center",
+        "Neil Gehrels and the Swift team"
+    ]
+}

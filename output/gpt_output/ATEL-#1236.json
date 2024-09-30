@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007ir",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": "9.48",
+            "Date": "Oct 9",
+            "References": [
+                "Thrasher et al., CBET 1067",
+                "Silverman et al., CBET 1077"
+            ]
+        },
+        {
+            "Name": "M31 nova candidate 2007-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova class",
+            "Time": "9.39",
+            "Date": "Oct 9",
+            "References": [
+                "Pietsch et al., ATel #1230",
+                "CBAT M31 novae page"
+            ]
+        }
+    ],
+    "References": "Howell et al. 2005, ApJ, 634, 1190; Patat et al., 1996, MNRAS, 278, 111; Williams 1992, AJ, 104, 725",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "Oct 9",
+    "Telescope": "Palomar 200\" telescope",
+    "Instrument": "Double Beam Spectrograph (DBSP)",
+    "Observatory": "Palomar"
+}

@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17qy (AT 2017iyl)",
+            "RA": "06:00:15.118",
+            "Dec": "-18:06:10.18",
+            "redshift": "0.027846",
+            "Type": "Transient",
+            "Time": "12:09",
+            "Date": "2017-12-09"
+        },
+        {
+            "Name": "ASASSN-17qw (AT 2017ixw)",
+            "RA": "02:04:59.728",
+            "Dec": "-41:52:07.11",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "12:18",
+            "Date": "2017-12-18"
+        },
+        {
+            "Name": "ASASSN-17qv (AT 2017ixu)",
+            "RA": "03:50:07.077",
+            "Dec": "-35:00:35.38",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "12:17",
+            "Date": "2017-12-17"
+        },
+        {
+            "Name": "ASASSN-17qu (AT 2017ixq)",
+            "RA": "02:08:47.733",
+            "Dec": "-44:40:01.33",
+            "redshift": "0.084735",
+            "Type": "Transient",
+            "Time": "12:16",
+            "Date": "2017-12-16"
+        },
+        {
+            "Name": "ASASSN-17qt (AT 2017ixp)",
+            "RA": "02:27:36.59",
+            "Dec": "-20:42:56.18",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "12:16",
+            "Date": "2017-12-16"
+        },
+        {
+            "Name": "ASASSN-17qr (AT 2017iwy)",
+            "RA": "12:05:45.497",
+            "Dec": "10:23:53.89",
+            "redshift": "0.034534",
+            "Type": "Transient",
+            "Time": "12:13",
+            "Date": "2017-12-13"
+        },
+        {
+            "Name": "ASASSN-17qp (AT 2017ivv)",
+            "RA": "20:28:49.804",
+            "Dec": "-04:22:57.29",
+            "redshift": "Unk",
+            "Type": "Transient",
+            "Time": "12:12",
+            "Date": "2017-12-12"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "ASAS-SN Discovery",
+    "Time": "Ongoing",
+    "Date": "Ongoing",
+    "Telescope": [
+        "Brutus",
+        "Leavitt",
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": "14-cm telescope",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Cerro Tololo, Chile"
+    ]
+}

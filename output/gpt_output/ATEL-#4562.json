@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J214401.69+173006.4",
+            "RA": "21h 44m 01.69s",
+            "Dec": "+17d 30m 06.4s",
+            "redshift": null,
+            "Type": "CV or PSN",
+            "Time": "2012-11-05.75256 UT",
+            "Date": "2012-11-05"
+        },
+        {
+            "Name": "MASTER OT J193114.22-071659.7",
+            "RA": "19h 31m 14.22s",
+            "Dec": "-07d 16m 59.7s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "2012-11-02.68057 UT",
+            "Date": "2012-11-02"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/214401.69173006.4_2.png, http://master.sai.msu.ru/static/OT/193114.22-071659.7.png",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

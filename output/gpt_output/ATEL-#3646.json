@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KS 1741-293",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": "09:14:50 to 12:56:26",
+            "Date": "September 13, 2011"
+        },
+        {
+            "Name": "Rapid Burster (MXB 1730-335)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "09:14:50 to 12:56:26",
+            "Date": "September 13, 2011"
+        },
+        {
+            "Name": "IGR J17498-2921",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "09:14:50 to 12:56:26",
+            "Date": "September 13, 2011"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #3632",
+        "GCN #12319",
+        "ATel #1398",
+        "ATels #3551, #3556, #3558, #3568, #3606"
+    ],
+    "Event Type": "observation",
+    "Time": "09:14:50 to 12:56:26",
+    "Date": "September 13, 2011",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

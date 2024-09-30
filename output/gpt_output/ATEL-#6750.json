@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01510872+3155218",
+            "RA": "01h51m08.72s",
+            "Dec": "+31d55m21.8s",
+            "redshift": 0.26,
+            "Type": "SLSNII ?",
+            "Time": "Null",
+            "Date": "20141124.81"
+        },
+        {
+            "Name": "PSN J07591099+3254392",
+            "RA": "07h59m10.99s",
+            "Dec": "+32d54m39.2s",
+            "redshift": 0.0174,
+            "Type": "IIn",
+            "Time": "2 weeks",
+            "Date": "20141124.94"
+        },
+        {
+            "Name": "PSN J11023520+5035094",
+            "RA": "11h02m35.20s",
+            "Dec": "+50d35m09.4s",
+            "redshift": 0.0223,
+            "Type": "II",
+            "Time": "10 days",
+            "Date": "20141124.97"
+        },
+        {
+            "Name": "Gaia14adb",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.053,
+            "Type": "Ia",
+            "Time": "+20d",
+            "Date": "20141125.10"
+        },
+        {
+            "Name": "Gaia14adf",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.06,
+            "Type": "II",
+            "Time": "2 weeks",
+            "Date": "20141125.12"
+        },
+        {
+            "Name": "Gaia14adg",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.154,
+            "Type": "II",
+            "Time": "around max",
+            "Date": "20141125.14"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024; Falco et al. 1999 PASP 111, 438; Rixon et al, 2014, ATel #6593; ESA Gaia (http://cosmos.esa.int/gaia); DPAC Photometric Science Alerts Team (http://gaia.ac.uk/selected-gaia-science-alerts); de Vaucouleurs et al. 1991 RC3.9 via NED",
+    "Event Type": "Spectroscopic Classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

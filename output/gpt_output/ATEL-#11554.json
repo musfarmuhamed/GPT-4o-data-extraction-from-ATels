@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018aqg",
+            "RA": "05 15 43.09",
+            "Dec": "-19 25 21.7",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 16"
+        },
+        {
+            "Name": "SN 2018auq",
+            "RA": "05 16 46.13",
+            "Dec": "-62 15 36.6",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 04 06"
+        },
+        {
+            "Name": "SN 2018awi",
+            "RA": "10 20 10.90",
+            "Dec": "-07 50 48.6",
+            "redshift": 0.052,
+            "Type": "Ia-91bg",
+            "Time": "Null",
+            "Date": "2018 04 12"
+        },
+        {
+            "Name": "SN 2018aqz",
+            "RA": "11 39 05.08",
+            "Dec": "-38:14:06.3",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 26"
+        },
+        {
+            "Name": "SN 2018avv",
+            "RA": "13 51 34.36",
+            "Dec": "-05:53:23.7",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 04 17"
+        },
+        {
+            "Name": "SN 2018awe",
+            "RA": "14 02 04.15",
+            "Dec": "-25 39 41.2",
+            "redshift": 0.028,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018 04 15"
+        },
+        {
+            "Name": "AT 2018asz",
+            "RA": "16 05 40.24",
+            "Dec": "+15 35 31.3",
+            "redshift": 0.041,
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "2018 03 30"
+        },
+        {
+            "Name": "SN 2018ash",
+            "RA": "20 42 49.69",
+            "Dec": "-29:22:38.8",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "SN 2018auz",
+            "RA": "22 23 38.48",
+            "Dec": "+04:37:50.3",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 04 12"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Chen et al. ATel #10510"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 April 19",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

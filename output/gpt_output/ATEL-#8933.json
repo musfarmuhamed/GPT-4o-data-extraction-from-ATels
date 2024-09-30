@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bly",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0194,
+            "Type": "Type IIn Supernova",
+            "Time": "Apr.10.8",
+            "Date": "2016"
+        },
+        {
+            "Name": "2MASX J17224883+1400584",
+            "RA": "17h22m48.83s",
+            "Dec": "+14d00m58.4s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005gj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "Apr.10.8",
+    "Date": "2016",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Astronomical Observatories (YNAO)"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J0948+0022",
+            "RA": "09h48m57.3201s",
+            "Dec": "+00d22'25.558\"",
+            "redshift": "0.5846",
+            "Type": "radio-loud narrow-line Seyfert 1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2FGL J0948.8+0020",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Sloan Digital Sky Survey, 2004, SDSS2.C",
+        "ATel #4659",
+        "ATel #2733",
+        "ATel #2752",
+        "ATel #3429"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "Null",
+    "Date": "2012 December 31",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

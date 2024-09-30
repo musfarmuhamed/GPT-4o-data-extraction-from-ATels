@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "2015-04-13.29",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15ha",
+            "RA": "20:02:04.041",
+            "Dec": "-57:36:44.7",
+            "redshift": null,
+            "Type": "blazar candidate",
+            "Time": "2015-04-13.37",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6366"
+    ],
+    "Event Type": "strong V-band flare",
+    "Time": "2015-04-13.29",
+    "Date": null,
+    "Telescope": "ASAS-SN robotic telescope network",
+    "Instrument": null,
+    "Observatory": "ASAS-SN"
+}

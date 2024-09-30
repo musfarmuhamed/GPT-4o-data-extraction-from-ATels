@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.6-2545",
+            "RA": "17:53:39.85",
+            "Dec": "-25:45:14.2",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2013-01-28"
+        },
+        {
+            "Name": "Swift J1753.6-2545",
+            "RA": "17:53:39.85",
+            "Dec": "-25:45:14.2",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2013-02-07"
+        },
+        {
+            "Name": "Swift J1753.6-2545",
+            "RA": "17:53:39.85",
+            "Dec": "-25:45:14.2",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2013-02-17"
+        }
+    ],
+    "References": [
+        "#4769",
+        "#4789",
+        "#4802",
+        "#4804",
+        "#4818",
+        "#4899"
+    ],
+    "Event Type": "optical-near-Infrared follow-up",
+    "Time": null,
+    "Date": [
+        "2013-01-28",
+        "2013-02-07",
+        "2013-02-17"
+    ],
+    "Telescope": "2.2m MPG/ESO",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory"
+}

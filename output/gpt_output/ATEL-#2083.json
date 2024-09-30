@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J105611.74-602714.1",
+            "RA": "10:56:11.74",
+            "Dec": "-60:27:14.1",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source #2",
+            "RA": "10:57:36.92",
+            "Dec": "-60:22:45.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source #3",
+            "RA": "10:56:11.67",
+            "Dec": "-60:33:03.0",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source #4",
+            "RA": "10:57:20.88",
+            "Dec": "-60:36:13.7",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source #5",
+            "RA": "10:55:48.79",
+            "Dec": "-60:32:31.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AG Car (WR 31b, HIP 53461)",
+            "RA": "10:56:11.58",
+            "Dec": "-60:27:12.8",
+            "redshift": null,
+            "Type": "Luminous blue variable star (type B2)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2081",
+        "ATEL #2082"
+    ],
+    "Event Type": "Galactic Plane transient",
+    "Time": null,
+    "Date": "11 June 2009",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Fermi-LAT"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2032+107",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Photon Counting mode for a net exposure of about 3.0 ksec",
+            "Date": "2015 April 28"
+        },
+        {
+            "Name": "PKS 2032+107",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2006 April 7"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "ATel #7453"
+        },
+        {
+            "Reference": "Kalberla et al. 2005, A&A, 440, 775"
+        }
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "2015 April 26",
+    "Date": "2015 April 26",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Observatory"
+}

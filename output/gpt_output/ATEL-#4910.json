@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2013am",
+            "RA": "11:18:56.9",
+            "Dec": "+13:03:50.0",
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": "2013-03-21.637"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "CBET #3440",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J11185695+1303494.html",
+        "ATel #4909"
+    ],
+    "Event Type": "Spectroscopic Classification and Follow-Up Observations",
+    "Time": "2013-03-22.17 (UT)",
+    "Date": "2013-03-22",
+    "Telescope": [
+        "48-inch Oschin Schmidt telescope",
+        "3 m Shane telescope",
+        "Telescopio Nazionale di Galileo (TNG)"
+    ],
+    "Instrument": [
+        "Kast spectrograph",
+        "DOLORES"
+    ],
+    "Observatory": [
+        "Palomar Observatory",
+        "Lick Observatory",
+        "La Palma"
+    ]
+}

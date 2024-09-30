@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PMN J2345-1555",
+            "RA": "23h45m12.4623s",
+            "Dec": "-15d55m07.834s",
+            "redshift": 0.621,
+            "Type": "flat spectrum radio quasar",
+            "Time": "23:45:12.4623",
+            "Date": "2010-01-27"
+        },
+        {
+            "Name": "IVS B2342-161",
+            "RA": "23h45m12.4623s",
+            "Dec": "-15d55m07.834s",
+            "redshift": 0.621,
+            "Type": "flat spectrum radio quasar",
+            "Time": "23:45:12.4623",
+            "Date": "2010-01-27"
+        },
+        {
+            "Name": "1FGL J2344.6-1554",
+            "RA": "23h45m12.4623s",
+            "Dec": "-15d55m07.834s",
+            "redshift": 0.621,
+            "Type": "flat spectrum radio quasar",
+            "Time": "23:45:12.4623",
+            "Date": "2010-01-27"
+        }
+    ],
+    "References": [
+        "Petrov et al. 2006, AJ, 131, 1872",
+        "Healey et al. 2008, ApJS, 175, 97",
+        "Lister et al., 2009, AJ, 137, 3718"
+    ],
+    "Event Type": "increased gamma-ray activity",
+    "Time": "N/A",
+    "Date": "2010-01-27",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "N/A"
+}

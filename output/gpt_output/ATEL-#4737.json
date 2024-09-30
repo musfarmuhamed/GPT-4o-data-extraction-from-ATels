@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neon nova and gamma-ray transient",
+            "Time": "7.1 hours",
+            "Date": "2013 January 8-13 UT"
+        },
+        {
+            "Name": "V838 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "fast ONeMg nova",
+            "Time": "7.14 hours",
+            "Date": "1991"
+        }
+    ],
+    "References": [
+        "ATEL #4727",
+        "#4709",
+        "#4633",
+        "#4614",
+        "#4590",
+        "#4572",
+        "#4569",
+        "#4542",
+        "#4408",
+        "#4376",
+        "#4365",
+        "#4352",
+        "#4321",
+        "#4320",
+        "#4310",
+        "Leibowitz et al. 1992, ApJ, 385, L49",
+        "Ingram et al. 1992, PASP, 104, 402"
+    ],
+    "Event Type": "detection of a periodicity",
+    "Time": "7.1 hours",
+    "Date": "2013 January 8-13 UT",
+    "Telescope": "1.3 m McGraw-Hill telescope",
+    "Instrument": "MDM4K CCD imager",
+    "Observatory": "MDM Observatory on Kitt Peak"
+}

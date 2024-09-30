@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cir X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2608",
+        "ATel #2643",
+        "ATel #2650",
+        "ATel #2651"
+    ],
+    "Event Type": "Type I X-ray Bursts",
+    "Time": [
+        "2010 May 27.827 - 2010 May 28.158",
+        "2010 May 28.506",
+        "2010 May 28.844",
+        "2010 May 20.084"
+    ],
+    "Date": [
+        "2010 May 27.827",
+        "2010 May 28.158",
+        "2010 May 28.506",
+        "2010 May 28.844",
+        "2010 May 20.084"
+    ],
+    "Telescope": [
+        "RXTE",
+        "SWIFT"
+    ],
+    "Instrument": [
+        "XRT"
+    ],
+    "Observatory": "SWIFT Observatory"
+}

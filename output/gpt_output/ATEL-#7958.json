@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31 nova candidate",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "27.1 UT",
+            "Date": "2015 August 27"
+        },
+        {
+            "Name": "M31 nova candidate PNV J00434752+4120483",
+            "RA": "J00434752",
+            "Dec": "+4120483",
+            "redshift": null,
+            "Type": "red long-period variable",
+            "Time": "26.1 UT",
+            "Date": "2015 August 26"
+        },
+        {
+            "Name": "nova M31N 2015-07d (PNV J00422994+4111210)",
+            "RA": "J00422994",
+            "Dec": "+4111210",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "30.0 UT",
+            "Date": "2015 July 30"
+        }
+    ],
+    "References": [
+        "ATel #7914",
+        "ATel #7823",
+        "ATel #7828"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Liverpool"
+}

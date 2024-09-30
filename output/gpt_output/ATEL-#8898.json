@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16dx",
+            "RA": "03:22:12.85",
+            "Dec": "-44:05:40.74",
+            "redshift": 0.02997,
+            "Type": "Supernova",
+            "Time": "UT 2016-04-02.98",
+            "Date": "2016-04-02"
+        },
+        {
+            "Name": "APMUKS(BJ) B032028.93-441621.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02997,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "Discovery",
+    "Time": "UT 2016-04-02.98",
+    "Date": "2016-04-02",
+    "Telescope": "14-cm \"Cassius\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J1412-0522",
+            "RA": "14:12:06.0",
+            "Dec": "-05:22:14.9",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "5-7 August 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:13:21.3",
+            "Dec": "-04:57:53.0",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:13:27.8",
+            "Dec": "-05:30:45.4",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:13:10.8",
+            "Dec": "-05:40:19.3",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:12:39.2",
+            "Dec": "-05:44:15.7",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:12:19.2",
+            "Dec": "-05:38:14.0",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:11:42.8",
+            "Dec": "-05:40:40.7",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        },
+        {
+            "Name": null,
+            "RA": "14:10:46.0",
+            "Dec": "-05:37:47.9",
+            "redshift": null,
+            "Type": "possible radio emission",
+            "Time": null,
+            "Date": "1 September 2017"
+        }
+    ],
+    "References": "ATel #10623",
+    "Event Type": "gamma-ray source detection and radio observations",
+    "Time": [
+        "9 August 2017 from 12:40 to 19:00 UTC",
+        "10 August 2017 from 14:00 to 17:50 UTC",
+        "1 September 2017 from 11:20 to 17:30 UTC"
+    ],
+    "Date": [
+        "9 August 2017",
+        "10 August 2017",
+        "1 September 2017"
+    ],
+    "Telescope": "32-m Medicina radio telescope",
+    "Instrument": null,
+    "Observatory": "Medicina"
+}

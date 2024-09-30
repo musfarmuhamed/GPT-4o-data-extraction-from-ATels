@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.047,
+            "Type": "HBL",
+            "Time": "02:30 to 05:00 UTC",
+            "Date": [
+                "MJD 57546.1 - 57546.2",
+                "MJD 57549.1 - 57549.2"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "Name": "Schachter et al.",
+            "Year": 1993,
+            "Publication": "ApJ",
+            "Volume": 412,
+            "Page": 541,
+            "ATel": [
+                9010,
+                9070,
+                9121
+            ]
+        }
+    ],
+    "Event Type": "enhanced gamma ray flux",
+    "Time": "02:30 to 05:00 UTC",
+    "Date": [
+        "MJD 57546.1 - 57546.2",
+        "MJD 57549.1 - 57549.2"
+    ],
+    "Telescope": "First G-APD Cherenkov Telescope (FACT)",
+    "Instrument": "silicon photosensors",
+    "Observatory": "Observatorio del Roque de los Muchachos, La Palma"
+}

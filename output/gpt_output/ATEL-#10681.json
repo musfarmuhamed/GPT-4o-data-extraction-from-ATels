@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017giq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Type Ic Supernova",
+            "Time": "+5d",
+            "Date": "2017-08-27.64"
+        },
+        {
+            "Name": "MASTER OT J033744.97+723159.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0073,
+            "Type": "Type IIb Supernova",
+            "Time": "-2d",
+            "Date": "2017-08-27.84"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "ATEL #10680"
+    ],
+    "Event Type": "obtained spectra",
+    "Time": null,
+    "Date": "2017-08-29",
+    "Telescope": "Xinglong 2.16-m",
+    "Instrument": null,
+    "Observatory": "National Astronomical Observatories of China (NAOC)"
+}

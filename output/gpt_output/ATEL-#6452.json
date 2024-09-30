@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-NOVA-01",
+            "RA": "17:56:49.40",
+            "Dec": "-27:13:28.15",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "various",
+            "Date": "various"
+        }
+    ],
+    "References": [
+        "Kozlowski et al. 2012, ATel #4323",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Gonzalez et al., 2012, A&A, 543, 13",
+        "Nishiyama et al. 2009, ApJ, 696, 1407",
+        "Saito et al. 2012 (A&A, 537, A107)",
+        "Acknowledgments: We gratefully acknowledge use of data from the ESO Public Survey programme ID 179.B-2002 taken with the VISTA telescope, and data products from the Cambridge Astronomical Survey Unit. R.K.S. acknowledges support from CNPq/Brazil."
+    ],
+    "Event Type": "nova detection",
+    "Time": "various",
+    "Date": "various",
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002"
+}

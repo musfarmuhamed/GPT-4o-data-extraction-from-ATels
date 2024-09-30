@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "06h 14m 31.44s",
+            "Dec": "+41d 59m 04.4s",
+            "redshift": null,
+            "Type": "unfiltered magnitude is 18.4m",
+            "Time": "2012-01-14.86097",
+            "Date": "2012-01-14"
+        },
+        {
+            "Name": "unidentified EGRET source",
+            "RA": "06h 14m 31.44s",
+            "Dec": "+41d 59m 04.4s",
+            "redshift": null,
+            "Type": "3EG J0613+4201",
+            "Time": null,
+            "Date": "2005"
+        }
+    ],
+    "References": "Fegan et al., Astrophys. J., 624, 638-655, 2005",
+    "Event Type": "discovery",
+    "Time": "2012-01-14.86097",
+    "Date": "2012-01-14",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Robotic Net"
+}

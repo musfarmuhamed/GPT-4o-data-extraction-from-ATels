@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0646-306",
+            "RA": "06h48m14.0964s",
+            "Dec": "-30d44m19.659s",
+            "redshift": "1.153",
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Fey et al.",
+            "Year": 2004,
+            "Journal": "Astronomical Journal",
+            "Volume": 127,
+            "Issue": 6,
+            "Page": 3587
+        },
+        {
+            "Author": "Jackson et al.",
+            "Year": 2002,
+            "Journal": "Astronomy & Astrophysics",
+            "Volume": 386,
+            "Page": 97
+        }
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "January 21, 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018zf (ASASSN-18el)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1ES 1927+654",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Seyfert galaxy / AGN",
+            "Time": null,
+            "Date": "2011"
+        },
+        {
+            "Name": "1ES 1927+654",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Type 2 AGN",
+            "Time": null,
+            "Date": "2011"
+        },
+        {
+            "Name": "1ES 1927+654",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Type 1 AGN",
+            "Time": null,
+            "Date": "2018-05-22"
+        },
+        {
+            "Name": "1ES 1927+654",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Type 1 AGN",
+            "Time": null,
+            "Date": "2018-06-05"
+        }
+    ],
+    "References": [
+        "ATel #11391",
+        "TNSCR #499",
+        "Gallo et al., 2013, MNRAS, 433, 421"
+    ],
+    "Event Type": "NICER X-ray follow-up observations",
+    "Time": "2018-05-22, May-July 2018, August 2018, 2018-10-26",
+    "Date": "2018",
+    "Telescope": "NICER, XMM-Newton",
+    "Instrument": null,
+    "Observatory": "International Space Station"
+}

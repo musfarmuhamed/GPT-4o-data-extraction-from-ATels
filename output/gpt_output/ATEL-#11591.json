@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "UT 20:20",
+            "Date": "April 22, 2018"
+        }
+    ],
+    "References": [
+        {
+            "ATEL": "#11578"
+        },
+        {
+            "Motch et al.": "1983",
+            "Hynes et al.": "2003",
+            "Durant et al.": "2009",
+            "Veledina et al.": "2015",
+            "Kalamkar et al.": "2016",
+            "Pahari et al.": "2017",
+            "Yu et al.": "2018"
+        }
+    ],
+    "Event Type": "optical photometric observation",
+    "Time": "UT 20:20",
+    "Date": "April 22, 2018",
+    "Telescope": "2.4m telescope",
+    "Instrument": "Fast Optical Camera (FOC)",
+    "Observatory": "Lijiang Gaomeigu Station of Yunnan observatories"
+}

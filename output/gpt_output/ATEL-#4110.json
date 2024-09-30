@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sgr 2012 (PNV J17452791-2305213)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "40 days after discovery",
+            "Date": "2012 May 10"
+        }
+    ],
+    "References": [
+        "ATels #4061",
+        "ATels #4088",
+        "E-Nova Project"
+    ],
+    "Event Type": "Observation",
+    "Time": "6280 s (XRT instrument), 6213 s (UVOT instrument)",
+    "Date": "2012 May 10",
+    "Telescope": "Swift satellite",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift satellite"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS2023-07",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.3889",
+            "Type": "high redshift blazar",
+            "Time": "unknown",
+            "Date": "April 19th, 2016"
+        },
+        {
+            "Name": "BZQJ 2025-0735",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high redshift blazar",
+            "Time": "unknown",
+            "Date": "April 19th, 2016"
+        },
+        {
+            "Name": "TXS2011-077",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "unknown",
+            "Date": "April 19th, 2016"
+        },
+        {
+            "Name": "2FGLJ2025.6-0736",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "unknown",
+            "Date": "April 19th, 2016"
+        }
+    ],
+    "References": [
+        "#8879",
+        "#8893",
+        "#8932",
+        "#8960"
+    ],
+    "Event Type": "multiwavelength enhanced emission",
+    "Time": null,
+    "Date": "April 19th, 2016",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS150325:140426+514417",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.046",
+            "Type": "Type Ic supernova",
+            "Time": "30.94 UT",
+            "Date": "March 30"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Spectroscopic Confirmation of CSS150325:140426+514417",
+            "Source": "http://crts.caltech.edu/",
+            "Asiago Spectra": "http://sngroup.oapd.inaf.it",
+            "GELATO": "Harutyunyan et al. 2008, A.Ap. 488, 383",
+            "SNID": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+            "Comparison Type Ic SN 2004aw": "Taubenberger et al. 2006, MNRAS, 371, 1459"
+        }
+    ],
+    "Event Type": "Spectroscopic Confirmation",
+    "Time": "30.94 UT",
+    "Date": "March 30",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago Astronomical Observatory"
+}

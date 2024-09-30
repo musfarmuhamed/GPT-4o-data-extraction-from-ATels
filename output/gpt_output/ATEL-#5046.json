@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR/SGR J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "15.5 ks",
+            "Date": "MJD 56415.4186"
+        }
+    ],
+    "References": "ATel #5020, ATel #5032, Rea et al. (ATel #5032), ATel #5035, ATel #5040, ATel #5043, ATel #5006, ATel #5011, ATel #5006, ATel #5009, Kaspi et al 2003, Dib et al 2008",
+    "Event Type": "monitor its temporal and spectral evolution",
+    "Time": "15.5 ks",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "NuSTAR X-ray Observatory"
+}

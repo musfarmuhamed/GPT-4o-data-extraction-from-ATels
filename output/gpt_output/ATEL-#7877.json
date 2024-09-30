@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J23164332+3359476",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.017,
+            "Type": "Ia-pec",
+            "Time": "pre-max",
+            "Date": "2015-08-05.99"
+        },
+        {
+            "Name": "PS15bom",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Ia",
+            "Time": "pre-max",
+            "Date": "2015-08-06.03"
+        },
+        {
+            "Name": "PSN J02484234+1418454",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024,
+            "Type": "Ia",
+            "Time": "~1 month",
+            "Date": "2015-08-06.06"
+        },
+        {
+            "Name": "ASASSN-15mr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2015-08-05.96"
+        }
+    ],
+    "References": [
+        "The Asiago Transient Classification Program, Tomasella et al. 2014, AN, 335, 841",
+        "The Astronomer's Telegram",
+        "CBAT Transient Object Followup Reports",
+        "Bright Supernova website"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago SN group"
+}

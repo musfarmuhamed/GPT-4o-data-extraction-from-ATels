@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J0109+6134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray flaring source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VCS2 J0109+6133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GT 0106+613",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic Plane radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Optical counterpart of GT 0106+613",
+            "RA": "01h09m46.33s",
+            "Dec": "+61d33'29.1\"",
+            "redshift": null,
+            "Type": "faint stellar-like object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Taylor and Gregory 1983, AJ, 88, 1784; Gregory and Taylor 1986, AJ 92, 371; Duric and Gregory 1988, ApJ 95, 1149; Paredes, Marti, Jordi et al. 1993, A&ASS 102, 381",
+    "Event Type": "gamma-ray flaring source detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Fermi-LAT",
+        "AGILE",
+        "Swift/XRT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

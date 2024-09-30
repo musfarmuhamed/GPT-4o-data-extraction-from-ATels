@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "08.1",
+            "Date": "2013-09",
+            "Observatory": "VLA",
+            "Instrument": null
+        },
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "08.1",
+            "Date": "2013-09",
+            "Observatory": "CARMA",
+            "Instrument": null
+        }
+    ],
+    "References": [
+        "CBET #3628",
+        "IAUC #9258"
+    ],
+    "Event Type": "detection at radio and millimeter wavelengths",
+    "Time": "08.1",
+    "Date": "2013-09",
+    "Telescope": "VLA & CARMA",
+    "Instrument": "VLA & CARMA",
+    "Observatory": "VLA & CARMA"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0507+17",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.416",
+            "Type": "quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1FGL J0510.0+1800",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "gamma ray source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Atels #4424",
+        "#4528",
+        "#4531",
+        "#4546",
+        "#4724"
+    ],
+    "Event Type": "NIR rebrightening",
+    "Time": "Null",
+    "Date": "April 19th, JD2456401.61995",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

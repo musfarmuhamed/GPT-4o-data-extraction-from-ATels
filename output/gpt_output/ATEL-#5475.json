@@ -1,0 +1,104 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424239+4117190",
+            "RA": "00h42m42.40s",
+            "Dec": "+41d17'18.7\"",
+            "redshift": null,
+            "Type": "Probable nova",
+            "Time": [
+                "15.061 UT",
+                "15.076 UT",
+                "15.080 UT"
+            ],
+            "Date": [
+                "2013 October 15",
+                "2013 October 15",
+                "2013 October 15"
+            ]
+        },
+        {
+            "Name": "2013-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": [
+                "12.851 UT",
+                "12.856 UT",
+                "12.816 UT",
+                "15.076 UT",
+                "15.080 UT",
+                "15.061 UT"
+            ],
+            "Date": [
+                "2013 Oct. 12",
+                "2013 Oct. 12",
+                "2013 Oct. 12",
+                "2013 Oct. 15",
+                "2013 Oct. 15",
+                "2013 Oct. 15"
+            ]
+        },
+        {
+            "Name": "2013-10c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": [
+                "12.851 UT",
+                "12.856 UT",
+                "12.816 UT",
+                "15.076 UT",
+                "15.080 UT",
+                "15.061 UT"
+            ],
+            "Date": [
+                "2013 Oct. 12",
+                "2013 Oct. 12",
+                "2013 Oct. 12",
+                "2013 Oct. 15",
+                "2013 Oct. 15",
+                "2013 Oct. 15"
+            ]
+        },
+        {
+            "Name": "2013-10d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": [
+                "15.076 UT",
+                "15.080 UT",
+                "15.061 UT"
+            ],
+            "Date": [
+                "2013 Oct. 15",
+                "2013 Oct. 15",
+                "2013 Oct. 15"
+            ]
+        },
+        {
+            "Name": "PNV J00442132+4055220",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.cbat.eps.harvard.edu/",
+        "ATel #5442",
+        "ATel #5468"
+    ],
+    "Event Type": "Nova discovery confirmation and photometric report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "CCD camera",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

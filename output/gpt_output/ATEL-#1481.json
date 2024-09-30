@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2008bo",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.004950",
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #1324",
+        "CBET #1325",
+        "ATel #1463",
+        "ATel #1477"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": "25.4 ks",
+    "Date": "2008-04-04.71 UT to 2008-04-14.67 UT",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": null
+}

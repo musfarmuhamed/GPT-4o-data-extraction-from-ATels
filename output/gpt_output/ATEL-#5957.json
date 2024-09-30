@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRETA",
+            "RA": "11:11:15.95",
+            "Dec": "+00:52:59.6",
+            "redshift": 0.085,
+            "Type": "IIn?",
+            "Time": null,
+            "Date": "20140304"
+        },
+        {
+            "Name": "EMILIA",
+            "RA": "11:34:31.96",
+            "Dec": "+01:08:32.4",
+            "redshift": 0.135,
+            "Type": "?",
+            "Time": null,
+            "Date": "20140304"
+        },
+        {
+            "Name": "PS1-14ra",
+            "RA": "14:41:28.44",
+            "Dec": "+09:25:58.7",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140305"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Valenti et al., ATel #2668",
+        "Forster et al., ATel #5949",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Mar 7, 2014",
+    "Date": "20140307",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ek (AT 2016bmd)",
+            "RA": "07:20:24.158",
+            "Dec": "+32:51:02.58",
+            "redshift": null,
+            "Type": "likely supernova",
+            "Time": "2016-04-12.29",
+            "Date": "2016-04-12"
+        },
+        {
+            "Name": "GALEXASC J072024.60+325058.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "The NASA/IPAC Extragalactic Database (NED)"
+    ],
+    "Event Type": "discovery of a new transient source",
+    "Time": "2016-04-12.29",
+    "Date": "2016-04-12",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

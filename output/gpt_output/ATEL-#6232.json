@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": "2253.9",
+            "Dec": "+1609",
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": [
+                "2014 May 29.9802",
+                "2014 May 30.9667",
+                "2014 May 31.9590",
+                "2014 Jun 01.9603"
+            ],
+            "Date": [
+                "2014 May 29",
+                "2014 May 30",
+                "2014 May 31",
+                "2014 June 01"
+            ]
+        }
+    ],
+    "References": [
+        "Atel#6182",
+        "Atel#6213",
+        "Atel#6217"
+    ],
+    "Event Type": "enhanced activity in Gamma-rays and NIR",
+    "Time": [
+        "2014 May 29 to 2014 June 01"
+    ],
+    "Date": [
+        "2014 May 29",
+        "2014 May 30",
+        "2014 May 31",
+        "2014 June 01"
+    ],
+    "Telescope": "1.2m telescope",
+    "Instrument": "1296x1252 pixels CCD",
+    "Observatory": "Mt Abu InfraRed Observatory (MIRO)"
+}

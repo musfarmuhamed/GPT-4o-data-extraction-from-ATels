@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00335+6126",
+            "RA": "00 33 35.2",
+            "Dec": "61 26 52.2",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "4.1 Ms",
+            "Date": "December 12, 2003 - January 10, 2006"
+        },
+        {
+            "Name": "IGR J00254+6822",
+            "RA": "00 25 26.3",
+            "Dec": "68 22 49.5",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "4.1 Ms",
+            "Date": "December 12, 2003 - January 10, 2006"
+        },
+        {
+            "Name": "IGR J02501+5440",
+            "RA": "02 50 11.3",
+            "Dec": "54 40 40.6",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "1.9 Ms",
+            "Date": "March 3, 2003 - July 4, 2006"
+        }
+    ],
+    "References": [
+        "ATEL#281",
+        "ATEL#282"
+    ],
+    "Event Type": "ultra-deep exposure",
+    "Time": [
+        "4.1 Ms",
+        "1.9 Ms"
+    ],
+    "Date": [
+        "December 12, 2003 - January 10, 2006",
+        "March 3, 2003 - July 4, 2006"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

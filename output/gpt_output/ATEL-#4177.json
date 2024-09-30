@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09582892-1053122",
+            "RA": "09h58m28s.906",
+            "Dec": "-10o53'12\".43",
+            "redshift": "0.02",
+            "Type": "Type Ia Supernova",
+            "Time": "June 7.15 UT",
+            "Date": "2012-06-07"
+        },
+        {
+            "Name": "CRTS J095829.14-105313.3",
+            "RA": "09h58m29s.140",
+            "Dec": "-10o53'13\".30",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Howell et al. 2002",
+    "Event Type": "discovery of an apparent supernova",
+    "Time": "June 7.15 UT",
+    "Date": "2012-06-07",
+    "Telescope": "0.37m f14 Rigel telescope",
+    "Instrument": "CCD",
+    "Observatory": "Iowa Robotic Observatory (IRO)"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J071803.26+644745.0",
+            "RA": "07h 18m 03.26s",
+            "Dec": "+64d 47m 45.0s",
+            "redshift": null,
+            "Type": "possible QSO flare",
+            "Time": "17:48:33.1",
+            "Date": "2015-07-10"
+        }
+    ],
+    "References": [
+        {
+            "Publication": "Lipunov et al., Advances in Astronomy",
+            "Year": 2010
+        },
+        {
+            "Publication": "GCN #18007",
+            "Year": null
+        },
+        {
+            "Publication": "Brescia+",
+            "Year": 2015
+        },
+        {
+            "Publication": "AAVSO",
+            "Year": null
+        }
+    ],
+    "Event Type": "burst",
+    "Time": "17:48:33.1",
+    "Date": "2015-07-10",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

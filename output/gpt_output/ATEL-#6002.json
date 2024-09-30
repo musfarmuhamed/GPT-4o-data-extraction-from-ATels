@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-NOVA-01",
+            "RA": "17:55:20.27",
+            "Dec": "-23:23:54.5",
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Wyrzykowski et al. ATEL #4495, Kozlowski et al. 2013",
+    "Event Type": "classical nova eruption",
+    "Time": null,
+    "Date": {
+        "Detection": "Feb 16 2014",
+        "Non-detection": "Oct 18 2013"
+    },
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

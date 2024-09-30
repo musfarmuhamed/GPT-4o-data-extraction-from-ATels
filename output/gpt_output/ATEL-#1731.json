@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS I +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V615 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "massive star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "de Pasquale et al. GCN 8209",
+        "Barthelmy et al. GCN 8215",
+        "Evans et al. GCN 8211",
+        "Leahy et al. 1997",
+        "Greiner & Rau 2001",
+        "Sidoli et al. 2006",
+        "Esposito et al. 2008",
+        "Paredes et al. 2007",
+        "Dubus & Giebels Atel# 1715"
+    ],
+    "Event Type": "SGR-like burst",
+    "Time": null,
+    "Date": "2008-09-10",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT",
+    "Observatory": "Swift Observatory"
+}

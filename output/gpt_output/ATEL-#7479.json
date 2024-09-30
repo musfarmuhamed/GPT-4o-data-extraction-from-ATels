@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS B2258-022",
+            "RA": "23h 01m 7.8s",
+            "Dec": "-01d 58' 3.3''",
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "2015-04-25"
+        }
+    ],
+    "References": [
+        "ATel #7445",
+        "Segreto et al 2010, A&A, 510, 47"
+    ],
+    "Event Type": "Gamma-ray detection and follow-up observations",
+    "Time": null,
+    "Date": "2015-04-25",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

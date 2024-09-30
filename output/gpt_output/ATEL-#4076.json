@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12cer",
+            "RA": "13:17:08.45",
+            "Dec": "-20:24:41.8",
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": "1 week",
+            "Date": "20120424"
+        },
+        {
+            "Name": "LSQ12cby",
+            "RA": "13:38:14.78",
+            "Dec": "-20:17:58.9",
+            "redshift": "0.093",
+            "Type": "Ia",
+            "Time": "-3",
+            "Date": "20120420"
+        },
+        {
+            "Name": "LSQ12cbo",
+            "RA": "14:59:38.16",
+            "Dec": "+21:19:04.8",
+            "redshift": "0.123",
+            "Type": "Ia",
+            "Time": "+1",
+            "Date": "20120419"
+        },
+        {
+            "Name": "LSQ12cca",
+            "RA": "13:59:06.43",
+            "Dec": "-14:35:46.0",
+            "redshift": "0.104",
+            "Type": "Ia",
+            "Time": "+11",
+            "Date": "20120420"
+        },
+        {
+            "Name": "CSS120421:143501-071918",
+            "RA": "14:35:00.76",
+            "Dec": "-07:19:17.8",
+            "redshift": "0.066",
+            "Type": "II",
+            "Time": "few weeks",
+            "Date": "20120421"
+        },
+        {
+            "Name": "CSS120424:151613-095504",
+            "RA": "15:16:13.05",
+            "Dec": "-09:55:03.9",
+            "redshift": "0.116",
+            "Type": "Ia",
+            "Time": "+6",
+            "Date": "20120424"
+        },
+        {
+            "Name": "PSNJ20522510-0546156",
+            "RA": "20:52:25.10",
+            "Dec": "-05:46:15.6",
+            "redshift": "0.020",
+            "Type": "II",
+            "Time": "2 weeks",
+            "Date": "20120422"
+        },
+        {
+            "Name": "PSNJ18410706-4147374",
+            "RA": "18:41:07.06",
+            "Dec": "-41:47:37.4",
+            "redshift": "0.019",
+            "Type": "IIn",
+            "Time": "07cy-like",
+            "Date": "20120425"
+        },
+        {
+            "Name": "LSQ12cbv",
+            "RA": "16:45:07.58",
+            "Dec": "-24:31:14.9",
+            "redshift": null,
+            "Type": "galactic variable star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812",
+        "http://crts.caltech.edu/"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2012 April 29",
+    "Date": "2012 April 29",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

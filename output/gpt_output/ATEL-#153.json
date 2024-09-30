@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1720-318",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-Ray transient",
+            "Time": null,
+            "Date": "February 28"
+        },
+        {
+            "Name": "IGRJ1746-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "source",
+            "Time": null,
+            "Date": "April"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "source",
+            "Time": null,
+            "Date": "April"
+        }
+    ],
+    "References": [
+        "ATEL #113",
+        "ATEL #115"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": [
+        "March 30",
+        "April 6",
+        "April 7",
+        "April 15",
+        "April 16"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X X-ray monitor"
+    ],
+    "Observatory": "INTEGRAL observatory"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQ J0447-0322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "57091.5157",
+            "Date": "2015-03-10"
+        }
+    ],
+    "References": [
+        "Pittori et al. 2015, ATel #7193",
+        "Evans et al., 2014, ApJS, 210, 8",
+        "Nesci et al., 2007, AJ, 133, 695",
+        "Nesci (ATel #7202)",
+        "Kalberla et al. 2005",
+        "Schlafly et al. 2011"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "57091.5157",
+    "Date": "2015-03-10",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

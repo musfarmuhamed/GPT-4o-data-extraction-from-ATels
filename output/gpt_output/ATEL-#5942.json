@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be high mass X-ray binary",
+            "Time": "05:55",
+            "Date": "2014 Feb 21"
+        },
+        {
+            "Name": "1A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be high mass X-ray binary",
+            "Time": "21:00",
+            "Date": "2014 Feb 23"
+        },
+        {
+            "Name": "1A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be high mass X-ray binary",
+            "Time": null,
+            "Date": "2014 Feb 27"
+        },
+        {
+            "Name": "1A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be high mass X-ray binary",
+            "Time": null,
+            "Date": "2014 Feb 16 - 2014 Feb 26"
+        }
+    ],
+    "References": [
+        "ATel #5931",
+        "ATel #5941"
+    ],
+    "Event Type": "Increase of X-ray flux",
+    "Time": "05:55 - 21:00",
+    "Date": "2014 Feb 21 - 2014 Feb 23",
+    "Telescope": "INTEGRAL, MAXI, Swift",
+    "Instrument": "IBIS/ISGRI, JEM-X1, GSC, BAT",
+    "Observatory": null
+}

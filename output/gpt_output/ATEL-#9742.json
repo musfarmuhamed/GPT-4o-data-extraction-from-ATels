@@ -1,0 +1,164 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16E1ciy",
+            "RA": "00:35:49.74",
+            "Dec": "-43:23:36.8",
+            "redshift": 0.174,
+            "Type": "SNIa",
+            "Time": "2016 Nov 01",
+            "Date": "2016 Oct 09"
+        },
+        {
+            "Name": "DES16S1cps",
+            "RA": "02:52:31.23",
+            "Dec": "-00:51:53.3",
+            "redshift": 0.274,
+            "Type": "SNIa",
+            "Time": "2016 Nov 01",
+            "Date": "2016 Oct 19"
+        },
+        {
+            "Name": "DES16E2crb",
+            "RA": "00:39:56.01",
+            "Dec": "-44:17:08.8",
+            "redshift": 0.229,
+            "Type": "SNIa",
+            "Time": "2016 Nov 02",
+            "Date": "2016 Oct 24"
+        },
+        {
+            "Name": "DES16E2clk",
+            "RA": "00:36:48.85",
+            "Dec": "-44:08:23.1",
+            "redshift": 0.367,
+            "Type": "SNIa",
+            "Time": "2016 Nov 02",
+            "Date": "2016 Oct 20"
+        },
+        {
+            "Name": "DES16E2cqq",
+            "RA": "00:39:50.07",
+            "Dec": "-43:33:53.2",
+            "redshift": 0.426,
+            "Type": "SNIa",
+            "Time": "2016 Nov 02",
+            "Date": "2016 Oct 20"
+        },
+        {
+            "Name": "DES16X2ceg",
+            "RA": "02:23:08.02",
+            "Dec": "-06:47:30.2",
+            "redshift": 0.335,
+            "Type": "SNIa",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 30"
+        },
+        {
+            "Name": "DES16X2bkr",
+            "RA": "02:19:37.67",
+            "Dec": "-06:04:18.2",
+            "redshift": 0.159,
+            "Type": "SNII",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 21"
+        },
+        {
+            "Name": "DES16X2crr",
+            "RA": "02:19:39.09",
+            "Dec": "-06:03:49.9",
+            "redshift": 0.312,
+            "Type": "SNIa",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Oct 25"
+        },
+        {
+            "Name": "DES16X2cpn",
+            "RA": "02:20:25.88",
+            "Dec": "-06:23:07.7",
+            "redshift": 0.28,
+            "Type": "SNIa",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Oct 19"
+        },
+        {
+            "Name": "DES16X2bvf",
+            "RA": "02:18:36.28",
+            "Dec": "-06:30:37.0",
+            "redshift": 0.135,
+            "Type": "SNIb",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 25"
+        },
+        {
+            "Name": "DES16C1cbg",
+            "RA": "03:39:20.71",
+            "Dec": "-27:09:53.6",
+            "redshift": 0.111,
+            "Type": "SNII",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 28"
+        },
+        {
+            "Name": "DES16C2cbv",
+            "RA": "03:34:35.40",
+            "Dec": "-28:54:31.6",
+            "redshift": 0.109,
+            "Type": "SNII",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 28"
+        },
+        {
+            "Name": "DES16C1bnt",
+            "RA": "03:38:47.54",
+            "Dec": "-27:17:37.2",
+            "redshift": 0.351,
+            "Type": "SNIa",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Sep 21"
+        },
+        {
+            "Name": "DES16C3at",
+            "RA": "03:30:54.19",
+            "Dec": "-27:43:11.7",
+            "redshift": 0.217,
+            "Type": "SNII",
+            "Time": "2016 Oct 31",
+            "Date": "2016 Aug 14"
+        },
+        {
+            "Name": "DES16X3cpl",
+            "RA": "02:27:33.44",
+            "Dec": "-04:42:46.2",
+            "redshift": 0.205,
+            "Type": "SNII?",
+            "Time": "2016 Oct 31",
+            "Date": "2016 Oct 19"
+        },
+        {
+            "Name": "DES16E2cjg",
+            "RA": "00:34:38.03",
+            "Dec": "-44:46:17.4",
+            "redshift": 0.48,
+            "Type": "SNIa",
+            "Time": "2016 Nov 02",
+            "Date": "2016 Oct 09"
+        },
+        {
+            "Name": "DES16X2crt",
+            "RA": "02:20:14.81",
+            "Dec": "-06:00:56.1",
+            "redshift": 0.57,
+            "Type": "SNIa?",
+            "Time": "2016 Nov 03",
+            "Date": "2016 Oct 25"
+        }
+    ],
+    "References": "ATEL #4668, Saunders et al. 2004, SPIE, 5492, 389, Blondin & Tonry, 2007, ApJ, 666, 1024, Howell and Wang, 2002, BAAS, 34, 1256",
+    "Event Type": "new spectroscopic classifications by OzDES of supernovae",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Anglo-Australian Telescope (AAT)",
+    "Instrument": "AAOmega Spectrograph",
+    "Observatory": "Null"
+}

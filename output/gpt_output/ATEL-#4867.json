@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:00",
+            "Date": "2013-03-05"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13:00",
+            "Date": "2013-03-06"
+        }
+    ],
+    "References": [
+        {
+            "ATel #": 4855
+        },
+        {
+            "ATel #": 4856
+        }
+    ],
+    "Event Type": "sustained gamma-ray emission",
+    "Time": "13:00",
+    "Date": "2013-03-05 to 2013-03-06",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE/GRID",
+    "Observatory": "AGILE"
+}

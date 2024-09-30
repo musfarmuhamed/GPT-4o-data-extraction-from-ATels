@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MG2 J071354+1934",
+            "RA": "07h13m55.7s",
+            "Dec": "+19d35m00s",
+            "redshift": null,
+            "Type": "flat-spectrum radio source",
+            "Time": null,
+            "Date": "3 July 2009"
+        },
+        {
+            "Name": "0FGL J0714.2+1934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray detection",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Petrov, L., Kovalev, Y. Y., Fomalont, E., & Gordon, D. 2005, The Astronomical Journal, 129, 1163",
+        "Abdo, A. A., et al. 2009, The Astrophysical Journal Supplement, 183, 46"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": null,
+    "Date": "3 July 2009",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

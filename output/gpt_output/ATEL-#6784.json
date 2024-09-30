@@ -1,0 +1,140 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2014-SN-166",
+            "RA": "2:54:25.66",
+            "Dec": "-66:24:52.9",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456987.62626",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-167",
+            "RA": "3:36:48.18",
+            "Dec": "-69:57:20.2",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456987.65316",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-168",
+            "RA": "1:25:50.40",
+            "Dec": "-75:43:27.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456987.60094",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-169",
+            "RA": "2:35:29.07",
+            "Dec": "-70:03:42.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456988.68261",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-170",
+            "RA": "23:21:02.17",
+            "Dec": "-74:33:08.6",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456988.58107",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-171",
+            "RA": "1:20:28.19",
+            "Dec": "-66:12:54.9",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456988.65075",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-172",
+            "RA": "2:48:31.81",
+            "Dec": "-64:30:22.5",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456987.63069",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-173",
+            "RA": "6:28:40.64",
+            "Dec": "-69:40:48.1",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456989.81337",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-173dupl",
+            "RA": "6:28:40.64",
+            "Dec": "-69:40:48.1",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456989.82176",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-174",
+            "RA": "0:18:10.47",
+            "Dec": "-67:23:43.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456989.52564",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-175",
+            "RA": "23:36:17.06",
+            "Dec": "-73:54:58.0",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456994.60566",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-176",
+            "RA": "5:22:20.67",
+            "Dec": "-56:01:16.5",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456993.84483",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-177",
+            "RA": "23:37:27.21",
+            "Dec": "-76:35:10.4",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456994.60978",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2014-SN-178",
+            "RA": "0:18:29.72",
+            "Dec": "-66:46:46.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2456995.53832",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2014, arXiv:1409.1095",
+        "Kozlowski et al. 2013"
+    ],
+    "Event Type": "transient discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "OGLE-IV",
+    "Instrument": null,
+    "Observatory": null
+}

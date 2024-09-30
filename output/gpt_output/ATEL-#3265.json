@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT 082752.77+704606.0",
+            "RA": "08:27:52.81",
+            "Dec": "+70:46:07.8",
+            "redshift": null,
+            "Type": "Optical transient",
+            "Time": "2455657.5378918",
+            "Date": "2011-04-06"
+        },
+        {
+            "Name": "GALEX 2682502750548263862",
+            "RA": "08:28:57.35",
+            "Dec": "+70:44:38.0",
+            "redshift": null,
+            "Type": "QSO candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #3255, Atlee & Gould, 2007, ApJ, 664, 53",
+    "Event Type": "Discovery and spectroscopy of optical transient",
+    "Time": "2455657.5378918",
+    "Date": "2011-04-06",
+    "Telescope": "Swift satellite",
+    "Instrument": "UVOT (ultraviolet), XRT (X-ray)",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M22 VLA1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M22 VLA2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Strader et al 2012, Nature 490 71",
+        "Gallo et al 2014 MNRAS 445 290"
+    ],
+    "Event Type": "Observation",
+    "Time": "86 ksec",
+    "Date": "2014-05-22",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

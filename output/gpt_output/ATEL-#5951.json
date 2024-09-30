@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0458-02",
+            "RA": "05h01m12.8098s",
+            "Dec": "-1d59m14.255s",
+            "redshift": "2.286",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "B2 1144+40",
+            "RA": "11h46m58.2979s",
+            "Dec": "39d58m34.304s",
+            "redshift": "1.090069 +/- 0.000473",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Nolan et al. 2012 ApJS, 199, 31; Johnston et al. 1995, AJ, 110, 880; Strittmatter et al. 1974, ApJ, 190, 509; Linford et al. 2012, ApJ, 744, 177; Hewett et al. 2010, MNRAS, 405, 2302; ATel#4396",
+    "Event Type": "gamma-ray flux increase",
+    "Time": "Null",
+    "Date": "2014 March 3",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

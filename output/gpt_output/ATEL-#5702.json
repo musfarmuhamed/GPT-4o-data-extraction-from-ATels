@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNhunt224",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019",
+            "Type": "Ia",
+            "Time": "+8d",
+            "Date": "Dec 27.06"
+        },
+        {
+            "Name": "CSS131225:030144-092044",
+            "RA": "03:01:44",
+            "Dec": "-09:20:44",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "Dec 27.13"
+        }
+    ],
+    "References": "Also classified in ATEL #5700",
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

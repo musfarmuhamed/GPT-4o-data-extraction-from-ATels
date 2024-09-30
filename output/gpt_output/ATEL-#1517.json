@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J2058+42",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary and pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J205847.5+414637",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1516",
+        "Reig et al., ATel #308(2004)",
+        "Wilson et al., ApJ, 622, 1024 (2005)",
+        "Akerlof et al., PASP, 115, 132 (2003)",
+        "Kiziloglu et al., IBVS, no:5821 (2008)",
+        "Kiziloglu et al., AA, 470,1023 (2007)"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ROTSEIIId",
+    "Instrument": null,
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

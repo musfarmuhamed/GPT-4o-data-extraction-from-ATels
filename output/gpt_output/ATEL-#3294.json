@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08282-3736",
+            "RA": "08h 26m 13.87s",
+            "Dec": "-37d 37m 11.03s",
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SS188",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Emitting line star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J082615.4-373610",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010 (ApJS, 186, 1)",
+        "Masetti et al. 2010 (A&A, 519, 96)"
+    ],
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": null,
+    "Observatory": null
+}

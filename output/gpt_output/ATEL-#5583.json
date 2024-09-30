@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0454-234",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": "JD 2456596.953449",
+            "Date": "October 31st, 2013"
+        },
+        {
+            "Name": "1FGLJ0457.0-2325",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZQJ0457-2324",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel#4647",
+        "Atel#3722",
+        "Atel#3703"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD 2456596.953449",
+    "Date": "October 31st, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

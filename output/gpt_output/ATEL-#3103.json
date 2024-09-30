@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": "89.19300",
+            "Dec": "-33.17451",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20:35 UT - 22:23 UT",
+            "Date": "January 11th, 2011"
+        }
+    ],
+    "References": "Matsumura et al., ATEL #3102; Evans et al. (2009, MNRAS, 2009, 397, 1177)",
+    "Event Type": "target of opportunity observations",
+    "Time": "20:35 UT",
+    "Date": "January 11th, 2011",
+    "Telescope": "Swift",
+    "Instrument": "Photon Counting (PC) mode",
+    "Observatory": "Swift/UVOT"
+}

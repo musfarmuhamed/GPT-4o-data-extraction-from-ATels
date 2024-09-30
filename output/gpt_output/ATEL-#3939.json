@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lucarelli et al. 2012, ATel #3934",
+        "Kalberla et al. 2005",
+        "Vercellone et al., 2012, ATel #3910",
+        "D'Ammando et al., (2011, A&A, 529, A145)"
+    ],
+    "Event Type": "Gamma-ray emission and X-ray/UV-optical observation",
+    "Time": "6.6ks on source",
+    "Date": "2012-02-17 to 2012-02-19",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

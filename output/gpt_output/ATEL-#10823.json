@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17nb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "II",
+            "Time": "2017-10-05.16",
+            "Date": "2017-10-05"
+        },
+        {
+            "Name": "CSS170922:172546+342249",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.065",
+            "Type": "Ia",
+            "Time": "2017-10-04.85",
+            "Date": "2017-10-04"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATEL #8944",
+        "ATEL #8979",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "http://crts.caltech.edu/",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": "2017-10-05",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

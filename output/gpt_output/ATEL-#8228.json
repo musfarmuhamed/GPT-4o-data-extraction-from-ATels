@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31N 2006-08a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "3282 days after 2006-08-16.518 UT",
+            "Date": "2015-08-11"
+        },
+        {
+            "Name": "Nova M31N 2012-06a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII nova",
+            "Time": "1105 days after 2012-06-18.052 UT",
+            "Date": "2015-06-28"
+        },
+        {
+            "Name": "Nova M31N 2013-11d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "580 days after 2013-11-25.3 UT",
+            "Date": "2015-06-28"
+        }
+    ],
+    "References": [
+        "ATel #8227",
+        "ATel #6564",
+        "ATel #4186",
+        "ATel #4216",
+        "ATel #5605",
+        "ATel #5744",
+        "Henze et al. 2014"
+    ],
+    "Event Type": "X-ray detection of novae",
+    "Time": null,
+    "Date": [
+        "2015-06-28",
+        "2015-08-11"
+    ],
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAXJ1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "1998"
+        },
+        {
+            "Name": "SAXJ1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "8 October 2006"
+        },
+        {
+            "Name": "SAXJ1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "18 April 2008"
+        }
+    ],
+    "References": [
+        "in't Zand et al. 1998, IAUC # 6840",
+        "Grebenev & Sunyaev 2005, AstL 31, 672",
+        "Sguera et al. 2005, A&A 444, 221",
+        "in't Zand et al. 2006, ATel #915",
+        "Grebenev & Sunyaev 2008, Atel #1482"
+    ],
+    "Event Type": "X-ray detection",
+    "Time": null,
+    "Date": [
+        "1998",
+        "8 October 2006",
+        "18 April 2008"
+    ],
+    "Telescope": [
+        "BeppoSAX",
+        "Chandra",
+        "XMM-Newton",
+        "SWIFT"
+    ],
+    "Instrument": [
+        "Epic-PN data",
+        "SWIFT/XRT"
+    ],
+    "Observatory": null
+}

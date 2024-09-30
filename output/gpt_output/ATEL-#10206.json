@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ea",
+            "RA": "12:42:50.671",
+            "Dec": "-30:24:43.08",
+            "redshift": "0.014440",
+            "Type": "supernova",
+            "Time": "2017-03-24.28",
+            "Date": "2017-03-24"
+        },
+        {
+            "Name": "ASASSN-17eb",
+            "RA": "15:38:34.052",
+            "Dec": "+13:20:51.56",
+            "redshift": "0.049334",
+            "Type": "supernova",
+            "Time": "2017-03-23.60",
+            "Date": "2017-03-23"
+        }
+    ],
+    "References": "Shappee et al. 2014, Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "discovery of two transient sources, most likely supernovae",
+    "Time": "Various times on UT 2017-03-24 and UT 2017-03-23",
+    "Date": "2017-03-24 and 2017-03-23",
+    "Telescope": "quadruple 14-cm 'Cassius' telescope, quadruple 14-cm 'Brutus' telescope",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Chile, Haleakala, Hawaii, Las Cumbres Observatory"
+}

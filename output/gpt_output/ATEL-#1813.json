@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": [
+                "00:43",
+                "14:48"
+            ],
+            "Date": [
+                "2008-10-23",
+                "2008-10-24"
+            ]
+        },
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1779",
+        "ATEL #1798",
+        "ATEL #1791",
+        "ATEL #1810"
+    ],
+    "Event Type": "Outburst observation",
+    "Time": [
+        "00:43",
+        "14:48"
+    ],
+    "Date": [
+        "2008-10-23",
+        "2008-10-24"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI",
+        "SPI"
+    ],
+    "Observatory": null
+}

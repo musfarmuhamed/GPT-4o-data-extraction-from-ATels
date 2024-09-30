@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF14bdn",
+            "RA": "13:30:44.88",
+            "Dec": "+32:45:42.4",
+            "redshift": "0.01558",
+            "Type": "Supernova",
+            "Time": "UT 2014 May 27.24",
+            "Date": "2014-05-27"
+        }
+    ],
+    "References": [
+        "Law et al. 2009",
+        "ATel#4807"
+    ],
+    "Event Type": "Discovery",
+    "Time": "UT 2014 May 27.24",
+    "Date": "2014-05-27",
+    "Telescope": "Keck I",
+    "Instrument": "Low Resolution Imaging Spectrometer (LRIS)",
+    "Observatory": "Null"
+}

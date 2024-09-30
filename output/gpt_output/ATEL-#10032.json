@@ -1,0 +1,132 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17arb",
+            "IAU Name": "AT2017ya",
+            "RA": "00:16:44.48",
+            "Dec": "+15:20:31.52",
+            "redshift": "0.070",
+            "Type": "Ia",
+            "Phase": "-5d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17are",
+            "IAU Name": "AT2017yc",
+            "RA": "01:32:34.02",
+            "Dec": "+32:18:47.23",
+            "redshift": "0.070",
+            "Type": null,
+            "Phase": null,
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17amz",
+            "IAU Name": "AT2017pn",
+            "RA": "04:46:24.59",
+            "Dec": "-11:59:18.25",
+            "redshift": "0.014",
+            "Type": "II-P",
+            "Phase": "+3d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ASASSN-17bq",
+            "IAU Name": "AT2017xx",
+            "RA": "07:25:38.14",
+            "Dec": "+59:00:10.57",
+            "redshift": "0.044",
+            "Type": "Ia",
+            "Phase": "+19d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17apo",
+            "IAU Name": "AT2017vh",
+            "RA": "08:24:53.33",
+            "Dec": "-04:39:06.52",
+            "redshift": "0.069",
+            "Type": "Ia",
+            "Phase": "+13d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ASASSN-17bn",
+            "IAU Name": "AT2017vu",
+            "RA": "08:59:23.92",
+            "Dec": "-09:52:29.32",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Phase": "+8d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17asj",
+            "IAU Name": "AT2017yk",
+            "RA": "09:44:31.77",
+            "Dec": "-12:18:29.59",
+            "redshift": "0.046",
+            "Type": "Ia",
+            "Phase": "-1d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17arc",
+            "IAU Name": "AT2017yd",
+            "RA": "10:55:59.27",
+            "Dec": "+11:55:15.11",
+            "redshift": "0.078",
+            "Type": "Ia",
+            "Phase": "+7d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17amc",
+            "IAU Name": "AT2017oz",
+            "RA": "14:06:41.58",
+            "Dec": "+30:19:07.49",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Phase": "-4d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ASASSN-17br",
+            "IAU Name": "AT2017xy",
+            "RA": "15:52:00.35",
+            "Dec": "+66:18:53.17",
+            "redshift": "0.026",
+            "Type": "II-P",
+            "Phase": "+12d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ASASSN-17bh",
+            "IAU Name": "AT2017po",
+            "RA": "16:03:51.71",
+            "Dec": "+39:59:25.40",
+            "redshift": "0.032",
+            "Type": "Ia",
+            "Phase": "+2d",
+            "Time": "2017 Jan 31 UT",
+            "Date": "2017-01-31"
+        }
+    ],
+    "References": "ATel #8680",
+    "Event Type": "spectroscopic observations",
+    "Time": "2017 Jan 31 UT",
+    "Date": "2017-01-31",
+    "Telescope": "KPNO Mayall 4-m telescope",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

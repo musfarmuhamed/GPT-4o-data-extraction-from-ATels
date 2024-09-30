@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1812-182",
+            "RA": "273.117",
+            "Dec": "-18.26",
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "02:53",
+            "Date": "2008-08-22"
+        },
+        {
+            "Name": "XTE J1824-141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "120 second pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMM J181227.8-181234",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": "2003"
+        },
+        {
+            "Name": "1H1812-182",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible High-mass X-ray Binary",
+            "Time": null,
+            "Date": "1980s"
+        }
+    ],
+    "References": "Cackett, Wijnands & Remillard 2006, MNRAS, 369, 1965",
+    "Event Type": "Detection of Transient Source",
+    "Time": "02:53",
+    "Date": "2008-08-22",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

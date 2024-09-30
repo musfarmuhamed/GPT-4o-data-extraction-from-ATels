@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ic-BL supernova",
+            "Time": "Jul 21.7",
+            "Date": "2018-07-21"
+        }
+    ],
+    "References": "ATEL #11727",
+    "Event Type": "Photometric observations",
+    "Time": "Jul 21.7",
+    "Date": "2018-07-21",
+    "Telescope": "1.5-m Kanata telescope",
+    "Instrument": [
+        "Hiroshima One-shot Wide-field Polarimeter (HOWPol)",
+        "Hiroshima Optical and Near-InfraRed camera (HONIR)"
+    ],
+    "Observatory": "Higashi-Hiroshima Observatory"
+}

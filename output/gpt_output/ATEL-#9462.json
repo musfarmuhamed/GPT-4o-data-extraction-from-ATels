@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": [
+                "06h 51min 58s UT",
+                "00h 25min 57s UT"
+            ],
+            "Date": [
+                "2016-09-04",
+                "2016-09-05"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #9427",
+        "Tomsick et al. 2005, ApJ, 630, 413",
+        "Wang et al. 2016, MNRAS, 456, 1579",
+        "Capitanio et al. 2015, MNRAS, 450, 3840"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": [
+        "2016-09-04",
+        "2016-09-05"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "Swift-XRT",
+    "Observatory": null
+}

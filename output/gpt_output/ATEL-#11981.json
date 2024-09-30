@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J15791-2342",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ducci et al., ATel #11941",
+        "Bozzo et al., ATel #11942",
+        "Ferrigno et al., ATel #11957",
+        "Krimm et al, ApJL 668, 147, 2007",
+        "ATel #11497",
+        "ATel #2129"
+    ],
+    "Event Type": "Detection",
+    "Time": null,
+    "Date": [
+        "2018-July-22 to 2018-Aug-19",
+        "2018-Aug-10"
+    ],
+    "Telescope": "Neil Gehrels Swift Observatory Burst Alert Telescope (Swift/BAT)",
+    "Instrument": "BAT transient monitor",
+    "Observatory": "INTEGRAL"
+}

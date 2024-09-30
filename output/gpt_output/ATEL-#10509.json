@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ho (AT 2017erv)",
+            "RA": "19:18:47.103",
+            "Dec": "-84:41:50.05",
+            "redshift": "0.017035",
+            "Type": "supernova",
+            "Time": "2017-06-13.38",
+            "Date": "2017-06-13"
+        },
+        {
+            "Name": "ASASSN-17hq (AT 2017eve)",
+            "RA": "18:43:53.509",
+            "Dec": "-56:29:29.07",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-06-19.14",
+            "Date": "2017-06-19"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "quadruple 14-cm 'Cassius' telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

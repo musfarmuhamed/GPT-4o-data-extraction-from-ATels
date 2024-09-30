@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2010-10d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "30.31",
+            "Date": "2010-10-30"
+        },
+        {
+            "Name": "M33N 2010-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2010-10"
+        }
+    ],
+    "References": "CBET #2516, ATel #2982",
+    "Event Type": "spectrum observation",
+    "Time": "30.31",
+    "Date": "2010-10-30",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Low-Resolution Spectrograph",
+    "Observatory": "Miyaki-Argenteus Observatory, Japan"
+}

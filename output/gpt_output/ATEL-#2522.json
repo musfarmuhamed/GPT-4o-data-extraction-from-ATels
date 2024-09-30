@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS B 1622-297",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray bright blazar",
+            "Time": "2455271.82",
+            "Date": "2010-03-16"
+        },
+        {
+            "Name": "PKS B 1622-297",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray bright blazar",
+            "Time": "2455284.78",
+            "Date": "2010-03-29"
+        }
+    ],
+    "References": "http://www.astro.yale.edu/smarts/fermi",
+    "Event Type": "Flare",
+    "Time": "2455271.82 to 2455284.78",
+    "Date": "2010-03-16 to 2010-03-29",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": null
+}

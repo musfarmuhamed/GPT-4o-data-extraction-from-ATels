@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J17520838+1314252",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "Type Ia Supernova",
+            "Time": "22:21:26",
+            "Date": "2015-07-10"
+        },
+        {
+            "Name": "2MASX J17520913+1314038",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0332,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "TOCP",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and Spectroscopic Observation",
+    "Time": "22:21:26",
+    "Date": "2015-07-10",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos on La Palma"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17lo",
+            "RA": "05:12:45.09",
+            "Dec": "-69:57:20.1",
+            "redshift": null,
+            "Type": "possibly a classical nova (could also be a bright CV)",
+            "Time": "2017-09-03.326",
+            "Date": "2017-09-03"
+        },
+        {
+            "Name": "ASASSN-17lo",
+            "RA": "05:12:45.09",
+            "Dec": "-69:57:20.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-08-29.327",
+            "Date": "2017-08-29"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Kochanek et al. 2017",
+        "Gordon and Betty Moore Foundation",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)"
+    ],
+    "Event Type": "detection of a transient source",
+    "Time": "2017-09-03.326",
+    "Date": "2017-09-03",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "CTIO, Chile"
+}

@@ -1,0 +1,137 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2010-03a",
+            "RA": "00h42m47.74s",
+            "Dec": "+41d17'01.4\"",
+            "redshift": null,
+            "Type": "FeII (optical nova in M31)",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-03a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-05a",
+            "RA": "00h42m35.91s",
+            "Dec": "+41d16'38.1\"",
+            "redshift": null,
+            "Type": "FeII",
+            "Time": "4.803",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-05a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.713",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-06a",
+            "RA": "00h43m07.56s",
+            "Dec": "+41d19'49.0\"",
+            "redshift": null,
+            "Type": "FeII",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-06a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-06d",
+            "RA": "00h42m55.61s",
+            "Dec": "+41d19'26.0\"",
+            "redshift": null,
+            "Type": "FeII",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-06d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-07a",
+            "RA": "00h43m20.11s",
+            "Dec": "+41d21'23.6\"",
+            "redshift": null,
+            "Type": "FeII",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-07a",
+            "RA": "00h43m20.11s",
+            "Dec": "+41d21'23.5\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-07b",
+            "RA": "00h43m07.48s",
+            "Dec": "+41d17'58.7\"",
+            "redshift": null,
+            "Type": "M31 nova",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-07b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        },
+        {
+            "Name": "M31N 2010-10a",
+            "RA": "00h42m45.84s",
+            "Dec": "+41d24'22.2\"",
+            "redshift": null,
+            "Type": "FeII",
+            "Time": "4.790",
+            "Date": "2010-10-04"
+        },
+        {
+            "Name": "M31N 2010-10a",
+            "RA": "00h42m45.84s",
+            "Dec": "+41d24'22.3\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "5.708",
+            "Date": "2010-10-05"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478; CBET #2483; Hornoch et al. 2010, CBET #2411",
+    "Event Type": "Nova Detection",
+    "Time": "4.790, 5.708, 4.803, 5.713",
+    "Date": "2010-10-04, 2010-10-05",
+    "Telescope": "1.3m Ritchey Chretien f/7.5 telescope",
+    "Instrument": "Andor DZ436-BV CCD Camera",
+    "Observatory": "Skinakas Observatory, Crete, Greece"
+}

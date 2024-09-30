@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "00:00",
+            "Date": "MJD 56732"
+        },
+        {
+            "Name": "Cygnus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "00:00",
+            "Date": "MJD 56736"
+        }
+    ],
+    "References": "Yu & Yan 2009, ApJ, 701, 1940",
+    "Event Type": "X-ray transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift, MAXI",
+    "Instrument": "BAT (Swift), GSC (MAXI)",
+    "Observatory": null
+}

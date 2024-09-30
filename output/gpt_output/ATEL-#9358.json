@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016eqg",
+            "RA": "18:19:02.89",
+            "Dec": "+09:55:42.7",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2016-08-02"
+        },
+        {
+            "Name": "AT2016esk",
+            "RA": "16:45:10.09",
+            "Dec": "-34:53:59.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2016-08-03"
+        },
+        {
+            "Name": null,
+            "RA": "17:31:28.00",
+            "Dec": "-18:08:10.2",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2016-07-31"
+        },
+        {
+            "Name": "AT2016enm",
+            "RA": "17:09:04.98",
+            "Dec": "-17:36:21.7",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "SN2016eny",
+            "RA": "16:33:08.35",
+            "Dec": "-15:33:32.4",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "SN2016etf",
+            "RA": "22:04:03.13",
+            "Dec": "-10:13:05.5",
+            "redshift": "0.057",
+            "Type": "Ia",
+            "Time": "-8d?",
+            "Date": "2016-08-03"
+        },
+        {
+            "Name": "AT2016enl",
+            "RA": "22:03:34.71",
+            "Dec": "-24:58:50.8",
+            "redshift": "?",
+            "Type": "?",
+            "Time": "?",
+            "Date": "2016-08-01"
+        },
+        {
+            "Name": "AT2016euf",
+            "RA": "19:26:53.12",
+            "Dec": "-25:56:05.3",
+            "redshift": "?",
+            "Type": "?",
+            "Time": "?",
+            "Date": "2016-08-03"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Huber et al., ATel #7153",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al. 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-08-08",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

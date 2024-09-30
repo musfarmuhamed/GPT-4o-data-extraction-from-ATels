@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J004215.8+411924",
+            "RA": "00:42:15.88",
+            "Dec": "+41:19:24.4",
+            "redshift": null,
+            "Type": "High mass X-ray binary, Be/X-ray transient",
+            "Time": null,
+            "Date": "2006-08-09"
+        },
+        {
+            "Name": "SWIFT J004217.4+411532",
+            "RA": "00:42:17.4",
+            "Dec": "+41:15:32",
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": "2006-09-01"
+        }
+    ],
+    "References": "http://www.mpe.mpg.de/xray/research/normal_galaxies/m31/novae.php, http://www.mpe.mpg.de/xray/research/normal_galaxies/m31/transients.php",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2006-08-09, 2006-09-01",
+    "Telescope": "XMM-Newton, SWIFT",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

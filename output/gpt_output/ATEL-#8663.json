@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16aep",
+            "RA": "08:16:24.59",
+            "Dec": "+25:59:35.2",
+            "redshift": 0.045,
+            "Type": "II",
+            "Time": "+3 weeks",
+            "Date": "2016-02-09"
+        },
+        {
+            "Name": "PS16aer",
+            "RA": "10:54:58.19",
+            "Dec": "+14:16:17.7",
+            "redshift": 0.056,
+            "Type": "Ia",
+            "Time": "-1 day",
+            "Date": "2016-02-09"
+        },
+        {
+            "Name": "AT 2016aaj",
+            "RA": "13:49:40.51",
+            "Dec": "+04:14:27.1",
+            "redshift": 0.023,
+            "Type": "II",
+            "Time": "~peak",
+            "Date": "2016-02-09"
+        },
+        {
+            "Name": "SN 2016adj",
+            "RA": "13:25:24.11",
+            "Dec": "-43:00:57.5",
+            "redshift": 0.002,
+            "Type": "IIb?",
+            "Time": null,
+            "Date": "2016-02-09"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2016-02-09",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

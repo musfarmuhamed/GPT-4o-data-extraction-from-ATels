@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0528+134",
+            "RA": "05:30:56.4167",
+            "Dec": "+13:31:55.150",
+            "redshift": 2.07,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1FGL J0531.0+1331",
+            "RA": "05:30:56.4167",
+            "Dec": "+13:31:55.150",
+            "redshift": 2.07,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Hunter et al. 1993, ApJ, 409, 134",
+        "Mukherjee et al. 1999, ApJ, 527, 132",
+        "Abdo et al. 2010, ApJS, 188, 405"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": "Null",
+    "Date": "June 5, 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

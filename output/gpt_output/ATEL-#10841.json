@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17mai",
+            "RA": "00 30 29.32",
+            "Dec": "-08 46 48.5",
+            "redshift": "0.018",
+            "Type": "Ic",
+            "Time": "10:10:00",
+            "Date": "2017-10-10"
+        },
+        {
+            "Name": "Gaia17cnj",
+            "RA": "02 50 48.54",
+            "Dec": "-43 24 52.0",
+            "redshift": "0.027",
+            "Type": "II",
+            "Time": "10:10:00",
+            "Date": "2017-10-10"
+        },
+        {
+            "Name": "ATLAS17lyu",
+            "RA": "23 07 17.82",
+            "Dec": "-17 28 52.8",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": "10:10:00",
+            "Date": "2017-10-10"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "10:10:00",
+    "Date": "2017-10-10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

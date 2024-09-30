@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017cfa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01406,
+            "Type": "IIP supernovae",
+            "Time": "17.56",
+            "Date": "2017-03-17"
+        },
+        {
+            "Name": "ATLAS17cnz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01406,
+            "Type": "IIP supernovae",
+            "Time": "17.56",
+            "Date": "2017-03-17"
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, Ap.J., 666, 1024"
+    ],
+    "Event Type": "explosion",
+    "Time": "17.56",
+    "Date": "2017-03-17",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": "2012-06-08",
+            "Date": "MJD 56086"
+        },
+        {
+            "Name": "Line-of-sight stars blend",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-04-16",
+            "Date": "MJD 56033"
+        }
+    ],
+    "References": [
+        "ATel #3383",
+        "Cadolle Bel et al. (2011)",
+        "Buxton et al. (2012)",
+        "Dincer et al. (2012)",
+        "Shahbaz et al. (2001)",
+        "Hynes et al. (2004)",
+        "Munoz-Darias et al. (2008)",
+        "Remillard & McClintock (1987)",
+        "Lewis et al. (2008)"
+    ],
+    "Event Type": "Optical re-brightening",
+    "Time": "2012-05-11",
+    "Date": "MJD 56058",
+    "Telescope": "2-m Faulkes Telescope South",
+    "Instrument": "SDSS i'-band, Bessel R and Bessel V filters",
+    "Observatory": "Las Cumbres Observatory Global Telescope Network"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17536-2339",
+            "RA": 268.409,
+            "Dec": -23.654,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "16:51-20:33",
+            "Date": "2006-04-03"
+        },
+        {
+            "Name": "IGR J17541-2252",
+            "RA": 268.517,
+            "Dec": -22.871,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "16:51-20:33",
+            "Date": "2006-04-03"
+        },
+        {
+            "Name": "SAX J1753.5-2349",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #438",
+    "Event Type": "Detection of hard X-rays",
+    "Time": "16:51-20:33",
+    "Date": "2006-04-03",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

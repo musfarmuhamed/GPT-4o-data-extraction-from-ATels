@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J005758.4-721620",
+            "RA": "00:57:58.4",
+            "Dec": "-72:16:20",
+            "redshift": null,
+            "Type": "Be X-ray binary pulsar",
+            "Time": "07.91807(1)s",
+            "Date": "2013 September 06"
+        },
+        {
+            "Name": "IGR J00569-7226",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J005758.4-722229",
+            "RA": "00:57:58.4",
+            "Dec": "-72:22:29.5",
+            "redshift": null,
+            "Type": "Be X-ray binary pulsar",
+            "Time": "07.91807(1)s",
+            "Date": "2013 September 06"
+        },
+        {
+            "Name": "CXOU J005047.9-731817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be X-ray binary pulsar",
+            "Time": "292 s",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Esposito et al. 2013, MNRAS, 433, 2028",
+        "ATEL #5547",
+        "Chandra observation 15504",
+        "Mennickent et al. 2002, A&A, 393, 887",
+        "Sasaki et al. 2000 (A&AS, 147, 75)",
+        "Esposito et al. 2013, MNRAS, 433, 3464"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

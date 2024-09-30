@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "~40 ksec",
+            "Date": "MJD 55608"
+        },
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "~40 ksec",
+            "Date": "MJD 55653"
+        }
+    ],
+    "References": [
+        "ATEL #3102",
+        "#3103",
+        "#3104",
+        "#3106",
+        "#3110",
+        "#3112",
+        "#3116",
+        "#3119",
+        "#3327"
+    ],
+    "Event Type": "observation",
+    "Time": "~40 ksec",
+    "Date": [
+        "MJD 55608",
+        "MJD 55653"
+    ],
+    "Telescope": "XMM-Newton",
+    "Instrument": [
+        "EPIC-PN",
+        "RGS1",
+        "RGS2"
+    ],
+    "Observatory": "ESA's XMM-Newton observatory"
+}

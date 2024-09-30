@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13bjh",
+            "RA": "01:46:27.10",
+            "Dec": "-26:40:02.4",
+            "redshift": "~0.06",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2013-08-04"
+        },
+        {
+            "Name": "OGLE-2013-SN-043",
+            "RA": "00:52:48.85",
+            "Dec": "-66:09:48.8",
+            "redshift": "~0.14",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2013-08-04"
+        },
+        {
+            "Name": "OGLE-2013-SN-045",
+            "RA": "23:40:36.52",
+            "Dec": "-64:17:22.5",
+            "redshift": "~0.10",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2013-08-11"
+        },
+        {
+            "Name": "OGLE-2013-SN-046",
+            "RA": "01:07:29.73",
+            "Dec": "-67:26:03.5",
+            "redshift": "~0.07",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2013-08-04"
+        },
+        {
+            "Name": "OGLE-2013-SN-048",
+            "RA": "01:37:10.24",
+            "Dec": "-68:23:48.5",
+            "redshift": "~0.06",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2013-08-11"
+        }
+    ],
+    "References": [
+        {
+            "Name": "La Silla-Quest survey",
+            "Reference": "Hadjiyska et al., ATel #3812"
+        },
+        {
+            "Name": "OGLE-IV Transient Search",
+            "Reference": "Wyrzykowski et al., ATEL #4495"
+        },
+        {
+            "Name": "SNID",
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        },
+        {
+            "Name": "GELATO",
+            "Reference": "Harutyunyan et al., 2008, A&A, 488, 383"
+        },
+        {
+            "Name": "WISeREP",
+            "Reference": "Yaron & Gal-Yam, 2012, PASP, 124, 668"
+        },
+        {
+            "Name": "PESSTO",
+            "Reference": "Valenti et al., ATel #4037"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013-08-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

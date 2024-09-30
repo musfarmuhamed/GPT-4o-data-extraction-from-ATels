@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18mia",
+            "RA": "13 48 22.80",
+            "Dec": "+14 52 46.11",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2018 March 26"
+        },
+        {
+            "Name": "SNhunt358",
+            "RA": "14 30 24.91",
+            "Dec": "+11 55 57.36",
+            "redshift": 0.025588,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2018 March 26"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "http://www.pessto.org",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "http://crts.caltech.edu/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org (via WISeREP)",
+        "IAU Transient Name Server",
+        "Mhdavi & Geller 2004, ApJ, 607, 202"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "UT",
+    "Date": "2018 March 26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

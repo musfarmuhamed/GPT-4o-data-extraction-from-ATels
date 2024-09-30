@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+164",
+            "RA": "39.662209 deg",
+            "Dec": "16.616465 deg",
+            "redshift": "0.94",
+            "Type": "blazar",
+            "Time": "00:00-06:00 UT",
+            "Date": "September 1st 2015"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Cohen et al. 1987, ApJ, 318, 577",
+        "Acero et al. 2015, ApJS 218, 23",
+        "ATel#1744",
+        "ATel#1784",
+        "Ackermann et al. 2012, ApJ, 751, 159"
+    ],
+    "Event Type": "gamma-ray flaring",
+    "Time": "00:00-06:00 UT",
+    "Date": "September 1st 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

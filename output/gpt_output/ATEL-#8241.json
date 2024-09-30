@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17062-6143",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-mass X-ray binary",
+            "Time": "10:29:46",
+            "Date": "2015-11-03"
+        },
+        {
+            "Name": "Swift J1706.6-6146",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-mass X-ray binary",
+            "Time": "10:29:46",
+            "Date": "2015-11-03"
+        }
+    ],
+    "References": [
+        "Churazov et al. A&A 467, 529, 2007",
+        "Barthelmy et al. GCN 13386",
+        "Degenaar et al. ATel #4219, ApJ 767, L37, 2013"
+    ],
+    "Event Type": "Bright X-ray burst",
+    "Time": "10:29:46",
+    "Date": "2015-11-03",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "MAXI/GSC and Swift/XRT",
+    "Observatory": null
+}

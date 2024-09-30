@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J1033.8+6048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010-05-14"
+        },
+        {
+            "Name": "S4 1030+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2010-05-17"
+        },
+        {
+            "Name": "GB6 J1032+6051",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2010-05-17"
+        }
+    ],
+    "References": [
+        "ATel #2622",
+        "ATel #2623",
+        "ATel #2625"
+    ],
+    "Event Type": "GeV flare",
+    "Time": null,
+    "Date": "2010-05-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Swift"
+}

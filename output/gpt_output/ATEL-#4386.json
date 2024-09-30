@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01184597+1459402",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0229,
+            "Type": "Type-Ib Supernova",
+            "Time": "00:00 UT",
+            "Date": "2023-09-18"
+        },
+        {
+            "Name": "PSN J02245064+1610543",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0272,
+            "Type": "Type-Ia Supernova",
+            "Time": "05:00 UT",
+            "Date": "2023-09-18"
+        }
+    ],
+    "References": [
+        "SDSS1 via NED",
+        "Harutyuyan et al. 2008, A.Ap. 488, 383",
+        "Benetti et al. 2011, MNRAS 411, 2726",
+        "LEDA",
+        "Pignata et al. 2008, MNRAS 388, 971"
+    ],
+    "Event Type": "Spectroscopic Confirmation",
+    "Time": "00:00 - 05:00 UT",
+    "Date": "2023-09-18",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

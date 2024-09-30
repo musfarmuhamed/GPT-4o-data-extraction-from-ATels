@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004228.1+410959",
+            "RA": "00h42m28.17s",
+            "Dec": "+41o09'55\".5",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": [
+                "26.06",
+                "28.07",
+                "31.08",
+                "15.06"
+            ],
+            "Date": [
+                "Dec. 26",
+                "Dec. 28",
+                "Dec. 31",
+                "Dec. 15"
+            ]
+        }
+    ],
+    "References": "Kong et al. 2002, ApJ 577,738",
+    "Event Type": "detection of an optical transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ROTSE-IIIb",
+    "Instrument": null,
+    "Observatory": "McDonald observatory, Texas"
+}

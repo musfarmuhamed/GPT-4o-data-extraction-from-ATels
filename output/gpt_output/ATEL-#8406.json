@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15dul",
+            "RA": "00:30:27.90",
+            "Dec": "-06:32:49.5",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-11-13"
+        },
+        {
+            "Name": "iPTF15erb",
+            "RA": "10:15:10.42",
+            "Dec": "+25:35:44.6",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-12-06"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Yaron & Gal-Yam 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": "Null"
+}

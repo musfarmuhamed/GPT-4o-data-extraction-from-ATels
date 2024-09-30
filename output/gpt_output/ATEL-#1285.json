@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J070542.7-381442",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "08:15 - 08:28",
+            "Date": "2007 Nov 16"
+        },
+        {
+            "Name": "USNO A2.0 0450-03360039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Read, Saxton & Esquej 2007, ATel #1282",
+    "Event Type": "optical observations",
+    "Time": "08:15 - 08:28",
+    "Date": "2007 Nov 16",
+    "Telescope": "Magellan Clay 6.5m",
+    "Instrument": "LDSS-3 spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[PFH2005] 622",
+            "RA": "00h 45m 14.87s",
+            "Dec": "+41d 50' 33''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "T0+105s",
+            "Date": "March 1, 2015"
+        }
+    ],
+    "References": [
+        "Pietsch et al., A&A, 434, 483, 2005",
+        "Evans et al., ApJS 210, 8, 2014",
+        "Lien et al., GCN #17512",
+        "Stamatikos et al., GCN #17516"
+    ],
+    "Event Type": "GRB/Further XRT observations",
+    "Time": "Lasted about 20 seconds",
+    "Date": "March 1, 2015",
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT (X-Ray Telescope)",
+    "Observatory": "Swift Observatory"
+}

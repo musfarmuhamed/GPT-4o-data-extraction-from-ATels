@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0903-57",
+            "RA": 136.221579,
+            "Dec": -57.58494,
+            "redshift": 0.695,
+            "Type": "blazar candidate of unknown type",
+            "Time": "12:00-18:00 UT",
+            "Date": "2018 May 14"
+        },
+        {
+            "Name": "PKS 0346-27",
+            "RA": 57.158935,
+            "Dec": -27.820434,
+            "redshift": 0.991,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2018 May 13"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Fey et al. 2004, AJ, 128, 2593",
+        "Thompson et al. 1990, PASP, 102, 1235",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "White et al. 1988 ApJ, 327, 561",
+        "ATel#7704",
+        "ATel#11251"
+    ],
+    "Event Type": "high-level gamma-ray activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1409-619",
+            "RA": "14h 08m 00.6s",
+            "Dec": "-61d 58m 19.9s",
+            "redshift": null,
+            "Type": "candidate Supergiant Fast X-ray Transient",
+            "Time": "19 ks",
+            "Date": "2000 January 29"
+        },
+        {
+            "Name": "transient MeV source discovered by AGILE",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient MeV source",
+            "Time": "~1 day",
+            "Date": "2008 February 21"
+        }
+    ],
+    "References": [
+        "ATel #2959",
+        "ATel #2962",
+        "ATel #1394"
+    ],
+    "Event Type": "galactic transient discovery",
+    "Time": "19 ks",
+    "Date": "2000 January 29",
+    "Telescope": "BeppoSAX/MECS, INTEGRAL/IBIS, Swift/XRT, AGILE",
+    "Instrument": "MECS, PDS, BAT",
+    "Observatory": "BeppoSAX, INTEGRAL, Swift, AGILE"
+}

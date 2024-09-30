@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12bld",
+            "RA": "13:42:44.02",
+            "Dec": "08:05:33.75",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "March 31"
+        },
+        {
+            "Name": "LSQ12bkl",
+            "RA": "12:35:39.93",
+            "Dec": "03:51:19.32",
+            "redshift": "0.073",
+            "Type": "Ibc",
+            "Time": null,
+            "Date": "March 31"
+        }
+    ],
+    "References": null,
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "WFCCD",
+    "Observatory": "La Silla"
+}

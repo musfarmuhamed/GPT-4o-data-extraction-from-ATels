@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0159,
+            "Type": "Type IIP supernova",
+            "Time": "17.4",
+            "Date": "January 17"
+        },
+        {
+            "Name": "ESO 381-IG048",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0159,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#6936",
+            "ApJ": "666, 1024",
+            "A&A": "465, 71"
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "17.4",
+    "Date": "January 17",
+    "Telescope": "Walter Baade Magellan 6.5m",
+    "Instrument": "IMACS",
+    "Observatory": "Las Campanas Observatory"
+}

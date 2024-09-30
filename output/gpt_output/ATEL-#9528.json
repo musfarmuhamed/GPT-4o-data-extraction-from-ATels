@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016gkg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1481 km/s",
+            "Type": "type-II supernova",
+            "Time": "21.9 UT",
+            "Date": "2016 Sep 21"
+        },
+        {
+            "Name": "NGC 613",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1481 km/s",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9521",
+        "ATel #9526",
+        "Koribalski et al. 2004, AJ, 128, 16",
+        "NED"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "21.9 UT",
+    "Date": "2016 Sep 21",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

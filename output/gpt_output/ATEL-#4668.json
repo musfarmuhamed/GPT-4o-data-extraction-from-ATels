@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES12C1a",
+            "RA": "03:38:54.5",
+            "Dec": "-27:32:28.2",
+            "redshift": 0.303,
+            "Type": "Ia",
+            "Time": "near max",
+            "Date": "2012 Dec 07"
+        },
+        {
+            "Name": "DES12C1b",
+            "RA": "03:35:05.8",
+            "Dec": "-26:45:53.9",
+            "redshift": 0.243,
+            "Type": "Ia",
+            "Time": "near max",
+            "Date": "2012 Dec 07"
+        },
+        {
+            "Name": "DES12C2a",
+            "RA": "03:41:13.1",
+            "Dec": "-28:59:37.9",
+            "redshift": 0.21,
+            "Type": "Ia",
+            "Time": "near max",
+            "Date": "2012 Dec 04"
+        }
+    ],
+    "References": [
+        "Bernstein et al. (2012, ApJ, 753, 152)",
+        "Howell et al 2002, BAAS, 34, 1256",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "SN discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "CTIO Blanco 4-m telescope",
+    "Instrument": "570-Megapixel Dark Energy Camera",
+    "Observatory": "Cerro Tololo Inter-American Observatory"
+}

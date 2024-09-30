@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15nr",
+            "RA": "17:26:41.84",
+            "Dec": "+13:54:35.47",
+            "redshift": "0.023206",
+            "Type": "supernova",
+            "Time": "2015-08-06.37",
+            "Date": "2015-08-06"
+        },
+        {
+            "Name": "CGCG 082-031",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.023206",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, G. Masi, ASAS-SN Homepage",
+    "Event Type": "Discovery",
+    "Time": "2015-08-06.37",
+    "Date": "2015-08-06",
+    "Telescope": "Brutus, Virtual Telescope Project 17-inch Planewave telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Ceccano"
+}

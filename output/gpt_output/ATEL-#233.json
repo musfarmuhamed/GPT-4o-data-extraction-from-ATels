@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2S 1711-339",
+            "RA": "17h14m19s.73",
+            "Dec": "-34:02:46.9",
+            "redshift": null,
+            "Type": "transient low-mass X-ray binary and type-I X-ray burst source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Probable Optical Counterpart of 2S 1711-339",
+            "RA": "17h14m19s.68",
+            "Dec": "-34:02:46.5",
+            "redshift": null,
+            "Type": "optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Carpenter et al. 1977, MNRAS,179,270; Wilson et al. 2003, ApJ,596,1220; Cornelisse et al. 2002, A&A,392,885",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2003 February 07",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3 CCD array",
+    "Observatory": "Las Campanas Observatory"
+}

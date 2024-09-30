@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J09189-4418",
+            "RA": "09h 18m 58.65s",
+            "Dec": "-44d 18m 34.49s",
+            "redshift": null,
+            "Type": "Probable AGN (2MASX J09185877-4418302)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17233-2837",
+            "RA": "17h 23m 22.83s",
+            "Dec": "-28d 37m 51.65s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18293-1213",
+            "RA": "18h 29m 20.01s",
+            "Dec": "-12d 12m 48.44s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bird et al. 2010, ApJS, 186, 1",
+        "Krivonos et al. 2010, arXiv:1006.4437"
+    ],
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

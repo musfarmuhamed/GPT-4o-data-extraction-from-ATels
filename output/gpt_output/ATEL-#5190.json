@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": "08:10:45",
+            "Date": "2013 July 2"
+        }
+    ],
+    "References": [
+        "Gotz et al. 2007, ApJ,655,L101",
+        "Romano et al. 2009, MNRAS,392,45",
+        "Sidoli et al. 2009, MNRAS,397,1528",
+        "Barthelmy et al. 2009, ATel #2178",
+        "Romano et al. 2010, ATel #2520",
+        "Mangano et al. 2011, ATel #3586",
+        "Krimm et al, 2006, ATel #904"
+    ],
+    "Event Type": "outburst",
+    "Time": "08:10:45",
+    "Date": "2013 July 2",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

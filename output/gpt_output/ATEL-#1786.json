@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": "2008-08-13"
+        },
+        {
+            "Name": "V709 Cas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-08-21"
+        }
+    ],
+    "References": [
+        "ATel #1660",
+        "ATel #1664",
+        "ATel #1665",
+        "ATel #1666",
+        "ATel #1668",
+        "ATel #1726",
+        "ATel #357"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": null,
+    "Date": "2008-08-13",
+    "Telescope": "Rossi X-ray Timing Explorer",
+    "Instrument": "Proportional Counter Array",
+    "Observatory": "RXTE/PCA"
+}

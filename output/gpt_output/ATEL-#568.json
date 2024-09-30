@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2005cy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036,
+            "Type": "IIn",
+            "Time": "16.33 UT",
+            "Date": "2005 July 16"
+        },
+        {
+            "Name": "SN 2005cx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "16.46 UT",
+            "Date": "2005 July 16"
+        }
+    ],
+    "References": [
+        "Sehgal, Newton and Puckett 2005; CBET #180",
+        "Dimai 2005; CBET #179"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Hale 200\" telescope",
+    "Instrument": "DBSP spectrograph",
+    "Observatory": "Palomar Observatory"
+}

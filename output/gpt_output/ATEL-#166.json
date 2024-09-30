@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1814-338",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray transient and accretion-driven millisecond X-ray pulsar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "EXMS B1810-337",
+            "RA": "Variable, corner coordinates: [273.679, 273.507, 273.242, 273.410]",
+            "Dec": "Variable, corner coordinates: [-34.456, -32.963, -32.983, -34.477]",
+            "redshift": "Null",
+            "Type": "X-ray source",
+            "Time": "2 September 1984",
+            "Date": "2 September 1984"
+        }
+    ],
+    "References": [
+        "IAUC 8144",
+        "ATEL #164",
+        "ATEL #165",
+        "Reynolds et al. 1999",
+        "Swank & Markwardt 2001 (astro-ph/0109240)"
+    ],
+    "Event Type": "Observation and Identification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "RXTE/PCA (bulge scan observations)",
+    "Instrument": "Null",
+    "Observatory": "EXOSAT"
+}

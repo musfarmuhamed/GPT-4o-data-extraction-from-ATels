@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010 June 25"
+        },
+        {
+            "Name": "new radio source",
+            "RA": "17h 02m 49.25s",
+            "Dec": "-48\u00b0 47' 22.59\"",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": "2010 June 25"
+        }
+    ],
+    "References": [
+        "ATel #2525",
+        "Gallo et al. 2004, MNRAS, 347, L52",
+        "ATel #2577",
+        "Corbel et al. 2002, Science, 298, 196"
+    ],
+    "Event Type": "radio observations",
+    "Time": null,
+    "Date": "2010 June 25",
+    "Telescope": "ATCA",
+    "Instrument": "CABB back-end",
+    "Observatory": "Australia Telescope Compact Array"
+}

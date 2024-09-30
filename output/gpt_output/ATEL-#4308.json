@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMM J174457-2850.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "thermonuclear burst (type-I X-ray burst)",
+            "Time": "2012-08-11T00:00:00Z",
+            "Date": "2012-08-11"
+        }
+    ],
+    "References": [
+        "Degenaar & Wijnands 2010, A&A 524, 69",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Falanga et al. 2008, A&A, 484, 43",
+        "Kuulkers et al. 2003, A&A 399, 663"
+    ],
+    "Event Type": "thermonuclear burst (type-I X-ray burst)",
+    "Time": "2012-08-11T00:00:00Z",
+    "Date": "2012-08-11",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

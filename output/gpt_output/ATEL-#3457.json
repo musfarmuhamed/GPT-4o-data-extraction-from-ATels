@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3988 (1986 LA)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Amor-type NEO",
+            "Time": [
+                "14:33",
+                "15:27",
+                "16:32",
+                "18:34"
+            ],
+            "Date": [
+                "2011-06-14",
+                "2011-06-15",
+                "2011-06-16",
+                "2011-06-18"
+            ]
+        }
+    ],
+    "References": [
+        "Helin et al. 1986: IAU Circ. 4228",
+        "Shoemaker & Helin (1978; N7829022)",
+        "Bus & Binzel 2002",
+        "Lowell Astorb Database",
+        "JPL Database"
+    ],
+    "Event Type": "Photometric observation",
+    "Time": [
+        "14:33",
+        "15:27",
+        "16:32",
+        "18:34"
+    ],
+    "Date": [
+        "2011-06-14",
+        "2011-06-15",
+        "2011-06-16",
+        "2011-06-18"
+    ],
+    "Telescope": "JPL Table Mountain 0.6-m telescope",
+    "Instrument": null,
+    "Observatory": "Jet Propulsion Laboratory"
+}

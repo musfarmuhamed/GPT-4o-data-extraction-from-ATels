@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J183934.91+414404.2",
+            "RA": "18h 39m 34.91s",
+            "Dec": "+41d 44m 04.2s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2015-09-16.89003",
+            "Date": "2015-09-16"
+        },
+        {
+            "Name": "SDSSJ183934.84+414404.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "2015-09-16.89003",
+    "Date": "2015-09-16",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

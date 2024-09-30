@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS120618:133350+260807",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.071,
+            "Type": "type-Ia supernova",
+            "Time": "17.87 UT",
+            "Date": "Jul."
+        },
+        {
+            "Name": "PSN J16234592+0947123",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03403,
+            "Type": "type-Ia supernova",
+            "Time": "17.92 UT",
+            "Date": "Jul."
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "Emilio E. et al 1999, PASP 111",
+        "Harutyuyan et al. 2008, A.Ap. 488, 383"
+    ],
+    "Event Type": "spectroscopic confirmations",
+    "Time": null,
+    "Date": "Jul.",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": null
+}

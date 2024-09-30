@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER J045303.80+182623.5",
+            "RA": "04h 53m 03.80s",
+            "Dec": "+18d 26m 23.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:10:00 UT",
+            "Date": "2012-09-25"
+        },
+        {
+            "Name": "J045303.94+182623.2",
+            "RA": "04h 53m 03.94s",
+            "Dec": "+18d 26m 23.2s",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OT MASTER J162741.16+362836.0",
+            "RA": "16h 27m 41.16s",
+            "Dec": "+36d 28m 36.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "13:30:39 UT",
+            "Date": "2012-09-24"
+        },
+        {
+            "Name": "OT MASTER223422.69+321307.3",
+            "RA": "22h 34m 22.69s",
+            "Dec": "+32d 13m 07.3s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "14:53:54 UT",
+            "Date": "2012-09-24"
+        },
+        {
+            "Name": "GSC 2.3.2",
+            "RA": "22h 34m 22.774s",
+            "Dec": "+32d 13m 07.30s",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/045303.80182623.5.png; http://master.sai.msu.ru/static/OT/162741.16362836.0.png; http://master.sai.msu.ru/static/OT/J22342269+3213073-DSS-anim.gif; http://master.sai.msu.ru/static/OT/223422.69321307.3_1.png",
+    "Event Type": "OT (Optical Transient)",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "Auto-detection system",
+    "Observatory": "Kislovodsk; Tunka; Amur"
+}

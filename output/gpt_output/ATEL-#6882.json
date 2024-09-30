@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14lv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.049(host)",
+            "Type": "Ia",
+            "Time": "+29d",
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-14me",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018(host)",
+            "Type": "Ia",
+            "Time": "+0d",
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-14mg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031(SN)",
+            "Type": "Ia",
+            "Time": "+28d",
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-14mw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0274",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-14my",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0205",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-15ab",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0178",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2015 January 2-4"
+        },
+        {
+            "Name": "ASASSN-15ad",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024(host)",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2015 January 2-4"
+        }
+    ],
+    "References": [
+        "ATel #6809",
+        "ATel #6830",
+        "ATel #6836",
+        "ATel #6858",
+        "ATel #6860",
+        "ATel #6864",
+        "ATel #6867"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2015 January 2-4",
+    "Telescope": "Magellan Baade Telescope",
+    "Instrument": "IMACS",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "01:57 UTC - 01:04 UTC",
+            "Date": "April 15 - April 17"
+        }
+    ],
+    "References": [
+        "ATel #2545",
+        "ATel #2523",
+        "ATel #2556",
+        "ATel #2455",
+        "ATel #2549",
+        "ATel #2547"
+    ],
+    "Event Type": null,
+    "Time": "01:57 UTC - 01:04 UTC",
+    "Date": "April 15 - April 17",
+    "Telescope": [
+        "INTEGRAL",
+        "Swift",
+        "RXTE",
+        "Faulkes"
+    ],
+    "Instrument": [
+        "JEM-X",
+        "ISGRI",
+        "XRT",
+        "PCA"
+    ],
+    "Observatory": null
+}

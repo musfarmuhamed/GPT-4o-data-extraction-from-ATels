@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BQ Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Binary system (variable Be type star and neutron star)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL#1792",
+        "ATEL#2319",
+        "ATEL#2369",
+        "ATEL#1803"
+    ],
+    "Event Type": "Optical observation and X-ray outbursts",
+    "Time": "2009-12-21 21:39 UT",
+    "Date": "2009",
+    "Telescope": "60-cm telescope, Russian 6m telescope",
+    "Instrument": "Apogee-47p CCD, SCORPIO spectral camera",
+    "Observatory": "SAI Crimean station"
+}

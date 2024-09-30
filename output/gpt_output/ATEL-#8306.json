@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15bor",
+            "RA": "02 43 16.08",
+            "Dec": "-18 10 52.5",
+            "redshift": "0.055",
+            "Type": "II",
+            "Time": "N/A",
+            "Date": "20151109"
+        },
+        {
+            "Name": "LSQ15bpd",
+            "RA": "05 02 46.69",
+            "Dec": "-18 32 11.1",
+            "redshift": "0.081",
+            "Type": "Ia",
+            "Time": "N/A",
+            "Date": "20151116"
+        },
+        {
+            "Name": "PSNJ22305942-1359561",
+            "RA": "22 30 59.41",
+            "Dec": "-13 59 56.1",
+            "redshift": "0.016",
+            "Type": "IIb",
+            "Time": "N/A",
+            "Date": "20151110"
+        },
+        {
+            "Name": "OGLE15rd",
+            "RA": "00 29 34.51",
+            "Dec": "-67 59 52.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "N/A",
+            "Date": "20151114"
+        },
+        {
+            "Name": "PS15cwi",
+            "RA": "09 21 31.27",
+            "Dec": "+05 10 26.7",
+            "redshift": "0.058",
+            "Type": "II",
+            "Time": "N/A",
+            "Date": "20151013"
+        },
+        {
+            "Name": "PS15cwz",
+            "RA": "23 52 09.61",
+            "Dec": "-29 04 44.6",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "N/A",
+            "Date": "20151117"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "N/A",
+    "Date": "2015 Nov. 18",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

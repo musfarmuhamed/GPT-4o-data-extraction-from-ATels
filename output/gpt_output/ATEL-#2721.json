@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "N/A",
+            "Date": "8 June 2010"
+        }
+    ],
+    "References": [
+        "Atel #2711",
+        "Atel #2714",
+        "Zhang et al, ApJ 477, L95, 1997"
+    ],
+    "Event Type": "hard-to-soft state transition",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "GBM",
+        "MAXI-GSC",
+        "RXTE-ASM"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MGRO J2019+37",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "TeV source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2021+3716",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EGRET source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GeV J2020+3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GeV source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J2021.1+3651",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2016+3657",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EGRET source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "B2013+370",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J20188+3647",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "INTEGRAL source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1308",
+        "Mallory S. E. Roberts et al. 2002, ApJ, 577, L19",
+        "Halpern et al. 2001, ApJ, 551, 1016",
+        "Sguera et al. 2006, ATel #873"
+    ],
+    "Event Type": "AGILE detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

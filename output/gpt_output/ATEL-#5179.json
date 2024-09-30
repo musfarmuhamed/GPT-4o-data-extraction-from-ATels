@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": "2013-06-28"
+        }
+    ],
+    "References": [
+        "D'Elia et al., GCN Circ. 14946",
+        "Krimm et al. 2007, Atel #1265",
+        "Sidoli et al. 2009, ApJ, 690, 120",
+        "Sidoli et al. 2009, MNRAS, 397, 1528",
+        "Krimm et al. 2009, Atel #1971",
+        "Romano et al. 2011, MNRAS, 410, 1825",
+        "Romano et al. 2011, MNRAS, 412, L30",
+        "Farinelli et al. 2012, MNRAS, 424, 2854",
+        "Romano et. al 2012, ATel #4040",
+        "Romano et al. 2012, ATel #4275",
+        "Krimm et al, 2006, ATel #904"
+    ],
+    "Event Type": "outburst",
+    "Time": "07:26:21 UT",
+    "Date": "2013-06-28",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

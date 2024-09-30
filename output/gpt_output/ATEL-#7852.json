@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accreting Millisecond X-ray Pulsar (AMXP)",
+            "Time": "119 s after the BAT trigger",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #7836",
+        "Atel #7837",
+        "Atel #7849",
+        "Torres et al. 2008, ApJ, 672, 1079"
+    ],
+    "Event Type": "Thermonuclear, type-I X-ray burst",
+    "Time": "400 s in total",
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT in WT mode",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004008.26+492807.5",
+            "RA": "00h 40m 08.26s",
+            "Dec": "+49d 28m 07.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "00:00:00",
+            "Date": "2013-02-23"
+        },
+        {
+            "Name": "MASTER OT J173432.51+434219.4",
+            "RA": "17h 34m 32.51s",
+            "Dec": "+43d 42m 19.4s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "00:00:00",
+            "Date": "2013-02-23"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-09-24",
+            "Time": "16:30:38",
+            "Magnitude Limit": "19.3m"
+        },
+        {
+            "Date": "2012-10-19",
+            "Time": "10:02:38",
+            "Magnitude Limit": "18.5m"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "00:00:00",
+    "Date": "2013-02-23",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Lupus 2016",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2016-09-25"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9538",
+        "ATel #9539",
+        "CBET #4322",
+        "ATel #9550",
+        "Fermi-LAT collaboration, 2014 Science 345, 554",
+        "Cheung et al. 2016 ApJ 826, 142",
+        "ATel #9588"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2016-09-28",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Observatory"
+}

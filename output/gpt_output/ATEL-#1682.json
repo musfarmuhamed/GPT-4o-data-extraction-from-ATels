@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2008-08-22 12:43:36 s UT to 2008-08-24 01:35:43 s UT",
+            "Date": "2008-08-22 to 2008-08-24"
+        },
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2008-08-26 05:14:58 s UT to 2008-08-27 02:31:59 s UT",
+            "Date": "2008-08-26 to 2008-08-27"
+        }
+    ],
+    "References": [
+        "Cusumano, Massaro & Mineo, 2003, A&A, 402, 647",
+        "Gogus et al. 2008, ATEL #1677"
+    ],
+    "Event Type": "Observation",
+    "Time": "2008-08-22 12:42:08.278 s",
+    "Date": "2008-08-22",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

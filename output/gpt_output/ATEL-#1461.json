@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17473-2721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "16:55",
+            "Date": "2008 April 1"
+        },
+        {
+            "Name": "XTE J1747-274",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1459",
+        "ATel #1460",
+        "ATel #467",
+        "ATel #498",
+        "ATel #1445",
+        "ATel #1385"
+    ],
+    "Event Type": "X-ray burst detection",
+    "Time": null,
+    "Date": "2008 April 1",
+    "Telescope": "Swift/XRT, RXTE/PCA, INTERAL/IBIS/ISGRI, SuperAGILE",
+    "Instrument": "XRT, PCA, IBIS/ISGRI, SuperAGILE",
+    "Observatory": null
+}

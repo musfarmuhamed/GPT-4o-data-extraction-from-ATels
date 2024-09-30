@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER J225118.18+191800.9",
+            "RA": "22h 51m 18.18s",
+            "Dec": "+19d 18m 00.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-10-01.92683 UT",
+            "Date": "2012-10-01"
+        },
+        {
+            "Name": "OT MASTER J194741.84-020348.9",
+            "RA": "19h 47m 41.84s",
+            "Dec": "-02d 03m 48.4s",
+            "redshift": null,
+            "Type": "Likely a new cataclysmic variable (dwarf nova) in outburst",
+            "Time": "2012-10-04.66721 UT",
+            "Date": "2012-10-04"
+        },
+        {
+            "Name": "OT MASTER J192739.31+020014.3",
+            "RA": "19h 27m 39.31s",
+            "Dec": "+02d 00m 14.3s",
+            "redshift": null,
+            "Type": "New cataclysmic variable (dwarf nova) in outburst",
+            "Time": "2012-10-04.68036 UT",
+            "Date": "2012-10-04"
+        }
+    ],
+    "References": {
+        "OT MASTER J225118.18+191800.9": "http://master.sai.msu.ru/static/OT/225118.18191800.8_3.png",
+        "OT MASTER J194741.84-020348.9": "http://master.sai.msu.ru/static/OT/J194741-020348-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/194741.84-020348.4_1.png",
+        "OT MASTER J192739.31+020014.3": "http://master.sai.msu.ru/static/OT/J192739+020014-BRIR5x5.jpg, http://observ.pereplet.ru/images/OT_J192739.31+020014.jpg"
+    },
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "MASTER-Kislovodsk auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova 1",
+            "RA": "00h 43m 13.42s",
+            "Dec": "+41\u00b0 16' 58.9\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2006, May 8.1 UT",
+            "Date": "JD 2453863.6"
+        },
+        {
+            "Name": "Nova 2",
+            "RA": "00h 43m 13.94s",
+            "Dec": "+41\u00b0 20' 05.6\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2006, May 8.1 UT",
+            "Date": "JD 2453863.6"
+        }
+    ],
+    "References": "ATEL #805",
+    "Event Type": null,
+    "Time": "2006, May 8.1 UT",
+    "Date": "JD 2453863.6",
+    "Telescope": "Wendelstein 0.8 m telescope",
+    "Instrument": "1k x 1k CCD camera with 24\u00b5m sq. pixels",
+    "Observatory": null
+}

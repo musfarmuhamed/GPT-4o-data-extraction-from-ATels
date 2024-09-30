@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J010253.1-724433",
+            "RA": "01:02:53.1",
+            "Dec": "-72:44:33",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "N/A",
+            "Date": "2006-10-02"
+        },
+        {
+            "Name": "XTE J0103-728",
+            "RA": "01:02:53.1",
+            "Dec": "-72:44:33",
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "N/A",
+            "Date": "2006-10-02"
+        },
+        {
+            "Name": "SXP6.85",
+            "RA": "01:02:53.1",
+            "Dec": "-72:44:33",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "N/A",
+            "Date": "2006-10-02"
+        }
+    ],
+    "References": "UBVR CCD Survey of the Magellanic Clouds by Massey (2002, ApJS, 141, 81)",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2006-10-02",
+    "Telescope": "XMM-Newton",
+    "Instrument": null,
+    "Observatory": null
+}

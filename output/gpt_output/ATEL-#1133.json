@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "01:25:11",
+            "Date": "2007-07-06"
+        }
+    ],
+    "References": [
+        "ATels #1105",
+        "#1107",
+        "#1108",
+        "#1111",
+        "#1114",
+        "#1117"
+    ],
+    "Event Type": "non detection",
+    "Time": "01:25:11",
+    "Date": "2007-07-06",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra X-ray Center"
+}

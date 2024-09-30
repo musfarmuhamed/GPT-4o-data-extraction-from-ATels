@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AP Lib",
+            "RA": "229.424221 deg",
+            "Dec": "-24.372076 deg",
+            "redshift": "0.0490",
+            "Type": "BL Lac object",
+            "Time": "06:00-12:00 UT",
+            "Date": "2016 August 30"
+        },
+        {
+            "Name": "PKS 1514-24",
+            "RA": "229.424221 deg",
+            "Dec": "-24.372076 deg",
+            "redshift": "0.0490",
+            "Type": "BL Lac object",
+            "Time": "06:00-12:00 UT",
+            "Date": "2016 August 30"
+        },
+        {
+            "Name": "3FGL J1517.6-2422",
+            "RA": "229.424221 deg",
+            "Dec": "-24.372076 deg",
+            "redshift": "0.0490",
+            "Type": "BL Lac object",
+            "Time": "06:00-12:00 UT",
+            "Date": "2016 August 30"
+        }
+    ],
+    "References": "Johnston et al. 1995, AJ, 110, 880; Jones et al. 2009, MNRAS, 399, 683; Acero et al. 2015, ApJS, 218, 23; ATel#3187; ATel#2743",
+    "Event Type": "flaring GeV gamma-ray activity",
+    "Time": "06:00-12:00 UT",
+    "Date": "2016 August 30",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

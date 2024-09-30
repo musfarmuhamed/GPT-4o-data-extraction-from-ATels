@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J214303.7+065419",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RBS 1774",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dim isolated neutron star (XDINS)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J130848.6+212708 (RBS 1223)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Zane et al. (astro-ph/0503239)",
+        "Taylor et al. 1995",
+        "Malofeev et al. (IAU Symp. 218, ASP Conf. Ser., p. 261, 2004; Astron Rep. 49, 242, 2005)"
+    ],
+    "Event Type": "detection of radio pulses",
+    "Time": "9.43707(10) s",
+    "Date": [
+        "March 2005",
+        "October-March 2005-2006"
+    ],
+    "Telescope": "Large Phased Array",
+    "Instrument": "multi-channel receiver",
+    "Observatory": "Pushchino Radio Astronomy Observatory (PRAO, Russia)"
+}

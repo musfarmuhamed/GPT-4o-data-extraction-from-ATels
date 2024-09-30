@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP 85.4",
+            "RA": "00h 57m 12s",
+            "Dec": "-72o 18' 00\"",
+            "redshift": null,
+            "Type": "Be/neutron star high-mass X-ray binary",
+            "Time": null,
+            "Date": "2010-08-21"
+        },
+        {
+            "Name": "SXP 169",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP 172",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SMC X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.astro.soton.ac.uk/~mjc/smc/",
+        "Galache et al. 2008, ApJS, 177, 189",
+        "Coe et al. 2005, MNRAS, 356, 502"
+    ],
+    "Event Type": "Pulsations detected",
+    "Time": "85.4 +/- 0.1 s",
+    "Date": [
+        "2010-08-16",
+        "2010-08-21",
+        "2010-05-25"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

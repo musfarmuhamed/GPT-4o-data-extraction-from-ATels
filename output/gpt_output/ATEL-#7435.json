@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass Be/X-ray binary",
+            "Time": null,
+            "Date": "20150128-20150214"
+        },
+        {
+            "Name": "HD245770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": [
+                "20150206",
+                "20150211",
+                "20150213",
+                "20150215",
+                "20150224",
+                "20150301",
+                "20150304",
+                "20150311",
+                "20150313",
+                "20150315",
+                "20150327"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #7015",
+        "ATel #7029",
+        "ATel #7030",
+        "Waters & Marlborough, 1992, A&A, 256, 195",
+        "Reig et al., 2014, MNRAS, 445, 4235"
+    ],
+    "Event Type": "increased X-ray activity",
+    "Time": null,
+    "Date": "20150128-20150214",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "RINGO3 polarimeter",
+    "Observatory": null
+}

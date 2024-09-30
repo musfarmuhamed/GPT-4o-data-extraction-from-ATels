@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cwz",
+            "RA": "23 52 09.61",
+            "Dec": "-29 04 44.6",
+            "redshift": 0.029,
+            "Type": "Probable Supernova",
+            "Time": null,
+            "Date": "20151117"
+        },
+        {
+            "Name": "PS15cwx",
+            "RA": "05 14 47.80",
+            "Dec": "+07 03 01.3",
+            "redshift": null,
+            "Type": "Probable Supernova",
+            "Time": null,
+            "Date": "20151117"
+        }
+    ],
+    "References": [
+        "http://star.pst.qub.ac.uk/ps1threepi/",
+        "Huber et al. ATel #7153"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "20151117",
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

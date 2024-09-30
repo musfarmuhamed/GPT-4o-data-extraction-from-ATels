@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #5995",
+        "#6021",
+        "#6115",
+        "#6119",
+        "Grinberg et al. 2013 (A&A 554, A88)"
+    ],
+    "Event Type": "Soft to hard transition",
+    "Time": "2014",
+    "Date": "June",
+    "Telescope": "MAXI and BAT",
+    "Instrument": [
+        "MAXI monitoring instrument",
+        "BAT monitoring instrument"
+    ],
+    "Observatory": null
+}

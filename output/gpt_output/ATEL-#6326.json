@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J22340480+6826240",
+            "RA": "22:34:04.80",
+            "Dec": "+68:26:24.0",
+            "redshift": 0.0145,
+            "Type": "Ia-norm",
+            "Time": null,
+            "Date": "2014-07-18T22:48:00Z"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, in press, http://arxiv.org/abs/1403.7233",
+        "http://www.cbat.eps.harvard.edu/unconf/tocp.html",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "http://sngroup.oapd.inaf.it"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2014-07-18",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

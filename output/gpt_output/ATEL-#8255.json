@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15crs",
+            "RA": "21 23 30.80",
+            "Dec": "-07 44 47.8",
+            "redshift": "0.028",
+            "Type": "II",
+            "Time": "~0d",
+            "Date": "20151029"
+        },
+        {
+            "Name": "PS15crp",
+            "RA": "01 22 24.74",
+            "Dec": "-13 47 35.0",
+            "redshift": "0.047",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "20151029"
+        },
+        {
+            "Name": "PS15coo",
+            "RA": "02 59 30.75",
+            "Dec": "-08 13 10.5",
+            "redshift": "0.030",
+            "Type": "Ia",
+            "Time": "30d",
+            "Date": "20151028"
+        },
+        {
+            "Name": "OGLE15om",
+            "RA": "03 19 00.00",
+            "Dec": "-64 40 40.2",
+            "redshift": "0.100",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "20151022"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2015 Nov. 7",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "ESO La Silla"
+}

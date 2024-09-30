@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova 2009N",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.003449",
+            "Type": "SN IIP",
+            "Time": "2009-01-27.63",
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #1670",
+        "CBET #1671"
+    ],
+    "Event Type": null,
+    "Time": "2009-01-27.63",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": "Swift"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J141922.56-083831.7",
+            "RA": "14h 19m 22.56s",
+            "Dec": "-08d 38m 31.7s",
+            "redshift": null,
+            "Type": "bright blazar flare",
+            "Time": "UT",
+            "Date": "2015-02-21.98773"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2014-02-06.012",
+            "Magnitude": "17.3",
+            "Limit": "19m"
+        },
+        {
+            "Date": "2013-12-25 03:23:33.231",
+            "Magnitude": "17.5m",
+            "Limit": null
+        },
+        {
+            "Date": "2012-02-23.059",
+            "Magnitude": "18.9m",
+            "Limit": null
+        }
+    ],
+    "Event Type": "optical transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

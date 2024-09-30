@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1626.6-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "probable low mass X-ray binary hosting a slowly rotating pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "Palmer et al.",
+            "ATEL": "#678"
+        },
+        {
+            "Name": "Markwardt & Swank",
+            "ATEL": "#679"
+        },
+        {
+            "Name": "Campana et al.",
+            "ATEL": "#688"
+        }
+    ],
+    "Event Type": "infrared observations",
+    "Time": null,
+    "Date": "2006-01-15 to 2006-01-25",
+    "Telescope": "REM",
+    "Instrument": "REMIR Camera",
+    "Observatory": "La Silla Observatory"
+}

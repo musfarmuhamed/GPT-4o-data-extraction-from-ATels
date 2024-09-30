@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J023414.54+454307.3",
+            "RA": "02h 34m 14.54s",
+            "Dec": "+45d 43m 07.3s",
+            "redshift": null,
+            "Type": "possbile dwarf nova outburst",
+            "Time": "2017-09-08.74044 UT",
+            "Date": "2017-09-08"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2016-10-08",
+            "Time": "2016-10-08.74078 UT",
+            "Description": "We have reference image without OT with unfiltered magnitude limit 18.0m"
+        },
+        {
+            "Date": "2014-08-22",
+            "Time": "22:32:28 UT",
+            "Description": "We have reference image without OT with unfiltered magnitude limit 19.8m"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2017-09-08.74044 UT",
+    "Date": "2017-09-08",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

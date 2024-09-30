@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1741.9-2853",
+            "RA": "17h 45m 2.34s",
+            "Dec": "-28o 54' 49.9\"",
+            "redshift": null,
+            "Type": "transient low-mass X-ray binary",
+            "Time": "03:29:33",
+            "Date": "2007 Feb 22"
+        },
+        {
+            "Name": "GRO J1744-28",
+            "RA": "17h 44m 33.09s",
+            "Dec": "-28o 44' 27.2\"",
+            "redshift": null,
+            "Type": "transient low-mass X-ray binary",
+            "Time": "03:29:33",
+            "Date": "2007 Feb 22"
+        },
+        {
+            "Name": "XMM J174457-2850.3",
+            "RA": "17h 44m 57.46s",
+            "Dec": "-28o 50' 21.0\"",
+            "redshift": null,
+            "Type": "very faint X-ray transient",
+            "Time": "03:29:33",
+            "Date": "2007 Feb 22"
+        }
+    ],
+    "References": "ATel #1005, #1006, #1008, Muno et al. (2003, ApJ, 598, 474), Wijnands & Wang 2002, ApJ, 568, L93, Sakano et al. 2005, Wijnands et al. 2006",
+    "Event Type": "observation",
+    "Time": "03:29:33",
+    "Date": "2007 Feb 22",
+    "Telescope": "Chandra X-ray observatory",
+    "Instrument": "ACIS-I",
+    "Observatory": null
+}

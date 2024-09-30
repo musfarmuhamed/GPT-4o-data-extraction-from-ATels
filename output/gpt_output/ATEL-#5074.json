@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.1-290005",
+            "RA": "17:45:39.86",
+            "Dec": "-29:00:02.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2013-05-15 to 2013-05-19"
+        }
+    ],
+    "References": "Atels #5006, #5009, #5011, #5020, #5032, #5037, #5046, #5053, #5073; Kennea et al. 2013; Mori et al. 2013; Muno et al. 2005; Degenaar & Wijnands 2009",
+    "Event Type": "Daily monitoring observations",
+    "Time": "1.0 ks PC mode",
+    "Date": "2013-05-15 to 2013-05-19",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

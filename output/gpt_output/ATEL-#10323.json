@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": "17:45:35.92",
+            "Dec": "-29:01:30.0",
+            "redshift": null,
+            "Type": "eclipsing low-mass X-ray binary and thermonuclear X-ray burster",
+            "Time": null,
+            "Date": "April 24-25, 2023"
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2015, JHEAp, 7, 137",
+        "Evans et al. 2007, A&A 469, 379",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "Goad et al. 2007, A&A 476, 1401",
+        "ATel #1513",
+        "ATels #5226, #9196"
+    ],
+    "Event Type": "X-ray activity detection",
+    "Time": null,
+    "Date": "April 24-25, 2023",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

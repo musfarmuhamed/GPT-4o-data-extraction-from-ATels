@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "00:27",
+            "Date": "October 22"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "04:59",
+            "Date": "October 24"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray transient",
+            "Time": "21:01",
+            "Date": "October 24"
+        }
+    ],
+    "References": [
+        "ATels #607",
+        "ATels #612",
+        "http://tahti.mit.edu/opensource/1655",
+        "Kong et al. 2002, ApJ, 570, 277"
+    ],
+    "Event Type": "Monitoring campaign",
+    "Time": null,
+    "Date": "September 23 to October 10",
+    "Telescope": [
+        "RXTE",
+        "Swift"
+    ],
+    "Instrument": [
+        "PCA",
+        "XRT"
+    ],
+    "Observatory": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": "Feb 10, 2011"
+        },
+        {
+            "Name": "HDE 245770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical counterpart",
+            "Time": null,
+            "Date": "Jan 19, 2011"
+        }
+    ],
+    "References": "ATel #2970",
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "Feb 2011",
+    "Telescope": "Earth Occultation technique",
+    "Instrument": "Fermi/GBM",
+    "Observatory": [
+        "Liverpool (La Palma, Spain)",
+        "Sierra Nevada (Granada, Spain)"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IC 310",
+            "RA": "03h 16m 43.0s",
+            "Dec": "+41d 19m 29s",
+            "redshift": 0.0189,
+            "Type": "TeV radio-loud galaxy, blazar-type central engine",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Falco et al. 1999",
+        "Kadler et al. 2012, A&A, 538, L1",
+        "J. Aleksic et al. (MAGIC Coll.), Astrophys. J. 723(2010) L207"
+    ],
+    "Event Type": "high VHE gamma-ray flux observation",
+    "Time": {
+        "Start": "MJD 56243.9",
+        "End": "MJD 56244.1"
+    },
+    "Date": "November 12, 2012",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": null
+}

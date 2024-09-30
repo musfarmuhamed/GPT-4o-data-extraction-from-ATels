@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009ip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-IIn",
+            "Time": null,
+            "Date": "Sept. 4, 2012"
+        },
+        {
+            "Name": "Unnamed source close-by to SN 2009ip",
+            "RA": "22 23 09.32",
+            "Dec": "-28 55 50.2",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smith & Mauerhan (2012, ATel #4412)",
+        "Margutti et al. (2012, ATel #4414)",
+        "Maza et al. 2009, CBET 1928"
+    ],
+    "Event Type": "Observation",
+    "Time": "45 ks",
+    "Date": "Sept. 4, 2012",
+    "Telescope": "Swift X-ray Telescope (XRT)",
+    "Instrument": "XIMAGE/sosta",
+    "Observatory": "Swift Observatory"
+}

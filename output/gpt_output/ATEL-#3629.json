@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 1530-131 (PMN J1532-1319)",
+            "RA": "233.16 deg",
+            "Dec": "-13.34 deg",
+            "redshift": null,
+            "Type": "gamma-ray transient",
+            "Time": "19:54 UT",
+            "Date": "2011 August 31"
+        },
+        {
+            "Name": "X-ray source in the XRT field-of-view",
+            "RA": "15h32m45.4s",
+            "Dec": "-13d19'11.9\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #3579, Goad et al. 2007, Evans et al. 2009, Healey et al. 2008",
+    "Event Type": "gamma-ray transient flaring",
+    "Time": null,
+    "Date": "2011 June to September 4, daily detection from August 30 to September 4, additional observations on August 31",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

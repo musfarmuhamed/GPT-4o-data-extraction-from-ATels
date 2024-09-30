@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13bxl",
+            "RA": "14h 29m 14.78s",
+            "Dec": "+15d 46' 26.4\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:17 UT",
+            "Date": "2013-07-02"
+        },
+        {
+            "Name": "SDSS J142914.75+154626.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J142914.57+154619.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.09 +/- 0.02",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": null,
+    "Time": "04:17 UT",
+    "Date": "2013-07-02",
+    "Telescope": "Palomar 48 inch",
+    "Instrument": "Oschin telescope",
+    "Observatory": null
+}

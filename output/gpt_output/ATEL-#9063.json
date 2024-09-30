@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J200130.53-100736.8",
+            "RA": "20h 01m 30.53s",
+            "Dec": "-10d 07m 36.8s",
+            "redshift": null,
+            "Type": "bright high amplitude CV(>5.5m) or SN in SDSS galaxy",
+            "Time": "2016-05-16.94397 UT",
+            "Date": "2016-05-16"
+        },
+        {
+            "Name": "MASTER OT J192544.94-202113.1",
+            "RA": "19h 25m 44.94s",
+            "Dec": "-20d 21m 13.1s",
+            "redshift": null,
+            "Type": "bright dwarf nova outburst, Ampl>5.2m",
+            "Time": "2016-05-16.92341 UT",
+            "Date": "2016-05-16"
+        },
+        {
+            "Name": "MASTER OT J183747.26-520558.2",
+            "RA": "18h 37m 47.26s",
+            "Dec": "-52d 05m 58.2s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, ampl>4.9m",
+            "Time": "2016-05-15.91206 UT",
+            "Date": "2016-05-15"
+        },
+        {
+            "Name": "MASTER OT J155833.96-232213.9",
+            "RA": "15h 58m 33.96s",
+            "Dec": "-23d 22m 13.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, Ampl>3.6m",
+            "Time": "2016-05-12.01422 UT",
+            "Date": "2016-05-12"
+        },
+        {
+            "Name": "MASTER OT J171812.59+060815.8",
+            "RA": "17h 18m 12.59s",
+            "Dec": "+06d 08m 15.8s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, Ampl>4.6m",
+            "Time": "2016-05-16.92093 UT",
+            "Date": "2016-05-16"
+        },
+        {
+            "Name": "MASTER OT J145417.82-351735.6",
+            "RA": "14h 54m 17.82s",
+            "Dec": "-35d 17m 35.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, Ampl>4.7m",
+            "Time": "2016-05-11.97119 UT",
+            "Date": "2016-05-11"
+        }
+    ],
+    "References": [
+        {
+            "Time": "2016-05-14 03:30:422 UT",
+            "Date": "2016-05-14",
+            "Observatory": "MASTER-IAC",
+            "m_lim": 20.0
+        },
+        {
+            "Time": "2015-04-25.06574 UT",
+            "Date": "2015-04-25",
+            "Observatory": "MASTER-SAAO",
+            "m_lim": 19.3
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2016-05-16.94397 UT",
+    "Date": "2016-05-16",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

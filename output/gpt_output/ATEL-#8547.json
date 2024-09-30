@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Be X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4564",
+        "Kuehnel et al. (2013)",
+        "ATel #6917",
+        "ATel #6465",
+        "ATel #6630",
+        "ATel #6656",
+        "ATel #6664",
+        "ATel #6819",
+        "ATel #6823",
+        "ATel #7490"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MAXI",
+        "Swift BAT",
+        "Fermi/GBM"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

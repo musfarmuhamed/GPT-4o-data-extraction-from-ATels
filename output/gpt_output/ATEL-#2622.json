@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J1033.8+6048",
+            "RA": 158.483,
+            "Dec": 60.844,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "End of April",
+            "Date": "2010"
+        },
+        {
+            "Name": "S4 1030+61",
+            "RA": 158.46429,
+            "Dec": 60.85203,
+            "redshift": 1.4009,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GB6 J1032+6051",
+            "RA": 158.22483,
+            "Dec": 60.85767,
+            "redshift": 1.064,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, accepted, arXiv:1002.2280",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Schneider et al. 2005, AJ, 130, 367",
+        "Stickel & Kuehr 1994, A&AS, 103, 349",
+        "Adelman-McCarthy et al. 2008, ApJS, 175, 297",
+        "Abdo et al. 2010, ApJ, 715, 429"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": "Third quarter of the day",
+    "Date": "14th May 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

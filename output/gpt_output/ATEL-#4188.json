@@ -1,0 +1,87 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2007 LE",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "C-type",
+            "Time": null,
+            "Date": "2012-06-02"
+        },
+        {
+            "Name": "3389 Sinzot",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "C",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3762 Amaravella",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "143 Adria",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "C Xc",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "479 Caprera",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "C",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2930 Euripides",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "C",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": [
+                "Pravec et al."
+            ],
+            "Year": 2000
+        },
+        {
+            "Authors": [
+                "Lance Benner",
+                "JPL Planetary Radar Team"
+            ],
+            "Type": "personal communication"
+        }
+    ],
+    "Event Type": "Apparent binary nature discovery and photometric analysis",
+    "Time": [
+        "2012-06-01",
+        "2012-06-03",
+        "2012-06-05"
+    ],
+    "Date": [
+        "2012-06-01",
+        "2012-06-03",
+        "2012-06-05"
+    ],
+    "Telescope": "0.6-m telescope",
+    "Instrument": null,
+    "Observatory": "JPL Table Mountain Observatory"
+}

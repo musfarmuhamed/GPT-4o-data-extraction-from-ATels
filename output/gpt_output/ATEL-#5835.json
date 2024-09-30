@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J09554214+6940260",
+            "RA": "09:55:42.14",
+            "Dec": "+69:40:26.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2014J",
+            "RA": "09:55:42.14",
+            "Dec": "+69:40:26.0",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #3792, ATel #5786",
+    "Event Type": "Supernova (SN)",
+    "Time": "07:08",
+    "Date": "January 31, 2014",
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": "UCL Observatory"
+}

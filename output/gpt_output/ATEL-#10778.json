@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE17grm",
+            "RA": "1:20:30.89",
+            "Dec": "-63:30:10.6",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "less than 15 mins from observation",
+            "Date": "discovery_JD: 2458007.79564"
+        },
+        {
+            "Name": "OGLE17feo",
+            "RA": "5:00:59.88",
+            "Dec": "-67:42:29.1",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "less than 15 mins from observation",
+            "Date": "discovery_JD: 2458014.89876"
+        },
+        {
+            "Name": "OGLE17grf",
+            "RA": "5:04:27.37",
+            "Dec": "-70:44:29.8",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "less than 15 mins from observation",
+            "Date": "discovery_JD: 2458018.88375"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2014, AcA, 64, 197",
+        "Kozlowski et al. 2013",
+        "Klencki et al. 2016, AcA, 66, 15"
+    ],
+    "Event Type": "announcement of new transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

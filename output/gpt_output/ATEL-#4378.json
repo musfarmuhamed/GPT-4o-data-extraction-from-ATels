@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER J162101.40+683138.9",
+            "RA": "02h 01m 29.65s",
+            "Dec": "+26d 15m 40.4s",
+            "redshift": null,
+            "Type": "PSN or new cataclysmic variable (dwarf nova)",
+            "Time": "16.97896 UT",
+            "Date": "2012-09-16"
+        },
+        {
+            "Name": "MASTER J215751.35+152046.8",
+            "RA": "21h 57m 51.35s",
+            "Dec": "+15d 20m 46.8s",
+            "redshift": null,
+            "Type": "new cataclysmic variable",
+            "Time": "13.87523 UT",
+            "Date": "2012-09-13"
+        },
+        {
+            "Name": "MASTER J021835.49+004039.7",
+            "RA": "02h 18m 35.49s",
+            "Dec": "+00d 40m 39.7s",
+            "redshift": "3.877",
+            "Type": "flare in active quasar",
+            "Time": "16.02013 UT",
+            "Date": "2012-09-16"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/020129.65261540.4.png, http://master.sai.msu.ru/static/OT/215751.35152046.8_1.png, http://master.sai.msu.ru/static/OT/021835.49004039.7.png",
+    "Event Type": "OT source discovery",
+    "Time": "various",
+    "Date": "various",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

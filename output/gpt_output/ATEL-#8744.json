@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1736-297",
+            "RA": "17:39:29.983",
+            "Dec": "-29:42:08.71",
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "11:13 UT to 11:41 UT",
+            "Date": "2016-02-26"
+        }
+    ],
+    "References": [
+        {
+            "Author": "ATels #8698, #8704"
+        },
+        {
+            "Author": "Motch et al., A&A, 1998, 132, 341"
+        },
+        {
+            "Author": "Lawrence et al. 2007, MNRAS, 379, 1599"
+        },
+        {
+            "Author": "Deller et al. 2015, ApJ, 809, 13"
+        }
+    ],
+    "Event Type": "Radio Observations",
+    "Time": "11:13 UT to 11:41 UT",
+    "Date": "2016-02-26",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

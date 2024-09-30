@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6 J0713+5738",
+            "RA": 108.268946,
+            "Dec": 57.636144,
+            "redshift": null,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "2017-09-03"
+        },
+        {
+            "Name": "GB6 J0713+5738",
+            "RA": 108.268946,
+            "Dec": 57.636144,
+            "redshift": null,
+            "Type": "Flat-Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "2017-12-12"
+        }
+    ],
+    "References": [
+        "ATel #10149",
+        "Jackson et al. 2007 MNRAS, 376, 371"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": [
+        "2017-03-05",
+        "2017-09-03",
+        "2017-12-12"
+    ],
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

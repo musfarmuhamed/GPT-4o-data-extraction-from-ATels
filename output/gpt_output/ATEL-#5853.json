@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J121800.71+502112.8",
+            "RA": "12h 18m 00.71s",
+            "Dec": "+50d 21m 12.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-02-03.67354 UT",
+            "Date": "2014-02-03"
+        },
+        {
+            "Name": "MASTER OT J183521.81+442235.8",
+            "RA": "18h 35m 21.81s",
+            "Dec": "+44d 22m 35.8s",
+            "redshift": null,
+            "Type": "variable of UV Ceti type (flaring red dwarf)",
+            "Time": "2014-02-04.87547 UT",
+            "Date": "2014-02-04"
+        }
+    ],
+    "References": {
+        "MASTER OT J121800.71+502112.8": "2013-05-15.648 UT",
+        "MASTER OT J183521.81+442235.8": "2011-08-20.64162 UT"
+    },
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13dkj",
+            "RA": "23 08 50.77",
+            "Dec": "+20 04 08.7",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "Sep 12.22",
+            "Date": null
+        },
+        {
+            "Name": "iPTF13dkl",
+            "RA": "23 44 57.99",
+            "Dec": "+03 23 40.3",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "Sep 12.25",
+            "Date": null
+        },
+        {
+            "Name": "iPTF13dkx",
+            "RA": "01 20 53.14",
+            "Dec": "+03 20 23.7",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": "Sep 14.51",
+            "Date": null
+        }
+    ],
+    "References": "ATel #4807",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar Observatory"
+}

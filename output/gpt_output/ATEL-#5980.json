@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": "18h 18m 28s",
+            "Dec": "-17d 02' 45\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "08:28:20 UT",
+            "Date": "2014 March 13"
+        },
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": "18h 18m 37.87s",
+            "Dec": "-17d 02' 47.5''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "08:35:08.7 UT",
+            "Date": "2014 March 13"
+        }
+    ],
+    "References": [
+        "Goad et al (2007, A&A, 476, 1401)",
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "in't Zand et al. (2006, ATEL #915)",
+        "Romano, et al. 2014, A&A, 562, A2",
+        "Barthelmy et al. 2008, GCN 7419",
+        "Sidoli et al. 2009, MNRAS, 400, 258",
+        "Romano et al. 2012, Mem. SAIt S., 21, 210",
+        "Romano et al. 2009, ATel #2279",
+        "Krimm et al, 2013, ApJS, 209, 14"
+    ],
+    "Event Type": "outburst",
+    "Time": "08:28:20 UT",
+    "Date": "2014 March 13",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT)",
+    "Observatory": null
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J062210.50-542849.8",
+            "RA": "06h 22m 10.50s",
+            "Dec": "-54d 28m 49.8s",
+            "redshift": null,
+            "Type": "SuperNova",
+            "Time": "2015-04-08.82493 UT",
+            "Date": "2015-04-08"
+        },
+        {
+            "Name": "PGC148751=2MASX J06221166-5428525",
+            "RA": null,
+            "Dec": null,
+            "redshift": "14292",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/062210.50-542849.8.png"
+    ],
+    "Event Type": "Possible SuperNova",
+    "Time": "2015-04-08.82493 UT",
+    "Date": "2015-04-08",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

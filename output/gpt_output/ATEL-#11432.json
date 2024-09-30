@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "12:50",
+            "Date": "2018 March 11"
+        },
+        {
+            "Name": "ASASSN-18ey",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #11403",
+        "ATel #11404",
+        "ATel #11406",
+        "ATel #11418",
+        "ATel #11420",
+        "ATel #11421",
+        "ATel #11423",
+        "ATel #11424",
+        "ATel #11425",
+        "ATel #11426",
+        "http://www.faulkes-telescope.com/1820",
+        "https://swift.gsfc.nasa.gov/results/transients/weak/MAXIJ1820p070/",
+        "Gandhi et al. 2010 MNRAS 407 2166",
+        "Edelson & Krolik, 1988 ApJ 333 646",
+        "Casares et al. 1992 Nature 355 614",
+        "ATel #7727",
+        "www.isdc.unige.ch/smartnet/"
+    ],
+    "Event Type": "correlated optical and X-ray observations",
+    "Time": "01:39",
+    "Date": "2018 March 15",
+    "Telescope": "Neil Gehrels Swift Observatory",
+    "Instrument": "UVOT/XRT",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

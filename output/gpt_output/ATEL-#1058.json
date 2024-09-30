@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-290135.6",
+            "RA": "17h45m35.7s",
+            "Dec": "-29d01m35.3s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174535.6-290133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing X-ray burster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174502.3-285450",
+            "RA": "17h45m02.3s",
+            "Dec": "-28d54m51.6s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1745.0-2855",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRS 1741.9-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1005",
+        "ATEL #1006",
+        "ATEL #1007",
+        "ATEL #1013"
+    ],
+    "Event Type": "outburst detection",
+    "Time": "March 31 - April 4, 2007",
+    "Date": "2007-03-31 to 2007-04-04",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": "XMM-Newton Observatory"
+}

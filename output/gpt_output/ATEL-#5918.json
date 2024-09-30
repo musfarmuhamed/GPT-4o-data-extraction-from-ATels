@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553112+6906154",
+            "RA": "09 55 31.12",
+            "Dec": "+69 06 15.4",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.016 UT",
+            "Date": "2014 Feb. 21"
+        },
+        {
+            "Name": "PNV J09553488+6910194",
+            "RA": "09 55 34.88",
+            "Dec": "+69 10 19.4",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.016 UT",
+            "Date": "2014 Feb. 21"
+        },
+        {
+            "Name": "PNV J09554276+6904230",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.016 UT",
+            "Date": "2014 Feb. 21"
+        }
+    ],
+    "References": [
+        "C. Hergenrother",
+        "S. Perez",
+        "J. Gorosabel",
+        "H. Kucakova",
+        "J. Vrastil"
+    ],
+    "Event Type": "Discovery of apparent novae",
+    "Time": "21.018 UT",
+    "Date": "2014 Feb. 21",
+    "Telescope": "2.5-m Isaac Newton Telescope",
+    "Instrument": "WFC",
+    "Observatory": "La Palma, Observatorio del Roque de los Muchachos"
+}

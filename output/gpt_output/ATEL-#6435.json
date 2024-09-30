@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J221526.55-102834.6",
+            "RA": "22h 15m 26.55s",
+            "Dec": "-10d 28m 34.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2014-08-29.54444",
+            "Date": "2014-08-29"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER-Kislovodsk",
+            "Date": "2014-07-04.920",
+            "magnitude limit": "17.9m"
+        }
+    ],
+    "Event Type": "discovered",
+    "Time": "2014-08-29.54444",
+    "Date": "2014-08-29",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supergiant HMXB",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "impostor-SN2010da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC300 ULX-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#11158",
+        "ATel#11174",
+        "ATel#11179"
+    ],
+    "Event Type": "detection of pulsations",
+    "Time": "31.6 s",
+    "Date": "24 Jan 2018",
+    "Telescope": "Swift-XRT",
+    "Instrument": null,
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

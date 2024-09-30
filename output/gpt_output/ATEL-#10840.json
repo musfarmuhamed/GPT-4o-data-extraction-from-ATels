@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056 (PMN J0509+0541)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "z < 1.6",
+            "Type": "Blazar",
+            "Time": "07:36:50 UTC",
+            "Date": "2017-10-01"
+        }
+    ],
+    "References": [
+        "ATel #10791",
+        "ATel #10792",
+        "ATel #10794",
+        "ATel #10799",
+        "ATel #10801",
+        "ATel #10817",
+        "ATel #10830",
+        "ATel #10831",
+        "ATel #10838",
+        "https://gcn.gsfc.nasa.gov/notices_amon/50579430_130033.amon",
+        "Halpern et al. (2003, AJ, 125, 572)"
+    ],
+    "Event Type": "Increased gamma-ray and optical activity",
+    "Time": "07:36:50 UTC",
+    "Date": "2017-10-01",
+    "Telescope": "ESO / Very Large Telescope (VLT)",
+    "Instrument": "X-Shooter spectrograph",
+    "Observatory": "ESO"
+}

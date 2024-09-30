@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1741.9-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary, X-ray burster",
+            "Time": [
+                "2009 Oct 7 21:01",
+                "2009 Oct 7 21:31",
+                "2009 Oct 7 23:09",
+                "2009 Oct 7 23:39"
+            ],
+            "Date": "2009 Oct 7th 20:29 and 8th 00:11 (UTC)"
+        },
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": "2009 Oct 7th 20:29 and 8th 00:11 (UTC)"
+        },
+        {
+            "Name": "IGR J17511-3057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": "2009 Oct 7th 20:29 and 8th 00:11 (UTC)"
+        },
+        {
+            "Name": "SLX 1744-299/300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray bursters",
+            "Time": null,
+            "Date": "2009 Oct 7th 20:29 and 8th 00:11 (UTC)"
+        }
+    ],
+    "References": [
+        "ATels #438",
+        "ATels #1944",
+        "Cocchi et al. A&A 346, L45, 1999",
+        "Markwardt et al. ApJ 575, L21, 2002",
+        "ATels #2196-2199"
+    ],
+    "Event Type": "INTEGRAL monitoring observations",
+    "Time": "2009 Oct 7th 20:29 and 8th 00:11 (UTC)",
+    "Date": "2009 Oct 7th and 8th 2009",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

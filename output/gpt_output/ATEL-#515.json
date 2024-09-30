@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAXJ1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient millisecond pulsar",
+            "Time": "01:22",
+            "Date": "2005-06-05"
+        },
+        {
+            "Name": "SAXJ1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient millisecond pulsar",
+            "Time": "01:08",
+            "Date": "2005-06-06"
+        },
+        {
+            "Name": "SAXJ1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient millisecond pulsar",
+            "Time": "01:05",
+            "Date": "2005-06-07"
+        },
+        {
+            "Name": "SAXJ1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient millisecond pulsar",
+            "Time": "00:58",
+            "Date": "2005-06-08"
+        }
+    ],
+    "References": [
+        "ATEL #505",
+        "#506",
+        "#507",
+        "#511",
+        "#513",
+        "Giles, Hill & Greenhill 1999 (MNRAS 304, 47)",
+        "Giles et al. 1999"
+    ],
+    "Event Type": "optical and infrared observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "REM",
+    "Instrument": [
+        "ROSS (REM Optical Slitless Spectrograph)",
+        "REMIR (REM Infrared Camera)"
+    ],
+    "Observatory": "La Silla Observatory (Chile)"
+}

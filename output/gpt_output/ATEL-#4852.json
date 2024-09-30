@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J13540068-0755438",
+            "RA": "13 54 00.68",
+            "Dec": "-07 55 43.8",
+            "redshift": "0.009",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20130303"
+        },
+        {
+            "Name": "CSS130303:105206-133424",
+            "RA": "10 52 06.06",
+            "Dec": "-13 34 24.7",
+            "redshift": "0.080",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20130303"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Valenti et al., ATel #4037; http://www.pessto.org"
+        },
+        {
+            "Reference": "http://crts.caltech.edu/"
+        },
+        {
+            "Reference": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        },
+        {
+            "Reference": "Harutyunyan et al., 2008, A&A, 488, 383"
+        },
+        {
+            "Reference": "http://www.pessto.org (via WISeREP)"
+        }
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": null,
+    "Date": "2013 Mar 03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,140 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0444.1+2813",
+            "RA": "04 44 09.0",
+            "Dec": "+28 13 00.1",
+            "redshift": ".011",
+            "Type": "G",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0505.7-2348",
+            "RA": "05 05 45.7",
+            "Dec": "-23 51 14.4",
+            "redshift": ".035",
+            "Type": "G",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0519.5-3140",
+            "RA": "05 19 35.7",
+            "Dec": "-32 39 25.0",
+            "redshift": ".013",
+            "Type": "Sy1.5",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0746.3+2548",
+            "RA": "07 46 25.7",
+            "Dec": "+25 49 00.0",
+            "redshift": "3.0",
+            "Type": "QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0750.9+1439",
+            "RA": "07 51 17.2",
+            "Dec": "+14 44 21.2",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0917.2-6221",
+            "RA": "09 16 08.9",
+            "Dec": "-62 19 29.6",
+            "redshift": ".057",
+            "Type": "Sy1",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1010.1-5747",
+            "RA": "10 11 03.0",
+            "Dec": "-57 48 14.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1038.8-4942",
+            "RA": "10 38 45.0",
+            "Dec": "-49 46 55.1",
+            "redshift": null,
+            "Type": "G",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1142.7+7149",
+            "RA": "11 43 38.2",
+            "Dec": "+71 41 20.6",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1238.9-2720",
+            "RA": "12 38 54.5",
+            "Dec": "-27 18 27.8",
+            "redshift": ".025",
+            "Type": "G",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1559.5+2553",
+            "RA": "15 59 30.2",
+            "Dec": "+25 55 14.2",
+            "redshift": null,
+            "Type": "Sym",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J1922.7-1716",
+            "RA": "19 22 37.0",
+            "Dec": "-17 17 02.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2000.6+3210",
+            "RA": "20 00 21.9",
+            "Dec": "+32 11 21.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J2127.4+5654",
+            "RA": "21 27 45.4",
+            "Dec": "+56 56 34.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Revnivtsev et al, astro-ph/0511444",
+        "2MASS All-Sky Point Source Catalog (PSC)"
+    ],
+    "Event Type": "BAT survey source identifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "SWIFT",
+    "Instrument": "BAT",
+    "Observatory": null
+}

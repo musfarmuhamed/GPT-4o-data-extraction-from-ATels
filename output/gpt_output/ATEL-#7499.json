@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J061814.95-340611.3",
+            "RA": "06h 18m 14.95s",
+            "Dec": "-34d 06m 11.3s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-05-11.75362",
+            "Date": "2015-05-11"
+        },
+        {
+            "Name": "MASTER OT J102440.22-202022.3",
+            "RA": "10h 24m 40.22s",
+            "Dec": "-20d 20m 22.3s",
+            "redshift": null,
+            "Type": "Red Dwarf's Flare (UVCet type)",
+            "Time": "2015-05-11.82216",
+            "Date": "2015-05-11"
+        }
+    ],
+    "References": [
+        {
+            "Celestial Object": "MASTER OT J061814.95-340611.3",
+            "Date": "2014-12-25.946",
+            "Magnitude": "17.6",
+            "URL": "http://master.sai.msu.ru/static/OT/061814.95-340611.3.png"
+        },
+        {
+            "Celestial Object": "MASTER OT J061814.95-340611.3",
+            "Date": "2015-02-18.85028",
+            "Magnitude": "20.7",
+            "URL": "http://master.sai.msu.ru/static/OT/061814.95-340611.3.png"
+        },
+        {
+            "Celestial Object": "MASTER OT J061814.95-340611.3",
+            "Date": "2015-01-17.010",
+            "Magnitude": "19.6",
+            "URL": "http://master.sai.msu.ru/static/OT/061814.95-340611.3.png"
+        },
+        {
+            "Celestial Object": "MASTER OT J061814.95-340611.3",
+            "Date": "2015-03-30.872",
+            "Magnitude": "19.0",
+            "URL": "http://master.sai.msu.ru/static/OT/061814.95-340611.3.png"
+        },
+        {
+            "Celestial Object": "MASTER OT J102440.22-202022.3",
+            "Date": "2014-12-24.01145",
+            "Magnitude": "19.7",
+            "URL": "http://master.sai.msu.ru/static/OT/102440.22-202022.3.png"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

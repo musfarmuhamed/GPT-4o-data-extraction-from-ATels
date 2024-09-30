@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1741.5-6548",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "hard X-ray transient",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "GRB 121225A",
+            "RA": [
+                "+264.94 deg",
+                "+264.21 deg",
+                "+264.57 deg",
+                "+265.27 deg"
+            ],
+            "Dec": [
+                "-66.62 deg",
+                "-66.59 deg",
+                "-65.42 deg",
+                "-65.45 deg"
+            ],
+            "redshift": "Null",
+            "Type": "X-ray burst",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Krimm et al. ATel #4902"
+        },
+        {
+            "Reference": "ATel #4906"
+        },
+        {
+            "Reference": "Ogawa et al. GCN #14100"
+        },
+        {
+            "Reference": "Krimm et al. ATel #4902"
+        }
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12cyt",
+            "RA": "00:29:46.66",
+            "Dec": "+00:09:52.2",
+            "redshift": "0.070",
+            "Type": "Ia",
+            "Time": "20120610",
+            "Date": "20120608"
+        },
+        {
+            "Name": "LSQ12cyz",
+            "RA": "23:56:41.30",
+            "Dec": "+03:13:13.1",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "20120610",
+            "Date": "20120608"
+        }
+    ],
+    "References": [
+        "SuperNova Integral Field Spectrograph (Aldering et al 2002, SPIE, 4836, 61)",
+        "Superfit (Howell et al 2002, BAAS, 34, 1256)",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+        "[1] via SDSS Explorer and independently confirmed by us"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii"
+}

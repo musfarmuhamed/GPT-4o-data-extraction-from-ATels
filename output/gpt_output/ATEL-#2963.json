@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBS J1848+3219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010-10-18"
+        },
+        {
+            "Name": "CGRaBS J1848+3219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010-10-19"
+        },
+        {
+            "Name": "CGRaBS J1848+3219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2009-02-20"
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS 188, 405",
+        "ATel #2954, Donato et al. 2010"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2010-10-18",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": null
+}

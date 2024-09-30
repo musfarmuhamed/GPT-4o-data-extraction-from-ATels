@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16E2rd",
+            "RA": "00:32:21.32",
+            "Dec": "-43:50:46.0",
+            "redshift": 0.494,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 06"
+        },
+        {
+            "Name": "DES16X1ox",
+            "RA": "02:21:32.26",
+            "Dec": "-05:19:33.0",
+            "redshift": 0.43,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 06"
+        },
+        {
+            "Name": "DES16C1zv",
+            "RA": "03:37:27.12",
+            "Dec": "-27:28:00.9",
+            "redshift": 0.49,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 06"
+        },
+        {
+            "Name": "DES16S2afz",
+            "RA": "02:46:24.29",
+            "Dec": "-01:13:31.0",
+            "redshift": 0.482,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES16C1aiw",
+            "RA": "03:39:19.42",
+            "Dec": "-26:35:45.2",
+            "redshift": 0.47,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 07"
+        },
+        {
+            "Name": "DES16X3zd",
+            "RA": "02:26:56.45",
+            "Dec": "-04:25:09.5",
+            "redshift": 0.493,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 08"
+        },
+        {
+            "Name": "DES16S1agd",
+            "RA": "02:52:20.02",
+            "Dec": "-00:54:40.2",
+            "redshift": 0.504,
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2016 Sep 08"
+        },
+        {
+            "Name": "DES16S1kt",
+            "RA": "02:51:07.55",
+            "Dec": "+00:01:33.0",
+            "redshift": 0.0682,
+            "Type": "SNIIb",
+            "Time": null,
+            "Date": "2016 Sep 08"
+        },
+        {
+            "Name": "DES16C1zb",
+            "RA": "03:35:19.11",
+            "Dec": "-26:15:41.9",
+            "redshift": 0.13,
+            "Type": "SNIIb",
+            "Time": null,
+            "Date": "2016 Sep 08"
+        }
+    ],
+    "References": [
+        "ATel #4668",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al, 2005, ApJ, 634, 119",
+        "ATEL #9483"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5m Clay telescope",
+    "Instrument": "LDSS-3C",
+    "Observatory": "Las Campanas Observatory"
+}

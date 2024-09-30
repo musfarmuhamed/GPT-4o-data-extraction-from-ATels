@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J13253881+2557339",
+            "RA": "13253881",
+            "Dec": "2557339",
+            "redshift": 0.0377,
+            "Type": "broad-line type Ic supernova",
+            "Time": "t = -2 days",
+            "Date": "2014-05-26.56"
+        },
+        {
+            "Name": "SDSS J132538.81+255734.0",
+            "RA": "132538.81",
+            "Dec": "255734.0",
+            "redshift": 0.0377,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "Wenxiong Li",
+            "Affiliation": "Tsinghua University, China"
+        },
+        {
+            "Name": "Liming Rui",
+            "Affiliation": "Tsinghua University, China"
+        },
+        {
+            "Name": "Xiaofeng Wang",
+            "Affiliation": "Tsinghua University, China"
+        },
+        {
+            "Name": "Qian Yang",
+            "Affiliation": "Peking University"
+        },
+        {
+            "Name": "Xuebin Wu",
+            "Affiliation": "Peking University"
+        },
+        {
+            "Name": "Tianmeng Zhang",
+            "Affiliation": "National Astronomical Observatories of China (NAOC)"
+        }
+    ],
+    "Event Type": "optical spectrogram",
+    "Time": "2014-05-26.56",
+    "Date": "2014-05-26",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "OMR",
+    "Observatory": "Xinglong Station of the NAOC"
+}

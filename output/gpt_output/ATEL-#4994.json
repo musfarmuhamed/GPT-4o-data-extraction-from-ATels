@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08412128+5243303",
+            "RA": "08:41:21.28",
+            "Dec": "+52:43:30.3",
+            "redshift": "0.06",
+            "Type": "Ibc",
+            "Time": "Null",
+            "Date": "20130419"
+        },
+        {
+            "Name": "LSQ13zm",
+            "RA": "10:26:54.55",
+            "Dec": "+19:52:55.2",
+            "redshift": "0.03",
+            "Type": "IIn",
+            "Time": "Null",
+            "Date": "20130419"
+        },
+        {
+            "Name": "LSQ13abk",
+            "RA": "12:18:41.38",
+            "Dec": "+11:43:53.0",
+            "redshift": "0.04",
+            "Type": "Ibc",
+            "Time": "Null",
+            "Date": "20130419"
+        },
+        {
+            "Name": "LSQ13abo",
+            "RA": "14:59:21.19",
+            "Dec": "-17:09:09.4",
+            "redshift": "0.067493",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20130419"
+        },
+        {
+            "Name": "PSN J14473617-0030462",
+            "RA": "14:47:36.17",
+            "Dec": "-00:30:46.2",
+            "redshift": "0.034237",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20130419"
+        }
+    ],
+    "References": [
+        {
+            "ID": 1,
+            "Source": "6dF Galaxy Survey Data Release 3 via NED"
+        },
+        {
+            "ID": 2,
+            "Source": "SDSS via NED"
+        }
+    ],
+    "Event Type": "spectroscopic observations of supernovae",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "Null"
+}

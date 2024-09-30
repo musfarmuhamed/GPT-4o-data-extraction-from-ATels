@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN2018gq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "08:59:21",
+            "Date": "2018-04-04"
+        }
+    ],
+    "References": [
+        "ATels #11500",
+        "ATels #11501",
+        "ATels #11509",
+        "ATels #11518",
+        "https://wis-tns.weizmann.ac.il/object/2018apl",
+        "https://doi.org/10.5281/zenodo.1217558",
+        "https://figshare.com/articles/ASASSN2018gq_NIR_spectrum/6133679"
+    ],
+    "Event Type": "Near IR follow up",
+    "Time": "08:59:21",
+    "Date": "2018-04-04",
+    "Telescope": "4m Blanco Telescope",
+    "Instrument": "Arcoiris",
+    "Observatory": "Cerro Tololo, Chile"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova ASASSN-17gk",
+            "RA": "13:20:55.32",
+            "Dec": "-63:42:18.5",
+            "redshift": null,
+            "Type": "Galactic Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVV J132055.37-634219.2",
+            "RA": "13:20:55.371",
+            "Dec": "-63:42:19.25",
+            "redshift": null,
+            "Type": "likely progenitor",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stanek et al. (ATel #10387)",
+        "Luckas 2016, ATel #10399",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Cardelli et al. (1989, ApJ, 345, 245)",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "Detection of a likely Galactic Nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002"
+}

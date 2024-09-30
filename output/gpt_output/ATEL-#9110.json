@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016cpl",
+            "RA": "09:51:54.80",
+            "Dec": "-14:36:03.6",
+            "redshift": "0.03138",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cpg",
+            "RA": "10:02:19.46",
+            "Dec": "-03:12:39.7",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "02 June 2016"
+        },
+        {
+            "Name": "AT2016cpe",
+            "RA": "09:28:05.19",
+            "Dec": "-08:46:23.4",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cpv",
+            "RA": "10:02:12.54",
+            "Dec": "-03:10:44.4",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cpu",
+            "RA": "13:01:01.35",
+            "Dec": "-01:12:38.1",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cpi",
+            "RA": "20:39:14.25",
+            "Dec": "-05:52:30.9",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cph",
+            "RA": "21:16:24.19",
+            "Dec": "-00:49:43.2",
+            "redshift": "0.01938",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        },
+        {
+            "Name": "AT2016cpw",
+            "RA": "21:41:24.44",
+            "Dec": "-14:04:35.9",
+            "redshift": "0.06036",
+            "Type": "Transient",
+            "Time": "Unknown",
+            "Date": "03 June 2016"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "Transient Discovery",
+    "Time": "Unknown",
+    "Date": "03 June 2016",
+    "Telescope": "ATLAS",
+    "Instrument": "Twin 0.5m telescope system",
+    "Observatory": "Haleakala and Mauna Loa"
+}

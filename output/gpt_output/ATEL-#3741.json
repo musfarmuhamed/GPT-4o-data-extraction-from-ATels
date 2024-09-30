@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1922.7-1716",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Barthelmy et al. (2011; GCN #12522)",
+        "ATels #3548",
+        "ATel #3567",
+        "ATel #3740",
+        "Kuulkers et al. 2003, A&A 399, 663",
+        "Falanga et al. 2006, A&A 456, L5",
+        "Wijnands et al. 2006, A&A 449, 1117"
+    ],
+    "Event Type": "Thermonuclear burst (type-I X-ray burst)",
+    "Time": "Commenced ~136 s after the BAT trigger",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

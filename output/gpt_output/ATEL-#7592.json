@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1502+106",
+            "RA": "226.10408 deg",
+            "Dec": "10.49422 deg",
+            "redshift": "1.8383",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, arXiv:1501.02003",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Hewett & Wild 2010, MNRAS, 405, 2302",
+        "ATel#1650",
+        "ATel#1905"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

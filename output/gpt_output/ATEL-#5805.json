@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14ie",
+            "RA": "12:55:33.43",
+            "Dec": "-32:56:40.4",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140122"
+        },
+        {
+            "Name": "LSQ14gs",
+            "RA": "12:27:41.38",
+            "Dec": "-22:57:18.6",
+            "redshift": "0.04",
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20140116"
+        },
+        {
+            "Name": "LSQ14hq",
+            "RA": "12:09:37.21",
+            "Dec": "-20:13:40.9",
+            "redshift": "0.078",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140120"
+        },
+        {
+            "Name": "LSQ14hm",
+            "RA": "12:54:36.16",
+            "Dec": "-29:16:32.6",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140120"
+        },
+        {
+            "Name": "MASTEROTJ110457.1+300122.0",
+            "RA": "11:04:57.10",
+            "Dec": "+30:01:22.0",
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20140113"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "ATel #5769"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "unknown",
+    "Date": "2014-01-24",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

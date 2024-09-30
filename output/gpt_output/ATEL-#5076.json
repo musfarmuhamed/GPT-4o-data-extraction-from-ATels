@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "6 hr",
+            "Date": "7 November 2011"
+        },
+        {
+            "Name": "PSR J1622-4950",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5020",
+        "ATel #5040",
+        "ATel #5043",
+        "ATel #5053",
+        "ATel #5058"
+    ],
+    "Event Type": "radio pulsations detection",
+    "Time": "6 hr",
+    "Date": "7 November 2011",
+    "Telescope": "26 metre radio telescope",
+    "Instrument": "Australian Long Baseline Array baseband recorder",
+    "Observatory": "Mount Pleasant radio observatory near Hobart, operated by the University of Tasmania"
+}

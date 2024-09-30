@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H 1658-298",
+            "RA": "17:02:06.50",
+            "Dec": "-29:56:40.86",
+            "redshift": null,
+            "Type": "eclipsing X-ray transient",
+            "Time": null,
+            "Date": "2015-08-21"
+        },
+        {
+            "Name": "MAXI J1327-627",
+            "RA": "13:27:29",
+            "Dec": "-62:47:39",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7946",
+        "ATel #7943",
+        "Wijnands et al. 2003, ApJ, 594, 952",
+        "Lewin et al. 1976, IAU Circ. 2994, Cominsky & Wood 1984, ApJ, 283, 765",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Oosterbroek et al. 2001, A&A, 376, 532",
+        "Anders et al. 1989 (GeCoA, 53, 197)",
+        "Cackett et al. 2008, ApJ, 687, L87",
+        "Cackett et al. 2013 ApJ, 774, 131",
+        "http://www.swift.ac.uk/analysis/xrt/pileup.php"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2015-08-25",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ga",
+            "RA": "12:59:27.292",
+            "Dec": "+14:10:15.79",
+            "redshift": null,
+            "Type": "transient source, most likely a supernova",
+            "Time": "2015-03-30.29",
+            "Date": "2015-03-30"
+        },
+        {
+            "Name": "NGC 4866",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006631",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, NED",
+    "Event Type": "discovery of a transient source, most likely a supernova",
+    "Time": "2015-03-30.29",
+    "Date": "2015-03-30",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope, 33-cm RCOS telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii, Savannah Skies Observatory"
+}

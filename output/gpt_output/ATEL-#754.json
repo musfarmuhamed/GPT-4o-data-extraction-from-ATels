@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic recurrent nova",
+            "Time": "26.87 UT",
+            "Date": "Feb 26",
+            "Flux_2-10_keV": "3.48+0.02/-0.11 e-10 erg/cm2/s",
+            "Flux_2-20_keV": "3.59+/-0.1 e-10 erg/cm2/s",
+            "Luminosity_2-20_keV": "1.1+/-0.05 e35 erg/s",
+            "Temperature_kT": "2.8 keV",
+            "Fe_equivalent_width": "less than 0.7 keV"
+        }
+    ],
+    "References": [
+        "ATel #741",
+        "ATel #747",
+        "ATel #737"
+    ],
+    "Event Type": "outburst",
+    "Time": "26.87 UT",
+    "Date": "Feb 26",
+    "Telescope": "Rossi X-Ray Timing Explorer (RXTE)",
+    "Instrument": null,
+    "Observatory": null
+}

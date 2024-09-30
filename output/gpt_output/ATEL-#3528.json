@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2011ei (PSN J20342262-3158236)",
+            "RA": "20:34:22.62",
+            "Dec": "-31:58:23.6",
+            "redshift": null,
+            "Type": "type-IIb 'hypernova'",
+            "Time": "04:47:14 UT",
+            "Date": "2011-08-03"
+        }
+    ],
+    "References": [
+        "Milisavljevic, ATel #3526",
+        "Soderberg et al., ArXiv:1107.1876",
+        "Kalberla et al., 2005",
+        "Breeveld et al. 2011, arXiv:1102.4717",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "Swift-ToO observation",
+    "Time": "04:47:14 UT",
+    "Date": "2011-08-03",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

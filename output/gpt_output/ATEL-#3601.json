@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17498-2921",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#3551",
+        "#3555",
+        "#3556",
+        "#3558",
+        "#3559",
+        "#3560",
+        "#3561",
+        "#3562",
+        "#3563",
+        "#3568",
+        "Bucheri et al 1983",
+        "Papitto et al. (ATEL #3563)"
+    ],
+    "Event Type": "Observation",
+    "Time": "2-30 keV",
+    "Date": "2011-08-13 to 2011-08-23",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J004249.9+411457",
+            "RA": "00:42:49.9",
+            "Dec": "+41:14:57",
+            "redshift": null,
+            "Type": "UV-transient/Nova",
+            "Time": "2013-12-01.02 UT",
+            "Date": "2013-12-01"
+        }
+    ],
+    "References": [
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Massey et al. 2006, AJ 131, 2478",
+        "ATels #2713",
+        "ATels #2727",
+        "ATels #3061",
+        "ATels #5528"
+    ],
+    "Event Type": "Transient Discovery",
+    "Time": "2013-12-01.02 UT",
+    "Date": "2013-12-01",
+    "Telescope": "Swift",
+    "Instrument": "Ultra-Violet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

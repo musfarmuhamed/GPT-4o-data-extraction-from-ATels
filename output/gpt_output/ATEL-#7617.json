@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSST 15apv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024",
+            "Type": "core-collapse supernova",
+            "Time": "0.39",
+            "Date": "June 10"
+        },
+        {
+            "Name": "SDSS J210817.71+170957.9",
+            "RA": "210817.71",
+            "Dec": "+170957.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J210817.88+171008.4",
+            "RA": "210817.88",
+            "Dec": "+171008.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL 7598",
+    "Event Type": null,
+    "Time": "0.39",
+    "Date": "June 10",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

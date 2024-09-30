@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018fnq",
+            "RA": "20:12:29.99",
+            "Dec": "-44:06:35.1",
+            "redshift": "0.019",
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "20180831"
+        },
+        {
+            "Name": "AT2018fpd",
+            "RA": "21:23:05.53",
+            "Dec": "+15:08:48.5",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": "null",
+            "Date": "20180831"
+        },
+        {
+            "Name": "SN2018fqc",
+            "RA": "05:20:45.15",
+            "Dec": "-23:04:04.6",
+            "redshift": "0.085",
+            "Type": "Ia",
+            "Time": "null",
+            "Date": "20180831"
+        },
+        {
+            "Name": "AT2018fpk",
+            "RA": "19:21:41.08",
+            "Dec": "-10:21:48.3",
+            "redshift": "0.0",
+            "Type": "CV",
+            "Time": "null",
+            "Date": "20180827"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "null",
+    "Date": "2018 September 01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2, Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 0033+595",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lacertae source",
+            "Time": null,
+            "Date": "2005 April 1"
+        }
+    ],
+    "References": [
+        "http://www.swift.psu.edu/monitoring/source.php?source=1ES0033+595",
+        "Kapanadze et al. 2015, Atel#8107",
+        "Kapanadze et al. 2016, 831, 102",
+        "Kapanadze et al. 2017, ApJ, 848, 103",
+        "MNRAS, 469, 1655",
+        "MNRAS, 473, 2542",
+        "Sukla et al. 2015, ApJ, 798, 2",
+        "Kalberla et al. 2005, A&A, 440, 775"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2018 April 1",
+    "Telescope": "X-Ray Telescope (XRT)",
+    "Instrument": "EEV CCD2 detector",
+    "Observatory": "Neil Geherels Swift Observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "01:59:33.256 UTC",
+            "Date": "2011-04-01"
+        },
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "17:28:51.878 UTC",
+            "Date": "2011-05-06"
+        },
+        {
+            "Name": "4U 1636-53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient accreting neutron-star system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3193",
+        "ATEL #3202",
+        "ATEL #3210",
+        "ATEL #3218",
+        "ATEL #3268",
+        "in't Zand et al. 1999, Nucl. Phys. B, Proc. Suppl., 69, 228",
+        "Galloway et al. 2008 ApJS 179 360",
+        "Zhang et et. 2009 MNRAS 398 368"
+    ],
+    "Event Type": "X-ray bursts",
+    "Time": "01:59:33.256 UTC, 17:28:51.878 UTC",
+    "Date": "2011-04-01, 2011-05-06",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

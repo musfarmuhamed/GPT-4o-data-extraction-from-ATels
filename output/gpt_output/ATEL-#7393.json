@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0130-17",
+            "RA": 23.1812,
+            "Dec": -16.91348,
+            "redshift": 1.02,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Fey et al. 2004, AJ, 127, 3587",
+        "Wright et al. 1983, MNRAS, 205, 793",
+        "Acero et al. 2015, arXiv:1501.02003"
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": null,
+    "Date": "2015 April 12 to 2015 April 13",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE"
+}

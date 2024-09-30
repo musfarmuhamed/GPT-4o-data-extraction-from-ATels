@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31N 2015-01a",
+            "RA": "00h42m07.99s",
+            "Dec": "+40d55m01.1s",
+            "redshift": "Null",
+            "Type": "stellar merger candidate",
+            "Time": "Null",
+            "Date": "2015-05-29.2"
+        }
+    ],
+    "References": [
+        "Shumkov et al. 2015, ATel #6885",
+        "Steele et al., ATel #7555",
+        "Srivastava et al., ATel #7236",
+        "Adams et al., ATel #7485",
+        "Bersier et al., ATel #7537",
+        "Pessev et al., ATel #7552",
+        "Messineo et al., 2012"
+    ],
+    "Event Type": "photometric observation",
+    "Time": "shortly before sunrise",
+    "Date": "2015-05-29",
+    "Telescope": "Nordic Optical Telescope (NOT)",
+    "Instrument": "NOTCam",
+    "Observatory": "Observatorio Roque de Los Muchachos (ORM), La Palma"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF14yb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB afterglow-like transient",
+            "Time": "12:55 UT",
+            "Date": "Feb 27"
+        }
+    ],
+    "References": [
+        "Cenko et al, GCN 15883",
+        "Cenko et al, ATEL 5924"
+    ],
+    "Event Type": "observation",
+    "Time": "12:55 UT",
+    "Date": "Feb 27",
+    "Telescope": "KPNO-4m",
+    "Instrument": "Mosaic-1.1 camera",
+    "Observatory": "KPNO"
+}

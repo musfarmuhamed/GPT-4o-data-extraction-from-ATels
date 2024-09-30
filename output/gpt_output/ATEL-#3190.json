@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-11fi",
+            "RA": "14:12:57.070",
+            "Dec": "+52:44:37.19",
+            "redshift": 0.082,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2011-02-02"
+        },
+        {
+            "Name": "PS1-11fl",
+            "RA": "14:05:19.151",
+            "Dec": "+53:07:24.23",
+            "redshift": 0.096,
+            "Type": "IIP",
+            "Time": null,
+            "Date": "2011-02-02"
+        },
+        {
+            "Name": "PS1-11iv",
+            "RA": "12:14:55.583",
+            "Dec": "+46:34:33.27",
+            "redshift": 0.293,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2011-02-02"
+        },
+        {
+            "Name": "PS1-11jo",
+            "RA": "12:16:00.420",
+            "Dec": "+47:55:13.52",
+            "redshift": 0.33,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2011-02-02"
+        },
+        {
+            "Name": "PS1-11ka",
+            "RA": "12:16:26.983",
+            "Dec": "+47:01:28.37",
+            "redshift": 0.024,
+            "Type": "Ib/c",
+            "Time": null,
+            "Date": "2011-02-04"
+        },
+        {
+            "Name": "PS1-11kk",
+            "RA": "16:10:49.278",
+            "Dec": "+55:15:05.25",
+            "redshift": 0.3,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2011-02-03"
+        },
+        {
+            "Name": "PS1-11kl",
+            "RA": "16:21:20.254",
+            "Dec": "+55:00:19.76",
+            "redshift": 0.26,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2011-02-10"
+        },
+        {
+            "Name": "PS1-11li",
+            "RA": "12:16:14.104",
+            "Dec": "+46:20:46.00",
+            "redshift": 0.068,
+            "Type": "IIP",
+            "Time": null,
+            "Date": "2011-02-10"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic confirmation of supernova candidates",
+    "Time": null,
+    "Date": "2011-02-22 and 23",
+    "Telescope": "MMT",
+    "Instrument": "Blue Channel spectrograph",
+    "Observatory": "MMT Observatory"
+}

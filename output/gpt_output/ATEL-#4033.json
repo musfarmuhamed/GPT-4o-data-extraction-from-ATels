@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II-Plateau supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3054",
+        "ATEL #3996",
+        "Dessart & Hillier 2011, MNRAS, 415, 3497",
+        "Chornock et al. 2010, ApJ, 713, 1363",
+        "Leonard et al. 2006, Nature, 440, 505",
+        "Leonard et al. 2012, ArXiv e-prints 1109.5406",
+        "Leonard et al. 2009, BAAS, 213, 490.07",
+        "Fraser et al. 2012, ApJL, submitted; arXiv:1204.1523",
+        "Patat et al. 2009, A & A, 508, 229",
+        "NOMAD catalog; Zacharias et al. 2005"
+    ],
+    "Event Type": "spectropolarimetry",
+    "Time": null,
+    "Date": "Apr. 1 UT",
+    "Telescope": "ESO Very Large Telescope",
+    "Instrument": "FORS2 in polarimetric mode",
+    "Observatory": "ESO-Paranal"
+}

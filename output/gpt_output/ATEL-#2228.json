@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Q0957+561",
+            "RA": "10:01:20.78",
+            "Dec": "+55:53:49.4",
+            "redshift": "1.41",
+            "Type": "Quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Q0957+561A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quasar (image of Q0957+561)",
+            "Time": "First semester of 2009",
+            "Date": "Late 2008 - Middle 2009"
+        },
+        {
+            "Name": "Q0957+561B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quasar (image of Q0957+561)",
+            "Time": "First semester of 2010",
+            "Date": "Early February to June 2010"
+        }
+    ],
+    "References": "Shalyapin et al. 2008, A&A, 492, 401",
+    "Event Type": "Optical Event",
+    "Time": "Late 2008 - Middle 2009 for Q0957+561A, Early February to June 2010 for Q0957+561B",
+    "Date": "2008-2009 (Q0957+561A), 2010 (Q0957+561B)",
+    "Telescope": "2.0 m Liverpool Robotic Telescope",
+    "Instrument": null,
+    "Observatory": "Roque de los Muchachos Observatory"
+}

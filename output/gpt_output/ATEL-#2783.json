@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2326-502",
+            "RA": "23:29:20.880",
+            "Dec": "-49:55:40.68",
+            "redshift": "0.518",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": "August 7, 2010"
+        },
+        {
+            "Name": "B2 2308+34",
+            "RA": "23:11:05.3288",
+            "Dec": "+34:25:10.905",
+            "redshift": "1.817",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": "August 7, 2010"
+        },
+        {
+            "Name": "B2 2308+34",
+            "RA": "23:11:05.3288",
+            "Dec": "+34:25:10.905",
+            "redshift": "1.817",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": "August 8, 2010"
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Jauncey, D. L., et al. 1984, ApJ, 286, 498",
+        "Abdo et al. 2010",
+        "Wills, D., Wills, B. J. 1976, ApJS, 31, 143"
+    ],
+    "Event Type": "Increasing gamma-ray flux",
+    "Time": null,
+    "Date": "August 7, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA and DOE in the U.S., and scientific institutions across France, Italy, Japan, and Sweden"
+}

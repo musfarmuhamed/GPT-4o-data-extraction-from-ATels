@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2017cbv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 5643",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": "115 ks",
+            "Date": "2015 May 21"
+        },
+        {
+            "Name": "NGC 5643",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": "115 ks",
+            "Date": "2015 Dec 26"
+        }
+    ],
+    "References": [
+        "ATel #10158",
+        "ATel #10167",
+        "Nielsen et al. 2013, MNRAS, 435, 187"
+    ],
+    "Event Type": "archival Chandra observation",
+    "Time": "115 ks",
+    "Date": "2015 May 21 and Dec 26",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

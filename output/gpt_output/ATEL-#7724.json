@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J18134923+1314159",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.056,
+            "Type": "Type II",
+            "Time": 27.5,
+            "Date": "2015 June 27"
+        },
+        {
+            "Name": "ASASSN-15lx",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.013,
+            "Type": "Type IIn",
+            "Time": 27.6,
+            "Date": "2015 June 27"
+        }
+    ],
+    "References": "ATel #7719",
+    "Event Type": "spectrum",
+    "Time": null,
+    "Date": "2015 June 27",
+    "Telescope": "Faulkes Telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Lick Observatory"
+}

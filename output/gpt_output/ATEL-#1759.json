@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 66A",
+            "RA": "02h22m39.6114s",
+            "Dec": "+43d02m07.799s",
+            "redshift": "0.44",
+            "Type": "BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "PKS 0208-512",
+            "RA": "02h10m46.2004s",
+            "Dec": "-51d01m01.891s",
+            "redshift": "0.999",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "PKS 0537-441",
+            "RA": "05h38m50.3614s",
+            "Dec": "-44d05m08.934s",
+            "redshift": "0.894",
+            "Type": "BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Atel #1753",
+        "Atel #1755",
+        "Atel #1751",
+        "Hartman et al., 1999, ApJS, 123, 79",
+        "Wisotzki et al. 2000, A&A, 358, 77",
+        "Peterson et al. 1976, ApJ, 207, L5-L8"
+    ],
+    "Event Type": "increase of the gamma-ray activity",
+    "Time": "Null",
+    "Date": "September 15, 2008",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J171405.7-381031",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": "2018-07-17"
+        },
+        {
+            "Name": "1RXS J170849.0-400910",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": "2018-07-17"
+        }
+    ],
+    "References": [
+        "GCN #22905",
+        "Takuro et al. 2010",
+        "Israel et al. 1999",
+        "Campana et al. 2007",
+        "Scholz et al. 2014",
+        "ATEL#10107"
+    ],
+    "Event Type": "bright SGR-like bursts",
+    "Time": "unknown",
+    "Date": "2018-07-05",
+    "Telescope": "Swift XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

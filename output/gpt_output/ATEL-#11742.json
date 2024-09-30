@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18qqn/AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Perley (ATel #11732)",
+        "Jones et al. (ATel #11736)",
+        "Smartt et al. (ATel #11727)",
+        "Chen and Schady (ATel #11734)",
+        "Fremling et al. (ATel #11738)",
+        "Rivera Sandoval et al. (ATel #11737, #11739)",
+        "Selsing et al. (Atel #11741)"
+    ],
+    "Event Type": "Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Liverpool Telescope",
+        "ATLAS",
+        "ASASSN",
+        "ZTF"
+    ],
+    "Instrument": [
+        "SPRAT"
+    ],
+    "Observatory": null
+}

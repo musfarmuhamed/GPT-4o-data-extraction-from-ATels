@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB 180301",
+            "RA": "06:12:43.4",
+            "Dec": "+04:33:44.8",
+            "redshift": "~0.2 to ~0.3",
+            "Type": "Fast Radio Burst",
+            "Time": "07:34:19.76",
+            "Date": "UTC 2018 March 1"
+        }
+    ],
+    "References": "Isaacson et. al., PASP, 129, 9, 2017; Keith et. al., MNRAS, 409, 2, 2010; Price et. al., JAI, 5, 4, 2016; Keane et al., MNRAS, 473, 116, 2018; Gajjar et al. 2017, ATel #10675; MacMahon et al. arXiv:1707.06024v2; Cordes & Lazio, arXiv:0207156v3, 2002; Yao et al., ApJ, 835, 29, 2016",
+    "Event Type": "Detection of Fast Radio Burst (FRB)",
+    "Time": "07:34:19.76",
+    "Date": "UTC 2018 March 1",
+    "Telescope": "CSIRO Parkes radio telescope",
+    "Instrument": "21-cm multibeam receiver",
+    "Observatory": "CSIRO Parkes"
+}

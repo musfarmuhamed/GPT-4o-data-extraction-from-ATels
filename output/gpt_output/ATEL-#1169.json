@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J054134.7-682550",
+            "RA": "5h 41m 33.90s",
+            "Dec": "-68d 25' 50.2\"",
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "10-20 mCrab",
+            "Date": "2007-07-14"
+        },
+        {
+            "Name": "XMMU J054134.7-682550",
+            "RA": "5h 41m 34.32s",
+            "Dec": "-68d 25' 48.3\"",
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": "~50 mCrab",
+            "Date": "2007-08-03"
+        }
+    ],
+    "References": "Liu et al 2005, A&A, 442, 1135L; Dickey & Lockman 1990; Schlegel et al. 1998",
+    "Event Type": "Detection",
+    "Time": "~50 mCrab",
+    "Date": "2007-08-03",
+    "Telescope": "Swift",
+    "Instrument": "Swift-BAT",
+    "Observatory": "Large Magellanic Cloud"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBSJ0507+100",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.416",
+            "Type": "quasar",
+            "Time": "JD2457033.7760",
+            "Date": "January 11th, 2015"
+        },
+        {
+            "Name": "PKS0507+17",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.416",
+            "Type": "quasar",
+            "Time": "JD2457033.7760",
+            "Date": "January 11th, 2015"
+        },
+        {
+            "Name": "1FGL J0510.0+1800",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.416",
+            "Type": "gamma ray source",
+            "Time": "JD2457033.7760",
+            "Date": "January 11th, 2015"
+        }
+    ],
+    "References": "#4424,#4528,#4531,#4546,#4724,#4998",
+    "Event Type": "NIR flare",
+    "Time": "JD2457033.7760",
+    "Date": "January 11th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS 110406:135058+261642",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "g=17.96, r=18.17, i=18.42",
+            "Date": "April 15.1 (UT)"
+        },
+        {
+            "Name": "CSS110208:135717-093238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "i=17.12",
+            "Date": "April 15.0"
+        },
+        {
+            "Name": "PS1-11xm",
+            "RA": "13:43:05.64",
+            "Dec": "+52:08:43.0",
+            "redshift": "0.35",
+            "Type": null,
+            "Time": "i=19.1",
+            "Date": "Apr 19"
+        },
+        {
+            "Name": "PS1-11xn",
+            "RA": "14:47:39.58",
+            "Dec": "+51:41:04.70",
+            "redshift": "0.04",
+            "Type": "type IIn SN",
+            "Time": "r=18.55",
+            "Date": "Apr 26"
+        },
+        {
+            "Name": "PS1-11xo",
+            "RA": "13:47:40.73",
+            "Dec": "+59:01:07.2",
+            "redshift": "0.072",
+            "Type": "type Ia SN",
+            "Time": "r=18.92",
+            "Date": "Apr 14"
+        }
+    ],
+    "References": "ATels #3343, #3344, Valenti et al. ATel #2838, Chugai et al. 2004, MNRAS, 352, 1213; Dessart et al. 2009, MNRAS, 394, 21; Chatzopoulos et al. 2011ApJ, 729, 143, Drake et al. arXiv:1103.5514",
+    "Event Type": "Discoveries of transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "PS1",
+    "Instrument": null,
+    "Observatory": "PS1 Science Consortium"
+}

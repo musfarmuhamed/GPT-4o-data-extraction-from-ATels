@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron star X-ray binary",
+            "Time": "03:00-10:00 UT",
+            "Date": "March 25th, 2009"
+        }
+    ],
+    "References": [
+        "IAUC #5112",
+        "ATEL #286",
+        "ATEL #491",
+        "ATEL #1970",
+        "ATEL #1977"
+    ],
+    "Event Type": "Observation",
+    "Time": "03:00-10:00 UT",
+    "Date": "March 25th, 2009",
+    "Telescope": [
+        "Effelsberg",
+        "Medicina",
+        "Onsala 25m",
+        "Torun",
+        "Westerbork",
+        "Jodrell Bank MkII",
+        "Knockin"
+    ],
+    "Instrument": "e-VLBI",
+    "Observatory": "European VLBI Network (EVN)"
+}

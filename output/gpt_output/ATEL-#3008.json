@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J2330-5036",
+            "RA": 352.55,
+            "Dec": -50.6,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00 UT",
+            "Date": "2010-11-01"
+        },
+        {
+            "Name": "BZQ J2329-4955 (PKS 2326-502)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J2329.2-4954",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Abdo et al. 2010, ApJS, 188, 405; ATel #2783",
+    "Event Type": "gamma-ray emission detection",
+    "Time": "00:00 UT to 03:00 UT",
+    "Date": "2010-11-01 to 2010-11-05",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

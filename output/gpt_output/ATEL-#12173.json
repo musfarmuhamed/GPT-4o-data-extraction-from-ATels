@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18dcu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blue transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kepler INT Survey (Greiss et al. 2012, AJ, 144, 24)",
+        "GALEX NUV Survey (Olmedo et al. 2015, ApJ, 813, 100)",
+        "Green et al. (2018; MNRAS, 478, 651)",
+        "VizieR catalogue, CDS, Strasbourg, France",
+        "Pan-STARRS1 Survey (PS1) and the PS1 public science archive",
+        "Spanish Virtual Observatory project supported from the Spanish MINECO through grant AyA2017-84089",
+        "Two Micron All Sky Survey",
+        "ESA Gaia, DPAC and the Photometric Science Alerts Team",
+        "Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE), JPL/Caltech"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "GALEX",
+        "Spitzer IRAC",
+        "NEOWISE-R"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

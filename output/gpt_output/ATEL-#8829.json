@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16acz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054,
+            "Type": "type-Ia supernova",
+            "Time": "14.9",
+            "Date": "2016-03-14"
+        },
+        {
+            "Name": "PS16bby",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2016bew",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.054,
+            "Type": "type-Ia supernova",
+            "Time": "14.9",
+            "Date": "2016-03-14"
+        }
+    ],
+    "References": [
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Jones et al. 2004, MNRAS, 355, 747",
+        "Jones et al. 2009, MNRAS, 399, 683",
+        "Huber et al. 2015, ATel #7153"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": "14.9",
+    "Date": "2016-03-14",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

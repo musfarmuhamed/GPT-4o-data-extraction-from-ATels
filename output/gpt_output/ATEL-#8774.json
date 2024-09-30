@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016aqt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.050",
+            "Type": "Type Ia supernova",
+            "Time": "2.7 UT",
+            "Date": "2016 March 2"
+        },
+        {
+            "Name": "SN 2016aqt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.050",
+            "Type": "Type Ia supernova",
+            "Time": "4.7 UT",
+            "Date": "2016 March 4"
+        }
+    ],
+    "References": "Blondin and Tonry, 2007, Ap.J., 666, 1024; Howell et al. 2005, ApJ, 634, 119; SDSS DR6 via NED",
+    "Event Type": "discovery",
+    "Time": "Various",
+    "Date": "2016 March 2, 2016 March 4",
+    "Telescope": "Xinglong 2.16-m telescope, LCOGT 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Xinglong Observatory (China), Siding Spring (Australia)"
+}

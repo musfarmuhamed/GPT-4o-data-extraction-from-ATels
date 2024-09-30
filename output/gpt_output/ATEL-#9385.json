@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016ewx",
+            "RA": "00:45:07.50",
+            "Dec": "+13:52:48.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "57591.58",
+            "Date": "20160722.58"
+        },
+        {
+            "Name": "AT2016eww",
+            "RA": "20:20:58.96",
+            "Dec": "+00:46:25.2",
+            "redshift": null,
+            "Type": "Dwarf nova outburst",
+            "Time": "57607.42",
+            "Date": "20160807.42"
+        },
+        {
+            "Name": "AT2016ewy",
+            "RA": "20:38:18.87",
+            "Dec": "+14:48:36.2",
+            "redshift": null,
+            "Type": "Probable CV",
+            "Time": "57607.46",
+            "Date": "20160807.46"
+        },
+        {
+            "Name": "AT2016ewz",
+            "RA": "20:37:40.83",
+            "Dec": "+12:04:19.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "57607.46",
+            "Date": "20160807.46"
+        },
+        {
+            "Name": "AT2016exa",
+            "RA": "23:47:03.83",
+            "Dec": "-01:43:41.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "57607.53",
+            "Date": "20160807.53"
+        },
+        {
+            "Name": "AT2016eyr",
+            "RA": "02:56:05.80",
+            "Dec": "-14:11:18.6",
+            "redshift": "0.028933",
+            "Type": null,
+            "Time": "57608.59",
+            "Date": "20160808.59"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS survey",
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala",
+        "Mauna Loa"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AF And",
+            "RA": "J004333.08",
+            "Dec": "+411210.3",
+            "redshift": null,
+            "Type": "LBV",
+            "Time": "UT",
+            "Date": "2017-08-28"
+        }
+    ],
+    "References": [
+        "ATEL 10502",
+        "Humphreys et al. ApJ, 790, 48",
+        "ATEL 10383"
+    ],
+    "Event Type": "Spectroscopic transition",
+    "Time": "UT",
+    "Date": "2017-08-28",
+    "Telescope": "MMT",
+    "Instrument": "Blue Channel Spectrograph with the 500 line/mm grating",
+    "Observatory": "Mt. Hopkins, Arizona"
+}

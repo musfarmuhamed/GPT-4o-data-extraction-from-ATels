@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2018-11-06.94",
+            "Date": "2018-11-06"
+        }
+    ],
+    "References": [
+        "ATels #12177",
+        "#12179",
+        "#12181",
+        "Henze et al. 2014, 2015a, 2015b, 2018",
+        "Darnley et al. 2014, 2015, 2016",
+        "Poole et al. 2008",
+        "Breeveld et al. 2011"
+    ],
+    "Event Type": "eruption",
+    "Time": "2018-11-06.80 UT",
+    "Date": "2018-11-06",
+    "Telescope": "Neil Gehrels Swift Observatory",
+    "Instrument": "ultra-violet/optical telescope (UVOT)",
+    "Observatory": "Swift"
+}

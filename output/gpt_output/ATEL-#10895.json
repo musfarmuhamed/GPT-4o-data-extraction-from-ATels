@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-17xsq (SN 2017hng)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039,
+            "Type": null,
+            "Time": "2017 Oct. 25.7",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J04214029-0332267",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1995bd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "-9 days",
+            "Date": null
+        }
+    ],
+    "References": [
+        "PMO-Tsinghua Supernova Survey (PTSS, http://www.cneost.org/ptss/ )",
+        "Blondin and Tonry 2007, Ap.J., 666, 1024"
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "2017 Oct. 25.7",
+    "Date": null,
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

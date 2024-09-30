@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sgr 2015 No. 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "March 17.9",
+            "Date": null
+        },
+        {
+            "Name": "V339 Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013"
+        },
+        {
+            "Name": "V1369 Cen 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013"
+        }
+    ],
+    "References": [
+        "CBET 4080",
+        "ATEL #5302",
+        "Fermi-LAT collaboration, 2014 Science, 345, 554",
+        "ATEL #5649"
+    ],
+    "Event Type": "Gamma-ray observation",
+    "Time": "March 17.9",
+    "Date": "March 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with institutions in France, Italy, Japan, and Sweden"
+}

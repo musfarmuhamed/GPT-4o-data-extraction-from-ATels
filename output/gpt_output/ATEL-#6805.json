@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14lr",
+            "RA": "05:27:8.23",
+            "Dec": "+65:15:27.1",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "07.41",
+            "Date": "2014-12-07"
+        },
+        {
+            "Name": "SDSSJ225831.18-094931.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2QZJ015940.6-281040",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TYPsA",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Vizier, CRTS, AAVSO, ASAS-SN Homepage",
+    "Event Type": "Discovery",
+    "Time": "07.41",
+    "Date": "2014-12-07",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "old nova",
+            "Time": "01:12:59 GMT",
+            "Date": "2015 March 6.84 UT"
+        }
+    ],
+    "References": [
+        "VSNET-ALERT 18388",
+        "VSNET-ALERT 18389",
+        "ATEL #7217",
+        "http://swift.gsfc.nasa.gov/results/transients/weak/GKPer"
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": "01:12:59 GMT",
+    "Date": "2015 March 12",
+    "Telescope": "Swift",
+    "Instrument": "Swift X-ray Telescope (XRT)",
+    "Observatory": null
+}

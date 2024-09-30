@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Muscae 2018",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "3.3",
+            "Date": "2018-04-03"
+        },
+        {
+            "Name": "Nova Carinae 2018/ASASSN-18fv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic nova",
+            "Time": "3.3",
+            "Date": "2018-04-03"
+        }
+    ],
+    "References": [
+        "CBET #4473",
+        "ATel #11183",
+        "#11201",
+        "#11212",
+        "#11296",
+        "#11454",
+        "#11456",
+        "#11457",
+        "#11460",
+        "#11468"
+    ],
+    "Event Type": "Observation",
+    "Time": "3.3",
+    "Date": "2018-04-03",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": null,
+    "Observatory": "CSIRO"
+}

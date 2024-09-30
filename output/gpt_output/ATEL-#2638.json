@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2010da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "LBV outburst",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC300 OT2008-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-luminosity transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2008S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "progenitor",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AG Car",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "LBV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Berger et al. 2009, ApJ, 699, 1850; Bond et al. 2009, ApJ, 695, L154; Thompson et al. 2009, ApJ, 705, 1364; ATEL 2632; ATEL 2633; ATEL 2637",
+    "Event Type": "non-detection of progenitor and photometry of counterpart",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Magellan/Megacam, Gemini-south/GMOS, Spitzer, Swift/UVOT",
+    "Instrument": "Megacam, GMOS, IRAC, MIPS",
+    "Observatory": null
+}

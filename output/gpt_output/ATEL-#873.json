@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18159-3353",
+            "RA": "18 15 57.36",
+            "Dec": "-33 53 24",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "12:51",
+            "Date": "15 Feb 2006"
+        },
+        {
+            "Name": "IGR J20188+3647",
+            "RA": "20 18 48",
+            "Dec": "36 47 31.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "22:50",
+            "Date": "13 Jul 2004"
+        },
+        {
+            "Name": "IGR J21117+3427",
+            "RA": "21 11 47.52",
+            "Dec": "34 27 43.2",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "05:11",
+            "Date": "09 Jun 2003"
+        }
+    ],
+    "References": {
+        "Source": "INTEGRAL",
+        "Instrument": "IBIS/ISGRI"
+    },
+    "Event Type": "X-ray transient detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

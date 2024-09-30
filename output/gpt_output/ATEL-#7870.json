@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0836+71",
+            "RA": 130.35152,
+            "Dec": 70.89505,
+            "redshift": 2.218,
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UT",
+            "Date": "2 August 2015"
+        }
+    ],
+    "References": [
+        "Johnston et al. 1995, AJ, 110, 880",
+        "McIntosh et al. 1999, ApJ, 514, 40",
+        "Acero et al. 2015, ApJS 218, 23",
+        "Cusumano et al. 2010, A&A, 524, 64",
+        "Tagliaferri et al. 2015, ApJ, 807, 167",
+        "Pian et al. 2005, A&A, 429, 427",
+        "Collmar 2006, ASP Conf. Ser. 350, 120",
+        "Hartman et al. 1999, ApJS, 123, 79",
+        "ATel#3260",
+        "ATel#3831"
+    ],
+    "Event Type": "gamma-ray flaring",
+    "Time": "12:00-18:00 UT",
+    "Date": "2 August 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

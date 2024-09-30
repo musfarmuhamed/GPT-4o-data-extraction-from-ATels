@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0105.1-7211 (SXP3.34)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/neutron-star binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Meyssonnier & Azzopardi",
+            "Year": 1993,
+            "Journal": "A&AS",
+            "Volume": 102,
+            "Page": 451
+        },
+        {
+            "Authors": "Coe et al.",
+            "Year": 2005,
+            "Journal": "MNRAS",
+            "Volume": 356,
+            "Page": 502
+        }
+    ],
+    "Event Type": "Analysis of MACHO data",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MACHO",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056 (3FGL J0509.4+0541, 3FHL J0509.4+0542)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "https://gcn.gsfc.nasa.gov/gcn3/21916.gcn3",
+        "ATels 10773, 10787",
+        "Ajello et al., arXiv:1702.00664",
+        "https://fermi.gsfc.nasa.gov/ssc/data/access/lat/FAVA/SourceReport.php?week=477&flare=27",
+        "Healey et al. 2008, ApJS 175, 97",
+        "http://www.astro.caltech.edu/ovroblazars/data.php?page=data_query",
+        "http://www.physics.purdue.edu/astro/MOJAVE/sourcepages/0506+056.shtml"
+    ],
+    "Event Type": "extremely high-energy (EHE) neutrino event",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

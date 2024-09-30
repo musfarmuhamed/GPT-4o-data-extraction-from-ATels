@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1647-227",
+            "RA": 252.05134,
+            "Dec": -23.01534,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20:20 UT",
+            "Date": "June 15, 2012"
+        },
+        {
+            "Name": "Unnamed bright X-ray source",
+            "RA": 252.05134,
+            "Dec": -23.01534,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20:20 UT",
+            "Date": "June 15, 2012"
+        }
+    ],
+    "References": "Negoro et al., ATEL #4175; Evans et al. (2009, MNRAS, 397, 1177); Evans et al. (2007, A&A, 469, 379)",
+    "Event Type": "target of opportunity observation",
+    "Time": "20:20 UT",
+    "Date": "June 15, 2012",
+    "Telescope": "Swift",
+    "Instrument": "XRT in Photon Counting (PC) mode",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

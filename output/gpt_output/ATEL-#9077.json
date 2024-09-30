@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1846-0258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": "Aug 4, 2008 - Mar 11, 2016",
+            "Date": null
+        },
+        {
+            "Name": "PSR B1509-58",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft gamma-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kuiper & Hermsen 2015; MNRAS 449, p. 3839"
+    ],
+    "Event Type": "Detection of pulsed gamma-ray emission",
+    "Time": "Feb. 14, 2013 - Mar 2, 2016",
+    "Date": null,
+    "Telescope": [
+        "Fermi",
+        "Swift"
+    ],
+    "Instrument": [
+        "LAT",
+        "GBM",
+        "XRT",
+        "RXTE PCA"
+    ],
+    "Observatory": null
+}

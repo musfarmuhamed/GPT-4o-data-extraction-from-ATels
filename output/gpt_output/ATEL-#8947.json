@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16el",
+            "RA": "08:56:39.08",
+            "Dec": "+52:06:10.01",
+            "redshift": "0.013519",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2016-04-13.26"
+        },
+        {
+            "Name": "UGC 04671",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.013519",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "AT 2016bmf",
+            "RA": "08:56:39.08",
+            "Dec": "+52:06:10.01",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2016-04-13.26"
+        }
+    ],
+    "References": "ASAS-SN Homepage, NED",
+    "Event Type": "discovery",
+    "Time": "UT 2016-04-13.26",
+    "Date": "2016-04-13",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

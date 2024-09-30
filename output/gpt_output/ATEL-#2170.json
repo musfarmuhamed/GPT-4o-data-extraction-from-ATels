@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18151-1052",
+            "RA": "18h15m09.60s",
+            "Dec": "-10d52m48.0s",
+            "redshift": null,
+            "Type": "Potentially obscured object (AGN, HMXB, CV)",
+            "Time": "5151 seconds",
+            "Date": "2009 August 18"
+        },
+        {
+            "Name": "IGR J17009+3559",
+            "RA": "17h01m00.00s",
+            "Dec": "35d59m24.0s",
+            "redshift": "0.112+/-0.003",
+            "Type": "X-ray bright optically normal galaxy (XBONG)",
+            "Time": "4896 seconds",
+            "Date": "2009 August 12"
+        }
+    ],
+    "References": "Krivonos et al. 2007, A&A, 475, 775; INTEGRAL all-sky survey, online catalog of X-Ray sources",
+    "Event Type": "Detection of new hard X-ray sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "SWIFT/XRT, Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": "IBIS, TFOSC",
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

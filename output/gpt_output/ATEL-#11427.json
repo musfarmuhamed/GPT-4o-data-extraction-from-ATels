@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "New transient",
+            "Time": "2018-03-07 00:41:07 until 2018-03-15 06:20:58",
+            "Date": "2018-03-07 to 2018-03-15"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole binary",
+            "Time": "MJD 58190.004-58192.264",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #11399",
+        "#11400",
+        "#11403",
+        "#11404",
+        "#11406",
+        "#11418",
+        "#11420",
+        "#11421",
+        "#11423",
+        "#11424",
+        "#11425"
+    ],
+    "Event Type": "Analysis of new transient",
+    "Time": "2018-03-07 00:41:07 until 2018-03-15 06:20:58",
+    "Date": "2018-03-07 to 2018-03-15",
+    "Telescope": "Swift/BAT",
+    "Instrument": "NTHCOMP",
+    "Observatory": null
+}

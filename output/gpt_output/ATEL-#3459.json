@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0686,
+            "Type": "blazar",
+            "Time": "10:22 UTC",
+            "Date": "2011-06-28"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Albert et al., ApJ 666, L17, 2007",
+        "ATel #3380",
+        "ATel #3375",
+        "ATel #3371",
+        "ATel #3377",
+        "ATel #3368",
+        "ATel #3387"
+    ],
+    "Event Type": "flare",
+    "Time": "10:22 UTC",
+    "Date": "2011-06-28",
+    "Telescope": "VERITAS",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0131-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "FSRQ",
+            "Time": "03:00:00",
+            "Date": "2017-11-22"
+        },
+        {
+            "Name": "3FGL J0133.2-5159",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "FSRQ",
+            "Time": "03:00:00",
+            "Date": "2017-11-22"
+        }
+    ],
+    "References": "ATel #10987",
+    "Event Type": "Enhanced gamma-ray emission",
+    "Time": "03:00:00",
+    "Date": "2017-11-22",
+    "Telescope": "Fermi-LAT",
+    "Instrument": "AGILE",
+    "Observatory": null
+}

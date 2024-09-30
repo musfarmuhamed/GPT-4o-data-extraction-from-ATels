@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Geminga (PSR J0633+1746)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray pulsar",
+            "Time": "continuous",
+            "Date": "2014 March 12.03 to May 27.69"
+        },
+        {
+            "Name": "Star G",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Comparison Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab pulsar (PSR J0534+2200)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bignami, Caraveo, and Paul 1988, A&A, 202, L1",
+        "Shibanov, Y. A. et al. 2006, A&A, 448, 313",
+        "Jackson, M. S. et al. 2002, ApJ, 578, 935",
+        "Maan, Y. 2015, ApJ, 815, 126",
+        "ATel #2855",
+        "ATel #4239",
+        "Mayer, M. et al. 2013, ApJLett, 775, L37"
+    ],
+    "Event Type": [
+        "gamma-ray flares"
+    ],
+    "Time": [
+        "2014 March 12.03 to March 15.85",
+        "2014 March 19.16 to March 25.66",
+        "2014 April 21.40 to May 27.69"
+    ],
+    "Date": [
+        "2014 March 12.03 to May 27.69"
+    ],
+    "Telescope": "Kepler spacecraft",
+    "Instrument": "Kepler",
+    "Observatory": "Kepler"
+}

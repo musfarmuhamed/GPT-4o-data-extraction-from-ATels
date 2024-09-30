@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15li",
+            "RA": "14:25:07.69",
+            "Dec": "+62:53:29.7",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2015-06-16.34",
+            "Date": null
+        },
+        {
+            "Name": "2MASX J14250783+6253235",
+            "RA": "14:25:07.83",
+            "Dec": "+62:53:23.5",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients"
+    ],
+    "Event Type": "Discovery of a new transient source",
+    "Time": "2015-06-16.34",
+    "Date": null,
+    "Telescope": "14-cm 'Brutus' telescope",
+    "Instrument": "Not specified",
+    "Observatory": "Haleakala, Hawaii"
+}

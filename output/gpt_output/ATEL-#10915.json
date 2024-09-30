@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER075353.88+174907.6",
+            "RA": "07h 53m 53.88s",
+            "Dec": "+17d 49m 07.6s",
+            "redshift": null,
+            "Type": "new blue OT",
+            "Time": "2017-10-31.20911",
+            "Date": "2017-10-31"
+        },
+        {
+            "Name": "MASTER OT J174408.16-582236.5",
+            "RA": "17h 44m 08.16s",
+            "Dec": "-58d 22m 36.5s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2017-10-27.76733",
+            "Date": "2017-10-27"
+        },
+        {
+            "Name": "MASTER OT J072347.15+041144.4",
+            "RA": "07h 23m 47.15s",
+            "Dec": "+04d 11m 44.4s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2017-10-26.31941",
+            "Date": "2017-10-26"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

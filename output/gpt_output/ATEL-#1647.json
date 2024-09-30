@@ -1,0 +1,86 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-12b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": null,
+            "Date": "2008-01"
+        },
+        {
+            "Name": "Bol 111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft transient",
+            "Time": null,
+            "Date": "2007-11"
+        },
+        {
+            "Name": "M31N 2007-06b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical nova",
+            "Time": null,
+            "Date": "2007-06"
+        },
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": "00:42:45.97",
+            "Dec": "+41:10:36.6",
+            "redshift": null,
+            "Type": "transient X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J004241.2+411821",
+            "RA": "00:42:41.27",
+            "Dec": "+41:18:21.5",
+            "redshift": null,
+            "Type": "transient X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[PFH2005] 430",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[PFH2005] 329",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard recurrent transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1324",
+        "ATel #1329",
+        "ATel #1332",
+        "ATel #1360",
+        "ATel #1118",
+        "ATel #1294",
+        "ATel #1333",
+        "ATel #1344",
+        "Pietsch et al. 2005, A&A 434, 483",
+        "Williams et al. 2006, ApJ 643, 356",
+        "Tr\u00fcmper et al. 1991, Nature 349, 579"
+    ],
+    "Event Type": "XMM-Newton observation",
+    "Time": "22 ks",
+    "Date": "2008-07-18.26",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18rzj",
+            "IAU Name": "AT2018dgx",
+            "RA": "17:48:05.32",
+            "Dec": "+52:13:25.34",
+            "redshift": 0.025,
+            "Type": "Ic",
+            "Time": "max",
+            "Date": "2018-07-20"
+        },
+        {
+            "Name": "ATLAS18sdz",
+            "IAU Name": "AT2018dyz",
+            "RA": "15:10:40.48",
+            "Dec": "+08:34:27.76",
+            "redshift": 0.045,
+            "Type": "Ia",
+            "Time": "<-7 d",
+            "Date": "2018-07-20"
+        },
+        {
+            "Name": "ZTF18abgmcmv",
+            "IAU Name": "AT2018eay",
+            "RA": "18:16:13.08",
+            "Dec": "+55:35:27.20",
+            "redshift": 0.018,
+            "Type": "Ia",
+            "Time": "<-7 d",
+            "Date": "2018-07-20"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Blondin & Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Authors": "Phillips et al.",
+            "Year": 2013,
+            "Journal": "ApJ",
+            "Volume": 779,
+            "Page": 38
+        }
+    ],
+    "Event Type": "classification of optical transients",
+    "Time": "unknown",
+    "Date": "2018-07-20",
+    "Telescope": "Shane",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05007-7047",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.00192-00057570",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright blue star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sazonov et al (2005, A&A, 444, 37)",
+        "Halpern ATEL#572",
+        "Masetti et al 2006, A&A, 459, 21"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "Swift-BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

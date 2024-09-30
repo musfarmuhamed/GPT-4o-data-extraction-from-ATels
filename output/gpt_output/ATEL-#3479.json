@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "06.84",
+            "Date": "July 06"
+        },
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "07.80",
+            "Date": "July 07"
+        }
+    ],
+    "References": [
+        "ATel #3473",
+        "ATel #3470",
+        "http://users.utu.fi/kani/1m/PKS_1510-089.html"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2m RCC telescope, 60cm Cassegrain telescope",
+    "Instrument": "Optics",
+    "Observatory": "Rozhen NAO, Bulgaria"
+}

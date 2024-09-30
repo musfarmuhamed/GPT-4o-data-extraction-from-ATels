@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": "06 39 38.6006",
+            "Dec": "+05 53 52.826",
+            "redshift": null,
+            "Type": "Optical Nova",
+            "Time": null,
+            "Date": "June 22"
+        },
+        {
+            "Name": "V407 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Emission",
+            "Time": null,
+            "Date": "2010"
+        },
+        {
+            "Name": "Nova Sco 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Emission",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #4224",
+        "ATEL #4310",
+        "CBET #3202",
+        "ATEL #4352",
+        "ATEL #4376",
+        "ATEL #4321",
+        "ATEL #2487",
+        "ATEL #4284"
+    ],
+    "Event Type": "Gamma-ray Transient",
+    "Time": null,
+    "Date": "Sep 18",
+    "Telescope": "e-VLBI",
+    "Instrument": null,
+    "Observatory": "European VLBI Network"
+}

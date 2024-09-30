@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15go",
+            "RA": "06:11:30.50",
+            "Dec": "-16:29:03.52",
+            "redshift": null,
+            "Type": "transient source (most likely a supernova)",
+            "Time": "2015-04-06.05",
+            "Date": "2015-04-06"
+        },
+        {
+            "Name": "2MASX J06113048-162908",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018923",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery of a new transient source",
+    "Time": "2015-04-06.05",
+    "Date": "2015-04-06",
+    "Telescope": "Cassius, Meade RCX400",
+    "Instrument": "CCD (ST8-XME)",
+    "Observatory": "Cerro Tololo, Klein Karoo Observatory"
+}

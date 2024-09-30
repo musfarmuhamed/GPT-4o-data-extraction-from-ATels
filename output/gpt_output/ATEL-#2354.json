@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18173-2509",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "13700 s",
+            "Date": "2008-03-05 to 2008-03-08"
+        },
+        {
+            "Name": "SWIFT J2138.8+5544",
+            "RA": "21 38 49.91",
+            "Dec": "+55 44 05.6",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "200 ks",
+            "Date": "2005-04-22 to 2005-05-06"
+        }
+    ],
+    "References": [
+        "Masetti et al. 2009, A&A, 495, 121",
+        "Landi et al. 2008, ATel #1437",
+        "Tomsick et al. 2009, ApJ, 701, 811",
+        "Witham et al. 2008, MNRAS, 384, 1277"
+    ],
+    "Event Type": [
+        "Periodic variability detection"
+    ],
+    "Time": [
+        "XRT: 13700 s",
+        "Chandra: 5000 s",
+        "XRT: 200 ks"
+    ],
+    "Date": [
+        "2008-03-05 to 2008-03-08",
+        "2008-05",
+        "2005-04-22 to 2005-05-06",
+        "2009-10-26"
+    ],
+    "Telescope": [
+        "Swift-XRT",
+        "Chandra",
+        "Swift-XRT",
+        "1.52 m telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Brera And Roma Astronomical Observatories",
+        "INTEGRAL",
+        "Loiano Observatory"
+    ]
+}

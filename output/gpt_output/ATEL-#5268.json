@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 130807A",
+            "RA": "17h 59m 12.16s",
+            "Dec": "-27d 36' 57.5\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "10:25:43 UT",
+            "Date": "2013 August 7th"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Melandri et al.",
+            "GCN": "#15082"
+        },
+        {
+            "Author": "Markwardt et al.",
+            "GCN": "#15083"
+        },
+        {
+            "Author": "Romano et al.",
+            "Journal": "A&A, 456, 917",
+            "Year": 2006
+        },
+        {
+            "Author": "Burrows et al.",
+            "Journal": "Nature, 476, 421",
+            "Year": 2011
+        },
+        {
+            "Author": "De Pasquale & Melandri",
+            "GCN": "#15086"
+        }
+    ],
+    "Event Type": "Transient Source",
+    "Time": "10:25:43 UT",
+    "Date": "2013 August 7th",
+    "Telescope": "Swift",
+    "Instrument": [
+        {
+            "Name": "BAT",
+            "Type": "Burst Alert Telescope"
+        },
+        {
+            "Name": "XRT",
+            "Type": "X-Ray Telescope"
+        },
+        {
+            "Type": "UltraViolet/Optical Telescope"
+        }
+    ],
+    "Observatory": "Null"
+}

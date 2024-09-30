@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ab",
+            "RA": "11:55:04.245",
+            "Dec": "+01:43:06.77",
+            "redshift": "0.004293",
+            "Type": "supernova",
+            "Time": "2016-01-03.62",
+            "Date": "2016-01-03"
+        },
+        {
+            "Name": "PGC 037392",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.004293",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovery",
+    "Time": "2016-01-03.62",
+    "Date": "2016-01-03",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

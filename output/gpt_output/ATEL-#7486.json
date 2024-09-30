@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15aii",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.046589,
+            "Type": "type-Ia supernova",
+            "Time": "8.8 UT",
+            "Date": "2015 May 8"
+        }
+    ],
+    "References": [
+        "Wright et al. 2015, ATel #7484",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Kent et al. 2008, AJ, 136, 713, via NED"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": "8.8 UT",
+    "Date": "2015 May 8",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

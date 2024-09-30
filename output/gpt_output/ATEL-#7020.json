@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17454-2919",
+            "RA": "17 45 27.689",
+            "Dec": "-29 19 53.83",
+            "redshift": null,
+            "Type": null,
+            "Time": "20ks",
+            "Date": "2014 November 3"
+        },
+        {
+            "Name": "2MASS J17452768-2919534",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #6530",
+        "#6574",
+        "#6602"
+    ],
+    "Event Type": "Observation",
+    "Time": "20ks",
+    "Date": "2014 November 3",
+    "Telescope": "Chandra",
+    "Instrument": "HETGS",
+    "Observatory": null
+}

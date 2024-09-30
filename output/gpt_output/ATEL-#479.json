@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17098-3628",
+            "RA": "17h09m46.161s",
+            "Dec": "-36d27m58.05s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:23-18:19 UTC",
+            "Date": "May 1st"
+        },
+        {
+            "Name": "2MASS J17094612-3627573",
+            "RA": "17h9m46.166s",
+            "Dec": "-36d27m57.50s",
+            "redshift": null,
+            "Type": "Possible optical/IR counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #444",
+        "ATEL #476",
+        "ATEL #477",
+        "ATEL #478",
+        "2MASS All-Sky Catalogue",
+        "SuperCOSMOS Sky Survey",
+        "http://www.mssl.ucl.ac.uk/twiki/bin/view/SwiftBA/IGRJ17098-3628"
+    ],
+    "Event Type": "Observation",
+    "Time": "16:23-18:19 UTC",
+    "Date": "May 1st",
+    "Telescope": "Swift, Magellan-Baade",
+    "Instrument": "Swift-XRT, UVOT",
+    "Observatory": null
+}

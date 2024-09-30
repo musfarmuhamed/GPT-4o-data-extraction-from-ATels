@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "Near the peak of its most recent eruption",
+            "Date": null
+        }
+    ],
+    "References": "ATel #11116",
+    "Event Type": "multi-color CCD photometry",
+    "Time": null,
+    "Date": [
+        "2018 Jan 01.076",
+        "2018 Jan 01.080",
+        "2018 Jan 01.084",
+        "2018 Jan 01.302",
+        "2018 Jan 01.306",
+        "2018 Jan 01.309"
+    ],
+    "Telescope": "40-inch reflector",
+    "Instrument": "CCD imaging camera",
+    "Observatory": "San Diego State University's Mount Laguna Observatory"
+}

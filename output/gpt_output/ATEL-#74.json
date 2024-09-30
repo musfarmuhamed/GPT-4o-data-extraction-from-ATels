@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC6440",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "before 2001-08-14",
+            "Date": "2001-08-14"
+        },
+        {
+            "Name": "V2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical variable",
+            "Time": "1998-08",
+            "Date": "1998-08"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "In 't Zand et al. 1999, A&A 345, 100"
+        },
+        {
+            "Reference": "Verbunt et al. 2000, A&A 359, 960"
+        },
+        {
+            "Reference": "Zavlin et al. 1996 A&A 315, 141"
+        }
+    ],
+    "Event Type": "Outburst",
+    "Time": "since before 2001-08-14",
+    "Date": "2001-08-14",
+    "Telescope": "ESO NTT",
+    "Instrument": "SUSI2, Chandra ACIS-S",
+    "Observatory": "Chandra"
+}

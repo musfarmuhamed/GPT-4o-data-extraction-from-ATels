@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT MASTER J091744.35+403206.5",
+            "RA": "09h 17m 44.35s",
+            "Dec": "+40d 32m 06.5s",
+            "redshift": null,
+            "Type": "PSN in SDSS J091744.29+403206.9",
+            "Time": "2012-04-15.61514 UT",
+            "Date": "2012-04-15"
+        },
+        {
+            "Name": "OT MASTER J114525.38+212019.8",
+            "RA": "11h 45m 25.38s",
+            "Dec": "+21d 20m 19.8s",
+            "redshift": null,
+            "Type": "PSN in SDSS galaxy J114525.63+212020",
+            "Time": "2012-04-14.66362 UT",
+            "Date": "2012-04-14"
+        },
+        {
+            "Name": "OT MASTER J111440.10+103905.2",
+            "RA": "11h 14m 40.10s",
+            "Dec": "+10d 39m 05.2s",
+            "redshift": null,
+            "Type": "PSN in SDSS J111440.12+103903.7",
+            "Time": "2012-04-14.65809 UT",
+            "Date": "2012-04-14"
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/OT120407list/091744.35403206.5.png",
+        "http://observ.pereplet.ru/images/OT120407list/114525.38212019.8_1.png",
+        "http://observ.pereplet.ru/images/OT120407list/111440.10103905.2.png"
+    ],
+    "Event Type": "MASTER-Tunka auto-detection system discovered OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

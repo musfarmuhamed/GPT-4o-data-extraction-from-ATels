@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J122114.34+472950.7",
+            "RA": "12h 21m 14.27s",
+            "Dec": "+47d 29m 51.4s",
+            "redshift": null,
+            "Type": "possible luminous supernova",
+            "Time": "unknown",
+            "Date": "2013-03-28.48019 UT"
+        },
+        {
+            "Name": "MASTER OT J185838.73+460207.2",
+            "RA": "18h 58m 38.73s",
+            "Dec": "+46d 02m 07.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "unknown",
+            "Date": "2013-03-28.69633 UT"
+        },
+        {
+            "Name": "MASTER OT J184141.08+324317.2",
+            "RA": "18h 41m 41.08s",
+            "Dec": "+32d 43m 17.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "unknown",
+            "Date": "2013-03-28.75608 UT"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/122114.27472951.4.png",
+        "http://master.sai.msu.ru/static/OT/J185838+460207-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/J185838+460207-GALEX.jpg",
+        "http://master.sai.msu.ru/static/OT/185838.73460207.2.png",
+        "http://master.sai.msu.ru/static/OT/J184141+324317-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/184141.08324317.2.png"
+    ],
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

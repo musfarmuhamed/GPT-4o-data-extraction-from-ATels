@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016iae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic supernova",
+            "Time": "12.9",
+            "Date": "2016 Nov"
+        },
+        {
+            "Name": "ATLAS16dvr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2007cl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic supernova",
+            "Time": null,
+            "Date": "-6 days"
+        },
+        {
+            "Name": "SN 2004aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic supernova",
+            "Time": null,
+            "Date": "-2 days"
+        }
+    ],
+    "References": "Tonry et al. 2016, ATel #9749; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": null,
+    "Time": "12.9",
+    "Date": "2016 Nov",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

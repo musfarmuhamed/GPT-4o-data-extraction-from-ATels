@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18103-1903",
+            "RA": "18 10 23.3",
+            "Dec": "-19 03 32",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2008-03-12T22:17 to 2008-03-15T00:48",
+            "Date": "2008-03-12 to 2008-03-15"
+        },
+        {
+            "Name": "XTE J1810-189",
+            "RA": "18 10 25.9",
+            "Dec": "-19 04 12",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2008-03-16",
+            "Date": "2008-03-16"
+        },
+        {
+            "Name": "IRAS 18073-1904",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt & Swank (ATel#1424)",
+    "Event Type": "Detection of X-ray transients",
+    "Time": "2008-03-12T22:17 to 2008-03-16",
+    "Date": "2008-03-12 to 2008-03-16",
+    "Telescope": "IBIS/ISGRI, Swift/BAT",
+    "Instrument": "OSA7 analysis software",
+    "Observatory": "INTEGRAL"
+}

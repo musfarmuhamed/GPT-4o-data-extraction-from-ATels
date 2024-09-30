@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES16C2aiu",
+            "RA": "03:39:20.86",
+            "Dec": "-29:50:37.4",
+            "redshift": "0.699",
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016 Sep 08"
+        },
+        {
+            "Name": "DES16E2xk",
+            "RA": "00:40:15.94",
+            "Dec": "-43:18:26.3",
+            "redshift": "0.510",
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016 Sep 11"
+        },
+        {
+            "Name": "DES16C1aua",
+            "RA": "03:39:43.64",
+            "Dec": "-26:24:44.9",
+            "redshift": "0.453",
+            "Type": "SNIa",
+            "Time": "Null",
+            "Date": "2016 Sep 27"
+        },
+        {
+            "Name": "DES16X2bda",
+            "RA": "02:24:11.14",
+            "Dec": "-06:01:56.3",
+            "redshift": "0.236",
+            "Type": "SNIb/c?",
+            "Time": "Null",
+            "Date": "2016 Sep 27"
+        },
+        {
+            "Name": "DES16X3bdb",
+            "RA": "02:23:12.41",
+            "Dec": "-04:10:38.2",
+            "redshift": "0.229",
+            "Type": "SNIb/c",
+            "Time": "Null",
+            "Date": "2016 Sep 27"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al, 2005, ApJ, 634, 119",
+    "Event Type": "Optical Spectroscopy",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Gemini-North and Gemini-South",
+    "Instrument": "GMOS",
+    "Observatory": "Null"
+}

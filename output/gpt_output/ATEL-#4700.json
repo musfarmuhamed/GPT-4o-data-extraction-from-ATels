@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SSS130101:122222-311525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright transient",
+            "Time": [
+                "16.357 UT",
+                "17.248 UT",
+                "11.946 UT"
+            ],
+            "Date": [
+                "2012 Dec. 16",
+                "2012 Dec. 17",
+                "2012 July 11"
+            ]
+        }
+    ],
+    "References": [
+        "Drake et al., ATel #4699",
+        "H. Maehara in [vsnet-alert 15240]"
+    ],
+    "Event Type": "bright transient detection",
+    "Time": [
+        "16.357 UT",
+        "17.248 UT",
+        "11.946 UT"
+    ],
+    "Date": [
+        "2012 Dec. 16",
+        "2012 Dec. 17",
+        "2012 July 11"
+    ],
+    "Telescope": "MASTER-ICATE very wide field camera",
+    "Instrument": "72-mm f/1.2 lens + 11 Mpx CCD",
+    "Observatory": "OAFA near San Juan, Argentina"
+}

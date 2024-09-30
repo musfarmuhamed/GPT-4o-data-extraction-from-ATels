@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0131-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "Various times",
+            "Date": "2014-06-05 to 2014-06-17"
+        }
+    ],
+    "References": [
+        "ATel #6223",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Verner et al. 1996, ApJ, 465, 487"
+    ],
+    "Event Type": "Gamma-ray detection and follow-up observations",
+    "Time": "Various times",
+    "Date": "2014-06-05 to 2014-06-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

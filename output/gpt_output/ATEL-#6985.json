@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-01a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "15.80 UT",
+            "Date": "2015 Jan. 15"
+        },
+        {
+            "Name": "M31N 2015-01a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.71 UT",
+            "Date": "2015 Jan. 21"
+        }
+    ],
+    "References": [
+        "ATel #6911",
+        "ATels #6924",
+        "ATels #6941",
+        "ATel #6951",
+        "ATel #6952"
+    ],
+    "Event Type": "optical spectroscopy and photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian BTA",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": null
+}

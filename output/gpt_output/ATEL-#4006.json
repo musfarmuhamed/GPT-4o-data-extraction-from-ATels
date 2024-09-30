@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source 1",
+            "RA": "17 49 23.76",
+            "Dec": "-30 29 59.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:41-04:52",
+            "Date": "11 July 2010"
+        },
+        {
+            "Name": "Source 2",
+            "RA": "17 49 23.85",
+            "Dec": "-30 29 58.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:41-04:52",
+            "Date": "11 July 2010"
+        },
+        {
+            "Name": "Source 3",
+            "RA": "17 49 23.89",
+            "Dec": "-30 29 59.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:41-04:52",
+            "Date": "11 July 2010"
+        },
+        {
+            "Name": "Source 4",
+            "RA": "17 49 23.66",
+            "Dec": "-30 29 58.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:41-04:52",
+            "Date": "11 July 2010"
+        },
+        {
+            "Name": "Source 5",
+            "RA": "17 49 23.71",
+            "Dec": "-30 30 00.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:41-04:52",
+            "Date": "11 July 2010"
+        }
+    ],
+    "References": [
+        "ATel #3989",
+        "ATel #3984",
+        "Minniti et al. 2010, New Astron., 15, 433"
+    ],
+    "Event Type": "near-infrared (NIR) follow-up",
+    "Time": [
+        "06:20-06:33",
+        "04:41-04:52",
+        "01:07"
+    ],
+    "Date": [
+        "9 July 2010",
+        "11 July 2010",
+        "13 October 2011"
+    ],
+    "Telescope": "4.1m VISTA telescope",
+    "Instrument": [
+        "JHKs photometric system",
+        "Ks photometric system"
+    ],
+    "Observatory": "Cerro Paranal (Chile)"
+}

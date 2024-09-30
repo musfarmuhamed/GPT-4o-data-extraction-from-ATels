@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00:42:07.99",
+            "Dec": "40:55:01.1",
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": "24 October 2014"
+        },
+        {
+            "Name": "MASTER J004207.99+405501.1",
+            "RA": "00:42:07.99",
+            "Dec": "40:55:01.1",
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": "24 October 2014"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1309 Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous red nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATELs 6911",
+        "ATELs 6985",
+        "ATELs 7150",
+        "Massey et al. (2006)",
+        "Kochanek et al. (2014)",
+        "Stanek & Garnavich (1998)",
+        "Rich et al. (1989)"
+    ],
+    "Event Type": "stellar merger",
+    "Time": null,
+    "Date": "24 October 2014",
+    "Telescope": [
+        "CFHT",
+        "SDSS",
+        "HST"
+    ],
+    "Instrument": [
+        "ACS",
+        "Dolphot"
+    ],
+    "Observatory": null
+}

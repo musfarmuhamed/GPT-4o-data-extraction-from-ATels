@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048,
+            "Type": "HBL source",
+            "Time": "0.3-10 keV",
+            "Date": "2017-05-27"
+        }
+    ],
+    "References": [
+        "Kapanadze et al. 2016, MNRAS, 461, L26",
+        "ATel #8014",
+        "ATel #8289",
+        "ATel #8342",
+        "ATel #8468",
+        "ATel #9121",
+        "ATel #9205",
+        "ATel #9694",
+        "ATel #9949",
+        "http://www.swift.psu.edu/monitoring/source.php?source=1ES1959+650"
+    ],
+    "Event Type": "enhanced X-ray activity",
+    "Time": null,
+    "Date": "2015-08",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (Swift-XRT)",
+    "Observatory": "Pennsylvania State University",
+    "ToO request Number": 9432
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163343.30+294131.6",
+            "RA": "16h 33m 43.30s",
+            "Dec": "+29d 41m 31.6s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "UT",
+            "Date": "2015-04-20T17:15:08.18"
+        },
+        {
+            "Name": "SDSS J163343.29+294130.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "UT",
+    "Date": "2015-04-20",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

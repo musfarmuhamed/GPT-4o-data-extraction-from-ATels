@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0947-0148659",
+            "RA": "07:53:30.78",
+            "Dec": "+04:45:56.3",
+            "redshift": null,
+            "Type": "VY Scl-type cataclysmic variable",
+            "Time": "NEAT archival images, monitoring since April 2011, February 10, 2012, February 11, 2012",
+            "Date": "April 2011, May 2011, February 10, 2012, February 11, 2012"
+        },
+        {
+            "Name": "1RXS J075330.1+044606",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ROSAT All Sky Survey Faint Source Catalog (Voges et al., 2000, IAUC, 7432)",
+        "USNO-B1.0 catalog (Monet et al. 2003, AJ, 125, 984)",
+        "Denisenko & Sokolovsky (2011, AstL, 37, 91)"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Bradford Robotic Telescope",
+    "Instrument": "40cm telescope, 1.5m Russian-Turkish telescope",
+    "Observatory": [
+        "Ka-Dar observatory (Karachay-Cherkessia, Russia)",
+        "TUBITAK National Observatory (Turkey)"
+    ]
+}

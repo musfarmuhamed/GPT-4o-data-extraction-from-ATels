@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown X-ray source",
+            "RA": 118.6,
+            "Dec": 16.6,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "21:48:36",
+            "Date": "2009-12-01"
+        },
+        {
+            "Name": "Unknown X-ray source",
+            "RA": [
+                116.27,
+                116.96,
+                120.22,
+                120.96
+            ],
+            "Dec": [
+                14.59,
+                14.14,
+                19.33,
+                18.95
+            ],
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "21:48:36",
+            "Date": "2009-12-01"
+        }
+    ],
+    "References": null,
+    "Event Type": "X-ray detection",
+    "Time": "21:48:36",
+    "Date": "2009-12-01",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": "International Space Station (ISS)"
+}

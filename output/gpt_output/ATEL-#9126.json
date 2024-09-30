@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16bcb",
+            "RA": "17:09:30.31",
+            "Dec": "+21:36:29.7",
+            "redshift": 0.048703,
+            "Type": "transient (most likely a supernova)",
+            "Time": null,
+            "Date": "3 June 2016"
+        },
+        {
+            "Name": "2MASX J17093078+2136344",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048703,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "new transient source",
+    "Time": "MJD 57542.43",
+    "Date": "3 June 2016",
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

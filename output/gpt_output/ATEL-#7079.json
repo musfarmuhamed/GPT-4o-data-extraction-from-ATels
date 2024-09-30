@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J14021678+5426205",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:00",
+            "Date": "2015-02-15"
+        }
+    ],
+    "References": [
+        "ATel #7072",
+        "ATel #7070",
+        "ATel #7069",
+        "ATel #7063"
+    ],
+    "Event Type": null,
+    "Time": "00:00",
+    "Date": "2015-02-15",
+    "Telescope": [
+        "0.6m Schmidt telescope",
+        "0.5m BART telescope"
+    ],
+    "Instrument": [
+        "Johnson-Cousins BVRI filters",
+        "Sloan griz filters"
+    ],
+    "Observatory": [
+        "Konkoly Observatory, Piszkesteto, Hungary",
+        "Baja Observatory, Hungary"
+    ]
+}

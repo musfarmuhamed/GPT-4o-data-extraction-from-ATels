@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016jbg",
+            "RA": "00h43m01s.49",
+            "Dec": "+41o16'59''.40",
+            "redshift": null,
+            "Type": "presumed nova",
+            "Time": "02.9683 to 04.2303",
+            "Date": "2016 December 27"
+        },
+        {
+            "Name": "AT2016ize",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "presumed nova",
+            "Time": "04.0325",
+            "Date": "2016 December 27"
+        }
+    ],
+    "References": "IAU-TNS, ATel#9896",
+    "Event Type": "transients",
+    "Time": "02.9683 to 04.2303",
+    "Date": "2016 December 27",
+    "Telescope": "ARCSAT 0.5m",
+    "Instrument": "SurveyCam imager",
+    "Observatory": "Apache Point Observatory"
+}

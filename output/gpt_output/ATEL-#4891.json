@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J10524126+3640086",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN impostor",
+            "Time": "UT",
+            "Date": "2013 March 11"
+        },
+        {
+            "Name": "SN 2000ch",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN impostor",
+            "Time": "UT",
+            "Date": "2000 May 31"
+        }
+    ],
+    "References": [
+        "Nevski et al., IAU CBAT Transient Objects Confirmation Page",
+        "Wagner et al. 2004, PASP, 116, 326",
+        "Pastorello et al. 2010, MNRAS, 408, 181"
+    ],
+    "Event Type": "spectrum acquisition",
+    "Time": "UT",
+    "Date": "2013 March 11",
+    "Telescope": "Keck-I 10-m",
+    "Instrument": "Low Resolution Imaging Spectrometer (LRIS)",
+    "Observatory": null
+}

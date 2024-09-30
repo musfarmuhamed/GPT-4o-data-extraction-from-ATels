@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "16:55",
+            "Date": "2011-05-23"
+        }
+    ],
+    "References": [
+        "ATel #3368",
+        "ATel #3371",
+        "ATel #3375",
+        "Ravasio et al. 2003, A&A, 408, 479",
+        "Falcone & Stroh, the Swift Monitoring Program",
+        "Abdo et al. 2011, ApJ, 730, 101",
+        "Madejski et al. 1999, ApJ, 521, 145",
+        "Gonzalez-Perez et al. 2001, AJ, 122, 2055",
+        "vsnet-alert 13337",
+        "American Association of Variable Star Observers (AAVSO) database"
+    ],
+    "Event Type": "increase in gamma-ray, optical and near-infrared activity",
+    "Time": "16:55",
+    "Date": "2011-05-23",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

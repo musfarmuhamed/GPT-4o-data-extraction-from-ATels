@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Swift/BAT http://swift.gsfc.nasa.gov/results/transients/CygX-3/",
+        "Krimm et al. 2013, ApJS 209, 14",
+        "Fermi/LAT Collaboration et al. 2009, Science 326, 1512",
+        "ATel#2646",
+        "Corbel et al. 2012, MNRAS 421, 2947",
+        "ATel#2609",
+        "ATel#2644",
+        "ATel#2645",
+        "ATel#3141",
+        "ATel#3233",
+        "ATel#3386"
+    ],
+    "Event Type": "hard X-ray emission drop",
+    "Time": null,
+    "Date": "2016 Jan 11",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

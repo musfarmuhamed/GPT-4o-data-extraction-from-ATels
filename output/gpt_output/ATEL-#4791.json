@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "hb890133+476",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.859",
+            "Type": "quasar",
+            "Time": "JD2456328.616682",
+            "Date": "February 5th, 2013"
+        },
+        {
+            "Name": "CGRaBSJ0136+4751",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.859",
+            "Type": "quasar",
+            "Time": "JD2456328.616682",
+            "Date": "February 5th, 2013"
+        },
+        {
+            "Name": "1FGLJ0137.0+4751",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray source",
+            "Time": "JD2456328.616682",
+            "Date": "February 5th, 2013"
+        }
+    ],
+    "References": [
+        "hb890133+476",
+        "CGRaBSJ0136+4751",
+        "1FGLJ0137.0+4751"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD2456328.616682",
+    "Date": "February 5th, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

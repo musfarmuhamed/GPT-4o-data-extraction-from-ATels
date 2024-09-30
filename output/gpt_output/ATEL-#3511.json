@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11iqb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2023-07-24"
+        },
+        {
+            "Name": "PTF11iqb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2023-07-26"
+        }
+    ],
+    "References": "ATel #3510",
+    "Event Type": "observation",
+    "Time": null,
+    "Date": [
+        "2023-07-24",
+        "2023-07-26"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": "Swift observatory"
+}

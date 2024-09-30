@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IC 883",
+            "RA": "13h20m35s.3184",
+            "Dec": "34\u00b008'22\".352",
+            "redshift": null,
+            "Type": "Luminous infrared galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2010cu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Core-collapse SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J13203538+3408222",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible Type Ib/c or Type II SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET # 2213",
+        "CBET # 2286",
+        "ATel # 3245"
+    ],
+    "Event Type": "eEVN observations",
+    "Time": "0200UT to 0400UT",
+    "Date": "23rd March 2011",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": [
+        "Effelsberg (100m, Germany)",
+        "Jodrell Bank (25m, UK)",
+        "Medicina (32 m, Italy)",
+        "Onsala (25 m, Sweden)",
+        "Torun (32 m, Poland)",
+        "Westerbork array (14x25 m, NL)",
+        "Yebes (40 m, Spain)"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14gs",
+            "RA": "16:36:11.17",
+            "Dec": "-26:12:02.7",
+            "redshift": "0.00",
+            "Type": "CV",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "CSS140901-215624+190642",
+            "RA": "21:56:24.24",
+            "Dec": "+19:06:41.5",
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "CSS140914-010107-101840",
+            "RA": "01:01:07.04",
+            "Dec": "-10:18:39.9",
+            "redshift": "~0.03",
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "LSQ14fgo",
+            "RA": "04:00:40.99",
+            "Dec": "-59:59:17.2",
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "LSQ14fhd",
+            "RA": "23:53:31.54",
+            "Dec": "-37:59:25.9",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "OGLE-2014-SN-071",
+            "RA": "00:48:26.65",
+            "Dec": "-74:10:39.1",
+            "redshift": "0.032",
+            "Type": "II",
+            "Time": "UT",
+            "Date": "2014-09-15"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "ATel #4495; Wyrzykowski et al. 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "UT",
+    "Date": "2014-09-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J211630.72+273356.9",
+            "RA": "21h 16m 30.72s",
+            "Dec": "+27d 33m 56.9s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2018-09-13.74243 UT",
+            "Date": "2018-09-13"
+        },
+        {
+            "Name": "MASTER OT J001247.42+335338.7",
+            "RA": "00h 12m 47.42s",
+            "Dec": "+33d 53m 38.7s",
+            "redshift": null,
+            "Type": "QSO/AGN",
+            "Time": "2018-09-13.90243 UT",
+            "Date": "2018-09-13"
+        },
+        {
+            "Name": "MASTER OT J223917.87+380308.1",
+            "RA": "22h 39m 17.87s",
+            "Dec": "+38d 03m 08.1s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2018-09-13.88731 UT",
+            "Date": "2018-09-13"
+        },
+        {
+            "Name": "MASTER OT J232349.56+591221.9",
+            "RA": "23h 23m 49.56s",
+            "Dec": "+59d 12m 21.9s",
+            "redshift": null,
+            "Type": "X-Ray binary?",
+            "Time": "2018-09-14.00098 UT",
+            "Date": "2018-09-14"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/211630.72273356.9.png, http://master.sai.msu.ru/static/OT/001247.42335338.7.png, http://master.sai.msu.ru/static/OT/223917.87380308.1.png, http://master.sai.msu.ru/static/OT/232349.56591221.9.png",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

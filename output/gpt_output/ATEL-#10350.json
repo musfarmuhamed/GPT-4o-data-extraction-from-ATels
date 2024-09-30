@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017byx",
+            "RA": "14:17:48.36",
+            "Dec": "+52:41:54.6",
+            "redshift": "0.067",
+            "Type": "Type Ia supernova",
+            "Time": "Null",
+            "Date": "2017-04-28.2 UT"
+        },
+        {
+            "Name": "SDSS J141747.64+524143.2",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.068",
+            "Type": "host galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "observation",
+    "Time": "Null",
+    "Date": "2017-04-28.2 UT",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Visible Integral-field Replicable Unit Spectrograph (VIRUS)",
+    "Observatory": "McDonald Observatory"
+}

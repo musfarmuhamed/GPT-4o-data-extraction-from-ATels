@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0755-2933",
+            "RA": "07h 55m 32s",
+            "Dec": "-29d 33' 08\"",
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "22:41:24 UT",
+            "Date": null
+        },
+        {
+            "Name": "Uncatalogued X-ray source",
+            "RA": "07h 55m 42.48s",
+            "Dec": "-29d 33' 49.2\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "22:42:39.1 UT",
+            "Date": null
+        }
+    ],
+    "References": "GCN #19204",
+    "Event Type": "SGR (Soft Gamma Repeater) detection",
+    "Time": "22:41:24 UT",
+    "Date": null,
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

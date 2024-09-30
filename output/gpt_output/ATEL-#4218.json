@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS 0834-43",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BeXRB",
+            "Time": "06:44:07 - 15:27:19",
+            "Date": "2012-06-26"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Lapshov et al.",
+            "Year": "1992"
+        },
+        {
+            "Authors": "Wilson et al.",
+            "Year": "1997"
+        },
+        {
+            "Authors": "Cusumano et al.",
+            "Year": "2010"
+        },
+        {
+            "Authors": "Bird et al.",
+            "Year": "2010"
+        }
+    ],
+    "Event Type": "Detection during observations",
+    "Time": "06:44:07 - 15:27:19",
+    "Date": "2012-06-26",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X",
+    "Observatory": "INTEGRAL"
+}

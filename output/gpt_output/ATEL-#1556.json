@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova",
+            "RA": "16:32:38.27",
+            "Dec": "+41:27:33.2",
+            "redshift": "0.032",
+            "Type": "Type Ib/Ic",
+            "Time": "Jun. 1.33 UT",
+            "Date": "Jun. 1, 2022"
+        }
+    ],
+    "References": [
+        {
+            "Reference_type": "ApJ",
+            "Reference_title": "Folatelli et al. 2006",
+            "Reference_detail": "ApJ 641,1039"
+        },
+        {
+            "Reference_type": "ApJ",
+            "Reference_title": "Filippenko et al. 1995",
+            "Reference_detail": "ApJ 450,L11"
+        }
+    ],
+    "Event Type": "supernova discovery",
+    "Time": "Jun. 1.33 UT",
+    "Date": "Jun. 1, 2022",
+    "Telescope": "ROTSE-IIIb",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory"
+}

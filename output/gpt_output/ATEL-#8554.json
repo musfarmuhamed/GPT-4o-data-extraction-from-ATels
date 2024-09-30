@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "87GB 003232.7+611352",
+            "RA": 8.8542,
+            "Dec": 61.5083,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Uncatalogued gamma-ray source",
+            "RA": 8.91,
+            "Dec": 61.52,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "2016-01-14"
+        }
+    ],
+    "References": "Petrov et al. 2006, AJ, 131 1872",
+    "Event Type": "gamma-ray emission detection",
+    "Time": null,
+    "Date": "2016-01-14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

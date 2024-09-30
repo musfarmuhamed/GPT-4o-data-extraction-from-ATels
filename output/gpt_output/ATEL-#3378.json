@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AC 211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accretion disc corona source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M15 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultracompact binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Auriere et al., 1984, A&A, 138, 415",
+        "Dieball et al., 2005, ApJ, 634, L105",
+        "Kulkarni et al., 1990, ApJ, 363, L5",
+        "Johnston et al., 1991, ApJ 382, L89",
+        "Bash et al., 2008, AJ, 135, 182",
+        "White & Angelini, 2001, ApJ, 561, L101"
+    ],
+    "Event Type": "X-ray flaring event",
+    "Time": "12:11-13:11 UT",
+    "Date": "2011 May 22",
+    "Telescope": "EVLA",
+    "Instrument": null,
+    "Observatory": null
+}

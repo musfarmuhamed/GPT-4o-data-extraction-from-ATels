@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J004320.5+411528",
+            "RA": "00:43:20.56",
+            "Dec": "+41:15:28.8",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2008-08-21.31",
+            "Date": "2008-08-21"
+        },
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J004241.2+411821",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1647",
+        "ATel #1658"
+    ],
+    "Event Type": "detection",
+    "Time": [
+        "2008-08-21.31 UT",
+        "2008-07-18.26 UT"
+    ],
+    "Date": [
+        "2008-08-21",
+        "2008-07-18"
+    ],
+    "Telescope": "Swift satellite",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": null
+}

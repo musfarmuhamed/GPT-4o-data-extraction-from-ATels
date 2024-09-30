@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V1118 Ori",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EXOr variable",
+            "Time": "night",
+            "Date": "2015-09-21"
+        }
+    ],
+    "References": [
+        "Lorenzetti et al. 2015 ApJ 802, 24",
+        "Audard et al. 2014 PPVI p.387",
+        "Audard et al. 2005 ApJ 635, 81",
+        "Lorenzetti et al. 2005 AA 453, 579"
+    ],
+    "Event Type": "detection of increased flux / outburst",
+    "Time": "night",
+    "Date": "2015-09-21",
+    "Telescope": "AZT24 1m IR telescope",
+    "Instrument": "photometer",
+    "Observatory": "Campo Imperatore, Italy"
+}

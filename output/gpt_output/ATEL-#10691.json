@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ghm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Type Ia supernova",
+            "Time": "31.17 UT",
+            "Date": "2017 Aug 31"
+        }
+    ],
+    "References": [
+        "HTTP://wis-tns.weizmann.ac.il/object/2017ghm/",
+        "HTTP://www.cneost.org/ptss/",
+        "Ap.J., 666, 1024"
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "31.17 UT",
+    "Date": "2017 Aug 31",
+    "Telescope": "10m Hobby-Eberly Telescope",
+    "Instrument": "Low Resolution Spectrograph-2 (LRS2)",
+    "Observatory": "McDonald Observatory"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": "18h 24m 32.93s",
+            "Dec": "-24deg 51' 59.6\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 6626 SAW V21",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "long-period variable star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #4925",
+        "#4929",
+        "#4959",
+        "#4960",
+        "#4961; vsnet-alert 15587",
+        "Harris 1996, AJ, 112, 1487",
+        "van Paradijs & McClintock 1994, A&A 290, 133",
+        "Shahbaz & Kuulkers 1998, MNRAS 295, L1",
+        "van Paradijs 1981, A&A 103, 140",
+        "Heinke et al. 2013, ATel #4927",
+        "Wehlau & Hogg 1984, AJ 89, 1005",
+        "Samus et al. 2009, PASP 121, 1378",
+        "SIMBAD database",
+        "VizieR catalogue"
+    ],
+    "Event Type": "Optical observations of X-ray transient",
+    "Time": null,
+    "Date": [
+        "2013 March 22.14",
+        "2013 April 5.14"
+    ],
+    "Telescope": null,
+    "Instrument": "CCD",
+    "Observatory": "CBA Klein Karoo Observatory"
+}

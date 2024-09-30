@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Regulus",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": "Night",
+            "Date": "2014-03-20"
+        },
+        {
+            "Name": "Erigone",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Asteroid",
+            "Time": "Night",
+            "Date": "2014-03-20"
+        },
+        {
+            "Name": "White Dwarf Companion of Regulus",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "White Dwarf",
+            "Time": "Night",
+            "Date": "2014-03-20"
+        }
+    ],
+    "References": [
+        "Gies et al. 2008, ApJ, 682, L117",
+        "Kambe et al. 2013, PASJ, 65, 15",
+        "Chini et al. 2012, MNRAS, 424, 1925",
+        "Che et al. 2011, ApJ, 732, 68",
+        "Van Leeuwen 2007, A&A, 474, 653"
+    ],
+    "Event Type": "Occultation",
+    "Time": "Night",
+    "Date": "2014-03-20",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": [
+        "Okayama Observatory",
+        "Cerro Armazones Observatory"
+    ]
+}

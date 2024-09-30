@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18jl",
+            "RA": "23:22:58.34",
+            "Dec": "-01:01:40.40",
+            "redshift": 0.034,
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2018 May 10"
+        },
+        {
+            "Name": "AT2018bek",
+            "RA": "15:32:01.55",
+            "Dec": "+68:14:31.00",
+            "redshift": 0.022,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2018 May 10"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": null,
+    "Date": "2018 May 10",
+    "Telescope": "Keck I 10-m",
+    "Instrument": "LRIS",
+    "Observatory": null
+}

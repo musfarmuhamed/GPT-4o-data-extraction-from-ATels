@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018bdh",
+            "RA": "10:52:38.31",
+            "Dec": "+22:13:43.5",
+            "redshift": "0.079",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180428"
+        },
+        {
+            "Name": "SN2018baf",
+            "RA": "13:17:01.57",
+            "Dec": "-02:16:36.8",
+            "redshift": "0.12",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180423"
+        },
+        {
+            "Name": "SN2018bbs",
+            "RA": "13:34:04.69",
+            "Dec": "-20:53:14.4",
+            "redshift": "0.043",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180417"
+        },
+        {
+            "Name": "SN2018bbr",
+            "RA": "14:03:19.86",
+            "Dec": "-22:33:07.1",
+            "redshift": "0.021",
+            "Type": "II",
+            "Time": null,
+            "Date": "20180421"
+        },
+        {
+            "Name": "SN2018bak",
+            "RA": "10:24:48.04",
+            "Dec": "-02:30:35.6",
+            "redshift": "0.088",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20180412"
+        },
+        {
+            "Name": "AT2018bbw",
+            "RA": "13:03:14.72",
+            "Dec": "+07:48:08.0",
+            "redshift": "0.010",
+            "Type": null,
+            "Time": null,
+            "Date": "20180110"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Drake et al. 2009, ApJ, 696, 870; Tonry et al. 2011, PASP, 123, 58; Blondin & Tonry, 2007, ApJ, 666, 1024; Tonry et al. ATel #8680",
+    "Event Type": "supernova classifications",
+    "Time": "2012 May 04",
+    "Date": null,
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0911-655",
+            "RA": "137.760",
+            "Dec": "-65.574",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "05:30 UT",
+            "Date": "2016-02-19"
+        },
+        {
+            "Name": "Swift J0911.9-6452",
+            "RA": "137.975",
+            "Dec": "-64.881",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2016-02-29"
+        },
+        {
+            "Name": "Chandra Source 1 / XMM-Newton source C2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "likely neutron star-quiescent LMXB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Servillat et al. 2008, A&A 490, 641"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": "05:30 UT",
+    "Date": "2016-02-19",
+    "Telescope": [
+        "MAXI/GSC",
+        "BAT"
+    ],
+    "Instrument": [
+        "GSC",
+        "BAT transient monitor"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swfit J1749.4-2807",
+            "RA": "17:49:31.80",
+            "Dec": "-28:08:04.9",
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wijnands et al. 2009",
+        "ATel #2565",
+        "Goad et al. 2007, A&A, 476, 1401",
+        "ATel #2576",
+        "Atel #2548",
+        "Predehl & Schmitt, 1995, A&A, 293, 889",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2010-04-11 to 2010-04-21",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT",
+        "RXTE PCA",
+        "Faulkes Telescope South"
+    ],
+    "Observatory": [
+        "UK Swift Science Data Centre at the University of Leicester"
+    ]
+}

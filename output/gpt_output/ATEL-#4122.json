@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 1156+295",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1749+096",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1222+216",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3C279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #4051",
+    "Event Type": null,
+    "Time": null,
+    "Date": {
+        "start_date": "April 2012",
+        "observations": [
+            {
+                "date": "May 19",
+                "R_band_brightness": "15.99+-0.02"
+            },
+            {
+                "date": "May 23",
+                "R_band_brightness": "14.774+-0.007"
+            }
+        ]
+    },
+    "Telescope": "1.8 m Perkins telescope, 70-cm AZT-8",
+    "Instrument": null,
+    "Observatory": "Lowell observatory (Flagstaff, AZ), CrAO (Ukraine)"
+}

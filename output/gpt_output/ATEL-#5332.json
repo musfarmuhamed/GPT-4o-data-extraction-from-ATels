@@ -1,0 +1,119 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": "06:47:23",
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "H1732-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "Swift J174535.5-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "CXOGC J174535.6-290133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "1A 1744-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "XTE J1709-267",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "KS 1741-293",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": "25 August 2013"
+        },
+        {
+            "Name": "1E 1740.7-2942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole X-ray binary",
+            "Time": null,
+            "Date": "25 August 2013"
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #5246",
+        "ATel #5241",
+        "ATels #5222",
+        "#5226",
+        "#5246",
+        "#753",
+        "#1513",
+        "#5006",
+        "#5008",
+        "#5009",
+        "#5301",
+        "#5319",
+        "#4840",
+        "#904",
+        "#4804",
+        "#4471"
+    ],
+    "Event Type": "new season of INTEGRAL Galactic bulge monitoring",
+    "Time": "04:42-08:23",
+    "Date": "25 August 2013",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X, IBIS/ISGRI",
+    "Observatory": null
+}

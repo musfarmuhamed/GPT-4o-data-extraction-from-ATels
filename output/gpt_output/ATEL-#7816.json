@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mx",
+            "RA": "14:24:44.55",
+            "Dec": "+26:02:52.1",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-07-19.31",
+            "Date": "2015-07-19"
+        },
+        {
+            "Name": "SDSS J142443.90+260255.4",
+            "RA": "14:24:43.90",
+            "Dec": "+26:02:55.4",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "ASAS-SN project",
+            "Homepage": "ASAS-SN Homepage"
+        },
+        {
+            "Name": "List of all ASAS-SN transients",
+            "Homepage": "ASAS-SN Homepage"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-07-19.31",
+    "Date": "2015-07-19",
+    "Telescope": "Brutus",
+    "Instrument": "V-band",
+    "Observatory": "Haleakala, Hawaii"
+}

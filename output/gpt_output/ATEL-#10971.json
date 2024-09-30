@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J2032+4127/ MT91 213",
+            "RA": "20h32m13.13s",
+            "Dec": "+41d27m24.4s",
+            "redshift": null,
+            "Type": "binary system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #10920",
+        "ATEL #10810",
+        "https://magic.mpp.mpg.de",
+        "http://veritas.sao.arizona.edu"
+    ],
+    "Event Type": "Increase in TeV gamma-ray emission",
+    "Time": [
+        "1.9 hours on Nov 12 (MJD 58069.8)",
+        "4 hours between Nov 10 and Nov 13"
+    ],
+    "Date": [
+        "13 November 2017",
+        "late September 2017"
+    ],
+    "Telescope": [
+        "MAGIC",
+        "VERITAS"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Observatory Roque de Los Muchachos of the Instituto de Astrof\u00edsica de Canarias (IAC), La Palma, Spain",
+        "Fred Lawrence Whipple Observatory, southern Arizona, USA"
+    ]
+}

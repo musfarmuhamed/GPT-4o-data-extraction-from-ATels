@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4C +21.35",
+            "RA": 186.2,
+            "Dec": 21.4,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1222+21",
+            "RA": 186.2,
+            "Dec": 21.4,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2686",
+        "#2641",
+        "#2348"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": "01:00 UT",
+    "Date": "2014-11-20",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": "AGILE"
+}

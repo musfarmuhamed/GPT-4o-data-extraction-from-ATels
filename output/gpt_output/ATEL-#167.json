@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1811-197",
+            "RA": "18h10.9m",
+            "Dec": "-19o42'",
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #2306",
+        "GCN #2297",
+        "GCN #2308"
+    ],
+    "Event Type": "Observation of pulsar and soft gamma repeater bursts",
+    "Time": "Jul 18.23-18.27 (UT)",
+    "Date": "Since Feb 7",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

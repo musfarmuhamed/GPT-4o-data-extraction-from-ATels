@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J070315.49+174811.8",
+            "RA": "07h 03m 15.49s",
+            "Dec": "+17d 48m 11.8s",
+            "redshift": null,
+            "Type": "CV (dwarf nova in outburst)",
+            "Time": "2014-01-07.62251 UT",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "MASTER OT J133833.06+292908.4",
+            "RA": "13h 38m 33.06s",
+            "Dec": "+29d 29m 08.4s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2014-01-04.96686 UT",
+            "Date": "2014-01-04"
+        },
+        {
+            "Name": "MASTER OT J001436.25+503240.3",
+            "RA": "00h 14m 36.25s",
+            "Dec": "+50d 32m 40.3s",
+            "redshift": null,
+            "Type": "CV (dwarf nova of UGSU or UGSS type)",
+            "Time": "2014-01-08.64788 UT",
+            "Date": "2014-01-08"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J070315.49+174811.8",
+            "Date": "2011-12-26.81073 UT"
+        },
+        {
+            "Name": "MASTER OT J133833.06+292908.4",
+            "Date": "2011-01-12.99704 UT"
+        },
+        {
+            "Name": "MASTER OT J001436.25+503240.3",
+            "Date": "2012-09-19.74387 UT"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2014-01",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

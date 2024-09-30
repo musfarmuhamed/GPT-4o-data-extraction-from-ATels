@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0716+71",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2014 December 23"
+        },
+        {
+            "Name": "B3 1633+38",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2014 October 25"
+        }
+    ],
+    "References": "Danilet et al., ATel#6930",
+    "Event Type": "Optical and Near-Infrared Monitoring",
+    "Time": null,
+    "Date": "2014 October 25",
+    "Telescope": [
+        "40-cm LX-200",
+        "70-cm AZT-8",
+        "1.1-m AZT-24"
+    ],
+    "Instrument": [
+        "Optical",
+        "Near-Infrared"
+    ],
+    "Observatory": [
+        "St.Petersburg, Russia",
+        "Crimea",
+        "Campo Imperatore, Italy"
+    ]
+}

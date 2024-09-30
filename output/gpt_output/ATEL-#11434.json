@@ -1,0 +1,75 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE18wc",
+            "RA": "05:18:11.727160",
+            "Dec": "-51:44:03.97925",
+            "redshift": "0.22",
+            "Type": "flaring blazar",
+            "Time": null,
+            "Date": "2018-02-16"
+        },
+        {
+            "Name": "WISE J051811.72-514404.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate BL Lac type object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SUMSS J051811-514404",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMSL2 J051811.6-514354",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "D'Abrusco et al. (2014, ApJS, 215, 14)",
+        "Mauch et al. 2003, MNRAS, 342, 1117",
+        "Petrov and Kovalev, in preparation http://astrogeo.org/",
+        "Kalberla et al. 2005 A&A, 440, 775",
+        "Schlafly et al. 2011 ApJ, 737, 103",
+        "Abdo et al. 2011, ApJ, 727, 129",
+        "Bruni et al. (2018, ApJ, 854L, 23)",
+        "ATel #10642",
+        "ESO programme 0100.B-0503(A), PI: Gromadzki",
+        "Large Programme on transients (2016-2-LSP-001)",
+        "ATel #4495",
+        "Kozlowski et al. 2013, AcA, 63, 1, 1",
+        "Wyrzykowski et al. 2014, AcA, 64, 197",
+        "Klencki et al. 2016, AcA, 66,15"
+    ],
+    "Event Type": "optical transient",
+    "Time": null,
+    "Date": "2018-02-16",
+    "Telescope": [
+        "VLT",
+        "SALT",
+        "Swift"
+    ],
+    "Instrument": [
+        "FORS2",
+        "RSS",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": [
+        "ESO",
+        "SALT",
+        "Neil Gehrels Swift Observatory"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17cqz",
+            "RA": "21:47:57.52",
+            "Dec": "-58:10:58.12",
+            "redshift": 0.026,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "AT2017hrw",
+            "RA": "21:47:57.52",
+            "Dec": "-58:10:58.12",
+            "redshift": 0.026,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2017-10-19"
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024; http://gsaweb.ast.cam.ac.uk/alerts",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2017-11-08",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": "SALT"
+}

@@ -1,0 +1,127 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "Date": [
+                "2008-05-26",
+                "2008-05-31",
+                "2008-07-15",
+                "2008-07-18",
+                "2008-08-21",
+                "2008-10-21",
+                "2008-09-01",
+                "2008-10-13",
+                "2008-11-27"
+            ]
+        },
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "Date": [
+                "2008-05-26",
+                "2008-05-31",
+                "2008-07-15",
+                "2008-07-18",
+                "2008-08-21",
+                "2008-10-21",
+                "2008-09-01",
+                "2008-10-13",
+                "2008-11-27"
+            ]
+        }
+    ],
+    "References": [
+        "Pietsch et al. 2008, ATel #1647",
+        "ATel #1671",
+        "ATel #1658",
+        "ATel #1647",
+        "ATel #1674",
+        "ATel #1806",
+        "ATel #1859"
+    ],
+    "Event Type": "X-ray transient detection",
+    "Time": [
+        "26.30",
+        "31.47",
+        "15.70",
+        "18.26",
+        "21.31",
+        "21.63",
+        "01.32",
+        "13.15",
+        "27.72"
+    ],
+    "Date": [
+        "2008-05-26",
+        "2008-05-31",
+        "2008-07-15",
+        "2008-07-18",
+        "2008-08-21",
+        "2008-10-21",
+        "2008-09-01",
+        "2008-10-13",
+        "2008-11-27"
+    ],
+    "Telescope": [
+        "Swift",
+        "CXO",
+        "CXO",
+        "XMM",
+        "Swift",
+        "Swift",
+        "CXO",
+        "CXO",
+        "CXO"
+    ],
+    "Instrument": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Observatory": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+}

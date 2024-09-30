@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X1908+075",
+            "RA": "19h 10m 48.20s",
+            "Dec": "+07deg 35' 52.3''",
+            "redshift": null,
+            "Type": "OB supergiant-neutron star binary system",
+            "Time": null,
+            "Date": "JD 2,452,131.50"
+        }
+    ],
+    "References": [
+        "Wen et al. 2000, ApJ, 532, 1119",
+        "Levine et al. 2004, ApJ, submitted, astro-ph/0404428",
+        "Hanson et al. 1996, ApJS, 107, 281",
+        "Hanson et al. 1998, AJ, 116, 1915"
+    ],
+    "Event Type": "Observation",
+    "Time": "Service observing mode",
+    "Date": "August 9, 2001 (JD 2,452,131.50)",
+    "Telescope": "Carlo Sanchez Telescope (TCS)",
+    "Instrument": "CAIN-II (imaging), CGS4 (spectroscopy)",
+    "Observatory": "Teide Observatory (Spain), UKIRT"
+}

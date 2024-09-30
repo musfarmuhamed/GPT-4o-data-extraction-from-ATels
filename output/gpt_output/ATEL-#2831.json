@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 0619+33",
+            "RA": "06h22m52.221945s",
+            "Dec": "+33d26m10.41027s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "10:51 UT",
+            "Date": "September 7, 2010"
+        },
+        {
+            "Name": "B2 0619+33",
+            "RA": "06h22m52.221945s",
+            "Dec": "+33d26m10.41027s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "11:26 UT",
+            "Date": "September 7, 2010"
+        }
+    ],
+    "References": [
+        "Kovalev et al. 2007, AJ 133, 1236",
+        "Schinzel et al. (ATEL #2829)"
+    ],
+    "Event Type": "optical observations",
+    "Time": null,
+    "Date": "September 7, 2010",
+    "Telescope": "1.54m Kuiper Telescope",
+    "Instrument": "SPOL spectropolarimeter",
+    "Observatory": "Mt. Bigelow, Arizona"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1856+053",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": "1.5 ks for EPIC-pn, 5.3 ks for RGS1, 4.2 ks for RGS2",
+            "Date": "14 March 2007"
+        }
+    ],
+    "References": [
+        "ATel #1024",
+        "#1026",
+        "#1038",
+        "#1042"
+    ],
+    "Event Type": null,
+    "Time": "1.5 ks for EPIC-pn, 5.3 ks for RGS1, 4.2 ks for RGS2",
+    "Date": "14 March 2007",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn (timing mode), RGS1, RGS2",
+    "Observatory": null
+}

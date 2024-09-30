@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18rt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ic",
+            "Time": "2018-08-16.2",
+            "Date": "2018-08-16"
+        },
+        {
+            "Name": "SN 2018fav",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ic",
+            "Time": "2018-08-16.2",
+            "Date": "2018-08-16"
+        },
+        {
+            "Name": "2MASX J00455851-2156353",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.037923,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014, Jones et al. 2009, Blondin and Tonry 2007",
+    "Event Type": "spectroscopic classification",
+    "Time": "2018-08-16.2",
+    "Date": "2018-08-16",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

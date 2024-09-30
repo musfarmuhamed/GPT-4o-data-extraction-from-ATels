@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J092326.72-762817.7",
+            "RA": "09h 23m 26.72s",
+            "Dec": "-76d 28m 17.7s",
+            "redshift": null,
+            "Type": "dwarf nova outburst?",
+            "Time": "06:19:38 UT",
+            "Date": "2016-11-13"
+        },
+        {
+            "Name": "MASTER OT J192358.26-585314.0",
+            "RA": "19h 23m 58.26s",
+            "Dec": "-58d 53m 14.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst?",
+            "Time": "00:56:58.795 UT",
+            "Date": "2016-11-18"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-OAFA",
+    "Instrument": "auto-detection system",
+    "Observatory": "located in Argentina"
+}

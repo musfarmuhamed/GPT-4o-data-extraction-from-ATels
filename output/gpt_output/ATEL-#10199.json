@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ds",
+            "RA": "08:03:55.206",
+            "Dec": "+26:31:12.73",
+            "redshift": "0.021648",
+            "Type": "Supernova",
+            "Time": "2017-03-17.36",
+            "Date": "2017-03-17"
+        },
+        {
+            "Name": "ASASSN-17dt",
+            "RA": "11:06:47.195",
+            "Dec": "+14:12:26.68",
+            "redshift": "Null",
+            "Type": "Supernova",
+            "Time": "2017-03-19.48",
+            "Date": "2017-03-19"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "NED",
+        "J. Brimacombe",
+        "G. Masi",
+        "Gordon and Betty Moore Foundation",
+        "Ohio State University",
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)",
+        "Mt. Cuba Astronomical Foundation",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovery of Transients",
+    "Time": "2017-03-17.36, 2017-03-19.48",
+    "Date": "2017-03-17, 2017-03-19",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

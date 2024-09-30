@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163040.68+443034.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031675",
+            "Type": "Type Ia Supernova",
+            "Time": "Unknown",
+            "Date": "2014-03-19.5"
+        },
+        {
+            "Name": "MCG +07-34-101",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031675",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024; Rines et al. 2002, via NED",
+    "Event Type": "Low-resolution optical spectrum observation",
+    "Time": "Unknown",
+    "Date": "2014-03-19.5",
+    "Telescope": "F.L. Whipple Observatory 1.5-m telescope",
+    "Instrument": "FAST spectrograph",
+    "Observatory": "F.L. Whipple Observatory"
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16pa",
+            "RA": "00:33:14.108",
+            "Dec": "-84:29:20.09",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-12-22.09",
+            "Date": "2016-12-21.15"
+        },
+        {
+            "Name": "ASASSN-16pb",
+            "RA": "07:53:12.802",
+            "Dec": "+12:53:55.95",
+            "redshift": "0.029781",
+            "Type": "supernova",
+            "Time": "2016-12-22.59",
+            "Date": "2016-12-22.59"
+        }
+    ],
+    "References": [
+        {
+            "Name": "ASASSN-16pa",
+            "RA": "00:33:14.108",
+            "Dec": "-84:29:20.09",
+            "Disc. UT Date": "2016-12-22.09",
+            "Disc. V mag": "17.1",
+            "Approx. Abs. Mag": null,
+            "Offset from Host (arcsec)": "9.7"
+        },
+        {
+            "Name": "ASASSN-16pb",
+            "RA": "07:53:12.802",
+            "Dec": "+12:53:55.95",
+            "Disc. UT Date": "2016-12-22.59",
+            "Disc. V mag": "16.4",
+            "Approx. Abs. Mag": "-19.2",
+            "Offset from Host (arcsec)": "7.53"
+        }
+    ],
+    "Event Type": "supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Brutus",
+        "Cassius"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

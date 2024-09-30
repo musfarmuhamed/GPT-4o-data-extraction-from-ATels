@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MXB 0656-072",
+            "RA": "06h 58m 16.8s",
+            "Dec": "-07d 12m 37.8s",
+            "redshift": null,
+            "Type": "Be star/O9.7Ve",
+            "Time": "17:40:37 UT",
+            "Date": "November 16th, 2007"
+        }
+    ],
+    "References": [
+        "Burrows et al., GCN #7097",
+        "Pakull et al., ATEL #202",
+        "Pottschmidt et al., ATEL 1283"
+    ],
+    "Event Type": "Transient source outburst",
+    "Time": "17:40:37 UT",
+    "Date": "November 16th, 2007",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J004233.2+411742",
+            "RA": "00h42m33.26s",
+            "Dec": "+41d17'42.7\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "2012-06-01.90",
+            "Date": "2012-06-01"
+        },
+        {
+            "Name": "1RXH J004241.8+411535",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "July 1994",
+            "Date": null
+        },
+        {
+            "Name": "Bol 112",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Galleti et. al., 2004, A&A, 416, 917",
+        "ROSAT Team, 2000"
+    ],
+    "Event Type": "discovery of a new X-ray transient",
+    "Time": "2012-06-01.90",
+    "Date": "2012-06-01",
+    "Telescope": [
+        "Chandra",
+        "Swift"
+    ],
+    "Instrument": [
+        "HRC-I",
+        "XRT"
+    ],
+    "Observatory": [
+        "Chandra Observatory",
+        "Swift Observatory"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J10404-4625",
+            "RA": "160.095",
+            "Dec": "-46.416",
+            "redshift": "0.0239",
+            "Type": "Emission line galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LEDA 170194",
+            "RA": "189.796",
+            "Dec": "-16.182",
+            "redshift": "0.0367",
+            "Type": "Emission line galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U1344-60",
+            "RA": "206.872",
+            "Dec": "-60.604",
+            "redshift": null,
+            "Type": "Active galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16482-3036",
+            "RA": "252.040",
+            "Dec": "-30.593",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2E1853.7+1534",
+            "RA": "284.008",
+            "Dec": "+15.621",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Bird et al.",
+            "Year": "2005",
+            "Title": "Second IBIS/ISGRI catalogue",
+            "PublishedIn": "to be submitted to Ap.J."
+        },
+        {
+            "Authors": "Michel et al.",
+            "Year": "2004",
+            "Title": "ASP Conf. Series 314",
+            "Page": "570"
+        }
+    ],
+    "Event Type": "AGN Report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": null,
+    "Observatory": null
+}

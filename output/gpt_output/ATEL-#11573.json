@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J18040967-1803581",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible classical nova or stellar merger event",
+            "Time": "10.444 UT",
+            "Date": "2018 April 10"
+        },
+        {
+            "Name": "PNV J18040967-1803581",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible classical nova or stellar merger event",
+            "Time": "12.466 UT",
+            "Date": "2018 April 12"
+        },
+        {
+            "Name": "PNV J18040967-1803581",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible classical nova or stellar merger event",
+            "Time": "15.450 UT",
+            "Date": "2018 April 15"
+        },
+        {
+            "Name": "PNV J18040967-1803581",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible classical nova or stellar merger event",
+            "Time": "22.434 UT",
+            "Date": "2018 April 22"
+        }
+    ],
+    "References": [
+        "ATEL #11528",
+        "CBET No. 4507",
+        "ATEL #11570"
+    ],
+    "Event Type": "Spectroscopic evolution",
+    "Time": [
+        "10.444 UT",
+        "12.466 UT",
+        "15.450 UT",
+        "22.434 UT"
+    ],
+    "Date": [
+        "2018 April 10",
+        "2018 April 12",
+        "2018 April 15",
+        "2018 April 22"
+    ],
+    "Telescope": "2.4 m Hiltner telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM Observatory on Kitt Peak"
+}

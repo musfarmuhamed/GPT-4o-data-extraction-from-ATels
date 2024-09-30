@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18mbw",
+            "RA": "01 40 56.98",
+            "Dec": "-34 16 46.8",
+            "redshift": "0.067",
+            "Type": "Ia",
+            "Time": "2018 02 16",
+            "Date": "20180204"
+        },
+        {
+            "Name": "ATLAS18ltx",
+            "RA": "14 28 11.36",
+            "Dec": "+16 28 52.0",
+            "redshift": "0.560",
+            "Type": "QSO",
+            "Time": "2018 02 16",
+            "Date": "20180131"
+        },
+        {
+            "Name": "Gaia18alc",
+            "RA": "16 48 39.88",
+            "Dec": "-62 35 50.2",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "2018 02 16",
+            "Date": "20180208"
+        },
+        {
+            "Name": "ATLAS18mbt",
+            "RA": "11 25 13.64",
+            "Dec": "-22 42 04.6",
+            "redshift": "0.061",
+            "Type": "Galaxy",
+            "Time": "2018 02 16",
+            "Date": "20180121"
+        },
+        {
+            "Name": "ASASSN-18co",
+            "RA": "09 54 23.20",
+            "Dec": "-14 39 18.2",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": "2018 02 16",
+            "Date": "20180213"
+        },
+        {
+            "Name": "ATLAS18ebx",
+            "RA": "13 08 39.52",
+            "Dec": "-41 27 16.0",
+            "redshift": "0.010",
+            "Type": "II",
+            "Time": "2018 02 16",
+            "Date": "20180117"
+        }
+    ],
+    "References": "Smartt et al. 2015, Tonry et al. 2011, Tonry et al. ATel #8680, Shappee et al. 2014, Blondin & Tonry 2007, Harutyunyan et al. 2008",
+    "Event Type": "supernova classifications",
+    "Time": "2018 02 16",
+    "Date": "2018 02 16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

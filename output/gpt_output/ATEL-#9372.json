@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ip",
+            "RA": "02:27:21.70",
+            "Dec": "-23:55:45.30",
+            "redshift": 0.017,
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "2016 Aug 11"
+        },
+        {
+            "Name": "PS16drp",
+            "RA": "22:10:41.24",
+            "Dec": "-27:53:36.8",
+            "redshift": 0.028,
+            "Type": "Ic",
+            "Time": "+50d",
+            "Date": "2016 Aug 11"
+        }
+    ],
+    "References": "ATel #9368",
+    "Event Type": "optical transients",
+    "Time": "Null",
+    "Date": "2016 Aug 11",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Null"
+}

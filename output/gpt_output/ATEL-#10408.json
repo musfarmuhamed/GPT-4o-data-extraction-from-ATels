@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS17dbd",
+            "RA": "11:28:17.92",
+            "Dec": "+26:58:37.0",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2017 May 20"
+        },
+        {
+            "Name": "ATLAS17foe",
+            "RA": "12:04:53.59",
+            "Dec": "+06:47:50.7",
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": "UT",
+            "Date": "2017 May 20"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observations",
+    "Time": "UT",
+    "Date": "2017 May 20",
+    "Telescope": "Keck II",
+    "Instrument": "Echellette Spectrograph and Imager (ESI)",
+    "Observatory": "Keck II"
+}

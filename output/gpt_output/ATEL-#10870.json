@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017hky",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009725,
+            "Type": "II",
+            "Time": "02:09:24",
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "Gaia17cqf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009725,
+            "Type": "II",
+            "Time": "02:09:24",
+            "Date": "2017-10-19"
+        },
+        {
+            "Name": "2MASX J11233086+6322018",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009725,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGCG 314-023",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.009725,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "SDSS DR13 (2016)",
+        "Inserra et al. 2010, MNRAS 417, 261",
+        "Tomasella et al. 2015, Atel #6906",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "02:09:24",
+    "Date": "2017-10-19",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

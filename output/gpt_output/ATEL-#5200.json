@@ -1,0 +1,108 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J163643.0-462727",
+            "RA": 249.1792,
+            "Dec": -46.45741,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J164635.3-450701",
+            "RA": 251.64713,
+            "Dec": -45.11695,
+            "redshift": null,
+            "Type": "IGR J16465-4507",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J164807.0-451209",
+            "RA": 252.02912,
+            "Dec": -45.20255,
+            "redshift": null,
+            "Type": "IGR J16479-4514",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J164913.3-435525",
+            "RA": 252.30523,
+            "Dec": -43.92361,
+            "redshift": null,
+            "Type": "1RXS J164913.6-435527",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J164926.9-434909",
+            "RA": 252.36229,
+            "Dec": -43.81922,
+            "redshift": null,
+            "Type": "IGR J16493-4348",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J165111.8-440235",
+            "RA": 252.79931,
+            "Dec": -44.04312,
+            "redshift": null,
+            "Type": "1RXS J165111.8-440231",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J170004.7-415801",
+            "RA": 255.01946,
+            "Dec": -41.96692,
+            "redshift": null,
+            "Type": "AX J1700.1-4157",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J170049.1-413920",
+            "RA": 255.2046,
+            "Dec": -41.65554,
+            "redshift": null,
+            "Type": "OAO 1657-415",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J185844.5+032609",
+            "RA": 284.68524,
+            "Dec": 3.43576,
+            "redshift": null,
+            "Type": "XTE J1858+034",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J190429.9+060825",
+            "RA": 286.12478,
+            "Dec": 6.14029,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel #3951",
+        "Atel #4318",
+        "Reynolds et al. (2013) in prep"
+    ],
+    "Event Type": "X-ray source detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT/UVM2"
+    ],
+    "Observatory": null
+}

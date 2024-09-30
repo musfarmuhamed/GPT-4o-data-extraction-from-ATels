@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient low mass X-ray binary",
+            "Time": null,
+            "Date": "2011"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Altamirano et al.",
+            "Year": 2011,
+            "Journal": "ApJ",
+            "Volume": 742,
+            "Page": "L17"
+        },
+        {
+            "Authors": "Rodriguez et al.",
+            "Year": 2011,
+            "Journal": "A&A",
+            "Volume": 533,
+            "Page": "L4"
+        },
+        {
+            "Authors": "Miller et al.",
+            "Year": null,
+            "Journal": null,
+            "Volume": null,
+            "Page": "ATel #8742"
+        }
+    ],
+    "Event Type": "outburst observation",
+    "Time": null,
+    "Date": "2011",
+    "Telescope": "Swift, INTEGRAL",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT",
+        "INTEGRAL/JEM-X",
+        "INTEGRAL/IBIS"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1922.7-1716",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "low-mass X-ray binaries",
+            "Time": "01:23",
+            "Date": "2011-11-04"
+        }
+    ],
+    "References": [
+        "Barthelmy et al., GCN #12522",
+        "Wiersema et al. (ATel #3740)",
+        "Degenaar et al. (ATel #3741)"
+    ],
+    "Event Type": "spectrum obtaining",
+    "Time": "01:23",
+    "Date": "2011-11-04",
+    "Telescope": "Hiltner 2.4m telescope",
+    "Instrument": "Boller and Chivens CCD spectrograph",
+    "Observatory": "MDM Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LMCN 1968-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2.07-4.26 days after outburst",
+            "Date": "2016 Jan 23 - 25"
+        },
+        {
+            "Name": "LMCN 1968-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "6.4 days after outburst",
+            "Date": "2016 Jan 27"
+        },
+        {
+            "Name": "LMCN 1968-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "9.3 days after outburst",
+            "Date": "2016 Jan 30"
+        }
+    ],
+    "References": "[ATel #8578, #8586, #8587; Page et al. 2015; Henze et al. 2015; Pagnotta et al. 2015]",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2016 Jan 23 - 2016 Jan 30",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

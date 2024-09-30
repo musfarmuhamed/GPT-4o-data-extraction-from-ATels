@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016gkg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "0.3-10 keV",
+            "Date": "September 21, 2016 to September 27, 2016"
+        }
+    ],
+    "References": [
+        "Atel #9521",
+        "#9526",
+        "#9528",
+        "#9529",
+        "#9536",
+        "#9556"
+    ],
+    "Event Type": "ToO observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "X-ray",
+    "Observatory": "Swift"
+}

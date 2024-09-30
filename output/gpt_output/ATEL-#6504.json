@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "19.69 UT",
+            "Date": "2014-09-19"
+        },
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21.72 UT",
+            "Date": "2014-09-21"
+        },
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "22.78 UT",
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "22.89 UT",
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "25.78 UT",
+            "Date": "2014-09-25"
+        }
+    ],
+    "References": "ATel #6492",
+    "Event Type": "flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "SAO 1-m telescope",
+            "Instrument": "CCD photometer",
+            "Observatory": "Special Astrophysical Observatory"
+        },
+        {
+            "Name": "SAI 60-cm telescope",
+            "Instrument": "CCD Apogee-47p",
+            "Observatory": "Crimean Station of the Sternberg Astronomical Institute"
+        },
+        {
+            "Name": "25-cm telescope",
+            "Instrument": "image tube",
+            "Observatory": null
+        }
+    ]
+}

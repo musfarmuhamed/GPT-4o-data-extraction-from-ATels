@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18yv (AT 2018hss)",
+            "RA": "04:13:00.265",
+            "Dec": "-53:59:31.47",
+            "redshift": "0.043000",
+            "Type": "supernova",
+            "Time": "13:00",
+            "Date": "2018-11-02"
+        }
+    ],
+    "References": "Shappee et al. 2014, NED",
+    "Event Type": "All Sky Automated Survey for SuperNovae (ASAS-SN)",
+    "Time": [
+        "2018-11-02.13",
+        "2018-11-05.13",
+        "2018-11-04.14",
+        "2018-11-03.33",
+        "2018-11-03.18",
+        "2018-11-01.16",
+        null
+    ],
+    "Date": [
+        "2018-11-02",
+        "2018-11-05",
+        "2018-11-04",
+        "2018-11-03",
+        "2018-11-01",
+        "2018-10-28",
+        null
+    ],
+    "Telescope": [
+        "Cassius",
+        "Paczynski"
+    ],
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

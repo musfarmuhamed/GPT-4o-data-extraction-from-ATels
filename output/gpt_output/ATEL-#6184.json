@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1932+091",
+            "RA": 293.232,
+            "Dec": 9.344,
+            "redshift": null,
+            "Type": "X-ray transient source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Suggested Counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J193310.4+091141",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6174, ATel #6177",
+    "Event Type": "X-ray transient",
+    "Time": "10:25, 11:57, 15:03",
+    "Date": "26 March, 2014",
+    "Telescope": "Swift (follow-up observation)",
+    "Instrument": "GSC",
+    "Observatory": null
+}

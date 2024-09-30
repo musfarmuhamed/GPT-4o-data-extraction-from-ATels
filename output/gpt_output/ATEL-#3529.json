@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": "17:45:35.774",
+            "Dec": "-28:59:28.75",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": "17:45:35.710",
+            "Dec": "-28:59:29.71",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174535.6-285928",
+            "RA": "17:45:35.662",
+            "Dec": "-28:59:28.99",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #3525, ATEL #3472, ATEL #3481, Laycock et al. 2005, ApJL, 634, L53, Muno et al. 2009, ApJS, 181, 110",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "CTIO 4m",
+        "Magellan 6.5m"
+    ],
+    "Instrument": [
+        "ISPI",
+        "PANIC"
+    ],
+    "Observatory": null
+}

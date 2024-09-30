@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "1 week",
+            "Date": "2018 June 19.5 - 26.0"
+        },
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "1 day",
+            "Date": "2018 June 23"
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "ATel #11775"
+    ],
+    "Event Type": ">100 MeV gamma-ray emission",
+    "Time": "1 week",
+    "Date": "2018 June 19.5 - 26.0",
+    "Telescope": "Fermi Large Area Telescope (LAT)",
+    "Instrument": "pair conversion telescope",
+    "Observatory": null
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 0836+710",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "2015-08-05T12:28:48Z",
+                "2015-08-05T14:09:36Z",
+                "2015-08-06T08:07:12Z"
+            ],
+            "Date": "2015-08-05"
+        },
+        {
+            "Name": "4C 71.07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "2015-08-05T12:28:48Z",
+                "2015-08-05T14:09:36Z",
+                "2015-08-06T08:07:12Z"
+            ],
+            "Date": "2015-08-05"
+        }
+    ],
+    "References": "ATEL #7870",
+    "Event Type": "gamma-ray outburst",
+    "Time": [
+        "2015-08-05T12:28:48Z",
+        "2015-08-05T14:09:36Z",
+        "2015-08-06T08:07:12Z"
+    ],
+    "Date": "2015-08-05",
+    "Telescope": "Medicina 32 m radio telescope",
+    "Instrument": null,
+    "Observatory": "Medicina"
+}

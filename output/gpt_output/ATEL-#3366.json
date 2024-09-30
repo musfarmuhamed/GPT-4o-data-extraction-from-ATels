@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER172900.07+751842.5",
+            "RA": "17h 29m 00.07s",
+            "Dec": "+75d 18m 42s.5",
+            "redshift": null,
+            "Type": "M8 star",
+            "Time": "18:24:47.725",
+            "Date": "2011-05-12"
+        },
+        {
+            "Name": "MASTER073721.02+854323.7",
+            "RA": "07h 37m 21.02s",
+            "Dec": "+85d 43m 23.7s",
+            "redshift": null,
+            "Type": null,
+            "Time": "20:41:17",
+            "Date": "2011-05-14"
+        },
+        {
+            "Name": "MASTER131320.36+692648.3",
+            "RA": "13h 13m 20.36",
+            "Dec": "+69d 26m 48s.3",
+            "redshift": null,
+            "Type": "SNIIn",
+            "Time": "16:39:20.093",
+            "Date": "2011-05-14"
+        }
+    ],
+    "References": "http://cdsbib.u-strasbg.fr/cgi-bin/cdsbib?2008AJ....136.1290R",
+    "Event Type": "transient source",
+    "Time": "18:24:47.725",
+    "Date": "2011-05-12",
+    "Telescope": "MASTER auto-detection system",
+    "Instrument": null,
+    "Observatory": "Tunka (Baykal Lake), Ural"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15ahs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "00:57:23",
+            "Date": "2015-05-06"
+        },
+        {
+            "Name": "MCG +07-37-011",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031 +/- 0.007",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #7471",
+    "Event Type": "spectroscopic observation",
+    "Time": "00:57:23",
+    "Date": "2015-05-06",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

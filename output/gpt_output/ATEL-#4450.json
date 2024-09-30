@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174510.8-262411",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4381",
+        "#4383",
+        "#4393",
+        "#4401",
+        "#4436",
+        "#4394",
+        "#4410"
+    ],
+    "Event Type": "bright transient monitoring",
+    "Time": {
+        "Start": "2012 Sep 16 (MJD 56186)",
+        "End": "2012 Oct 2 7:09-7:28 UT (MJD 56202.3)"
+    },
+    "Date": {
+        "Start": "2012 Sep 16",
+        "End": "2012 Oct 2"
+    },
+    "Telescope": [
+        "INTEGRAL",
+        "Swift"
+    ],
+    "Instrument": [
+        "IBIS",
+        "Swift/XRT"
+    ],
+    "Observatory": [
+        "INTEGRAL ISOC",
+        "INTEGRAL ISDC"
+    ]
+}

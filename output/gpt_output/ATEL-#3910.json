@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "19:49:09 to 20:30:29 UT",
+            "Date": "2012-02-02"
+        }
+    ],
+    "References": [
+        "Verrecchia et al. 2012, ATel #3907",
+        "Kalberla et al. 2005",
+        "Schlegel et al. 1998",
+        "D'Ammando et al., 2011, A&A, 529, A145"
+    ],
+    "Event Type": "gamma-ray enhanced emission",
+    "Time": "19:49:09 to 20:30:29 UT",
+    "Date": "2012-02-02",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

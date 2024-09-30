@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016bfv",
+            "RA": "05:51:18.06",
+            "Dec": "-38:18:53.20",
+            "redshift": "0.010404",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2016-03-20"
+        },
+        {
+            "Name": "AT 2016bfu",
+            "RA": "05:51:15.48",
+            "Dec": "-38:19:02.20",
+            "redshift": "0.010404",
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2016-03-20"
+        }
+    ],
+    "References": "TNS",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-03-20",
+    "Telescope": "30-cm Astro-Tech AT12RC Ritchey-Chretien astrograph",
+    "Instrument": "ST10 camera",
+    "Observatory": "Parkdale Observatory"
+}

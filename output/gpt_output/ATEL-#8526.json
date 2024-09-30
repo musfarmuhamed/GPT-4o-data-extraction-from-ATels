@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15un",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": "10.1",
+            "Date": "Jan 10"
+        },
+        {
+            "Name": "ASASSN-15un",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": "Jan 3"
+        }
+    ],
+    "References": [
+        "ATel #8470",
+        "ATel #8506"
+    ],
+    "Event Type": "Low-resolution spectrum obtained",
+    "Time": "10.1",
+    "Date": "Jan 10",
+    "Telescope": "du Pont 2.5m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16bzi",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.056",
+            "Type": "?",
+            "Time": "2016-12-06.74",
+            "Date": "2016-12-06"
+        },
+        {
+            "Name": "AT2016isl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.023",
+            "Type": "Ia-91T like",
+            "Time": "2016-12-07.06",
+            "Date": "2016-12-07"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Giovanelli and Haynes, 1993 (AJ 105, 1271); Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024.",
+    "Event Type": "spectroscopic observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova-Asiago SN Group"
+}

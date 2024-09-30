@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18:21:45",
+            "Date": "2018-02-20"
+        }
+    ],
+    "References": [
+        "GCN #22416",
+        "#22417",
+        "#22419",
+        "ATel #11306",
+        "#11307",
+        "#11310",
+        "#11311",
+        "#11318",
+        "#11321",
+        "#11336"
+    ],
+    "Event Type": "observation",
+    "Time": "18:21:45 - 04:25:38",
+    "Date": "2018-02-20 to 2018-02-21",
+    "Telescope": "AstroSat",
+    "Instrument": "LAXPC",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00425509+4115560",
+            "RA": "00 42 55.09",
+            "Dec": "+41 15 56.0",
+            "redshift": null,
+            "Type": "Probable Nova",
+            "Time": [
+                "24.772",
+                "24.781",
+                "24.793"
+            ],
+            "Date": "Mar. 24"
+        },
+        {
+            "Name": "PNV J00425469+4110257",
+            "RA": "00 42 54.69",
+            "Dec": "+41 10 25.7",
+            "redshift": null,
+            "Type": "Probable Nova",
+            "Time": [
+                "24.772",
+                "24.781",
+                "24.793"
+            ],
+            "Date": "Mar. 24"
+        }
+    ],
+    "References": "A discovery image is available through the link below. Discovery image",
+    "Event Type": "Discovery of probable novae",
+    "Time": "24.772, 24.781, 24.793",
+    "Date": "Mar. 24",
+    "Telescope": "0.65-m telescope",
+    "Instrument": null,
+    "Observatory": "Ondrejov"
+}

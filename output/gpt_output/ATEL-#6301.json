@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dq",
+            "RA": "21:57:59.97",
+            "Dec": "+24:16:08.1",
+            "redshift": "0.010424",
+            "Type": "likely supernova",
+            "Time": "2014-07-08.48",
+            "Date": "2014-07-08"
+        },
+        {
+            "Name": "dwarf galaxy UGC 11860",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.010424",
+            "Type": "dwarf galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, list of all ASAS-SN transients, NED",
+    "Event Type": "discovery of a likely supernova",
+    "Time": "2014-07-08.48",
+    "Date": "2014-07-08",
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Diameter": "14 cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "RCOS",
+            "Diameter": "41 cm",
+            "Location": "near Siding Spring Observatory"
+        }
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "near Siding Spring Observatory"
+    ]
+}

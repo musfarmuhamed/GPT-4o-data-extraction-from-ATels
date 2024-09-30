@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.023906",
+            "Type": "SN Ia",
+            "Time": "10.35",
+            "Date": "June 10, 2016"
+        },
+        {
+            "Name": "ASASSN-16fe",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0386",
+            "Type": "SN Ia",
+            "Time": "10.37",
+            "Date": "June 10, 2016"
+        },
+        {
+            "Name": "ASASSN-16fg",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024887",
+            "Type": "SN Ia",
+            "Time": "10.39",
+            "Date": "June 10, 2016"
+        },
+        {
+            "Name": "ASASSN-16fl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.029444",
+            "Type": "SN Ia",
+            "Time": "9.27",
+            "Date": "June 9, 2016"
+        },
+        {
+            "Name": "ASASSN-16fv",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.011972",
+            "Type": "SN Ia",
+            "Time": "8.43",
+            "Date": "June 8, 2016"
+        }
+    ],
+    "References": [
+        "ATel #9057",
+        "ATel #9059",
+        "ATel #9079",
+        "ATel #9123"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "June 8-10, 2016",
+    "Telescope": "du Pont 2.5-m, Magellan/Baade 6.5-m",
+    "Instrument": "WFCCD, MagE",
+    "Observatory": "Las Campanas Observatory"
+}

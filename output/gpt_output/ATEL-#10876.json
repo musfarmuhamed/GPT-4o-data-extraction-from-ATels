@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVVJ162021.84-500112.94",
+            "RA": "16:20:22.01",
+            "Dec": "-50:01:11.6",
+            "redshift": null,
+            "Type": "stellar object",
+            "Time": "05:45 UT",
+            "Date": "2017 October 19"
+        },
+        {
+            "Name": "VVVJ162021.76-500110.27",
+            "RA": "16:20:22.01",
+            "Dec": "-50:01:11.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "05:45 UT",
+            "Date": "2017 October 19"
+        },
+        {
+            "Name": "VVVJ162022.12-500113.86",
+            "RA": "16:20:22.01",
+            "Dec": "-50:01:11.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "05:45 UT",
+            "Date": "2017 October 19"
+        },
+        {
+            "Name": "G333.4561+00.0474",
+            "RA": "16:20:22.01",
+            "Dec": "-50:01:11.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "05:45 UT",
+            "Date": "2017 October 19"
+        }
+    ],
+    "References": [
+        "Hashimoto et al. 2017",
+        "ATel #10869",
+        "Bahramian et al. 2017",
+        "ATel #10874",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "vvvsurvey.org",
+        "Spitzer GLIMPSE catalog"
+    ],
+    "Event Type": "bright uncatalogued X-ray transient",
+    "Time": "05:45 UT",
+    "Date": "2017 October 19",
+    "Telescope": [
+        "Swift/XRT",
+        "Spitzer Space Telescope",
+        "VISTA telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Jet Propulsion Laboratory, California Institute of Technology",
+        "ESO Public Survey programme ID 179.B-2002",
+        "Cambridge Astronomical Survey Unit"
+    ]
+}

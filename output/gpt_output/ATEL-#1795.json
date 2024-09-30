@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": "17:01:44.33",
+            "Dec": "-40:51:30.1",
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": null,
+            "Date": "2008 August 26"
+        },
+        {
+            "Name": "CXOU J170156.8-404938",
+            "RA": "17:01:56.85",
+            "Dec": "-40:49:38.3",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1569",
+        "#1572",
+        "#1616",
+        "#1618",
+        "#1621",
+        "#1635",
+        "Kaplan & Chakrabarty (2008; ATEL #1630)",
+        "Degenaar & Wijnands 2008, ATEL #1572",
+        "Strohmayer et al. 2008, ATEL #1635"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2008 August 26, 2008 August 07",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I, ACIS-S",
+    "Observatory": null
+}

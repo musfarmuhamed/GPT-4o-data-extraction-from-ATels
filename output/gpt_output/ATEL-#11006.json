@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17cuh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "02:00:00",
+            "Date": "2017-11-02"
+        },
+        {
+            "Name": "Gaia17cao",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "08:33:06",
+            "Date": "2017-08-08"
+        },
+        {
+            "Name": "Gaia16asm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "optical observations",
+    "Time": null,
+    "Date": "July-November 2017",
+    "Telescope": "2-m RCC telescope, 0.6-m Zeiss telescope",
+    "Instrument": null,
+    "Observatory": "Terskol Observatory"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP 202A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Majid et al Ap J 609, 133, 2004; Eger & Haberl A&A 491, 841, 2008",
+    "Event Type": "X-ray outburst - Type I event",
+    "Time": null,
+    "Date": {
+        "Start": "MJD 57575",
+        "End": "MJD 57600"
+    },
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": null
+}

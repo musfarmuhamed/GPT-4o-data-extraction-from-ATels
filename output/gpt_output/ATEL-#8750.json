@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016aqp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-IIP supernova",
+            "Time": "27.5",
+            "Date": "2016 Feb"
+        },
+        {
+            "Name": "SN 2005cs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "+4 days",
+            "Date": null
+        },
+        {
+            "Name": "PGC 16065",
+            "RA": null,
+            "Dec": null,
+            "redshift": "4720 km/s",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "27.5",
+    "Date": "2016 Feb",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Li-Jiang observatory of Yunnan Observatories"
+}

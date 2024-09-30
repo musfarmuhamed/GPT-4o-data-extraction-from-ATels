@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 2617",
+            "RA": "08:35:38.7845",
+            "Dec": "-04:05:17.802",
+            "redshift": 0.0142,
+            "Type": "Type 1 Seyfert",
+            "Time": "2013-04-10T00:00:00.27Z",
+            "Date": "2013-04-10"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2013, ATel #5010",
+        "Shappee et al. 2013, ATel #5059",
+        "Tsygankov et al. 2013, ATel #5103",
+        "Yang et al. 2013, ATel #5125"
+    ],
+    "Event Type": "strong outburst",
+    "Time": "2013-04-10T00:00:00.27Z",
+    "Date": "2013-04-10",
+    "Telescope": "VLBA",
+    "Instrument": null,
+    "Observatory": "NRAO"
+}

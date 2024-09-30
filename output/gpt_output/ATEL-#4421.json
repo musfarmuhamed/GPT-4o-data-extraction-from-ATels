@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 248",
+            "RA": 127.7170254,
+            "Dec": 24.1832836,
+            "redshift": 0.94,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "23 September 2012"
+        },
+        {
+            "Name": "2FGL J0830.5+2407",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Hewitt & Burbidge 1993, ApJS, 87, 451"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "12:00",
+    "Date": "30 September 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

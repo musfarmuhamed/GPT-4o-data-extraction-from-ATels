@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GAIA14aaq",
+            "RA": "11:15:55.33",
+            "Dec": "+49:23:15.9",
+            "redshift": null,
+            "Type": "Stellar, M-star",
+            "Time": null,
+            "Date": "2014-09-22"
+        },
+        {
+            "Name": "GAIA14acr",
+            "RA": "03:58:51.38",
+            "Dec": "+14:11:15.2",
+            "redshift": null,
+            "Type": "Stellar, K-star",
+            "Time": null,
+            "Date": "2014-10-08"
+        },
+        {
+            "Name": "GAIA14adu",
+            "RA": "07:59:14.91",
+            "Dec": "+31:37:15.7",
+            "redshift": null,
+            "Type": "Early type galaxy?",
+            "Time": null,
+            "Date": "2014-12-03"
+        },
+        {
+            "Name": "GAIA14ady",
+            "RA": "08:08:46.92",
+            "Dec": "+23:01:45.5",
+            "redshift": "0.1",
+            "Type": "Early type galaxy",
+            "Time": null,
+            "Date": "2014-11-26"
+        },
+        {
+            "Name": "GAIA14aeb",
+            "RA": "10:54:51.61",
+            "Dec": "-18:08:54.0",
+            "redshift": null,
+            "Type": "Stellar, K-star",
+            "Time": null,
+            "Date": "2014-11-21"
+        },
+        {
+            "Name": "GAIA15aac",
+            "RA": "22:18:18.75",
+            "Dec": "+41:42:44.9",
+            "redshift": null,
+            "Type": "Stellar, K-star",
+            "Time": null,
+            "Date": "2014-11-25"
+        },
+        {
+            "Name": "GAIA15aaf",
+            "RA": "16:16:30.75",
+            "Dec": "+07:35:21.2",
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": "2014-12-29"
+        }
+    ],
+    "References": [
+        "http://gaia.ac.uk/selected-gaia-science-alerts",
+        "http://cosmos.esa.int/gaia"
+    ],
+    "Event Type": "Observational",
+    "Time": "Night",
+    "Date": "2015-01-03",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS + R300B/R158R",
+    "Observatory": ""
+}

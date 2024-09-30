@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15cd",
+            "RA": "09:59:14.99",
+            "Dec": "+12:59:18.27",
+            "redshift": null,
+            "Type": "Transient Source/Supernova",
+            "Time": "2015-01-26.46",
+            "Date": "2015-01-26"
+        },
+        {
+            "Name": "CGCG 064-017",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034352",
+            "Type": "Starburst Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN, Mt. Cuba Astronomical Foundation, SDSS, NED",
+    "Event Type": "Discovery of transient source (supernova)",
+    "Time": "2015-01-26.46",
+    "Date": "2015-01-26",
+    "Telescope": "Quadruple 14-cm \"Brutus\" telescope, Swope 1-m telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; Las Campanas Observatory"
+}

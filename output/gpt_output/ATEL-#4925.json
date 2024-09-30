@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": 276.1383,
+            "Dec": -24.8793,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "02:56 to 17:38",
+            "Date": "2013-03-28"
+        },
+        {
+            "Name": "M28 (Globular Cluster)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular Cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "New transient source detection",
+    "Time": "02:56 to 17:38",
+    "Date": "2013-03-28",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS (ISGRI)",
+    "Observatory": "INTEGRAL"
+}

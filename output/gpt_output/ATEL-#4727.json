@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neon nova",
+            "Time": "E > 100 MeV",
+            "Date": "22 Jun 2012"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2011"
+        },
+        {
+            "Name": "HV Cet",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012"
+        }
+    ],
+    "References": [
+        "ATEL #4709",
+        "ATEL #4224",
+        "ATEL #4310",
+        "ATEL #4590",
+        "CBET #3202",
+        "Osborne et al 2011 ApJ 727 124",
+        "Schwarz et al 2011 ApJS 197 31",
+        "Orio et al ATEL #4633",
+        "Beardmore et al 2012 A&A 545 A116"
+    ],
+    "Event Type": "Swift observing campaign",
+    "Time": "18 Nov 2012",
+    "Date": "2012",
+    "Telescope": "Swift",
+    "Instrument": "UVOT image mode data, Swift XRT",
+    "Observatory": "Swift Observatory"
+}

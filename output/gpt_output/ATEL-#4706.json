@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2149-306",
+            "RA": "21h51m55.5239s",
+            "Dec": "-30d27m53.697s",
+            "redshift": "2.345",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2013-01-04"
+        },
+        {
+            "Name": "2FGL J2151.5-3021",
+            "RA": "21h51m55.5239s",
+            "Dec": "-30d27m53.697s",
+            "redshift": "2.345",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2013-01-04"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Wilkes 1986, MNRAS, 218, 331"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": "Null",
+    "Date": "2013-01-04",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

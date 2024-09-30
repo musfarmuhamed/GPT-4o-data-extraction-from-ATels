@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2013df",
+            "RA": "12:26:29.3410",
+            "Dec": "31:13:38.134",
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": "2013-07-23"
+        },
+        {
+            "Name": "SN1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2001gd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2011dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ciabattari et al. CBET #3557",
+        "Li et al. ATel #5150",
+        "Kamble et al. (2015, arXiv)"
+    ],
+    "Event Type": "First radio detection of SN 2013df",
+    "Time": null,
+    "Date": "2013-07-23",
+    "Telescope": "eMERLIN",
+    "Instrument": null,
+    "Observatory": null
+}

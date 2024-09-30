@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2491 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2006"
+        }
+    ],
+    "References": "ATel #1523",
+    "Event Type": "rapid emergence of a bright soft X-ray component",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift X-ray Telescope",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "about 40 ks",
+            "Date": "2008-10-02"
+        }
+    ],
+    "References": [
+        "ATel #1728",
+        "Bhattacharyya & Strohmayer 2007, ApJ, 664, L103",
+        "Cackett et al., 2008, ApJ, 674, 415",
+        "Fabian et al. 1989, MNRAS, 238, 729",
+        "Deloye et al., 2008, MNRAS, in press, arXiv:0810.0489"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "about 40 ks",
+    "Date": "2008-10-02",
+    "Telescope": "Suzaku",
+    "Instrument": "XIS detectors",
+    "Observatory": "Suzaku Observatory"
+}

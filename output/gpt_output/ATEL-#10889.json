@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17nn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.052,
+            "Type": "Ia-91T",
+            "Time": "15 to 20 days after max",
+            "Date": "2017-10-20.05"
+        },
+        {
+            "Name": "Gaia17cha",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0658,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2017-10-20.19"
+        },
+        {
+            "Name": "ATLAS17lsr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0134,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-10-21.37"
+        },
+        {
+            "Name": "Gaia17cqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0162,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-10-22.31"
+        },
+        {
+            "Name": "ATLAS17mmm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2017-10-23.49"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al., ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

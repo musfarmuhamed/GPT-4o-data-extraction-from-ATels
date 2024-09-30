@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235631.58-505643.2",
+            "RA": "23h 56m 31.58s",
+            "Dec": "-50d 56m 43.2s",
+            "redshift": "Null",
+            "Type": "ultraluminous PSN",
+            "Time": "21:27:26.34UT",
+            "Date": "2016-10-04"
+        },
+        {
+            "Name": "GALEXASC J235631.46-505642.1",
+            "RA": "23h 56m 31.46s",
+            "Dec": "-50d 56m 42.1s",
+            "redshift": "unknown",
+            "Type": "galaxy (possible AGN)",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": "21:27:26.34UT",
+    "Date": "2016-10-04",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "Null"
+}

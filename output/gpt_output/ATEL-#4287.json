@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sco 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "30 days after discovery",
+            "Date": "22 June 2012"
+        }
+    ],
+    "References": [
+        "CBET #3136",
+        "ATel #4157",
+        "ATEL #4284"
+    ],
+    "Event Type": "Monitoring campaign",
+    "Time": "Beginning 30 days after discovery",
+    "Date": "22 June 2012",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT",
+        "SMARTS 1.5m telescope"
+    ],
+    "Observatory": [
+        "Swift",
+        "SMARTS"
+    ]
+}

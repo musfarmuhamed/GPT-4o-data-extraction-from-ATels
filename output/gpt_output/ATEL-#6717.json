@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J04561965-1548027",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "Oct 17.8 UT",
+            "Date": null
+        },
+        {
+            "Name": "IC 2104",
+            "RA": null,
+            "Dec": null,
+            "redshift": "5500 km/sec",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBAT TOCP, Blondin and Tonry 2007, ApJ, 666, 1024; Mathewson et al. 1992, ApJS, 81, 413",
+    "Event Type": "Spectroscopic Classification",
+    "Time": "Oct 17.8 UT",
+    "Date": null,
+    "Telescope": "2-m Himalayan Chandra Telescope",
+    "Instrument": "HFOSC",
+    "Observatory": null
+}

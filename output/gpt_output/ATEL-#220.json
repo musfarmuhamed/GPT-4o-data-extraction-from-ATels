@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray Pulsar",
+            "RA": "00h53m23.8s",
+            "Dec": "-72d27m15s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[MA93] 667",
+            "RA": "00h53m23.9s",
+            "Dec": "-72d27m15s",
+            "redshift": null,
+            "Type": "emission-line star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MACHO object 207.16202.50",
+            "RA": "00h53m23.9s",
+            "Dec": "-72d27m15s",
+            "redshift": null,
+            "Type": "MACHO object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Zezas et al. astro-ph/0310562, 2003",
+    "Event Type": "Detection",
+    "Time": "23:03:50",
+    "Date": "2002-07-20",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

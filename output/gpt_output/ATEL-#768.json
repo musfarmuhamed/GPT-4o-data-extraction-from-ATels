@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J11215-5952",
+            "RA": "11:21:46.9",
+            "Dec": "-59:51:42",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "18:50-19:02UT",
+            "Date": "2006 March 20"
+        }
+    ],
+    "References": [
+        "ATEL #469",
+        "ATEL #766",
+        "Sidoli, Paizis & Mereghetti (astro-ph/0603081)",
+        "Negueruela, Smith & Chaty (ATEL #470)"
+    ],
+    "Event Type": "Swift TOO observation",
+    "Time": "18:50-19:02UT",
+    "Date": "2006 March 20",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT)",
+    "Observatory": null
+}

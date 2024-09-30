@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016fbz",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "Ia supernova",
+            "Time": "UT Aug. 27.6",
+            "Date": "2016"
+        },
+        {
+            "Name": "Gaia16bbi",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "Ia supernova",
+            "Time": "UT Aug. 27.6",
+            "Date": "2016"
+        },
+        {
+            "Name": "SN 1989B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "+8 days from maximum light",
+            "Date": null
+        },
+        {
+            "Name": "SN 1992A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "+7 days from maximum light",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "UT Aug. 27.6",
+    "Date": "2016",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

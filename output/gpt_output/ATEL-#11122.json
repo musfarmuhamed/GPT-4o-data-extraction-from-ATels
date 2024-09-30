@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS1004-217",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.33,
+            "Type": "flat spectrum radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGRaBSJ1006-2159",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.33,
+            "Type": "intermediate redshift quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGLJ1006.7-2159",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel#10952",
+    "Event Type": "flaring event",
+    "Time": null,
+    "Date": "November 27th, 2017 (MJD 2458084.990012)",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory, National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

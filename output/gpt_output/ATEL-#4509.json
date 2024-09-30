@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J023052.04+222845.9",
+            "RA": "02h 30m 52.04s",
+            "Dec": "+22d 28m 45.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20:24:16",
+            "Date": "2012-10-20"
+        },
+        {
+            "Name": "MASTER OT J060401.40+482508.9",
+            "RA": "06h 04m 01.40s",
+            "Dec": "+48d 25m 08.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "18:27:47",
+            "Date": "2012-10-19"
+        },
+        {
+            "Name": "MASTER OT J020108.88+504815.6",
+            "RA": "02h 01m 08.88s",
+            "Dec": "+50d 48m 15.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "13:53:18",
+            "Date": "2012-10-21"
+        }
+    ],
+    "References": "http://master.sai.msu.ru",
+    "Event Type": "OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

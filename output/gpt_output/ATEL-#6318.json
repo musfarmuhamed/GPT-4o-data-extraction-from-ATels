@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dz",
+            "RA": "15:05:54.522",
+            "Dec": "+12:44:43.33",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2014-07-13.31",
+            "Date": "2014-07-13"
+        },
+        {
+            "Name": "Mrk 842",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022202",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "List of all ASAS-SN transients"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2014-07-13.31",
+    "Date": "2014-07-13",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

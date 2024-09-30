@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient and its optical counterpart",
+            "Time": {
+                "March 27": {
+                    "MJD": 57839.7737,
+                    "Total Exposure Time [hour]": 1.18,
+                    "g' magnitude": "18.5 +/- 0.1",
+                    "Rc magnitude": "17.9 +/- 0.1",
+                    "Ic magnitude": "17.6 +/- 0.1"
+                },
+                "March 28": {
+                    "MJD": 57840.7726,
+                    "Total Exposure Time [hour]": 1.08,
+                    "g' magnitude": "18.8 +/- 0.1",
+                    "Rc magnitude": "18.3 +/- 0.1",
+                    "Ic magnitude": "18.0 +/- 0.2"
+                }
+            },
+            "Date": "March 27 and 28"
+        }
+    ],
+    "References": [
+        "ATEL #10208",
+        "ATEL #10215",
+        "ATEL #10216",
+        "ATEL #10217",
+        "ATEL #10221",
+        "ATEL #10222"
+    ],
+    "Event Type": "Optical observation",
+    "Time": null,
+    "Date": "March 27 and 28",
+    "Telescope": "MITSuME 50 cm telescope",
+    "Instrument": "Optical three color (g', Rc, and Ic) CCD cameras",
+    "Observatory": "Akeno Observatory, Yamanashi, Japan"
+}

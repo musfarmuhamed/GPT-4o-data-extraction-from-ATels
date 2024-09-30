@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-10-14.19341 UT",
+            "Date": "2016-10-14.19341 UT"
+        }
+    ],
+    "References": [
+        "Shumkov et al, ATEL #9621",
+        "Williams and Darnley, ATEL #9628",
+        "Mroz and Udalski, ATEL #9622",
+        "Lipunov et al., ATEL #9631"
+    ],
+    "Event Type": "discovery",
+    "Time": "10:20 UT",
+    "Date": "2016-10-14",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

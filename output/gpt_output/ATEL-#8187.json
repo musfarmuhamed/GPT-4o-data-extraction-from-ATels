@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HB892007+777",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.342,
+            "Type": "Blazar",
+            "Time": "2457289.8305",
+            "Date": "2015-09-24"
+        },
+        {
+            "Name": "2FGLJ2004.5+7754",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "8C2007+777",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR brightening",
+    "Time": "2457289.8305",
+    "Date": "2015-09-24",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

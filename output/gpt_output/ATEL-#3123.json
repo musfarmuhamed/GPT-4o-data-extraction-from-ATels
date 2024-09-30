@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1745-288",
+            "RA": "+266.46 deg",
+            "Dec": "-28.82 deg",
+            "redshift": null,
+            "Type": "X-ray outburst",
+            "Time": "11:25 UT",
+            "Date": "2011 Jan. 21"
+        },
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bursting X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fishman et al. 1995, IAUC 6272; Giles et al. 1996",
+    "Event Type": "X-ray outburst",
+    "Time": "11:25 UT",
+    "Date": "2011 Jan. 21",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "ISS"
+}

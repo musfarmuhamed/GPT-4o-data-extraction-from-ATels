@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-148",
+            "RA": "06:38:06.97",
+            "Dec": "-75:43:37.2",
+            "redshift": "0.043",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2013-12-25"
+        },
+        {
+            "Name": "CSS131224:020446-000718",
+            "RA": "02:04:46.41",
+            "Dec": "-00:07:18.4",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2013-12-24"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Wyrzykowski et al. 2012"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "N/A",
+    "Date": "2013-12-26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

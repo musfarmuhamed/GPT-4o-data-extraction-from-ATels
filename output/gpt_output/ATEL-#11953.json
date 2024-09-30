@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2018dyk/ZTF18aajupnt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037",
+            "Type": "tidal disruption event (TDE)",
+            "Time": "12.3",
+            "Date": "2018-08-12"
+        }
+    ],
+    "References": [
+        "Howell et al. 2005, ApJ, 634, 1190",
+        "Holoien et al. 2014, MNRAS, 445, 3263",
+        "Arcavi et al. 2014, ApJ, 793, 38",
+        "Blagorodnova et al. 2017, ApJ, 844, 46",
+        "French et al. 2016, ApJL, 818, 21",
+        "French et al. 2017, ApJ, 835, 176"
+    ],
+    "Event Type": "Observation",
+    "Time": "12.3",
+    "Date": "2018-08-12",
+    "Telescope": "2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Las Cumbres Observatory"
+}

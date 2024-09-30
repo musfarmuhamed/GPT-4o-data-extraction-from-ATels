@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 1048.1-5937",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": "null",
+            "Date": "January 2018"
+        }
+    ],
+    "References": [
+        "Archibald et al., ATEL #11241",
+        "Gendreau et al. 2012, SPIE Conference Series, Vol. 8443",
+        "Tiengo et al. 2002, A&A 383, 182",
+        "Tam et al. 2008, ApJ 677, 573",
+        "Durant & van Kerkwijk 2006, ApJ, 650, 1070",
+        "Tiengo et al. 2005, A&A 437, 997",
+        "Gavriil et al. 2006, ApJ 641, 418",
+        "Dib, Kaspi, & Gavriil 2009, ApJ 702, 614",
+        "Guver et al. 2015; ApJ 801, 48"
+    ],
+    "Event Type": "X-ray flux increase",
+    "Time": null,
+    "Date": "January 2018",
+    "Telescope": [
+        "Gehrels Swift observatory",
+        "Neutron star Interior Composition Explorer (NICER)",
+        "XMM-Newton"
+    ],
+    "Instrument": [
+        "X-Ray Telescope",
+        "EPIC-pn"
+    ],
+    "Observatory": [
+        "High Energy Astrophysics Science Archive Research Center (HEASARC)",
+        "NASA/GSFC",
+        "Smithsonian Astrophysical Observatory"
+    ]
+}

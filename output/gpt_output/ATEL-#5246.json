@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient neutron star low-mass X-ray binary and thermonuclear X-ray burster",
+            "Time": "Unknown",
+            "Date": "2013-08-01"
+        },
+        {
+            "Name": "GRS 1741-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient neutron star low-mass X-ray binary and thermonuclear X-ray burster",
+            "Time": "Unknown",
+            "Date": "2013-08-02"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient neutron star low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Degenaar & Wijnands 2009, A&A 495, 547",
+        "Degenaar & Wijnands 2010, A&A 524, 69",
+        "Kennea et al. 2013, ApJ 770, L24",
+        "Trap et al. 2009, A&A 504, 501"
+    ],
+    "Event Type": "transient X-ray source detection",
+    "Time": "~1.1 ks, ~1.0 ks",
+    "Date": "2013-08-01, 2013-08-02",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

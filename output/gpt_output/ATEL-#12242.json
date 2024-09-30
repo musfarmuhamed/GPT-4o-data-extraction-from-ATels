@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018jag",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "subluminous type Ia supernova",
+            "Time": "UT 26.6",
+            "Date": "2018-11-26"
+        },
+        {
+            "Name": "MCG +02-03-030",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.04,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Hopp et al. 1995, A&AS, 109, 537"
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "UT 26.6",
+    "Date": "2018-11-26",
+    "Telescope": "Lijiang 2.4-m",
+    "Instrument": null,
+    "Observatory": "Gaomeigu Station of Yunnan Astronomical Observatories (YNAO)"
+}

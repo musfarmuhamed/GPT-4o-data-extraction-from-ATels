@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J200358.24-244145.0",
+            "RA": "20h 03m 58.24s",
+            "Dec": "-24d 41m 45.0s",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "2015-08-15.94080 UT",
+            "Date": "2015-08-15"
+        },
+        {
+            "Name": "MASTER OT J192036.52-262411.3",
+            "RA": "19h 20m 36.52s",
+            "Dec": "-26d 24m 11.3s",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "2015-08-15.97972 UT",
+            "Date": "2015-08-15"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/200358.24-244145.0.png, http://master.sai.msu.ru/static/OT/192036.52-262411.3.png",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

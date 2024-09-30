@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova SMC 2012 (OGLE-2012-NOVA-002)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "O-Ne nova",
+            "Time": "2013 March 2",
+            "Date": "2013-03-02"
+        },
+        {
+            "Name": "Nova SMC 2012 (OGLE-2012-NOVA-002)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "O-Ne nova",
+            "Time": "2012 October",
+            "Date": "2012-10"
+        },
+        {
+            "Name": "Nova SMC 2012 (OGLE-2012-NOVA-002)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "O-Ne nova",
+            "Time": "2012 October 19 to 2013 February 15",
+            "Date": "2012-10-19 to 2013-02-15"
+        },
+        {
+            "Name": "Nova SMC 2012 (OGLE-2012-NOVA-002)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "O-Ne nova",
+            "Time": "2012 October 16 to 2012 December 15",
+            "Date": "2012-10-16 to 2012-12-15"
+        }
+    ],
+    "References": [
+        "ATel #4501",
+        "ATel #4483",
+        "ATel #4485"
+    ],
+    "Event Type": "observation",
+    "Time": "2012 May 20 to June 5",
+    "Date": "2012-05-20 to 2012-06-05",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

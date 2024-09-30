@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "LMXB",
+            "Time": "06:20",
+            "Date": "2010-Feb-23"
+        },
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": null,
+            "Date": "2010-Mar-03"
+        },
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "19:12",
+            "Date": "2010-Mar-02"
+        },
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "01:04",
+            "Date": "2010-Mar-03"
+        }
+    ],
+    "References": [
+        "Atel #2461",
+        "Atel #2462"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "06:20",
+    "Date": "2010-Feb-23",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEMX"
+    ],
+    "Observatory": "INTEGRAL"
+}

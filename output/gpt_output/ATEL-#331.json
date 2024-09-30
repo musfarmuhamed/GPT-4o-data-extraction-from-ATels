@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0115+63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "14:53 UTC - 16:24 UTC",
+            "Date": "September 12th 2004"
+        },
+        {
+            "Name": "PSR B0115+63.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel#326 from Lutovinov et al.",
+    "Event Type": "Galactic Plane Scan",
+    "Time": "14:53 UTC",
+    "Date": "September 12th 2004",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBAS gamma ray burst detection software",
+        "ISGRI field of view",
+        "JEM-X x-ray monitor",
+        "JEM-X observation"
+    ],
+    "Observatory": "INTEGRAL gamma ray observatory"
+}

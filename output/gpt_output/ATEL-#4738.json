@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J211830.74+752621.9",
+            "RA": "21h 18m 30.74s",
+            "Dec": "+75d 26m 21.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "00:00:00.50558",
+            "Date": "2013-01-14"
+        },
+        {
+            "Name": "SDSS J211830.65+752620.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J035309.31-025112.6",
+            "RA": "03h 53m 09.31s",
+            "Dec": "-02d 51m 12.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00:00:00.78032",
+            "Date": "2013-01-14"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2011-06-20",
+            "Time": "00:00:00.63965",
+            "For": "MASTER OT J211830.74+752621.9"
+        },
+        {
+            "Date": "2009-10-15",
+            "Time": "00:00:00.99339",
+            "For": "MASTER OT J035309.31-025112.6"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:00:00.50558",
+    "Date": "2013-01-14",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

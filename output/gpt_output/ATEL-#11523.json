@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1756.9-2508",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": "08:30 to 23:15",
+            "Date": "2018-04-01"
+        }
+    ],
+    "References": [
+        "ATel #11497",
+        "ATel #11502",
+        "ATel #11505"
+    ],
+    "Event Type": "discovery of a new outburst",
+    "Time": "08:30 to 23:15",
+    "Date": "2018-04-01",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": "INTEGRAL"
+}

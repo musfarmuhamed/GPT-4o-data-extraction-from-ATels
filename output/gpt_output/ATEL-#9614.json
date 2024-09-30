@@ -1,0 +1,90 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016hbj",
+            "RA": "00 18 23.82",
+            "Dec": "+16 41 32.95",
+            "redshift": "0.205",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161006"
+        },
+        {
+            "Name": "SN2016gvc",
+            "RA": "02 15 22.18",
+            "Dec": "-05 18 26.77",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160930"
+        },
+        {
+            "Name": null,
+            "RA": "04 35 20.02",
+            "Dec": "-71 50 33.5",
+            "redshift": "0.060",
+            "Type": "Unknown",
+            "Time": null,
+            "Date": "20160123"
+        },
+        {
+            "Name": "SN2016hax",
+            "RA": "21 36 02.28",
+            "Dec": "+01 53 08.4",
+            "redshift": "0.089",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161002"
+        },
+        {
+            "Name": null,
+            "RA": "22 06 52.38",
+            "Dec": "-13 45 01.6",
+            "redshift": "0.098",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160816"
+        },
+        {
+            "Name": "SN2016gtq",
+            "RA": "22 40 37.81",
+            "Dec": "-01 38 28.2",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160927"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Smartt et al. 2015, A&A, 579, 40",
+            "Link": "http://www.pessto.org"
+        },
+        {
+            "Title": "Wyrzykowski et al., 2014",
+            "Link": "arxiv:1409.1095"
+        },
+        {
+            "Title": "Scalzo et al.",
+            "Link": "ATel #5480"
+        },
+        {
+            "Title": "Tonry et al., 2011, PASP, 123, 58",
+            "Link": "ATel #8680"
+        },
+        {
+            "Title": "ESA Gaia Photometric Science Alerts Team and DPAC",
+            "Link": "http://gsaweb.ast.cam.ac.uk/alerts"
+        },
+        {
+            "Title": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+            "Link": null
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016 October 10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

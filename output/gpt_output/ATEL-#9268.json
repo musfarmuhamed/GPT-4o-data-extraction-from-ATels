@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16hp",
+            "RA": "13:34:38.64",
+            "Dec": "-23:40:53.1",
+            "redshift": "0.008663",
+            "Type": "supernova",
+            "Time": "2016-07-26.08",
+            "Date": "2016-07-26"
+        },
+        {
+            "Name": "ESO 509-IG064",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.008663",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, ASAS-SN",
+    "Event Type": "Discovery of transient source",
+    "Time": "2016-07-26.08",
+    "Date": "2016-07-26",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

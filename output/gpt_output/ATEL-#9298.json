@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J142038.73-002500.1",
+            "RA": "14h 20m 38.73s",
+            "Dec": "-00d 25m 00.1s",
+            "redshift": null,
+            "Type": "point-like particle CCD event",
+            "Time": "19:26:57",
+            "Date": "2016-07-31"
+        },
+        {
+            "Name": "NGC5584",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 125981",
+            "RA": "215.69403d",
+            "Dec": "-0.63777d",
+            "redshift": null,
+            "Type": "bright known star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source2",
+            "RA": "214.90209d",
+            "Dec": "-0.14592d",
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source3",
+            "RA": "215.72267",
+            "Dec": "-0.03074",
+            "redshift": null,
+            "Type": "GALEX source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source4",
+            "RA": "215.72267",
+            "Dec": "-0.60004",
+            "redshift": null,
+            "Type": "null",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source5",
+            "RA": "214.95898",
+            "Dec": "-0.11266",
+            "redshift": null,
+            "Type": "Sloan QSO",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source6",
+            "RA": "214.61169",
+            "Dec": "0.24144",
+            "redshift": null,
+            "Type": "Known bright star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, 2010, 30L",
+    "Event Type": "IceCube HESE event",
+    "Time": "01:55:34.5",
+    "Date": "2016-07-31",
+    "Telescope": "MASTER-Kislovodsk robotic telescope",
+    "Instrument": null,
+    "Observatory": "Kislovodsk, Russia"
+}

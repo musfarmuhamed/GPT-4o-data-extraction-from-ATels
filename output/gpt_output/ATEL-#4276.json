@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "00:40:14",
+            "Date": "2012 July 24"
+        }
+    ],
+    "References": [
+        "Romano et al. 2011, MNRAS, 412, L30",
+        "Mangano et al. 2011, ATel #3453",
+        "Romano et al 2012, ATel #4176",
+        "Krimm et al, 2006, ATel #904"
+    ],
+    "Event Type": "outburst",
+    "Time": "00:40:14",
+    "Date": "2012 July 24",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "X-ray Telescope (XRT)"
+    ],
+    "Observatory": "Swift"
+}

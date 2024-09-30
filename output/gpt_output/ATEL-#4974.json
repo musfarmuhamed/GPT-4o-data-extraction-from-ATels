@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": [
+                "21:25",
+                "09:35",
+                "08:45",
+                "08:57"
+            ],
+            "Date": [
+                "4-10-2013",
+                "4-12-2013",
+                "4-11-2013",
+                "4-12-2013"
+            ]
+        }
+    ],
+    "References": [
+        "Harrison et al. 2013, arXiv:1301.7307"
+    ],
+    "Event Type": "extreme brightening",
+    "Time": [
+        "21:25",
+        "09:35",
+        "08:45",
+        "08:57"
+    ],
+    "Date": [
+        "4-10-2013",
+        "4-12-2013",
+        "4-11-2013",
+        "4-12-2013"
+    ],
+    "Telescope": "NuSTAR",
+    "Instrument": "focusing hard X-ray",
+    "Observatory": null
+}

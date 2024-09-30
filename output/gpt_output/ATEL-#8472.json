@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150113.71-734333.8",
+            "RA": "15h 01m 13.71s",
+            "Dec": "-73d 43m 33.8s",
+            "redshift": null,
+            "Type": "Dwarf Nova?",
+            "Time": "00:23:18.41, 00:28:38.099, 00:33:55.848, 00:21:10.577, 00:22:43.475, 00:43:39.745",
+            "Date": "2015-12-25, 2015-12-29"
+        },
+        {
+            "Name": "MASTER OT J144248.29+673944.7",
+            "RA": "14h 42m 48.29s",
+            "Dec": "+67d 39m 44.7s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "19:02:04.248, 19:25:07.47, 17:15:58.285, 17:58:46.23",
+            "Date": "2015-12-15, 2015-12-24, 2015-12-25"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-03-02",
+            "Source": "VIZIER",
+            "MagnitudeLimit": "19.7m"
+        },
+        {
+            "Date": "2013-02-14",
+            "Source": "USNO-B1",
+            "MagnitudeLimit": "18.7m"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2015-12-25.016 UT, 2015-12-15.793 UT",
+    "Date": "2015-12-25, 2015-12-15",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO, MASTER-Amur"
+}

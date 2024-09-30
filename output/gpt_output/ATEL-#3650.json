@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient, Z source",
+            "Time": "2011-02-09",
+            "Date": "2011-02-09"
+        },
+        {
+            "Name": "XTE J1701-462",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Z source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Z source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cir X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cyg-like Z source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3102",
+        "ATel #3112",
+        "ATel #3116",
+        "ATel #3119",
+        "ATel #2952",
+        "ATels #3106",
+        "ATels #3110",
+        "ATels #3349",
+        "Lin et al. 2009, ApJ, 699, 60",
+        "Harris 1996, AJ, 112, 1487",
+        "Casares et al. 2009, ApJS, 181, 238",
+        "Shirey et al. 1996, ApJ, 469, L21",
+        "Homan et al. 2010, ApJ, 719, 201"
+    ],
+    "Event Type": "Ongoing RXTE observations",
+    "Time": null,
+    "Date": "2011-01-11",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

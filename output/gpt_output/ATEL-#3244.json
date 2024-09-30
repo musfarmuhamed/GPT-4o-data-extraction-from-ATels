@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J164449.3+573451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRB110328A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#3242",
+        "GCN #11824"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "08:59",
+        "10:31",
+        "12:03",
+        "13:37"
+    ],
+    "Date": "2011-03-28",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

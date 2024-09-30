@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15bxa",
+            "RA": "21:59:01.667",
+            "Dec": "+23:50:28.49",
+            "redshift": 0.1,
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2015-08-06.33"
+        },
+        {
+            "Name": "iPTF15cfw",
+            "RA": "21:27:50.196",
+            "Dec": "+20:49:38.02",
+            "redshift": 0.08,
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2015-08-21.16"
+        },
+        {
+            "Name": "iPTF15cno",
+            "RA": "22:08:16.671",
+            "Dec": "+24:29:30.03",
+            "redshift": 0.075,
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2015-09-04.24"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W",
+    "Event Type": "Core-Collapse SNe",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Keck2",
+    "Instrument": "DEIMOS",
+    "Observatory": "Palomar"
+}

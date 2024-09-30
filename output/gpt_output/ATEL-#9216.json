@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FO Aquarii",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": "2016 May 6"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Drake et al.",
+            "Year": 2009,
+            "Journal": "ApJ",
+            "Volume": 696,
+            "Page": 870
+        },
+        {
+            "Author": "Kennedy et al.",
+            "Year": 2016,
+            "Journal": "MNRAS",
+            "Volume": 459,
+            "Page": 3622
+        },
+        {
+            "Author": "Garnavich and Szkody",
+            "Year": 1988,
+            "Journal": "PASP",
+            "Volume": 100,
+            "Page": 1522
+        }
+    ],
+    "Event Type": "faint state",
+    "Time": null,
+    "Date": [
+        "2015 Dec. 18",
+        "2016 May 6"
+    ],
+    "Telescope": [
+        "Vatican Advanced Technology Telescope (VATT)",
+        "Sarah L. Krizmanich Telescope (SLKT)"
+    ],
+    "Instrument": "Johnson V zeropoint",
+    "Observatory": [
+        "Catalina Real-Time Sky Survey (CRTS)",
+        "University of Notre Dame"
+    ]
+}

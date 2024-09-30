@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J013347.25+302653.3",
+            "RA": "01h 33m 47.25s",
+            "Dec": "+30d 26m 53.3s",
+            "redshift": null,
+            "Type": "CV in our Galaxy or Nova in M33",
+            "Time": "00:45:51.386",
+            "Date": "2015-12-14"
+        },
+        {
+            "Name": "MASTER OT J005058.67-020914.0",
+            "RA": "00h 50m 58.67s",
+            "Dec": "-02d 09m 14.0s",
+            "redshift": null,
+            "Type": "?",
+            "Time": "23:42:38.481",
+            "Date": "2015-12-13"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/013347.32302651.6.png, http://master.sai.msu.ru/static/OT/005058.67-020914.0.png",
+    "Event Type": "Optical Transient",
+    "Time": "00:45:51.386",
+    "Date": "2015-12-14",
+    "Telescope": "MASTER-IAC",
+    "Instrument": null,
+    "Observatory": "MASTER-Tunka"
+}

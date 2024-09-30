@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT 081",
+            "RA": "17h51m32.8s",
+            "Dec": "+09d39m01s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1749+096",
+            "RA": "17h51m32.8s",
+            "Dec": "+09d39m01s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6396",
+    "Event Type": "polarization plane rotation",
+    "Time": "current observing season",
+    "Date": {
+        "Start": "May 9, 2015",
+        "End": "July 10, 2015"
+    },
+    "Telescope": "1.3-m Skinakas telescope",
+    "Instrument": "RoboPol",
+    "Observatory": "Crete"
+}

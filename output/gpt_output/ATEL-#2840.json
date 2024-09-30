@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J003809.1+403726",
+            "RA": "00:38:09.06",
+            "Dec": "40:37:25.9",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": [
+                "Sep. 3.30 UT",
+                "Sep. 4.20 UT",
+                "Sep. 5.19 UT",
+                "Sep. 6.26 UT",
+                "Sep. 7.24 UT",
+                "Sep. 12.17 UT"
+            ],
+            "Date": [
+                "Aug. 17",
+                "Sep. 3",
+                "Sep. 4",
+                "Sep. 5",
+                "Sep. 6",
+                "Sep. 7",
+                "Sep. 12"
+            ]
+        },
+        {
+            "Name": "USNOB1.0 1306-0010413",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.rotse.net/transients/j003809.1+403726/ROTSE3-J003809.1 +403726.jpg",
+        "http://www.rotse.net/transients/j003809.1+403726/ROTSE3-J003809.1 +403726_lc.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": [
+        "Sep. 3.30 UT",
+        "Sep. 4.20 UT",
+        "Sep. 5.19 UT",
+        "Sep. 6.26 UT",
+        "Sep. 7.24 UT",
+        "Sep. 12.17 UT"
+    ],
+    "Date": [
+        "Aug. 17",
+        "Sep. 3",
+        "Sep. 4",
+        "Sep. 5",
+        "Sep. 6",
+        "Sep. 7",
+        "Sep. 12"
+    ],
+    "Telescope": "ROTSE-IIIb",
+    "Instrument": "Unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas"
+}

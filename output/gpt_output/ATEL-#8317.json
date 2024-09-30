@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "13:00:00 UTC",
+            "Date": "2015-10-13"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Carrasco et al.",
+            "ATEL": "8311"
+        },
+        {
+            "Authors": "Grupe et al.",
+            "ATEL": "5598"
+        },
+        {
+            "Authors": "Stroh & Falcone",
+            "Year": "2013",
+            "Journal": "ApJS",
+            "Volume": "207",
+            "Page": "28"
+        }
+    ],
+    "Event Type": "flare",
+    "Time": null,
+    "Date": "2015-10-13",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14hr",
+            "RA": "01:50:41.27",
+            "Dec": "-14:31:04.75",
+            "redshift": 0.03362,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14hp",
+            "RA": "21:30:31.42",
+            "Dec": "-70:38:34.35",
+            "redshift": 0.03892,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LSQ14fms",
+            "RA": "00:14:59.83",
+            "Dec": "-51:12:39.60",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J16294609+0838306",
+            "RA": "16:29:46.09",
+            "Dec": "+08:38:30.6",
+            "redshift": 0.03297,
+            "Type": "Ia-pec",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN J23160979-4234575",
+            "RA": "23:16:09.79",
+            "Dec": "-42:34:57.5",
+            "redshift": 0.00537,
+            "Type": "SN imposter",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Hadjiyska et al., ATel #3812",
+        "ATel #6500",
+        "ATel #6493",
+        "Smith et al. 2011"
+    ],
+    "Event Type": "optical spectroscopic classifications",
+    "Time": null,
+    "Date": "Sep 27 UT",
+    "Telescope": "Las Campanas 2.5-m du Pont",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

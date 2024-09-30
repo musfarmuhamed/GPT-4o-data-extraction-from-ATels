@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J0103-728",
+            "RA": "1:02:53",
+            "Dec": "72:44:31",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": "2010-10-26"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Haberl et al.",
+            "Year": 2007,
+            "Title": "ATel #1095"
+        },
+        {
+            "Authors": "McGowan et al.",
+            "Year": 2008,
+            "Title": "MNRAS, 384, 821"
+        },
+        {
+            "Authors": "Galache et al.",
+            "Year": 2008,
+            "Title": "ApJS, 177, 189"
+        },
+        {
+            "Authors": "Corbet",
+            "Year": 1986,
+            "Title": "MNRAS, 220, 1047"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2010-10-26",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

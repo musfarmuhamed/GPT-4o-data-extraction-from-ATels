@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J14274900+1133400",
+            "RA": "14:27:49.00",
+            "Dec": "+11:33:40.0",
+            "redshift": "433 km/s",
+            "Type": "Ia-norm",
+            "Time": "NULL",
+            "Date": "20140716.847"
+        },
+        {
+            "Name": "ASASSN-14dz",
+            "RA": "NULL",
+            "Dec": "NULL",
+            "redshift": "6656 km/s",
+            "Type": "Ia-norm",
+            "Time": "NULL",
+            "Date": "20140716.87"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, in press; http://arxiv.org/abs/1403.7233",
+    "Event Type": "spectroscopic classification of two SNe",
+    "Time": "NULL",
+    "Date": "NULL",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "+AFOSC",
+    "Observatory": "Padova Asiago SN group"
+}

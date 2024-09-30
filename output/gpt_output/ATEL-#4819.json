@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1424-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013 Jan 08"
+        },
+        {
+            "Name": "PKS 1424-41",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013 Jan 28"
+        },
+        {
+            "Name": "2FGL J1428.0-4206",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Hydra A (3C218)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "ATel#4714",
+        "ATel#4717",
+        "ATel#4770",
+        "ATel#4775",
+        "Ott et al. 1994, A&A, 284, 331"
+    ],
+    "Event Type": "Flux density increase",
+    "Time": "1.1 hours of zenith meridian transit",
+    "Date": [
+        "2013 Jan 08",
+        "2013 Jan 28"
+    ],
+    "Telescope": "26m",
+    "Instrument": "dual-beam Dicke-switched receiver",
+    "Observatory": "Hartebeesthoek Radio Astronomy Observatory (HartRAO)"
+}

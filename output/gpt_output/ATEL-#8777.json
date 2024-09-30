@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 287",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.306",
+            "Type": "BL Lac",
+            "Time": "00:00:00",
+            "Date": "2016-03-05"
+        }
+    ],
+    "References": [
+        "ATel #8667",
+        "ATel #8697",
+        "ATel #8705",
+        "ATel #8768",
+        "Falomo, Scarpa, & Bersanelli 1994, ApJS, 93, 125",
+        "Sitko & Junkkarinen 1985, PASP, 97, 1158",
+        "ATel #8382"
+    ],
+    "Event Type": "Flaring activity",
+    "Time": "00:00:00",
+    "Date": "2016-03-05",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "Cerro Tololo, Chile (CTIO)"
+}

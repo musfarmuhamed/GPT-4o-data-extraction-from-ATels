@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Markarian 501",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "BL Lac",
+            "Time": "6 hour transit",
+            "Date": "April 6, 2016"
+        },
+        {
+            "Name": "Markarian 501",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.033,
+            "Type": "BL Lac",
+            "Time": "6 hour transit",
+            "Date": "April 7, 2016"
+        }
+    ],
+    "References": [
+        "Robert Lauer (University of New Mexico, rjlauer@unm.edu)",
+        "Michelle Hui (Marshall Space Flight Center, c.m.hui@nasa.gov)"
+    ],
+    "Event Type": "Increased gamma-ray flux",
+    "Time": null,
+    "Date": "April 6, 2016 - April 7, 2016",
+    "Telescope": "HAWC Observatory",
+    "Instrument": "TeV gamma ray water Cherenkov array",
+    "Observatory": "Puebla, Mexico"
+}

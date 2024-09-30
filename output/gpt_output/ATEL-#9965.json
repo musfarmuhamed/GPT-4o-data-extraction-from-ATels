@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ap",
+            "RA": "00:37:37.59",
+            "Dec": "-34:29:49.27",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2017-01-03.11",
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "GALEXASC J003737.20-342957.7",
+            "RA": "00:37:37.20",
+            "Dec": "-34:29:57.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "J. Brimacombe"
+    ],
+    "Event Type": "transient discovery",
+    "Time": "2017-01-03.11",
+    "Date": "2017-01-03",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

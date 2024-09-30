@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16cbd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0136",
+            "Type": "SN Ia",
+            "Time": "2016-12-13.47",
+            "Date": "2016-12-13"
+        },
+        {
+            "Name": "SN 1991bg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1986G",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006bt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGC 07367",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0136",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Gaia Alerts (http://gsaweb.ast.cam.ac.uk/alerts/alertsindex), Blondin & Tonry, 2007, ApJ, 666, 1024, NED",
+    "Event Type": "supernova",
+    "Time": "2016-12-13.47",
+    "Date": "2016-12-13",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

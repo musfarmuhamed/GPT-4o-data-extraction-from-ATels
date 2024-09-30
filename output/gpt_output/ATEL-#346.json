@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "apparent nova",
+            "RA": "0h42m51s.98",
+            "Dec": "+41o16'20\".8",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "09.896 UT",
+            "Date": "Sept. 9"
+        },
+        {
+            "Name": "M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "09.896 UT",
+    "Date": "Sept. 9",
+    "Telescope": "2m NAO Rozhen telescope",
+    "Instrument": "CCD",
+    "Observatory": "Rozhen, Bulgaria"
+}

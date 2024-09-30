@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31 2013-11a",
+            "RA": "00h41m26.23s",
+            "Dec": "+41d43'50\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:41:26.23",
+            "Date": "2013-11-07"
+        },
+        {
+            "Name": "Nova M31 2013-10d",
+            "RA": "J00442132",
+            "Dec": "+4055220",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:44:21.32",
+            "Date": "2013-11-01"
+        },
+        {
+            "Name": "Nova M31 2013-10g",
+            "RA": "J00432496",
+            "Dec": "+4121219",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:43:24.96",
+            "Date": "2013-10-28"
+        },
+        {
+            "Name": "Nova M31 2013-10h",
+            "RA": "J00430483",
+            "Dec": "+4116306",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "00:43:04.83",
+            "Date": "2013-10-30"
+        }
+    ],
+    "References": [
+        "ATel # 5475",
+        "ATel # 5543",
+        "ATel # 5502",
+        "ATel # 5522",
+        "ATel # 5528",
+        "ATel # 5554",
+        "ATel # 5539"
+    ],
+    "Event Type": "Discovery",
+    "Time": "Various",
+    "Date": "2013-11-07",
+    "Telescope": "50/70cm Schmidt Telescope",
+    "Instrument": "CCD FLI 16803",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

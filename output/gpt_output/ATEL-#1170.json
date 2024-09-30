@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070803-008",
+            "RA": "03:11:33.21",
+            "Dec": "-00:44:46.7",
+            "redshift": 0.03,
+            "Type": "Ibc",
+            "Time": "Aug 03.5",
+            "Date": "2007-08-03"
+        },
+        {
+            "Name": "SNF20070805-004",
+            "RA": "20:19:18.82",
+            "Dec": "06:31:11.3",
+            "redshift": 0.03,
+            "Type": "II",
+            "Time": "Aug 05.2",
+            "Date": "2007-08-05"
+        }
+    ],
+    "References": "USNO-B1.0 catalog",
+    "Event Type": "discovery",
+    "Time": "Aug 03 and Aug 05 UTC",
+    "Date": "2007-08-03 and 2007-08-05",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera, SuperNova Integral Field Spectrograph",
+    "Observatory": "University of Hawaii 2.2-meter telescope"
+}

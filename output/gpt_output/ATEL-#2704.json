@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASS 05412663-690122",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Component A",
+            "RA": "05:41:26.66",
+            "Dec": "-69:01:23.7",
+            "redshift": "Null",
+            "Type": "star",
+            "Time": "10:51 UT",
+            "Date": "2010 June 26th"
+        },
+        {
+            "Name": "Component B",
+            "RA": "05:41:26.63",
+            "Dec": "-69:01:21.7",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "10:51 UT",
+            "Date": "2010 June 26th"
+        },
+        {
+            "Name": "Component C",
+            "RA": "05:41:26.56",
+            "Dec": "-69:01:25.4",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "10:51 UT",
+            "Date": "2010 June 26th"
+        },
+        {
+            "Name": "Component A",
+            "RA": "05:41:26.66",
+            "Dec": "-69:01:23.7",
+            "redshift": "Null",
+            "Type": "star",
+            "Time": "10:29 UT",
+            "Date": "2010 June 29th"
+        }
+    ],
+    "References": "ATel #2695, ATel #2696, Schlegel et al. 1998",
+    "Event Type": "Discovery and Follow-up Observations",
+    "Time": "05:39 UT to 09:06 UT",
+    "Date": "2010 June 25th",
+    "Telescope": "Swift/UVOT, GROND, XMM-Newton",
+    "Instrument": "XRT, UVOT, Gamma-Ray Burst Optical-NearIR Detector (GROND), EPIC PN",
+    "Observatory": "Swift, MPG/ESO La Silla, XMM-Newton"
+}

@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN iPTF13bvn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ib/Ic SN",
+            "Time": "2013 June 18",
+            "Date": "2013 June 18"
+        }
+    ],
+    "References": "Cao et al. (2013; ApJL submitted)",
+    "Event Type": "Observation",
+    "Time": "2013 June 18",
+    "Date": "2013 June 18",
+    "Telescope": [
+        "CARMA",
+        "VLA"
+    ],
+    "Instrument": [
+        "3-mm band (95 GHz)",
+        "K-band (22 GHz)",
+        "C band (6 GHz)"
+    ],
+    "Observatory": [
+        "CARMA",
+        "VLA"
+    ]
+}

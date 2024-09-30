@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Source #1",
+            "RA": "17 35 27.16",
+            "Dec": "-32 55 48.9",
+            "redshift": null,
+            "Type": "Possible counterpart of IGR J17354-3255",
+            "Time": "01:08:59 to 07:57:56",
+            "Date": "2009-04-17"
+        },
+        {
+            "Name": "Source #2",
+            "RA": "17 35 18.32",
+            "Dec": "-32 54 22.9",
+            "redshift": null,
+            "Type": "Persistent source",
+            "Time": "01:05:20 to 10:52:57",
+            "Date": "2008-03-11"
+        }
+    ],
+    "References": [
+        "ATel #2017",
+        "ATel #874"
+    ],
+    "Event Type": "Gamma-ray transient detection and follow-up observation",
+    "Time": "01:08:59 to 07:57:56",
+    "Date": "2009-04-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

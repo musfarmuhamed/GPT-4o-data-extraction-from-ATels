@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16do",
+            "RA": "06:34:12.716",
+            "Dec": "-32:59:49.62",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "00:12",
+            "Date": "2016-03-30"
+        }
+    ],
+    "References": {
+        "LCOGT": "1.0-m robotic telescope at SAAO",
+        "DSS": "archival plates"
+    },
+    "Event Type": "Discovery",
+    "Time": "00:12",
+    "Date": "2016-03-30",
+    "Telescope": "Cassius",
+    "Instrument": "14-cm",
+    "Observatory": "Cerro Tololo, Chile"
+}

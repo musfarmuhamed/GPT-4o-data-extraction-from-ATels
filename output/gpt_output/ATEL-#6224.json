@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DDE 20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "DDE 21",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "DDE 33",
+            "RA": "19h22m57s.15",
+            "Dec": "+42o04'30\".2",
+            "redshift": null,
+            "Type": "large-amplitude variable star",
+            "Time": null,
+            "Date": "J2000.0"
+        },
+        {
+            "Name": "USNO-B1.0 1320-0391697",
+            "RA": "19h22m57s.105",
+            "Dec": "+42o04'30.27\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J19225714+4204297",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J192257.1+420429",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J192257.1+420430",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KIC 6602671",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KIS J192257.13+420429.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://www.telescope.org",
+        "http://master.sai.msu.ru/static/OT/DDE33-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/DDE33-POSS-B-GALEX.jpg"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2012-05-20",
+    "Telescope": "Bradford Robotic Telescope",
+    "Instrument": "Galaxy camera",
+    "Observatory": null
+}

@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J1617+3827AB",
+            "RA": "16:17:52.92",
+            "Dec": "+38:27:37.09",
+            "redshift": 2.079,
+            "Type": "double quasar",
+            "Time": "N/A",
+            "Date": "N/A"
+        },
+        {
+            "Name": "SDSS J1617+3827AB Image A",
+            "RA": "16:17:52.92",
+            "Dec": "+38:27:37.09",
+            "redshift": "N/A",
+            "Type": "quasar image A",
+            "Time": "N/A",
+            "Date": "N/A"
+        },
+        {
+            "Name": "SDSS J1617+3827AB Image B",
+            "RA": "N/A",
+            "Dec": "N/A",
+            "redshift": "N/A",
+            "Type": "quasar image B",
+            "Time": "N/A",
+            "Date": "N/A"
+        }
+    ],
+    "References": [
+        "Sergeyev et al. 2016MNRAS.456.1948S",
+        "Shalyapin et al. 2017, in preparation"
+    ],
+    "Event Type": "discovery",
+    "Time": "N/A",
+    "Date": "March 1, 2017",
+    "Telescope": "10.4-m Gran Telescopio CANARIAS",
+    "Instrument": "OSIRIS (R500B grism)",
+    "Observatory": "N/A"
+}

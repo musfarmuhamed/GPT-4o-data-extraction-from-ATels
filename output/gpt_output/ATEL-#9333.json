@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16dog",
+            "RA": "21:06:30.80",
+            "Dec": "-20:47:45.60",
+            "redshift": "0.120",
+            "Type": null,
+            "Time": null,
+            "Date": "2016 Aug 6 UT"
+        },
+        {
+            "Name": "PS16doh",
+            "RA": "21:47:04.35",
+            "Dec": "-22:31:41.80",
+            "redshift": "0.126",
+            "Type": "Ia",
+            "Time": "+10 d",
+            "Date": "2016 Aug 6 UT"
+        },
+        {
+            "Name": "ASASSN-16hz",
+            "RA": "23:15:45.52",
+            "Dec": "-01:20:23.75",
+            "redshift": "0.025",
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2016 Aug 6 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2016 Aug 6 UT",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

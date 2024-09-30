@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1409-619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "long period pulsar",
+            "Time": "8.5 ksec",
+            "Date": "December 4, 2010"
+        }
+    ],
+    "References": [
+        "Kennea et al. ATel #3060",
+        "Ueno et al. ATel #3067",
+        "Yamaoka et al. ATel #2969",
+        "Camero-Arranz et al. ATel #3069"
+    ],
+    "Event Type": "X-ray transient re-brightening",
+    "Time": "8.5 ksec",
+    "Date": "December 4, 2010",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

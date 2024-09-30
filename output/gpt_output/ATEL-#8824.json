@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016ayg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.046,
+            "Type": "Type Ia Supernova",
+            "Time": "Mar.12.6",
+            "Date": 2016
+        },
+        {
+            "Name": "SDSS J073017.25+250153.5",
+            "RA": "07:30:17.25",
+            "Dec": "+25:01:53.5",
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Optical Spectrum",
+    "Time": "Mar.12.6",
+    "Date": 2016,
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Astronomical Observatories (YNAO)"
+}

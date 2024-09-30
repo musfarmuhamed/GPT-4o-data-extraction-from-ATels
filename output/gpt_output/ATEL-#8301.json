@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cwx",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.055,
+            "Type": "I",
+            "Time": "20151119.05",
+            "Date": "20151117"
+        },
+        {
+            "Name": "PS15cwo",
+            "RA": "03:11:16.60",
+            "Dec": "+01:11:24.3",
+            "redshift": 0.02723,
+            "Type": "II",
+            "Time": "20151118.94",
+            "Date": "20151115"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Huber et al., ATel #7153",
+        "Atel #8300",
+        "Kangas et al. 2015, ATEL #8296",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

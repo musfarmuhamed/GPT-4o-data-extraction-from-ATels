@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": "06:52 UT",
+            "Date": "2014-09-10"
+        },
+        {
+            "Name": "SGR 1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": "06:52 UT",
+            "Date": "2014-09-10"
+        }
+    ],
+    "References": "Degenaar et al. 2013, ApJ 769, 155",
+    "Event Type": "X-ray flare",
+    "Time": "06:52 UT",
+    "Date": "2014-09-10",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

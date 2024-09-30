@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-13dcd",
+            "RA": "20:57:29.00",
+            "Dec": "+11:52:14.5",
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": "+50 days",
+            "Date": "2013-09-06"
+        },
+        {
+            "Name": "PS1-13dfd",
+            "RA": "18:12:55.32",
+            "Dec": "+64:18:38.3",
+            "redshift": 0.069,
+            "Type": "SN Ia",
+            "Time": "+15 days",
+            "Date": "2013-09-16"
+        },
+        {
+            "Name": "PS1-13dgl",
+            "RA": "21:13:22.64",
+            "Dec": "-30:31:57.9",
+            "redshift": 0.073,
+            "Type": "SN Ia",
+            "Time": "+13 days",
+            "Date": "2013-09-22"
+        },
+        {
+            "Name": "PS1-13dhm",
+            "RA": "23:41:35.14",
+            "Dec": "+03:43:30.2",
+            "redshift": 0.01,
+            "Type": "SN II",
+            "Time": "+5-15 days",
+            "Date": "2013-09-25"
+        },
+        {
+            "Name": "PS1-13dkh",
+            "RA": "03:11:16.09",
+            "Dec": "+15:42:58.3",
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": "maximum",
+            "Date": "2013-10-03"
+        },
+        {
+            "Name": "PS1-13dkw",
+            "RA": "00:30:19.05",
+            "Dec": "-01:41:46.8",
+            "redshift": 0.044,
+            "Type": null,
+            "Time": null,
+            "Date": "2013-10-04"
+        },
+        {
+            "Name": "PS1-13dlg",
+            "RA": "03:17:16.15",
+            "Dec": "-15:02:57.2",
+            "redshift": 0.032,
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2013-10-05"
+        },
+        {
+            "Name": "PS1-13dlh",
+            "RA": "23:47:52.95",
+            "Dec": "+07:04:56.0",
+            "redshift": 0.035,
+            "Type": "SN Ia",
+            "Time": "maximum",
+            "Date": "2013-10-05"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013 October 7",
+    "Telescope": "Keck II",
+    "Instrument": "DEIMOS spectrograph",
+    "Observatory": null
+}

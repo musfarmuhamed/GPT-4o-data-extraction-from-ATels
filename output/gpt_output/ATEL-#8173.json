@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J080005.70+364436.4",
+            "RA": "08h 00m 05.70s",
+            "Dec": "+36d 44m 36.4s",
+            "redshift": null,
+            "Type": "SuperNova",
+            "Time": "20:52:19.2",
+            "Date": "2015-10-15"
+        },
+        {
+            "Name": "PGC2086067",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sbc galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Date": "2012-04-09",
+            "Time": "13:18:00.0"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "19:52:22.8",
+    "Date": "2015-10-15",
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

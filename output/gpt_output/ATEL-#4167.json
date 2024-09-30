@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1508.6-4953",
+            "RA": "15h 08m 38.82s",
+            "Dec": "-49d 53m 02.9s",
+            "redshift": null,
+            "Type": "AGN (Blazar type)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1508-4953",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GeV emitter",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J150839.0-495304",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint ROSAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2012, arXiv:1205.3941",
+        "BAT 58-month catalogue (http://heasarc.nasa.gov/docs/swift/results/bs58mon/)",
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Massaro et al. 2012, ApJ, 750, 13",
+        "Ackermann et al. 2011, ApJ, 743, 171"
+    ],
+    "Event Type": "Observation",
+    "Time": "11 ks",
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

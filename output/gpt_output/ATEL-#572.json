@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J05007-7047",
+            "RA": "00 46.09",
+            "Dec": "-70 44 36.1159482",
+            "redshift": null,
+            "Type": "USNO B1.0 star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J07563-4137",
+            "RA": "07 56 19.62",
+            "Dec": "-41 37 42.2186525",
+            "redshift": null,
+            "Type": "IRAS 07545-4129 (pair or disturbed galaxy?)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J10252-6829",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "<26",
+            "Date": null
+        },
+        {
+            "Name": "IGR J11085-5100",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "<17",
+            "Date": null
+        },
+        {
+            "Name": "IGR J12026-5349",
+            "RA": "12 02 47.62",
+            "Dec": "-53 50 07.6118650",
+            "redshift": "0.0279",
+            "Type": "IRAS 12002-5333",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J12391-1612",
+            "RA": "12 39 06.29",
+            "Dec": "-16 10 47.153280",
+            "redshift": "0.0367",
+            "Type": "LEDA 170194 = NVSS J123906.3-161046",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J13091+1137",
+            "RA": "13 09 05.60",
+            "Dec": "+11 38 03.03103",
+            "redshift": "0.0251",
+            "Type": "NGC 4992",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J19473+4452",
+            "RA": "19 47 19.36",
+            "Dec": "+44 49 42.313264",
+            "redshift": null,
+            "Type": "2MASX J19471938+4449425",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Revnivtsev, M., et al. 2004, A&A, 418, 927",
+    "Event Type": null,
+    "Time": null,
+    "Date": "2005 June-July",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra"
+}

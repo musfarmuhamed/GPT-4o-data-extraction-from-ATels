@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 196.1",
+            "RA": "8:15:27.8",
+            "Dec": "-03:08:27",
+            "redshift": "0.19753",
+            "Type": null,
+            "Time": "2560",
+            "Date": "Mar 2012"
+        },
+        {
+            "Name": "3C 268.2",
+            "RA": "12:00:59.1",
+            "Dec": "31:33:28",
+            "redshift": "0.36280",
+            "Type": null,
+            "Time": "2576",
+            "Date": "Feb 2011"
+        },
+        {
+            "Name": "3C 303.1",
+            "RA": "14:43:14.5",
+            "Dec": "77:07:28",
+            "redshift": "0.26862",
+            "Type": null,
+            "Time": "2560",
+            "Date": "Feb 2012"
+        }
+    ],
+    "References": [
+        "Smith & Spinrad, 1980, PASP, 92, 553",
+        "Spinrad et al., 1985, PASP, 97, 932",
+        "Holt et al., 2008, MNRAS, 387, 639"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "GMOS/Gemini North",
+    "Instrument": "long-slit optical spectroscopy",
+    "Observatory": null
+}

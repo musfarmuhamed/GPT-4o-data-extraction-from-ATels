@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2011fe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": null,
+            "Date": "August 23"
+        }
+    ],
+    "References": [
+        "Atel #3581",
+        "Atel #3590",
+        "Shappee & Stanek 2011",
+        "Milne 2010, ApJ, 721, 1627",
+        "Atel #3584",
+        "Atel #3602"
+    ],
+    "Event Type": "Supernova",
+    "Time": null,
+    "Date": "August 23",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-UVOT",
+        "Swift-XRT"
+    ],
+    "Observatory": null
+}

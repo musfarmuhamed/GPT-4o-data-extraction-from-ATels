@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 100925A",
+            "RA": "+254.79 deg",
+            "Dec": "-15.27 deg",
+            "redshift": null,
+            "Type": "galactic X-ray transient",
+            "Time": "08:05:05",
+            "Date": "2010-09-25"
+        }
+    ],
+    "References": [
+        "Mangano et al. GCN #11296",
+        "Kann (GCN #11299)"
+    ],
+    "Event Type": "transient detection",
+    "Time": "11:39",
+    "Date": "2010-09-25",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": "Swift/BAT"
+}

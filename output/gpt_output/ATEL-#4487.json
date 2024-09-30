@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-NOVA-002",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": {
+                "U": "07:02",
+                "B": "06:23",
+                "V": "05:42",
+                "R": "07:39",
+                "I": "05:07"
+            },
+            "Date": "2012-10-14"
+        }
+    ],
+    "References": [
+        "ATel#4483",
+        "APASS",
+        "OGLE",
+        "Zaritsky (2002)"
+    ],
+    "Event Type": "Follow-up observations",
+    "Time": "Multiple times as specified",
+    "Date": "2012-10-14",
+    "Telescope": "Swope 1m Telescope",
+    "Instrument": "Photometry",
+    "Observatory": "Las Campanas Observatory"
+}

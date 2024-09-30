@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-14pw",
+            "RA": "05:45:00.09",
+            "Dec": "+16:06:07.6",
+            "redshift": "0",
+            "Type": "Stellar?",
+            "Time": null,
+            "Date": "20140227"
+        },
+        {
+            "Name": "LSQ14ahb",
+            "RA": "10:28:28.51",
+            "Dec": "+18:00:07.4",
+            "redshift": "0.04",
+            "Type": "II",
+            "Time": "Young",
+            "Date": "20140307"
+        },
+        {
+            "Name": "LSQ14age",
+            "RA": "13:24:08.60",
+            "Dec": "-13:26:25.9",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": "-3 d",
+            "Date": "20140308"
+        },
+        {
+            "Name": "LSQ14ahf",
+            "RA": "10:53:16.49",
+            "Dec": "-20:00:40.8",
+            "redshift": "0.08",
+            "Type": "II",
+            "Time": "Young",
+            "Date": "20140306"
+        },
+        {
+            "Name": "PSNJ13480599+0723164",
+            "RA": "13:48:05.99",
+            "Dec": "+07:23:16.4",
+            "redshift": "0.02",
+            "Type": "IIn",
+            "Time": "?",
+            "Date": "20140309"
+        },
+        {
+            "Name": "PS1-14pi",
+            "RA": "16:24:42.56",
+            "Dec": "+07:10:55.4",
+            "redshift": "0.025",
+            "Type": "IIn",
+            "Time": "~14 d",
+            "Date": "20140227"
+        },
+        {
+            "Name": "PS1-14rl",
+            "RA": "17:40:38.19",
+            "Dec": "+05:16:31.0",
+            "redshift": "-",
+            "Type": "?",
+            "Time": null,
+            "Date": "20140305"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Valenti et al., ATel #2668",
+        "Hadjiyska et al., ATel #3812",
+        "http://crts.caltech.edu/",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2014 Mar 9",
+    "Date": null,
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Optical Transient",
+            "RA": "11:56:49.13",
+            "Dec": "+54:27:25.7",
+            "redshift": 1.02,
+            "Type": "AGN",
+            "Time": "18.1 \u00b10.1 mag",
+            "Date": "Apr 26.23 UT"
+        },
+        {
+            "Name": "Optical Transient",
+            "RA": "11:56:49.13",
+            "Dec": "+54:27:25.7",
+            "redshift": 1.02,
+            "Type": "AGN",
+            "Time": "17.8 mag",
+            "Date": "Apr 28.21 UT"
+        },
+        {
+            "Name": "Optical Transient",
+            "RA": "11:56:49.13",
+            "Dec": "+54:27:25.7",
+            "redshift": 1.02,
+            "Type": "AGN",
+            "Time": "17.8 mag",
+            "Date": "May 6.23 UT"
+        }
+    ],
+    "References": [
+        {
+            "Instrument": "HET/LRS",
+            "Date": "May 1.24",
+            "Range": "420-890 nm",
+            "Observers": [
+                "S. Odewahn",
+                "V. Riley"
+            ]
+        },
+        {
+            "Instrument": "P200/DBSP",
+            "Date": "May 2.29",
+            "Range": "320-900 nm",
+            "Observers": "B. Cenko"
+        },
+        {
+            "Instrument": "HET/LRS",
+            "Date": "May 8.25",
+            "Range": "420-890 nm",
+            "Observers": [
+                "S. Rostopchin",
+                "Amy Westfall"
+            ]
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "May 1.24 UT",
+    "Date": "2023-04-26",
+    "Telescope": "0.45m ROTSE-IIIb, 60\" Palomar, 200\" Palomar, 9.2m Hobby-Eberly (HET)",
+    "Instrument": "Unfiltered CCD, Marcario Low-Resolution Spectrograph, Double Beam Spectrograph",
+    "Observatory": "McDonald Observatory, Palomar Observatory"
+}

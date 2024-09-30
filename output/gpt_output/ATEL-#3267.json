@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate and microquasar",
+            "Time": "2.17h UT to 21.95h UT",
+            "Date": "2011-03-31 to 2011-04-01"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate and microquasar",
+            "Time": "9.38h UT to 22.7h UT",
+            "Date": "2011-04-04"
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate and microquasar",
+            "Time": "8.25h UT to 22.03h UT",
+            "Date": "2011-04-06"
+        }
+    ],
+    "References": "ATel #3263",
+    "Event Type": "Outburst",
+    "Time": "2.17h UT to 22.03h UT",
+    "Date": "2011-03-31 to 2011-04-06",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

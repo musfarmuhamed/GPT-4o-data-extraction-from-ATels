@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "A1744-36",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1748-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "visible source consistent with the coordinates given in ATEL #205",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "visible source",
+            "Time": [
+                "2003 Nov 08.999-09.004",
+                "2003 Nov 10.001-10.006"
+            ],
+            "Date": [
+                "2003-11-08",
+                "2003-11-09",
+                "2003-11-10"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #204",
+        "ATEL #205",
+        "Digitized Sky Survey",
+        "2MASS images"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "2003 Nov 08.999-09.004",
+        "2003 Nov 10.001-10.006"
+    ],
+    "Date": [
+        "2003-11-08",
+        "2003-11-09",
+        "2003-11-10"
+    ],
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM camera",
+    "Observatory": "CTIO"
+}

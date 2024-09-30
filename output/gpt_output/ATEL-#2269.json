@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "15:03",
+            "Date": "2009-10-26"
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#2258",
+        "#2259",
+        "#2261",
+        "#2263",
+        "#2265",
+        "#2268"
+    ],
+    "Event Type": "observation",
+    "Time": "15:03",
+    "Date": "2009-10-26",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016ajm",
+            "RA": "02 49 36.01",
+            "Dec": "-31 13 23.9",
+            "redshift": "0.024",
+            "Type": "SNIa-p",
+            "Time": "00:00:00",
+            "Date": "2016-02-23"
+        },
+        {
+            "Name": "Gaia16afj",
+            "RA": "06 46 41.29",
+            "Dec": "-45 07 04.5",
+            "redshift": "0.055",
+            "Type": "SNIa",
+            "Time": "00:00:00",
+            "Date": "2016-02-23"
+        },
+        {
+            "Name": "SN2016aiy",
+            "RA": "13 08 25.39",
+            "Dec": "-41 58 50.3",
+            "redshift": "0.010",
+            "Type": "SNIIn",
+            "Time": "00:00:00",
+            "Date": "2016-02-23"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "TAROT Collaboration",
+        "ESA Gaia, DPAC and the Photometric Science Alerts Team",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "ATel (#8703)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "00:00:00",
+    "Date": "2016-02-23",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

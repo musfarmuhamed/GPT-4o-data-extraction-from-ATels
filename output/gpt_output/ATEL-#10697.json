@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FRB170827",
+            "RA": "00:49:18.66",
+            "Dec": "-65:33:02.3",
+            "redshift": "0.15",
+            "Type": "Fast Radio Burst (FRB)",
+            "Time": "16:20:18",
+            "Date": "2017-08-27"
+        }
+    ],
+    "References": [
+        "Bailes et al 2017, arxiv 1708.09619",
+        "Caleb et al 2017 MNRAS 468, 3746"
+    ],
+    "Event Type": "Bright burst detection",
+    "Time": "16:20:18",
+    "Date": "2017-08-27",
+    "Telescope": "Molonglo",
+    "Instrument": "Null",
+    "Observatory": "UTMOST"
+}

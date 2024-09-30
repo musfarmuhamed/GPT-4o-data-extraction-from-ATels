@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19267+1325",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "magnetic cataclysmic variable",
+            "Time": "19.43 and 19.91",
+            "Date": "2008 August"
+        }
+    ],
+    "References": [
+        "ATEL #1649",
+        "ATEL #1323",
+        "ATEL #1653"
+    ],
+    "Event Type": "Swift-XRT observations",
+    "Time": "~12 ks",
+    "Date": "2008 August 19",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

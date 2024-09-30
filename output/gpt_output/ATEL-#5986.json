@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1739-278",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray nova, black hole candidate",
+            "Time": "00:00",
+            "Date": "2014-03-09"
+        },
+        {
+            "Name": "GRS 1739-278",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray nova, black hole candidate",
+            "Time": "00:00",
+            "Date": "2014-03-17"
+        }
+    ],
+    "References": [
+        "Vargas et al., 1997, MNRAS 476, L23",
+        "Wijnands et al., 2001, MNRAS 328, 451"
+    ],
+    "Event Type": "outburst",
+    "Time": "00:00",
+    "Date": "2014-03-09",
+    "Telescope": "Swift/BAT, SIGMA/Granat",
+    "Instrument": null,
+    "Observatory": "Swift, RXTE/PCA"
+}

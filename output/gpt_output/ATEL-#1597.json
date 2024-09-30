@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J20183871+4041003",
+            "RA": "20 18 38.7347",
+            "Dec": "40 40 59.984",
+            "redshift": null,
+            "Type": "AGN or X-ray binary",
+            "Time": "1.7 hours",
+            "Date": "25 June 2008"
+        },
+        {
+            "Name": "IGR J2018+4043",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "EGRET source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dubner et al. (ATel#1518)",
+        "Kennea et al. (ATel #788)",
+        "Bykov et al (2006, ApJL 649, L21)",
+        "Longo et al. (ATel#1492)",
+        "Giuliani et al., ATel#1547",
+        "Halpern (ATel#1498)",
+        "Chen et al. (ATel#1585)",
+        "Cheung (ATel#1584)"
+    ],
+    "Event Type": "Observation",
+    "Time": "1.7 hours",
+    "Date": "25 June 2008",
+    "Telescope": [
+        "Cambridge",
+        "Effelsberg",
+        "Jodrell Bank (MkII)",
+        "Medicina",
+        "Onsala",
+        "Torun",
+        "phased array Westerbork"
+    ],
+    "Instrument": "e-VLBI",
+    "Observatory": [
+        "European VLBI Network",
+        "EC DG-INFSO"
+    ]
+}

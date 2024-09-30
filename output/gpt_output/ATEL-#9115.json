@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "00:00:00",
+            "Date": "2016-05-17"
+        },
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": "00:00:00",
+            "Date": "2000-07-07"
+        }
+    ],
+    "References": [
+        "Werner et al. 2004",
+        "Wijnands et al. (2002)",
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J1747-288",
+        "http://integral.esac.esa.int/BULGE/SOURCES/1A_1743-288/1A_1743-288.html"
+    ],
+    "Event Type": "detection of a bright halo",
+    "Time": "00:00:00",
+    "Date": "2016-05-17",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-I",
+    "Observatory": "Chandra"
+}

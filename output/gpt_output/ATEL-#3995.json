@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012aw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Chandra X-ray source (source s08)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2005"
+        }
+    ],
+    "References": [
+        "CBET #3054",
+        "ATel #3979",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "Swartz et al. 2006, ApJ 647, 1030"
+    ],
+    "Event Type": "Detection of X-ray point-source",
+    "Time": "14.7 ks",
+    "Date": "2012-03-19.7 to 2012-03-22.2",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": null
+}

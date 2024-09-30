@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS120103:002748-055559",
+            "RA": "00 27 48",
+            "Dec": "-05 55 59",
+            "redshift": 0.428,
+            "Type": "Blazar",
+            "Time": "JD 2456259.701814",
+            "Date": "November 28, 2012"
+        },
+        {
+            "Name": "GALEX2673601078639985212",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.428,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "E. Breedt et.al (Atel #4606)",
+    "Event Type": "NIR brightening observation",
+    "Time": "JD 2456259.701814",
+    "Date": "November 28, 2012",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

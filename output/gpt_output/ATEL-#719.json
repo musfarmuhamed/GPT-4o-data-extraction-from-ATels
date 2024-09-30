@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 4992",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.025",
+            "Type": "Spiral Galaxy/X-ray Bright, Optically Normal Galaxies (XBONGs)",
+            "Time": "00:15",
+            "Date": "2006-02-01"
+        },
+        {
+            "Name": "CXOU J130905.6+113803",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J13091+1137",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Halpern, Atel #572",
+        "Sazonov et al., 2005, A&A, 444, L37",
+        "Comastri et al. 2002, astro-ph/0203019",
+        "Severgnini et al. 2003, A&A, 406, 483"
+    ],
+    "Event Type": "Acquisition of Optical Spectrum",
+    "Time": "00:15",
+    "Date": "2006-02-01",
+    "Telescope": "'G.D. Cassini' 1.5m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Astronomical Observatory of Bologna located in Loiano (Italy)"
+}

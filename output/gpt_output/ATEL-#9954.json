@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KAIT-17A/AT 2017be",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.001,
+            "Type": "LBV outburst (a.k.a. a supernova 'impostor')",
+            "Time": "10.4",
+            "Date": "2017 January 10"
+        },
+        {
+            "Name": "proposed host galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.001,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": "2004"
+        },
+        {
+            "Name": "H-alpha emission",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.001,
+            "Type": "emission line",
+            "Time": null,
+            "Date": "2004"
+        }
+    ],
+    "References": "Garrido, Marcelin, & Amram 2004, MNRAS, 349, 225; via NED, Tully 1988, Nearby Galaxy Catalog; Sharina, Karachentsev, & Tikhonov 1999, AstL, 25, 322; via NED",
+    "Event Type": "Observation",
+    "Time": "10.4",
+    "Date": "2017 January 10",
+    "Telescope": "Las Cumbres Observatory 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Haleakala, Hawai'i"
+}

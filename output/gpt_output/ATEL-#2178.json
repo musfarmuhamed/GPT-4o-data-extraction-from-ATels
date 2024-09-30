@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "22:51:46.96 UT",
+            "Date": null
+        },
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient",
+            "Time": "23:09:22.96 UT",
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://gcn.gsfc.nasa.gov/notices_s/361128/BA/",
+        "http://gcn.gsfc.nasa.gov/notices_s/361129/BA/",
+        "Gotz D. et al. 2007, ApJ, 655, L101",
+        "Romano et al. 2009, MNRAS, 392, 45",
+        "Sidoli et al. 2009, MNRAS, 397, 1528",
+        "Krimm et al, 2006, ATel #904",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/weak/IGRJ08408-4503"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": [
+        "22:51:46.96 UT",
+        "23:09:22.96 UT"
+    ],
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": "Swift Observatory"
+}

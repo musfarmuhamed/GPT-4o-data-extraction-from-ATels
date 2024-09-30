@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "16:42:44",
+            "Date": "2010-09-22"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Weisskopf et al.",
+            "Journal": "ApJ",
+            "Volume": 713,
+            "Year": 2010
+        },
+        {
+            "Authors": "Cusumano et al.",
+            "Journal": "Proceedings of the SPIE",
+            "Volume": 5898,
+            "Year": 2005
+        }
+    ],
+    "Event Type": "Gamma-ray emission",
+    "Time": "16:42:44",
+    "Date": "2010-09-22",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

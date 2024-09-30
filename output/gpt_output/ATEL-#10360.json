@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17bdj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate CV",
+            "Time": "16:41",
+            "Date": "2017 May 03"
+        },
+        {
+            "Name": "Gaia17bdk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate microlensing event",
+            "Time": "16:53",
+            "Date": "2017 May 03"
+        },
+        {
+            "Name": "Gaia17bdm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "candidate CV",
+            "Time": "16:34",
+            "Date": "2017 May 03"
+        }
+    ],
+    "References": "ESA Gaia, DPAC, Photometric Science Alerts Team (https://gaia.ac.uk/selected-gaia-science-alerts)",
+    "Event Type": "Astronomical observations",
+    "Time": "8-9 UT and 4-5 UT",
+    "Date": "2017 May 03 and 2017 May 05",
+    "Telescope": "Swiss 1.2m Euler telescope",
+    "Instrument": "ECAM",
+    "Observatory": "La Silla Observatory, Chile"
+}

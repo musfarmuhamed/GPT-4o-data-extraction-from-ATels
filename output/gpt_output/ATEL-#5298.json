@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Del 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2013 Aug 14.0",
+            "Date": "2013-08-14"
+        }
+    ],
+    "References": [
+        "CBET #3628",
+        "ATel #5282",
+        "ATel #5297"
+    ],
+    "Event Type": "Observation",
+    "Time": "2013-08-16",
+    "Date": "2013-08-16",
+    "Telescope": [
+        "VLA",
+        "CARMA"
+    ],
+    "Instrument": null,
+    "Observatory": "The E-Nova Project"
+}

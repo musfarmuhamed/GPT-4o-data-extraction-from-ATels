@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTEJ1739-302/IGRJ17391-3021",
+            "RA": "264.79863",
+            "Dec": "30.34351",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smith et al. 1998, ApJ 501, L101",
+        "Rahoui et al. 2008, arXiv 0802.1770",
+        "Romano et al 2008; ATel #1466"
+    ],
+    "Event Type": "Trigger",
+    "Time": [
+        "23:49:17 UT",
+        "00:12:53 UT"
+    ],
+    "Date": [
+        "2008-08-13",
+        "2008-08-14"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "WT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

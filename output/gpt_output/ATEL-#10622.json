@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048,
+            "Type": "HBL",
+            "Time": "34.0+/-0.20 cts/s",
+            "Date": "2017-06-24"
+        },
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2017-06-27"
+        }
+    ],
+    "References": [
+        "Kapanadze B. et al. 'A recent strong X-ray flaring activity of 1ES 1959+650 with possibly less efficient stochastic acceleration'",
+        "ATel#9949,9694,9205,9121,8468,8342,8289,8014,10439",
+        "http://www.swift.psu.edu/monitoring/source.php?source=1ES1959+650",
+        "Shukla et al. 2015, ApJ, 798, 2"
+    ],
+    "Event Type": "X-ray flaring activity",
+    "Time": null,
+    "Date": "2017-06-12",
+    "Telescope": "Swift Satellite",
+    "Instrument": [
+        "XRT",
+        "Burst Alert Telescope (BAT)",
+        "UV/Optical Telescope (UVOT)"
+    ],
+    "Observatory": [
+        "Pennsylvania State University",
+        "Brera Astronomical Observatory (OAB)",
+        "University of Leicester"
+    ]
+}

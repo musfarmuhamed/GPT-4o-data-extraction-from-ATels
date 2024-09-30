@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "anomalous X-ray pulsar",
+            "Time": "17 min",
+            "Date": "2009-01-18"
+        },
+        {
+            "Name": "Additional Source 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "17 min",
+            "Date": "2009-01-18"
+        },
+        {
+            "Name": "Additional Source 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "17 min",
+            "Date": "2009-01-18"
+        },
+        {
+            "Name": "Additional Source 3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "17 min",
+            "Date": "2009-01-18"
+        }
+    ],
+    "References": [
+        "Gelfand & Gaensler (ApJ, 667, 1111)",
+        "Mignani et al. (ATEL #1758)",
+        "Halpern et al. 2008, ApJ, 676, 1178",
+        "Dib et al., ATEL #1770",
+        "R. Dib, private communication",
+        "GCN #8833",
+        "GCN #8835"
+    ],
+    "Event Type": "Observation",
+    "Time": "17 min",
+    "Date": "2009-01-18",
+    "Telescope": "Magellan/Baade",
+    "Instrument": "PANIC camera",
+    "Observatory": "Las Campanas Observatory, Chile"
+}

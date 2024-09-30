@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "chase_ESO-9015",
+            "RA": "09 02 05.46",
+            "Dec": "-64:54:19.73",
+            "redshift": "0.0056",
+            "Type": "II",
+            "Time": "Unknown",
+            "Date": "20121106"
+        },
+        {
+            "Name": "OGLE-2012-SN-027",
+            "RA": "01 35 11.24",
+            "Dec": "-73 35 36.7",
+            "redshift": "0.07",
+            "Type": "I",
+            "Time": "Unknown",
+            "Date": "20121104"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org",
+    "Event Type": "Transient classifications",
+    "Time": "Unknown",
+    "Date": "2012 November 7th",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

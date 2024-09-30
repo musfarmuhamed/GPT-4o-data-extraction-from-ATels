@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1824-582",
+            "RA": "18h29m12.4023s",
+            "Dec": "-58d13m55.161s",
+            "redshift": 1.531,
+            "Type": "FSRQ",
+            "Time": "Daily averaged flux (E>100MeV)",
+            "Date": "2016-09-05"
+        }
+    ],
+    "References": [
+        "ATel #6067",
+        "Fey et al. 2006, AJ, 132, 1944",
+        "Healey et al. 2008, ApJS, 175, 97"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "Daily averaged flux (E>100MeV)",
+    "Date": "2016-09-05",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA, DOE, international collaboration involving France, Italy, Japan, and Sweden"
+}

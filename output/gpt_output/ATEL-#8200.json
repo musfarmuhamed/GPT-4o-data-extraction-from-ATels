@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cku",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "Type Ia supernova",
+            "Time": "20.7",
+            "Date": "2015-10-20"
+        },
+        {
+            "Name": "2MASX J01242239+0335168",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2003cg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "-3 days",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Optical Spectrum",
+    "Time": "20.7",
+    "Date": "2015-10-20",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

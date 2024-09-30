@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J091344.71+762842.4",
+            "RA": "09:13:44.666",
+            "Dec": "+76:28:44.51",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "Between Aug 25 and 29, 2017",
+            "Date": "2017-08-25 to 2017-08-29"
+        },
+        {
+            "Name": "NGC 2748",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10667, Magnier et al. arXiv:1612.05242",
+    "Event Type": "optical transient analysis, possible supernova",
+    "Time": "Between Aug 25 and 29, 2017",
+    "Date": "2017-08-25 to 2017-08-29",
+    "Telescope": "60/90 cm Schmidt telescope",
+    "Instrument": null,
+    "Observatory": "Konkoly Observatory, Piszkesteto, Hungary"
+}

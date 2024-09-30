@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J080658.36+250049.7",
+            "RA": "08h 06m 58.36s",
+            "Dec": "+25d 00m 49.7s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "2015-05-25.77661 UT",
+            "Date": "2015-05-25"
+        },
+        {
+            "Name": "PGC1722882",
+            "RA": null,
+            "Dec": null,
+            "redshift": "v_hel=10887",
+            "Type": "galaxy (SBb(r))",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "discovery",
+    "Time": "2015-05-25.77661 UT",
+    "Date": "2015-05-25",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

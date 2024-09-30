@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N_2008-08a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FeII nova",
+            "Time": "Aug 17.13",
+            "Date": "2008-08-17"
+        },
+        {
+            "Name": "M31N_2008-08b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "helium nova",
+            "Time": "Aug 17.17",
+            "Date": "2008-08-17"
+        }
+    ],
+    "References": [
+        "ATEL #1654",
+        "Williams 1992,AJ,104,725",
+        "Buckley et al. (1990, IAUC #5019)"
+    ],
+    "Event Type": "observation",
+    "Time": "Aug 17.13 for M31N_2008-08a and Aug 17.17 for M31N_2008-08b",
+    "Date": "2008-08-17",
+    "Telescope": "3.5-m Telescopio Nazionale Galileo",
+    "Instrument": "DOLORES spectrograph and camera",
+    "Observatory": "INAF"
+}

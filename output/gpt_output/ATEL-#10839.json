@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J030837.50+390521.3",
+            "RA": "03h 08m 37.50s",
+            "Dec": "+39d 05m 21.3s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20:58:55",
+            "Date": "2017-10-10"
+        },
+        {
+            "Name": "MASTER OT J053628.39+135341.7",
+            "RA": "05h 36m 28.39s",
+            "Dec": "+13d 53m 41.7s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": null,
+            "Date": "2017-10-01.26862"
+        }
+    ],
+    "References": [
+        {
+            "Name": "PGC2143082",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "spiral galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Event Type": [
+        "PSN",
+        "OT"
+    ],
+    "Time": "20:58:55",
+    "Date": "2017-10-10",
+    "Telescope": "MASTER-Tavrida",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

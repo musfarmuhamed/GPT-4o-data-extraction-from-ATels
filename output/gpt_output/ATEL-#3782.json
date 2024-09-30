@@ -1,0 +1,98 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2011 Sep 10",
+            "Date": "JD 2455815"
+        },
+        {
+            "Name": "RW UMi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V4633 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V4745 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V4743 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V697 Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1495 Aql",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V1500 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC # 9205",
+        "ATel #3549",
+        "ATel #3647",
+        "ATel #3707",
+        "Schaefer et al. 2011, arXiv:1109.0065",
+        "Uthas, Knigge, and Steeghs 2010, MNRAS, 409, 237",
+        "Patterson et al. 1998, PASP, 110, 380",
+        "Tamburini et al. 2007, A&A, 464, 697",
+        "Lipkin & Leibowitz 2008, MNRAS, 387, 289",
+        "Dobrotka et al. 2006, MNRAS, 371, 459",
+        "Kang et al. 2006, AJ, 132, 608",
+        "Warner & Woudt 2002, PASP, 114, 1222",
+        "Retter et al. 1998, MNRAS, 293, 145",
+        "Schaefer & Collazzi 2010, AJ, 139, 1831"
+    ],
+    "Event Type": "detection of photometric modulation with the orbital period",
+    "Time": "30-second time resolution",
+    "Date": "early September to recent weeks of 2011",
+    "Telescope": "0.5-m telescope",
+    "Instrument": null,
+    "Observatory": "Caisey Harlingten Observatory near San Pedro de Atacama in Chile"
+}

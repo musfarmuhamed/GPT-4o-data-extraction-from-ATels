@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "T Pyxidis",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": "2011-09-12 12:25",
+            "Date": "2011-09-12"
+        }
+    ],
+    "References": [
+        "IAUC #9205",
+        "ATel #3549",
+        "ATel #3285"
+    ],
+    "Event Type": "Outburst",
+    "Time": "2011-09-03 to 2011-09-11",
+    "Date": "2011-09-03 to 2011-09-11",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift"
+}

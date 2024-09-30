@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": null,
+            "RA": 53.161661,
+            "Dec": -27.859467,
+            "redshift": null,
+            "Type": "fast X-ray transient",
+            "Time": "05:37-06:30UT",
+            "Date": "October 19, 2014"
+        },
+        {
+            "Name": null,
+            "RA": 53.161842,
+            "Dec": -27.859429,
+            "redshift": 0.31,
+            "Type": "R=27.38 (AB) galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": 53.16235,
+            "Dec": -27.859706,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6541, Guo et al. 2013, ApJS, 207, 24, Dahlen et al. 2013, ApJ, 775, 93, ATel #6583",
+    "Event Type": "Observation",
+    "Time": "05:37-06:30UT",
+    "Date": "October 19, 2014",
+    "Telescope": "VLT/UT1 8m telescope",
+    "Instrument": "FORS2 camera",
+    "Observatory": "ESO"
+}

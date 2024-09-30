@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "G25.65+1.05",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultracompact HII region",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RAFGL 7009S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "MYSO (Massive Young Stellar Object)",
+            "Time": null,
+            "Date": "2002-08-15"
+        },
+        {
+            "Name": "RAFGL 7009S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "MYSO (Massive Young Stellar Object)",
+            "Time": null,
+            "Date": "2011-09-18"
+        }
+    ],
+    "References": [
+        "Volvach et al. (ATel #10728)",
+        "Sugiyama et al. (ATel #10757)",
+        "Sobolev et al. (ATel #10788)"
+    ],
+    "Event Type": "Water maser flare and variability in infrared",
+    "Time": "UT",
+    "Date": "2017-09-21",
+    "Telescope": "La Silla MPG 2.2-m telescope and Calar Alto 2.2-m telescope",
+    "Instrument": [
+        "GROND",
+        "PANIC"
+    ],
+    "Observatory": [
+        "La Silla",
+        "Calar Alto"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15agm",
+            "RA": "23:55:56.69",
+            "Dec": "-43:43:26.8",
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Jul 01"
+        },
+        {
+            "Name": "ASASSN-15lv",
+            "RA": "01:58:59.71",
+            "Dec": "-32:22:18.5",
+            "redshift": "0.011",
+            "Type": "IIb",
+            "Time": null,
+            "Date": "2015 Jul 01"
+        }
+    ],
+    "References": [
+        "Dopita et al., 2007, ApSS, 310, 255",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Gaia Photometric Science Alerts (http://gaia.ac.uk/selected-gaia-science-alerts)",
+        "ATel #7700",
+        "Colless et al. 2003, 2dF Galaxy Redshift Survey"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2015 Jul 01",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "WiFeS - Dopita et al., 2007, ApSS, 310, 255",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

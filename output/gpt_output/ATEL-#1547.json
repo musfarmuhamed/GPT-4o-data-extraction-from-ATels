@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J20187+4041 = 2MASX J20183871+4041003",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient gamma-ray source",
+            "Time": "06:00",
+            "Date": "2008-05-22"
+        }
+    ],
+    "References": [
+        "ATel #1492",
+        "ATel #1497",
+        "ATel #1498",
+        "ATel #1518"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "06:00",
+    "Date": "2008-05-22",
+    "Telescope": "AGILE",
+    "Instrument": [
+        "AGILE-GRID",
+        "Super-AGILE"
+    ],
+    "Observatory": null
+}

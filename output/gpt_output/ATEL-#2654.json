@@ -1,0 +1,89 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS090826:223958+231837",
+            "RA": "22:39:58",
+            "Dec": "+23:18:37",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "Night",
+            "Date": "October 2009"
+        },
+        {
+            "Name": "CSS080924:233423+391423",
+            "RA": "23:34:23",
+            "Dec": "+39:14:23",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Night",
+            "Date": "Null"
+        },
+        {
+            "Name": "CSS100408:073324+365005",
+            "RA": "07:33:24",
+            "Dec": "+36:50:05",
+            "redshift": "1.235",
+            "Type": "Possible blazar",
+            "Time": "Null",
+            "Date": "April 2010"
+        },
+        {
+            "Name": "CSS100413:132854+174318",
+            "RA": "13:28:54",
+            "Dec": "+17:43:18",
+            "redshift": "0.906",
+            "Type": "FSRQ",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CSS100504:215225+173437",
+            "RA": "21:52:25",
+            "Dec": "+17:34:37",
+            "redshift": "Null",
+            "Type": "Blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CSS100507:164354-131525",
+            "RA": "16:43:54",
+            "Dec": "-13:15:25",
+            "redshift": "Null",
+            "Type": "Dwarf nova",
+            "Time": "May 7",
+            "Date": "May 2010"
+        },
+        {
+            "Name": "PQT 080119:091534+081356",
+            "RA": "09:15:34",
+            "Dec": "+08:13:56",
+            "redshift": "Null",
+            "Type": "Dwarf nova",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CSS100217:102913+404220",
+            "RA": "10:29:13",
+            "Dec": "+40:42:20",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATel #1741",
+        "ATel #1750",
+        "ATel #2652",
+        "ATel #1367",
+        "ATel #2544"
+    ],
+    "Event Type": "Transient Discovery",
+    "Time": "Night",
+    "Date": "2010 May 17 and 18",
+    "Telescope": "Keck-I",
+    "Instrument": "LRIS",
+    "Observatory": "Keck"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1424-418",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray loud flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2018-01-21"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Phys. Rev. Letters 113, 101,101",
+            "Author": "Aartsen et al.",
+            "Year": 2014
+        },
+        {
+            "Title": "Nature Phys. 12, 807",
+            "Author": "Kadler et al.",
+            "Year": 2016
+        }
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": null,
+    "Telescope": "REM telescope",
+    "Instrument": "IRAF/apphot",
+    "Observatory": "La Silla"
+}

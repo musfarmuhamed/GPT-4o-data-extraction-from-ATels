@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17jm",
+            "RA": "02:06:14.79",
+            "Dec": "+09:38:58.42",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "2017 July 27 UT"
+        },
+        {
+            "Name": "ASASSN-17jp",
+            "RA": "02:54:02.21",
+            "Dec": "+02:58:04.58",
+            "redshift": "0.015",
+            "Type": "II",
+            "Time": "+50 d",
+            "Date": "2017 July 27 UT"
+        }
+    ],
+    "References": "ATel#10598",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2017 July 27 UT",
+    "Telescope": "Shane",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

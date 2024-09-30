@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018eq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "18:20:00",
+            "Date": "2018-01-13"
+        },
+        {
+            "Name": "PS18bq",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01668",
+            "Type": "Ia",
+            "Time": "19:30:00",
+            "Date": "2018-01-13"
+        },
+        {
+            "Name": "AT2018C",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "21:30:00",
+            "Date": "2018-01-13"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

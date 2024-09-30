@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supersoft X-ray source (SSS)",
+            "Time": "00:00:42",
+            "Date": "2014-10-08.29"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supersoft X-ray source (SSS)",
+            "Time": "00:00:38",
+            "Date": "2014-10-09.02"
+        },
+        {
+            "Name": "V745 Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6558",
+        "ATel #6527",
+        "ATel #5627",
+        "ATel #5633",
+        "ATel #5870",
+        "Henze et al. 2014"
+    ],
+    "Event Type": "Spectral Analysis",
+    "Time": "04:00:00",
+    "Date": "2014-10-09.02",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

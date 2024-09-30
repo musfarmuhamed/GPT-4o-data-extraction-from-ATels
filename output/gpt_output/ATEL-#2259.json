@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1752-223",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": [
+                "4:20",
+                "15:05",
+                "18:10",
+                "22:40",
+                "7:50",
+                "15:30",
+                "23:00",
+                "3:40",
+                "5:10"
+            ],
+            "Date": [
+                "23 Oct, 2009",
+                "23 Oct, 2009",
+                "23 Oct, 2009",
+                "23 Oct, 2009 - 24 Oct, 2009",
+                "24 Oct, 2009",
+                "24 Oct, 2009",
+                "24 Oct, 2009 - 25 Oct, 2009",
+                "25 Oct, 2009",
+                "25 Oct, 2009"
+            ]
+        },
+        {
+            "Name": "RXTE",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #2258",
+    "Event Type": "Increasing X-ray intensity detection",
+    "Time": [
+        "4:20 - 13:30",
+        "15:05",
+        "18:10 - 21:10",
+        "22:40 - 6:20",
+        "7:50 - 14:00",
+        "15:30 - 21:30",
+        "23:00 - 2:10",
+        "3:40",
+        "5:10 - 9:45"
+    ],
+    "Date": [
+        "23 Oct, 2009",
+        "23 Oct, 2009",
+        "23 Oct, 2009",
+        "23 Oct, 2009 - 24 Oct, 2009",
+        "24 Oct, 2009",
+        "24 Oct, 2009",
+        "24 Oct, 2009 - 25 Oct, 2009",
+        "25 Oct, 2009",
+        "25 Oct, 2009"
+    ],
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC of MAXI",
+    "Observatory": "Galactic center region"
+}

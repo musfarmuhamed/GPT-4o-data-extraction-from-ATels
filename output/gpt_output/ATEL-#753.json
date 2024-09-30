@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-290135.6",
+            "RA": "17h 45m 35.5s",
+            "Dec": "-29d 01m 35.6s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "22:55UT",
+            "Date": "February 24, 2006"
+        },
+        {
+            "Name": "CXOGC J174535.6-290133",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2004"
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray burster",
+            "Time": null,
+            "Date": "1996"
+        }
+    ],
+    "References": "Muno et al., 2004; Maeda et al., 1996; Kennea and Skinner, 1996",
+    "Event Type": "Detection",
+    "Time": "22:55UT",
+    "Date": "February 24, 2006",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

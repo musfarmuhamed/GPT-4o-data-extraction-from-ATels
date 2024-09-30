@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J113739.3+465711",
+            "RA": "11h37m39s.33",
+            "Dec": "46d57'11\".3",
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": "12.78",
+            "Date": "Apr 12",
+            "Telescope": "ROTSE-IIId"
+        },
+        {
+            "Name": "2MASX J11373899+4657141",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null,
+            "Telescope": null
+        }
+    ],
+    "References": "http://rotse.net/rsvp/j113739.3+465711/j113739.3+465711.jpg",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ROTSE-IIId, ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "TUBITAK National Observatory, McDonald Observatory"
+}

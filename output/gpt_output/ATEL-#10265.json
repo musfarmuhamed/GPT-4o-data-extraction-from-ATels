@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2747",
+            "RA": "266.12868",
+            "Dec": "-27.76732",
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": "unknown",
+            "Date": "April 10, 2017"
+        },
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "unknown",
+            "Date": "since 2016"
+        },
+        {
+            "Name": "1E 1743.1-2843",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "persistent source",
+            "Time": "unknown",
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1; Malizia et al. 2010, MNRAS, 408, 975; Landi et al. 2007, Atel#1273; Tomsick et al. 2008, ApJ, 685, 1143; Mereminskiy et al. 2017, Atel#10256; Werner et al. 2004, A&A 416, 311; Chenevez et al. 2016, Atel#9387; Clavel et al. 2017, Atel#9115; Lotti et al. 2016, ApJ, 822, 57.",
+    "Event Type": "Swift Bulge Survey observations",
+    "Time": "unknown",
+    "Date": "April 13, 2017",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

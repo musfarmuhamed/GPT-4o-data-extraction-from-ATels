@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0250-225",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "November 14 and 16, 2012",
+            "Date": "2012-11-14 to 2012-11-16"
+        },
+        {
+            "Name": "2FGL J0252.7-2218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "November 14 and 16, 2012",
+            "Date": "2012-11-14 to 2012-11-16"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "ATel #4574",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "ATel #2039",
+        "ATel #1933",
+        "ATel #4584"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "November 14 and 16, 2012",
+    "Date": "2012-11-14 to 2012-11-16",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift Science Data Centre"
+}

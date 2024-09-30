@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11me",
+            "RA": "15:20:56.63",
+            "Dec": "+54:40:14.1",
+            "redshift": 0.046,
+            "Type": "SN II",
+            "Time": "Unknown",
+            "Date": "2010 Nov 15"
+        },
+        {
+            "Name": "PTF11jx",
+            "RA": "13:55:55.82",
+            "Dec": "+05:27:10.1",
+            "redshift": 0.037,
+            "Type": "SN II",
+            "Time": "Unknown",
+            "Date": "2010 Dec 24"
+        },
+        {
+            "Name": "PTF11go",
+            "RA": "11:32:00.24",
+            "Dec": "+53:42:38.1",
+            "redshift": 0.0268,
+            "Type": "SN II",
+            "Time": "Unknown",
+            "Date": "2011 Jan 12"
+        }
+    ],
+    "References": "ATel #1964; http://www.astro.caltech.edu/ptf",
+    "Event Type": "Discovery and spectroscopic classification of supernovae",
+    "Time": "Unknown",
+    "Date": "2011 Jan 28",
+    "Telescope": "Palomar 48-inch Oschin Schmidt telescope",
+    "Instrument": "Double-Beam Spectrograph (DBSP)",
+    "Observatory": "Palomar 5-m Hale telescope"
+}

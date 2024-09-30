@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16cxl",
+            "RA": "01:56:29.58",
+            "Dec": "+37:54:11.0",
+            "redshift": null,
+            "Type": "probable stellar variable",
+            "Time": null,
+            "Date": "20160921.46"
+        },
+        {
+            "Name": "ATLAS16cxk",
+            "RA": "01:37:17.34",
+            "Dec": "+59:04:15.3",
+            "redshift": null,
+            "Type": "probable stellar",
+            "Time": null,
+            "Date": "20160921.48"
+        },
+        {
+            "Name": "ATLAS16cxm",
+            "RA": "05:50:12.77",
+            "Dec": "+41:35:03.9",
+            "redshift": null,
+            "Type": "probable stellar variable",
+            "Time": null,
+            "Date": "20160921.59"
+        },
+        {
+            "Name": "ATLAS16cxr",
+            "RA": "18:08:06.50",
+            "Dec": "+25:24:31.3",
+            "redshift": null,
+            "Type": "probable stellar or possibly an AGN",
+            "Time": null,
+            "Date": "20160922.25"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

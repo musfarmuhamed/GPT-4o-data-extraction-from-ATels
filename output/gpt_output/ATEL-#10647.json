@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017gay",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic dwarf nova",
+            "Time": "17.05 UT",
+            "Date": "2017 Aug 17"
+        },
+        {
+            "Name": "M31N 2010-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M31 recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PT And/M31N 1957-10b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "TNS",
+        "Alksnis & Zharova 2000",
+        "Shafter et al. 2015",
+        "Cao et al. 2012",
+        "Darnley et al. 2016",
+        "[vsnet-alert 12484]",
+        "[vsnet-alert 12497]",
+        "[vsnet-alert 12527]",
+        "Kato 2015"
+    ],
+    "Event Type": "Discovery",
+    "Time": "15.00",
+    "Date": "2017 Aug 15",
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

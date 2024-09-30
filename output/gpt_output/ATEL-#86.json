@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1908+094",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "11.44 UT",
+            "Date": "2002 April 11"
+        },
+        {
+            "Name": "R~20 mag star",
+            "RA": "09:08:52.75",
+            "Dec": "+09:23:03.9",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #7856",
+        "IAUC #7861",
+        "IAUC #7873",
+        "IAUC #7874"
+    ],
+    "Event Type": null,
+    "Time": "11.44 UT",
+    "Date": "2002 April 11",
+    "Telescope": "Hiltner 2.4-m telescope",
+    "Instrument": "8K CCD camera",
+    "Observatory": "MDM Observatory on Kitt Peak"
+}

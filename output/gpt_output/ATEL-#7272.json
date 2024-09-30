@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00:42:07.99",
+            "Dec": "+40:55:01.1",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2015-03-11.84",
+            "Date": "2015-03-11"
+        },
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00:42:07.99",
+            "Dec": "+40:55:01.1",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2015-03-14.85",
+            "Date": "2015-03-14"
+        }
+    ],
+    "References": [
+        "#6911",
+        "#6924",
+        "#6941",
+        "#6951",
+        "#6952",
+        "#6985",
+        "#7150",
+        "#7208",
+        "#7236"
+    ],
+    "Event Type": "Stellar Merger Observation",
+    "Time": "End of astronomical twilight",
+    "Date": "2015-03-11 to 2015-03-14",
+    "Telescope": "2.5m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Observatorio Roque de los Muchachos (ORM)"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15bww",
+            "RA": "00 27 51.14",
+            "Dec": "-11 28 40.4",
+            "redshift": null,
+            "Type": "probable supernova",
+            "Time": null,
+            "Date": "20150908"
+        },
+        {
+            "Name": "PS15bxb",
+            "RA": "02 00 20.17",
+            "Dec": "-02 05 01.1",
+            "redshift": "0.04061",
+            "Type": "probable supernova",
+            "Time": null,
+            "Date": "20150908"
+        },
+        {
+            "Name": "PS15bxc",
+            "RA": "02 09 40.78",
+            "Dec": "-06 55 22.2",
+            "redshift": "0.016251",
+            "Type": "probable supernova",
+            "Time": null,
+            "Date": "20150908"
+        }
+    ],
+    "References": "Huber et al. ATel #7153",
+    "Event Type": "discovery of bright transients",
+    "Time": null,
+    "Date": "20150908",
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": null
+}

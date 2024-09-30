@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J223915.60-633430.2",
+            "RA": "22h 39m 15.60s",
+            "Dec": "-63d 34m 30.2s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "02:28:03, 02:48:27",
+            "Date": "2017-01-27"
+        },
+        {
+            "Name": "MASTER OT J172354.27-650402.4",
+            "RA": "17h 23m 54.27s",
+            "Dec": "-65d 04m 02.4s",
+            "redshift": null,
+            "Type": "long periodical variable star",
+            "Time": null,
+            "Date": "2017-01-27"
+        }
+    ],
+    "References": [
+        "https://gcn.gsfc.nasa.gov/other/507173752.fermi",
+        "http://observ.pereplet.ru/images/MASTEROTJ223915.60-633430.2.jpg"
+    ],
+    "Event Type": "new OT discovery and variable star detection",
+    "Time": [
+        "01:35:47.79",
+        "02:28:03",
+        "02:48:27"
+    ],
+    "Date": "2017-01-27",
+    "Telescope": "MASTER-OAFA",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS B1035-281",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "various times",
+            "Date": "various dates"
+        }
+    ],
+    "References": [
+        "ATel #8740",
+        "ATels #8747",
+        "#8767",
+        "#8773"
+    ],
+    "Event Type": "gamma-ray flaring event",
+    "Time": "26 Feb 2016",
+    "Date": "26 Feb 2016",
+    "Telescope": "1.3m, 2.1m",
+    "Instrument": "ANDICAM, CANICA NIR camera",
+    "Observatory": "Cerro Tololo, Chile (CTIO)"
+}

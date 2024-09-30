@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M101",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Red giant star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Star 2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Red giant star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTF11kly",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Li et al. (ATEL #3582)",
+        "Sirianni et al. (2005, PASP 117, 1049)",
+        "Andrew Dolphin (2000, PASP 112, 1383)",
+        "Stetson et al. 1998, ApJ 508, 491",
+        "Shappee & Stanek 2011, ApJ, 733, 124"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "HST (Hubble Space Telescope)",
+    "Instrument": "ACS (Advanced Camera for Surveys)",
+    "Observatory": null
+}

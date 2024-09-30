@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J193911.05+685135.0",
+            "RA": "19h 39m 11.05s",
+            "Dec": "+68d 51m 35.0s",
+            "redshift": null,
+            "Type": "CV or flare star",
+            "Time": "13.56683",
+            "Date": "2013-10-13"
+        },
+        {
+            "Name": "MASTER OT J191617.64+691356.4",
+            "RA": "19h 16m 17.64s",
+            "Dec": "+69d 13m 56.4s",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "14.53574",
+            "Date": "2013-10-14"
+        },
+        {
+            "Name": "MASTER OT J020438.08+503820.2",
+            "RA": "02h 04m 38.08s",
+            "Dec": "+50d 38m 20.2s",
+            "redshift": null,
+            "Type": "new CV",
+            "Time": "14.79626",
+            "Date": "2013-10-14"
+        },
+        {
+            "Name": "KIS J192604.22+393553.6",
+            "RA": "192604.22",
+            "Dec": "+393553.6",
+            "redshift": null,
+            "Type": "poorly studied CV",
+            "Time": "14.52944",
+            "Date": "2013-10-14"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J193911+685135-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/193911.05685135.0.png",
+        "http://master.sai.msu.ru/static/OT/J191617+691356-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/191617.64691356.4.png",
+        "http://master.sai.msu.ru/static/OT/J020438+503820-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/020438.08503820.2.png",
+        "http://master.sai.msu.ru/static/OT/192604.25393553.3.png",
+        "Scaringi et al., MNRAS Vol. 428, pp. 2207-2215, 2013"
+    ],
+    "Event Type": "Detection",
+    "Time": "2013-10-14.52944",
+    "Date": "2013-10-14",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

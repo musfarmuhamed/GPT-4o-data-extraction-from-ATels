@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15cem",
+            "RA": "22:45:13.21",
+            "Dec": "-22:43:39.7",
+            "redshift": "0.010",
+            "Type": "II",
+            "Time": "unknown",
+            "Date": "2015-10-05"
+        },
+        {
+            "Name": "PS15cez",
+            "RA": "22:48:41.39",
+            "Dec": "-15:44:39.1",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2015-10-05"
+        },
+        {
+            "Name": "OGLE15lg",
+            "RA": "00:59:13.42",
+            "Dec": "-66:16:05.0",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "2015-10-05"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Huber et al., ATel #7153",
+        "Shappee et al. 2014, ApJ, 788, 48"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "unknown",
+    "Date": "2015-10-05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

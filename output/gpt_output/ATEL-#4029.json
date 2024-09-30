@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "WISE J171734.65-515532.0",
+            "RA": "17h17m34.65s",
+            "Dec": "-51d55m32.06s",
+            "redshift": null,
+            "Type": "gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": "17h17m34.6918s",
+            "Dec": "-51d55m31.926s",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. 2011 ApJ, 740L, 48",
+        "Massaro, F. et al. 2012 ApJ in press",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. 2012 ApJ (http://arxiv.org/abs/1203.1330)",
+        "Massaro, F., et al. 2012 ApJ in press (http://arxiv.org/abs/1203.4230)"
+    ],
+    "Event Type": "Detection of a gamma-ray transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": null,
+    "Observatory": "Jet Propulsion Laboratory/California Institute of Technology"
+}

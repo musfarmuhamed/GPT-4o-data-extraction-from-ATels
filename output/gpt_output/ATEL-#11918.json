@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1538-52",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "QV Nor",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B0Iab star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16418-4532",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "wind-accretion HMXB",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al. 2013, ApJS, 209, 14",
+        "Mukherjee et al. 2006, JApA, 27, 411",
+        "Corbet & Krimm, 2013, ApJ, 778:45"
+    ],
+    "Event Type": "Observation of power spectrum and period modulation",
+    "Time": "Covering time range from MJD 53416 to 58318",
+    "Date": "2005-02-15 to 2018-07-19",
+    "Telescope": "Swift BAT",
+    "Instrument": "BAT light curve from the transient monitor program",
+    "Observatory": null
+}

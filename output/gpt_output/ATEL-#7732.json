@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J114925.48-050713.8",
+            "RA": "11h 49m 25.48s",
+            "Dec": "-05d 07m 13.8s",
+            "redshift": null,
+            "Type": "possible SuperNova",
+            "Time": "2015-06-29.77270",
+            "Date": "2015-06-29"
+        },
+        {
+            "Name": "MASTER183430.99-423155.9",
+            "RA": "18h 34m 30.99s",
+            "Dec": "-42d 31m 55.9s",
+            "redshift": null,
+            "Type": "dwarf nova in outburst",
+            "Time": "2015-06-29.92524",
+            "Date": "2015-06-29"
+        },
+        {
+            "Name": "MASTER OT J182159.52-500108.1",
+            "RA": "18h 21m 59.52s",
+            "Dec": "-50d 01m 08.1s",
+            "redshift": null,
+            "Type": "possible CV in outburst",
+            "Time": "2015-06-29.90931",
+            "Date": "2015-06-29"
+        },
+        {
+            "Name": "MASTER OT J074359.55-512302.2",
+            "RA": "07h 43m 59.55s",
+            "Dec": "-51d 23m 02.2s",
+            "redshift": null,
+            "Type": "dwarf nova in outburst",
+            "Time": "2015-06-27.68897",
+            "Date": "2015-06-27"
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "http://master.sai.msu.ru/static/OT/114925.48-050713.8.png",
+        "http://master.sai.msu.ru/static/OT/183430.99-423155.9.png",
+        "http://master.sai.msu.ru/static/OT/182159.52-500108.1.png",
+        "http://master.sai.msu.ru/static/OT/074359.55-512302.2.png",
+        "List of Optical Transients discovered by MASTER"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO auto-detection system"
+}

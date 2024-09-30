@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17498-2921",
+            "RA": "17h 49m 55.34s",
+            "Dec": "-29d 19m 19.7s",
+            "redshift": null,
+            "Type": "transient accreting milli-second X-ray pulsar",
+            "Time": "NA",
+            "Date": "2008 May 10"
+        },
+        {
+            "Name": "IGR J17498-2921",
+            "RA": "17h 49m 55.34s",
+            "Dec": "-29d 19m 19.6s",
+            "redshift": null,
+            "Type": "transient accreting milli-second X-ray pulsar",
+            "Time": "NA",
+            "Date": "2008 July 31"
+        }
+    ],
+    "References": [
+        "ATel #3551",
+        "ATel #3622",
+        "Zhao et al. 2005, ApJS 161, 429",
+        "Jordi et al. 2006, A&A, 460, 339",
+        "ATel #3568",
+        "ATel #3555",
+        "ATel #3562"
+    ],
+    "Event Type": "pre-outburst optical and near-infrared imaging observations",
+    "Time": "various times",
+    "Date": "2008",
+    "Telescope": "CTIO-4m Blanco telescope",
+    "Instrument": [
+        "Mosaic (optical)",
+        "ISPI (NIR)"
+    ],
+    "Observatory": "CTIO"
+}

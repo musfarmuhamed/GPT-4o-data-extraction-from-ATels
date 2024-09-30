@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017nw",
+            "RA": "11:16:12.61",
+            "Dec": "+02:48:29.1",
+            "redshift": "0.077",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170115"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "2017 January 25",
+    "Date": "2017 January 25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

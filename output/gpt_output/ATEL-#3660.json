@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0402-362",
+            "RA": "04h02m02.5994s",
+            "Dec": "-36d13m11.947s",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "09:18",
+            "Date": "2011-09-21"
+        },
+        {
+            "Name": "PKS 0402-362",
+            "RA": "04h02m02.5994s",
+            "Dec": "-36d13m11.947s",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2011-04-11"
+        },
+        {
+            "Name": "PKS 0402-362",
+            "RA": "04h02m02.5994s",
+            "Dec": "-36d13m11.947s",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "2011-08-10"
+        }
+    ],
+    "References": [
+        "ATel #3655",
+        "ATel #3659"
+    ],
+    "Event Type": "Gamma-ray flare",
+    "Time": null,
+    "Date": "2011-09-22",
+    "Telescope": "REM",
+    "Instrument": null,
+    "Observatory": "TANAMI project"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017ckp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.106,
+            "Type": "Type Ia supernova",
+            "Time": "UT Apr.05.82 2017",
+            "Date": "2017-04-05"
+        }
+    ],
+    "References": [
+        {
+            "Name": "PTSS (PMO-Tsinghua Supernova Survey)",
+            "URL": "http://www.cneost.org/ptss/"
+        },
+        {
+            "Name": "IAU Transient Name Server",
+            "URL": "http://wis-tns.weizmann.ac.il/object/2017ckp/"
+        }
+    ],
+    "Event Type": "Optical Spectrum",
+    "Time": "UT Apr.05.82 2017",
+    "Date": "2017-04-05",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Gaomeigu Observatory of Yunnan Observatories (YNAO)"
+}

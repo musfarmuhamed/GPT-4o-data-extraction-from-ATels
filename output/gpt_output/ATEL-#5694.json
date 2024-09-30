@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13do",
+            "RA": "14:30:09.83",
+            "Dec": "+31:12:55.4",
+            "redshift": "0.01188",
+            "Type": "supernova",
+            "Time": "2013 Dec. 25.60",
+            "Date": "2013-12-25"
+        },
+        {
+            "Name": "NGC 5653",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01188",
+            "Type": "LIRG",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Virgo-infall corrected velocity via NED, Schlafly & Finkbeiner 2011",
+    "Event Type": "supernova",
+    "Time": "2013 Dec. 25.60",
+    "Date": "2013-12-25",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1037.5-5647",
+            "RA": "10 37 35.34",
+            "Dec": "-56 47 57.5",
+            "redshift": null,
+            "Type": "X-ray binary pulsar",
+            "Time": "19:02:18",
+            "Date": "2012 Feb. 17"
+        },
+        {
+            "Name": "4U 1036-56",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Liu, van Paradijs & van den Heuvel",
+            "Year": 2000,
+            "Title": "Astron. Astrophys., Suppl. Ser., 147, 25"
+        },
+        {
+            "Author": "La Palombara et al",
+            "Year": 2009,
+            "Title": "A&A 505, 947"
+        }
+    ],
+    "Event Type": "Hard X-ray outburst",
+    "Time": "19:02:18",
+    "Date": "2012 Feb. 17",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), X-Ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

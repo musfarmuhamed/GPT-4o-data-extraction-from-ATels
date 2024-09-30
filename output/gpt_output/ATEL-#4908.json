@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS121203:112646+273727",
+            "RA": "112646",
+            "Dec": "273727",
+            "redshift": "0.03",
+            "Type": "IIP",
+            "Time": null,
+            "Date": "03-15"
+        },
+        {
+            "Name": "CSS130115:081249+461700",
+            "RA": "081249",
+            "Dec": "461700",
+            "redshift": "0.03",
+            "Type": "IIP",
+            "Time": null,
+            "Date": "03-04"
+        },
+        {
+            "Name": "CSS130217:101310-163154",
+            "RA": "101310",
+            "Dec": "163154",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-15"
+        },
+        {
+            "Name": "CSS130218:092354+385837",
+            "RA": "092354",
+            "Dec": "385837",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-15"
+        },
+        {
+            "Name": "MLS130314:112941+103233",
+            "RA": "112941",
+            "Dec": "103233",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-19"
+        },
+        {
+            "Name": "CSS130315:115252-185920",
+            "RA": "115252",
+            "Dec": "185920",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-15"
+        },
+        {
+            "Name": "CSS130315:131135-042408",
+            "RA": "131135",
+            "Dec": "042408",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-15"
+        },
+        {
+            "Name": "CSS130317:082848+293031",
+            "RA": "082848",
+            "Dec": "293031",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-19"
+        },
+        {
+            "Name": "CSS130318:133316+605531",
+            "RA": "133316",
+            "Dec": "605531",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "03-19"
+        }
+    ],
+    "References": "ATel#4872, ATel#4733, ATel#4863",
+    "Event Type": "Supernova Candidates Classification",
+    "Time": null,
+    "Date": "2013 March 4th, 15th and 19th",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

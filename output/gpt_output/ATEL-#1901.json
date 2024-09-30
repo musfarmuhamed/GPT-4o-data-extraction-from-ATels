@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J045106.8-694803",
+            "RA": 72.875,
+            "Dec": -69.817,
+            "redshift": null,
+            "Type": "Be/X-ray binary system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J0451.5-6949",
+            "RA": 72.875,
+            "Dec": -69.817,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[M2002] 9775",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATELs #1794",
+        "ATELs #1429",
+        "Massey (2002) UBVR CCD survey",
+        "Corbet et al. (1999 ApJ 517, 956)"
+    ],
+    "Event Type": "discovery report",
+    "Time": "15.5 ks",
+    "Date": [
+        "2008-Oct-23",
+        "2008-Nov-14",
+        "2009-Jan-10"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

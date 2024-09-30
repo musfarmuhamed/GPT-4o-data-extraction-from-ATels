@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17aiq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSN",
+            "RA": "09 54 28.20",
+            "Dec": "+67 39 42.0",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "16.824 to 16.856 UT",
+            "Date": "2017 Feb. 16"
+        },
+        {
+            "Name": "LEDA 2703724",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03469",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10082, http://scan.sai.msu.ru/~denis/PSNJ095428+673942-20170216.jpg",
+    "Event Type": "discovery of a possible supernova",
+    "Time": "16.824 to 16.856 UT",
+    "Date": "2017 Feb. 16",
+    "Telescope": "0.185-m f/6.8 APO refractor",
+    "Instrument": "SBIG STL-11000 CCD",
+    "Observatory": "e-EyE observatory, Fregenal de la Sierra, Spain"
+}

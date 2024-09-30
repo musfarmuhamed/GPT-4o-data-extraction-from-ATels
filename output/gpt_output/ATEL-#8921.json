@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic NS/BH X-ray binary",
+            "Time": "04:00-06:00 UTC",
+            "Date": "2016-04-05"
+        },
+        {
+            "Name": "SS 433",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": "04:00-06:00 UTC",
+            "Date": "2016-04-05"
+        }
+    ],
+    "References": "http://swift.gsfc.nasa.gov/results/transients/GRS1915p105/",
+    "Event Type": "Radio monitoring",
+    "Time": "04:00-06:00 UTC",
+    "Date": "2016-04-05",
+    "Telescope": "Sardinia Radio Telescope",
+    "Instrument": "Total Power and SARDARA (Roach2) digital back-end",
+    "Observatory": "Sardinia Radio Telescope"
+}

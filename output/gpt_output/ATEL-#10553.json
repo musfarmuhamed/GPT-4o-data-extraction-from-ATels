@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017fbq",
+            "RA": "19:33:45.61",
+            "Dec": "-60:58:02.2",
+            "redshift": "0.015",
+            "Type": "Type II Plateau Supernova",
+            "Time": "27.86",
+            "Date": "2017-06-27"
+        },
+        {
+            "Name": "ATS-17A",
+            "RA": "19:33:45.61",
+            "Dec": "-60:58:02.2",
+            "redshift": "0.015",
+            "Type": "Type II Plateau Supernova",
+            "Time": "27.86",
+            "Date": "2017-06-27"
+        },
+        {
+            "Name": "SN 2005cs",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015",
+            "Type": "Type-IIP Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Howell et al. 2005, ApJ 634, 1190",
+    "Event Type": "detection",
+    "Time": "27.86",
+    "Date": "2017-06-27",
+    "Telescope": "0.5-m Schmidt telescope, 2-m telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Dome A, Antarctica, Siding Spring Observatory, Las Cumbres Observatory"
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14lc",
+            "RA": "12:02:29.55",
+            "Dec": "24:12:12.6",
+            "redshift": null,
+            "Type": "M-dwarf star",
+            "Time": "2014-11-28.60",
+            "Date": "2014-11-28"
+        },
+        {
+            "Name": "SDSS star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M-dwarf star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M-dwarf star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "Schlafly & Finkbeiner 2011",
+            "Type": "Publication"
+        },
+        {
+            "Title": "West et al. 2011",
+            "Type": "Publication"
+        },
+        {
+            "Title": "Stanek et al. 2013",
+            "Type": "ATel #5276"
+        }
+    ],
+    "Event Type": "Flare",
+    "Time": "2014-11-28.60093",
+    "Date": "2014-11-28",
+    "Telescope": "Brutus",
+    "Instrument": "quadruple 14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

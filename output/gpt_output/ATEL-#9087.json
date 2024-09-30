@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NS/BH Galactic Binary",
+            "Time": "23h UT",
+            "Date": "May 24, 2016"
+        },
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NS/BH Galactic Binary",
+            "Time": "06h UT",
+            "Date": "May 27, 2016"
+        }
+    ],
+    "References": [
+        "Atels #8921",
+        "#8849",
+        "#8821",
+        "Wilms et al. 2007 ApJ 663, L97"
+    ],
+    "Event Type": "radio monitoring",
+    "Time": "23h UT",
+    "Date": "May 24, 2016",
+    "Telescope": "Sardinia Radio Telescope",
+    "Instrument": [
+        "SRT Total Power",
+        "SARDARA digital back-end"
+    ],
+    "Observatory": "Sardinia Radio Telescope (SRT)"
+}

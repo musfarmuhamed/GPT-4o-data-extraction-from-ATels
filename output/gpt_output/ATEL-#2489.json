@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J114340.5+485056",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.08",
+            "Type": "Type Ia supernova",
+            "Time": "March 18.4 UT",
+            "Date": null
+        },
+        {
+            "Name": "ROTSE3 J125708.9-172527",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.049",
+            "Type": "Type Ia supernova",
+            "Time": "March 18.4 UT",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2481",
+        "ATel #2485"
+    ],
+    "Event Type": "supernova observation",
+    "Time": "March 18.4 UT",
+    "Date": null,
+    "Telescope": "5.1-m Palomar telescope",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

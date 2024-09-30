@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017ekg",
+            "RA": "17:04:10.30",
+            "Dec": "+02:20:53.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "ePESSTO",
+            "Date": "2017-05-27"
+        },
+        {
+            "Name": "AT2017ekm",
+            "RA": "19:39:59.68",
+            "Dec": "-01:48:19.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "ePESSTO",
+            "Date": "2017-05-31"
+        },
+        {
+            "Name": "AT2017eko",
+            "RA": "20:57:15.01",
+            "Dec": "+28:31:10.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "ePESSTO",
+            "Date": "2017-06-01"
+        },
+        {
+            "Name": "AT2017ekl",
+            "RA": "20:14:42.06",
+            "Dec": "-08:44:48.8",
+            "redshift": "0.083",
+            "Type": "Ia",
+            "Time": "ePESSTO",
+            "Date": "2017-05-31"
+        },
+        {
+            "Name": "AT2017ele",
+            "RA": "20:46:21.06",
+            "Dec": "-27:31:28.0",
+            "redshift": "0.059",
+            "Type": "Ia",
+            "Time": "ePESSTO",
+            "Date": "2017-05-24"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Chambers et al. 2016, arXiv:1612.05560"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2017-06-03",
+    "Date": "2017-06-03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

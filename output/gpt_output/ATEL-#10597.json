@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "38.2007",
+            "Dec": "-10.5322",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457953.82085",
+            "Date": "2017-07-19.32"
+        },
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "38.3677",
+            "Dec": "-10.4043",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457954.22695",
+            "Date": "2017-07-20"
+        },
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "38.6245",
+            "Dec": "-10.2044",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457954.85353",
+            "Date": "2017-07-20"
+        },
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "38.8119",
+            "Dec": "-10.0577",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457955.31208",
+            "Date": "2017-07-20"
+        },
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "39.4297",
+            "Dec": "-9.56808",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457956.82058",
+            "Date": "2017-07-21"
+        },
+        {
+            "Name": "Comet ASASSN1",
+            "RA": "40.7719",
+            "Dec": "-8.47081",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "2457960.11530",
+            "Date": "2017-07-22"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients"
+    ],
+    "Event Type": "Discovery and Follow-up of a Comet",
+    "Time": "UT 2017-07-19.32",
+    "Date": "2017-07-19",
+    "Telescope": "quadruple 14-cm \"Cassius\" telescope, Las Cumbres Observatory 1m, quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": "ASAS-SN, SDSS g-band",
+    "Observatory": "Cerro Tololo, Chile; Haleakala, Hawaii; Savannah Skies Observatory"
+}

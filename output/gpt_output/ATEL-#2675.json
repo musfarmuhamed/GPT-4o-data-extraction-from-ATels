@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10jkx",
+            "RA": "13:32:57.11",
+            "Dec": "+48:18:54.5",
+            "redshift": null,
+            "Type": "supernova type II",
+            "Time": null,
+            "Date": "June 10"
+        },
+        {
+            "Name": "SDSS J133257.67+481855.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "Hook et al. 2004, PASP, 116, 425",
+        "Howell et al. 2005, ApJ 634, 1190"
+    ],
+    "Event Type": "discovery of a new supernova",
+    "Time": null,
+    "Date": "June 10",
+    "Telescope": "Gemini North 8-m",
+    "Instrument": "GMOS Spectrograph",
+    "Observatory": null
+}

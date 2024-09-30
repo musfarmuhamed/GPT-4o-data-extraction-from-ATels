@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "Type Ia supernova",
+            "Time": "7.41 UT",
+            "Date": "Apr 7"
+        }
+    ],
+    "References": [
+        "ATel #7348",
+        "Marion et al. 2009",
+        "Hsiao et al. 2013"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "7.41 UT",
+    "Date": "Apr 7",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15jf",
+            "RA": "22:25:11.076",
+            "Dec": "-50:23:47.54",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2015-05-12.40",
+            "Date": "2015-05-12"
+        },
+        {
+            "Name": "GALEXASC J222510.84-502347.7",
+            "RA": "22:25:10.84",
+            "Dec": "-50:23:47.7",
+            "redshift": "null",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15jg",
+            "RA": "10:46:55.64",
+            "Dec": "-02:19:29.92",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2015-05-15.13",
+            "Date": "2015-05-15"
+        },
+        {
+            "Name": "SDSS J104655.44-021927.0",
+            "RA": "10:46:55.44",
+            "Dec": "-02:19:27.0",
+            "redshift": "0.036",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN",
+        "Mt. Cuba Astronomical Foundation",
+        "NED",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-05-12.40",
+    "Date": "2015-05-12",
+    "Telescope": "Cassius",
+    "Instrument": "double 14-cm telescope",
+    "Observatory": "Cerro Tololo, Chile"
+}

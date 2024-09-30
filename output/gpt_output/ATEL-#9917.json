@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016idj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.137",
+            "Type": "Ia supernova",
+            "Time": "Dec.29.9",
+            "Date": "2016"
+        },
+        {
+            "Name": "SN 2006S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "+1 days from the maximum light",
+            "Date": null
+        },
+        {
+            "Name": "PGC 1221823",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.137",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectrum",
+    "Time": "Dec.29.9",
+    "Date": "2016",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

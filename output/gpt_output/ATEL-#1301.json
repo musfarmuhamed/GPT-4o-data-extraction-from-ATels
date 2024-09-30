@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMSL1 J070542.7-381442",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient/nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V598 Pup",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova/CO nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #8898",
+        "ATel #1282",
+        "ATel #1285",
+        "ATel #770",
+        "Balman, Krautter & Oegelmann 1998 - ApJ 499, 395",
+        "Lanz et al. 2005 - ApJ 619, 517L"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2007-10-08",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn",
+    "Observatory": "ESA"
+}

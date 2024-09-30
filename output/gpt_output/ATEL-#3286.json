@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": "10:40 UT - 10:38 UT",
+            "Date": "2011-04-15 to 2011-04-16"
+        },
+        {
+            "Name": "Vela pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel # 3284",
+        "ATels # 3276",
+        "ATels # 3282",
+        "ATels # 3284",
+        "ATel # 3279",
+        "ATel # 3283"
+    ],
+    "Event Type": "Strongly variable gamma-ray emission",
+    "Time": "10:40 UT - 10:38 UT",
+    "Date": "2011-04-15 to 2011-04-16",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "neutrino detected by the ANTARES experiment",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutrino",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift/XRT possible X-ray counterpart",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #7987 #7992 #7993 #7994 GCN #18240",
+    "Event Type": "neutrino event",
+    "Time": "16:37",
+    "Date": "2015-09-01",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

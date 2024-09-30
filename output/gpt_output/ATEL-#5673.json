@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0520.5-6932",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4748",
+        "Coe et al. 2001, MNRAS, 324, 623"
+    ],
+    "Event Type": "ongoing outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "XMM-Newton",
+        "Swift"
+    ],
+    "Instrument": [
+        "XMM-Newton",
+        "Swift/XRT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16crz",
+            "RA": "00:10:36.44",
+            "Dec": "-06:38:08.97",
+            "redshift": "0.027",
+            "Type": "II",
+            "Time": "+2",
+            "Date": "20160908"
+        },
+        {
+            "Name": "SN2016gfk",
+            "RA": "01:14:06.47",
+            "Dec": "-32:39:25.80",
+            "redshift": "0.012",
+            "Type": "Ia",
+            "Time": "+6",
+            "Date": "20160911"
+        },
+        {
+            "Name": "Gaia16bij",
+            "RA": "17:53:44.21",
+            "Dec": "-00:26:06.11",
+            "redshift": "0.024",
+            "Type": "Ia",
+            "Time": "+21",
+            "Date": "20160917"
+        },
+        {
+            "Name": "OGLE16cwa",
+            "RA": "01:16:39.61",
+            "Dec": "-67:58:23.3",
+            "redshift": "0.091",
+            "Type": "II",
+            "Time": "post-max",
+            "Date": "20160812"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Observed on 20160919",
+    "Date": "20160919",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

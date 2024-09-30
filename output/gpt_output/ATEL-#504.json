@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1A 0535+262",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reference",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Crab Nebula"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "May 16",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

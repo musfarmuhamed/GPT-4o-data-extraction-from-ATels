@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "20:30",
+            "Date": "2016-03-08"
+        },
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "20:20",
+            "Date": "2016-03-07"
+        },
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "20:15",
+            "Date": "2016-03-06"
+        },
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "20:10",
+            "Date": "2016-03-05"
+        }
+    ],
+    "References": [
+        "ATel#1744",
+        "ATel#1784",
+        "ATel#7975",
+        "ATel#8044",
+        "ATel#8429",
+        "https://www.lsw.uniheidelberg.de/projects/extragalactic/charts/0235+164.html",
+        "Fiorucci M., Tosti G., Rizzi N., 1998, PASP 110, 105",
+        "Smith P.S. et al., 1985, AJ 90, 1184",
+        "Raiteri et al. 2008, A&A 480, 339"
+    ],
+    "Event Type": "optical photometry",
+    "Time": "20:30",
+    "Date": "2016-03-08",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "MOSCA (MOSaic CAmera)",
+    "Observatory": "La Palma"
+}

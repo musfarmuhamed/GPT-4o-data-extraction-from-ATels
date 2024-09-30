@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007nm",
+            "RA": "22:45:27",
+            "Dec": "+10:39:32",
+            "redshift": 0.04,
+            "Type": "Type Ic supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Palomar-QUEST transient PQT 071008:224527+103932",
+            "RA": "22:45:27",
+            "Dec": "+10:39:32",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Drake et al. ATEL#1234",
+        "Djorgovski et al. (ATEL#1240)"
+    ],
+    "Event Type": "Revised Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.2-meter University of Hawaii Telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "Nearby Supernova Factory"
+}

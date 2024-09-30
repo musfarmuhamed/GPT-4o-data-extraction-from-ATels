@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1747-274",
+            "RA": "17 47 18.06",
+            "Dec": "-27 20 38.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "23:56UT",
+            "Date": "2005 June 6"
+        },
+        {
+            "Name": "IGR J17473-2721",
+            "RA": "17:47:18.08",
+            "Dec": "-27:20:38.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:38UT",
+            "Date": "2005 May 26"
+        }
+    ],
+    "References": [
+        "Markwardt et al., ATEL #498",
+        "Kennea et al., ATEL #500",
+        "Grebenev et al., ATEL #467"
+    ],
+    "Event Type": null,
+    "Time": "23:56UT",
+    "Date": "2005 June 6",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": null
+}

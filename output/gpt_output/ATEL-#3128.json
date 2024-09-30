@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible Nova",
+            "RA": "00h41m46.28s",
+            "Dec": "+40d50'11.4\"",
+            "redshift": "Null",
+            "Type": "Nova",
+            "Time": [
+                "2011 January 27.74141 UT",
+                "2011 January 27.75694 UT",
+                "2011 January 27.72431 UT"
+            ],
+            "Date": [
+                "2011-01-27",
+                "2011-01-27",
+                "2011-01-27"
+            ]
+        },
+        {
+            "Name": "POINT-AGAPE No.63818",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Variable Star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Null",
+    "Event Type": "Discovery of a possible nova",
+    "Time": "2011 January 27.72431 UT - 2011 January 27.75694 UT",
+    "Date": "2011-01-27",
+    "Telescope": "50/70cm Schmidt",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

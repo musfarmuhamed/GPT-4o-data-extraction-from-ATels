@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0418+5729",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "magnetar",
+            "Time": "~2500s",
+            "Date": "2009 September 15"
+        }
+    ],
+    "References": [
+        "ATel #2076",
+        "ATel #2077",
+        "ATel #2159"
+    ],
+    "Event Type": "observation",
+    "Time": "~2500s",
+    "Date": "2009 September 15",
+    "Telescope": "10.4m Gran Telescopio Canarias (GTC)",
+    "Instrument": "OSIRIS camera (0.25\"/pixel)",
+    "Observatory": "La Palma Observatory"
+}

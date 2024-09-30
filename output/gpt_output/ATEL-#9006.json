@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016bmo",
+            "RA": "15 20 22.81",
+            "Dec": "+68 51 21.1",
+            "redshift": "Null",
+            "Type": "possibly type IIP SN",
+            "Time": "Null",
+            "Date": "20160325",
+            "Notes": "NED reports that the likely host (1.32\" away) is GALEXASC J152022.83+685119.8. Subsequent i-band photometry acquired 28 days after discovery shows that the object faded by ~ 0.2 mags. No photometry was acquired during the intervening period, but difference photometry extracted from ATLAS implies activity before the PS1 discovery. The ATLAS lightcurve is roughly flat at o ~ 17.5 mags between 58 and 31 days before PS1 discovery possibly indicating a type IIP SN."
+        },
+        {
+            "Name": "AT2016bpr",
+            "RA": "18 02 26.27",
+            "Dec": "+00 55 38.0",
+            "redshift": "Null",
+            "Type": "likely CV or high amplitude galactic variable",
+            "Time": "Null",
+            "Date": "20160402",
+            "Notes": "The object is at galactic latitude b=11.31 and is coincident with SDSS J180226.28+005537.6. It is likely to be a CV or high amplitude galactic variable."
+        },
+        {
+            "Name": "AT2016bqv",
+            "RA": "18 39 28.58",
+            "Dec": "-29 41 35.2",
+            "redshift": "Null",
+            "Type": "likely CV or high amplitude galactic variable",
+            "Time": "Null",
+            "Date": "20160409",
+            "Notes": "The object is at galactic latitude b=-10.69 and appears coincident with a faint source in the PS1 z-band reference stack. It is likely to be a CV or high amplitude galactic variable."
+        },
+        {
+            "Name": "AT2016bqz",
+            "RA": "10 11 37.63",
+            "Dec": "-21 15 13.1",
+            "redshift": "0.029921",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20160412",
+            "Notes": "NED reports that the likely host (3.16\" away) is ESO 567- G 025 with spectroscopic redshift z=0.029921. At this redshift, the absolute magnitude at discovery is ~ -18.6."
+        },
+        {
+            "Name": "AT2016btk",
+            "RA": "09 05 40.03",
+            "Dec": "+59 02 34.3",
+            "redshift": "0.045027",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20160415",
+            "Notes": "NED reports that the likely host (1.03\" away) is SDSS J090540.16+590234.2 with spectroscopic redshift z=0.045027. At this redshift, the absolute magnitude at discovery is ~ -18.9."
+        },
+        {
+            "Name": "AT2016btl",
+            "RA": "13 05 00.11",
+            "Dec": "-11 15 28.7",
+            "redshift": "0.044447",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20160415",
+            "Notes": "NED reports that the likely host (4.38\" away) is GALEXASC J130500.27-111523.9 with spectroscopic redshift z=0.044447. At this redshift, the absolute magnitude at discovery is ~ -18.6."
+        },
+        {
+            "Name": "AT2016buv",
+            "RA": "10 23 33.41",
+            "Dec": "+64 39 55.5",
+            "redshift": "0.040301",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "20160416",
+            "Notes": "NED reports that the likely host (3.42\" away) is 2MASX J10233359+6439588 with spectroscopic redshift z=0.040301. At this redshift, the absolute magnitude at discovery is ~ -18.2."
+        }
+    ],
+    "References": "Huber et al. ATel #7153",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Pan-STARRS",
+    "Instrument": "PSST",
+    "Observatory": "Null"
+}

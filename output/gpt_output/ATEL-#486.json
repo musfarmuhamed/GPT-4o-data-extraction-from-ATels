@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": [
+                "MJD 53500.489",
+                "MJD 53501.0"
+            ]
+        }
+    ],
+    "References": [
+        "USNO A2.0 R-band catalog",
+        "RXTE/ASM teams at MIT and NASA/GSFC",
+        "ROTSE collaboration at UNSW Sydney",
+        "Siding Spring Observatory",
+        "MPI-Heidelberg",
+        "HESS team in Namibia"
+    ],
+    "Event Type": "Monitoring",
+    "Time": "last 24 hours",
+    "Date": "last forty days",
+    "Telescope": "ROTSE-III",
+    "Instrument": "ASM quicktime analysis",
+    "Observatory": null
+}

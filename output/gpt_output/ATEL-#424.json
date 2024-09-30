@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "20.19",
+            "Date": "Feb 20",
+            "Magnitude": 16.94
+        },
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "21.18",
+            "Date": "Feb 21",
+            "Magnitude": 17.41
+        },
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "21.49",
+            "Date": "Feb 21",
+            "Magnitude": 17.58
+        },
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "22.26",
+            "Date": "Feb 22",
+            "Magnitude": 18.08
+        },
+        {
+            "Name": "XTE J1859+226",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": 2002,
+            "Magnitude": null
+        }
+    ],
+    "References": [
+        "ATEL #383",
+        "ATEL #384",
+        "ATEL #412",
+        "Zurita et al. 2002, MNRAS, 334, 999"
+    ],
+    "Event Type": "photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "4.2m WHT",
+        "FLWO 1.2m"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Observatorio del Roque de los Muchachos",
+        "Mt. Hopkins"
+    ]
+}

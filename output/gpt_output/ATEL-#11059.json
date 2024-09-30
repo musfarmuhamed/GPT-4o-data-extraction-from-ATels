@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.048,
+            "Type": "HBL source",
+            "Time": "13.7 hr",
+            "Date": "2017 December 13-14"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Kapanadze et al. 2016",
+            "Publication": "MNRAS",
+            "Volume": 461,
+            "Page": "L26"
+        },
+        {
+            "Name": "Kapanadze et al. 2017",
+            "Publication": "MNRAS",
+            "Volume": 473,
+            "Page": "2542"
+        },
+        {
+            "Name": "ATel",
+            "Publications": [
+                "#9949",
+                "#9694",
+                "#9205",
+                "#9121",
+                "#8468",
+                "#8342",
+                "#8289",
+                "#8014",
+                "#10439",
+                "#10622"
+            ]
+        }
+    ],
+    "Event Type": "X-ray flaring activity",
+    "Time": "13.7 hr",
+    "Date": "2017 December 13-14",
+    "Telescope": "X-Ray Telescope (XRT)",
+    "Instrument": "Swift",
+    "Observatory": "Developed jointly by Pennsylvania State University, Brera Astronomical Observatory (OAB) and University of Leicester"
+}

@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J01330150+3033363",
+            "RA": "1h33m01s.51",
+            "Dec": "+30o33'36\".4",
+            "redshift": null,
+            "Type": "Red LPV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "No. 251341",
+            "RA": "1h33m01s.51",
+            "Dec": "+30o33'36\".4",
+            "redshift": null,
+            "Type": "Variable object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J013301.55+303336.7",
+            "RA": "1h33m01s.55",
+            "Dec": "+30o33'36\".7",
+            "redshift": null,
+            "Type": "Variable object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Hartman et al. (2006, MNRAS, 371, 1405)",
+        "Massey et al. (2006, AJ, 131, 2478)",
+        "ATel #4314",
+        "ATel #4315",
+        "ATel #4341",
+        "ATel #6359"
+    ],
+    "Event Type": "Possible nova discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Lick Observatory"
+}

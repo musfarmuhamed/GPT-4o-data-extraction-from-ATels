@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MACS J1149.6+2223",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "1.49",
+            "Type": "Galaxy Cluster",
+            "Time": "Null",
+            "Date": "2015 December 10"
+        },
+        {
+            "Name": "SN Refsdal S1-S3",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Supernova",
+            "Time": "Null",
+            "Date": "2014 November 10"
+        },
+        {
+            "Name": "SN Refsdal SX",
+            "RA": "11:49:36.02",
+            "Dec": "+22:23:48.1",
+            "redshift": "Null",
+            "Type": "Supernova",
+            "Time": "Null",
+            "Date": "2015 December 10"
+        }
+    ],
+    "References": [
+        "Kelly et al. 2015",
+        "Ebeling et al. 2003",
+        "Zitrin et al. 2009",
+        "Oguri et al. 2015",
+        "Sharon & Johnson 2015",
+        "Diego et al. 2015",
+        "Jauzac et al. 2015",
+        "Treu et al. 2015"
+    ],
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "2015 December 10",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "WFC3-IR",
+    "Observatory": "Null"
+}

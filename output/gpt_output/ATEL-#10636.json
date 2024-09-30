@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Sct 2017 (ASASSN-17hx/ASASSN-17ib)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2017-06-19.41",
+            "Date": "2017-06-19"
+        }
+    ],
+    "References": [
+        "ASAS SN transient page",
+        "ATEL #10523",
+        "ATEL #10524",
+        "ATEL #10527",
+        "ATEL #10542",
+        "ATEL #10558"
+    ],
+    "Event Type": "eruption",
+    "Time": "2017-06-19.41",
+    "Date": "2017-06-19",
+    "Telescope": "Swift UVOT, Swift XRT",
+    "Instrument": "UV grism, UVW2, UVM2",
+    "Observatory": null
+}

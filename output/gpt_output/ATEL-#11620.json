@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J170147.31+054540.1",
+            "RA": "17h 01m 47.31s",
+            "Dec": "+05d 45m 40.1s",
+            "redshift": null,
+            "Type": "outburst",
+            "Time": "2018-05-06.23063 UT",
+            "Date": "2018-05-06"
+        },
+        {
+            "Name": "MASTER OT J013413.80+645940.0",
+            "RA": "01h 34m 13.80s",
+            "Dec": "+64d 59m 40.0s",
+            "redshift": null,
+            "Type": "variable star",
+            "Time": "2018-04-29.72919 UT",
+            "Date": "2018-04-29"
+        },
+        {
+            "Name": "MASTER OT J072007.30+451611.6",
+            "RA": "07h 20m 07.30s",
+            "Dec": "+45d 16m 11.6s",
+            "redshift": null,
+            "Type": "short optical burst/flare",
+            "Time": "2018-04-26.93115 UT",
+            "Date": "2018-04-26"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "OT detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

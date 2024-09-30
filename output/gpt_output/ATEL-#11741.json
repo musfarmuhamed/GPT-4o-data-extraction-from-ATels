@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow/ATLAS18qqn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": null,
+            "Time": "02:18UT",
+            "Date": "20 June 2018"
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "putative host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smartt et al. ATEL #11727",
+        "Jones et al. ATEL #11736",
+        "Xu et al. ATEL #11740"
+    ],
+    "Event Type": null,
+    "Time": "02:18UT",
+    "Date": "20 June 2018",
+    "Telescope": "VLT",
+    "Instrument": "X-shooter",
+    "Observatory": "Paranal"
+}

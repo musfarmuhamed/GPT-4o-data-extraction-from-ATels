@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13aco",
+            "RA": "11:58:43.27",
+            "Dec": "+19:08:55.7",
+            "redshift": 0.043,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "April 21.01"
+        },
+        {
+            "Name": "LSQ13acf",
+            "RA": "10:10:04.70",
+            "Dec": "-11:46:35.4",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "April 20.01"
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Supernova classification",
+    "Time": "Null",
+    "Date": "May 7",
+    "Telescope": "NOT",
+    "Instrument": "ALFOSC",
+    "Observatory": "Null"
+}

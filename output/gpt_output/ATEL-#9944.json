@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ad",
+            "RA": "11:10:01.955",
+            "Dec": "63:38:34.16",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "null",
+            "Date": "2017-01-04.55"
+        },
+        {
+            "Name": "CGCG 314-011",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032863",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "Discovery of a transient source",
+    "Time": null,
+    "Date": "2017-01-04",
+    "Telescope": "Brutus Telescopes",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

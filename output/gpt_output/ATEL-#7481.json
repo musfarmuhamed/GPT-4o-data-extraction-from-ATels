@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP6.85",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "04:37 to 12:24 and 12:33 to 20:15",
+            "Date": "2015 April 29 to 2015 April 30 and 2015 May 4 to 2015 May 5"
+        }
+    ],
+    "References": "Townsend et al. 2010, MNRAS, 403, 1239",
+    "Event Type": "new outburst",
+    "Time": "04:37 to 12:24 and 12:33 to 20:15",
+    "Date": "2015 April 29 to 2015 April 30 and 2015 May 4 to 2015 May 5",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

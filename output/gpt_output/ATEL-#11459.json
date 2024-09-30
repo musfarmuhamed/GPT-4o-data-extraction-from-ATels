@@ -1,0 +1,100 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ft (AT 2018ajp)",
+            "RA": "06:27:03.790",
+            "Dec": "-25:38:23.24",
+            "redshift": "0.024227",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-18.82"
+        },
+        {
+            "Name": "ASASSN-18fo (AT 2018ait)",
+            "RA": "14:56:51.230",
+            "Dec": "+50:04:00.12",
+            "redshift": "0.072351",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-16.29"
+        },
+        {
+            "Name": "ASASSN-18fn (AT 2018ais)",
+            "RA": "11:38:47.176",
+            "Dec": "-33:10:05.22",
+            "redshift": "0.035658",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-17.93"
+        },
+        {
+            "Name": "ASASSN-18fm (AT 2018ahv)",
+            "RA": "14:48:15.877",
+            "Dec": "+26:17:04.63",
+            "redshift": "0.051622",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-16.38"
+        },
+        {
+            "Name": "ASASSN-18ff (AT 2018agb)",
+            "RA": "04:57:31.627",
+            "Dec": "-50:10:26.79",
+            "redshift": "0.042006",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-13.13"
+        },
+        {
+            "Name": "ASASSN-18fe (AT 2018adh)",
+            "RA": "07:28:27.53",
+            "Dec": "-37:25:13.04",
+            "redshift": "0.009672",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-09.2"
+        },
+        {
+            "Name": "ASASSN-18fd (AT 2018acw)",
+            "RA": "06:22:06.838",
+            "Dec": "-05:31:08.96",
+            "redshift": "Unk",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2018-03-09.03"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Size": "14-cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "Leavitt",
+            "Size": "14-cm",
+            "Location": "Fort Davis, Texas"
+        },
+        {
+            "Name": "Payne-Gaposchkin",
+            "Size": "14-cm",
+            "Location": "Sutherland, South Africa"
+        },
+        {
+            "Name": "Cassius and Paczynski",
+            "Size": "14-cm",
+            "Location": "Cerro Tololo, Chile"
+        }
+    ],
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Fort Davis, Texas",
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

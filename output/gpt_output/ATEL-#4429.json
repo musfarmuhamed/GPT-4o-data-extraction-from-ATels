@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER J034757.12+744221.7",
+            "RA": "03h 47m 57.12s",
+            "Dec": "+74d 42m 21.7s",
+            "redshift": null,
+            "Type": "Dwarf Nova or SN",
+            "Time": "2002-09-25.95586 UT",
+            "Date": "2002-09-25"
+        },
+        {
+            "Name": "MASTER J045337.76+534047.3",
+            "RA": "04h 53m 37.76s",
+            "Dec": "+53d 40m 47.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "2012-09-26.98581 UT",
+            "Date": "2012-09-26"
+        },
+        {
+            "Name": "MASTER OT J045804.40+212306.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Jovian satellite J6 Himalia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/034757.12744221.7.png, http://master.sai.msu.ru/static/OT/045337.76534047.3.png",
+    "Event Type": "OT Source Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

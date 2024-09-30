@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS091124:104128+072329",
+            "RA": "10:41:27.52",
+            "Dec": "07:23:29.4",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "11:58:54",
+            "Date": "2009-11-24"
+        },
+        {
+            "Name": "SN 2009lx",
+            "RA": "11:40:18.85",
+            "Dec": "03:00:18.4",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "12:37:57",
+            "Date": "2009-11-24"
+        },
+        {
+            "Name": "MLS091123:001329+010938",
+            "RA": "00:13:29.05",
+            "Dec": "01:09:38.3",
+            "redshift": null,
+            "Type": "SN?",
+            "Time": "03:13:50",
+            "Date": "2009-11-23"
+        },
+        {
+            "Name": "MLS091119:022158+193204",
+            "RA": "02:21:58.50",
+            "Dec": "19:32:04.9",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "06:42:05",
+            "Date": "2009-11-19"
+        },
+        {
+            "Name": "MLS091116:235519-054237",
+            "RA": "23:55:18.98",
+            "Dec": "-05:42:36.8",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "04:19:53",
+            "Date": "2009-11-16"
+        },
+        {
+            "Name": "MLS091111:002931+033750",
+            "RA": "00:29:31.43",
+            "Dec": "03:37:50.9",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "06:09:25",
+            "Date": "2009-11-11"
+        },
+        {
+            "Name": "MLS091117:035914+133442",
+            "RA": "03:59:14.49",
+            "Dec": "13:34:42.5",
+            "redshift": null,
+            "Type": "Blazar?",
+            "Time": "09:08:25",
+            "Date": "2009-11-17"
+        }
+    ],
+    "References": [
+        "http://nesssi.cacr.caltech.edu/MLS/Allns.html",
+        "http://crts.caltech.edu"
+    ],
+    "Event Type": "Discovery of optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MLS 1.5m",
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey's 1.5m Mount Lemmon Survey (MLS) telescope"
+}

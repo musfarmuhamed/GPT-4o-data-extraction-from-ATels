@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J180153.15+254323.5",
+            "RA": "18h 01m 53.15s",
+            "Dec": "+25d 43m 23.5s",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "2015-01-28.91546 UT",
+            "Date": "2015-01-28"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "O. Gress et al.",
+            "ID": "GCN 17365"
+        },
+        {
+            "Authors": "Lipunov et al.",
+            "ID": "2010, Advances in Astronomy, article id. 349171, pp. 1-7"
+        }
+    ],
+    "Event Type": "gamma-ray burst",
+    "Time": "18:59:14 UT",
+    "Date": "2015-01-28",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

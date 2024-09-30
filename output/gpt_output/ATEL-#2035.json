@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J044712.8+203809",
+            "RA": "04:47:12.2",
+            "Dec": "+20:38:11",
+            "redshift": null,
+            "Type": "M3",
+            "Time": null,
+            "Date": [
+                "2006/10/02",
+                "2006/10/20",
+                "2006/10/29"
+            ]
+        },
+        {
+            "Name": "1RXS J040918.0+180008",
+            "RA": "04:09:18.2",
+            "Dec": "+17:59:55",
+            "redshift": null,
+            "Type": "K8",
+            "Time": null,
+            "Date": "2006/08/12"
+        },
+        {
+            "Name": "1RXS J172719.4+270858",
+            "RA": "17:27:19.5",
+            "Dec": "+27:09:01",
+            "redshift": null,
+            "Type": "Unknown",
+            "Time": null,
+            "Date": "2006/04/03"
+        }
+    ],
+    "References": [
+        "Lehner et al. 2009",
+        "Kim et al. 2008",
+        "Preston et al. 2008"
+    ],
+    "Event Type": "flare events",
+    "Time": null,
+    "Date": [
+        "2005",
+        "2006"
+    ],
+    "Telescope": [
+        "A",
+        "B",
+        "D"
+    ],
+    "Instrument": null,
+    "Observatory": "Taiwan-American Occultation Survey (TAOS)"
+}

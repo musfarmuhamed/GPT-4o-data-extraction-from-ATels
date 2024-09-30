@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J032250.48+423103.2",
+            "RA": "03h 22m 50.48s",
+            "Dec": "+42d 31m 03.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (SS Cyg type)",
+            "Time": "2013-12-10.51594 UT",
+            "Date": "2013-12-10"
+        },
+        {
+            "Name": "MASTER OT J043220.15+784913.8",
+            "RA": "04h 32m 20.15s",
+            "Dec": "+78d 49m 13.8s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-12-12.60299 UT",
+            "Date": "2013-12-12"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/032250.48423103.2.png",
+        "http://master.sai.msu.ru/static/OT/J043220+784913-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/043220.15784913.8.png"
+    ],
+    "Event Type": "new CV (Cataclysmic Variable)",
+    "Time": null,
+    "Date": "2013-12-10 and 2013-12-12",
+    "Telescope": null,
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ]
+}

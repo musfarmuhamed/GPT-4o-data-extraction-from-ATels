@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AO 0235+164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "57044.15",
+            "Date": "Jan. 25"
+        },
+        {
+            "Name": "[HB89] 0716+714",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "57043.40 and 57044.40",
+            "Date": "Jan. 18"
+        },
+        {
+            "Name": "[HB89] 1633+382",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "57046.62",
+            "Date": "Jan. 24"
+        }
+    ],
+    "References": [
+        "ATel #6970",
+        "ATel #6953",
+        "ATel #6930",
+        "Danilet et al."
+    ],
+    "Event Type": "multicolor broad-band photometry",
+    "Time": "Not Specified",
+    "Date": "Not Specified",
+    "Telescope": "1-meter reflector Zeiss-1000",
+    "Instrument": "UBVRI filters, 2k x 2k EEV 42-40 CCD",
+    "Observatory": "Special Astrophysical Observatory of RAS, Northern Caucasus, Russia"
+}

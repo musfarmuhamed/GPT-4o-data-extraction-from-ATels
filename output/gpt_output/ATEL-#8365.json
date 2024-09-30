@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15tm",
+            "RA": "23:27:35.60",
+            "Dec": "+29:24:31.17",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2015-12-04.25"
+        },
+        {
+            "Name": "2MASX J23273537+2924275",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "AGC 333540",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.016722",
+            "Type": "radio source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ASAS-SN",
+        "NED",
+        "G. Masi",
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "2015-12-04.25",
+    "Telescope": "Brutus telescope, Virtual Telescope Project 17-inch Planewave telescope",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii, Ceccano, Italy"
+}

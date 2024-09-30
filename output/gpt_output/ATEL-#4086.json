@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FERMI J1350-1140",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J134931.45-113253.8",
+            "RA": "13h49m31.45s (207.3810463 deg)",
+            "Dec": "-11d32m53.86s (-11.5482934 deg)",
+            "redshift": null,
+            "Type": "gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PKS 1346-112",
+            "RA": "13h49m31.44s (207.3810 deg)",
+            "Dec": "-11d32m53.9s (-11.5483 deg)",
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3788",
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. 2011 ApJ, 740L, 48",
+        "Massaro, F. et al. 2012 ApJ in press",
+        "Beasley et al. 2002, ApJS, 141, 38",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. 2012 ApJ",
+        "Massaro, F., et al. 2012 ApJ in press"
+    ],
+    "Event Type": "GeV flare detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer",
+    "Instrument": null,
+    "Observatory": "University of California, Los Angeles, and the Jet Propulsion Laboratory/California Institute of Technology"
+}

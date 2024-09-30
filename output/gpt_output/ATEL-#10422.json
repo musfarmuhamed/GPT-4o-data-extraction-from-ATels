@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J175233.9-290952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": [
+                "radio-quiet black hole X-ray binary",
+                "tMSP",
+                "AMXP",
+                "non-pulsating neutron star X-ray binary"
+            ],
+            "Time": "10:13:06-11:12:54",
+            "Date": "2017-05-13"
+        }
+    ],
+    "References": "ATel # 10355",
+    "Event Type": "X-ray transient",
+    "Time": "10:13:06-11:12:54",
+    "Date": "2017-05-13",
+    "Telescope": "VLA",
+    "Instrument": "X band (8-12 GHz)",
+    "Observatory": "NRAO"
+}

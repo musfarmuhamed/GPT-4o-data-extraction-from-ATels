@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18et",
+            "RA": "10 32 34.85",
+            "Dec": "-02 41 18.6",
+            "redshift": "0.030900",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 06.07"
+        },
+        {
+            "Name": "ASASSN-18en",
+            "RA": "14 03 39.05",
+            "Dec": "-33 58 42.5",
+            "redshift": "0.013763",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 03.92"
+        },
+        {
+            "Name": "ATLAS18mgm",
+            "RA": "16 43 39.77",
+            "Dec": "+26 35 45.67",
+            "redshift": "0.0605",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 03.92"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "Null",
+    "Date": "2018 March 8",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla Observatory"
+}

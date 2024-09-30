@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10gva",
+            "RA": "12:23:55.40",
+            "Dec": "10:34:50.7",
+            "redshift": "0.0275",
+            "Type": "Type II supernovae",
+            "Time": "Unknown",
+            "Date": "May 5.2 UT"
+        },
+        {
+            "Name": "New supernova (ROTSE-III)",
+            "RA": "12h23m55s.49",
+            "Dec": "+10o34'51\".2",
+            "redshift": "0.0275",
+            "Type": "Type II SN",
+            "Time": "Unknown",
+            "Date": "May 5.29 UT"
+        }
+    ],
+    "References": "ATEL #1964, PASP, 107, 375",
+    "Event Type": "Supernova discovery and observation",
+    "Time": "Unknown",
+    "Date": "May 5.2 UT, May 3.3 UT, May 6.4 UT, May 5.29 UT, May 6.16, May 7.88, 2010 May 7.26 UT",
+    "Telescope": "Keck I 10-m, ROTSE-IIIb, ROTSE-IIId, Hobby-Eberly Telescope",
+    "Instrument": "Low-Resolution Imaging Spectrometer (LRIS), Marcario Low-Resolution Spectrograph",
+    "Observatory": "McDonald Observatory, Turkish National Observatory at Bakirlitepe"
+}

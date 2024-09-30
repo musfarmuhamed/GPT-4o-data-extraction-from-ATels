@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016jdl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0232,
+            "Type": "Type Ia supernova",
+            "Time": "Dec.30.9",
+            "Date": "2016"
+        },
+        {
+            "Name": "SDSS J122739.66+403649.0",
+            "RA": "12:27:39.66",
+            "Dec": "+40:36:49.0",
+            "redshift": 0.0232,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024; Wang et al. 2009, ApJ, 699, L139",
+    "Event Type": "optical spectrum",
+    "Time": "Dec.30.9",
+    "Date": "2016",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

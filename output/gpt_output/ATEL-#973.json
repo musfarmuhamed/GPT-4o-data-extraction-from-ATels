@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "apparent nova",
+            "RA": "00h 42m 43.27s",
+            "Dec": "+41\u00b0 17' 48.09\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "December 24, 2023"
+        },
+        {
+            "Name": "POINT-AGAPE No.26942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WeCAPP Survey No.15638",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "variable star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "December 24, 2023",
+    "Telescope": "2m telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

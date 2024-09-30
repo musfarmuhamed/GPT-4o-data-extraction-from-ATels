@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gamma-ray source",
+            "RA": "223.712",
+            "Dec": "-37.7576",
+            "redshift": null,
+            "Type": "gamma-ray flare",
+            "Time": "00:00 UT to 24:00 UT",
+            "Date": "2012-10-30"
+        },
+        {
+            "Name": "PKS 1451-375",
+            "RA": "14h54m27.4s",
+            "Dec": "-37d47m33s",
+            "redshift": "0.314",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Healey S.E. et al. 2007, ApJS 171, 61",
+        "Bridle & Perley 1984, ARA&A, 22, 319",
+        "Fomalont et al. 2000, ApJS 131, 95"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "00:00 UT to 24:00 UT",
+    "Date": "2012-10-30",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

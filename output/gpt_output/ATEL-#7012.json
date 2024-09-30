@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J05521661+4650211",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.0224,
+            "Type": "Ic?",
+            "Time": "Null",
+            "Date": "20150130.94"
+        },
+        {
+            "Name": "PSN J11105565+5322493",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.0094,
+            "Type": "II",
+            "Time": "Null",
+            "Date": "20150130.99"
+        },
+        {
+            "Name": "Gaia15aar",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150131.03"
+        },
+        {
+            "Name": "Gaia15aaq",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.0625,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150131.07"
+        },
+        {
+            "Name": "MASTER OTJ180153.15+254323.5",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "20150131.20"
+        },
+        {
+            "Name": "Gaia15aao",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.0343,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20150131.23"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Astronomy Section of the Rochester Academy of Sciences (arXiv:1103.5165)",
+        "CBAT Transient Objects Confirmation Page (TOCP)",
+        "Gaia Photometric Science Alerts (validation phase)"
+    ],
+    "Event Type": "Spectroscopic observation of transients",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC, CCD Andor IKON L936",
+    "Observatory": "Null"
+}

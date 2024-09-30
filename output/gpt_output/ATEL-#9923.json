@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016jfu",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.008,
+            "Type": "Type IIP Supernova",
+            "Time": "UT Dec.31.9",
+            "Date": "2016"
+        },
+        {
+            "Name": "NGC 4793",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.008,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1999gi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "t= +4 days after explosion",
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Spectral Observation",
+    "Time": "UT Dec.31.9",
+    "Date": "2016",
+    "Telescope": "2.16 m telescope",
+    "Instrument": null,
+    "Observatory": "Xinglong Observatory of NAOC"
+}

@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10ygu",
+            "RA": "09:37:30.30",
+            "Dec": "+23:09:33.6",
+            "redshift": "0.025",
+            "Type": "Type Ia supernova",
+            "Time": "N/A",
+            "Date": "Oct. 12.5 UT",
+            "Host Galaxy": "NGC 2929"
+        }
+    ],
+    "References": [
+        "ATEL#1964"
+    ],
+    "Event Type": "Discovery of Type Ia Supernova",
+    "Time": "N/A",
+    "Date": "N/A",
+    "Telescope": [
+        "Gemini North",
+        "Hubble Space Telescope",
+        "Swift"
+    ],
+    "Instrument": [
+        "Spectroscopic instrument on Gemini North",
+        "STIS/UV spectroscopic instrument on Hubble Space Telescope"
+    ],
+    "Observatory": "N/A"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13af",
+            "RA": "10:01:33.2",
+            "Dec": "+74:24:47",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "2013 April 10.38",
+            "Date": "2013-04-10"
+        },
+        {
+            "Name": "ASASSN-13ag",
+            "RA": "17:27:00.8",
+            "Dec": "+18:14:22",
+            "redshift": null,
+            "Type": "likely CV",
+            "Time": "2013 April 18.57",
+            "Date": "2013-04-18"
+        },
+        {
+            "Name": "ASASSN-13ah",
+            "RA": "18:32:11.1",
+            "Dec": "+61:55:09",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013 April 23.53",
+            "Date": "2013-04-23"
+        },
+        {
+            "Name": "ASASSN-13ai",
+            "RA": "09:39:56.0",
+            "Dec": "+69:56:49",
+            "redshift": null,
+            "Type": "likely CV",
+            "Time": "2013 May 3.40",
+            "Date": "2013-05-03"
+        },
+        {
+            "Name": "ASASSN-13aj",
+            "RA": "23:16:11.6",
+            "Dec": "+27:34:50",
+            "redshift": null,
+            "Type": "possible CV or flare",
+            "Time": "2013 May 3.59",
+            "Date": "2013-05-03"
+        }
+    ],
+    "References": "Vizier, USNO-A2 catalog, USNO-B1 catalog, GALEX DR5 catalog, XMM-Newton slew survey, ROSAT X-Ray source, Apache Point Observatory, CRTS",
+    "Event Type": "discovery of transient sources",
+    "Time": null,
+    "Date": "2013-04-10 to 2013-05-03",
+    "Telescope": "Brutus telescope",
+    "Instrument": "Dual Imaging Spectrograph",
+    "Observatory": "Haleakala, Hawaii; Apache Point Observatory"
+}

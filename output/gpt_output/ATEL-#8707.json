@@ -1,0 +1,167 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15C2sj",
+            "RA": "03:41:03.42",
+            "Dec": "-28:41:23.1",
+            "redshift": "0.07",
+            "Type": "Ia?",
+            "Time": null,
+            "Date": "2015 Sep 08"
+        },
+        {
+            "Name": "DES15C2eaz",
+            "RA": "03:40:21.44",
+            "Dec": "-28:40:02.7",
+            "redshift": "0.062",
+            "Type": "II",
+            "Time": null,
+            "Date": "2015 Sep 15"
+        },
+        {
+            "Name": "DES15E2dzb",
+            "RA": "00:35:27.19",
+            "Dec": "-44:55:01.5",
+            "redshift": "0.26",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Sep 16"
+        },
+        {
+            "Name": "DES15S2dye",
+            "RA": "02:43:35.22",
+            "Dec": "-01:07:47.7",
+            "redshift": "0.25",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Sep 20"
+        },
+        {
+            "Name": "DES15C3efn",
+            "RA": "03:30:59.18",
+            "Dec": "-28:10:04.6",
+            "redshift": "0.077",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Oct 04"
+        },
+        {
+            "Name": "DES15E2kvn",
+            "RA": "00:33:07.19",
+            "Dec": "-44:08:24.4",
+            "redshift": "0.208",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Oct 12"
+        },
+        {
+            "Name": "DES15S2eaq",
+            "RA": "02:42:07.48",
+            "Dec": "-00:50:26.2",
+            "redshift": "0.068",
+            "Type": "II",
+            "Time": null,
+            "Date": "2015 Oct 15"
+        },
+        {
+            "Name": "DES15S2mau",
+            "RA": "02:46:56.16",
+            "Dec": "-00:41:26.3",
+            "redshift": "0.132",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Nov 13"
+        },
+        {
+            "Name": "DES15S2max",
+            "RA": "02:44:02.01",
+            "Dec": "-00:28:02.6",
+            "redshift": "0.27",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Nov 13"
+        },
+        {
+            "Name": "DES15X2mei",
+            "RA": "02:25:31.10",
+            "Dec": "-05:52:44.4",
+            "redshift": "0.232",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Nov 13"
+        },
+        {
+            "Name": "DES15S2mpg",
+            "RA": "02:43:52.74",
+            "Dec": "-01:13:45.4",
+            "redshift": "0.186",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 03"
+        },
+        {
+            "Name": "DES15C3mpk",
+            "RA": "03:34:38.15",
+            "Dec": "-28:23:52.3",
+            "redshift": "0.18",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 05"
+        },
+        {
+            "Name": "DES15S1mvv",
+            "RA": "02:53:37.06",
+            "Dec": "+00:30:36.6",
+            "redshift": "0.255",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2015 Dec 09"
+        },
+        {
+            "Name": "DES15S2ocv",
+            "RA": "02:42:58.43",
+            "Dec": "-00:16:02.7",
+            "redshift": "0.215",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Jan 09"
+        },
+        {
+            "Name": "DES15S2okl",
+            "RA": "02:42:10.49",
+            "Dec": "-00:54:54.6",
+            "redshift": "0.17",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Jan 12"
+        },
+        {
+            "Name": "DES15C3olc",
+            "RA": "03:32:33.16",
+            "Dec": "-27.22:53.2",
+            "redshift": "0.067",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016 Feb 05"
+        },
+        {
+            "Name": "DES15C1pkx",
+            "RA": "03:39:13.49",
+            "Dec": "-26:52:03.5",
+            "redshift": "0.15",
+            "Type": "II",
+            "Time": null,
+            "Date": "2016 Feb 11"
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al, 2005, ApJ, 634, 119"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": null,
+    "Date": null,
+    "Telescope": "South African Large Telescope (SALT)",
+    "Instrument": "Robert Stobie Spectrograph (RSS)",
+    "Observatory": "South African Large Telescope (SALT)"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBS J0809+5341",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.133,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2014-04-19"
+        },
+        {
+            "Name": "APM 08279+5255",
+            "RA": null,
+            "Dec": null,
+            "redshift": 3.911,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Schneider et al., 2010 (Astron. J. Vol. 139, p. 2360)",
+    "Event Type": "flare",
+    "Time": "2014-04-19.588 UT",
+    "Date": "2014-04-19",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

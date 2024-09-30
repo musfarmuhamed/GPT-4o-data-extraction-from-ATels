@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11hsj",
+            "RA": "16 57 58.15",
+            "Dec": "+55 11 01.1",
+            "redshift": 0.0287,
+            "Type": "SN II",
+            "Time": "Jul 13.33",
+            "Date": null
+        },
+        {
+            "Name": "PTF11htj",
+            "RA": "21 16 03.50",
+            "Dec": "+12 31 21.0",
+            "redshift": 0.017,
+            "Type": "SN II",
+            "Time": "Jul 15.38",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "ATEL #3253",
+        "http://www.astro.caltech.edu/ptf/",
+        "Law et al. 2009, PASP, 121, 1395",
+        "Rau et al. 2009, PASP, 121, 1334",
+        "Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "discovery of new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Gemini N",
+    "Instrument": "GMOS",
+    "Observatory": "PTF"
+}

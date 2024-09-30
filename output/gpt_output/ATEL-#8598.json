@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA 102",
+            "RA": "2230+114",
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "0.0 UT",
+            "Date": "2016 January 28"
+        },
+        {
+            "Name": "3C 454.3",
+            "RA": "2251+158",
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "0.6 UT",
+            "Date": "2016 January 28"
+        },
+        {
+            "Name": "CTA 26",
+            "RA": "0336-019",
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "4.3 UT",
+            "Date": "2016 January 28"
+        }
+    ],
+    "References": [
+        "Larionov et al 2013, EPJ Web of Conferences, 61, 04019",
+        "Carrasco et al (ATEL #8590)",
+        "Carpenter et al (ATEL #8478)",
+        "Bulgarelli et al (ATEL #8476)",
+        "Carrasco et al (ATEL #8589)",
+        "Carrasco et al (ATEL #8575)"
+    ],
+    "Event Type": "Observational report",
+    "Time": "0.0 - 4.3 UT",
+    "Date": "2016 January 28",
+    "Telescope": "0.4m telescope",
+    "Instrument": "Photometrics Star 1 CCD camera",
+    "Observatory": "Colgate University Foggy Bottom Observatory"
+}

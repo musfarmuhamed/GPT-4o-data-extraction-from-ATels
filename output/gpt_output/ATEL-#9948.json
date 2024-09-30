@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ae",
+            "RA": "16:17:02.622",
+            "Dec": "10:41:36.17",
+            "redshift": "0.050270",
+            "Type": "Supernova",
+            "Time": "2017-01-04.66",
+            "Date": "2017-01-04"
+        },
+        {
+            "Name": "2MASX J16170338+1041359",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.050270",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, CCAPP at OSU, CASSACA, Mt. Cuba Astronomical Foundation",
+    "Event Type": "Discovery",
+    "Time": "2017-01-04.66",
+    "Date": "2017-01-04",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

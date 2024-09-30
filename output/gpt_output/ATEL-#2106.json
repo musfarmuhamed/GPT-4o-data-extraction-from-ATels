@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009dd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.002524",
+            "Type": "Type II SN",
+            "Time": "22.5 ks exposure time",
+            "Date": "2009-04-15 to 2009-05-11"
+        }
+    ],
+    "References": [
+        "CBET #1764",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "Verheijen & Sancisi, 2001, A&A 370, 765"
+    ],
+    "Event Type": "X-ray point-source detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift X-Ray Telescope (XRT)",
+    "Instrument": null,
+    "Observatory": null
+}

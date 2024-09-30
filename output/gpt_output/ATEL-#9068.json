@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "P13",
+            "RA": "23 57 51.01",
+            "Dec": "-32 37 26.6",
+            "redshift": null,
+            "Type": "ULX",
+            "Time": "2016-05-10T00:00:00Z to 2016-05-15T00:00:00Z",
+            "Date": "2016-05-10 to 2016-05-15"
+        }
+    ],
+    "References": [
+        "Motch et al. 2014, Nature, 514, 198",
+        "Motch et al. in prep."
+    ],
+    "Event Type": "X-ray Brightening",
+    "Time": "2016-05-10T00:00:00Z to 2016-05-15T00:00:00Z",
+    "Date": "2016-05-10 to 2016-05-15",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

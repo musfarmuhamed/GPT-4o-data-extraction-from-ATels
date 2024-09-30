@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate and microquasar",
+            "Time": "UT Aug 08",
+            "Date": "Aug 08, 2004",
+            "Magnitudes": {
+                "V": 16.2,
+                "I": 14.4,
+                "J": 14.0,
+                "H": 13.4
+            }
+        }
+    ],
+    "References": "Buxton & Bailyn 2004 ApJ, accepted, astro-ph/0408156 and references therein",
+    "Event Type": "Observational Study",
+    "Time": "UT Aug 08",
+    "Date": "Aug 08, 2004",
+    "Telescope": "SMARTS 1.3m telescope",
+    "Instrument": "ANDICAM",
+    "Observatory": "CTIO"
+}

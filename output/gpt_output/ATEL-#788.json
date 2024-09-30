@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J2018+4043",
+            "RA": "20:18:38.5",
+            "Dec": "+40:41:00.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2020+4017",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS",
+            "RA": "20:18:38.73",
+            "Dec": "+40:41:00.1",
+            "redshift": null,
+            "Type": "NIR counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bykov et al. 2004, A&A, 427, L21",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

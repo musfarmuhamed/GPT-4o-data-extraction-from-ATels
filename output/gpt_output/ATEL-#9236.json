@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient X-ray source (Near Sgr A*)",
+            "RA": "17:45:35.96",
+            "Dec": "-28:59:27.2",
+            "redshift": null,
+            "Type": "Transient X-ray source",
+            "Time": "0.9-ks",
+            "Date": "2016 July 7"
+        },
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": "17:45:35.64",
+            "Dec": "-28:59:27.5",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "various",
+            "Date": "2016 July 7-10"
+        },
+        {
+            "Name": "CXOUGC J174535.6-285928",
+            "RA": "17:45:35.6",
+            "Dec": "-28:59:28",
+            "redshift": null,
+            "Type": "Dim X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift J174540.7-290015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "Since February 2016"
+        },
+        {
+            "Name": "Swift J174540.2-290037",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "Since late May 2016"
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2015, JHEA 7, 137",
+        "Evans et al. 2007, A&A 469, 379",
+        "Evans et al. 2009, MNRAS 397, 1177",
+        "Goad et al. 2007, A&A 476, 1401",
+        "Muno et al. 2009, ApJS, 181, 110",
+        "ATels #3472, #3525, #8649, #8689, #8746, #9109, #9196"
+    ],
+    "Event Type": "Swift/XRT monitoring observations",
+    "Time": "0.9-ks",
+    "Date": "2016 July 7-10",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Not specified"
+}

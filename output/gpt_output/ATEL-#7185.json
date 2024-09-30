@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[PFH2005] 622",
+            "RA": "00h 45m 14.78s",
+            "Dec": "+41d 50m 34.53s",
+            "redshift": null,
+            "Type": null,
+            "Time": "T0+468.4 ks",
+            "Date": "2015-03-06T16:29:31"
+        },
+        {
+            "Name": "SWIFT J0045.2+4151",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pietsch et al. 2005, ApJ 434, 483",
+        "ATel #7181",
+        "GCN #17512",
+        "GCN #17516",
+        "ATel #7166",
+        "ATel #7176"
+    ],
+    "Event Type": "Observation",
+    "Time": "2015-03-06T16:29:31",
+    "Date": "Friday, March 6, 2014",
+    "Telescope": "Chandra",
+    "Instrument": "BAT",
+    "Observatory": "Swift"
+}

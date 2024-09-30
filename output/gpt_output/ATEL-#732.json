@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20060208-004",
+            "RA": "09:07:43.11",
+            "Dec": "+12:03:06.5",
+            "redshift": 0.03,
+            "Type": "Type II",
+            "Time": "February 8.3 UT",
+            "Date": "2006-02-08"
+        },
+        {
+            "Name": "SN 2006aa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02,
+            "Type": "Type IIn",
+            "Time": "February 10.5 UT",
+            "Date": "2006-02-10"
+        },
+        {
+            "Name": "SN 2006ac",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023106,
+            "Type": "Type Ia",
+            "Time": "February 10.6 UT",
+            "Date": "2006-02-10"
+        }
+    ],
+    "References": "IAUC #8669",
+    "Event Type": "Discovery and Classification",
+    "Time": "February 2006",
+    "Date": "2006-02-08 to 2006-02-10",
+    "Telescope": "Palomar Oschin 48-inch telescope, University of Hawaii 2.2-meter telescope",
+    "Instrument": "QUEST II camera, Supernova Integral Field Spectrograph (SNIFS)",
+    "Observatory": "Palomar Observatory, University of Hawaii"
+}

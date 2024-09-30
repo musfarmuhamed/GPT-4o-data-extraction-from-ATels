@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 0554+58",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.904,
+            "Type": "QSO",
+            "Time": "16:46:37.65624",
+            "Date": "2457081.6601"
+        },
+        {
+            "Name": "CGRaBS J0559+5804",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.904,
+            "Type": "QSO",
+            "Time": "15:31:39.312",
+            "Date": "2457096.6469"
+        }
+    ],
+    "References": "Atel #7155",
+    "Event Type": "NIR photometry",
+    "Time": null,
+    "Date": [
+        "2457081.6601",
+        "2457096.6469"
+    ],
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA a NIR camera",
+    "Observatory": "Guillermo Haro Observatory, National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

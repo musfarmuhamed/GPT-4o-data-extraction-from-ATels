@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018if",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broadlined (BL) type Ic supernova",
+            "Time": "20.7",
+            "Date": "2018-01-20"
+        },
+        {
+            "Name": "SN 2003jd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "IAU Transient Name Sever: https://wis-tns.weizmann.ac.il/object/2018if"
+    ],
+    "Event Type": "optical spectrum",
+    "Time": "20.7",
+    "Date": "2018-01-20",
+    "Telescope": "Lijiang Gaomeigu 2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Lijiang Station of Yunnan Observatories of China"
+}

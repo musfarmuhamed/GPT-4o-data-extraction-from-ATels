@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M81 X-9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultra-luminous X-ray (ULX) source",
+            "Time": "0.3-10.0 keV band",
+            "Date": [
+                "2006-07-07",
+                "2006-07-08",
+                "2006-10-14",
+                "2006-10-18",
+                "2006-10-19",
+                "2006-11-22",
+                "2007-03-25"
+            ]
+        }
+    ],
+    "References": [
+        "La Parola et al. 2001",
+        "Miller, Fabian, & Miller 2004"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "2006-07-07",
+        "2006-07-08",
+        "2006-10-14",
+        "2006-10-18",
+        "2006-10-19",
+        "2006-11-22",
+        "2007-03-25"
+    ],
+    "Telescope": "SWIFT",
+    "Instrument": "XRT",
+    "Observatory": null
+}

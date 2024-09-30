@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": null,
+            "Date": "March 16, 2018"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Low-mass X-ray binary",
+            "Time": null,
+            "Date": "2015"
+        }
+    ],
+    "References": [
+        "ATel #11400",
+        "ATel #11403",
+        "ATel #11418",
+        "ATel #11421",
+        "ATel #11423",
+        "ATel #11424",
+        "ATel #11425",
+        "ATel #11426",
+        "ATel #11427",
+        "ATel #11432",
+        "ATel #11437",
+        "ATel #11439",
+        "ATel #11440",
+        "ATel #11445",
+        "ATel #11451",
+        "ATel #11458"
+    ],
+    "Event Type": "Spectroscopic observations and analysis",
+    "Time": null,
+    "Date": "March 16 to March 26, 2018",
+    "Telescope": [
+        "Gran Telescopio Canarias (GTC)",
+        "Very Large Telescope (VLT)"
+    ],
+    "Instrument": [
+        "OSIRIS (GTC)",
+        "X-Shooter (VLT)"
+    ],
+    "Observatory": null
+}

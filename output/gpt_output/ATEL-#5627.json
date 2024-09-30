@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31 Recurrent Nova",
+            "RA": "00:45:29.32",
+            "Dec": "+41:54:05.5",
+            "redshift": null,
+            "Type": "supersoft X-ray source (SSS)",
+            "Time": "03:03",
+            "Date": "2013-12-03"
+        }
+    ],
+    "References": [
+        "ATel #5607",
+        "ATel #3725",
+        "ATel #4503",
+        "ATel #5611",
+        "Henze et al. 2011, A&A, 533, A52",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "outburst detection",
+    "Time": null,
+    "Date": "2013-12-03",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

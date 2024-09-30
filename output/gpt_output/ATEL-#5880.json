@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": "09 55 42.14",
+            "Dec": "+69 40 26.0",
+            "redshift": null,
+            "Type": "Ia-type",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3792",
+        "ATel #5835",
+        "ATel #5809",
+        "ATel #5812",
+        "ATel #5851",
+        "Nature, 462, 700"
+    ],
+    "Event Type": "Observation",
+    "Time": "6 days after discovery",
+    "Date": "January 27 to February 2",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": "La Palma, Spain"
+}

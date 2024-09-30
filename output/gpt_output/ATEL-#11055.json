@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017itx",
+            "RA": "10 47 13.27",
+            "Dec": "+00 12 13.9",
+            "redshift": "0.035",
+            "Type": "Ia",
+            "Time": "2017-12-12",
+            "Date": "20171125"
+        },
+        {
+            "Name": "SN2017iuw",
+            "RA": "02 33 25.11",
+            "Dec": "-20 12 08.8",
+            "redshift": "0.036",
+            "Type": "Ia",
+            "Time": "2017-12-12",
+            "Date": "20171017"
+        },
+        {
+            "Name": "SN2017iwh",
+            "RA": "10 46 32.65",
+            "Dec": "-45 32 25.8",
+            "redshift": "0.042",
+            "Type": "Ic",
+            "Time": "2017-12-12",
+            "Date": "20171209"
+        },
+        {
+            "Name": "SN2017iwi",
+            "RA": "11 14 31.99",
+            "Dec": "-43 58 13.9",
+            "redshift": "0.046",
+            "Type": "Ia",
+            "Time": "2017-12-12",
+            "Date": "20171209"
+        },
+        {
+            "Name": "SN2017iws",
+            "RA": "08 42 41.62",
+            "Dec": "+13 58 04.0",
+            "redshift": "0.091",
+            "Type": "Ia",
+            "Time": "2017-12-12",
+            "Date": "20171212"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. (ATel #8680)",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2017-12-12",
+    "Date": "2017-12-12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

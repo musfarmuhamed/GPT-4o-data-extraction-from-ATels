@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 2234+28A",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.795",
+            "Type": "QSO",
+            "Time": "00:13:20.55 UTC",
+            "Date": "2016-01-12"
+        },
+        {
+            "Name": "CGRaBSJ2236+2828",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.795",
+            "Type": "QSO",
+            "Time": "00:13:20.55 UTC",
+            "Date": "2016-01-12"
+        },
+        {
+            "Name": "2FGL2236.4+2828",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.795",
+            "Type": "QSO",
+            "Time": "00:13:20.55 UTC",
+            "Date": "2016-01-12"
+        }
+    ],
+    "References": "NIR flare",
+    "Event Type": "photometry observation",
+    "Time": "00:13:20.55 UTC",
+    "Date": "2016-01-12",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

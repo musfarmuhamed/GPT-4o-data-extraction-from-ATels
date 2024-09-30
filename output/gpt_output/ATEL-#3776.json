@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "05h 21m 41.66s",
+            "Dec": "-04d 11m 09.9s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00:00",
+            "Date": "2011-11-20"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2010-12-27",
+            "Time": "20:48:00",
+            "Unfiltered magnitude limit": "19.1 m",
+            "URL": "http://observ.pereplet.ru/images/OT052141.66-0411.2/OT052141.66-0411.2.png"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:00:00",
+    "Date": "2011-11-20",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Robotic Net"
+}

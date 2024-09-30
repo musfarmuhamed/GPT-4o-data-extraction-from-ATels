@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova 2009au",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.009404",
+            "Type": "Type IIn",
+            "Time": "2009-03-22.02",
+            "Date": "2009-03-22"
+        },
+        {
+            "Name": "ESO 443-21",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #1719,1725",
+    "Event Type": "Observation",
+    "Time": "2009-03-22.02",
+    "Date": "2009-03-22",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

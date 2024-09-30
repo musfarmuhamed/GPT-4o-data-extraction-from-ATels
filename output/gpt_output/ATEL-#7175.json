@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1532+01",
+            "RA": 233.71856,
+            "Dec": 1.51784,
+            "redshift": 1.425,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1534.5+0128",
+            "RA": 233.71856,
+            "Dec": 1.51784,
+            "redshift": 1.425,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, arXiv:1501.02003",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "White et al. 1988, ApJ, 327, 561"
+    ],
+    "Event Type": "increasing gamma-ray flux and unusually hard gamma-ray spectrum",
+    "Time": "daily averaged flux and weekly averaged flux",
+    "Date": "February 23 - March 1, 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "an international collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

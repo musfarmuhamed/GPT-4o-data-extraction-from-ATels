@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gv (AT 2016cyv)",
+            "RA": "01:46:52.110",
+            "Dec": "33:23:21.57",
+            "redshift": "0.036",
+            "Type": "Ia supernova",
+            "Time": "03:18:09",
+            "Date": "2016-07-07"
+        },
+        {
+            "Name": "CGCG 503-021",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.037326",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #9212",
+    "Event Type": "spectroscopic observation",
+    "Time": "03:18:09",
+    "Date": "2016-07-07",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

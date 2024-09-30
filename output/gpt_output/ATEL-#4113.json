@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J123647.53+382036.9",
+            "RA": "12h 36m 47.53s",
+            "Dec": "+38d 20m 36.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-05-14.75340 UT",
+            "Date": "2012-05-14"
+        },
+        {
+            "Name": "J123647.49+382037.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SDSS8 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J123647.57+382037.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SDSS8 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J142512.37+140403.2",
+            "RA": "14h 25m 12.37s",
+            "Dec": "+14d 04m 03.2s",
+            "redshift": null,
+            "Type": "Flare of UV Ceti star",
+            "Time": "2012-05-14.69851 UT",
+            "Date": "2012-05-14"
+        },
+        {
+            "Name": "SDSS J142512.30+140403.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J132403.36+071627.0",
+            "RA": "13h 24m 03.36s",
+            "Dec": "+07d 16m 27.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-05-15.89201 UT",
+            "Date": "2012-05-15"
+        },
+        {
+            "Name": "MASTER OT J132422.40+055802.0",
+            "RA": "13h 24m 22.40s",
+            "Dec": "+05d 58m 02.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2012-05-15.89201 UT",
+            "Date": "2012-05-15"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/123647.53382036.9_1.png",
+        "http://master.sai.msu.ru/static/OT/142512.37140403.2_1.png",
+        "http://master.sai.msu.ru/static/OT/132403.36071627.0.png",
+        "http://master.sai.msu.ru/static/OT/132422.40055802.0.png"
+    ],
+    "Event Type": "OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "Auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

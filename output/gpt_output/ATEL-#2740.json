@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10hgi",
+            "RA": "16:37:47.04",
+            "Dec": "+06:12:32.3",
+            "redshift": "0.1",
+            "Type": "supernova",
+            "Time": "May 15.46 UT",
+            "Date": "2010-05-15"
+        },
+        {
+            "Name": "PTF09cnd",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #1964, Quimby et al. 2009",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Palomar 5.1-m Hale Telescope, Lick 3-m telescope",
+    "Instrument": "DBSP, KAST",
+    "Observatory": "Null"
+}

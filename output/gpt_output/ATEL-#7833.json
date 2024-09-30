@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0646-176",
+            "RA": "102.11874",
+            "Dec": "-17.73484",
+            "redshift": "1.232",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UT",
+            "Date": "2015 July 21"
+        },
+        {
+            "Name": "MRC 0646-176",
+            "RA": "102.11874",
+            "Dec": "-17.73484",
+            "redshift": "1.232",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UT",
+            "Date": "2015 July 21"
+        },
+        {
+            "Name": "3FGL J0648.8-1740",
+            "RA": "102.11874",
+            "Dec": "-17.73484",
+            "redshift": "1.232",
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00-18:00 UT",
+            "Date": "2015 July 21"
+        }
+    ],
+    "References": "Petrov et al. 2006, AJ, 131, 1872; Hewitt & Burbidge 1993, ApJS, 87, 451; Acero et al. 2015, ApJS 218, 23",
+    "Event Type": "gamma-ray flux increase",
+    "Time": "12:00-18:00 UT",
+    "Date": "2015 July 21",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in collaboration with scientific institutions across France, Italy, Japan, and Sweden"
+}

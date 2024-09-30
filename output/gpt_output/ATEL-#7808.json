@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mp",
+            "RA": "00:58:45.265",
+            "Dec": "-14:04:11.82",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "27.27",
+            "Date": "2015-07-17"
+        },
+        {
+            "Name": "2MASX J0058421-1404122",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED, DSS, J. Brimacombe image",
+    "Event Type": "Discovery",
+    "Time": "27.27",
+    "Date": "2015-07-17",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

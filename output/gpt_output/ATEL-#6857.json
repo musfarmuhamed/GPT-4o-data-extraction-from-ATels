@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14mv",
+            "RA": "07:13:27.25",
+            "Dec": "+20:55:52",
+            "redshift": null,
+            "Type": "Cataclysmic variable, likely dwarf nova of SU UMa (UGSU) subtype",
+            "Time": "2014-12-29.32",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "USNO-A2.0 1050.04925422",
+            "RA": "07 13 27.34",
+            "Dec": "+20 55 54.9",
+            "redshift": null,
+            "Type": "Blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1109-0151352",
+            "RA": "07 13 27.28",
+            "Dec": "+20 55 53.5",
+            "redshift": null,
+            "Type": "Blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J071327.3+205553",
+            "RA": "07:13:27.3",
+            "Dec": "+20:55:53",
+            "redshift": null,
+            "Type": "UV counterpart, FUV=17.98+/-0.04",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J071327.5+205553",
+            "RA": "07:13:27.5",
+            "Dec": "+20:55:53",
+            "redshift": null,
+            "Type": "UV counterpart, NUV=17.43+/-0.02",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MLS J071327.3+205553",
+            "RA": "07:13:27.3",
+            "Dec": "+20:55:53",
+            "redshift": null,
+            "Type": "Observed during 2011 outburst",
+            "Time": "2011-01-31.611",
+            "Date": "2011-01-31"
+        },
+        {
+            "Name": "Heidelberg Astronomical Plates number D4995, D4996 and D4998",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Oldest outburst observation",
+            "Time": null,
+            "Date": "1938-03-24, 1938-03-25"
+        }
+    ],
+    "References": "Shappee et al., 2014; Lipunov et al., 2010",
+    "Event Type": "Bright CV candidate detection in outburst",
+    "Time": "2014-12-29.32",
+    "Date": "2014-12-29",
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur, MASTER-Tunka, Mount Lemmon Survey",
+    "Instrument": null,
+    "Observatory": "MASTER, Mount Lemmon Survey"
+}

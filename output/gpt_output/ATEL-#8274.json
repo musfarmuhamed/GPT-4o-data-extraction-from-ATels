@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS2032+107",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.601,
+            "Type": "FSRQ",
+            "Time": "2015-10-02T18:43:00Z",
+            "Date": "2015-10-02"
+        },
+        {
+            "Name": "BZQJ 2035+1056",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGLJ2035.4+1058",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #7588",
+        "ATEL #7453",
+        "ATEL #8043"
+    ],
+    "Event Type": "Giant NIR flare",
+    "Time": "2015-10-02T18:43:00Z",
+    "Date": "2015-10-02",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

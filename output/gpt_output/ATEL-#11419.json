@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0505+056",
+            "RA": "05h09m25.9644s",
+            "Dec": "05d41m35.333s",
+            "redshift": "0.3365",
+            "Type": "BL Lacertae object",
+            "Time": null,
+            "Date": "13 March 2018"
+        },
+        {
+            "Name": "3FGL J0509.4+0541",
+            "RA": "05h09m25.9644s",
+            "Dec": "05d41m35.333s",
+            "redshift": "0.3365",
+            "Type": "BL Lacertae object",
+            "Time": null,
+            "Date": "13 March 2018"
+        },
+        {
+            "Name": "3FHL J0509.4+0542",
+            "RA": "05h09m25.9644s",
+            "Dec": "05d41m35.333s",
+            "redshift": "0.3365",
+            "Type": "BL Lacertae object",
+            "Time": null,
+            "Date": "13 March 2018"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Ajello et al. 2017, ApJS, 232, 18",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Paiano et al. 2018, ApJ, 854, 32",
+        "https://gcn.gsfc.nasa.gov/gcn3/21916.gcn3",
+        "ATel#10773",
+        "ATel#10787",
+        "ATel#10791"
+    ],
+    "Event Type": "enhanced gamma-ray flux and hard spectrum detection",
+    "Time": null,
+    "Date": "13 March 2018",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA"
+}

@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bf",
+            "RA": "04:38:41.10",
+            "Dec": "-41:37:26.2",
+            "redshift": 0.049,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2015-01-20"
+        },
+        {
+            "Name": "OGLE-2015-SN-030",
+            "RA": "06:11:24.79",
+            "Dec": "-63:24:20.1",
+            "redshift": 0.17,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2015-01-20"
+        },
+        {
+            "Name": "LSQ15cs",
+            "RA": "12:57:53.23",
+            "Dec": "-26:15:13.9",
+            "redshift": 0.109,
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2015-01-20"
+        }
+    ],
+    "References": [
+        "PESSTO, the Public ESO Spectroscopic Survey for Transient Objects (Smartt et al. 2014, arXiv:1411.0299; http://www.pessto.org)",
+        "LSQ (Baltay et al. 2013, PASP, 125, 683)",
+        "All Sky Automated Survey for SuperNovae (ASAS-SN; http://www.astronomy.ohio-state.edu/~assassin/index.shtml)",
+        "OGLE-IV Real-time Transient Search (Wyrzykowski et al. 2014, arxiv:1409.1095; http://ogle.astrouw.edu.pl)",
+        "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "00:00:00",
+    "Date": "2015-01-20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

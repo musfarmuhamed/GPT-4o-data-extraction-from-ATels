@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16me",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Eclipsing Polar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harrop-Allin et al. 1999, MNRAS, 308, 807",
+        "Eastman, Siverd, & Gaudi 2010, PASP, 122, 935"
+    ],
+    "Event Type": "Eclipse & Spectroscopy observation",
+    "Time": [
+        "15 sec per image for photometry",
+        "500 sec for spectroscopy"
+    ],
+    "Date": [
+        "2016 November 4-7",
+        "2016 October 31"
+    ],
+    "Telescope": [
+        "University of Notre Dame's 80-cm Sarah L. Krizmanich Telescope",
+        "74-cm reflector at the Center for Backyard Astrophysics, Concord",
+        "2-m Liverpool Telescope"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "Night",
+            "Date": "January 17, 2018"
+        },
+        {
+            "Name": "Crab nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels: #11184",
+        "ATel: #11194",
+        "ATel: #11186",
+        "ATel: #11195"
+    ],
+    "Event Type": "Enhanced gamma-ray flux",
+    "Time": "Night",
+    "Date": "January 17, 2018",
+    "Telescope": "TACTIC",
+    "Instrument": "Imaging Atmospheric Cherenkov Telescope",
+    "Observatory": "Mount Abu, India"
+}

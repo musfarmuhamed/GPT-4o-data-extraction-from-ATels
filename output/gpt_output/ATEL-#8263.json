@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09100885+5003396",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026",
+            "Type": "Ia-pec",
+            "Time": null,
+            "Date": "20151109.13"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Tomasella et al. 2014, AN, 335, 841",
+            "URL": null
+        },
+        {
+            "Title": "Taubenberger et al. 2011, MNRAS 412, 2735",
+            "URL": null
+        },
+        {
+            "Title": "Harutyunyan et al. 2008, A&A, 488, 383",
+            "URL": null
+        },
+        {
+            "Title": "Blondin and Tonry 2007, ApJ, 666, 1024",
+            "URL": null
+        },
+        {
+            "Title": "Bright Supernova website",
+            "URL": "http://www.rochesterastronomy.org/snimages/"
+        },
+        {
+            "Title": "The Astronomer Telegram",
+            "URL": null
+        },
+        {
+            "Title": "Asiago classification spectra",
+            "URL": "http://sngroup.oapd.inaf.it"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "20151109.13",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago SN group"
+}

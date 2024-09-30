@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J004420.1+413702",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Bright X-ray source",
+            "Time": null,
+            "Date": [
+                "2015-06-28",
+                "2015-08-11"
+            ]
+        },
+        {
+            "Name": "XMMU J004458.3+414207",
+            "RA": "00:44:58.31",
+            "Dec": "+41:42:07.5",
+            "redshift": null,
+            "Type": "Potentially new X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXO J004458.2+414206",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible faint counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J004423.2+415536",
+            "RA": "00:44:23.26",
+            "Dec": "+41:55:36.2",
+            "redshift": null,
+            "Type": "New X-ray transient",
+            "Time": null,
+            "Date": "2015-08-11"
+        },
+        {
+            "Name": "XMMU J004347.8+413310",
+            "RA": "00:43:47.89",
+            "Dec": "+41:33:10.6",
+            "redshift": null,
+            "Type": "Bright supersoft X-ray source",
+            "Time": null,
+            "Date": "2015-06-28"
+        }
+    ],
+    "References": [
+        "ATel #1671",
+        "Pietsch et al. 2005",
+        "Stiele et al. 2011",
+        "Evans et al. 2010",
+        "Henze et al. 2014"
+    ],
+    "Event Type": "X-ray transient detections",
+    "Time": null,
+    "Date": [
+        "2015-06-28",
+        "2015-08-11"
+    ],
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

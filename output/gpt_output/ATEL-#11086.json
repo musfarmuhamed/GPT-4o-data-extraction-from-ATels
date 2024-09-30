@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "high-energy peaked BL Lac type object",
+            "Time": "2:50 UTC to 7:00 UTC",
+            "Date": "Dec 19",
+            "Event Description": "Enhanced flux and two bright flares at TeV energies"
+        },
+        {
+            "Name": "Mrk 421",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.031",
+            "Type": "high-energy peaked BL Lac type object",
+            "Time": "2:50 UTC to 7:00 UTC",
+            "Date": "Dec 24",
+            "Event Description": "Mean nightly flux increased to roughly 4 times the Crab Nebula flux"
+        }
+    ],
+    "References": "ATel #11077 by the FACT and HAWC collaborations",
+    "Event Type": "Enhanced gamma-ray flux at TeV energies",
+    "Time": "2:50 UTC to 7:00 UTC",
+    "Date": "Dec 19 and Dec 24",
+    "Telescope": "First G-APD Cherenkov Telescope (FACT)",
+    "Instrument": "Silicon photosensors",
+    "Observatory": "Observatorio del Roque de los Muchachos on La Palma, Canary Islands"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J084721.16+731313.7",
+            "RA": "08h 47m 21.16s",
+            "Dec": "+73d 13m 13.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "16:36:34 UT",
+            "Date": "2014-02-07"
+        },
+        {
+            "Name": "MASTER OT J120438.53+064532.5",
+            "RA": "12h 04m 38.53s",
+            "Dec": "+06d 45m 32.5s",
+            "redshift": null,
+            "Type": "dwarf nova of WZ Sge (UGWZ) type in superoutburst",
+            "Time": "23:18:24 UT",
+            "Date": "2014-02-07"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J084721+731313-BRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/084721.16731313.7.png",
+        "http://master.sai.msu.ru/static/OT/120438.53064532.5.jpg"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

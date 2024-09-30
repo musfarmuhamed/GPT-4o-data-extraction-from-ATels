@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": "2015 Jun 20 between UT04:10 and UT05:24",
+            "Date": "2015-06-20"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole X-ray binary",
+            "Time": "2015 Jun 21 between UT03:40 and UT05:33",
+            "Date": "2015-06-21"
+        },
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #17929",
+        "GCN #17931",
+        "GCN #17933",
+        "GCN #17938",
+        "GCN #17940",
+        "GCN #17944",
+        "GCN #17945",
+        "GCN #17946",
+        "GCN #17948",
+        "GCN #17949",
+        "ATel #7646",
+        "ATel #7647",
+        "ATel #7650",
+        "ATel #7655",
+        "ATel #7658",
+        "ATel #7659",
+        "ATel #7661",
+        "ATel #7662",
+        "ATel #7663",
+        "ATel #7665",
+        "ATel #7666",
+        "ATel #7667",
+        "ATel #7669",
+        "ATel #7671",
+        "ATel #7674",
+        "ATel #7677",
+        "ATel #7678",
+        "ATel #7681",
+        "Kanbach et al. 2001 Nature 414 180",
+        "Gandhi et al. 2010 MNRAS 407 2166",
+        "Casella et al. 2010 MNRAS 404 L21",
+        "Gandhi et al. 2011 ApJ 740 L13",
+        "Dhillon et al. 2007 MNRAS 378 825"
+    ],
+    "Event Type": "Observation",
+    "Time": "Various times on 2015 Jun 20 and 2015 Jun 21",
+    "Date": "2015-06-20 and 2015-06-21",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ULTRACAM fast imaging camera",
+    "Observatory": "La Palma"
+}

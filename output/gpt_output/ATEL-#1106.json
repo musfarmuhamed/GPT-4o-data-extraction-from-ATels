@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "2:25-12:14 UT",
+            "Date": "June 10, 2007"
+        },
+        {
+            "Name": "HETE J1900.1-2455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "14:14-15:51 UT",
+            "Date": "June 12, 2007"
+        },
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Wijnands et al. 2001, ApJ 560",
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": "June 6, June 10, and June 12, 2007",
+    "Telescope": "Swift and RXTE",
+    "Instrument": "XRT and PCA",
+    "Observatory": null
+}

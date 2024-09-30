@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J160724.95-741542.0",
+            "RA": "16h 07m 24.95s",
+            "Dec": "-74d 15m 42.0s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-03-30.92497 UT",
+            "Date": "2015-03-30"
+        },
+        {
+            "Name": "MASTER OT J215602.73+470903.2",
+            "RA": "21h 56m 02.73s",
+            "Dec": "+47d 09m 03.2s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "2015-03-27.770UT",
+            "Date": "2015-03-27"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J160724.95-741542.0",
+            "Images": [
+                {
+                    "Date": "2015-03-03.954UT",
+                    "URL": "http://master.sai.msu.ru/static/OT/160724.95-741542.0.png"
+                },
+                {
+                    "Date": "2015-01-12.06541 UT",
+                    "URL": "http://master.sai.msu.ru/static/OT/160724.95-741542.0.png"
+                }
+            ]
+        },
+        {
+            "Name": "MASTER OT J215602.73+470903.2",
+            "Images": [
+                {
+                    "Date": "2015-02-18.871 UT",
+                    "URL": "http://master.sai.msu.ru/static/OT/MASTERJ215602.73+470903.2.jpg"
+                }
+            ]
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

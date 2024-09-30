@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ln",
+            "RA": "00:53:41.40",
+            "Dec": "+18:05:29.0",
+            "redshift": "0.015014",
+            "Type": "supernova",
+            "Time": "2015-06-19.58",
+            "Date": null
+        },
+        {
+            "Name": "UGC 00546",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015014",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "discovery",
+    "Time": "2015-06-19.58",
+    "Date": null,
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala"
+}

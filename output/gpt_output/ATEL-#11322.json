@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": "16:58:12.700",
+            "Dec": "-42:41:56.09",
+            "redshift": null,
+            "Type": [
+                "neutron star Be/X-ray binary",
+                "black hole X-ray binary"
+            ],
+            "Time": "19:48:29.9 UT to 02:29:09.9 UT",
+            "Date": "2018-02-17 to 2018-02-18"
+        },
+        {
+            "Name": "1934-638",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "primary flux calibrator",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1714-397",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "phase calibrator",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #22416",
+        "GCN #22417",
+        "ATel #11306",
+        "ATel #11311",
+        "ATel #11321",
+        "ATel #11307",
+        "ATel #11310",
+        "Juric et al 2008",
+        "McMillan 2011",
+        "Evans et al. 2009",
+        "Tetarenko at al. 2016"
+    ],
+    "Event Type": "Observation",
+    "Time": "19:48:29.9 UT to 02:29:09.9 UT",
+    "Date": "2018-02-17 to 2018-02-18",
+    "Telescope": "Australia Compact Telescope Array (ATCA)",
+    "Instrument": "Unknown",
+    "Observatory": "Unknown"
+}

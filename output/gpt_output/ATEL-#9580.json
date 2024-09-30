@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016gok (Gaia 16bjx)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.086,
+            "Type": "Ia",
+            "Time": "2016-09-23.77",
+            "Date": null
+        },
+        {
+            "Name": "SDSS J143241.36+520452.1",
+            "RA": "14h32m41.36s",
+            "Dec": "+52d04m52.1s",
+            "redshift": 0.086,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Yaron & Gal-Yam 2012, PASP, 124, 668",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "2016-09-30.86 UT",
+    "Date": null,
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

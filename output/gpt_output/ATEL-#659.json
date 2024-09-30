@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20051117-001",
+            "RA": "08:40:09.18",
+            "Dec": "-05:36:02.2",
+            "redshift": "0.016",
+            "Type": "Type IIn",
+            "Time": "November 17.5 UT",
+            "Date": "November 17, 2005"
+        },
+        {
+            "Name": "2MASX J08400884-0536039",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01698",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2005ki",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019607",
+            "Type": "Type Ia",
+            "Time": "November 20.6 UT",
+            "Date": "November 20, 2005"
+        },
+        {
+            "Name": "NGC 3332",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.019607",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Jones et al. 2005, The 6DF Galaxy Survey Data Release 2; Falco et al. 1999, PASP 111, 438",
+    "Event Type": "Discovery of Supernovae",
+    "Time": "November 17.5 UT",
+    "Date": "November 17, 2005",
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST II camera",
+    "Observatory": "Palomar Observatory"
+}

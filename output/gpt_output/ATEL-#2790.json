@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ROTSE3 J235704.6-341106",
+            "RA": "23h57m04s.57",
+            "Dec": "-34o11'05\".5",
+            "redshift": null,
+            "Type": "SN candidate",
+            "Time": "unknown",
+            "Date": "July 17.02 UT"
+        },
+        {
+            "Name": "6dFGS gJ235704.6-341105",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0470",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://www.rotse.net/rsvp/j235704.6-341106/j235704.6-341106.jpg",
+    "Event Type": "Discovery",
+    "Time": "unknown",
+    "Date": "July 17.02 UT",
+    "Telescope": "ROTSE-IIIc",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "H.E.S.S. site, Namibia"
+}

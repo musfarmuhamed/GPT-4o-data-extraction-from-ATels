@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent hard X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 168074",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B3 IV star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J18183790-1702479",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reddened early-type star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0729-0750578",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reddened early-type star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Grebenev & Sunyaev",
+            "Year": 2005,
+            "Reference": "Ast. Lett. 31, 672"
+        },
+        {
+            "Authors": "Sguera et al.",
+            "Year": 2005,
+            "Reference": "A&A 444, 221"
+        },
+        {
+            "Authors": "Smith et al.",
+            "Year": 2006,
+            "Reference": "ApJ 638, 982"
+        },
+        {
+            "Authors": "Pellizza et al.",
+            "Year": 2006,
+            "Reference": "astro-ph/0605559"
+        },
+        {
+            "Authors": "Negueruela et al.",
+            "Year": 2006,
+            "Reference": "ESA SP 604, 165"
+        }
+    ],
+    "Event Type": "Low resolution spectroscopy",
+    "Time": null,
+    "Date": "April 23rd 2006",
+    "Telescope": "VLT (UT1)",
+    "Instrument": "FORS2",
+    "Observatory": "ESO"
+}

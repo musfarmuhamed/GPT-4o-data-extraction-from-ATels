@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LMC Nova ASASSN-18pf",
+            "RA": "05:41:46.461",
+            "Dec": "-71:48:37.59",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Counterpart Source of LMC Nova ASASSN-18pf",
+            "RA": "85.44513",
+            "Dec": "-71.80994",
+            "redshift": null,
+            "Type": "FOIII - F5III star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Zaritsky et al. 1997; Clementini et al. 2003; Gaia Collaboration et al. 2018",
+    "Event Type": "Nova Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ASAS-SN",
+    "Instrument": null,
+    "Observatory": null
+}

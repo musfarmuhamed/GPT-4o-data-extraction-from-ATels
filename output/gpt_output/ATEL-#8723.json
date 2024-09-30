@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF16bs",
+            "RA": "01:10:59.19",
+            "Dec": "+20:51:23.1",
+            "redshift": "0.064",
+            "Type": "SN Ia",
+            "Time": "2016-02-07",
+            "Date": "2016-02-02.17"
+        },
+        {
+            "Name": "iPTF16ea",
+            "RA": "12:26:59.57",
+            "Dec": "+11:28:32.8",
+            "redshift": "0.120",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-02.54"
+        },
+        {
+            "Name": "iPTF16eu",
+            "RA": "07:52:21.12",
+            "Dec": "+12:03:29.3",
+            "redshift": "0.200",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-06.34"
+        },
+        {
+            "Name": "iPTF16fu",
+            "RA": "07:48:50.32",
+            "Dec": "-01:42:02.3",
+            "redshift": "0.029",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-09.29"
+        },
+        {
+            "Name": "iPTF16ig",
+            "RA": "07:53:56.65",
+            "Dec": "+33:01:00.5",
+            "redshift": "0.170",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-06.34"
+        },
+        {
+            "Name": "iPTF16jl",
+            "RA": "08:16:46.98",
+            "Dec": "+62:16:56.5",
+            "redshift": "0.120",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-10.37"
+        },
+        {
+            "Name": "iPTF16t",
+            "RA": "13:05:36.92",
+            "Dec": "+31:43:39.8",
+            "redshift": "0.140",
+            "Type": "SN Ia",
+            "Time": "2016-02-15",
+            "Date": "2016-02-03.51"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W, Yaron & Gal-Yam 2012",
+    "Event Type": "Discovery and classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "DCT, Keck1",
+    "Instrument": "Deveny, LMI, LRIS",
+    "Observatory": "Intermediate Palomar Transient Factory"
+}

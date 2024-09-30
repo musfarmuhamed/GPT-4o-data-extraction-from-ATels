@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "2018-08-06T09:36:00Z",
+            "Date": "2018-08-06"
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "Prentice et al. 2018, arXiv:1807.05965",
+        "Rivera Sandoval et al. 2018, arXiv:1807.06369",
+        "Perley et al. 2018, arXiv:1808.00969"
+    ],
+    "Event Type": "imaging",
+    "Time": "2018-08-06T09:36:00Z",
+    "Date": "2018-08-06",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Wide Field Camera 3 (WFC3)",
+    "Observatory": "Hubble Space Telescope"
+}

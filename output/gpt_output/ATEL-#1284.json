@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007pk",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016655,
+            "Type": "Type-IIn Supernova",
+            "Time": [
+                "2007-11-13.09",
+                "2007-11-14.04",
+                "2007-11-15.44",
+                "2007-11-16.04"
+            ],
+            "Date": [
+                "2007-11-13",
+                "2007-11-14",
+                "2007-11-15",
+                "2007-11-16"
+            ]
+        },
+        {
+            "Name": "NGC 579",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #1129",
+        "ATel #1271",
+        "Dickey & Lockman, 1990, ARAA 28",
+        "NED",
+        "Poole et al., 2007, MNRAS"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "2007-11-13.09",
+        "2007-11-14.04",
+        "2007-11-15.44",
+        "2007-11-16.04"
+    ],
+    "Date": [
+        "2007-11-13",
+        "2007-11-14",
+        "2007-11-15",
+        "2007-11-16"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

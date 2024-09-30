@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17mh (SN 2017guh)",
+            "RA": "05:03:13.145",
+            "Dec": "-22:49:59.17",
+            "redshift": 0.015427,
+            "Type": "SN",
+            "Time": "2017-09-18.32",
+            "Date": "2017-09-18"
+        },
+        {
+            "Name": "ASASSN-17mq (AT 2017gvo)",
+            "RA": "17:08:45.105",
+            "Dec": "+42:16:58.60",
+            "redshift": 0.054831,
+            "Type": "AT",
+            "Time": "2017-09-17.26",
+            "Date": "2017-09-17"
+        },
+        {
+            "Name": "ASASSN-17ms (SN 2017gvp)",
+            "RA": "23:41:46.776",
+            "Dec": "-01:21:02.56",
+            "redshift": 0.022529,
+            "Type": "SN",
+            "Time": "2017-09-23.49",
+            "Date": "2017-09-23"
+        }
+    ],
+    "References": "Shappee et al. 2014, GBMF5490, AST-1515927",
+    "Event Type": "Discovery",
+    "Time": "Ongoing",
+    "Date": "Null",
+    "Telescope": [
+        "14-cm 'Brutus' telescope",
+        "14-cm 'Cassius' telescope"
+    ],
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

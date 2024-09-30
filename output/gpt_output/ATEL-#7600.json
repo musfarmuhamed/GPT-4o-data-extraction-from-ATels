@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ki",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "hot blackbody with hydrogen absorption lines",
+            "Time": "5.3 UT",
+            "Date": "2015 June 5"
+        },
+        {
+            "Name": "Galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #7583",
+    "Event Type": "spectrum",
+    "Time": "5.3 UT",
+    "Date": "2015 June 5",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

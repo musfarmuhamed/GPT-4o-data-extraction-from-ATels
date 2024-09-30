@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18410-0535",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1841.0-0536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "18h41m00.43s",
+            "Dec": "-05d35'46.5\"",
+            "redshift": null,
+            "Type": "Be star counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Rodriguez et al. (ATEL #340)",
+        "Halpern et al., ATEL #289"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00434212+4122349",
+            "RA": "0h43m42s.12",
+            "Dec": "+41o22'34\".9",
+            "redshift": null,
+            "Type": "Probable nova",
+            "Time": "19.055",
+            "Date": "2018-05-19"
+        },
+        {
+            "Name": "AT2018bto",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Probable nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "E. Conseil",
+    "Event Type": "Discovery",
+    "Time": "19.055",
+    "Date": "2018-05-19",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

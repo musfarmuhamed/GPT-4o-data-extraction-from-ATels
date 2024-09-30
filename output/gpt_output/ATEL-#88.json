@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB020406",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma ray burst",
+            "Time": "2002 April 6.76268",
+            "Date": "2002-04-06"
+        },
+        {
+            "Name": "2E1859.1+0122",
+            "RA": "19h01m40.2s",
+            "Dec": "+1 27' 13''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1901+014",
+            "RA": "19h01m36s",
+            "Dec": "+1 26'.4",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "1997 June 21.215",
+            "Date": "1997-06-21"
+        },
+        {
+            "Name": "V4641 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar and black hole binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "K. Hurley, private communication; Hertz and Grindlay 1988, AJ, 96, 233",
+    "Event Type": "fast X-ray transient",
+    "Time": "2002 April 6.76268",
+    "Date": "2002-04-06",
+    "Telescope": "RXTE All-Sky Monitor",
+    "Instrument": "ASM",
+    "Observatory": "RXTE"
+}

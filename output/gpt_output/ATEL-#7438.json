@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J155021.51+484836.6",
+            "RA": "15h 50m 21.51s",
+            "Dec": "+48d 48m 36.6s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "19:37:58",
+            "Date": "2015-04-19"
+        },
+        {
+            "Name": "MASTER OT J003026.72+475624.0",
+            "RA": "00h 30m 26.72s",
+            "Dec": "+47d 56m 24.0s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "19:21:35",
+            "Date": "2015-04-22"
+        },
+        {
+            "Name": "MASTER OT J224751.44+364320.8",
+            "RA": "22h 47m 51.44s",
+            "Dec": "+36d 43m 20.8s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "20:50:30",
+            "Date": "2015-04-15"
+        },
+        {
+            "Name": "MASTER OT J103930.78-050340.1",
+            "RA": "10h 39m 30.78s",
+            "Dec": "-05d 03m 40.1s",
+            "redshift": null,
+            "Type": "UVCet type flare",
+            "Time": "13:19:06",
+            "Date": "2015-04-18"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

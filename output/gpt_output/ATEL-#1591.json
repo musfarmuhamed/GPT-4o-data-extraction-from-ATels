@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m27.81s",
+            "Dec": "+41d14'48.2\"",
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "00:11",
+            "Date": "2008-06-26"
+        }
+    ],
+    "References": [
+        {
+            "Name": "Massey et al. 2006, AJ 131, 2478"
+        },
+        {
+            "Name": "USNO-B1 catalogue"
+        },
+        {
+            "Name": "http://scully.harvard.edu/~cgi/CheckMP"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "00:11",
+    "Date": "2008-06-26",
+    "Telescope": "0.45m f/2.8 reflector",
+    "Instrument": "SBIG STL-11000M CCD Camera",
+    "Observatory": "Observatorio de La Sagra, Spain"
+}

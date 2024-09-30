@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": "277.241958",
+            "Dec": "-25.029412",
+            "redshift": "Null",
+            "Type": "Galactic Black Hole X-ray Binary",
+            "Time": "19:52UT",
+            "Date": "October 16th, 2013"
+        }
+    ],
+    "References": [
+        "Nakahira et al, ATEL #5474",
+        "Kennea et al, ATEL #5478",
+        "Kennea et al., 2011, ApJ, 736, 22",
+        "Kuulkers et al., 2013, A&A, 552, 32",
+        "Filippova et al., ATEL #5476"
+    ],
+    "Event Type": "UV and X-ray observation",
+    "Time": "19:52UT",
+    "Date": "October 16th, 2013",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT in Windowed Timing (WT) mode",
+        "UVOT with uvm2 filter"
+    ],
+    "Observatory": "Null"
+}

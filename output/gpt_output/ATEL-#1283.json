@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MXB 0656-072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent X-ray transient pulsar",
+            "Time": [
+                "54418.233",
+                "54419.488"
+            ],
+            "Date": [
+                "2007-11-14",
+                "2007-11-15"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #1281",
+        "McBride et al., 2006, A&A, 451, 267"
+    ],
+    "Event Type": "detection of a new outburst",
+    "Time": [
+        "Starting from 54418.233",
+        "Starting from 54419.488"
+    ],
+    "Date": [
+        "2007-11-14",
+        "2007-11-15"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": "RXTE"
+}

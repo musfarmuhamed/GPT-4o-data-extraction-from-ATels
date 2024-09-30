@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AP Lib",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.049,
+            "Type": "BL Lac type object",
+            "Time": null,
+            "Date": "June and July 2010"
+        },
+        {
+            "Name": "1FGL J1517.8-2423",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al., 2010, ApJS, 188, 405",
+        "Ciliegi, P. et al., ApJ 439, 80",
+        "Tavecchio et al., 2010, MNRAS, 401, 1570"
+    ],
+    "Event Type": "Observation",
+    "Time": "~8h",
+    "Date": "June and July 2010",
+    "Telescope": "H.E.S.S.",
+    "Instrument": null,
+    "Observatory": "Khomas highlands in Namibia"
+}

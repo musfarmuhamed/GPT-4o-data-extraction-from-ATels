@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2S 1417-624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary and binary pulsar",
+            "Time": null,
+            "Date": "14-Oct-2009"
+        },
+        {
+            "Name": "H 1417-624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Beklen & Finger, ATel #2275",
+        "M. Finger, ATel #52",
+        "A. Manousakis et al, ATel #1613"
+    ],
+    "Event Type": "brightening",
+    "Time": null,
+    "Date": "14-Oct-2009",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "RXTE All-Sky Monitor"
+    ],
+    "Observatory": null
+}

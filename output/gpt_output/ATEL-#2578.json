@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Comet P/2010 H2",
+            "RA": "13h 39m 33.68s",
+            "Dec": "+04d 45' 41.4\"",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": "19:44:12",
+            "Date": "2010-04-15"
+        },
+        {
+            "Name": "Comet P/2010 H2",
+            "RA": "13h 39m 25.17s",
+            "Dec": "+04d 45' 49.5\"",
+            "redshift": null,
+            "Type": "Comet",
+            "Time": null,
+            "Date": "2010-04-16"
+        }
+    ],
+    "References": "Lipunov et al., 2010, Advances in Astronomy, vol. 2010, pp. 1-7; Vales, CBET #2249; R. A. Kowalski, CBET #2249",
+    "Event Type": "Prediscovery Images",
+    "Time": "13:20:29",
+    "Date": "2010-04-15",
+    "Telescope": "0.60-m f/3.3 Deltagraph",
+    "Instrument": "Wide Field Camera",
+    "Observatory": [
+        "MASTER-Kislovodsk",
+        "MASTER-Blagoveschensk",
+        "Catalina Sky Survey",
+        "Crni Vrh Observatory"
+    ]
+}

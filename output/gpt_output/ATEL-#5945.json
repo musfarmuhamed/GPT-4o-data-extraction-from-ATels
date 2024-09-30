@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J111920.95+724857.3",
+            "RA": "11h 19m 20.95s",
+            "Dec": "+72d 48m 57.3s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-03-03.60984",
+            "Date": "2014-03-03"
+        },
+        {
+            "Name": "PGC 34635",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0222",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/111920.95724857.3.png",
+    "Event Type": "discovery",
+    "Time": "2014-03-03.60984",
+    "Date": "2014-03-03",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

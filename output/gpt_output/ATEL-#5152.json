@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13bvn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ib supernova",
+            "Time": "00:00:00 UT",
+            "Date": "2013-07-19"
+        },
+        {
+            "Name": "star 3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "WR star",
+            "Time": "00:00:00 UT",
+            "Date": "2005-03-10"
+        }
+    ],
+    "References": [
+        "ATels #5137",
+        "#5142",
+        "#5140",
+        "#5151"
+    ],
+    "Event Type": "imaging",
+    "Time": "00:00:00 UT",
+    "Date": "2013-07-19",
+    "Telescope": "Keck I Telescope",
+    "Instrument": "OSIRIS Imager",
+    "Observatory": "W. M. Keck Observatory"
+}

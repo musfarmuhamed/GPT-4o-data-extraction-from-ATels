@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 676 (TXS 2159+505)",
+            "RA": "22h01m43.54s",
+            "Dec": "+50d48m56.4s",
+            "redshift": "Null",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "WISE J220143.53+504856.5",
+            "RA": "22h01m43.53s (330.4313821 deg)",
+            "Dec": "+50d48m56.55s (+50.8157091 deg)",
+            "redshift": "Null",
+            "Type": "gamma-ray blazar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATEL #4182",
+        "Wright et al. 2010 AJ, 140, 1868",
+        "Massaro, F. et al. 2011 ApJ, 740L, 48",
+        "Massaro, F. et al. 2012 ApJ, 752, 61",
+        "Beasley et al. (2002, ApJS, 141, 13)",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. 2012 ApJ, 750, 138",
+        "Massaro, F., et al. 2012 ApJ, 750L, 35"
+    ],
+    "Event Type": "gamma-ray flaring",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18zi",
+            "RA": "04:29:27.071",
+            "Dec": "-47:04:23.36",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2018-11-06.21",
+            "Date": "2018-11-06"
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "discovery",
+    "Time": "2018-11-06.21",
+    "Date": "2018-11-06",
+    "Telescope": [
+        "quadruple 14-cm \"Payne-Gaposchkin\"",
+        "quadruple 14-cm \"Cassius\"",
+        "quadruple 14-cm \"Paczynski\""
+    ],
+    "Instrument": "Camera 3",
+    "Observatory": [
+        "Sutherland, South Africa",
+        "Cerro Tololo, Chile"
+    ]
+}

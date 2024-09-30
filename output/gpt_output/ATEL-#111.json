@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1450-603",
+            "RA": "14h50m16s",
+            "Dec": "-60o16'",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": "Nov 15.5 and 20.2 (UT)"
+        },
+        {
+            "Name": "Circinus X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "C. B. Markwardt, F. E. Marshall and J. H. Swank",
+    "Event Type": "Discovery",
+    "Time": "Nov 15.5 and 20.2 (UT), Nov 24.7, Nov 27.9",
+    "Date": "Nov 15.5 and 20.2, Nov 24.7, Nov 27.9",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": "Goddard Space Flight Center"
+}

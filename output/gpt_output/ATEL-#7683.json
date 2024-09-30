@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15asb",
+            "RA": "14 20 20.32",
+            "Dec": "-09 18 03.2",
+            "redshift": 0.03,
+            "Type": "SNIa",
+            "Time": "2015-06-19.35",
+            "Date": "20150610"
+        },
+        {
+            "Name": "PS15aph",
+            "RA": "15 00 50.02",
+            "Dec": "+26 56 34.4",
+            "redshift": 0.06,
+            "Type": "SNIa",
+            "Time": "2015-06-10.28",
+            "Date": "20150603"
+        }
+    ],
+    "References": "Huber et al., ATel #7153; http://star.pst.qub.ac.uk/ps1threepi/",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "UH 2.2m",
+    "Instrument": "SNIFS spectrograph",
+    "Observatory": null
+}

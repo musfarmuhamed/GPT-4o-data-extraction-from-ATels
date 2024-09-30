@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ml",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0266",
+            "Type": "Type II SN",
+            "Time": "00:00",
+            "Date": "2016-10-31"
+        },
+        {
+            "Name": "AT2016hpt",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": "00:00",
+            "Date": "2016-10-31"
+        },
+        {
+            "Name": "AT2016hmq",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": "00:00",
+            "Date": "2016-10-31"
+        },
+        {
+            "Name": "PS16esl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": "00:00",
+            "Date": "2016-10-31"
+        },
+        {
+            "Name": "GALEXASC J215436.98-425103.9",
+            "RA": "21:54:36.98",
+            "Dec": "-42:51:03.9",
+            "redshift": "0.0266",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9697",
+        "ATel #9686"
+    ],
+    "Event Type": "Optical Spectra Acquisition",
+    "Time": "00:00",
+    "Date": "2016-10-31",
+    "Telescope": "du Pont 2.5m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

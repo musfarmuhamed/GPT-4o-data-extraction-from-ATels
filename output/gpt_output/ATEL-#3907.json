@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15h 12m 50.5s",
+            "Dec": "-09d 05m 59.8s",
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00",
+            "Date": "2012-01-28"
+        },
+        {
+            "Name": "BZQ J1512-0905",
+            "RA": "15h 12m 50.5s",
+            "Dec": "-09d 05m 59.8s",
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "12:00",
+            "Date": "2012-01-28"
+        }
+    ],
+    "References": "ATel #3799 (P. P. Beaklini et al.)",
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": "12:00",
+    "Date": "2012-01-28",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

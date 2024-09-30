@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQ J1146+3958",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.09",
+            "Type": "quasar",
+            "Time": "undefined",
+            "Date": "Jan 8, 2014"
+        },
+        {
+            "Name": "CGRaBSJ1146+3958",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "undefined",
+            "Date": "Jan 8, 2014"
+        },
+        {
+            "Name": "2FGLJ1146.9+4000",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "JD2456665.0113, JD2456463, JD 2455704",
+    "Event Type": "NIR flare",
+    "Time": null,
+    "Date": "Jan 8, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J103625.83-360228.3",
+            "RA": "10h 36m 25.83s",
+            "Dec": "-36d 02m 28.3s",
+            "redshift": "Null",
+            "Type": "OT",
+            "Time": "18:10:36.201",
+            "Date": "2017-05-22"
+        },
+        {
+            "Name": "MASTER OT J171752.02-070654.6",
+            "RA": "17h 17m 52.02s",
+            "Dec": "-07d 06m 54.6s",
+            "redshift": "Null",
+            "Type": "dwarf nova outburst",
+            "Time": "21:40:36.201",
+            "Date": "2017-05-19"
+        },
+        {
+            "Name": "MASTER OT J082736.60+662332.6",
+            "RA": "08h 27m 36.60s",
+            "Dec": "+66d 23m 32.6s",
+            "redshift": "Null",
+            "Type": "UVCet flare",
+            "Time": "23:19:01.984",
+            "Date": "2017-05-06"
+        }
+    ],
+    "References": [
+        {
+            "Discovery Reference": "http://master.sai.msu.ru/static/OT/103625.83-360228.3.png",
+            "Reference Image": [
+                {
+                    "Date": "2017-04-19",
+                    "Time": "01:25:52"
+                },
+                {
+                    "Date": "2014-12-24",
+                    "Time": "00:01:34.218"
+                }
+            ]
+        },
+        {
+            "Discovery Reference": "http://master.sai.msu.ru/static/OT/171752.02-070654.6.png",
+            "Reference Image": [
+                {
+                    "Date": "2016-04-18",
+                    "Time": "23:55:22.941"
+                }
+            ]
+        },
+        {
+            "Discovery Reference": "http://master.sai.msu.ru/static/OT/MASTEROTJ082736.60+662332.6.gif",
+            "Reference Image": "Null"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "MASTER Global Robotic Net"
+}

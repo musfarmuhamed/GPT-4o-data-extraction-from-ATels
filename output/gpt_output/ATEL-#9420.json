@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jj",
+            "RA": "234711.91",
+            "Dec": "+100459",
+            "redshift": "0.034",
+            "Type": "SN Ia",
+            "Time": "2016-08-27.87",
+            "Date": "2016-08-27"
+        },
+        {
+            "Name": "SN 2016flu",
+            "RA": "234711.91",
+            "Dec": "+100459",
+            "redshift": "0.034",
+            "Type": "SN Ia",
+            "Time": "2016-08-27.87",
+            "Date": "2016-08-27"
+        },
+        {
+            "Name": "SDSS J234711.91+100459",
+            "RA": "234711.91",
+            "Dec": "+100459",
+            "redshift": "0.034",
+            "Type": "Host galaxy",
+            "Time": "2016-08-27.87",
+            "Date": "2016-08-27"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2016-08-27.87",
+    "Date": "2016-08-27",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC (range 340-820 nm; resolution 1.4 nm)",
+    "Observatory": "Padova-Asiago"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bs (AT 2017yh)",
+            "RA": "17:52:06.131",
+            "Dec": "+21:33:57.82",
+            "redshift": "0.020401",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-01-30.66"
+        },
+        {
+            "Name": "ASASSN-17bt (AT 2017yt)",
+            "RA": "09:44:11.460",
+            "Dec": "+32:50:36.53",
+            "redshift": "0.045336",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-01-31.45"
+        }
+    ],
+    "References": "Chambers et al. 2016, arXiv:1612.05560",
+    "Event Type": "transient",
+    "Time": "Null",
+    "Date": "Multiple Dates (within text)",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

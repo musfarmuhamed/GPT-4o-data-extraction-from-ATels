@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER064738.82+4557.5",
+            "RA": "06h 47m 38.82s",
+            "Dec": "+45d 57m 42.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-11-04.97 UT",
+            "Date": "2011-11-04"
+        },
+        {
+            "Name": "MASTER031116.23+3705.7",
+            "RA": "03h 11m 16.23s",
+            "Dec": "+37d 05m 02s.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-11-07.75 UT",
+            "Date": "2011-11-07"
+        },
+        {
+            "Name": "MASTER225614.61+3808.3",
+            "RA": "22h 56m 14.61s",
+            "Dec": "+38d 08m 15s.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-11-04.69 UT",
+            "Date": "2011-11-04"
+        },
+        {
+            "Name": "MASTER024849.60-0804.0",
+            "RA": "02h 48m 49.60s",
+            "Dec": "-08d 04m 30s.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "2011-10-29.87 UT",
+            "Date": "2011-10-29"
+        }
+    ],
+    "References": [
+        "http://observ.pereplet.ru/images/OT064738+4557/OT064738+4557.png",
+        "http://observ.pereplet.ru/images/OT031116+3705/OT031116+3705.png",
+        "http://observ.pereplet.ru/images/OT225614+3808/OT225614+3808.png",
+        "http://observ.pereplet.ru/images/OT024849-0804/OT024849-0804.png"
+    ],
+    "Event Type": "OT detections",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-Kislovodsk"
+}

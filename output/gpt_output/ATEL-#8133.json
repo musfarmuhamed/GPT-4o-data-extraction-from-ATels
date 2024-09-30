@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V5668 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "super-soft X-ray phase",
+            "Date": "2015-08-30"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KT Eri",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #7643",
+        "ATEL #7862",
+        "ATEL #7283",
+        "ATEL #7315",
+        "ATEL #8054",
+        "Osborne et al. 2011 ApJ 727, 124",
+        "Ness et al. 2007 ApJ 665 1334",
+        "ATEL #2423",
+        "ATEL #5573",
+        "Ness et al. 2015, A&A, 578, A39"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2015-08-30",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

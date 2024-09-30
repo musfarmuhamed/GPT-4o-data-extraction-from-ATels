@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ji",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.080",
+            "Type": "AGN",
+            "Time": "2016-08-25.98",
+            "Date": "2016-08-25"
+        },
+        {
+            "Name": "AT 2016fio",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J201155.52+811602.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS16dtm",
+            "RA": "SDSS J233345.91+253350.7",
+            "Dec": null,
+            "redshift": "0.080",
+            "Type": "SN II",
+            "Time": "2016-08-26.02",
+            "Date": "2016-08-12"
+        },
+        {
+            "Name": "SN 2016ezh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia16bbt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032",
+            "Type": "SN II",
+            "Time": "2016-08-26.10",
+            "Date": "2016-08-18"
+        },
+        {
+            "Name": "SN 2016fee",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "anonymous host galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Berton et al. 2015, A&A, 578, 28; Benetti et al 2016, MNRAS 456, 3296; Smartt et al. 2001, ApJ 556L, 25S; Harutyunyan et al. 2008, A&A, 488, 383; Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

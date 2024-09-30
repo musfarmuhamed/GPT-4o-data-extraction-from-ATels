@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15kn",
+            "RA": "12:41:50.55",
+            "Dec": "-07:10:11.91",
+            "redshift": "0.024734",
+            "Type": "supernova",
+            "Time": "2015-06-07.09",
+            "Date": "2015-06-07"
+        },
+        {
+            "Name": "PGC 042600",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024734",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NED",
+    "Event Type": "discovery",
+    "Time": "2015-06-07.09",
+    "Date": "2015-06-07",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

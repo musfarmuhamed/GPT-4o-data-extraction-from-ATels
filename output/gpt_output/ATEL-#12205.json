@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2018 Nov 06.0 UT - Nov 09.5 UT",
+            "Date": "2018-11-06 to 2018-11-09"
+        }
+    ],
+    "References": [
+        "#12177",
+        "#12181",
+        "#12182",
+        "#12189",
+        "#12190",
+        "#12195",
+        "#12200",
+        "#12203",
+        "#12204"
+    ],
+    "Event Type": "eruption",
+    "Time": "Nov 06.0 UT - Nov 09.5 UT",
+    "Date": "2018-11-06 to 2018-11-09",
+    "Telescope": [
+        {
+            "Name": "SARA telescopes",
+            "Details": "0.96 m and 1.0 m"
+        }
+    ],
+    "Instrument": [
+        "ARC CCD camera",
+        "Andor camera"
+    ],
+    "Observatory": [
+        "Kitt Peak National Observatory (SARA-KPNO), Arizona",
+        "Roque de los Muchachos, La Palma, Spain (SARA-ORM)"
+    ]
+}

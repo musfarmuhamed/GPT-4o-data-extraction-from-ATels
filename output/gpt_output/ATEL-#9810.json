@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova SMC 2016",
+            "RA": "J010603.18",
+            "Dec": "-744715.8",
+            "redshift": null,
+            "Type": "Supersoft X-ray source",
+            "Time": "Approximately 8 hours and 20 minutes",
+            "Date": "2017-11-17 to 2017-11-18"
+        }
+    ],
+    "References": [
+        "ATel #9621",
+        "ATel #9733"
+    ],
+    "Event Type": "Observation",
+    "Time": "Approximately 8 hours and 20 minutes",
+    "Date": "2017-11-17 to 2017-11-18",
+    "Telescope": "Chandra",
+    "Instrument": [
+        "High Resolution Camera (HRC-S)",
+        "Low Energy Transmission Grating (LETG)"
+    ],
+    "Observatory": null
+}

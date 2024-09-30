@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AC 211 or M15 X-2",
+            "RA": "21:29:57.9",
+            "Dec": "+12:10:06",
+            "redshift": null,
+            "Type": "LMXBs",
+            "Time": "03:44 UT",
+            "Date": "May 18"
+        },
+        {
+            "Name": "M15 X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very faint transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 1851",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #3356, White Angelini 2001, ApJ, 561, L101; Heinke et al. 2009, ApJ, 692, 584; Dieball et al. 2005, ApJ, 634, L105; Maccarone et al. 2010, MNRAS, 406, 2087",
+    "Event Type": "recent flux increase and two X-ray bursts",
+    "Time": "03:44 UT",
+    "Date": "May 18",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18aih",
+            "RA": "12:49:24.06",
+            "Dec": "-46:55:39.25",
+            "redshift": 0.04,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia18ahu",
+            "RA": "13:26:11.76",
+            "Dec": "-44:26:30.26",
+            "redshift": 0.035,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients from spectroscopic observations",
+    "Time": null,
+    "Date": "2018 Feb 8",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR)"
+}

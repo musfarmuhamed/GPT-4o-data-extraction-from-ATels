@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black-hole binary",
+            "Time": "05:19:52",
+            "Date": "2015-12-23"
+        }
+    ],
+    "References": [
+        "ATel #8453",
+        "ATel #8454",
+        "ATel #8455",
+        "ATel #8457",
+        "GCN Circ. 18716",
+        "ATel #7959",
+        "Bernardini and Cackett 2014 MNRAS 439 2771",
+        "ATel #7763",
+        "ATel #7736"
+    ],
+    "Event Type": "Renewed activity detection",
+    "Time": "05:19:52",
+    "Date": "2015-12-23",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Swift, INTEGRAL, Fermi, NuStar"
+}

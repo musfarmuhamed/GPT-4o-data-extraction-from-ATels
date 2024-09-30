@@ -1,0 +1,160 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0516.5-5179",
+            "RA": "05 16 38.60",
+            "Dec": "-51 46 43.5",
+            "redshift": "0.2220",
+            "Type": "Sey1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J0656.0-6560",
+            "RA": "06 56 31.1",
+            "Dec": "-65 33 44.5",
+            "redshift": "0.0295",
+            "Type": "Sey1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J0722.6+3051",
+            "RA": "07 22 17.4",
+            "Dec": "+30 30 52.0",
+            "redshift": "0.1000",
+            "Type": "Sey1.5",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J0836.7+4442",
+            "RA": "08 36 58.3",
+            "Dec": "+44 26 12.5",
+            "redshift": "0.2544",
+            "Type": "Sey1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1046.7+5469",
+            "RA": "10 47 05.4",
+            "Dec": "+54 44 12.0",
+            "redshift": "0.2148",
+            "Type": "QSO",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1105.4+0200A",
+            "RA": "11 05 40.7",
+            "Dec": "+02 02 45.0",
+            "redshift": "0.10559",
+            "Type": "BL Lac",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1105.4+0200B",
+            "RA": "11 05 28.6",
+            "Dec": "+02 05 26.0",
+            "redshift": "0.2470",
+            "Type": "Sey2",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1153.9+5848",
+            "RA": "11 53 23.4",
+            "Dec": "+58 31 59.0",
+            "redshift": "0.20237",
+            "Type": "Sey1.5",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1254.9+1165",
+            "RA": "12 54 38.5",
+            "Dec": "+11 41 05.0",
+            "redshift": "0.8724",
+            "Type": "FSRQ",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1521.6+3204",
+            "RA": "15 21 36.8",
+            "Dec": "+32 06 41.0",
+            "redshift": "0.1117",
+            "Type": "Sey1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1609.9-6371",
+            "RA": "16 10 17.3",
+            "Dec": "-63 42 34.5",
+            "redshift": "0.2094",
+            "Type": "Sey1.5",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1909.4-6245",
+            "RA": "19 09 37.0",
+            "Dec": "-62 28 53.0",
+            "redshift": "0.0850",
+            "Type": "Sey1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1909.5+4097",
+            "RA": "19 09 51.5",
+            "Dec": "+40 58 45.0",
+            "redshift": "Null",
+            "Type": "AGN cand",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J2055.4+0228",
+            "RA": "20 55 22.8",
+            "Dec": "+02 21 18.5",
+            "redshift": "0.0136",
+            "Type": "NLS1",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J0205.5-0255",
+            "RA": "02 05 19.8",
+            "Dec": "-02 33 08.0",
+            "redshift": "0.0283",
+            "Type": "Sey1.9",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SWIFT J1909.3+0124",
+            "RA": "19 09 21.08",
+            "Dec": "+01 12 24.5",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Oh et al. 2018, ApJS in press",
+        "Voges et al. 1999, A&A, 349, 389",
+        "Saxton et al. 2008, A&A, 480, 611",
+        "Atel #11340"
+    ],
+    "Event Type": "X-ray counterparts identification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Swift/BAT",
+    "Instrument": "XRT",
+    "Observatory": "Null"
+}

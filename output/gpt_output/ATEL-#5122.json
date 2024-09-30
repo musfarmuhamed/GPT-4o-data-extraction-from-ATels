@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J210334.55+234128.9",
+            "RA": "21h 03m 34.55s",
+            "Dec": "+23d 41m 28.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2013-06-09.73351 UT",
+            "Date": "2013-06-09"
+        },
+        {
+            "Name": "USNO-A2.0 1125-17740099",
+            "RA": "21 03 34.58",
+            "Dec": "+23 41 29.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1136-0515396",
+            "RA": "21 03 34.572",
+            "Dec": "+23 41 28.71",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J210334.57+234128.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J210334.6+234128",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 21033457+2341283",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J164601.94+062759.3",
+            "RA": "16h 46m 01.94s",
+            "Dec": "+06d 27m 59.3s",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2013-06-10.70100 UT",
+            "Date": "2013-06-10"
+        }
+    ],
+    "References": "List of Optical Transients discovered by MASTER Global MASTER Robotic Net",
+    "Event Type": [
+        "discovery",
+        "outburst"
+    ],
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Tunka",
+        "MASTER-Amur",
+        "MASTER-Kislovodsk"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-Tunka",
+        "MASTER-Amur",
+        "MASTER-Kislovodsk"
+    ]
+}

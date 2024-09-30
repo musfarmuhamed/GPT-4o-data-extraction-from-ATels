@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15bgs",
+            "RA": "00:15:59.06",
+            "Dec": "+29:49:11.6",
+            "redshift": 0.09,
+            "Type": "SN Ia",
+            "Time": "2015-06-13.46",
+            "Date": "2015-06-14"
+        },
+        {
+            "Name": "iPTF15bgx",
+            "RA": "16:22:05.54",
+            "Dec": "+37:19:19.9",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "2015-06-13.40",
+            "Date": "2015-06-14"
+        },
+        {
+            "Name": "iPTF15bgy",
+            "RA": "15:26:36.60",
+            "Dec": "+22:17:03.9",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "2015-06-13.25",
+            "Date": "2015-06-14"
+        },
+        {
+            "Name": "iPTF15bii",
+            "RA": "16:59:29.21",
+            "Dec": "+42:11:42.3",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "2015-06-15.42",
+            "Date": "2015-06-16"
+        },
+        {
+            "Name": "iPTF15biq",
+            "RA": "15:13:32.82",
+            "Dec": "+19:28:35.1",
+            "redshift": 0.08,
+            "Type": "SN Ia",
+            "Time": "2015-06-16.30",
+            "Date": "2015-06-17"
+        },
+        {
+            "Name": "iPTF15biw",
+            "RA": "16:33:04.45",
+            "Dec": "+20:56:51.8",
+            "redshift": 0.21,
+            "Type": "SN Ia",
+            "Time": "2015-06-16.42",
+            "Date": "2015-06-19"
+        },
+        {
+            "Name": "iPTF15bjb",
+            "RA": "16:36:42.42",
+            "Dec": "+39:56:59.0",
+            "redshift": 0.18,
+            "Type": "SN Ia",
+            "Time": "2015-06-16.39",
+            "Date": "2015-06-17"
+        },
+        {
+            "Name": "iPTF15bje",
+            "RA": "17:25:14.34",
+            "Dec": "+56:22:09.8",
+            "redshift": 0.15,
+            "Type": "SN Ia",
+            "Time": "2015-06-16.44",
+            "Date": "2015-06-17"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W, ATel #7112, Yaron & Gal-Yam 2012, Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Type Ia SNe",
+    "Time": "Various",
+    "Date": "Various",
+    "Telescope": "Various",
+    "Instrument": "Various",
+    "Observatory": "Various"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AS 338",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MWC 560",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schulte-Ladbeck 1985, Msngr 39, 3",
+        "Munari 1992, A&A 257, 163",
+        "Allen 1984, PASAu 5, 369",
+        "Munari et al. 2016, NewA 49, 43"
+    ],
+    "Event Type": "Outburst",
+    "Time": "V=11.863, R=11.080, I=10.287 on Dec 19.7 (UT)",
+    "Date": "2017 Dec 19.7",
+    "Telescope": "Asiago 1.22m and Varese 0.61m telescopes",
+    "Instrument": null,
+    "Observatory": "ANS Collaboration"
+}

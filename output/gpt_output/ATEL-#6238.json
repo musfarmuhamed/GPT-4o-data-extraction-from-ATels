@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGLJ1553.4-2425",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "JD 2456805.7865",
+            "Date": "May 28th, 2014"
+        },
+        {
+            "Name": "PKS1550-242",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "JD 2456805.7865",
+            "Date": "May 28th, 2014"
+        }
+    ],
+    "References": [
+        "ATEL #2726",
+        "ATEL #3332",
+        "ATEL #4966"
+    ],
+    "Event Type": "outburst",
+    "Time": "JD 2456805.7865",
+    "Date": "May 28th, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

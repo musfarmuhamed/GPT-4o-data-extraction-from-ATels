@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SPIRITS17lb",
+            "RA": "06:16:27.78",
+            "Dec": "-21:22:51.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "28.69",
+            "Date": "2017-05-28"
+        },
+        {
+            "Name": "IC 2163",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.009223",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #10488",
+    "Event Type": "discovery",
+    "Time": "28.69",
+    "Date": "2017-05-28",
+    "Telescope": "Spitzer Space Telescope, 60-inch telescope",
+    "Instrument": "Infrared Array Camera (IRAC), GRBCam",
+    "Observatory": "Palomar Observatory"
+}

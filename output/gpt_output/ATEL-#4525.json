@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J03333599-3607377",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "Type Ia Supernova",
+            "Time": "00:31.8",
+            "Date": "2012-10-28"
+        },
+        {
+            "Name": "NGC 1365",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Klotz & Conseil ATel #4523; Dopita et al., 2007, ApSS, 310, 255; Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "Observation",
+    "Time": "00:31.8",
+    "Date": "2012-10-28",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW, Australia"
+}

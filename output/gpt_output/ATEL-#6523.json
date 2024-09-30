@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14fmc",
+            "RA": "21:28:48.28",
+            "Dec": "+09:37:31.2",
+            "redshift": 0.178,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-14"
+        },
+        {
+            "Name": "LSQ14foy",
+            "RA": "00:51:49.27",
+            "Dec": "-59:55:00.5",
+            "redshift": 0.111,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-29"
+        },
+        {
+            "Name": "LSQ14fhz",
+            "RA": "00:20:15.10",
+            "Dec": "+02:22:47.2",
+            "redshift": 0.114,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-15"
+        },
+        {
+            "Name": "CSS140925-011731+054106",
+            "RA": "01:17:30.61",
+            "Dec": "+05:41:05.7",
+            "redshift": 0.151,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-09-25"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2014-09-30",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

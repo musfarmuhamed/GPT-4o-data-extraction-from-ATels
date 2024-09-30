@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown X-ray source",
+            "RA": "00h 32m 34.72s",
+            "Dec": "-73d 06m 49.14s",
+            "redshift": null,
+            "Type": "background AGN?",
+            "Time": "44 times over the period MJD 57547 - 57624",
+            "Date": "17 and 11 August 2016"
+        }
+    ],
+    "References": "Kennea et al ATel #9299, Maccacaro et al 1988 ApJ 680, 690",
+    "Event Type": "persistent X-ray source detection",
+    "Time": "44 times over the period MJD 57547 - 57624",
+    "Date": "17 July 2016, 11 August 2016",
+    "Telescope": "Swift, NuSTAR, Chandra",
+    "Instrument": "XRT (Swift), unspecified for NuSTAR and Chandra",
+    "Observatory": "SMC (S-CUBED)"
+}

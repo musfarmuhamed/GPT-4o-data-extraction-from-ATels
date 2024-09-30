@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12dam",
+            "RA": "14:24:46.20",
+            "Dec": "+46:13:48.3",
+            "redshift": "0.107",
+            "Type": "optical transient",
+            "Time": "about 20",
+            "Date": "2012 Apr 10"
+        },
+        {
+            "Name": "host galaxy (from emission lines)",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.107",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Law et al., 2009; Rau et al., 2009; Quimby et al. 2011",
+    "Event Type": "discovery",
+    "Time": "Null",
+    "Date": "2012 Apr 10",
+    "Telescope": "Palomar Oschin 1.2m, Lick 3m, Keck 10m",
+    "Instrument": "R-band magnitude, Kast Spectrograph, LRIS",
+    "Observatory": "Swift, HST"
+}

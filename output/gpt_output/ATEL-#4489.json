@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OTJ092437.95 +49212.0",
+            "RA": "09h24m37.95s",
+            "Dec": "+49d21'32.0\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2012fg",
+            "RA": "09h24m38s.05",
+            "Dec": "+49d21'34\"",
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "20:36:17",
+            "Date": "2012-10-15"
+        },
+        {
+            "Name": "SN 2012fg",
+            "RA": "09h24m38s.05",
+            "Dec": "+49d21'34\"",
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "00:31:30",
+            "Date": "2012-10-15"
+        }
+    ],
+    "References": [
+        "ATel #4459",
+        "ATel #4466",
+        "CBET #3253"
+    ],
+    "Event Type": "Supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Kislovodsk",
+        "MASTER-Amur"
+    ],
+    "Instrument": "0.40-m f/2.5 reflector + 4Kx4K CCD",
+    "Observatory": "Global MASTER net"
+}

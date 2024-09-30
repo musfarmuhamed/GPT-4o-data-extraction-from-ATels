@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V 0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "12:00",
+            "Date": "2017-01-21"
+        }
+    ],
+    "References": [
+        "http://maxi.riken.jp/top/index.php?cid=1&jname=J0334+531",
+        "http://swift.gsfc.nasa.gov/results/transients/V0332p53/",
+        "http://gammaray.msfc.nasa.gov/gbm/science/pulsars/lightcurves/v0332.html",
+        "http://integral.esac.esa.int/bexrbmonitor/webpage_oneplot.php"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "00:00",
+    "Date": "2017-01-21",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

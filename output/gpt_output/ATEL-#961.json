@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2006jc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ib/c supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "IAUC #8762",
+        "CBET #666",
+        "CBET #671",
+        "CBET #674",
+        "CBET #677",
+        "ATEL #916",
+        "ATEL #917",
+        "ATEL #934"
+    ],
+    "Event Type": "Photometric observation",
+    "Time": [
+        "15.05",
+        "16.05",
+        "24.05",
+        "03.04",
+        "06.04"
+    ],
+    "Date": [
+        "Nov. 15, 2006",
+        "Nov. 16, 2006",
+        "Nov. 24, 2006",
+        "Dec. 03, 2006",
+        "Dec. 06, 2006"
+    ],
+    "Telescope": "AZT-24 1.1m",
+    "Instrument": "SWIRCAM camera",
+    "Observatory": "Campo Imperatore Observatory (Italy)"
+}

@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:52 UTC",
+            "Date": "2018-03-18"
+        }
+    ],
+    "References": [
+        "ATel #11399",
+        "ATel #11400",
+        "ATel #11403",
+        "ATel #11404",
+        "ATel #11406",
+        "ATel #11418",
+        "Guver & Ozel (2009)",
+        "Predehl and Schmitt",
+        "Swift/XRT spectrum (OBSID: 00010627002)"
+    ],
+    "Event Type": "Detection of linear polarization",
+    "Time": "14:52 UTC",
+    "Date": "2018-03-18",
+    "Telescope": "Tohoku 60cm (T60)",
+    "Instrument": "Dipol-2 polarimeter",
+    "Observatory": "Haleakala Observatory, Hawaii"
+}

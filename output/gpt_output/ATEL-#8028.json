@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ph",
+            "RA": "22:09:06.986",
+            "Dec": "01:44:40.79",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-09-09.48",
+            "Date": "2015-09-09"
+        },
+        {
+            "Name": "2MASX J22090684+0144384",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "author": "G. Bock",
+            "details": "Confirmation image obtained on 2015-09-09"
+        },
+        {
+            "author": "NSF",
+            "details": "Grant AST-1515927"
+        },
+        {
+            "author": "Mt. Cuba Astronomical Foundation",
+            "details": null
+        },
+        {
+            "author": "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+            "details": null
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-09-09.48",
+    "Date": "2015-09-09",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2017-05b (Gaia17bjg, AT2017ehm)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "symbiotic nova eruption",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gaia observations",
+        "Steele et al. 2004",
+        "Piascik et al. 2014",
+        "Massey et al. 2006"
+    ],
+    "Event Type": "brightening of an existing source",
+    "Time": "23.53",
+    "Date": "2017 May 23",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": [
+        "IO:O",
+        "SPRAT"
+    ],
+    "Observatory": null
+}

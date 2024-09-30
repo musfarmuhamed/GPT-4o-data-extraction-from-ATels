@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOUJ225355.1+624336",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": [
+                "46.6610s",
+                "46.6148s",
+                "46.406s"
+            ],
+            "Date": [
+                "18-19 June 1993"
+            ]
+        }
+    ],
+    "References": "ATel #4240",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "Swift XRT",
+        "ROSAT PSPC"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Brera",
+        "Rome"
+    ]
+}

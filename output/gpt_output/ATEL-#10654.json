@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17huo",
+            "RA": "23:21:04.91",
+            "Dec": "+03:30:00.05",
+            "redshift": 0.036,
+            "Type": "Ia",
+            "Time": "+30 d",
+            "Date": "2017 Aug 15 and 16 UT"
+        },
+        {
+            "Name": "Gaia17bxm",
+            "RA": "03:17:53.31",
+            "Dec": "-07:18:00.97",
+            "redshift": 0.017,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 Aug 15 and 16 UT"
+        },
+        {
+            "Name": "Gaia17byx",
+            "RA": "15:30:40.53",
+            "Dec": "+45:58:51.78",
+            "redshift": 0.065,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2017 Aug 15 and 16 UT"
+        },
+        {
+            "Name": "ATLAS17jef",
+            "RA": "00:58:46.54",
+            "Dec": "+13:39:15.52",
+            "redshift": 0.039,
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2017 Aug 15 and 16 UT"
+        },
+        {
+            "Name": "Gaia17cal",
+            "RA": "17:05:27.96",
+            "Dec": "+69:13:19.27",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "+0 d",
+            "Date": "2017 Aug 15 and 16 UT"
+        },
+        {
+            "Name": "ATLAS17jlc",
+            "RA": "15:01:15.72",
+            "Dec": "+58:03:41.69",
+            "redshift": 0.074,
+            "Type": "Ia",
+            "Time": "+1 d",
+            "Date": "2017 Aug 15 and 16 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients from spectroscopic observations",
+    "Time": "Aug 15 and 16 UT",
+    "Date": 2017,
+    "Telescope": "KPNO Mayall 4-m telescope",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

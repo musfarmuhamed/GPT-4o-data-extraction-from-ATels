@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS1843-02",
+            "RA": "281.838",
+            "Dec": "-2.566",
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "6.28",
+            "Date": "2016-08-06"
+        },
+        {
+            "Name": "GS1843-02",
+            "RA": "282.077",
+            "Dec": "-2.446",
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "6.28",
+            "Date": "2016-08-06"
+        }
+    ],
+    "References": [
+        "GCN#19781",
+        "Atel#7386",
+        "Atel#8392",
+        {
+            "MAXI": "http://maxi.riken.jp/top/index.php?cid=1&jname=J1848-024",
+            "Swift/BAT": "http://swift.gsfc.nasa.gov/results/transients/weak/GS1843-02/",
+            "Fermi/GBM": "http://gammaray.msfc.nasa.gov/gbm/science/pulsars/lightcurves/2s1845.html",
+            "BeXRB monitor page": "http://integral.esac.esa.int/bexrbmonitor/webpage_oneplot.php"
+        }
+    ],
+    "Event Type": "X-ray brightening",
+    "Time": "6.28",
+    "Date": "2016-08-06",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "Swift/BAT",
+    "Observatory": null
+}

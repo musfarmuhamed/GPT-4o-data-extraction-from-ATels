@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14eo",
+            "RA": "01:57:36.75",
+            "Dec": "+16:46:20.7",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-07-26.57",
+            "Date": "2014-07-26"
+        },
+        {
+            "Name": "PGC 007377",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026819",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "V_band_reference_image_date": "2014-07-26",
+            "V_band_discovery_image_date": "2014-07-26",
+            "discovery_subtraction_image_date": "2014-07-26"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-07-26.57",
+    "Date": "2014-07-26",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

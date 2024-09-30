@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16om",
+            "RA": "23:31:54.451",
+            "Dec": "-40:45:34.17",
+            "redshift": "0.045312",
+            "Type": "transient",
+            "Time": "2016-12-03.14",
+            "Date": "2016-12-03"
+        },
+        {
+            "Name": "ASASSN-16on",
+            "RA": "04:48:08.562",
+            "Dec": "-46:28:34.49",
+            "redshift": "null",
+            "Type": "transient",
+            "Time": "2016-12-05.18",
+            "Date": "2016-12-05"
+        }
+    ],
+    "References": "NSF grant AST-1515927, Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, Chinese Academy of Sciences South America Center for Astronomy (CASSACA), Mt. Cuba Astronomical Foundation",
+    "Event Type": "transient",
+    "Time": "null",
+    "Date": "null",
+    "Telescope": "Cassius",
+    "Instrument": "null",
+    "Observatory": "Cerro Tololo, Chile"
+}

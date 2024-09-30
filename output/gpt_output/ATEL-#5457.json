@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 2322-409",
+            "RA": 351.18612,
+            "Dec": -40.68036,
+            "redshift": 0.17359,
+            "Type": "BL Lac object",
+            "Time": "daily averaged",
+            "Date": "October 7, 2013"
+        },
+        {
+            "Name": "2FGL J2324.7-4042",
+            "RA": 351.18612,
+            "Dec": -40.68036,
+            "redshift": 0.17359,
+            "Type": "BL Lac object",
+            "Time": "daily averaged",
+            "Date": "October 7, 2013"
+        },
+        {
+            "Name": "1FHL J2324.6-4041",
+            "RA": 351.18612,
+            "Dec": -40.68036,
+            "redshift": 0.17359,
+            "Type": "BL Lac object",
+            "Time": "daily averaged",
+            "Date": "October 7, 2013"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Ackermann et al., ApJS, submitted, arXiv:1306.6772",
+        "Mao 2011, New Ast., 16, 503",
+        "Jones et al. 2009, MNRAS, 399, 683, 6dF Galaxy Survey DR3"
+    ],
+    "Event Type": "increasing gamma-ray flux",
+    "Time": "daily averaged",
+    "Date": "October 7, 2013",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": {
+        "International Collaboration": [
+            "NASA",
+            "DOE in the U.S.",
+            "scientific institutions across France",
+            "Italy",
+            "Japan",
+            "Sweden"
+        ]
+    }
+}

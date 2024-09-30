@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "G2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": [
+                "2014.02.21",
+                "2014.03.14",
+                "2014.04.04",
+                "2014.04.28",
+                "2014.05.20",
+                "2014.06.03"
+            ]
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": "2014.06.03"
+        }
+    ],
+    "References": [
+        "Meyer et al. 2014, IAUS, 303, 264",
+        "Phifer et al. 2013, ApJ, 773, 1",
+        "Gillessen et al. 2013, ApJ, 774, 44",
+        "Tan & Draine 2004, ApJ, 606, 296",
+        "Nowak et al. 2012, ApJ, 759, 95",
+        "Neilsen et al. 2013, ApJ, 774, 42",
+        "Kennea et al. 2013, ApJ, 770, L24",
+        "Mori et al. 2013, ApJ, 770, L23",
+        "Rea et al. 2013, ApJ, 775, L34",
+        "Rea et al. 2014, ATel # 5922"
+    ],
+    "Event Type": "Chandra monitoring",
+    "Time": null,
+    "Date": [
+        "2014.02.21",
+        "2014.03.14",
+        "2014.04.04",
+        "2014.04.28",
+        "2014.05.20",
+        "2014.06.03"
+    ],
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": "ACIS-S3 chip",
+    "Observatory": "Chandra X-ray Observatory"
+}

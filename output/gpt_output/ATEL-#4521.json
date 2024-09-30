@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J091918.69+171409.7",
+            "RA": "09h 19m 18.69s",
+            "Dec": "+17d 14m 09.7s",
+            "redshift": null,
+            "Type": "Cataclysmic variable (dwarf nova)",
+            "Time": "2012-10-24.08554 UT",
+            "Date": "2012-10-24"
+        },
+        {
+            "Name": "MASTER OT J015147.70+211620.6",
+            "RA": "01h 51m 47.70s",
+            "Dec": "+21d 16m 20.6s",
+            "redshift": null,
+            "Type": "PSN (Possible Supernova)",
+            "Time": "2012-10-23.90782 UT",
+            "Date": "2012-10-23"
+        },
+        {
+            "Name": "MASTER OT J204427.80+682248.3",
+            "RA": "20h 44m 27.80s",
+            "Dec": "+68d 22m 48.3s",
+            "redshift": null,
+            "Type": "OT (Outburst of X-ray source)",
+            "Time": "2012-10-25.53365 UT",
+            "Date": "2012-10-25"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/091918.69171409.7.png",
+        "http://master.sai.msu.ru/static/OT/015147.70211620.6.png",
+        "http://master.sai.msu.ru/static/OT/204427.80682248.3_1.png",
+        "http://master.sai.msu.ru/static/OT/J204427+682248-BRIR-5x5.jpg"
+    ],
+    "Event Type": "New Celestial Object Discoveries",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": "Auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

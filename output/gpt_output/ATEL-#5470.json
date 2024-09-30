@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "00:00",
+            "Date": "2013-08-14"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "00:00",
+            "Date": "2013-09-19"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "00:00",
+            "Date": "2013-10-08"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "00:00",
+            "Date": "2013-10-09"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "00:00",
+            "Date": "2013-10-13"
+        },
+        {
+            "Name": "V339 Del",
+            "RA": "20233073+2046041",
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": "00:00",
+            "Date": "2013-10-14"
+        }
+    ],
+    "References": [
+        "ATEL #5302",
+        "ATEL #5429",
+        "Page et al. 2013"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:00",
+    "Date": "2013-08-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

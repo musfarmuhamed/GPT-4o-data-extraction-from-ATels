@@ -1,0 +1,105 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J115330.85+633618.4",
+            "RA": "11h 53m 30.85s",
+            "Dec": "+63d 36m 18.4s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-03-03.63780 UT",
+            "Date": "2014-03-03"
+        },
+        {
+            "Name": "PGC 2658384",
+            "RA": "11h 53m 26.41s",
+            "Dec": "+63d 36m 18.7s",
+            "redshift": "0.04586",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J115326.45+633619.2",
+            "RA": "11h 53m 26.45s",
+            "Dec": "+63d 36m 19.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J11532641+6336187",
+            "RA": "11h 53m 26.41s",
+            "Dec": "+63d 36m 18.7s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J143453.02+023616.1",
+            "RA": "14h 34m 53.02s",
+            "Dec": "+02d 36m 16.1s",
+            "redshift": null,
+            "Type": "large amplitude UV Ceti star",
+            "Time": "2014-03-03.78563 UT",
+            "Date": "2014-03-03"
+        },
+        {
+            "Name": "SDSS J143453.11+023616.6",
+            "RA": "14h 34m 53.11s",
+            "Dec": "+02d 36m 16.6s",
+            "redshift": null,
+            "Type": "red dwarf of M7 spectral class",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J14345311+0236165",
+            "RA": "14h 34m 53.11s",
+            "Dec": "+02d 36m 16.5s",
+            "redshift": null,
+            "Type": "red dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J163710.57+064432.4",
+            "RA": "16h 37m 10.57s",
+            "Dec": "+06d 44m 32.4s",
+            "redshift": null,
+            "Type": "new UV Ceti star",
+            "Time": "2014-03-03.99640 UT",
+            "Date": "2014-03-03"
+        },
+        {
+            "Name": "USNO-B1.0 0967-0299781",
+            "RA": "16 37 10.626",
+            "Dec": "+06 44 30.33",
+            "redshift": null,
+            "Type": "red dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16371052+0644308",
+            "RA": "16h 37m 10.52s",
+            "Dec": "+06d 44m 30.8s",
+            "redshift": null,
+            "Type": "red dwarf",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/115330.85633618.4.png, http://master.sai.msu.ru/static/OT/143453.02023616.1.png, http://master.sai.msu.ru/static/OT/J163710+064432-BRIR.jpg",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-Amur",
+        "MASTER-Tunka",
+        "MASTER-Kislovodsk"
+    ],
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

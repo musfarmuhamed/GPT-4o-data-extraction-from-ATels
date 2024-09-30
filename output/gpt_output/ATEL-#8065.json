@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J040938.68-541316.9",
+            "RA": "04h 09m 38.68s",
+            "Dec": "-54d 13m 16.9s",
+            "redshift": null,
+            "Type": "possible SN",
+            "Time": "2015-09-16.87912 UT",
+            "Date": "2015-09-16"
+        },
+        {
+            "Name": "PGC421615",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J202411.65-172512.5",
+            "RA": "20h 24m 11.65s",
+            "Dec": "-17d 25m 12.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-17.86176 UT",
+            "Date": "2015-09-17"
+        },
+        {
+            "Name": "MASTER OT J181609.38+311641.9",
+            "RA": "18h 16m 09.38s",
+            "Dec": "+31d 16m 41.9s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-13.89443 UT",
+            "Date": "2015-09-13"
+        },
+        {
+            "Name": "MASTER OT J233023.63+744535.6",
+            "RA": "23h 30m 23.63s",
+            "Dec": "+74d 45m 35.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-12.69332 UT",
+            "Date": "2015-09-12"
+        },
+        {
+            "Name": "USNO-B1 star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Various MASTER observatories including MASTER-SAAO, MASTER-IAC, MASTER-Tunka, MASTER-Kislovodsk, MASTER-Tunka, MASTER-Amur"
+}

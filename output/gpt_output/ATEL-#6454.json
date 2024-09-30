@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J004346.0+410736",
+            "RA": "00:43:46.0",
+            "Dec": "+41:07:36",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18:57 - 22:15, 01:14 - 04:50",
+            "Date": "2014-09-03, 2014-09-07"
+        },
+        {
+            "Name": "3XMM J004346.0+410738",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2010-12-26"
+        },
+        {
+            "Name": "Nova M31N 2010-09b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ObsID 00032702074, 00032702075, XMM-Newton observation, EPIC-pn, uvw1 filter",
+    "Event Type": "Discovery of X-ray transient",
+    "Time": "18:57 - 22:15, 01:14 - 04:50",
+    "Date": "2014-09-03, 2014-09-07",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift satellite"
+}

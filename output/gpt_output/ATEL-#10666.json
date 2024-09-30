@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J031627.40+462625.1",
+            "RA": "03h 16m 27.40s",
+            "Dec": "+46d 26m 25.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-08-23.76780 UT",
+            "Date": "2017-08-23"
+        },
+        {
+            "Name": "MASTER OT J015849.49-230854.3",
+            "RA": "01h 58m 49.49s",
+            "Dec": "-23d 08m 54.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-08-19.00590 UT",
+            "Date": "2017-08-19"
+        },
+        {
+            "Name": "MASTER OT J210147.06+171727.8",
+            "RA": "21h 01m 47.06s",
+            "Dec": "+17d 17m 27.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-08-19.00713 UT",
+            "Date": "2017-08-19"
+        },
+        {
+            "Name": "MASTER071304.54+573809.5",
+            "RA": "07h 13m 04.54s",
+            "Dec": "+57d 38m 09.5s",
+            "redshift": null,
+            "Type": "QSO flare?",
+            "Time": "2017-08-22.71093 UT",
+            "Date": "2017-08-22"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk, MASTER-IAC, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J013254.75-013727.2",
+            "RA": "01h 32m 54.75s",
+            "Dec": "-01d 37m 27.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2014-11-10.91825 UT",
+            "Date": "2014-11-10"
+        },
+        {
+            "Name": "PGC 1114159",
+            "RA": "01h 32m 56.0s",
+            "Dec": "-01d 37m 50s",
+            "redshift": "0.0796",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "M. Pruzhinskaya et al., Astron. Lett., Vol. 37, pp. 663-669, 2011",
+        "ATel #4702, P. Balanutsa et al., 2013"
+    ],
+    "Event Type": "possible 'pure' type Ia supernova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": null
+}

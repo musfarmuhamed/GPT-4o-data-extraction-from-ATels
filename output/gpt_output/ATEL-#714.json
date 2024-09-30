@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Unknown",
+            "RA": 274.56,
+            "Dec": -32.92,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2006-01-26"
+        },
+        {
+            "Name": "Unknown",
+            "RA": 274.425,
+            "Dec": -33.018,
+            "redshift": null,
+            "Type": "Bright soft source",
+            "Time": "21 UT",
+            "Date": "2006-01-27"
+        },
+        {
+            "Name": "Unknown",
+            "RA": 274.425,
+            "Dec": -33.018,
+            "redshift": null,
+            "Type": "Bright soft source",
+            "Time": "14 UT",
+            "Date": "2006-01-28"
+        }
+    ],
+    "References": "Jahoda et al. 2006",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2006-01-26",
+    "Telescope": "RXTE",
+    "Instrument": "ASM, PCA",
+    "Observatory": "RXTE"
+}

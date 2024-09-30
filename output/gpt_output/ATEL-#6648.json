@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J12215757+0428185",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia-pec",
+            "Time": "20141031.20",
+            "Date": "2014-10-31"
+        },
+        {
+            "Name": "ASASSN-14jh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "II",
+            "Time": "20141031.13",
+            "Date": "2014-10-31"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Bingelli et al. 1985, AJ 90, 1681",
+        "Foley et al. 2013, Ap.J. 767, 57",
+        "Almeida et al. 2011, ApJ 735, 125",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "20141031",
+    "Date": "2014-10-31",
+    "Telescope": [
+        "Asiago 1.82 m Copernico Telescope",
+        "1.22 m Galileo Telescope"
+    ],
+    "Instrument": [
+        "AFOSC",
+        "Boller&Chivens"
+    ],
+    "Observatory": "Asiago"
+}

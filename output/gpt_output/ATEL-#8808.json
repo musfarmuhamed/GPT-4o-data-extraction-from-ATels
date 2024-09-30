@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016bar (XTSS-16A)",
+            "RA": "12:07:07.30",
+            "Dec": "+53:40:06.3",
+            "redshift": "0.05893",
+            "Type": "Supernova candidate",
+            "Time": "2016-03-05.70",
+            "Date": "2016-03-05"
+        },
+        {
+            "Name": "MCG +09-20-097",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.05893",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://119.78.162.28/sndata/result/20160305/ASN4.html",
+    "Event Type": "Discovery",
+    "Time": "2016-03-05.70",
+    "Date": "2016-03-05",
+    "Telescope": "Nanshan 1.0-m telescope",
+    "Instrument": null,
+    "Observatory": "Xinjiang Astronomical Observatory (XAO)"
+}

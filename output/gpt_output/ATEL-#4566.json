@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12gby",
+            "RA": "01:17:23.15",
+            "Dec": "09:16:40.7",
+            "redshift": "0.086",
+            "Type": "Ia",
+            "Time": "Nov 10.3",
+            "Date": "Nov 06.0"
+        },
+        {
+            "Name": "LSQ12gbz",
+            "RA": "04:26:20.39",
+            "Dec": "-10:06:12.8",
+            "redshift": "0.028",
+            "Type": "Ic",
+            "Time": "Nov 10.5",
+            "Date": "Nov 06.2"
+        },
+        {
+            "Name": "LSQ12gdj",
+            "RA": "23:54:43.32",
+            "Dec": "-25:40:34.1",
+            "redshift": "0.030324",
+            "Type": "Ia",
+            "Time": "Nov 10.2",
+            "Date": "Nov 07.0"
+        },
+        {
+            "Name": "LSQ12gef",
+            "RA": "01:40:33.70",
+            "Dec": "18:30:36.4",
+            "redshift": "0.065",
+            "Type": "Ia",
+            "Time": "Nov 10.4",
+            "Date": "Nov 07.0"
+        }
+    ],
+    "References": [
+        "[1] Nella et al 1996, MNRAS, 283, 367",
+        "[2] Possible SN1991T-like or super-Chandra candidate"
+    ],
+    "Event Type": "Spectroscopic Observations",
+    "Time": "Varied",
+    "Date": "Nov 06.0, Nov 06.2, Nov 07.0",
+    "Telescope": "University of Hawaii 2.2-meter",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": "Null"
+}

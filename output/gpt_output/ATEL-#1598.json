@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova 2008cg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.036,
+            "Type": "Type IIn",
+            "Time": "00.00",
+            "Date": "2008-07-02"
+        }
+    ],
+    "References": [
+        "CBET #1366",
+        "CBET #1420",
+        "ATel #1594",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Dickey & Lockman, 1990, ARAA, 28, 215",
+        "Giovanelli et al. 1997, AJ 114, 122, from NED"
+    ],
+    "Event Type": null,
+    "Time": "00.00",
+    "Date": "2008-07-02",
+    "Telescope": "Swift",
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": null
+}

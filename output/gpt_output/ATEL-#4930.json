@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J104031.63+061721.8",
+            "RA": "10h 40m 31.63s",
+            "Dec": "+06d 17m 21.8s",
+            "redshift": "0.7351(5)",
+            "Type": "flaring blazar",
+            "Time": "2013-03-31.59076 UT",
+            "Date": "2013-03-31"
+        },
+        {
+            "Name": "SDSS J104031.62+061721.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.7351(5)",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J104031.6+061721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J1040.5+0616",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fermi gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2XMM J104031.5+061721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "XMM-Newton X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "87GB 103758.5+063247",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 10403161+0617218",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2000 Feb. 29",
+            "Date": "2000-02-29"
+        }
+    ],
+    "References": "A. Mahabal et al., ATel #1884, 2008",
+    "Event Type": "discovery",
+    "Time": "2013-03-31.59076 UT",
+    "Date": "2013-03-31",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

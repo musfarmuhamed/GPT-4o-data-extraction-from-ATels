@@ -1,0 +1,179 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10svt",
+            "RA": "03:37:17.83",
+            "Dec": "-17:05:41.2",
+            "redshift": "0.031",
+            "Type": "SN Ic",
+            "Time": null,
+            "Date": "2020-08-21"
+        },
+        {
+            "Name": "PTF10vyl",
+            "RA": "23:51:07.76",
+            "Dec": "-03:35:33.1",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-09-20"
+        },
+        {
+            "Name": "PTF10vyv",
+            "RA": "01:40:01.08",
+            "Dec": "-08:02:42.5",
+            "redshift": "0.074",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-09-21"
+        },
+        {
+            "Name": "PTF10wnt",
+            "RA": "01:42:10.01",
+            "Dec": "-08:47:39.1",
+            "redshift": "0.074",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-09-21"
+        },
+        {
+            "Name": "PTF10woa",
+            "RA": "09:35:40.93",
+            "Dec": "+23:19:06.1",
+            "redshift": "0.057",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-09-21"
+        },
+        {
+            "Name": "PTF10wyq",
+            "RA": "01:18:24.89",
+            "Dec": "+19:26:46.2",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-09-30"
+        },
+        {
+            "Name": "PTF10xel",
+            "RA": "22:28:49.87",
+            "Dec": "+34:43:23.3",
+            "redshift": "0.152",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-03"
+        },
+        {
+            "Name": "PTF10xes",
+            "RA": "00:16:30.80",
+            "Dec": "+02:36:48.5",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-03"
+        },
+        {
+            "Name": "PTF10xzs",
+            "RA": "08:02:23.70",
+            "Dec": "+67:25:07.0",
+            "redshift": "0.036",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2020-09-25"
+        },
+        {
+            "Name": "PTF10ydz",
+            "RA": "02:50:28.10",
+            "Dec": "+15:42:00.9",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-30"
+        },
+        {
+            "Name": "PTF10yhj",
+            "RA": "21:31:25.32",
+            "Dec": "+03:39:43.8",
+            "redshift": "0.14",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-09"
+        },
+        {
+            "Name": "PTF10yni",
+            "RA": "00:10:49.31",
+            "Dec": "+14:10:37.3",
+            "redshift": "0.169",
+            "Type": "SN IIn/Ic",
+            "Time": null,
+            "Date": "2020-10-03"
+        },
+        {
+            "Name": "PTF10yzt",
+            "RA": "00:11:50.02",
+            "Dec": "+26:41:13.7",
+            "redshift": "0.076",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2020-10-29"
+        },
+        {
+            "Name": "PTF10zbn",
+            "RA": "01:30:14.87",
+            "Dec": "+29:40:42.5",
+            "redshift": "0.114",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-28"
+        },
+        {
+            "Name": "PTF10zcd",
+            "RA": "01:08:32.97",
+            "Dec": "+16:30:10.6",
+            "redshift": "0.132",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-30"
+        },
+        {
+            "Name": "PTF10zcn",
+            "RA": "23:19:14.39",
+            "Dec": "+26:03:11.6",
+            "redshift": "0.02",
+            "Type": "SN Ib",
+            "Time": null,
+            "Date": "2020-10-09"
+        },
+        {
+            "Name": "PTF10zhi",
+            "RA": "01:32:24.29",
+            "Dec": "+21:27:21.0",
+            "redshift": "0.13",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-11-01"
+        },
+        {
+            "Name": "PTF10aaea",
+            "RA": "23:27:23.42",
+            "Dec": "+07:59:20.5",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2020-10-29"
+        }
+    ],
+    "References": [
+        "ATel #1964",
+        "http://www.astro.caltech.edu/ptf",
+        "arXiv:1011.2199",
+        "Howell et al. 2005, ApJ 634, 1190",
+        "Blondin & Tonry, 2007, ApJ 666, 1024"
+    ],
+    "Event Type": "discovery and spectroscopic classification",
+    "Time": null,
+    "Date": "2010-11-02 to 2010-11-04",
+    "Telescope": "Mayall 4-m telescope",
+    "Instrument": "R-C spectrograph",
+    "Observatory": "Kitt Peak National Observatory"
+}

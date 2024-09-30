@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cc",
+            "RA": "05:46:23.907",
+            "Dec": "-52:05:18.86",
+            "redshift": "0.004016",
+            "Type": "Supernova",
+            "Time": "2016-02-26.19",
+            "Date": "2016-02-26"
+        },
+        {
+            "Name": "NGC 2101",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.004016",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2016-02-26.19",
+    "Date": "2016-02-26",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

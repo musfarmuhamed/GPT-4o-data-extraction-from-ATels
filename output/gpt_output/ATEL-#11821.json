@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "23:30:29.184",
+            "Date": "2018-07-03"
+        }
+    ],
+    "References": [
+        "ATel #11804",
+        "ATel #11814",
+        "Bhargava et al. 2017, ApJ, 849, 141"
+    ],
+    "Event Type": "X-ray observations during gamma ray bright state",
+    "Time": "23:30:29.184",
+    "Date": "2018-07-03",
+    "Telescope": "NICER",
+    "Instrument": "X-ray Timing Instrument (XTI)",
+    "Observatory": "International Space Station"
+}

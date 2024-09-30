@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2023-07",
+            "RA": "306.419418 deg",
+            "Dec": "-7.597969 deg",
+            "redshift": "1.388",
+            "Type": "flat spectrum radio quasar",
+            "Time": "06:00-12:00 UT",
+            "Date": "2016 April 9"
+        },
+        {
+            "Name": "NRAO 629",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TXS 2022-077",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J2025-0744",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1AGLR J2027-0747",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J2025.6-0736",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Drinkwater et al. 1997, MNRAS, 284, 85",
+        "Acero et al. 2015, ApJS, 218, 23",
+        "ATel#8879",
+        "ATel#2175"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": "06:00-12:00 UT",
+    "Date": "2016 April 9",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

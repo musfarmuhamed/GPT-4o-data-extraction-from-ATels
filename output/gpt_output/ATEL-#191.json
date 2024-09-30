@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J175428.3-262035",
+            "RA": "17h54m28.30s",
+            "Dec": "-26 20' 35\"",
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "new transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Voges et al. 2000, IAUC # 7432",
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ROSAT",
+    "Instrument": "PSPC",
+    "Observatory": "ROSAT All-Sky Survey"
+}

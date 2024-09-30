@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1622-253",
+            "RA": "16h25m46.8916s",
+            "Dec": "-25d27m38.326s",
+            "redshift": 0.786,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "di Serego Alighieri et al. 1994, MNRAS, 269, 998",
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "ATel #3424",
+        "ATel #2231"
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": "Null",
+    "Date": "October 6, 2013",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

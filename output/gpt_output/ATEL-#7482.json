@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J172304.13-804710.0",
+            "RA": "17h 23m 04.13s",
+            "Dec": "-80d 47m 10.0s",
+            "redshift": null,
+            "Type": "Dwarf Nova flare",
+            "Time": "2015-05-03.95650 UT",
+            "Date": "2015-05-03"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2014-12-17.953",
+            "Magnitude_Limit": 19.4
+        },
+        {
+            "Date": "2015-04-11.951",
+            "Magnitude_Limit": 19.7
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2015-05-03.95650 UT",
+    "Date": "2015-05-03",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

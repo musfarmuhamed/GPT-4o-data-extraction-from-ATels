@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AXP 1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": [
+                "2008-10-03 UT 09:31 - 09:51",
+                "2008-10-03 UT 10:54 - 11:28",
+                "2008-10-03 UT 13:34 - 12:53",
+                "2008-10-03 UT 12:53 to 2008-10-04 UT 01:37"
+            ],
+            "Date": [
+                "2008-10-03",
+                "2008-10-04"
+            ]
+        }
+    ],
+    "References": [
+        "Krimm et al. GCN 8311, 8312",
+        "GCN 8318",
+        "Camilo et al. 2008, ApJ, 679, 681",
+        "Halpern et al. 2008, ApJ, 676, 1178"
+    ],
+    "Event Type": "Outburst",
+    "Time": "Multiple intervals on 2008-10-03 and 2008-10-04",
+    "Date": "2008-10-03 to 2008-10-04",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

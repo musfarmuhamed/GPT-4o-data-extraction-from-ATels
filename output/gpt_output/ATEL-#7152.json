@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia15aal",
+            "RA": "245.76243",
+            "Dec": "37.92130",
+            "redshift": null,
+            "Type": "Gal?",
+            "Time": "Null",
+            "Date": "20150204"
+        },
+        {
+            "Name": "Gaia15aap",
+            "RA": "231.71731",
+            "Dec": "20.62390",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "+2 wks",
+            "Date": "20150204"
+        },
+        {
+            "Name": "Gaia15aau",
+            "RA": "188.35762",
+            "Dec": "40.74319",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "mid plateau",
+            "Date": "20150212"
+        },
+        {
+            "Name": "Gaia15abb",
+            "RA": "240.69715",
+            "Dec": "53.55655",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "+1 wk",
+            "Date": "20150214"
+        },
+        {
+            "Name": "Gaia15ace",
+            "RA": "254.83222",
+            "Dec": "29.94392",
+            "redshift": "0.04",
+            "Type": "SN Ia",
+            "Time": "+2 wks",
+            "Date": "20150226"
+        }
+    ],
+    "References": [
+        "Hodgkin et al. 2013, Royal Soc. Philosophical Trans. Series A, 371, 20239",
+        "Wyrzykowski 2014, IAU Symposium, 298, 446",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic classifications of transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "La Palma"
+}

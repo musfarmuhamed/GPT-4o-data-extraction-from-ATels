@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1733+1513",
+            "RA": "17:33:21.71",
+            "Dec": "+15:13:23.1",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": "08-12h UT",
+            "Date": "August 21, 2014"
+        },
+        {
+            "Name": "J1732+1517",
+            "RA": "17:32:20.89",
+            "Dec": "+15:17:48.4",
+            "redshift": null,
+            "Type": null,
+            "Time": "08-12h UT",
+            "Date": "August 21, 2014"
+        },
+        {
+            "Name": "J1732+1515",
+            "RA": "17:32:16.71",
+            "Dec": "+15:15:03.0",
+            "redshift": null,
+            "Type": null,
+            "Time": "08-12h UT",
+            "Date": "August 21, 2014"
+        }
+    ],
+    "References": [
+        "ATel #6393",
+        "ATel #6410"
+    ],
+    "Event Type": "Detection of gamma-ray source and radio counterpart search",
+    "Time": "08-12h UT",
+    "Date": "August 21, 2014",
+    "Telescope": "Australia Telescope Compact Array (ATCA)",
+    "Instrument": null,
+    "Observatory": null
+}

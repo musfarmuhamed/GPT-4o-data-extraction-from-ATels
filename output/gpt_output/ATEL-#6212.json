@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cep X-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient Be X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U2135+57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient Be X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Ginga 2138+56",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient Be X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #1956",
+        "ATel #1972"
+    ],
+    "Event Type": "X-ray flux increase",
+    "Time": null,
+    "Date": "June 6, 2014",
+    "Telescope": "MAXI",
+    "Instrument": "Nova Alert System",
+    "Observatory": null
+}

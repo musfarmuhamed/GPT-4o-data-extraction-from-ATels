@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J233328.09-015847.0",
+            "RA": "23h 33m 28.09s",
+            "Dec": "-01d 58m 47.0s",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2015-10-05.06922 UT",
+            "Date": "2015-10-05"
+        },
+        {
+            "Name": "MASTER OT J023714.71-464802.3",
+            "RA": "02h 37m 14.71s",
+            "Dec": "-46d 48m 02.3s",
+            "redshift": null,
+            "Type": "possible dwarf nova outburst",
+            "Time": "2015-10-05.06280 UT",
+            "Date": "2015-10-05"
+        }
+    ],
+    "References": [
+        {
+            "Images with OT": [
+                "http://master.sai.msu.ru/static/OT/233328.09-015847.0.png",
+                "http://master.sai.msu.ru/static/OT/MASTEROTJ023714.71-464802.3.png"
+            ],
+            "Reference Image": [
+                "2015-09-11.93303 UT",
+                "2015-01-12.84694 UT"
+            ]
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC and MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

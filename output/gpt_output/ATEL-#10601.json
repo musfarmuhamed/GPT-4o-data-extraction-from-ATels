@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS17dpp",
+            "RA": "23:03:56.38",
+            "Dec": "+30:09:28.80",
+            "redshift": 0.023,
+            "Type": "Ia-91bg",
+            "Time": "+7 d",
+            "Date": "2017 July 26"
+        },
+        {
+            "Name": "Gaia17bux",
+            "RA": "01:56:27.75",
+            "Dec": "+36:48:00.22",
+            "redshift": 0.02,
+            "Type": "Ia",
+            "Time": "+71 d",
+            "Date": "2017 July 26"
+        },
+        {
+            "Name": "ASASSN-17jq",
+            "RA": "15:31:51.60",
+            "Dec": "+37:24:45.18",
+            "redshift": 0.03,
+            "Type": "Ia-91T",
+            "Time": "-8 d",
+            "Date": "2017 July 26"
+        },
+        {
+            "Name": "ASASSN-17jt",
+            "RA": "21:11:36.85",
+            "Dec": "+11:29:50.82",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": "+6 d",
+            "Date": "2017 July 26"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Optical Transients",
+    "Time": "UT",
+    "Date": "2017 July 26",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

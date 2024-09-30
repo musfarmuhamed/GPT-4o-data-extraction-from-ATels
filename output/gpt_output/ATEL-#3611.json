@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": 279.12,
+            "Dec": -19.41,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "2011-08-30"
+        },
+        {
+            "Name": "MAXI J1836-194",
+            "RA": 278.959,
+            "Dec": -19.385,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "10:14:56",
+            "Date": "2011-08-30"
+        }
+    ],
+    "References": "ATEL",
+    "Event Type": "detection",
+    "Time": "10:14:56",
+    "Date": "2011-08-30",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

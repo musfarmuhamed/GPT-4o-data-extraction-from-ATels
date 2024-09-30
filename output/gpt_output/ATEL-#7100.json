@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J180408.9-342058",
+            "RA": "18h 04m 08.371s",
+            "Dec": "-34d 20' 51.38''",
+            "redshift": null,
+            "Type": "galactic transient",
+            "Time": "08:35 UT - 09:01 UT",
+            "Date": "Feb 08, 2015"
+        }
+    ],
+    "References": [
+        "Krimm et al., ATel #6997",
+        "Negoro et al., ATel #7008",
+        "Schlegel et al. 1998",
+        "Atel #7039"
+    ],
+    "Event Type": "optical observations",
+    "Time": "08:35 UT - 09:01 UT",
+    "Date": "Feb 08, 2015",
+    "Telescope": "ESO/NTT",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla, Chile"
+}

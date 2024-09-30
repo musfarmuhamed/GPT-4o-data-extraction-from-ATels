@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J11220840-3804001",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01,
+            "Type": "IIb",
+            "Time": null,
+            "Date": "Jun 6.1"
+        },
+        {
+            "Name": "PSN J21431113-3858058",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.016,
+            "Type": "Ibc",
+            "Time": null,
+            "Date": "Jun 6.3"
+        },
+        {
+            "Name": "PSN J22595069-6133222",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028,
+            "Type": "Ibc",
+            "Time": null,
+            "Date": "Jun 6.4"
+        },
+        {
+            "Name": "PSN J03442399-4440081",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.004,
+            "Type": "Ic-BL",
+            "Time": null,
+            "Date": "Jun 6.4"
+        }
+    ],
+    "References": "1,2,3,4,5",
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": null
+}

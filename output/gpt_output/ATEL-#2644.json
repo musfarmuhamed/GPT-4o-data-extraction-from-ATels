@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB and microquasar",
+            "Time": "14:50 - 21:26",
+            "Date": "2010 May 24 - 2010 May 25"
+        },
+        {
+            "Name": "Cyg X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008 November"
+        }
+    ],
+    "References": [
+        "ATELs #2609",
+        "#2611",
+        "#2635"
+    ],
+    "Event Type": "Transitioning to its soft state",
+    "Time": "14:50 - 21:26",
+    "Date": "2010 May 24 - 2010 May 25",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": "JEM-X2",
+    "Observatory": "INTEGRAL"
+}

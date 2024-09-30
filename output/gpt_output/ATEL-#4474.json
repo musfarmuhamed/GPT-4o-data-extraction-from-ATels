@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J20313345-4409173",
+            "RA": "20 31 33.45",
+            "Dec": "-44 09 17.3",
+            "redshift": 0.02,
+            "Type": "II",
+            "Time": "10d",
+            "Date": "2012-09-22"
+        },
+        {
+            "Name": "PSN J00373938+1021290",
+            "RA": "00 37 39.38",
+            "Dec": "10 21 29.0",
+            "redshift": 0.015,
+            "Type": "IIP",
+            "Time": "young",
+            "Date": "2012-10-07"
+        },
+        {
+            "Name": "CSS121008:014245+213928",
+            "RA": "01 42 44.76",
+            "Dec": "21 39 28.4",
+            "redshift": 0.05,
+            "Type": "Ia",
+            "Time": "-4d",
+            "Date": "2012-10-08"
+        },
+        {
+            "Name": "MLS121004:005748+061812",
+            "RA": "00 57 47.63",
+            "Dec": "06 18 12.0",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "2012-10-04"
+        },
+        {
+            "Name": "SNHunt148",
+            "RA": "00 28 05.03",
+            "Dec": "-58 06 06.5",
+            "redshift": 0.034,
+            "Type": "II",
+            "Time": "~30d",
+            "Date": "2012-09-08"
+        }
+    ],
+    "References": [
+        "http://www.pessto.org",
+        "http://crts.caltech.edu/",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J20313345-4409173.html",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J00373938+1021290.html",
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J00280503-5806065.html"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2012-10-09",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

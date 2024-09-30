@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": "22:24",
+            "Date": "2007-05-14"
+        },
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": "22:12",
+            "Date": "2007-05-20"
+        }
+    ],
+    "References": [
+        "Galis et al, ATel #1063",
+        "Krimm et al. ATel #1064",
+        "Reig et al. 2004, A&A, 673, 680"
+    ],
+    "Event Type": "optical and X-ray observations",
+    "Time": [
+        "22:24",
+        "22:12"
+    ],
+    "Date": [
+        "2007-05-14",
+        "2007-05-20"
+    ],
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Skinakas observatory (Crete)"
+}

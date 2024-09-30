@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova (RN)",
+            "Time": "2010-11-17.09",
+            "Date": "2010-11-17"
+        },
+        {
+            "Name": "U Scorpii",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova (RN)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #3001",
+        "ATel #2430",
+        "ATel #3006",
+        "ATel #2411",
+        "ATel #2477",
+        "ATel #2442"
+    ],
+    "Event Type": "Nova outburst and supersoft X-ray source (SSS) detection",
+    "Time": "2010-10-30.70",
+    "Date": "2010-10-30",
+    "Telescope": "Swift",
+    "Instrument": "X-ray Telescope (XRT), Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

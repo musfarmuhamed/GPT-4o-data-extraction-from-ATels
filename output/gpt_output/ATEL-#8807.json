@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16cr/SN 2016ase",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.015,
+            "Type": "Type II supernova",
+            "Time": "9.5 and 10.5 UT",
+            "Date": "2016 March 9 and 10"
+        },
+        {
+            "Name": "SN 2016bam",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "Type II supernova",
+            "Time": "12.3 UT",
+            "Date": "2016 March 12"
+        }
+    ],
+    "References": "ATel #8784",
+    "Event Type": "Supernova observation",
+    "Time": null,
+    "Date": "2016 March 9 - 12",
+    "Telescope": "LCOGT 2-meter telescopes",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia, and Haleakala, Hawai'i"
+}

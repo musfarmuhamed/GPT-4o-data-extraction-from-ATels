@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 190",
+            "RA": "04h 42m 38.661s",
+            "Dec": "-00d 17m 43.42s",
+            "redshift": 0.844,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Unknown",
+            "Date": "2013 June 21"
+        },
+        {
+            "Name": "2FGL J0442.7-0017",
+            "RA": "Unknown",
+            "Dec": "Unknown",
+            "redshift": "Unknown",
+            "Type": "gamma-ray counterpart",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": "Hewitt & Burbidge 1987, 63, 1; Nolan et al. 2012, ApJS 199, 31; ATel #2049",
+    "Event Type": "gamma-ray outburst",
+    "Time": "2013 June 21",
+    "Date": "2013 June 21",
+    "Telescope": "Large Area Telescope (LAT)",
+    "Instrument": "Fermi Gamma-ray Space Telescope",
+    "Observatory": "Not specified"
+}

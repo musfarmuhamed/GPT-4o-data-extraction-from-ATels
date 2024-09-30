@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16eh",
+            "RA": "15:40:29.233",
+            "Dec": "+00:54:36.38",
+            "redshift": "0.011730",
+            "Type": "supernova",
+            "Time": "2016-04-10.44",
+            "Date": "2016-04-10"
+        },
+        {
+            "Name": "SDSS J154029.29+005437.4",
+            "RA": "15:40:29.29",
+            "Dec": "+00:54:37.4",
+            "redshift": "0.011730",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "2016-04-10.44",
+    "Date": "2016-04-10",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope, LCOGT 1.0-m robotic telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; Siding Spring Observatory"
+}

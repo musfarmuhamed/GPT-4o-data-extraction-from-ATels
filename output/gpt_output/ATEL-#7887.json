@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GS 1354-64 (BW Cir)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7612",
+        "ATel #7614",
+        "ATel #7620",
+        "ATel #7637",
+        "ATel #7656",
+        "Brocksopp et al. 2001",
+        "Cadolle Bel et al. 2011",
+        "Casares et al. 2009",
+        "Lewis et al. 2008"
+    ],
+    "Event Type": "Outburst Activity",
+    "Time": "0.5 hour",
+    "Date": "MJD 57235",
+    "Telescope": "Faulkes/LCOGT",
+    "Instrument": "LCOGT (1-m telescope at SAAO)",
+    "Observatory": "Sutherland, South Africa"
+}

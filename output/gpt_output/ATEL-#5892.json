@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "06h 48m 29.00s",
+            "Dec": "+42d 41m 56.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:27:39.055",
+            "Date": "2014-02-15"
+        },
+        {
+            "Name": "PGC2204281 galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/174045.80+115828.5.jpg",
+    "Event Type": "Discovery",
+    "Time": "12:27:39.055",
+    "Date": "2014-02-15",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "Global MASTER Net"
+}

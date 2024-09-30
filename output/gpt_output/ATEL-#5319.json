@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1709.5-2639",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent neutron star soft X-ray transient",
+            "Time": "17:24:07",
+            "Date": "2013-08-20"
+        },
+        {
+            "Name": "XTE J1709-267",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent neutron star soft X-ray transient",
+            "Time": "17:24:07",
+            "Date": "2013-08-20"
+        },
+        {
+            "Name": "1RXS J170930.2-263927",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent neutron star soft X-ray transient",
+            "Time": "17:24:07",
+            "Date": "2013-08-20"
+        }
+    ],
+    "References": "ATel #255, #1302, #2729, #4304, Degenaar et al. ApJ 767, L31, 2013",
+    "Event Type": "X-ray enhancement",
+    "Time": "17:24:07",
+    "Date": "2013-08-20",
+    "Telescope": "MAXI",
+    "Instrument": "MAXI nova alert system",
+    "Observatory": "MAXI Observatory"
+}

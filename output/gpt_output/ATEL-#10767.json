@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09553590+6904228",
+            "RA": "09 55 35.90",
+            "Dec": "+69 04 22.8",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "18.129",
+            "Date": "2017-09-18"
+        },
+        {
+            "Name": "PNV J09561042+6906106",
+            "RA": "09 56 10.42",
+            "Dec": "+69 06 10.6",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "18.129",
+            "Date": "2017-09-18"
+        }
+    ],
+    "References": "The M81 nova monitoring collaboration",
+    "Event Type": "discovery of two probable novae",
+    "Time": "18.129",
+    "Date": "2017-09-18",
+    "Telescope": "0.65-m reflecting telescope",
+    "Instrument": "Moravian Instruments G2-3200 CCD camera (with a Kodak KAF-3200ME sensor and standard BVRI photometric filters)",
+    "Observatory": "Ondrejov observatory, Czech Republic"
+}

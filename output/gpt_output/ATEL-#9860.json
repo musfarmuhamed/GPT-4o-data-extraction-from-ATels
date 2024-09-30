@@ -1,0 +1,22 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16oe",
+            "RA": "12:46:20.147",
+            "Dec": "-58:53:38.87",
+            "redshift": null,
+            "Type": "reddened nova",
+            "Time": "00:30:30",
+            "Date": "2016-11-30"
+        }
+    ],
+    "References": [
+        "vsnet-alert 20448"
+    ],
+    "Event Type": "discovery",
+    "Time": "00:30:30",
+    "Date": "2016-11-30",
+    "Telescope": "Cassius",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Cerro Tololo"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES15C3odz",
+            "RA": "03:27:54.96",
+            "Dec": "-28:33:52.0",
+            "redshift": 0.509,
+            "Type": "Ia",
+            "Time": "pre-max",
+            "Date": "2016 Jan 07"
+        },
+        {
+            "Name": "DES15C3oeb",
+            "RA": "03:29:50.27",
+            "Dec": "-27:42:40.0",
+            "redshift": 0.326,
+            "Type": "Ibc",
+            "Time": "max",
+            "Date": "2016 Jan 08"
+        },
+        {
+            "Name": "DES15C3nym",
+            "RA": "03:31:23.15",
+            "Dec": "-28:32:39.1",
+            "redshift": 0.497,
+            "Type": "Ia",
+            "Time": "+5 days",
+            "Date": "2016 Jan 09"
+        },
+        {
+            "Name": "DES15C2odp",
+            "RA": "03:38:14.20",
+            "Dec": "-28:42:35.5",
+            "redshift": 0.339,
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "2016 Jan 09"
+        },
+        {
+            "Name": "DES15E1ods",
+            "RA": "00:29:26.01",
+            "Dec": "-42:16:02.4",
+            "redshift": 0.369,
+            "Type": "Ia",
+            "Time": "+4 days",
+            "Date": "2016 Jan 12"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al, 2005, ApJ, 634, 119",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "GMOS on Gemini-North and Gemini-South",
+    "Instrument": "GMOS",
+    "Observatory": "Gemini-North and Gemini-South"
+}

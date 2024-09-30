@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1421-613",
+            "RA": "215.40504",
+            "Dec": "-61.60700",
+            "redshift": null,
+            "Type": "Neutron Star",
+            "Time": "08:39UT",
+            "Date": "January 18th, 2014"
+        }
+    ],
+    "References": [
+        "Morooka et al, ATEL #5750",
+        "Kennea et al. (ATEL #5751)",
+        "Baumgartner et al (GCN #15749)",
+        "Bozzo et al., ATEL #5765",
+        "Coriat et al., ATEL #5759"
+    ],
+    "Event Type": "Type-I X-ray burst",
+    "Time": "19:50UT",
+    "Date": "January 9th, 2014",
+    "Telescope": "Swift",
+    "Instrument": [
+        "X-ray Telescope (XRT)",
+        "Burst Alert Telescope (BAT)"
+    ],
+    "Observatory": "Swift"
+}

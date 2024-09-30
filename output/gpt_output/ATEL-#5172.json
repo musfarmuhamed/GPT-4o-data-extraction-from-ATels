@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424894+4115163",
+            "RA": "00h42m48s.91",
+            "Dec": "+41o15'16\".9",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2013-06-27"
+        },
+        {
+            "Name": "PNV J00425987+4120379",
+            "RA": "00h42m59s.88",
+            "Dec": "+41o20'37\".9",
+            "redshift": null,
+            "Type": "young nova",
+            "Time": null,
+            "Date": "2013-06-27"
+        }
+    ],
+    "References": [
+        "ATel #5133",
+        "ATel #5157"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2013-06-27",
+    "Telescope": "2.5-m Isaac Newton Telescope",
+    "Instrument": "WFC",
+    "Observatory": "Spanish Observatorio del Roque de los Muchachos"
+}

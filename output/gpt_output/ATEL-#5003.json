@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": "18h 24m 32.496s",
+            "Dec": "-24 52' 07.799''",
+            "redshift": null,
+            "Type": "Main-Sequence star",
+            "Time": null,
+            "Date": [
+                "2009 Apr 07",
+                "2009 Aug 08",
+                "2010 Apr 26"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "Name": "Eckert et al.",
+            "Reference": "ATel #4925"
+        },
+        {
+            "Name": "Heinke et al.",
+            "Reference": "ATel #4927"
+        },
+        {
+            "Name": "Romano et al.",
+            "Reference": "ATel #4929"
+        },
+        {
+            "Name": "Pavan et al.",
+            "Reference": "ATel #4981"
+        },
+        {
+            "Name": "Becker et al. (2003)",
+            "Reference": "ApJ, 594, 798"
+        }
+    ],
+    "Event Type": "Optical counterpart identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "HST",
+    "Instrument": null,
+    "Observatory": null
+}

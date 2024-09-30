@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B3 1029+415",
+            "RA": 158.136667,
+            "Dec": 41.280444,
+            "redshift": null,
+            "Type": "radio-loud AGN",
+            "Time": "00:00:00",
+            "Date": "2006-06-30"
+        },
+        {
+            "Name": "1Jy 1030+415",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:00:00",
+            "Date": "2006-06-30"
+        }
+    ],
+    "References": "http://cas.sdss.org/astrodr6/en/tools/explore/obj.asp?ra=158.136667&dec=41.280444",
+    "Event Type": "Possible outburst",
+    "Time": "00:00:00",
+    "Date": "2006-06-30",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT",
+    "Observatory": null
+}

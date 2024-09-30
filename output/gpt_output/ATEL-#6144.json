@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ax",
+            "RA": "17h10m00s.70",
+            "Dec": "+27\u00b006'19\".6",
+            "redshift": "0.033",
+            "Type": "Type-Ia supernova",
+            "Time": "15.85",
+            "Date": "2014-05-15"
+        },
+        {
+            "Name": "SDSS J171000.70+270619.6",
+            "RA": "17 09 59.3",
+            "Dec": "+27 06 18.9",
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "15:47:22",
+                "00:12:14",
+                "06:27:23"
+            ],
+            "Date": [
+                "2014-05-13",
+                "2014-05-14",
+                "2014-05-14"
+            ]
+        }
+    ],
+    "References": [
+        "ATEL #6143",
+        "Atel #6133"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang observatory of YNAO"
+}

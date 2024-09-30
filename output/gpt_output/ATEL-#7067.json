@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1859+083",
+            "RA": "18h 59m 01.57s (284.75654 deg)",
+            "Dec": "+08d 14' 44.2\" (8.24561 deg)",
+            "redshift": null,
+            "Type": "Be/NS binary",
+            "Time": null,
+            "Date": "13 February 2015"
+        },
+        {
+            "Name": "USNO-B1.0 0982-0467424",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible near-IR/optical counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 18590163+0814444",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "possible near-IR/optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7034",
+        "ATel #7037",
+        "ATel #7045",
+        "Corbet et al. 2009",
+        "Marshall et al. 1999"
+    ],
+    "Event Type": "recent outburst",
+    "Time": null,
+    "Date": "13 February 2015",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

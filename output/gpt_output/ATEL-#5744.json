@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31 2013-11a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03.727 UT",
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "Nova M31 2013-11b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red LPV",
+            "Time": "03.739 UT",
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "Nova M31 2013-11d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03.727 UT",
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "Nova M31 2013-12a",
+            "RA": "004249.9+411457",
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03.727 UT",
+            "Date": "2014-01-03"
+        },
+        {
+            "Name": "Nova M31 2013-12b",
+            "RA": "00425172+4118142",
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "20.795 UT",
+            "Date": "2013-12-20"
+        },
+        {
+            "Name": "Nova M31 2014-01a",
+            "RA": "00431362+4114469",
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03.727 UT",
+            "Date": "2014-01-03"
+        }
+    ],
+    "References": [
+        "ATel # 5539",
+        "ATel # 5569",
+        "ATel # 5605",
+        "ATel # 5640",
+        "ATel # 5671",
+        "ATel # 5677",
+        "ATel # 5723"
+    ],
+    "Event Type": "additional BVR-band photometry",
+    "Time": null,
+    "Date": null,
+    "Telescope": "50/70 cm Schmidt telescope, 35 cm Newton telescope",
+    "Instrument": "CCD FLI 16803, CCD SBIG 11000M",
+    "Observatory": [
+        "NAO Rozhen",
+        "SAO Plana"
+    ]
+}

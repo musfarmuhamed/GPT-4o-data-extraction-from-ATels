@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient X-ray Pulsar",
+            "RA": "00h53m53s",
+            "Dec": "-72o26m42s",
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AzV164",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[MA93] 829",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission line object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://lheawww.gsfc.nasa.gov/users/corbet/pulsars/xtej0055-727_ebox.ps",
+        "http://lheawww.gsfc.nasa.gov/users/corbet/pulsars"
+    ],
+    "Event Type": "X-ray Pulsar Detection",
+    "Time": null,
+    "Date": [
+        "2003 November 26",
+        "2003 December 4",
+        "2003 December 11"
+    ],
+    "Telescope": "RXTE",
+    "Instrument": "Proportional Counter Array",
+    "Observatory": "RXTE"
+}

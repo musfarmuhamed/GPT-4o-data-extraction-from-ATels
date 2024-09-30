@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FBQSJ163515.4+380804",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "1.813",
+            "Type": "high redshift blazar",
+            "Time": "JD2456186.664525",
+            "Date": "September 16th, 2012"
+        }
+    ],
+    "References": [
+        {
+            "ATel": "#3335",
+            "H_band_flux": "13.564 +/- 0.04"
+        },
+        {
+            "ATel": "#3238",
+            "H_band_flux": "13.072 +/- 0.05",
+            "Time": "JD2455635.029352",
+            "Description": "previous high flux level"
+        }
+    ],
+    "Event Type": "NIR brightening",
+    "Time": "JD2456186.664525",
+    "Date": "September 16th, 2012",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

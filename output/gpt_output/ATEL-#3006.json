@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1963-09c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "04:45",
+            "Date": "2010-11-04"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pietsch et al. (ATel #3001)",
+        "A.W.S. thanks the NSF for support through AST-0607682."
+    ],
+    "Event Type": "optical transient",
+    "Time": "04:45",
+    "Date": "2010-11-04",
+    "Telescope": "Hobby-Eberly Telescope",
+    "Instrument": "Low-Resolution Spectrograph",
+    "Observatory": null
+}

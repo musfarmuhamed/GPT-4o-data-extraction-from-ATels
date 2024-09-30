@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGC J174451.6-292042",
+            "RA": "17h 44m 51.61s",
+            "Dec": "-29h 20m 42.2s",
+            "redshift": null,
+            "Type": "Very-faint X-ray transient",
+            "Time": "10ksec exposure",
+            "Date": "May 10-11 2008"
+        },
+        {
+            "Name": "Swift J174535.5-290135.6/AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron-star X-ray transient",
+            "Time": null,
+            "Date": "May 10-11 2008"
+        },
+        {
+            "Name": "CXOGC J174535.5-290124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Very-faint X-ray transient",
+            "Time": null,
+            "Date": "May 10-11 2008"
+        }
+    ],
+    "References": [
+        "Wijnands et al. 2006, A&A, 449, 1117",
+        "Muno et al. 2008, ApJ submitted",
+        "'t Zand et al. 1991, Adv. Space Res. 11, 187",
+        "Marti et al. 2007, A&A 462, 1065",
+        "Muno et al. 2006, ApJS 165, 17",
+        "Heinke et al. 2008, Atel #1513",
+        "Muno et al. 2005, ApJ, 622, L113",
+        "Atel #638",
+        "Atel #892"
+    ],
+    "Event Type": "Monitoring campaign",
+    "Time": "Series of 7 observations",
+    "Date": "May 10-11 2008",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": null
+}

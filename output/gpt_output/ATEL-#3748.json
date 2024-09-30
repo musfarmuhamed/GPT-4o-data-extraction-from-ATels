@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New optical transient source",
+            "RA": "07h 28m 43.98s",
+            "Dec": "+45d 19m 36s.5",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "2011-11-07.91 UT",
+            "Date": "2011-11-07"
+        },
+        {
+            "Name": "SDSS J072844.022+451937.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/SN072844.02+451937/SN072844.02+451937.png",
+    "Event Type": "New optical transient detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER auto-detection system",
+    "Instrument": null,
+    "Observatory": "Kislovodsk"
+}

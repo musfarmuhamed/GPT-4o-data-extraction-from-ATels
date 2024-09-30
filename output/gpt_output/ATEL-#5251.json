@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-040",
+            "RA": "00:53:49.357",
+            "Dec": "-63:49:24.38",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2456508.81760"
+        },
+        {
+            "Name": "OGLE-2013-SN-041",
+            "RA": "01:36:18.010",
+            "Dec": "-69:34:12.67",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2456508.83856"
+        },
+        {
+            "Name": "OGLE-2013-SN-042",
+            "RA": "00:23:16.850",
+            "Dec": "-71:42:49.20",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456507.85177"
+        },
+        {
+            "Name": "OGLE-2013-SN-043",
+            "RA": "00:52:48.853",
+            "Dec": "-66:09:48.86",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2456508.81269"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. ATEL #4495",
+        "Kozlowski et al. 2013",
+        "ATEL#5250"
+    ],
+    "Event Type": "transient discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "OGLE-IV"
+}

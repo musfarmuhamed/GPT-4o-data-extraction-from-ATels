@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "13:41-13:57 UT, 21:05-21:23 UT, 6:30-6:46 UT",
+            "Date": "2018 Aug 12, 2018 Aug 13"
+        },
+        {
+            "Name": "Star 1",
+            "RA": "17 59 02.693",
+            "Dec": "-23 43 12.04",
+            "redshift": "Null",
+            "Type": "Star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Star 2",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Star 3",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Star 4",
+            "RA": "17 59 02.505",
+            "Dec": "-23 43 07.93",
+            "redshift": "Null",
+            "Type": "Star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #11941, #11942",
+    "Event Type": "Discovery",
+    "Time": "13:41-13:57 UT, 21:05-21:23 UT, 6:30-6:46 UT",
+    "Date": "2018 Aug 10-11, 2018 Aug 12-13",
+    "Telescope": "2-m Faulkes Telescope South (FTS), 1-m LCO telescope, 2-m Faulkes Telescope North (FTN)",
+    "Instrument": "SDSS g', i' and PanSTARRS y-band filters",
+    "Observatory": "Siding Spring Observatory, South African Astronomical Observatory (SAAO), Haleakala Observatory"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08111645+2510474",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type IIb supernova",
+            "Time": "23.84 UT",
+            "Date": "2014 Oct. 23"
+        },
+        {
+            "Name": "NGC 2536",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0137,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A, 488, 383",
+    "Event Type": "optical spectrogram",
+    "Time": "23.84 UT",
+    "Date": "2014 Oct. 23",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

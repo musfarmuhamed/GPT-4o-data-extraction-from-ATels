@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017jyl",
+            "RA": "10 40 21.29",
+            "Dec": "-46 25 10.5",
+            "redshift": "0.024",
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20171230"
+        },
+        {
+            "Name": "SN2017jfb",
+            "RA": "05 28 51.23",
+            "Dec": "-35 44 35.3",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": "unknown",
+            "Date": "20171224"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org; Tonry et al. (2011, PASP, 123, 58); Tonry et al. (ATel #8680); Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova classifications",
+    "Time": "unknown",
+    "Date": "2018 Jan 4",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017fut",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.042803,
+            "Type": "SN Ia",
+            "Time": "01:55:12",
+            "Date": "2017-07-29"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Giovanelli and Haynes, 1993, AJ 105, 1271",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "2017-08-02",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

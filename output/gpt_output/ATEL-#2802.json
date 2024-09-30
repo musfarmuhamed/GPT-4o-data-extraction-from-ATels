@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10pjg",
+            "RA": "23:23:08.01",
+            "Dec": "+13:02:39.2",
+            "redshift": "0.042636",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2010 July 11 UT"
+        },
+        {
+            "Name": "PTF10rin",
+            "RA": "22:52:38.95",
+            "Dec": "+13:00:36.6",
+            "redshift": "0.031666",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2010 August 10 UT"
+        },
+        {
+            "Name": "PTF10raj",
+            "RA": "02:43:24.13",
+            "Dec": "+03:06:17.6",
+            "redshift": "0.022616",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2010 August 8 UT"
+        }
+    ],
+    "References": "ATEL #1964; http://www.astro.caltech.edu/ptf/",
+    "Event Type": "Discovery",
+    "Time": "Null",
+    "Date": "2010",
+    "Telescope": "Palomar 5-m Hale telescope",
+    "Instrument": "Double-Beam Spectrograph (DBSP)",
+    "Observatory": "Null"
+}

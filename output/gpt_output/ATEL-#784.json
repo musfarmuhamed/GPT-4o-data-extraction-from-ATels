@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1739-285",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Neutron star X-ray transient",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "IAUC #7300",
+        "ATel #622",
+        "ATel #777",
+        "ATel #602",
+        "ATel #592"
+    ],
+    "Event Type": "Optical and NIR observations",
+    "Time": [
+        "20:59-21:14 UT",
+        "20:39-20:55",
+        "00:10-01:01",
+        "23:44-23:56"
+    ],
+    "Date": [
+        "2005 Aug 30",
+        "2005 Sep 16",
+        "2005 Sep 13",
+        "2005 Oct 20"
+    ],
+    "Telescope": [
+        "Nordic Optical Telescope",
+        "Magellan Baade telescope"
+    ],
+    "Instrument": [
+        "ALFOSC",
+        "PANIC camera"
+    ],
+    "Observatory": "La Palma"
+}

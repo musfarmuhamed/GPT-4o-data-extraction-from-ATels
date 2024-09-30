@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": "17h 44m 33.12s",
+            "Dec": "-28d 44' 26.8''",
+            "redshift": null,
+            "Type": "X-ray Binary",
+            "Time": "14:04UT",
+            "Date": "February 2nd, 2014"
+        }
+    ],
+    "References": [
+        "Negoro et al., ATEL #5790",
+        "Evans et al. (2007, A&A, 469, 379)",
+        "Evans et al. (2009, MNRAS 397, 1177)",
+        "Liu et al (2007, A&A, 469, 807)"
+    ],
+    "Event Type": "Outburst",
+    "Time": "14:04UT",
+    "Date": "February 2nd, 2014",
+    "Telescope": "Swift",
+    "Instrument": "UVOT",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1737-376",
+            "RA": "264.4606",
+            "Dec": "-37.6605",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2004-02-14 to 2004-03-23"
+        },
+        {
+            "Name": "XTE J1737-376",
+            "RA": "264.4606",
+            "Dec": "-37.6605",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2008-09-02 to 2008-09-06"
+        },
+        {
+            "Name": "XTE J1737-376",
+            "RA": "264.528",
+            "Dec": "-37.789",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2008-09-02 to 2008-09-06"
+        },
+        {
+            "Name": "IGR J17379-3747",
+            "RA": "264.473",
+            "Dec": "-37.783",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175",
+    "Event Type": "outburst detection",
+    "Time": "multiple",
+    "Date": "2004-02-14 to 2004-03-23, 2008-09-02 to 2008-09-06",
+    "Telescope": "RXTE PCA, Swift/BAT, INTEGRAL",
+    "Instrument": "PCA, BAT",
+    "Observatory": "RXTE, Swift, INTEGRAL"
+}

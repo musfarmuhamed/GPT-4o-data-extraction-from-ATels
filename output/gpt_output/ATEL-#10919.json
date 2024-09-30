@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TCP J05074264+2447555",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microlensing event",
+            "Time": "10.8 mag",
+            "Date": "2017-10-31.7340"
+        },
+        {
+            "Name": "UCAC4 574-013830",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": "14 mag",
+            "Date": null
+        },
+        {
+            "Name": "HD 31845",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "F5V star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://www.cbat.eps.harvard.edu/unconf/followups/J05074264+2447555.html",
+    "Event Type": "microlensing event",
+    "Time": null,
+    "Date": "2017-11-01",
+    "Telescope": "188-cm telescope",
+    "Instrument": "High-Dispersion Echelle Spectrograph",
+    "Observatory": "Okayama Astrophysical Observatory"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J233745.24-003051.1",
+            "RA": "23h 37m 45.24s",
+            "Dec": "-00d 30m 51.1s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "15:20:27",
+            "Date": "2013-01-01"
+        },
+        {
+            "Name": "PGC1141393",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": {
+        "Image_Date": "2010-11-01",
+        "Image_Time": "17:18:06",
+        "Image_URL": "http://master.sai.msu.ru/static/OT/233745.24-003051.1.png"
+    },
+    "Event Type": "Discovery",
+    "Time": "15:20:27",
+    "Date": "2013-01-01",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "Not specified"
+}

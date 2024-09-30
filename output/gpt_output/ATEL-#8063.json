@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1954-388",
+            "RA": "299.499247 deg",
+            "Dec": "-38.751766 deg",
+            "redshift": "0.63",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MRC 1954-388",
+            "RA": "299.499247 deg",
+            "Dec": "-38.751766 deg",
+            "redshift": "0.63",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J1958.0-3845",
+            "RA": "299.499247 deg",
+            "Dec": "-38.751766 deg",
+            "redshift": "0.63",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1958.0-3847",
+            "RA": "299.499247 deg",
+            "Dec": "-38.751766 deg",
+            "redshift": "0.63",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "text": "Acero et al. 2015, ApJS 218, 23",
+            "Year": 2015,
+            "Journal": "ApJS",
+            "Volume": 218,
+            "Page": 23
+        },
+        {
+            "text": "Ma et. al. 1998, AJ, 116, 516",
+            "Year": 1998,
+            "Journal": "AJ",
+            "Volume": 116,
+            "Page": 516
+        },
+        {
+            "text": "Browne, Savage & Bolton 1975, MNRAS, 173, 87P",
+            "Year": 1975,
+            "Journal": "MNRAS",
+            "Volume": 173,
+            "Page": 87
+        }
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "16 September 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016jbu",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN impostor",
+            "Time": "18:00:00",
+            "Date": "2016-12-26"
+        },
+        {
+            "Name": "Gaia16cfr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN impostor",
+            "Time": "18:00:00",
+            "Date": "2016-12-26"
+        }
+    ],
+    "References": [
+        "Cartier et al. 2017, MNRAS, 464, 4476",
+        "Pastorello et al. 2009, A&A, 500, 1013",
+        "Riess et al. 2016, ApJ, 826, 56",
+        "Smith et al. 2011, MNRAS, 415, 773",
+        "Tartaglia et al. 2016, ApJ, 823, L23",
+        "Fraser et al. 2013, MNRAS, 433, 1312",
+        "Pastorello et al. 2013, ApJ, 767, 1",
+        "Elias-Rosa et al. 2016, MNRAS, 463, 3894",
+        "Foley et al. 2011, ApJ, 732, 32F",
+        "ESA Gaia, DPAC and the Photometric Science Alerts Team"
+    ],
+    "Event Type": "SN impostor",
+    "Time": "18:00:00",
+    "Date": "2016-12-26",
+    "Telescope": "NTT",
+    "Instrument": "EFOSC2",
+    "Observatory": "VLT"
+}

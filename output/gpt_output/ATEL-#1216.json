@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aquila X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": "MJD 54351.318008, 54352.5, 54353.4, 54354.6, 54355.3, 54357.2",
+            "Date": null
+        },
+        {
+            "Name": "Crab",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Rodriguez et al. (ATEL #1079)",
+    "Event Type": "outburst",
+    "Time": "MJD 54351.318008 to MJD 54357.2",
+    "Date": null,
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "All-Sky Monitor (ASM)",
+    "Observatory": null
+}

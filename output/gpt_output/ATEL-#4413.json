@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER J231327.31+262622.0",
+            "RA": "23h 13m 27.31s",
+            "Dec": "+26d 26m 22.0s",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2012-09-18.89332 UT",
+            "Date": "2012-09-18"
+        },
+        {
+            "Name": "MASTER J214658.99+442912.7",
+            "RA": "21h 46m 58.99s",
+            "Dec": "+44d 29m 12.7s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2012-09-19.78534 UT",
+            "Date": "2012-09-19"
+        },
+        {
+            "Name": "MASTER J005846.22+410334.9",
+            "RA": "00h 58m 46.22s",
+            "Dec": "+41d 03m 34.9s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "2012-09-22.72955 UT",
+            "Date": "2012-09-22"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER J231327.31+262622.0",
+            "RA": "23h 13m 27.17s",
+            "Dec": "+26d 26m 21.2s",
+            "Time": "2012-09-18.63531 UT",
+            "Date": "2012-09-18",
+            "reference": "http://master.sai.msu.ru/static/OT/231327.31262622.0.png"
+        },
+        {
+            "Name": "MASTER J214658.99+442912.7",
+            "RA": "No objects",
+            "Dec": "No objects",
+            "Time": "2010-11-06.63719 UT",
+            "Date": "2010-11-06",
+            "reference": "http://master.sai.msu.ru/static/OT/214658.99442912.7.png"
+        },
+        {
+            "Name": "MASTER J005846.22+410334.9",
+            "RA": "No objects",
+            "Dec": "No objects",
+            "Time": "2010-11-26.53425 UT",
+            "Date": "2010-11-26",
+            "reference": "http://master.sai.msu.ru/static/OT/005846.22410334.9.png"
+        }
+    ],
+    "Event Type": "OT",
+    "Time": null,
+    "Date": "2012-09-18",
+    "Telescope": "Global MASTER Robotic Net",
+    "Instrument": null,
+    "Observatory": {
+        "Name": [
+            "MASTER-Tunka",
+            "MASTER-Kislovodsk"
+        ]
+    }
+}

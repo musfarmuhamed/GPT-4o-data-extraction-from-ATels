@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "16:29:13",
+            "Date": "2011-03-10"
+        },
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": "2011-02-13"
+        },
+        {
+            "Name": "4U 0614+09",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Chenevez et al. (ATel #3183)",
+        "Cumming & Macbeth 2004, ApJ 603 L37",
+        "Kuulkers et al. (2010, A&A 514 65)"
+    ],
+    "Event Type": "type I X-ray burst",
+    "Time": "16:29:13",
+    "Date": "2011-03-10",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

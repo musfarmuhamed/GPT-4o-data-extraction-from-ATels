@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16558-4150",
+            "RA": 253.95,
+            "Dec": -41.83,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "15:55",
+            "Date": "2007 Jan 30"
+        },
+        {
+            "Name": "IRAS 16520-4146",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J165520.0-41485",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #980",
+        "ATel #986"
+    ],
+    "Event Type": "discovered",
+    "Time": "15:55",
+    "Date": "2007 Jan 30",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

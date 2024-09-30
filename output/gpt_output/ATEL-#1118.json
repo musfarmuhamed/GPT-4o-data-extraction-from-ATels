@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova coincident with Bol 111 in M31",
+            "RA": "00h42m33.14s",
+            "Dec": "41o00'25.9\"",
+            "redshift": null,
+            "Type": "Nova, He/N class",
+            "Time": "June 19.4 UT",
+            "Date": "June 19, 2023"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Finding chart",
+            "Link": "http://grad40.as.utexas.edu/~quimby/tss/charts/nova13.png"
+        },
+        {
+            "Reference": "Galleti et al. 2006"
+        },
+        {
+            "Reference": "Shara et al. 2004"
+        }
+    ],
+    "Event Type": "Discovery of nova",
+    "Time": "June 19.4 UT",
+    "Date": "June 19, 2023",
+    "Telescope": [
+        "ROTSE-IIIb",
+        "Palomar 60\"",
+        "Hobby-Eberly Telescope"
+    ],
+    "Instrument": [
+        "Marcario Low-Resolution Spectrograph"
+    ],
+    "Observatory": [
+        "McDonald Observatory"
+    ]
+}

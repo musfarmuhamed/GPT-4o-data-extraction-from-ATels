@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006gy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": "21.5",
+            "Date": "2007 Sep",
+            "Detection Limits": {
+                "8.4 GHz": "0.45 mJy; resolution 0.8\"",
+                "43 GHz": "3.0 mJy; resolution 0.14\""
+            }
+        },
+        {
+            "Name": "SN 2006gy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": "28.4",
+            "Date": "2007 Oct",
+            "Detection Limits": {
+                "8.4 GHz": "0.11 mJy; resolution 0.9\"",
+                "43 GHz": "0.38 mJy; resolution 0.17\""
+            }
+        },
+        {
+            "Name": "NGC 1260",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2007 Oct"
+        }
+    ],
+    "References": "Ofek et al., (2007, ApJ, 659, L13)",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": [
+        "2007 Sep 21.5",
+        "2007 Oct 28.4"
+    ],
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": null
+}

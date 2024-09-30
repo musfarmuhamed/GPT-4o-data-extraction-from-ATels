@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Brightest Source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00.25 to 09.00 UT",
+            "Date": "January 9"
+        },
+        {
+            "Name": "Brightest Source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23.75 to January 18 08.50 UT",
+            "Date": "January 17"
+        },
+        {
+            "Name": "Second Source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00.25 to 09.00 UT",
+            "Date": "January 9"
+        },
+        {
+            "Name": "Second Source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23.75 to January 18 08.50 UT",
+            "Date": "January 17"
+        }
+    ],
+    "References": [
+        "ATel #6871",
+        "ATel #6883",
+        "ATel #6873"
+    ],
+    "Event Type": "Reobservation of GRB",
+    "Time": [
+        "00.25 to 09.00 UT",
+        "23.75 to January 18 08.50 UT"
+    ],
+    "Date": [
+        "January 9",
+        "January 17"
+    ],
+    "Telescope": "Westerbork Synthesis Radio Telescope",
+    "Instrument": "Radio Telescope",
+    "Observatory": "Westerbork"
+}

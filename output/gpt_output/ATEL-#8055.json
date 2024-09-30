@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "XX:XX:XX",
+            "Date": "2015-09-11"
+        },
+        {
+            "Name": "A 0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "XX:XX:XX",
+            "Date": "2015-09-11"
+        }
+    ],
+    "References": [
+        "Atel #7441",
+        "Giovannelli et al. 2013",
+        "Atel #7015",
+        "Atel #8024",
+        "Atel #2277",
+        "Nakajima et al. 2014"
+    ],
+    "Event Type": "X-ray outbursts",
+    "Time": "XX:XX:XX",
+    "Date": "2015-09-11",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": [
+        "GSC",
+        "BAT"
+    ],
+    "Observatory": [
+        "MAXI",
+        "Swift"
+    ]
+}

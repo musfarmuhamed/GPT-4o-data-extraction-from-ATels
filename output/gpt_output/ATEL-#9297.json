@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016ekg",
+            "RA": "22 00 03.59",
+            "Dec": "-30 11 07.0",
+            "redshift": "0.017",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "SN2016eky",
+            "RA": "22 59 39.51",
+            "Dec": "+02 08 59.1",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "AT2016ele",
+            "RA": "14 21 24.35",
+            "Dec": "-84 31 30.6",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "AT2016ejq",
+            "RA": "17 07 49.55",
+            "Dec": "-20 26 27.1",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "AT2016elj",
+            "RA": "16 17 49.27",
+            "Dec": "-77 17 18.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "AT2016ekx",
+            "RA": "21 46 39.40",
+            "Dec": "-02 50 43.0",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20160731"
+        },
+        {
+            "Name": "AT2016ekz",
+            "RA": "22 31 53.94",
+            "Dec": "+21 57 08.5",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20160731"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Huber et al., ATel #7153; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova Classifications",
+    "Time": null,
+    "Date": "2016-07-31",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

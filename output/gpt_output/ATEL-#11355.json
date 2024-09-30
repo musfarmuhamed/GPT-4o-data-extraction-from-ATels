@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3c454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.859",
+            "Type": "Blazar",
+            "Time": "2458116.609456",
+            "Date": "December 29, 2017"
+        },
+        {
+            "Name": "HB89 2251+158",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.859",
+            "Type": "Blazar",
+            "Time": "2458116.609456",
+            "Date": "December 29, 2017"
+        },
+        {
+            "Name": "2FGL2253.9+1609",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.859",
+            "Type": "gamma-ray source",
+            "Time": "2458116.609456",
+            "Date": "December 29, 2017"
+        }
+    ],
+    "References": "ATels # 6213 and # 8589",
+    "Event Type": "NIR flare",
+    "Time": "2458116.609456",
+    "Date": "December 29, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

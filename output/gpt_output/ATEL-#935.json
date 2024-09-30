@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174540.2-290005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.0-290005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Muno et al. 2005 ApJ 622 L113",
+        "ATel #921",
+        "Clark et al. 2000 A&A 356 50",
+        "Russell et al. 2006 MNRAS 371 1334"
+    ],
+    "Event Type": "Observation",
+    "Time": "3.3 and 6.7 min (30 Oct), 3.3 and 6.7 min (31 Oct), 0.83 min (25 May)",
+    "Date": "2006 October 30, 2006 October 31, 2005 May 25",
+    "Telescope": "Magellan/Baade Telescope",
+    "Instrument": "PANIC (Persson's Auxilliary Nasmyth Infrared Camera)",
+    "Observatory": "Las Campanas Observatory"
+}

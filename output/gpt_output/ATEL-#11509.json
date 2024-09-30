@@ -1,0 +1,82 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018ajp",
+            "RA": "06 27 03.76",
+            "Dec": "-25 38 23.6",
+            "redshift": "0.027",
+            "Type": "Ia",
+            "Time": "2018 03 18",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "AT 2018apl",
+            "RA": "13 45 03.48",
+            "Dec": "-41 52 23.48",
+            "redshift": "0",
+            "Type": "VarStar",
+            "Time": "2018 04 03",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "AT 2018ang",
+            "RA": "14 25 28.34",
+            "Dec": "-38 18 06.19",
+            "redshift": "0 ?",
+            "Type": "?",
+            "Time": "2018 03 28",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "AT 2018ahz",
+            "RA": "14 23 50.14",
+            "Dec": "-09 23 17.57",
+            "redshift": "0.069",
+            "Type": "AGN",
+            "Time": "2018 02 12",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "SN 2018ahx",
+            "RA": "15 10 43.55",
+            "Dec": "05 28 51.31",
+            "redshift": "0.074",
+            "Type": "Ia",
+            "Time": "2018 03 07",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "AT 2018ys",
+            "RA": "10 28 37.93",
+            "Dec": "06 10 22.09",
+            "redshift": "?",
+            "Type": "?",
+            "Time": "2018 02 21",
+            "Date": "2018 04 05"
+        },
+        {
+            "Name": "SN 2018zj",
+            "RA": "14 07 31.91",
+            "Dec": "-22 09 21.78",
+            "redshift": "0.030",
+            "Type": "II",
+            "Time": "2018 02 27",
+            "Date": "2018 04 05"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2018 April 5",
+    "Date": "2018 04 05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

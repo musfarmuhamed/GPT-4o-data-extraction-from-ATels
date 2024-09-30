@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J13186-6257",
+            "RA": "13h 18m 25.61s",
+            "Dec": "-62d 58m 15.0s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J15529-5029",
+            "RA": "15h 52m 46.56s",
+            "Dec": "-50d 29m 52.3s",
+            "redshift": null,
+            "Type": "X-ray emitter",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17404-3655",
+            "RA": "17h 40m 26.62s",
+            "Dec": "-36d 55m 36.4s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

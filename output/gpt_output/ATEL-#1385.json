@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1750-27 (AX J1749.1-2639)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient accreting X-ray pulsar",
+            "Time": "16:33-18:07",
+            "Date": "2008-02-11"
+        },
+        {
+            "Name": "H1743-322 (IGR J17464-3213)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black-hole X-ray transient",
+            "Time": "16:33-18:07",
+            "Date": "2008-02-11"
+        },
+        {
+            "Name": "SLX 1746-331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black-hole X-ray transient",
+            "Time": "16:33-18:07",
+            "Date": "2008-02-11"
+        }
+    ],
+    "References": [
+        "ATels #438",
+        "ATels #874",
+        "ATels #1005",
+        "Kuulkers et al. 2007, A&A 466, 595",
+        "ATel #1376",
+        "GCN Circ #7249",
+        "GCN Circ #7274",
+        "Scott et al. 1997, ApJ 488, 831",
+        "ATel #1348",
+        "ATel #1349",
+        "ATel #1352",
+        "ATel #1378",
+        "ATel #1384",
+        "ATel #1235"
+    ],
+    "Event Type": "INTEGRAL Galactic Bulge monitoring program",
+    "Time": "16:33-18:07",
+    "Date": "2008-02-11",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X1"
+    ],
+    "Observatory": "ISDC"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supernova candidate",
+            "RA": "12:56:42.68",
+            "Dec": "27:30:40.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "16.7 mag",
+            "Date": "Jul. 12.18 UT"
+        },
+        {
+            "Name": "supernova candidate",
+            "RA": "12:56:42.68",
+            "Dec": "27:30:40.6",
+            "redshift": null,
+            "Type": null,
+            "Time": "16.0 mag",
+            "Date": "Jul. 16.17 UT"
+        }
+    ],
+    "References": "http://www.rotse.net/rsvp/j125642.7+273041/j125642.7+273041.jpg",
+    "Event Type": "discovery of a supernova candidate",
+    "Time": "16.7 mag",
+    "Date": "Jul. 12.18 UT",
+    "Telescope": "ROTSE-IIIb",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "McDonald Observatory, Texas"
+}

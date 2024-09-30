@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1746-322",
+            "RA": "17h46m30s",
+            "Dec": "-32o10'",
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "19:21:36",
+            "Date": "2003-03-17"
+        },
+        {
+            "Name": "IGR J17464-3213",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "H1741-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #132",
+    "Event Type": "Detection",
+    "Time": "19:49:12",
+    "Date": "2003-03-20",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": "RXTE"
+}

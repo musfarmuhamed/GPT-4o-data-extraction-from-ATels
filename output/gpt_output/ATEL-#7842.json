@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V 404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "01:22 to 02:17",
+            "Date": "2015-07-23"
+        },
+        {
+            "Name": "V 404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "01:19 to 02:14",
+            "Date": "2015-07-24"
+        }
+    ],
+    "References": [
+        "Ambrosino et al.: 2013, J. Astron. Instrum. Vol. 2 (01), 1350006",
+        "Ambrosino et al.: 2014, Proc of the SPIE, 9147, 91478R"
+    ],
+    "Event Type": "observation",
+    "Time": "01:22 to 02:17 and 01:19 to 02:14",
+    "Date": "2015-07-23 and 2015-07-24",
+    "Telescope": "G.D. Cassini 152 cm Loiano telescope",
+    "Instrument": "SiFAP",
+    "Observatory": null
+}

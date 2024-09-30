@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16479-4514",
+            "RA": "16:48:07.0",
+            "Dec": "-45:12:05.8",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "04:10:56 UT",
+            "Date": "August 30th"
+        },
+        {
+            "Name": null,
+            "RA": "16:48:06.8",
+            "Dec": "-45:12:08.0",
+            "redshift": null,
+            "Type": "Possible optical counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #176, ATEL #172, Bird et al. (2004)",
+    "Event Type": "Observational follow-up",
+    "Time": "04:08:48 UT",
+    "Date": "August 30th",
+    "Telescope": "Swift Burst Alert Telescope (BAT), Swift X-ray Telescope (XRT), Swift UV/Optical Telescope (UVOT)",
+    "Instrument": "Swift",
+    "Observatory": null
+}

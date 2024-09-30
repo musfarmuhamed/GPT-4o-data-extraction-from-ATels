@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-153",
+            "RA": "00:34:37.69",
+            "Dec": "-64:42:10.1",
+            "redshift": "0.064",
+            "Type": "Ia",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "LSQ13dsn",
+            "RA": "03:33:04.30",
+            "Dec": "-29:28:09.4",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "LSQ14n",
+            "RA": "03:32:00.79",
+            "Dec": "-03:29:29.1",
+            "redshift": "MW",
+            "Type": "VS",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "LSQ14ba",
+            "RA": "11:01:23.02",
+            "Dec": "-15:37:10.3",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "LSQ14bx",
+            "RA": "04:33:41.02",
+            "Dec": "-17:49:45.2",
+            "redshift": "0.175",
+            "Type": "Ia",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        },
+        {
+            "Name": "LSQ14dc",
+            "RA": "04:47:18.10",
+            "Dec": "-17:34:59.4",
+            "redshift": "0.197",
+            "Type": "Ia",
+            "Time": "2014-01-07",
+            "Date": "2014-01-07"
+        }
+    ],
+    "References": "PESSTO, Valenti et al., ATel #4037; http://www.pessto.org, La Silla-Quest survey (see Hadjiyska et al., ATel #3812), OGLE-IV (ATel #4495; Wyrzykowski et al. 2012), Blondin & Tonry, 2007, ApJ, 666, 1024, Harutyunyan et al., 2008, A&A, 488, 383, http://www.pessto.org (via WISeREP)",
+    "Event Type": "supernova classifications",
+    "Time": "2014-01-07",
+    "Date": "2014-01-07",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

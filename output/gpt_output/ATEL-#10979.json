@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017hta",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.006",
+            "Type": "II",
+            "Time": "+20d",
+            "Date": "2017-11-16.21"
+        },
+        {
+            "Name": "SN2017hig",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": "pre-max",
+            "Date": "2017-10-14.65"
+        },
+        {
+            "Name": "SN2017hca",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0134",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-10-14.65"
+        }
+    ],
+    "References": "ATel #10889; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Keck II 10-m",
+    "Instrument": "DEIMOS",
+    "Observatory": null
+}

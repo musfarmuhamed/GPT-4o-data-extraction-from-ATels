@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular cluster",
+            "Time": "04:57 - 05:28 UT",
+            "Date": "Oct. 26, 2011"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Markwardt & Swank 2000, IAUC # 7454",
+        "Wijnands et al. 2005, ApJ, 618, 883",
+        "Atel #2919,#2922,#2929,#2933,#2937,#2946,#2952,#2974",
+        "Heinke et al. 2006, ApJ, 651, 1098",
+        "Degenaar & Wijnands 2011, MNRAS, 414, L50"
+    ],
+    "Event Type": "Flux increase",
+    "Time": "04:57 - 05:28 UT",
+    "Date": "Oct. 26, 2011",
+    "Telescope": [
+        "RXTE",
+        "Swift",
+        "Chandra"
+    ],
+    "Instrument": [
+        "RXTE PCA",
+        "Swift/BAT"
+    ],
+    "Observatory": null
+}

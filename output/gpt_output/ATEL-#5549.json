@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1908+094",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": "2013-11-02"
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Persistent Emission Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #5523",
+        "Krimm et al. ATel #5529",
+        "Miller-Jones et al. #5530",
+        "Rushton et al. #5532"
+    ],
+    "Event Type": "Outburst",
+    "Time": null,
+    "Date": "2013-11-02",
+    "Telescope": [
+        "MAXI",
+        "Swift/BAT"
+    ],
+    "Instrument": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Observatory": [
+        "MAXI",
+        "Swift"
+    ]
+}

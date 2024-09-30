@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17lj (AT 2017gjd)",
+            "RA": "20:03:44.879",
+            "Dec": "-27:59:17.97",
+            "redshift": 0.020021,
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-08-29.01"
+        },
+        {
+            "Name": "ASASSN-17ll (AT 2017glb)",
+            "RA": "04:51:27.751",
+            "Dec": "-16:57:38.28",
+            "redshift": 0.037092,
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-08-28.62"
+        },
+        {
+            "Name": "ASASSN-17lm (AT 2017gkt)",
+            "RA": "23:36:25.944",
+            "Dec": "+27:23:54.24",
+            "redshift": 0.030464,
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-08-27.35"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "Gordon and Betty Moore Foundation",
+        "Ohio State University",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)"
+    ],
+    "Event Type": "Transient Discovery, Follow-up",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": [
+        "14-cm 'Brutus' telescope",
+        "14-cm 'Cassius' telescope"
+    ],
+    "Instrument": "Null",
+    "Observatory": [
+        "Haleakala, Hawaii",
+        "Cerro Tololo, Chile"
+    ]
+}

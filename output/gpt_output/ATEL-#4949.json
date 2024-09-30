@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1049.7+0435",
+            "RA": "162.43 deg",
+            "Dec": "4.60 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-08-27 to 2012-10-27"
+        },
+        {
+            "Name": "Fermi J1103.2+1145",
+            "RA": "165.81 deg",
+            "Dec": "11.75 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-08-27 to 2012-10-27"
+        }
+    ],
+    "References": [
+        "2FGL catalogue"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": "2008-08-27 to 2012-10-27",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

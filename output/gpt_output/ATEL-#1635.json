@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "05:53 UTC",
+            "Date": "2008-06-16"
+        },
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "02:30 UTC",
+            "Date": "2008-07-18"
+        },
+        {
+            "Name": "1A 1246-588",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Atel 1569",
+        "Atel 1616",
+        "Atel 1618",
+        "Atel 1621",
+        "Atel 1630",
+        "Jonker et al. MNRAS, 2007, 378, 1187"
+    ],
+    "Event Type": "detection of kilohertz quasiperiodic oscillations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

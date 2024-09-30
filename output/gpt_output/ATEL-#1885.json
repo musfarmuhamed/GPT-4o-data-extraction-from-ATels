@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS081118:025315+200613",
+            "RA": "02:53:14.87",
+            "Dec": "20:06:13.2",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:17:45",
+            "Date": "2008-11-18"
+        },
+        {
+            "Name": "CSS081204:110933+272440",
+            "RA": "11:09:32.94",
+            "Dec": "27:24:40.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:26:16",
+            "Date": "2008-12-04"
+        },
+        {
+            "Name": "CSS081222:093950+070347",
+            "RA": "09:39:49.91",
+            "Dec": "07:03:47.8",
+            "redshift": "0.019",
+            "Type": null,
+            "Time": "11:55:33",
+            "Date": "2008-12-22"
+        },
+        {
+            "Name": "CSS081222:121150+155451",
+            "RA": "12:11:50.13",
+            "Dec": "15:54:51.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "13:07:41",
+            "Date": "2008-12-22"
+        },
+        {
+            "Name": "CSS081231:082817+302454",
+            "RA": "08:28:17.15",
+            "Dec": "30:24:54.8",
+            "redshift": "0.05",
+            "Type": null,
+            "Time": "08:12:38",
+            "Date": "2008-12-31"
+        }
+    ],
+    "References": "Further to ATel#1823",
+    "Event Type": "supernova",
+    "Time": "not specified",
+    "Date": "not specified",
+    "Telescope": "CSS",
+    "Instrument": "P60",
+    "Observatory": null
+}

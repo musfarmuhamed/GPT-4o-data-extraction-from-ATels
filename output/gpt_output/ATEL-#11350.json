@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018ec",
+            "RA": "10:27:50.77",
+            "Dec": "-43:54:06.3",
+            "redshift": null,
+            "Type": "Type Ic supernova",
+            "Time": "20.91 UT",
+            "Date": "2018 Jan 20"
+        },
+        {
+            "Name": "NGC 3256",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Kankare et al. ATel# 11156",
+    "Event Type": "Observation",
+    "Time": "20.91 UT",
+    "Date": "2018 Jan 20",
+    "Telescope": "Giant Metrewave Radio Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

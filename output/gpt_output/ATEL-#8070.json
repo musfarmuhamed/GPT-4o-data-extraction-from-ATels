@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15baf",
+            "RA": "23:49:43.53",
+            "Dec": "+18:45:17.6",
+            "redshift": "0.044",
+            "Type": "Type Ia SN 2003cg",
+            "Time": "17.5 UT",
+            "Date": "2015 September 17"
+        },
+        {
+            "Name": "SDSS J234943.58+184516.9",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Baltay et al. 2013, PASP, 125, 683; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Discovery and spectral observation",
+    "Time": "August 26.2 UT, September 17.5 UT",
+    "Date": "2015 August 26, 2015 September 17",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": "La Silla-QUEST survey"
+}

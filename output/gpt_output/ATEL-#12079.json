@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018zd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": null,
+            "Date": "April 14, 2018 to July 15, 2018"
+        },
+        {
+            "Name": "Gaia18anr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn supernova",
+            "Time": null,
+            "Date": "April 14, 2018 to July 15, 2018"
+        }
+    ],
+    "References": [
+        "Zhang et al. (ATel #11379)",
+        "Gaia Photometric Alerts group (http://gsaweb.ast.cam.ac.uk/alerts)",
+        "Cambridge Photometric Calibration Server (http://gsaweb.ast.cam.ac.uk/followup)"
+    ],
+    "Event Type": "photometric observations",
+    "Time": [
+        "May 13, 2018",
+        "May 19, 2018"
+    ],
+    "Date": "April 14, 2018 to July 15, 2018",
+    "Telescope": "60-cm Cassegrain reflector",
+    "Instrument": null,
+    "Observatory": "Astronomical Observatory of the University of Wroclaw (Bialkow, Poland)"
+}

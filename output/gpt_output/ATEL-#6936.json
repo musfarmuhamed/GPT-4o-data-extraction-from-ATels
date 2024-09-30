@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bb",
+            "RA": "13:01:06.38",
+            "Dec": "-36:36:00.17",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "02:38:12",
+            "Date": "2015-01-16"
+        },
+        {
+            "Name": "ESO 381-IG048",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01587",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "observational discovery",
+    "Time": "02:38:12",
+    "Date": "2015-01-16",
+    "Telescope": [
+        "Cassius",
+        "0.5m CDK + FLI PL-9000"
+    ],
+    "Instrument": "double 14-cm",
+    "Observatory": [
+        "Cerro Tololo, Chile",
+        "Siding Springs Observatory"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J024231.12+082526.7",
+            "RA": "02h 42m 31.12s",
+            "Dec": "+08d 25m 26.7s",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "2014-11-11.64773",
+            "Date": "2014-11-11"
+        },
+        {
+            "Name": "GALEX J024231.4+082534",
+            "RA": null,
+            "Dec": null,
+            "redshift": "unknown",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/024231.12082526.7.png",
+    "Event Type": "Discovery",
+    "Time": "2014-11-11.64773",
+    "Date": "2014-11-11",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

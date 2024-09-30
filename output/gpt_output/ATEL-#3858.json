@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS111117:112759+362029",
+            "RA": "11h 28m 59.4s",
+            "Dec": "+35d 56m 46.4s",
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:00 UT",
+            "Date": "2011-11-17"
+        },
+        {
+            "Name": "BZQJ1127+3620",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1127.6+3622",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #3853",
+    "Event Type": "gamma-ray emission",
+    "Time": "00:00 UT",
+    "Date": "2011-11-17",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

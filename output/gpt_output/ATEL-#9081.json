@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fn",
+            "RA": "12:56:58.887",
+            "Dec": "-15:32:10.51",
+            "redshift": null,
+            "Type": "probable supernova",
+            "Time": "2016-05-26.21",
+            "Date": "2016-05-26"
+        },
+        {
+            "Name": "ASASSN-16fo",
+            "RA": "13:32:35.812",
+            "Dec": "-05:16:21.33",
+            "redshift": "0.029610",
+            "Type": "probable supernova",
+            "Time": "2016-05-26.23",
+            "Date": "2016-05-26"
+        }
+    ],
+    "References": null,
+    "Event Type": "detection of probable supernovae",
+    "Time": "2016-05-26",
+    "Date": "2016-05-26",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "unknown",
+            "Date": "29 June 2018"
+        },
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "17:17:14-17:39:53 UT",
+            "Date": "30 June 2018"
+        }
+    ],
+    "References": [
+        "ATel #11727",
+        "ATel #11761"
+    ],
+    "Event Type": "X-ray flux observation",
+    "Time": "17:17:14-17:39:53 UT",
+    "Date": "30 June 2018",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Unknown"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12agq",
+            "RA": "10:17:41.65",
+            "Dec": "-07:24:54.4",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "March 2"
+        },
+        {
+            "Name": "LSQ12aor",
+            "RA": "10:55:17.63",
+            "Dec": "-14:18:01.3",
+            "redshift": "0.10",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "March 2"
+        },
+        {
+            "Name": "LSQ12apf",
+            "RA": "11:27:08.06",
+            "Dec": "-09:13:22.3",
+            "redshift": "0.19",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "March 2"
+        }
+    ],
+    "References": "La Silla-QUEST survey",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "LDSS3",
+    "Observatory": null
+}

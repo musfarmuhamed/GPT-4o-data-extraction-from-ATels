@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-08",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "14:48 UT",
+            "Date": "2007-08-27"
+        },
+        {
+            "Name": "3EG J1512-0849",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #1199",
+        "ATEL #1204"
+    ],
+    "Event Type": "gamma-ray emission detection",
+    "Time": "12:00 UT",
+    "Date": "2008-03-16",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

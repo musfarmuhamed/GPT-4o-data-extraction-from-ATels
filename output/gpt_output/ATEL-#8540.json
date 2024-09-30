@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016I",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-IIP supernova",
+            "Time": "13.93",
+            "Date": "2016 Jan. 13"
+        },
+        {
+            "Name": "SN 2004et",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-IIP supernova",
+            "Time": "+6 days since the explosion",
+            "Date": null
+        }
+    ],
+    "References": "ATel#8537; Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "Optical spectrum observation",
+    "Time": "13.93",
+    "Date": "2016 Jan. 13",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "Li-Jiang observatory of Yunnan Observatories"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible nova in the M81 galaxy",
+            "RA": "09:55:05.63",
+            "Dec": "+69:06:47.3",
+            "redshift": null,
+            "Type": "Transient object",
+            "Time": "15:193",
+            "Date": "2016-10-15"
+        }
+    ],
+    "References": [
+        "M81 nova monitoring collaboration"
+    ],
+    "Event Type": "nova",
+    "Time": "15.035",
+    "Date": "2016-10-15",
+    "Telescope": [
+        "Liverpool Telescope (LT)",
+        "Telescopi Joan Oro (TJO)"
+    ],
+    "Instrument": [
+        "IO:O optical CCD camera",
+        "Finger Lakes PL4240-1-BI CCD Camera"
+    ],
+    "Observatory": [
+        "Observatorio del Roque de los Muchachos",
+        "Observatori Astronomic del Montsec"
+    ]
+}

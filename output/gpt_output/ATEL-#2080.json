@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New Radio Transient in M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Chandra X-ray source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Radio Supernova Remnant (source 34)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio supernova remnant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Muxlow et al. (ATel #2073); MNRAS, 391, 1384",
+    "Event Type": "Archival observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

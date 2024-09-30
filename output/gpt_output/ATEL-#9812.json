@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ns",
+            "RA": "10:04:18.591",
+            "Dec": "+43:25:29.13",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-11-27.57",
+            "Date": "2016-11-27"
+        },
+        {
+            "Name": "GALEXASC J100418.99+432525.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Tool": "NED",
+            "Information": "redshift unavailable"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2016-11-27.57",
+    "Date": "2016-11-27",
+    "Telescope": "Brutus",
+    "Instrument": "14-cm quadruple",
+    "Observatory": "Haleakala, Hawaii"
+}

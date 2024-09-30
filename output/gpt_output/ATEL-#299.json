@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Black Hole Binary",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "4.65-4.75 UT",
+            "Date": "July 4"
+        },
+        {
+            "Name": "H-alpha Emission Line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "4.65-4.75 UT",
+            "Date": "July 4"
+        },
+        {
+            "Name": "He 6678 Line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "4.65-4.75 UT",
+            "Date": "July 4"
+        },
+        {
+            "Name": "He 5015 Line",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Double-peaked emission",
+            "Time": "4.49-4.73 UT",
+            "Date": "July 4"
+        }
+    ],
+    "References": "vsnet-obs, vsnet-alert",
+    "Event Type": "Current outburst observation",
+    "Time": "4.49-4.75 UT",
+    "Date": "July 4",
+    "Telescope": "Siding Spring 2.3-m telescope",
+    "Instrument": "DBS CCD spectrograph",
+    "Observatory": "Siding Spring"
+}

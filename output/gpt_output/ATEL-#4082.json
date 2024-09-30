@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 120422A",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.283,
+            "Type": "optical counterpart",
+            "Time": "Apr. 25.86 UT",
+            "Date": "Apr. 25.86 UT"
+        },
+        {
+            "Name": "GRB 120422A",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.283,
+            "Type": "optical counterpart",
+            "Time": "Apr. 30.90 UT",
+            "Date": "Apr. 30.90 UT"
+        }
+    ],
+    "References": [
+        "Troja et al., GCN 13243",
+        "Cucchiara et al., GCN 13245",
+        "Tanvir et al., GCN 13251",
+        "Schulze et al., GCN 13257",
+        "Perley et al., GCN 13267",
+        "GCN 13275"
+    ],
+    "Event Type": "re-brightening",
+    "Time": null,
+    "Date": null,
+    "Telescope": "NOT",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01125492+0058457",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "2 to 3 weeks past maximum light",
+            "Date": null
+        },
+        {
+            "Name": "SN 2001en",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "18 days past maximum",
+            "Date": null
+        },
+        {
+            "Name": "NGC 428",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.003843",
+            "Type": "presumed host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Marion et al. 2009, A.J. 138, 727",
+    "Event Type": "near-infrared spectrum observation",
+    "Time": "May 22.42 UT",
+    "Date": null,
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": null
+}

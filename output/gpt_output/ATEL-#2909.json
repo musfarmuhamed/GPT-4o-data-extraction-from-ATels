@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2010-09b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "06.40 UT",
+            "Date": "2010 Oct. 06"
+        },
+        {
+            "Name": "M31N 2010-10a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "06.38 UT",
+            "Date": "2010 Oct. 06"
+        }
+    ],
+    "References": [
+        "CBET #2472",
+        "ATel #2896",
+        "ATel #2898"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": "06.40 UT",
+    "Date": "2010 Oct. 06",
+    "Telescope": "9.2m Hobby-Eberly Telescope (HET)",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "Hobby-Eberly Telescope"
+}

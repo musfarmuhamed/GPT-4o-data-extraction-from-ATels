@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova ASASSN-17hx",
+            "RA": "18:31:45.918",
+            "Dec": "-14:18:55.57",
+            "redshift": null,
+            "Type": "Galactic Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVVX J183145.86-141855.4",
+            "RA": "18:31:45.86",
+            "Dec": "-14:18:55.4",
+            "redshift": null,
+            "Type": "Likely progenitor of Nova ASASSN-17hx",
+            "Time": null,
+            "Date": [
+                {
+                    "MJD": 57578.11448876,
+                    "Ks-mag": "16.833\u00b10.170",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57590.08239123,
+                    "Ks-mag": "16.679\u00b10.146",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57591.29292707,
+                    "Ks-mag": "16.742\u00b10.173",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57592.22676851,
+                    "Ks-mag": "16.581\u00b10.136",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57596.09545291,
+                    "Ks-mag": "16.621\u00b10.141",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57597.10955365,
+                    "Ks-mag": "no detection",
+                    "flag": null
+                },
+                {
+                    "MJD": 57607.05180765,
+                    "Ks-mag": "16.706\u00b10.155",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57607.14174894,
+                    "Ks-mag": "16.953\u00b10.193",
+                    "flag": "-1"
+                },
+                {
+                    "MJD": 57609.03246557,
+                    "Ks-mag": "16.702\u00b10.141",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57609.05673931,
+                    "Ks-mag": "16.667\u00b10.133",
+                    "flag": "+1"
+                },
+                {
+                    "MJD": 57624.06533986,
+                    "Ks-mag": "16.621\u00b10.136",
+                    "flag": "-1"
+                },
+                {
+                    "MJD": 57625.1291143,
+                    "Ks-mag": "no detection",
+                    "flag": null
+                }
+            ]
+        }
+    ],
+    "References": [
+        "ATel #10523",
+        "ATel #10527",
+        "ATel #10542",
+        "ApJ 737, 103S",
+        "Saito et al. 2012 (A&A, 537, A107)",
+        "Cardelli et al. (1989, ApJ, 345, 245)"
+    ],
+    "Event Type": "Rise of a likely Galactic Nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "VISTA",
+    "Instrument": "ESO Public Survey programme ID 198.B-2004",
+    "Observatory": "ESO"
+}

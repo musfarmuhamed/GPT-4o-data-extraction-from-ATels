@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1539.2-6227",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:28",
+            "Date": "2009-02-23"
+        },
+        {
+            "Name": "USNO-B1.0 0275-0755633",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "field star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #1855, #1893",
+        "ATel #1893",
+        "Schlegel et al. 1998,ApJ,500,525",
+        "Jonker et al. arXiv:0806.3888"
+    ],
+    "Event Type": "optical counterpart observation",
+    "Time": "09:28",
+    "Date": "2009-02-23",
+    "Telescope": "Magellan-Clay",
+    "Instrument": "MagE echellette spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT J113122.95-075714.5",
+            "RA": "11h 31m 22.95s",
+            "Dec": "-07d 57' 14.5\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:05:11 - 00:08:11 UT",
+            "Date": "2012-01-30"
+        },
+        {
+            "Name": null,
+            "RA": "11h 30m 41.26s",
+            "Dec": "-07d 54' 22.9\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:05:11 - 00:08:11 UT",
+            "Date": "2012-01-30"
+        },
+        {
+            "Name": null,
+            "RA": "11h 32m 05.44s",
+            "Dec": "-08d 00' 09.2\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:05:11 - 00:08:11 UT",
+            "Date": "2012-01-30"
+        }
+    ],
+    "References": "Atel #3898",
+    "Event Type": "reflection off the high orbit satellite (geosynchronous)",
+    "Time": "00:05:11 - 00:08:11 UT",
+    "Date": "2012-01-30",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "autodetection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

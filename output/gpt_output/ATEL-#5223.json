@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13bxj",
+            "RA": "14 20 59.41",
+            "Dec": "+15 09 42.1",
+            "redshift": "0.06",
+            "Type": "SN II",
+            "Time": "Jul 2.68",
+            "Date": "Null"
+        },
+        {
+            "Name": "iPTF13byy",
+            "RA": "16 35 41.07",
+            "Dec": "+37 25 12.8",
+            "redshift": "0.23",
+            "Type": "SN Ia -5d",
+            "Time": "Jul 13.71",
+            "Date": "Null"
+        },
+        {
+            "Name": "iPTF13byz",
+            "RA": "16 12 20.50",
+            "Dec": "+16 29 16.3",
+            "redshift": "0.215",
+            "Type": "SN Ia +9d",
+            "Time": "Jul 12.79",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATel #4807",
+    "Event Type": "discovery and classification of three new SNe",
+    "Time": "July 16",
+    "Date": "Null",
+    "Telescope": "Palomar 200\" Telescope",
+    "Instrument": "Double Spectrograph (DBSP)",
+    "Observatory": "Null"
+}

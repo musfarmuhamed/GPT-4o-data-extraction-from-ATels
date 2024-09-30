@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J1035-6055",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Gamma-ray transient",
+            "Time": "15:40",
+            "Date": "2017-01-09"
+        },
+        {
+            "Name": "IGRJ11215-5952",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Supergiant Fast X-ray Transient",
+            "Time": null,
+            "Date": "2017-01-09"
+        }
+    ],
+    "References": [
+        "ATel #9947",
+        "ATel #9955",
+        "Romano et al. 2009"
+    ],
+    "Event Type": "Galactic Plane Scans",
+    "Time": "15:40",
+    "Date": "2017-01-09",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X1",
+        "JEM-X2"
+    ],
+    "Observatory": "INTEGRAL"
+}

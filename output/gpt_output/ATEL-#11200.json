@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "194.046527",
+            "Dec": "-5.789312",
+            "redshift": "0.536",
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "03:50 UT",
+            "Date": "2018-01-18"
+        }
+    ],
+    "References": [
+        "ATel #7631",
+        "ATel #7633",
+        "Pittori et al. 2018",
+        "ATel #11189",
+        "ATel #11115",
+        "ATel #11190",
+        "ATel #11196"
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": "03:50 UT",
+    "Date": "2018-01-18",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": "AGILE Observatory"
+}

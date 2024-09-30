@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2006-06a",
+            "RA": "00:43:11.81",
+            "Dec": "+41:13:44.7",
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "June 27.12713",
+            "Date": "2006"
+        },
+        {
+            "Name": "M31N 2005-09a",
+            "RA": "00:42:52.30",
+            "Dec": "+41:19:58.3",
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "Sep 19.08361",
+            "Date": "2005"
+        },
+        {
+            "Name": "M31N 2005-09b",
+            "RA": "00:38:49.49",
+            "Dec": "+40:19:58.3",
+            "redshift": null,
+            "Type": "Fe II or hybrid nova",
+            "Time": "Sep 16.02629",
+            "Date": "2005"
+        },
+        {
+            "Name": "M31N 2005-06d",
+            "RA": "00:45:05.20",
+            "Dec": "+41:33:39.8",
+            "redshift": null,
+            "Type": "hybrid nova",
+            "Time": "Jun 16.12269",
+            "Date": "2005"
+        }
+    ],
+    "References": [
+        "ATel #821",
+        "http://cfa-www.harvard.edu/iau/CBAT_M31.html",
+        "ATel #844",
+        "ATel #600",
+        "ATels #518",
+        "ATel #520"
+    ],
+    "Event Type": "nova outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.2 m telescope",
+    "Instrument": "Calar Alto Faint Object Spectrograph (CAFOS)",
+    "Observatory": "Calar Alto, Spain"
+}

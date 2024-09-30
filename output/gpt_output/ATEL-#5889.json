@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01217-7257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SMC732.03.3540",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "OGLE-IV star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[MA93]1888",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Coe et al.",
+            "Year": 2014,
+            "ATel": "#5806"
+        },
+        {
+            "Author": "Meyssonnier & Azzopardi",
+            "Year": 1993,
+            "Publication": "A&AS",
+            "Volume": 102,
+            "Page": 451
+        },
+        {
+            "Author": "Udalski",
+            "Year": 2008,
+            "Publication": "Acta Astron.",
+            "Volume": 58,
+            "Page": 187
+        }
+    ],
+    "Event Type": "Discovered a bright X-ray source",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

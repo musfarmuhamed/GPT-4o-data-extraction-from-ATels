@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17445-2447",
+            "RA": "17h 44m 30.437s",
+            "Dec": "-27d 46' 00.32\"",
+            "redshift": null,
+            "Type": "neutron star and type 1 X-ray burster",
+            "Time": "21:57",
+            "Date": "2017-05-08"
+        },
+        {
+            "Name": "2MASS J17443041-2746004",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bright suggested IR counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "UGPS J174430.20-274601.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint suggested IR counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #10256",
+        "ATEL #10265",
+        "ATEL #10273",
+        "ATEL #10284",
+        "ATEL #10305",
+        "ATEL #10272"
+    ],
+    "Event Type": "X-ray transient localization",
+    "Time": "21:57",
+    "Date": "2017-05-08",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": "ACIS-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

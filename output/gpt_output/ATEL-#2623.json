@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 1030+61",
+            "RA": 158.46429,
+            "Dec": 60.85203,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "May 17, 2010"
+        },
+        {
+            "Name": "1FGL J1033.8+6048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GB6 J1032+60511",
+            "RA": 158.22483,
+            "Dec": 60.85767,
+            "redshift": null,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "May 17, 2010"
+        }
+    ],
+    "References": "ATEL #2622, Abazajian et al. 2005, AJ, 129, 1755, Abdo et al. 2010; arXiv:1002.2280",
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "May 17, 2010",
+    "Telescope": "2.3m Bok Telescope",
+    "Instrument": "SPOL spectropolarimeter",
+    "Observatory": "Kitt Peak, AZ"
+}

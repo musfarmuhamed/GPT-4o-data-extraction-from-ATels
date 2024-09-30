@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2007-11g",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Long-Period Variable",
+            "Time": "2008-11-17.23",
+            "Date": "2008-11-17"
+        },
+        {
+            "Name": "M31N 1995-11e",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Long-Period Variable",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Ovcharov et al. 2007; Atel #1312; Shafter et al. 2008; Atel #1834",
+    "Event Type": "spectral observation",
+    "Time": "2008-11-18.3",
+    "Date": "2008-11-18",
+    "Telescope": "9.2-m Hobby Eberly Telescope",
+    "Instrument": "Marcario Low-Resolution Spectrograph",
+    "Observatory": "Steward Observatory, Kitt Peak, Arizona, USA"
+}

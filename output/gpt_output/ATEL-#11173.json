@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1630-276",
+            "RA": "247.563",
+            "Dec": "-27.547",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "11:42",
+            "Date": "2017-11-17"
+        },
+        {
+            "Name": "MAXI J1630-276",
+            "RA": "247.860",
+            "Dec": "-27.406",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2017-11-17 to 2017-11-19"
+        }
+    ],
+    "References": [
+        "ATel #10984",
+        "Morii et al. 2016, PASJ, 68S, a11"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": "11:42",
+    "Date": "2017-11-17",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": "Null"
+}

@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1830-211",
+            "RA": 278.416201,
+            "Dec": -21.061048,
+            "redshift": 2.507,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": "2018-11-29"
+        },
+        {
+            "Name": "TXS 0646-176",
+            "RA": 102.118744,
+            "Dec": -17.734844,
+            "redshift": 1.232,
+            "Type": null,
+            "Time": null,
+            "Date": "2018-11-29"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "van Ommen et al., 1995, ApJ, 444, 561",
+        "Lovell et al. 1998, ApJ, 508, L51",
+        "Wiklind & Combes 1996, Nature, 379, 11",
+        "Abdo et al. 2015, ApJ, 799, 143",
+        "ATel#12136",
+        "ATel#6361",
+        "ATel#4158",
+        "ATel#2943",
+        "ATel#2242",
+        "ATel#2950",
+        "Petrov et al. 2006, AJ, 131, 1872",
+        "Hewitt & Burbidge 1993, ApJS, 87, 451"
+    ],
+    "Event Type": "gamma-ray outburst activity",
+    "Time": null,
+    "Date": "2018-11-29",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

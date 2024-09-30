@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High magnetic field pulsar / Magnetar",
+            "Time": "15:36:52",
+            "Date": "03 December 2016"
+        },
+        {
+            "Name": "XTE J1810-197",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SGR J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSR J1622-4950",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Majid et al. (2016; arXiv:1612.02868)",
+        "Burgay et al., ATel #9366",
+        "Kennea et al., GCN Circular #19735",
+        "Younes et al., GCN Circular #19736",
+        "Kenna et al., ATel #9274",
+        "Archibald et al. (2016)",
+        "G\u00f6g\u00fc\u0219 et al. (2016)",
+        "Camilo et al. (2007)",
+        "Lazaridis et al. (2008)",
+        "Torne et al. (2015)",
+        "Anderson et al. (2012)"
+    ],
+    "Event Type": "Observation",
+    "Time": "15:36:52",
+    "Date": "03 December 2016",
+    "Telescope": "70-m diameter Deep Space Network (DSN) radio dish (DSS-43)",
+    "Instrument": "Filterbank search mode with 512 us time resolution",
+    "Observatory": "Canberra, Australia"
+}

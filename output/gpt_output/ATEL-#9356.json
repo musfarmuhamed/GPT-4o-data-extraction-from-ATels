@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient black hole LMXB",
+            "Time": "16:00:36 UTC",
+            "Date": "2016-08-05"
+        },
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient neutron star LMXB",
+            "Time": "16:00:36 UTC",
+            "Date": "2016-08-05"
+        },
+        {
+            "Name": "H 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "known LMXB, Burst and Atoll source",
+            "Time": "16:00:36 UTC",
+            "Date": "2016-08-05"
+        }
+    ],
+    "References": "ATel #9330",
+    "Event Type": "renewed activity from transient X-ray sources",
+    "Time": "16:00:36 UTC",
+    "Date": "2016-08-05",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI and JEM-X1+JEM-X2",
+    "Observatory": "INTEGRAL"
+}

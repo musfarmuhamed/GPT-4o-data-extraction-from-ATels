@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16alk (AT2016brw)",
+            "RA": "17:08:26.60",
+            "Dec": "25:30:51.00",
+            "redshift": "0.007",
+            "Type": "type II supernova",
+            "Time": "01:58:41",
+            "Date": "2016-04-24"
+        },
+        {
+            "Name": "UGC 1072",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0097",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AT2016brv",
+            "RA": "12:05:14.48",
+            "Dec": "10:36:55.40",
+            "redshift": "0.034",
+            "Type": "type Ia supernova, probably a 91bg sub-type",
+            "Time": "22:05:52",
+            "Date": "2016-04-23"
+        },
+        {
+            "Name": "NGC 4083",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033416",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observation",
+    "Time": "Various (see Celestial Object)",
+    "Date": "Various (see Celestial Object)",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos, La Palma"
+}

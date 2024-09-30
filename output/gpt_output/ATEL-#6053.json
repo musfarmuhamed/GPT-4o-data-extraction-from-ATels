@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:00:00",
+            "Date": "2013-12-10"
+        },
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:00:00",
+            "Date": "2014-03-11"
+        },
+        {
+            "Name": "3C 279",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "00:00:00",
+            "Date": "2014-03-30"
+        }
+    ],
+    "References": [
+        "http://128.32.15.133/kait/agn/lightcurve_all/J1256-0547_kait.png",
+        "http://hercules.berkeley.edu/kait-agn/"
+    ],
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Katzman Automatic Imaging Telescope (KAIT)",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "Lick Observatory"
+}

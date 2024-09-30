@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS V +44 17",
+            "RA": "04h41m08s",
+            "Dec": "44d32m24s",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "05:40:22",
+            "Date": "2010-09-01"
+        },
+        {
+            "Name": "RX J0440.9+4431",
+            "RA": "04h41m08s",
+            "Dec": "44d32m24s",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "05:40:22",
+            "Date": "2010-09-01"
+        }
+    ],
+    "References": [
+        "Krivonos et al., 2010, arXiv:1006.4437",
+        "GCN #10561",
+        "ATEL #2527",
+        "ATEL #2537"
+    ],
+    "Event Type": "Outburst",
+    "Time": "05:40:22",
+    "Date": "2010-09-01",
+    "Telescope": null,
+    "Instrument": "ISGRI",
+    "Observatory": "INTEGRAL"
+}

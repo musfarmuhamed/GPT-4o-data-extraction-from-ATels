@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16alf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.094,
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": "2016 April 19"
+        },
+        {
+            "Name": "2MASX J16401616+2246580",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.094,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": "2016 April 19"
+        }
+    ],
+    "References": "ESA Gaia, DPAC and the Photometric Science Alerts Team (http://gsaweb.ast.cam.ac.uk/alerts)",
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": "2016 April 19",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS + R300B/R158R",
+    "Observatory": "William Herschel Telescope"
+}

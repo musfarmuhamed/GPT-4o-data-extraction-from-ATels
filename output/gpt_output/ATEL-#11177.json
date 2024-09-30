@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018gv",
+            "RA": "08 05 34.60",
+            "Dec": "-11 26 16.2",
+            "redshift": "0.0053",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20180115"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "16.1 UT",
+    "Date": "2018 Jan 16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1810-189",
+            "RA": "18h 10m 20.86s",
+            "Dec": "-19d 04' 11.2\"",
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "00:15 TT",
+            "Date": "2008 April 23"
+        },
+        {
+            "Name": "SAX J1750.8-2900",
+            "RA": "17h 50m 24.42s",
+            "Dec": "-29d 02' 15.4\"",
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "00:13 TT",
+            "Date": "2008 April 24"
+        }
+    ],
+    "References": [
+        "ATEL #1441",
+        "ATEL #1446",
+        "ATEL #1472"
+    ],
+    "Event Type": "Observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "HRC-S",
+    "Observatory": null
+}

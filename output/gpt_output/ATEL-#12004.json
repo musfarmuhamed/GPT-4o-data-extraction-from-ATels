@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "AMXP",
+            "Time": "14:03:53",
+            "Date": "2018-08-17"
+        }
+    ],
+    "References": [
+        "ATEL #11941",
+        "ATEL #11954",
+        "ATEL #11957",
+        "ATEL #11970",
+        "ATEL #11981",
+        "ATEL #11988",
+        "ATEL #12000",
+        "Table 1 of Sanna et al. (2018) (arXiv:1808.10195)",
+        "http://www.sron.nl/~kuiper/ATEL/IGRJ17591-2342/"
+    ],
+    "Event Type": "outburst",
+    "Time": "14:03:53",
+    "Date": "2018-08-17",
+    "Telescope": [
+        "INTEGRAL",
+        "NuSTAR",
+        "XRT"
+    ],
+    "Instrument": [
+        "ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": [
+        "The Neil Gehrels Swift Observatory",
+        "INTEGRAL",
+        "NuSTAR"
+    ]
+}

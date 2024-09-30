@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star merger",
+            "Time": "000000",
+            "Date": "2018-01-26"
+        },
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star merger",
+            "Time": "000000",
+            "Date": "000000"
+        },
+        {
+            "Name": "GW170817",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star merger",
+            "Time": "000000",
+            "Date": "000000"
+        }
+    ],
+    "References": [
+        "Nynka et al., 2018",
+        "Alexander et al., 2018",
+        "D'Avanzo et al., 2018",
+        "Ruan et al., 2018",
+        "Margutti et al., 2017"
+    ],
+    "Event Type": "observation",
+    "Time": "000000",
+    "Date": "2018-01-26",
+    "Telescope": "XMM-Newton",
+    "Instrument": null,
+    "Observatory": null
+}

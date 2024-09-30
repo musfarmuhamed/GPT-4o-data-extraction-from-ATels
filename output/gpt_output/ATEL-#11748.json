@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018cow",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "Phenomenon",
+            "Time": "20.85",
+            "Date": "2018-06-20"
+        },
+        {
+            "Name": "CGCG 137-068",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.014,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smartt et al. ATel #11727",
+        "Smartt et al. ATel #11742",
+        "Jones et al. ATel #11736",
+        "Perley ATel #11732",
+        "Selsing et al. ATel #11741",
+        "Xu et al. ATel #11740"
+    ],
+    "Event Type": "Spectroscopic Observations",
+    "Time": "20.85",
+    "Date": "2018-06-20",
+    "Telescope": "2-metre HCT",
+    "Instrument": "HFOSC",
+    "Observatory": null
+}

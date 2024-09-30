@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HOPS 358",
+            "RA": "05:46:07.2",
+            "Dec": "-00:13:30.9",
+            "redshift": null,
+            "Type": "YSO",
+            "Time": null,
+            "Date": "2015-12-26 to 2018-03-31"
+        },
+        {
+            "Name": "HOPS 316",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Herczeg et al. 2017 ApJ, 849, 43",
+        "Johnstone et al. 2018 ApJ, 854, 31",
+        "Mairs et al. 2017 ApJ, 843, 55",
+        "Furlan et al. 2016, ApJS, 224, 5",
+        "Stutz et al. 2013 ApJ, 767, 36",
+        "Bontemps et al. 1995, A&A, 297, 98",
+        "Kang et al. 2015, ApJ, 814,31",
+        "Chen et al. 2013, ApJ, 768, 110"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "James Clerk Maxwell Telescope (JCMT)",
+    "Instrument": "SCUBA2",
+    "Observatory": null
+}

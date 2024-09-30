@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17511-3057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": [
+                {
+                    "Time": "55090.14",
+                    "Date": "2009 Sep. 16"
+                },
+                {
+                    "Time": "55092.13",
+                    "Date": "2009 Sep. 18"
+                },
+                {
+                    "Time": "55099.13",
+                    "Date": "2009 Sep. 25"
+                }
+            ],
+            "Date": [
+                "2009 Sep. 16",
+                "2009 Sep. 18",
+                "2009 Sep. 25"
+            ]
+        }
+    ],
+    "References": [
+        "ATels #2196",
+        "#2197",
+        "#2198",
+        "#2199",
+        "#2215",
+        "#2216",
+        "#2220",
+        "#2221"
+    ],
+    "Event Type": "radio observations",
+    "Time": [
+        "55090.14",
+        "55092.13",
+        "55099.13"
+    ],
+    "Date": [
+        "2009 Sep. 16",
+        "2009 Sep. 18",
+        "2009 Sep. 25"
+    ],
+    "Telescope": "Very Large Array (VLA)",
+    "Instrument": null,
+    "Observatory": null
+}

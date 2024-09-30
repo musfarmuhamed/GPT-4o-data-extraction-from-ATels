@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:40 and 23:55",
+            "Date": "2017 September 2"
+        },
+        {
+            "Name": "Cir X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXI J1543-563",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #21788",
+        "ATel #10700",
+        "ATel #10699",
+        "ATel #10702",
+        "Negoro et al. 2016, PASJ, 68, S1",
+        "Heinz et al. 2015, ApJ, 806, 265",
+        "Stiele et al. 2012, MNRAS, 422, 679",
+        "GCN #21792",
+        "Fender et al. 2004, MNRAS, 355, 1105"
+    ],
+    "Event Type": "outburst",
+    "Time": "14:40 and 23:55",
+    "Date": "2017 September 2",
+    "Telescope": "Swift, MAXI/GSC",
+    "Instrument": "MAXI Nova-Alert systems, GSC",
+    "Observatory": null
+}

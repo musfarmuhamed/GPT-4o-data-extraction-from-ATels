@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient",
+            "RA": "53.161661",
+            "Dec": "-27.859467",
+            "redshift": "Null",
+            "Type": "X-ray transient",
+            "Time": "07:36UT",
+            "Date": "2014-10-28"
+        },
+        {
+            "Name": "Nearest counterpart (galaxy with photometric redshift)",
+            "RA": "53.161842",
+            "Dec": "-27.859429",
+            "redshift": "0.31+-0.16",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "ATel #6541",
+        "ATel #6603",
+        "Guo et al. 2013, ApJS, 207, 24",
+        "Dahlen et al. 2013, ApJ, 775,93"
+    ],
+    "Event Type": "Observation of X-ray transient field",
+    "Time": "07:36UT-08:54UT",
+    "Date": "2014-10-28",
+    "Telescope": "Gemini-South 8m",
+    "Instrument": "GMOS camera",
+    "Observatory": "Gemini-South"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J03281419+3801111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernovae",
+            "Time": "22.6",
+            "Date": "2014 Dec.22"
+        },
+        {
+            "Name": "PGC 213221",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0176",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Harutyunyan et al. 2008, A&A, 488, 383",
+    "Event Type": "optical spectrogram",
+    "Time": "UT",
+    "Date": "2014 Dec.22",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of Yunnan Observatories"
+}

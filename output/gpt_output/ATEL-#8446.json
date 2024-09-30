@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HDE 245770",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star",
+            "Time": null,
+            "Date": "2457376"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Giovannelli et al.",
+            "Year": 2013,
+            "Journal": "A&A",
+            "Volume": 560,
+            "Page": "A1G"
+        },
+        {
+            "Authors": "Giovannelli et al.",
+            "Year": 2015,
+            "Journal": "Acta Astronomica",
+            "Volume": 65,
+            "Page": "107-116"
+        }
+    ],
+    "Event Type": "periastron passage",
+    "Time": null,
+    "Date": "JD 2457376",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

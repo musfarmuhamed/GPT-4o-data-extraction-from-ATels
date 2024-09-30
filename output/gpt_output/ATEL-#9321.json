@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio pulsar",
+            "Time": "23:41:12",
+            "Date": "31 July 2016"
+        },
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio pulsar",
+            "Time": "23:37:12",
+            "Date": "1 August 2016"
+        }
+    ],
+    "References": [
+        "GCN Circular #19735",
+        "Atel #9274",
+        "Atel#9284",
+        "Atel #9286",
+        "Archibald et al. (2016)",
+        "Antonopoulou et al., Atel #9282"
+    ],
+    "Event Type": "observations",
+    "Time": [
+        "23:41:12",
+        "23:37:12"
+    ],
+    "Date": [
+        "31 July 2016",
+        "1 August 2016"
+    ],
+    "Telescope": "Deep Space Network (DSN) 70-m diameter radio dish",
+    "Instrument": "pulsar backend (PSRM)",
+    "Observatory": "Canberra, Australia"
+}

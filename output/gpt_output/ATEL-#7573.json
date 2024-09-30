@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15amt",
+            "RA": "16 50 41.24",
+            "Dec": "+40 43 52.4",
+            "redshift": 0.11,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-04-29"
+        },
+        {
+            "Name": "iPTF15aov",
+            "RA": "11 21 59.10",
+            "Dec": "+52 55 41.5",
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-06"
+        },
+        {
+            "Name": "iPTF15aow",
+            "RA": "11 38 49.22",
+            "Dec": "+55 00 29.1",
+            "redshift": 0.08,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-06"
+        },
+        {
+            "Name": "iPTF15apg",
+            "RA": "15 25 45.20",
+            "Dec": "+59 21 10.9",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-10"
+        },
+        {
+            "Name": "iPTF15aph",
+            "RA": "15 22 55.59",
+            "Dec": "+56 25 51.0",
+            "redshift": 0.1,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-10"
+        },
+        {
+            "Name": "iPTF15aps",
+            "RA": "13 18 56.24",
+            "Dec": "+48 25 56.1",
+            "redshift": 0.12,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-11"
+        },
+        {
+            "Name": "iPTF15aqi",
+            "RA": "12 24 12.61",
+            "Dec": "+45 57 23.7",
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-11"
+        },
+        {
+            "Name": "iPTF15asr",
+            "RA": "12 06 09.83",
+            "Dec": "+58 02 02.9",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-12"
+        },
+        {
+            "Name": "iPTF15asx",
+            "RA": "12 31 26.19",
+            "Dec": "+06 07 35.2",
+            "redshift": 0.11,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-13"
+        },
+        {
+            "Name": "iPTF15auc",
+            "RA": "11 50 23.57",
+            "Dec": "+47 09 15.7",
+            "redshift": 0.14,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-18"
+        },
+        {
+            "Name": "iPTF15awr",
+            "RA": "15 01 19.14",
+            "Dec": "+16 46 47.9",
+            "redshift": 0.05,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2015-05-25"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Rebbapragada et al. 2015AAS...22543402R, Wozniak et al. 2013AAS...22143105W, Yaron & Gal-Yam 2012",
+    "Event Type": "Discovery and classification of Type Ia Supernovae",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Keck1, Lick 3-m",
+    "Instrument": "LRIS, KAST",
+    "Observatory": "Palomar Transient Factory"
+}

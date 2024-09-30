@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18aas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "01:26:24",
+            "Date": "2018-12-03"
+        },
+        {
+            "Name": "ATLAS18zre",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "01:26:24",
+            "Date": "2018-12-03"
+        },
+        {
+            "Name": "AT2018jhd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "CV",
+            "Time": "01:26:24",
+            "Date": "2018-12-03"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841; Shappee et al. 2014",
+    "Event Type": "Spectroscopic observation",
+    "Time": null,
+    "Date": "2018-12-04",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova-Asiago SN Group"
+}

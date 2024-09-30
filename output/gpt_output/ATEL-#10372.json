@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017eaw",
+            "RA": "20:34:44.24",
+            "Dec": "+60:11:35.90",
+            "redshift": "0.000133",
+            "Type": "Supernova candidate",
+            "Time": "05:42:43",
+            "Date": "2017-05-14"
+        },
+        {
+            "Name": "NGC 6946",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.000133",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Proposal 14156 - PI: Leroy, Adam",
+    "Event Type": "Supernova candidate discovery",
+    "Time": "10:30:31",
+    "Date": "2017-05-14",
+    "Telescope": "1m telescope",
+    "Instrument": "HST WFC3",
+    "Observatory": "Las Cumbres Observatory (LCO), McDonald observatory"
+}

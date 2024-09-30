@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J12015272-1852183",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ic Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Candidate A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potential progenitor star",
+            "Time": null,
+            "Date": {
+                "start": "2008-12-02",
+                "end": "2009-02-09"
+            }
+        },
+        {
+            "Name": "Candidate B",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potential progenitor star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Candidate C",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potential progenitor star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "HST proposal 11962, PI: A. Riess",
+        "Schlafly & Finkbeiner, 2011, ApJ, 737, 103"
+    ],
+    "Event Type": "Identification of potential progenitors",
+    "Time": "June 23.88 UT",
+    "Date": "2009-02-09",
+    "Telescope": "TNG Telescope",
+    "Instrument": "Dolores",
+    "Observatory": "Hubble Space Telescope (HST)"
+}

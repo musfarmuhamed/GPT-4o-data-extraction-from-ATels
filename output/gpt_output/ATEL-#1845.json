@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ANG-08B-M31-01",
+            "RA": "00:42:48.5",
+            "Dec": "+41:13:49.8",
+            "redshift": null,
+            "Type": "nova or binary microlensing event",
+            "Time": "20.02",
+            "Date": "October 20, 2008"
+        },
+        {
+            "Name": "ANG-08B-M31-02",
+            "RA": "00:42:56.4",
+            "Dec": "+41:15:46.7",
+            "redshift": null,
+            "Type": "microlensing",
+            "Time": "07.81",
+            "Date": "November 07, 2008"
+        },
+        {
+            "Name": "ANG-08B-M31-03",
+            "RA": "00:42:56.4",
+            "Dec": "+41:16:18.1",
+            "redshift": null,
+            "Type": "microlensing",
+            "Time": "07.81",
+            "Date": "November 07, 2008"
+        }
+    ],
+    "References": "Steele et al. 2004, Darnley et al. 2007, http://wiki.astro.ljmu.ac.uk/angstrom/index.php/Angstrom_Transient_Alerts:_2008",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "difference imaging techniques",
+    "Observatory": "La Palma"
+}

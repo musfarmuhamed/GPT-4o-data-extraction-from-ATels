@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J0229+2054",
+            "RA": "02h 29m 33s",
+            "Dec": "+20d 54m 47s",
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "15:34 UT",
+            "Date": "2008-07-30"
+        },
+        {
+            "Name": "CRATES J023030+211241",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1ES 0229+200",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": "15:34 UT",
+    "Date": "2008-07-30",
+    "Telescope": "AGILE",
+    "Instrument": "Gamma-Ray Imaging Detector (GRID)",
+    "Observatory": null
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13dl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027 +/- 0.003",
+            "Type": "Type Ia SN",
+            "Time": "22.5",
+            "Date": "2022-10-22",
+            "Instrument": "Modspec",
+            "Telescope": "MDM 2.4m",
+            "Observatory": null
+        },
+        {
+            "Name": "ASASSN-13dl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027 +/- 0.003",
+            "Type": "Type Ia SN",
+            "Time": "23.4",
+            "Date": "2022-10-23",
+            "Instrument": "B&C",
+            "Telescope": "Bok 2.3m",
+            "Observatory": null
+        }
+    ],
+    "References": [
+        "ATel #5460",
+        "ATel #5469",
+        "SNID (Blondin & Tonry 2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "spectroscopic observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m, Bok 2.3m",
+    "Instrument": "Modspec, B&C",
+    "Observatory": null
+}

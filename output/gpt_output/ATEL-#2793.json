@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-1000385",
+            "RA": "02:27:12.036",
+            "Dec": "-04:32:04.87",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "2010-08-05T13:25:36Z",
+            "Date": "2010-08-05"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Blondin & Tonry",
+            "Title": "ApJ",
+            "Year": 2007,
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2010-08-05T13:25:36Z",
+    "Date": "2010-08-05",
+    "Telescope": "Magellan Baade 6.5-m",
+    "Instrument": "IMACS",
+    "Observatory": "Pan-STARRS1"
+}

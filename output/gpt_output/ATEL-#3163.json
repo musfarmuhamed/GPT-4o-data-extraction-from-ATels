@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": "266.76125",
+            "Dec": "-28.88324",
+            "redshift": null,
+            "Type": "Recurrent transient",
+            "Time": "19:22UT",
+            "Date": "2011-02-11"
+        },
+        {
+            "Name": "MAXI J1745-288",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fermi/LAT transient",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3123",
+        "ATEL #3162"
+    ],
+    "Event Type": "Observation",
+    "Time": "19:22UT",
+    "Date": "2011-02-11",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT",
+    "Observatory": null
+}

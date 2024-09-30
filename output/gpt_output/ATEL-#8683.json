@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16acv",
+            "RA": "11:59:49.80",
+            "Dec": "54:48:07.60",
+            "redshift": "0.077",
+            "Type": "Ia supernova",
+            "Time": "23:34:08",
+            "Date": "2016-02-11"
+        },
+        {
+            "Name": "SDSS J115949.80+544807.1",
+            "RA": "11:59:49.80",
+            "Dec": "54:48:07.60",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observation",
+    "Time": "23:34:08",
+    "Date": "2016-02-11",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": "Roque de los Muchachos"
+}

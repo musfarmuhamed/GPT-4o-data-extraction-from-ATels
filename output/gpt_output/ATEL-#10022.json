@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bo",
+            "RA": "11:01:19.534",
+            "Dec": "+70:39:54.76",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "N/A",
+            "Date": "2017-01-28.59"
+        },
+        {
+            "Name": "ASASSN-17br",
+            "RA": "15:52:00.306",
+            "Dec": "+66:18:55.27",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "N/A",
+            "Date": "2017-01-29.63"
+        }
+    ],
+    "References": [
+        "All Sky Automated Survey for SuperNovae (ASAS-SN or 'Assassin')",
+        "G. Krannich",
+        "NED"
+    ],
+    "Event Type": "transient",
+    "Time": "N/A",
+    "Date": "N/A",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

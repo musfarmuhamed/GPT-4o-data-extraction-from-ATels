@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J120854.25+544158.0",
+            "RA": "12h 08m 54.25s",
+            "Dec": "+54d 41m 58.0s",
+            "redshift": 1.342,
+            "Type": "flaring quasar",
+            "Time": "2014-04-05.70135 UT",
+            "Date": "2014-04-05"
+        },
+        {
+            "Name": "MASTER OT J080941.65+534124.3",
+            "RA": "08h 09m 41.65s",
+            "Dec": "+53d 41m 24.3s",
+            "redshift": 2.133,
+            "Type": "flaring quasar",
+            "Time": "2014-04-13.50447 UT",
+            "Date": "2014-04-13"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J120854.25+544158.0",
+            "RA": "12h 08m 54.25s",
+            "Dec": "+54d 41m 58.0s",
+            "Date": "2011-04-03",
+            "Time": "2011-04-03.65551 UT",
+            "Magnitude": 20.3
+        },
+        {
+            "Name": "MASTER OT J080941.65+534124.3",
+            "RA": "08h 09m 41.65s",
+            "Dec": "+53d 41m 24.3s",
+            "Date": "2011-11-22",
+            "Time": "2011-11-22.75927 UT",
+            "Magnitude": "limit 18.5m"
+        }
+    ],
+    "Event Type": "flaring quasar",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        {
+            "Name": "MASTER-Tunka",
+            "Celestial Object": "MASTER OT J120854.25+544158.0"
+        },
+        {
+            "Name": "MASTER-Amur",
+            "Celestial Object": "MASTER OT J080941.65+534124.3"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGL J1734-3310",
+            "RA": "17h 34m 44s",
+            "Dec": "-33h 10m 38s",
+            "redshift": null,
+            "Type": "gamma-ray transient",
+            "Time": "00:00 UT",
+            "Date": "2009-04-14"
+        },
+        {
+            "Name": "1AGL J1736-3235",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17354-3255",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unidentified source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "gamma-ray transient detection",
+    "Time": "00:00 UT",
+    "Date": "2009-04-14",
+    "Telescope": "AGILE",
+    "Instrument": "Gamma-Ray Imaging Detector (GRID)",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17269-4737",
+            "RA": 261.72,
+            "Dec": -47.622,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2005 Oct. 6-7"
+        },
+        {
+            "Name": "XTE J1726-476",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #623",
+    "Event Type": "detection of a new X-ray transient",
+    "Time": null,
+    "Date": "2005 Oct. 6-7",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

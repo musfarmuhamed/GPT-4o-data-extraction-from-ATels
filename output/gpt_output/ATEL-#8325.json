@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ta",
+            "RA": "20 29 33.02",
+            "Dec": "-61 57 03.4",
+            "redshift": 0.015,
+            "Type": "Ib",
+            "Time": "3985-9315A",
+            "Date": "2015 Nov. 22"
+        },
+        {
+            "Name": "LSQ15bpg",
+            "RA": "02 41 06.90",
+            "Dec": "-29 32 34.1",
+            "redshift": null,
+            "Type": null,
+            "Time": "3985-9315A",
+            "Date": "2015 Nov. 22"
+        },
+        {
+            "Name": "PS15cww",
+            "RA": "04 56 33.69",
+            "Dec": "+04 45 26.2",
+            "redshift": 0.063,
+            "Type": "IIn",
+            "Time": "3985-9315A",
+            "Date": "2015 Nov. 22"
+        },
+        {
+            "Name": "PSNJ20293645-4350277",
+            "RA": "20 29 36.44",
+            "Dec": "-43 50 27.7",
+            "redshift": 0.023,
+            "Type": "Ic",
+            "Time": "3985-9315A",
+            "Date": "2015 Nov. 22"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; http://www.pessto.org; Baltay et al. 2013, PASP, 125, 683; Huber et al., ATel #7153; Shappee et al. 2014, ApJ, 788, 48; http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+    "Event Type": "supernova classifications",
+    "Time": "3985-9315A",
+    "Date": "2015 Nov. 22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 with the 1.5 arcsec slit",
+    "Observatory": "La Silla"
+}

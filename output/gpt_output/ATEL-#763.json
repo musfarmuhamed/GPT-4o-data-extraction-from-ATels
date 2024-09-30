@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0732.5-1331",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source, magnetic CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "nearby field star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #697",
+        "ATEL #735",
+        "ATEL #757",
+        "ATEL #760"
+    ],
+    "Event Type": "observation",
+    "Time": {
+        "Start": "unknown",
+        "End": "unknown"
+    },
+    "Date": {
+        "Start": "Jan 22",
+        "End": "Mar 1"
+    },
+    "Telescope": "Mt. Hopkins 1.5m telescope",
+    "Instrument": "FAST spectrograph",
+    "Observatory": "Mt. Hopkins"
+}

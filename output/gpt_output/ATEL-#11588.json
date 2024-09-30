@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TCP J04432130+4721280",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "Transient",
+            "Time": "2018 April 29.4740 UT",
+            "Date": "2018-04-29"
+        },
+        {
+            "Name": "V392 Per",
+            "RA": null,
+            "Dec": null,
+            "Redshift": null,
+            "Type": "U Gem type dwarf nova",
+            "Time": "2018 April 30.116 UT",
+            "Date": "2018-04-30"
+        }
+    ],
+    "References": [
+        "http://www.cbat.eps.harvard.edu/unconf/followups/J04432130+4721280.html",
+        "http://www.spectro-aras.com/forum/viewtopic.php?f=5&t=2015"
+    ],
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "2018 April 30.116 UT",
+    "Date": "2018-04-30",
+    "Telescope": "2.4 m Hiltner telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM Observatory on Kitt Peak"
+}

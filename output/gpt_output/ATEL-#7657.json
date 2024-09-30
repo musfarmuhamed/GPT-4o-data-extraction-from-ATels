@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15agq",
+            "RA": "16:01:41.227",
+            "Dec": "+40:50:15.92",
+            "redshift": 0.07,
+            "Type": "SN II",
+            "Time": "2015-06-13",
+            "Date": "2015-04-02.42"
+        },
+        {
+            "Name": "iPTF15alq",
+            "RA": "13:01:13.469",
+            "Dec": "+51:20:08.85",
+            "redshift": 0.033,
+            "Type": "SN II",
+            "Time": "2015-06-14",
+            "Date": "2015-04-16.36"
+        },
+        {
+            "Name": "iPTF15axu",
+            "RA": "14:50:30.026",
+            "Dec": "+50:31:46.46",
+            "redshift": 0.05,
+            "Type": "SN II",
+            "Time": "2015-06-13",
+            "Date": "2015-05-25.38"
+        },
+        {
+            "Name": "iPTF15axz",
+            "RA": "14:12:13.374",
+            "Dec": "+08:39:35.66",
+            "redshift": 0.024,
+            "Type": "SN II",
+            "Time": "2015-06-13",
+            "Date": "2015-05-18.27"
+        },
+        {
+            "Name": "iPTF15ban",
+            "RA": "14:08:56.982",
+            "Dec": "+53:17:05.81",
+            "redshift": 0.044,
+            "Type": "SN II",
+            "Time": "2015-06-13",
+            "Date": "2015-05-25.22"
+        }
+    ],
+    "References": "ATel #4807",
+    "Event Type": "Core-Collapse SNe",
+    "Time": null,
+    "Date": "2015",
+    "Telescope": "Keck1",
+    "Instrument": "LRIS",
+    "Observatory": "iPTF"
+}

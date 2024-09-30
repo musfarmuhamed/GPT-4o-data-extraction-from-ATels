@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1630-276",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": "19:20UT",
+            "Date": "2018 January 16"
+        },
+        {
+            "Name": "1RXS J163200.2-273335",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J163035.5-275500",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #11173",
+        "ATEL #10984"
+    ],
+    "Event Type": "observation",
+    "Time": "19:20UT",
+    "Date": "2018 January 16",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

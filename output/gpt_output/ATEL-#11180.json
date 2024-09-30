@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18am/AT2018gk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASN-18ao/AT2018gm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.04104",
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-18ap/AT2018gn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11178",
+    "Event Type": null,
+    "Time": null,
+    "Date": "2018 Jan 14-16",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

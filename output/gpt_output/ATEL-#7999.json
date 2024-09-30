@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0626-0501169",
+            "RA": "16:25:42.00",
+            "Dec": "-27:23:24.0",
+            "redshift": null,
+            "Type": [
+                "Swift X-ray source",
+                "RS CVn binary system",
+                "rapidly rotating young stellar object"
+            ],
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN 18231, ATels #7987, #7992, ASPC 485, 367",
+    "Event Type": "ANTARES neutrino detection",
+    "Time": "between 2015 Sep 03.93 and 03.97 UT",
+    "Date": "2015 Sep 03",
+    "Telescope": "Jansky VLA",
+    "Instrument": "L-band (1-2 GHz)",
+    "Observatory": "JVLA"
+}

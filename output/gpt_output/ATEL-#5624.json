@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V339 Del",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova Del 2013",
+            "Time": null,
+            "Date": "2013 Nov. 21"
+        }
+    ],
+    "References": "ATel#5409, ATel#5573, ATel#5593",
+    "Event Type": "nova observation",
+    "Time": null,
+    "Date": "2013 Nov. 21",
+    "Telescope": [
+        "Hubble Space Telescope (HST)",
+        "Nordic Optical Telescope"
+    ],
+    "Instrument": [
+        "STIS (medium resolution echelle)",
+        "FIES (high resolution echelle)"
+    ],
+    "Observatory": [
+        null,
+        "Observatorio del Roque de los Muchachos"
+    ]
+}

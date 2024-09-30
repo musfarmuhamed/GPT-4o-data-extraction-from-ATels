@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF-OT4",
+            "RA": "12 24 50.165",
+            "Dec": "+08 25 57.58",
+            "redshift": 0.09,
+            "Type": "Ic",
+            "Time": "UT 2009 Mar 17.2195",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT5",
+            "RA": "14 18 58.682",
+            "Dec": "+35 23 16.11",
+            "redshift": 0.027,
+            "Type": "II",
+            "Time": "UT 2009 Mar 17.2572",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT6",
+            "RA": "12 06 51.666",
+            "Dec": "+26 57 36.65",
+            "redshift": 0.046,
+            "Type": "Ia ~0d",
+            "Time": "UT 2009 Mar 17.1789",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT7",
+            "RA": "14 15 43.290",
+            "Dec": "+16 11 59.14",
+            "redshift": 0.039,
+            "Type": "II",
+            "Time": "UT 2009 Mar 17.2664",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT8",
+            "RA": "14 29 39.610",
+            "Dec": "+39 09 32.80",
+            "redshift": 0.126,
+            "Type": "Ia ~-7d",
+            "Time": "UT 2009 Mar 17.2557",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-0T9",
+            "RA": "13 27 10.500",
+            "Dec": "+31 30 32.50",
+            "redshift": 0.119,
+            "Type": "Ia ~0d",
+            "Time": "UT 2009 Mar 17.2091",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT10",
+            "RA": "11 41 54.054",
+            "Dec": "+10 25 46.06",
+            "redshift": 0.153,
+            "Type": "Ia -8d",
+            "Time": "UT 2009 Mar 17.1759",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT11",
+            "RA": "15 16 31.497",
+            "Dec": "+54 27 35.44",
+            "redshift": 0.04,
+            "Type": "II",
+            "Time": "UT 2009 Mar 17.2681",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT12",
+            "RA": "08 00 47.282",
+            "Dec": "+46 56 53.80",
+            "redshift": 0.121,
+            "Type": "Ia -2d",
+            "Time": "UT 2009 Mar 17.1418",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT13",
+            "RA": "09 15 36.571",
+            "Dec": "+50 34 51.48",
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": "UT 2009 Mar 17.1476",
+            "Date": "Mar 17"
+        },
+        {
+            "Name": "PTF-OT14",
+            "RA": "09 14 34.163",
+            "Dec": "+51 10 29.69",
+            "redshift": 0.149,
+            "Type": "Ia -4d",
+            "Time": "UT 2009 Mar 17.1476",
+            "Date": "Mar 17"
+        }
+    ],
+    "References": "ATEL#1964",
+    "Event Type": "Eleven optical transients",
+    "Time": "UT 2009 Mar 17",
+    "Date": "Mar 17, 2009",
+    "Telescope": "Palomar Hale",
+    "Instrument": "Double Beam Spectrograph",
+    "Observatory": "Palomar"
+}

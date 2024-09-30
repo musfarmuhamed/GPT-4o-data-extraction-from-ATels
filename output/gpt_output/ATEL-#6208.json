@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2142-75",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray flaring",
+            "Time": null,
+            "Date": "2014 May 20"
+        }
+    ],
+    "References": [
+        "ATel #6157",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Wilms et al. 2000, ApJ, 542, 914",
+        "Verner et al. 1996, ApJ, 465, 487",
+        "Dutka et al. 2013, ApJ, 779, 174"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": "2014 May 20",
+    "Telescope": "Fermi/LAT, Swift",
+    "Instrument": "LAT, XRT, UVOT",
+    "Observatory": "Fermi, Swift"
+}

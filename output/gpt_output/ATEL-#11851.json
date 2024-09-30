@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1744-1134",
+            "RA": "17:46:12",
+            "Dec": "-11:45:47",
+            "redshift": 1.6,
+            "Type": "millisecond pulsar",
+            "Time": "10:08:42.7",
+            "Date": "2018-08-07"
+        }
+    ],
+    "References": [
+        "Barsdell et al. 2012",
+        "Cordes & Lazio, 2001",
+        "Keith et al. 2010",
+        "Manchester et al. 2013",
+        "Macquart & Ekers 2017",
+        "Yao et al. 2017"
+    ],
+    "Event Type": "Radio Burst",
+    "Time": "10:08:42.7",
+    "Date": "2018-08-07",
+    "Telescope": "Parkes",
+    "Instrument": "13-beam 20-cm multibeam receiver",
+    "Observatory": "Parkes Observatory"
+}

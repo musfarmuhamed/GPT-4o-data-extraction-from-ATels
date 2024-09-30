@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 2123-463",
+            "RA": "21h26m30.7042s",
+            "Dec": "-46d05m47.892s",
+            "redshift": "1.67",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "December 14, 2011"
+        },
+        {
+            "Name": "1FGL J2126.1-4603",
+            "RA": "21h26m30.7042s",
+            "Dec": "-46d05m47.892s",
+            "redshift": "1.67",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "December 14, 2011"
+        },
+        {
+            "Name": "2FGL J2125.0-4632",
+            "RA": "21h26m30.7042s",
+            "Dec": "-46d05m47.892s",
+            "redshift": "1.67",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "December 14, 2011"
+        }
+    ],
+    "References": [
+        {
+            "title": "Abdo et al. 2010",
+            "publication": "ApJS",
+            "volume": "188",
+            "page": "405"
+        },
+        {
+            "title": "Abdo et al. 2011",
+            "publication": "submitted to ApJS",
+            "arxiv": "arXiv:1108.1435"
+        },
+        {
+            "title": "Fey et al. 2006",
+            "publication": "AJ",
+            "volume": "132",
+            "page": "1944"
+        },
+        {
+            "title": "Wright & Otrupcek 1990",
+            "publication": "Parkes Catalog 1990"
+        },
+        {
+            "title": "Jackson et al. 2002",
+            "publication": "A&A",
+            "volume": "386",
+            "page": "97"
+        },
+        {
+            "title": "Abdo et al. 2011",
+            "publication": "submitted to ApJS",
+            "arxiv": "arXiv:1108.1435"
+        }
+    ],
+    "Event Type": "gamma-ray flux observation",
+    "Time": null,
+    "Date": "December 14, 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

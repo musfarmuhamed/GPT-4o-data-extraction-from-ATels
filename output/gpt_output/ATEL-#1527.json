@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18307-1232",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMLS1 J183049.6-123218",
+            "RA": "18h30m49.6s",
+            "Dec": "-12d32'18\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "04:04",
+            "Date": "2007-10-04"
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175; Saxton et al. 2008, A&A, 480, 611",
+    "Event Type": "X-ray identification",
+    "Time": "04:04",
+    "Date": "2007-10-04",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC-pn",
+    "Observatory": "XMM-Newton Observatory"
+}

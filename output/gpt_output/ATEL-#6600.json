@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova type II",
+            "Time": "UT",
+            "Date": "2014-10-20"
+        },
+        {
+            "Name": "SN2005cs",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova type II",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "spectrum obtained",
+    "Time": "UT",
+    "Date": "2014-10-20",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

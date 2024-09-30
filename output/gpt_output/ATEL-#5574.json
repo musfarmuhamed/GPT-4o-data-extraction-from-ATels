@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J065856.61+504935.8",
+            "RA": "06h 58m 56.61s",
+            "Dec": "+50d 49m 35.8s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "16:26:00",
+            "Date": "2013-11-11"
+        },
+        {
+            "Name": "MASTER OT J192019.35+443905.3",
+            "RA": "19h 20m 19.35s",
+            "Dec": "+44d 39m 05.3s",
+            "redshift": null,
+            "Type": "dwarf nova of SU UMa (UGSU) type",
+            "Time": "09:44:11",
+            "Date": "2013-11-12"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J065856+504935-BRIR.jpg, http://master.sai.msu.ru/static/OT/065856.61504935.8.png, http://master.sai.msu.ru/static/OT/J192019+443905-BRIR5x5.jpg (2x zoom), http://master.sai.msu.ru/static/OT/192019.35443905.3.png",
+    "Event Type": "Discovery of new CVs",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

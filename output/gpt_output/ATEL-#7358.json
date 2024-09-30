@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J084411.67+531250.7",
+            "RA": 131.04872,
+            "Dec": 53.21407,
+            "redshift": null,
+            "Type": "BL Lac object",
+            "Time": "21:10UT - 06:27UT",
+            "Date": "2015-04-07 to 2015-04-08"
+        }
+    ],
+    "References": [
+        "Smith et al. 2007, ApJ, 663, 118",
+        "Acero et al. 2015, arXiv:1501.02003",
+        "Adelman-McCarthy et. al 2008, ApJS, 175, 297",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "Saxton et al. 2008, A&A, 480, 611"
+    ],
+    "Event Type": "Gamma-ray, X-ray, UV/Optical brightening",
+    "Time": "2015 April 6",
+    "Date": "2015-04-06",
+    "Telescope": "Fermi Gamma-ray Space Telescope, Swift Observatory",
+    "Instrument": "Large Area Telescope (LAT), XRT, UVOT",
+    "Observatory": "Fermi, Swift"
+}

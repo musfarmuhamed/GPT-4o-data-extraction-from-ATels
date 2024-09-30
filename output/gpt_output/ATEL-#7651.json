@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J205803.49+084458.7",
+            "RA": "20h 58m 03.49s",
+            "Dec": "+08d 44m 58.7s",
+            "redshift": null,
+            "Type": "Dwarf Nova",
+            "Time": "13.134 UT",
+            "Date": "2015-06-13"
+        },
+        {
+            "Name": "SDSS J205803.51+084458",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Date": "2010-08-28",
+            "Time": "768UT",
+            "m_lim": "19.6",
+            "Instrument": "MASTER-Net"
+        },
+        {
+            "Date": "2012-06-21",
+            "Time": "961UT",
+            "m_lim": "19.5",
+            "Instrument": "MASTER-Kislovodsk"
+        },
+        {
+            "Date": "2012-09-12",
+            "Time": "844UT",
+            "m_lim": "19.6",
+            "Instrument": "MASTER-Tunka"
+        },
+        {
+            "Date": "2011-09-21",
+            "Time": "659UT",
+            "m_lim": "19.2",
+            "Instrument": "MASTER-Ural"
+        }
+    ],
+    "Event Type": "Optical Transient",
+    "Time": "13.134 UT",
+    "Date": "2015-06-13",
+    "Telescope": "MASTER-IAC",
+    "Instrument": "auto-detection system",
+    "Observatory": "Observatorio del Teide"
+}

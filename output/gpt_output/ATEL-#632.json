@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17269-4737",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "21:42:02",
+            "Date": "October 15th, 2005"
+        },
+        {
+            "Name": "XTE J1727-476",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient Source",
+            "Time": "21:42:02",
+            "Date": "October 15th, 2005"
+        }
+    ],
+    "References": [
+        "ATEL #624",
+        "ATEL #625",
+        "ATEL #626",
+        "ATEL #631"
+    ],
+    "Event Type": "Observation",
+    "Time": "21:42:02",
+    "Date": "October 15th, 2005",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

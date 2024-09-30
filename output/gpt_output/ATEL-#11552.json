@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ie",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0458,
+            "Type": "galaxy",
+            "Time": "2018-04-19.88",
+            "Date": "2018-04-16"
+        },
+        {
+            "Name": "SNhunt368",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.19,
+            "Type": "Ia",
+            "Time": "2018-04-20.03",
+            "Date": "2018-04-10"
+        },
+        {
+            "Name": "AT 2018atp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00776,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Shappee et al. 2014",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

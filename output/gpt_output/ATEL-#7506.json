@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ19566+0326",
+            "RA": "19h 56m 33s",
+            "Dec": "+3d 26m 32s",
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MAXIJ1957+032",
+            "RA": "19h 56m 38.8s",
+            "Dec": "+3d 26m 42s",
+            "redshift": null,
+            "Type": "faint transient",
+            "Time": "23:05 UT",
+            "Date": "May 13, 2015"
+        },
+        {
+            "Name": "USNO B1 source",
+            "RA": "19h 56m 38.92s",
+            "Dec": "+3d 26m 41.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #7504",
+    "Event Type": "discovery and follow-up observation",
+    "Time": "23:05 UT",
+    "Date": "May 13, 2015",
+    "Telescope": [
+        "IBIS/ISGRI",
+        "MAXI/GSC",
+        "SWIFT"
+    ],
+    "Instrument": [
+        "Photon Counting (PC) mode with XRT"
+    ],
+    "Observatory": [
+        "INTEGRAL"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J025737.69+333750.7",
+            "RA": "02h 57m 37.69s",
+            "Dec": "+33d 37m 50.7s",
+            "redshift": null,
+            "Type": "AM Her type (polar)",
+            "Time": "2013-12-31.74506 UT",
+            "Date": "2013-12-31"
+        },
+        {
+            "Name": "MASTER OT J113049.13+263831.6",
+            "RA": "11h 30m 49.13s",
+            "Dec": "+26d 38m 31.6s",
+            "redshift": null,
+            "Type": "SU UMa type (dwarf nova)",
+            "Time": "2014-01-01.98625 UT",
+            "Date": "2014-01-01"
+        },
+        {
+            "Name": "MASTER OT J020623.07+504444.8",
+            "RA": "02h 06m 23.07s",
+            "Dec": "+50d 44m 44.8s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2014-01-03.81832 UT",
+            "Date": "2014-01-03"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/025737.69333750.7.png http://master.sai.msu.ru/static/OT/113049.13263831.6.png http://master.sai.msu.ru/static/OT/J020623+504444-BRIR5x5.jpg",
+    "Event Type": "CV discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

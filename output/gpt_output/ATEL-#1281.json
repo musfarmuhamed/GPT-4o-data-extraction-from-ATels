@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MXB 0656-072",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient pulsar",
+            "Time": null,
+            "Date": "November 10, 2003"
+        },
+        {
+            "Name": "XTE J0658-073",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATELs 197",
+        "ATELs 199",
+        "ATELs 200",
+        "ATELs 202",
+        "McBride et al. 2006"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "October 2003",
+    "Telescope": "Integral",
+    "Instrument": [
+        "ISGRI",
+        "JEM-X"
+    ],
+    "Observatory": null
+}

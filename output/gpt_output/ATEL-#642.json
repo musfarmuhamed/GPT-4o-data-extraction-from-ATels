@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "11:05",
+            "Date": "2005-10-12"
+        }
+    ],
+    "References": [
+        "ATels #637",
+        "#638",
+        "#641",
+        "#256",
+        "#438"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "11:05",
+    "Date": "2005-10-12",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

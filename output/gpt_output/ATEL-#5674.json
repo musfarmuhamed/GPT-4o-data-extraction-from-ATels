@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J010429.4-723136",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J010428.7-723134",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Chandra source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Sturm et al. 2013, A&A 558, A3; Zaritsky et al. 2002, AJ, 123, 855; Haberl et al. (2000, A&AS 172, 41); Rajoelimanana et al. 2011, ATel #3154; Schmidtke et al. 2013, MNRAS 431, 252",
+    "Event Type": "X-ray detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

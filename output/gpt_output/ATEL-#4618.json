@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12gyc",
+            "RA": "02 45 50",
+            "Dec": "-17 55 46",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "20121125"
+        },
+        {
+            "Name": "OGLE-2012-SN-040",
+            "RA": "06 07 02",
+            "Dec": "-69 21 17",
+            "redshift": 0.014,
+            "Type": "Ia",
+            "Time": "Near max",
+            "Date": "20121118"
+        },
+        {
+            "Name": "LSQ12gxb",
+            "RA": "09 31 21",
+            "Dec": "-11 37 47",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20121201"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Wyrzykowski et al., ATEL #4495",
+        "Howell et al., 2005",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2012 12 03",
+    "Date": "2012 12 03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11kly",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "22:08",
+            "Date": "24 August 2011"
+        },
+        {
+            "Name": "M101",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3581",
+        "ATEL #3584"
+    ],
+    "Event Type": "observation",
+    "Time": "22:08",
+    "Date": "24 August 2011",
+    "Telescope": "Swift",
+    "Instrument": "UV-Optical Telescope (UVOT)",
+    "Observatory": "Swift satellite"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017gbl",
+            "RA": "23:46:05.517275",
+            "Dec": "+53:14:01.26050",
+            "redshift": null,
+            "Type": "luminous nuclear transient",
+            "Time": "15.38 UT",
+            "Date": "2017 August 15"
+        },
+        {
+            "Name": "IRAS 23436+5257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10651",
+        "Kool et al. (ATel #10651)"
+    ],
+    "Event Type": "radio interferometric observations",
+    "Time": "15.38 UT",
+    "Date": "2017 August 15",
+    "Telescope": "Very Long Baseline Array (VLBA)",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory (NRAO)"
+}

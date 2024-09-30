@@ -1,0 +1,88 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS111231:031745-001651",
+            "RA": "03:17:45.04",
+            "Dec": "-00:16:50.8",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-31"
+        },
+        {
+            "Name": "CSS111230:061645+495133",
+            "RA": "06:16:44.98",
+            "Dec": "49:51:32.5",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-30"
+        },
+        {
+            "Name": "CSS111230:032201+084357",
+            "RA": "03:22:00.71",
+            "Dec": "08:43:57.0",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-30"
+        },
+        {
+            "Name": "MLS111229:045931+154340",
+            "RA": "04:59:31.14",
+            "Dec": "15:43:40.4",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-29"
+        },
+        {
+            "Name": "SSS111228:052111-222717",
+            "RA": "05:21:11.29",
+            "Dec": "-22:27:17.0",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-28"
+        },
+        {
+            "Name": "MLS111228:040055+215521",
+            "RA": "04:00:54.57",
+            "Dec": "21:55:21.1",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-28"
+        },
+        {
+            "Name": "CSS111224:003027+180841",
+            "RA": "00:30:26.75",
+            "Dec": "18:08:41.1",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-24"
+        },
+        {
+            "Name": "CSS111224:035521+081626",
+            "RA": "03:55:21.15",
+            "Dec": "08:16:25.5",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": null,
+            "Date": "2011-12-24"
+        }
+    ],
+    "References": [
+        "ATel#3795",
+        "ATel#3844",
+        "ATel#3848",
+        "ATel#3832"
+    ],
+    "Event Type": "discovery of eight rapid optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 1.5m telescope",
+    "Instrument": null,
+    "Observatory": "Catalina Real-Time Transient Survey (CRTS)"
+}

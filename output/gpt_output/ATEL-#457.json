@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1649-4349",
+            "RA": "16h49m21s",
+            "Dec": "-43d48m36s",
+            "redshift": null,
+            "Type": "radiopulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16493-4348",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al., ApJ, 607, L33, 2004; Bassani et al. ATEL #232; Manchester et al. MNRAS, 328, 17, 2001",
+    "Event Type": "Detection and measurement",
+    "Time": null,
+    "Date": "April 6.239-9.198, 2005 UT",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL Observatory"
+}

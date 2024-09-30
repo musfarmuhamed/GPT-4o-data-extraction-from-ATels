@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": 267.405,
+            "Dec": -28.356,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "08:30-12:12",
+            "Date": "2006-09-18"
+        }
+    ],
+    "References": [
+        "ATel #885",
+        "ATel #886"
+    ],
+    "Event Type": "Observation Analysis",
+    "Time": "08:30-12:12",
+    "Date": "2006-09-18",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

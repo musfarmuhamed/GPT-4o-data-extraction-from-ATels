@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J170057.81+393421.7",
+            "RA": "17h 00m 57.81s",
+            "Dec": "+39d 34m 21.7s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-07-11.67365 UT",
+            "Date": "2014-07-11"
+        },
+        {
+            "Name": "PGC 59437 (MCG+07-35-015)",
+            "RA": "17h 01m 00.31s",
+            "Dec": "+39d 33m 57.8s",
+            "redshift": "0.0342",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J193347.47+442455.5",
+            "RA": "19h 33m 47.47s",
+            "Dec": "+44d 24m 55.5s",
+            "redshift": null,
+            "Type": "new CV (cataclysmic variable, dwarf nova in outburst)",
+            "Time": "2014-07-11.88514 UT",
+            "Date": "2014-07-11"
+        },
+        {
+            "Name": "USNO-B1.0 1344-0350888",
+            "RA": "19h 33m 47.462s",
+            "Dec": "+44d 24m 56.13s",
+            "redshift": null,
+            "Type": "Blue Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J170057+393421-MASTER-Tunka.jpg",
+        "http://master.sai.msu.ru/static/OT/170057.81393421.7.jpg",
+        "http://master.sai.msu.ru/static/OT/J193347+442455-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/193347.47442455.5.jpg"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka, MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

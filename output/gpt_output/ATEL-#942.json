@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GSC 3656-1328",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "November 1-10"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "CBET #711"
+        },
+        {
+            "Reference": "CBET #718"
+        },
+        {
+            "Reference": "ATEL #931"
+        }
+    ],
+    "Event Type": "new transient",
+    "Time": null,
+    "Date": [
+        "November 1-10",
+        "October 18-31",
+        "November 3"
+    ],
+    "Telescope": "SWIFT",
+    "Instrument": "All-Sky-Monitor",
+    "Observatory": "RXTE"
+}

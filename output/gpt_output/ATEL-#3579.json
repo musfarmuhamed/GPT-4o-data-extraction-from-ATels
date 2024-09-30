@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New gamma ray source",
+            "RA": 233.16,
+            "Dec": -13.35,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "2011-05-23 to 2011-08-23"
+        },
+        {
+            "Name": "TXS 1530-131 (also known as PMN J1532-1319)",
+            "RA": "15h32m45.3747s",
+            "Dec": "-13d19m10.086s",
+            "redshift": null,
+            "Type": "flat spectrum radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Kovalev et al. 2007, AJ, 133, 1236",
+    "Event Type": "gamma-ray flare",
+    "Time": null,
+    "Date": "2011-08-22",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13ckf",
+            "RA": "01 49 51.74",
+            "Dec": "+13 09 34.4",
+            "redshift": "0.032",
+            "Type": "SN II",
+            "Time": "Aug 02.45",
+            "Date": "Aug 02"
+        },
+        {
+            "Name": "iPTF13czn",
+            "RA": "23 47 43.38",
+            "Dec": "+27 25 46.3",
+            "redshift": "0.03",
+            "Type": "SN II",
+            "Time": "Aug 28.43",
+            "Date": "Aug 28"
+        },
+        {
+            "Name": "iPTF13czt",
+            "RA": "23 10 00.28",
+            "Dec": "+06 47 23.5",
+            "redshift": "0.04",
+            "Type": "SN II",
+            "Time": "Aug 28.26",
+            "Date": "Aug 28"
+        },
+        {
+            "Name": "iPTF13dao",
+            "RA": "17 00 57.51",
+            "Dec": "+26 31 47.8",
+            "redshift": "0.032",
+            "Type": "SN II",
+            "Time": "Aug 29.19",
+            "Date": "Aug 29"
+        },
+        {
+            "Name": "iPTF13daz",
+            "RA": "16 55 56.50",
+            "Dec": "+24 41 15.4",
+            "redshift": "0.045",
+            "Type": "SN IIn",
+            "Time": "Aug 29.22",
+            "Date": "Aug 29"
+        },
+        {
+            "Name": "iPTF13dhq",
+            "RA": "23 37 44.10",
+            "Dec": "+08 05 12.7",
+            "redshift": "0.035",
+            "Type": "SN II",
+            "Time": "Sep 08.22",
+            "Date": "Sep 08"
+        }
+    ],
+    "References": "WISeREP (Yaron & Gal-Yam 2012)",
+    "Event Type": "discovery",
+    "Time": "Sep 02.99",
+    "Date": "Sep 02",
+    "Telescope": "iPTF",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

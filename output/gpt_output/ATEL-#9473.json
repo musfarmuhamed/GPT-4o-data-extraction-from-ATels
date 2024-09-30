@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16efm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ic supernova",
+            "Time": "2016 Sep 8.0 UT",
+            "Date": "2016-09-08"
+        },
+        {
+            "Name": "UGC 1365",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024; Huchra, Vogeley, & Geller 1999, ApJS, 121, 287; Huber et al. 2015, ATel #7153",
+    "Event Type": "SALT (+RSS) spectroscopy",
+    "Time": "2016 Sep 8.0 UT",
+    "Date": "2016-09-08",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

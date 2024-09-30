@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13aze",
+            "RA": "21:19:18.339",
+            "Dec": "-19:41:36.79",
+            "redshift": "0.11",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20130718"
+        },
+        {
+            "Name": "LSQ13bbv",
+            "RA": "22:58:05.024",
+            "Dec": "+03:51:20.25",
+            "redshift": "0.05",
+            "Type": "SN Ib",
+            "Time": null,
+            "Date": "20130718"
+        },
+        {
+            "Name": "LSQ13bbz",
+            "RA": "22:55:29.518",
+            "Dec": "+06:45:58.71",
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "20130718"
+        }
+    ],
+    "References": "Aldering et al 2002, SPIE, 4836, 61; Blondin & Tonry, 2007, ApJ, 666, 1024.",
+    "Event Type": null,
+    "Time": null,
+    "Date": "20130718",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": null
+}

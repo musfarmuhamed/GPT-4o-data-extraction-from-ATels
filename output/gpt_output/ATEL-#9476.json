@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016gcm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0224227,
+            "Type": "Ic ?",
+            "Time": null,
+            "Date": "2016-09-08"
+        },
+        {
+            "Name": "SN 2016gcl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027999,
+            "Type": "Ia-91Tlike",
+            "Time": null,
+            "Date": "2016-09-08"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Nakanishi et al. 1997, ApJS 112, 245",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification of transients",
+    "Time": null,
+    "Date": "2016-09-08",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

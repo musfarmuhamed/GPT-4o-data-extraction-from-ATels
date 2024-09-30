@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18absnqyo",
+            "RA": "21:02:20.23",
+            "Dec": "+19:57:46.25",
+            "redshift": 0.04,
+            "Type": "Ia",
+            "Time": "+9 d",
+            "Date": "2018 Sep 15 UT"
+        },
+        {
+            "Name": "ATLAS18uxc",
+            "RA": "00:30:24.63",
+            "Dec": "-01:15:50.88",
+            "redshift": 0.057,
+            "Type": "Ia",
+            "Time": "-5 d",
+            "Date": "2018 Sep 15 UT"
+        },
+        {
+            "Name": "ZTF18abuhzfc",
+            "RA": "01:04:38.80",
+            "Dec": "-04:15:29.42",
+            "redshift": 0.038,
+            "Type": "Ia",
+            "Time": "+3 d",
+            "Date": "2018 Sep 15 UT"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": "2018 Sep 15 UT",
+    "Date": "2018 Sep 15 UT",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": "NULL"
+}

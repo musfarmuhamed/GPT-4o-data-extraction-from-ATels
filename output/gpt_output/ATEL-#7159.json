@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-47",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": "07:34 to 11:15 UTC",
+            "Date": "2015-02-26"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Tomsik et al, 2005, ApJ 630,413"
+        },
+        {
+            "Reference": "Tomsick et al., 2005"
+        },
+        {
+            "Reference": "Seifina et al. 2014, ApJ 789, 57"
+        },
+        {
+            "Reference": "MAXI report (ATeL #6991)"
+        }
+    ],
+    "Event Type": "observations of Galactic Spiral Arms Norma/Perseus",
+    "Time": "07:34 to 11:15 UTC",
+    "Date": "2015-02-26",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X (3-30 keV), IBIS/ISGRI",
+    "Observatory": null
+}

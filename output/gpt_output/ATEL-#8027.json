@@ -1,0 +1,111 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSOJ 246.473-27.6255",
+            "RA": "16:25:53.46",
+            "Dec": "-27:37:31.8",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.085-26.9832",
+            "RA": "16:24:20.39",
+            "Dec": "-26:58:59.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.076-27.8417",
+            "RA": "16:24:18.33",
+            "Dec": "-27:50:29.9",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.814-26.4892",
+            "RA": "16:27:15.40",
+            "Dec": "-26:29:21.1",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.274-28.5681",
+            "RA": "16:25:05.69",
+            "Dec": "-28:34:05.3",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.022-28.6159",
+            "RA": "16:24:05.30",
+            "Dec": "-28:36:57.3",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.827-28.6759",
+            "RA": "16:27:18.42",
+            "Dec": "-28:40:33.3",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 245.109-28.0829",
+            "RA": "16:20:26.20",
+            "Dec": "-28:04:58.4",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 245.327-26.4130",
+            "RA": "16:21:18.56",
+            "Dec": "-26:24:46.6",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSOJ 246.490-28.9444",
+            "RA": "16:25:57.56",
+            "Dec": "-28:56:39.8",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dornic et al. (ATel#7987)",
+        "Dornic et al. ATel#8000",
+        "ATels #7993",
+        "ATels #7994",
+        "ATels #7995",
+        "ATels #7998",
+        "Rest et al. 2014",
+        "McCrum et al. 2015",
+        "Drout et al. 2014"
+    ],
+    "Event Type": "Observation",
+    "Time": "2015-09-05.25 UT",
+    "Date": "2015-09-05",
+    "Telescope": "Pan-STARRS",
+    "Instrument": null,
+    "Observatory": "Pan-STARRS1"
+}

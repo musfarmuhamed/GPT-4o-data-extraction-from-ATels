@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS0458-02",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.286,
+            "Type": "quasar",
+            "Time": "JD2457046.8311",
+            "Date": "January 24th, 2015"
+        },
+        {
+            "Name": "CGRaBSJ0501-0159",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.286,
+            "Type": "quasar",
+            "Time": "JD2457046.8311",
+            "Date": "January 24th, 2015"
+        },
+        {
+            "Name": "2FGL0501.2-155",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.286,
+            "Type": "gamma-ray source",
+            "Time": "JD2457046.8311",
+            "Date": "January 24th, 2015"
+        }
+    ],
+    "References": [
+        "Atel #2993",
+        "Atel #4396",
+        "Atel #4402",
+        "Atel #5951"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "JD2457046.8311",
+    "Date": "January 24th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory operated by the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

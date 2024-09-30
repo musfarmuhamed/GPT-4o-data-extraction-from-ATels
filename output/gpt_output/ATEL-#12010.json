@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18tn/AT 2018fpb",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0166,
+            "Type": "IIb Supernova",
+            "Time": "UT Sep. 4.7",
+            "Date": "2018"
+        },
+        {
+            "Name": "SN 1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Spectral observation",
+    "Time": "UT Sep. 4.7",
+    "Date": "2018",
+    "Telescope": "Lijiang 2.4 m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories (YNAO)"
+}

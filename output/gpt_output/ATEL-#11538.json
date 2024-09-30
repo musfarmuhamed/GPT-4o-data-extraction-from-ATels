@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.048",
+            "Type": "HBL source",
+            "Time": "0.8 day",
+            "Date": "2017 April 15"
+        }
+    ],
+    "References": [
+        "Kapanadze et al. 'A recent strong X-ray flaring activity of 1ES 1959+650 with possibly less efficient stochastic acceleration', MNRAS, 461, L26",
+        "Kapanadze et al. 2017, 'The second strong X-ray flare in 1ES 1959+650', MNRAS, 473, 2542",
+        "ATel #9949",
+        "ATel #9694",
+        "ATel #9205",
+        "ATel #9121",
+        "ATel #8468",
+        "ATel #8342",
+        "ATel #8289",
+        "ATel #8014",
+        "ATel #10439",
+        "ATel #10622"
+    ],
+    "Event Type": "X-ray flaring activity",
+    "Time": "Since 2015 August",
+    "Date": "2017 April 15",
+    "Telescope": "X-Ray Telescope (XRT)",
+    "Instrument": "EEV CCD2 detector",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

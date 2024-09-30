@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "00:00",
+            "Date": "2009-11-25"
+        },
+        {
+            "Name": "Swift J1753.5-0127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "00:00",
+            "Date": "2009-11-28"
+        }
+    ],
+    "References": "http://heasarc.gsfc.nasa.gov/docs/swift/results/transients/SWIFTJ1753.5-0127",
+    "Event Type": "state transition",
+    "Time": "00:00",
+    "Date": "2009-11-25",
+    "Telescope": [
+        "MAXI",
+        "Swift"
+    ],
+    "Instrument": [
+        "GSC",
+        "BAT"
+    ],
+    "Observatory": "MAXI"
+}

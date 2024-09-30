@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "microquasar",
+            "Time": "2457388.202 - 0.27",
+            "Date": "2015 Dec. 31"
+        },
+        {
+            "Name": "HD192640",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "standard",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8453",
+        "Hynes et al. (2009, MNRAS, 399, 2239)"
+    ],
+    "Event Type": "outburst",
+    "Time": "2457388.202 - 0.27",
+    "Date": "2015 Dec. 31",
+    "Telescope": "250 mm Newtonian reflector",
+    "Instrument": "LHires III spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FT Psc",
+            "RA": 12.409,
+            "Dec": 24.843,
+            "redshift": null,
+            "Type": "dMe star",
+            "Time": "14:31",
+            "Date": "2018-09-01"
+        },
+        {
+            "Name": "FT Psc",
+            "RA": 12.714,
+            "Dec": 24.742,
+            "redshift": null,
+            "Type": "dMe star",
+            "Time": "23:44",
+            "Date": "2017-05-03"
+        }
+    ],
+    "References": [
+        "Gaidos et al. 2014",
+        "Newton et al. 2017",
+        "McDonald et al. 2017"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": [
+        "14:31",
+        "23:44"
+    ],
+    "Date": [
+        "2018-09-01",
+        "2017-05-03"
+    ],
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": null
+}

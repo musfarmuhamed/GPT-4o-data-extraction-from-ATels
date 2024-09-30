@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab pulsar (PSR B0531+21)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://downloads.hindawi.com/journals/ijae/2017/8561830.pdf",
+        "ATel #10939"
+    ],
+    "Event Type": "glitch",
+    "Time": null,
+    "Date": "MJD 58064.55 +/- 0.01",
+    "Telescope": "XPNAV-1",
+    "Instrument": "Time-resolved soft X-ray spectrometer (TSXS)",
+    "Observatory": null
+}

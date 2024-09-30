@@ -1,0 +1,94 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17gzd/AT2017esf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:07 UT",
+            "Date": "2017-06-18"
+        },
+        {
+            "Name": "ATLAS17avq/AT2017abw",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type II?",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2017dgk",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ic",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17etw/SN2017dht",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PS17aio/AT2017vp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Gaia17bay/AT2017dfe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "likely CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17gu/ATLAS17ftg/AT2017eip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Greiner et al. 2008, PASP 120, 405",
+        "Smartt et al. 2015 A&A, 579, 40; www.pessto.org",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Nicholl et al. 2015, ApJL, 807, L18",
+        "Nicholl & Smartt 2016, MNRAS, 457, L79",
+        "Smith et al. 2016, ApJL, 818, L8",
+        "Chen et al. 2013ApJL, 763, L28",
+        "Lunnan et al. 2014, ApJ, 787, 138",
+        "Schulze et al. 2016, arXiv:161205978",
+        "Tonry et al. 2017, TNSTR, 653, 1",
+        "Schlafly & Finkbeiner 2011",
+        "ATel #10056",
+        "ATel #10318",
+        "ATel #10331",
+        "ATel #10334",
+        "ATel #10313",
+        "ATel #10321",
+        "ATel #10435"
+    ],
+    "Event Type": "Early superluminous supernova bumps project",
+    "Time": "00:07 UT",
+    "Date": "2017-06-18",
+    "Telescope": "2.2m MPG telescope, NTT",
+    "Instrument": "g'r'i'z'JHK GROND",
+    "Observatory": "ESO La Silla Observatory (Chile)"
+}

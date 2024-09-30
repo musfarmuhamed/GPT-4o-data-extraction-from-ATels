@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bursting pulsar",
+            "Time": "22:24:49",
+            "Date": "2014-02-11"
+        }
+    ],
+    "References": [
+        "ATels #5790",
+        "#5810",
+        "#5845",
+        "#5858",
+        "Linares et al. 2011, ApJL,733,17",
+        "Kouveliotou et al. 1996, Nature, 379, 799"
+    ],
+    "Event Type": "burst",
+    "Time": "22:24:49",
+    "Date": "2014-02-11",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

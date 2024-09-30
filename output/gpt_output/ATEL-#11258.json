@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2018jm",
+            "RA": "05 08 12.00",
+            "Dec": "-54 38 43.40",
+            "redshift": "0.064",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20180120"
+        },
+        {
+            "Name": "SN2018lm",
+            "RA": "10 32 04.88",
+            "Dec": "-36 37 29.47",
+            "redshift": "0.045",
+            "Type": "Ia",
+            "Time": "NULL",
+            "Date": "20180128"
+        },
+        {
+            "Name": "AT2018ly",
+            "RA": "08 46 44.80",
+            "Dec": "-13 49 00.84",
+            "redshift": "0.0",
+            "Type": "Stellar",
+            "Time": "NULL",
+            "Date": "20180129"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "http://www.pessto.org",
+        "http://www.astronomy.ohio-state.edu/~assassin/index.shtml",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "Chen et al. ATel #10510"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "NULL",
+    "Date": "2018 Feb 4",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

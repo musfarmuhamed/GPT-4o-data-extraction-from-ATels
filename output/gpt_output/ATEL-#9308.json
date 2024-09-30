@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016els",
+            "RA": "20 30 13.92",
+            "Dec": "-10 57 01.8",
+            "redshift": "0.217",
+            "Type": "SLSN-I",
+            "Time": "Null",
+            "Date": "2016-07-29"
+        },
+        {
+            "Name": "SMT-DWF16bc",
+            "RA": "21 09 08.37",
+            "Dec": "-66 53 25.0",
+            "redshift": "0.056",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2016-07-28"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Huber et al., ATel #7153",
+        "Scalzo et al. ATel #5480",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2016-08-02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

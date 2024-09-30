@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2012A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIP",
+            "Time": "36.7 ks",
+            "Date": "2012-01-10 to 2012-01-21"
+        }
+    ],
+    "References": "CBET #2974, ATel #3860, #3861, #3863",
+    "Event Type": "X-ray point-source detection",
+    "Time": "5.6-sigma significance of source detection; PSF, dead-time, and vignetting corrected",
+    "Date": "2012-01-10 to 2012-01-21",
+    "Telescope": "Swift X-Ray Telescope",
+    "Instrument": "XRT",
+    "Observatory": null
+}

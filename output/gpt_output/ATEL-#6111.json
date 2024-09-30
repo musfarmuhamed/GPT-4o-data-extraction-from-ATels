@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1824-582",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                "2456763.89714",
+                "2456765.80811",
+                "2456766.86646",
+                "2456767.87297",
+                "2456768.84559",
+                "2456769.88608",
+                "2456770.70911",
+                "2456776.79009"
+            ],
+            "Date": [
+                "April 13, 2014",
+                "April 14, 2014",
+                "April 15, 2014",
+                "April 16, 2014",
+                "April 17, 2014",
+                "April 18, 2014",
+                "April 19, 2014",
+                "April 25, 2014"
+            ]
+        }
+    ],
+    "References": [
+        "ATel 6067",
+        "USNO-B1.0 (opt)",
+        "2MASS (ir)",
+        "ATel 5416",
+        "ATel 5418"
+    ],
+    "Event Type": "Observations of Optical/Infrared Magnitudes",
+    "Time": "Close to nightly",
+    "Date": "13 April 2014 - 23 April 2014",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "Cerro Tololo, Chile"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15be",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0219",
+            "Type": "Ia",
+            "Time": "-4d",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "ASASSN-15bk",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0343",
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "2015-01-25"
+        },
+        {
+            "Name": "ASASSN-15bm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "2015-01-25"
+        }
+    ],
+    "References": "ATel #6950, #6979, #6983",
+    "Event Type": "optical spectroscopic observations",
+    "Time": null,
+    "Date": "2015-01-25",
+    "Telescope": "2.5-m du Pont telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "LCO"
+}

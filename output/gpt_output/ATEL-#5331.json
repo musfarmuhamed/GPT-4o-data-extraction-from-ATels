@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13bsi",
+            "RA": "21:37:16.30",
+            "Dec": "-27:06:31.7",
+            "redshift": "~0.09",
+            "Type": "SN Ia",
+            "Time": "~10d past max",
+            "Date": "2013-08-14"
+        },
+        {
+            "Name": "LSQ13bsj",
+            "RA": "20:28:55.51",
+            "Dec": "-30:04:02.3",
+            "redshift": "0.00",
+            "Type": "CV",
+            "Time": "N/A",
+            "Date": "2013-08-14"
+        },
+        {
+            "Name": "LSQ13bud",
+            "RA": "22:05:29.52",
+            "Dec": "-28:45:09.5",
+            "redshift": "~0.10",
+            "Type": "SN Ia",
+            "Time": "~7d past max",
+            "Date": "2013-08-16"
+        },
+        {
+            "Name": "LSQ13bus",
+            "RA": "22:04:07.35",
+            "Dec": "-08:34:28.0",
+            "redshift": "~0.07",
+            "Type": "SN II",
+            "Time": "+8d",
+            "Date": "2013-08-17"
+        },
+        {
+            "Name": "LSQ13bwg",
+            "RA": "23:55:45.10",
+            "Dec": "-02:10:52.8",
+            "redshift": "~0.03",
+            "Type": "SN Ibc",
+            "Time": "~40d past max",
+            "Date": "2013-08-20"
+        },
+        {
+            "Name": "LSQ13bwu",
+            "RA": "03:08:15.61",
+            "Dec": "-24:40:21.3",
+            "redshift": "~0.03",
+            "Type": "SN II",
+            "Time": "----",
+            "Date": "2013-08-21"
+        },
+        {
+            "Name": "LSQ13bxh",
+            "RA": "21:10:20.11",
+            "Dec": "-17:48:23.6",
+            "redshift": "0.00",
+            "Type": "CV",
+            "Time": "N/A",
+            "Date": "2013-08-21"
+        },
+        {
+            "Name": "LSQ13bym",
+            "RA": "23:52:15.13",
+            "Dec": "-22:21:06.8",
+            "redshift": "~0.03",
+            "Type": "SN II",
+            "Time": "~5-7 days after explosion",
+            "Date": "2013-08-25"
+        },
+        {
+            "Name": "PSNJ 17194328-7721305",
+            "RA": "17:19:43.27",
+            "Dec": "-77:21:30.4",
+            "redshift": "~0.009",
+            "Type": "SN Ia",
+            "Time": "~4d pre max",
+            "Date": "2013-08-25"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "http://www.pessto.org",
+        "Hadjiyska et al., ATel #3812"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2013-08-26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

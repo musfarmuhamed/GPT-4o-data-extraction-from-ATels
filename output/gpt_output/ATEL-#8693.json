@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Progenitor Star of SN 2016adj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8651",
+        "ATel #8663",
+        "ATel #8664",
+        "Kainulainen et al. 2009, A&A, 502, L5",
+        "ATel #8657",
+        "Ferrarese et al. 2007, ApJ, 654, 186",
+        "Aldering et al. 1994, AJ, 107, 662",
+        "Van Dyk et al. 2014, AJ, 147, 37",
+        "Folatelli et al. 2015, ApJ, 811, 147",
+        "Chevalier & Soderberg 2010, ApJ, 711, L40",
+        "Szczygiel et al. 2012, ApJ, 747, 23"
+    ],
+    "Event Type": "Identification of progenitor star",
+    "Time": "13 February 2016",
+    "Date": "13 February 2016",
+    "Telescope": "Magellan 6.5-m Clay AO system",
+    "Instrument": "MagAO VisAO camera",
+    "Observatory": "ESO VLT UT4-Yepun"
+}

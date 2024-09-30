@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "14.75 UT",
+            "Date": "2014 January 14"
+        },
+        {
+            "Name": "0951+699",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "compact radio source/AGN",
+            "Time": null,
+            "Date": "October 2010"
+        },
+        {
+            "Name": "1022+707",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5786",
+        "CBET #3792",
+        "Zheng et al., arXiv:1401.7968",
+        "ATel #5821",
+        "ATel #5804",
+        "ATel #5812",
+        "ATel #6149",
+        "ATel #6153",
+        "Perez-Torres et al. arXiv:1405.4702",
+        "Pushkarev & Kovalev (2012 A&A, 544, A34)",
+        "http://astrogeo.org/vlbi_images/",
+        "Kardashev et al., 2013 ARep, 57, 153",
+        "Deller et al., 2011, PASP, 123, 275",
+        "Anderson et al. (in prep.)"
+    ],
+    "Event Type": "observation",
+    "Time": "05:20-06:00 UT",
+    "Date": "2014 March 27",
+    "Telescope": [
+        "RadioAstron Space-VLBI array",
+        "Effelsberg 100m",
+        "Usuda 64m",
+        "Kalyazin 64m",
+        "Torun 32m",
+        "Svetloe 32m"
+    ],
+    "Instrument": null,
+    "Observatory": "Astro Space Center of the Lebedev Physical Institute of the Russian Academy of Sciences and the Lavochkin Scientific and Production Association"
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "26.91",
+            "Date": "2014-01-26"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "T CrB",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "U Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Darnley et al. (2014, arXiv:1401.2905)",
+        "Williams et al. (2014, submitted)",
+        "ATEL #5786",
+        "ATEL #5789",
+        "ATEL #5818",
+        "Bode et al. (2009, ApJ, 705, 1056)",
+        "Dolphin (2000, PASP, 112, 1383)",
+        "Karachentsev & Kashibadze (2006, Ap, 49, 3)"
+    ],
+    "Event Type": "Search for a resolved progenitor",
+    "Time": "26.91",
+    "Date": "2014-01-26",
+    "Telescope": "Liverpool Telescope (LT)",
+    "Instrument": "IO:O CCD camera",
+    "Observatory": null
+}

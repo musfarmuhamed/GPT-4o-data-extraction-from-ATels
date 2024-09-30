@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "22:40",
+            "Date": "2008-08-27"
+        }
+    ],
+    "References": [
+        "ATEL #1675",
+        "#1676",
+        "#1677",
+        "#1678",
+        "#1682",
+        "GCN #8132"
+    ],
+    "Event Type": "Burst",
+    "Time": "03:16:15",
+    "Date": "2008-08-26",
+    "Telescope": [
+        "Swift-BAT",
+        "Konus-Wind"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

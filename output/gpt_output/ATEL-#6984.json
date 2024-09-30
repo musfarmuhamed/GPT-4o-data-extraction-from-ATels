@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bn",
+            "RA": "15:55:35.35",
+            "Dec": "+66:43:19.31",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-01-23.63",
+            "Date": null
+        },
+        {
+            "Name": "GALEXASC J155536.57+664316.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, list of all ASAS-SN transients",
+    "Event Type": "discovery",
+    "Time": "2015-01-23.63",
+    "Date": null,
+    "Telescope": "Brutus, RCOS 51-cm, Planewave CDK 0.61-m, Meade LX-200 25-cm",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii, Sierra Remote Observatory, Antelope Hills Observatory"
+}

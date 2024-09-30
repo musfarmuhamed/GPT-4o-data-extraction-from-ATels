@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17iky",
+            "RA": "13:57:21.74",
+            "Dec": "-34:46:24.46",
+            "redshift": 0.014,
+            "Type": "Ia",
+            "Time": "-1 d",
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "PS17dpd",
+            "RA": "23:18:23.02",
+            "Dec": "-04:24:58.27",
+            "redshift": 0.024,
+            "Type": "II",
+            "Time": null,
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "PS17dpn",
+            "RA": "17:47:49.19",
+            "Dec": "+16:08:05.18",
+            "redshift": 0.034,
+            "Type": "Ic-BL",
+            "Time": null,
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "ATLAS17ioc",
+            "RA": "14:47:45.90",
+            "Dec": "-40:24:34.37",
+            "redshift": 0.069,
+            "Type": "Ia",
+            "Time": "+5 d",
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "AT2017fmr",
+            "RA": "20:01:07.66",
+            "Dec": "-44:18:33.33",
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "AT2017fms",
+            "RA": "21:20:14.60",
+            "Dec": "-04:52:51.30",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "-12 d",
+            "Date": "2017 July 18"
+        },
+        {
+            "Name": "ATLAS17ipa",
+            "RA": "22:00:51.39",
+            "Dec": "-01:50:24.27",
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": "-5 d",
+            "Date": "2017 July 18"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2017 July 18",
+    "Telescope": "Southern Astrophysical Research (SOAR)",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": "Southern Astrophysical Research (SOAR)"
+}

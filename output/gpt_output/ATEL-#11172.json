@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018gj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": "2018 Jan 15",
+            "Date": "2018 Jan 15"
+        },
+        {
+            "Name": "NGC 6217",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.004543",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observations",
+    "Time": "2018 Jan 15",
+    "Date": "2018 Jan 15",
+    "Telescope": "2-m Faulkes Telescope North",
+    "Instrument": "FLOYDS spectrograph",
+    "Observatory": null
+}

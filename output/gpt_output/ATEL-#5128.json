@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS130517:131841-070443 (aka CSS130530:131841-070443)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.1918 +/-0.002",
+            "Type": "super-luminous supernova of type Ic",
+            "Time": "10.96 UT",
+            "Date": "Jun. 10"
+        },
+        {
+            "Name": "SN2010gx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PTF09cnd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.26",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pastorello et al. 2010, ApJ 724, L16",
+        "Quimby et al. 2011, Natur., 474, 487",
+        "Gal-Yam 2012, Sci, 337, 927",
+        "Inserra et al. 2013, ApJ, 770, 128"
+    ],
+    "Event Type": "super-luminous supernova of type Ic (Gal-Yam 2012, Sci, 337, 927 ; Inserra et al. 2013, ApJ, 770, 128)",
+    "Time": "10.96 UT",
+    "Date": "Jun. 10",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": null
+}

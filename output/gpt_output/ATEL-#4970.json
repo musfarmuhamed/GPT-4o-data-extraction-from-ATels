@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J175908.60+145130.2",
+            "RA": "17h 59m 08.60s",
+            "Dec": "+14d 51m 30.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2013-04-11T18:04:39.744Z",
+            "Date": "2013-04-11"
+        },
+        {
+            "Name": "2E 1756.8+1451",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "2MASS 17590860+1451309, USNO-A2.0 0975-10134613, USNO-B1.0 1048-0310652, GALEX J175908.5+145130, EINSTEIN (HEAO 2) 2E 1756.8+1451",
+    "Event Type": "discovery",
+    "Time": "2013-04-11T18:04:39.744Z",
+    "Date": "2013-04-11",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

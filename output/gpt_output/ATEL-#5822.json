@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "16.38, 18.35, and 20.45 UT",
+            "Date": "Jan 16, Jan 18, and Jan 20"
+        },
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET #3792",
+    "Event Type": "Observation",
+    "Time": "Starting about 5 days before the discovery",
+    "Date": null,
+    "Telescope": "0.76-m Katzman Automatic Imaging Telescope (KAIT)",
+    "Instrument": null,
+    "Observatory": "Lick Observatory"
+}

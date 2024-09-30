@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1728-295",
+            "RA": "17h 28m 38.88s",
+            "Dec": "-29d 21' 43.6\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "07:37",
+            "Date": "2010-09-22"
+        },
+        {
+            "Name": "IGR J17285-2922",
+            "RA": "17h 28m 38.88s",
+            "Dec": "-29d 21' 43.6\"",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "07:37",
+            "Date": "2010-09-22"
+        }
+    ],
+    "References": "ATEL #2823, ATEL 2824",
+    "Event Type": "observation",
+    "Time": "07:37",
+    "Date": "2010-09-22",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-S",
+    "Observatory": null
+}

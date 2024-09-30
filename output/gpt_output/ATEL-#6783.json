@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J184019.38+273958.1",
+            "RA": "18h 40m 19.38s",
+            "Dec": "+27d 39m 58.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-12-03.43150 UT",
+            "Date": "2014-12-03"
+        },
+        {
+            "Name": "MASTER OT J061944.87+605917.1",
+            "RA": "06h 19m 44.87s",
+            "Dec": "+60d 59m 17.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2014-12-03.74514 UT",
+            "Date": "2014-12-03"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J184019+273958-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/184019.38273958.1.png, http://master.sai.msu.ru/static/OT/J061944+605917-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/061944.87605917.1.png",
+    "Event Type": "new cataclysmic variable (dwarf nova)",
+    "Time": "2014-12-03.43150 UT, 2014-12-03.74514 UT",
+    "Date": "2014-12-03",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

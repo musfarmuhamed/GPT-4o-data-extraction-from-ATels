@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NRAO 676",
+            "RA": "330.4314 deg",
+            "Dec": "50.81566 deg",
+            "redshift": "1.899",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2012-06-16"
+        },
+        {
+            "Name": "New gamma-ray source",
+            "RA": "330.509 deg",
+            "Dec": "+50.7581",
+            "redshift": "Null",
+            "Type": "gamma-ray source",
+            "Time": "Null",
+            "Date": "2012-06-14"
+        }
+    ],
+    "References": [
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Sowards-Emmerd et al. 2005, ApJ, 626, 95"
+    ],
+    "Event Type": "gamma-ray flaring",
+    "Time": "Null",
+    "Date": "2012-06-14",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

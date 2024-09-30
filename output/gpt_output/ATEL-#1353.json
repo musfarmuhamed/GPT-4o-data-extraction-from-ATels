@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2007uy",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 2770",
+            "RA": "09:09:30.7",
+            "Dec": "+33:08:19",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #1350",
+    "Event Type": "new transient source",
+    "Time": "95 arcsec away; rise time of about 50 sec; decay to the background level by about 600 sec",
+    "Date": "in the first 1 ksec of the new observation",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": "Swift/UVOT"
+}

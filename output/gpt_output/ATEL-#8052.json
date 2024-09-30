@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15pp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia Supernova",
+            "Time": "13.4 UT",
+            "Date": "September 13"
+        },
+        {
+            "Name": "ESO159-G023",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.02396,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8047, ApJ 666, 1024",
+    "Event Type": "optical spectroscopy",
+    "Time": "13.4 UT",
+    "Date": "September 13",
+    "Telescope": "2.5-m du Pont",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas"
+}

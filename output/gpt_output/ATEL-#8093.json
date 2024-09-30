@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0051-736",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray Transient",
+            "Time": "23:42:16",
+            "Date": "2015-09-23"
+        },
+        {
+            "Name": "SMC X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Accretor Pulsar (Neutron Star)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Oe Star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Be Star",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8088",
+        "Kennea et al., ATel #8091",
+        "Yokogawa et al., PASP, 2001, 23, 227",
+        "Lipunov,V.M., Astrophysics of Neutron Stars, Springer-Verlag, Berlin, Heidelberg, New York. Astronomy and Astrophysics Library, 1992",
+        "Schmidtke et al., 2006, Astron.J.132, page 971"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": "23:42:16",
+    "Date": "2015-09-23",
+    "Telescope": "MASTER II robotic telescope",
+    "Instrument": null,
+    "Observatory": "SAAO"
+}

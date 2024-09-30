@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF16fo",
+            "RA": "11:10:06.28",
+            "Dec": "+08:43:13.99",
+            "redshift": 0.07,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2016-02-03.5"
+        },
+        {
+            "Name": "iPTF16fs",
+            "RA": "13:05:51.23",
+            "Dec": "+46:58:23.07",
+            "redshift": 0.12,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2016-02-09.5"
+        },
+        {
+            "Name": "iPTF16in",
+            "RA": "13:11:04.64",
+            "Dec": "+49:19:04.50",
+            "redshift": 0.06,
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "2016-02-09.5"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012",
+        "Transient Name Server",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery and classification of Type Ia SNe",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

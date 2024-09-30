@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2018fed",
+            "RA": "17:02:23.82",
+            "Dec": "+01:14:15.8",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20180819"
+        },
+        {
+            "Name": "SN2018ffs",
+            "RA": "20:54:37.15",
+            "Dec": "+22:04:51.4",
+            "redshift": "0.142",
+            "Type": "SLSN I",
+            "Time": null,
+            "Date": "20180819"
+        },
+        {
+            "Name": "AT2018fri",
+            "RA": "16:15:08.83",
+            "Dec": "+00:45:12.4",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN2018frv",
+            "RA": "20:40:31.42",
+            "Dec": "-46:34:39.2",
+            "redshift": "0.043",
+            "Type": "Ia",
+            "Time": "+11 to +20 days",
+            "Date": null
+        },
+        {
+            "Name": "SN2018fvm",
+            "RA": "20:37:27.79",
+            "Dec": "-37:43:16.9",
+            "redshift": "0.018",
+            "Type": "Ia",
+            "Time": "-3 days",
+            "Date": null
+        },
+        {
+            "Name": "SN2018fwi",
+            "RA": "22:47:46.56",
+            "Dec": "-31:15:33.7",
+            "redshift": "0.115",
+            "Type": "Ia",
+            "Time": "+4 to +7 days",
+            "Date": null
+        },
+        {
+            "Name": "SN2018gif",
+            "RA": "03:27:15.74",
+            "Dec": "+08:42:39.1",
+            "redshift": "0.039",
+            "Type": "Ia",
+            "Time": "+8 to +10 days",
+            "Date": null
+        },
+        {
+            "Name": "SN2018gio",
+            "RA": "04:20:41.26",
+            "Dec": "-14:46:53.8",
+            "redshift": "0.042",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": null
+        },
+        {
+            "Name": "SN2018giq",
+            "RA": "02:34:30.10",
+            "Dec": "-35:24:26.9",
+            "redshift": "0.079",
+            "Type": "Ia-91T",
+            "Time": "-3 days",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Shappee et al. 2014, ApJ, 788, 48"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": null,
+    "Date": "2018 September 15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Possible nova in M 31",
+            "RA": "00h42m02.33s",
+            "Dec": "+41d29'15.6\"",
+            "redshift": null,
+            "Type": "Possible Nova",
+            "Time": "18.7",
+            "Date": "2011-02-15.127"
+        },
+        {
+            "Name": "Possible nova in M 31",
+            "RA": "00h42m02.33s",
+            "Dec": "+41d29'15.6\"",
+            "redshift": null,
+            "Type": "Possible Nova",
+            "Time": "18.0",
+            "Date": "2011-02-18.121"
+        }
+    ],
+    "References": "Massey et al. 2006, AJ, 131, 2478",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2011-02-15.127",
+    "Telescope": "60cm telescope",
+    "Instrument": "E2V CCD (2kx2k, 13.5 micron sq. pixels)",
+    "Observatory": "Livermore Optical Transient Imaging System (Super-LOTIS), Steward Observatory, Kitt Peak, Arizona, USA"
+}

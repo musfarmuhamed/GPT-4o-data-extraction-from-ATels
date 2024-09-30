@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS081030:011341+044717",
+            "RA": "01:13:41.49",
+            "Dec": "04:47:18.0",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "05:12:43",
+            "Date": "2008-10-30"
+        },
+        {
+            "Name": "CSS081030:043655-002136",
+            "RA": "04:36:55.20",
+            "Dec": "-00:21:35.6",
+            "redshift": null,
+            "Type": "SN?",
+            "Time": "08:34:57",
+            "Date": "2008-10-30"
+        },
+        {
+            "Name": "CSS081029:224444-030851",
+            "RA": "22:44:43.69",
+            "Dec": "-03:08:51.1",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "04:52:02",
+            "Date": "2008-10-29"
+        },
+        {
+            "Name": "CSS081009:002151-163204",
+            "RA": "00:21:51.39",
+            "Dec": "-16:32:03.8",
+            "redshift": null,
+            "Type": "SN?",
+            "Time": "05:49:20",
+            "Date": "2008-10-09"
+        }
+    ],
+    "References": "ATel#1734",
+    "Event Type": "Detection of supernova candidates",
+    "Time": null,
+    "Date": "2008-10-30",
+    "Telescope": "CSS",
+    "Instrument": null,
+    "Observatory": null
+}

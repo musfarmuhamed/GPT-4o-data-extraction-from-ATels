@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1752339-290952",
+            "RA": "17:52:33.903",
+            "Dec": "-29:09:47.95",
+            "redshift": null,
+            "Type": null,
+            "Time": "03:22:23",
+            "Date": "2017-05-25"
+        },
+        {
+            "Name": "1.7\" away star (UCAC5)",
+            "RA": "17:52:33.78",
+            "Dec": "-29:09:47.4",
+            "redshift": null,
+            "Type": "Be star (possible)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10422",
+        "Zacharias et al. 2017, AJ, 153, 166",
+        "Zacharias et al. 2005, NOMAD catalog"
+    ],
+    "Event Type": "observation",
+    "Time": "03:22:23",
+    "Date": "2017-05-25",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

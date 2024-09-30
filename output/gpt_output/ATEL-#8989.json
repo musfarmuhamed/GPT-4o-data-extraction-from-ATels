@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bsd (AT2016bsd)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.052,
+            "Type": "Type Ia Supernova",
+            "Time": "UT Apr. 26.7",
+            "Date": "2016"
+        },
+        {
+            "Name": "SDSS J091041.37+500204.6",
+            "RA": "09h10m41.37s",
+            "Dec": "+50d02m04.6s",
+            "redshift": 0.052,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Optical Spectrum Observation",
+    "Time": "UT Apr. 26.7",
+    "Date": "2016",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

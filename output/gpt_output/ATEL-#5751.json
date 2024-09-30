@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1421-613",
+            "RA": "14h 21m 38.01s",
+            "Dec": "-61d 36' 24.9\"",
+            "redshift": null,
+            "Type": "soft X-ray transient",
+            "Time": "19:35 UT",
+            "Date": "January 9th, 2014"
+        },
+        {
+            "Name": "G313.4386-00.5893",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Morooka et al, ATEL #5750",
+        "Krimm et al., 2013, ApJS, 209, 14"
+    ],
+    "Event Type": "detection",
+    "Time": "19:35 UT",
+    "Date": "January 9th, 2014",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, XRT, BAT",
+    "Observatory": null
+}

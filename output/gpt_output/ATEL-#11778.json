@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2018cux",
+            "RA": "10:27:51.41",
+            "Dec": "-43:54:18.00",
+            "redshift": null,
+            "Type": "supernova candidate",
+            "Time": "24.2 UT",
+            "Date": "2018 March 24"
+        },
+        {
+            "Name": "NGC 3256",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous infrared galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "http://www.pessto.org",
+        "Kankare et al. 2018, ATel #11156",
+        "Berton et al. 2018, ATel #11160",
+        "Tully 1988"
+    ],
+    "Event Type": "discovery",
+    "Time": "24.2 UT",
+    "Date": "2018 March 24",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

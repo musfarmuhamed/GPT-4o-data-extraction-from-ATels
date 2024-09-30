@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 1745-248",
+            "RA": "267.022",
+            "Dec": "-24.780",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2015 March 13"
+        },
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular cluster with neutron star low-mass X-ray binaries",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bahramian et al. 2014, ApJ, 780, 127",
+    "Event Type": "BAT detection of hard X-ray transient",
+    "Time": null,
+    "Date": "2015 March 13",
+    "Telescope": "Swift",
+    "Instrument": "BAT (Burst Alert Telescope)",
+    "Observatory": "NASA/Goddard Space Flight Center"
+}

@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V5587 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null,
+            "Observations": [
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 5.0,
+                    "Flux Density (microJy)": -6.6,
+                    "Uncertainty (microJy)": 8.3,
+                    "Distance (kpc)": "> 1.1"
+                },
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 6.8,
+                    "Flux Density (microJy)": -7.9,
+                    "Uncertainty (microJy)": 7.7,
+                    "Distance (kpc)": "> 1.6"
+                },
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 8.5,
+                    "Flux Density (microJy)": -28,
+                    "Uncertainty (microJy)": 45,
+                    "Distance (kpc)": "> 5.9"
+                },
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 5.0,
+                    "Flux Density (microJy)": -2,
+                    "Uncertainty (microJy)": 11,
+                    "Distance (kpc)": "> 5.1"
+                },
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 7.4,
+                    "Flux Density (microJy)": -0.9,
+                    "Uncertainty (microJy)": 9.6,
+                    "Distance (kpc)": "> 8.1"
+                },
+                {
+                    "Date": "2011-01-25.9",
+                    "Time": null,
+                    "Frequency (GHz)": 32,
+                    "Flux Density (microJy)": -17,
+                    "Uncertainty (microJy)": 92,
+                    "Distance (kpc)": "> 11.3"
+                }
+            ]
+        }
+    ],
+    "References": [
+        "CBET 2644",
+        "IAUC 9196"
+    ],
+    "Event Type": "observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "EVLA",
+    "Instrument": "Unknown",
+    "Observatory": "EVLA"
+}

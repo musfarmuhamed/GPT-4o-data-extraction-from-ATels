@@ -1,0 +1,93 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17amw",
+            "RA": "07:48:39.01",
+            "Dec": "-10:49:34.6",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170126"
+        },
+        {
+            "Name": "AT2017pm",
+            "RA": "07:48:39.01",
+            "Dec": "-10:49:34.6",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170126"
+        },
+        {
+            "Name": "ATLAS17anj",
+            "RA": "09:37:40.24",
+            "Dec": "-28:59:47.6",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170126"
+        },
+        {
+            "Name": "AT2017pv",
+            "RA": "09:37:40.24",
+            "Dec": "-28:59:47.6",
+            "redshift": 0,
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "20170126"
+        },
+        {
+            "Name": "SN2017pp",
+            "RA": "12:44:41.02",
+            "Dec": "+10:20:41.3",
+            "redshift": 0.03,
+            "Type": "Ia-91T",
+            "Time": null,
+            "Date": "20170126"
+        },
+        {
+            "Name": "PS17afa",
+            "RA": "11:43:29.26",
+            "Dec": "-16:47:37.2",
+            "redshift": 0.012,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20170110"
+        },
+        {
+            "Name": "SN2017rt",
+            "RA": "11:43:29.26",
+            "Dec": "-16:47:37.2",
+            "redshift": 0.012,
+            "Type": "Ic",
+            "Time": null,
+            "Date": "20170110"
+        }
+    ],
+    "References": [
+        {
+            "Smartt et al. 2015": "A&A, 579, 40 http://www.pessto.org"
+        },
+        {
+            "Tonry et al. (2011)": "PASP, 123, 58"
+        },
+        {
+            "Tonry et al.": "ATel #8680"
+        },
+        {
+            "Chambers et al. 2016": "arXiv:1612.05560 http://pswww.ifa.hawaii.edu"
+        },
+        {
+            "IAU TNS list": "https://wis-tns.weizmann.ac.il/"
+        },
+        {
+            "Blondin & Tonry, 2007": "ApJ, 666, 1024"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017 January 27",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

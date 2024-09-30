@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J164109.83+505820.7",
+            "RA": "16h 41m 09.83s",
+            "Dec": "+50d 58m 20.7s",
+            "redshift": null,
+            "Type": "Possible Nova or new dwarf nova outburst",
+            "Time": "00:57:10.673-01:28:35.928",
+            "Date": "2016-03-25"
+        },
+        {
+            "Name": "MASTER OT J085335.52-234408.7",
+            "RA": "08h 53m 35.52s",
+            "Dec": "-23d 44m 08.7s",
+            "redshift": null,
+            "Type": "Possible dwarf nova outburst",
+            "Time": null,
+            "Date": "2016-03-24"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/164109.83505820.7.png",
+        "http://master.sai.msu.ru/static/OT/085335.52-234408.7.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-IAC auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

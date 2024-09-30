@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J064552.41+411900.1",
+            "RA": "06h 45m 52.41s",
+            "Dec": "+41d 19m 00.1s",
+            "redshift": null,
+            "Type": "active quasar",
+            "Time": "2013-12-25.89263 UT",
+            "Date": "2013-12-25"
+        },
+        {
+            "Name": "MASTER OT J075342.80+165014.5",
+            "RA": "07h 53m 42.80s",
+            "Dec": "+16d 50m 14.5s",
+            "redshift": null,
+            "Type": "active quasar",
+            "Time": "2014-01-02.78801 UT",
+            "Date": "2014-01-02"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J064552+411900-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/064552.41411900.1.jpg, http://master.sai.msu.ru/static/OT/075342.80165014.5.png",
+    "Event Type": "Discovery of OT sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

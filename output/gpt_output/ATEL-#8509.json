@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "57343.7120681",
+            "Date": "2015-11-17"
+        },
+        {
+            "Name": "USNO B1.0 star 1238-0435179",
+            "RA": "306.019609",
+            "Dec": "+33.881228",
+            "redshift": null,
+            "Type": "R2 magnitude",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Hardy et al. (ATEL 8501)",
+    "Event Type": null,
+    "Time": "57343.7120681",
+    "Date": "2015-11-17",
+    "Telescope": "T100",
+    "Instrument": "R band filter",
+    "Observatory": "TUBITAK National Observatory"
+}

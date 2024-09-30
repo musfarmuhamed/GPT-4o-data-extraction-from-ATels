@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1409-619",
+            "RA": "212.01068",
+            "Dec": "-61.98340",
+            "redshift": null,
+            "Type": "Galactic X-ray Transient",
+            "Time": "15:14",
+            "Date": "2010-10-20"
+        },
+        {
+            "Name": "2MASS 14080271-6159020",
+            "RA": "14h 08m 02.71s",
+            "Dec": "-61d 59m 02.0s",
+            "redshift": null,
+            "Type": "IR counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Yamaoka et al, 2010, ATEL #2959",
+    "Event Type": "Observation",
+    "Time": "15:14",
+    "Date": "2010-10-20",
+    "Telescope": "Swift",
+    "Instrument": "UVOT, BAT, XRT",
+    "Observatory": "Swift Observatory"
+}

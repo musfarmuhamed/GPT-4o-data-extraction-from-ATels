@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1957+032",
+            "RA": "299.356 deg",
+            "Dec": "3.293 deg",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "13:59",
+            "Date": "2015 May 11"
+        },
+        {
+            "Name": "1RXS J195656.8+030428",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BZB J0244-5819",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Negoro et al. ATel. #5943",
+        "Kennea et al. ATel. #5946",
+        "Nakahira et al. ATel. #6012"
+    ],
+    "Event Type": "Detection of X-ray transient",
+    "Time": "13:59",
+    "Date": "2015 May 11",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": "MAXI public archive"
+}

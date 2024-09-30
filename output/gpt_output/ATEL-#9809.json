@@ -1,0 +1,94 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016iou",
+            "RA": "01:24:26.41",
+            "Dec": "-02:08:30.1",
+            "redshift": 0.042,
+            "Type": "Ia",
+            "Time": "2016-11-29.93",
+            "Date": "2016-11-26.16"
+        },
+        {
+            "Name": "AT 2016ion",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0,
+            "Type": "CV",
+            "Time": "2016-11-29.99",
+            "Date": "2016-11-26.50"
+        },
+        {
+            "Name": "SN 2016inv",
+            "RA": "07:56:47.03",
+            "Dec": "+37:49:06.3",
+            "redshift": 0.043586,
+            "Type": "Ia",
+            "Time": "2016-11-30.00",
+            "Date": "2016-11-26.50"
+        },
+        {
+            "Name": "SN 2016ipf",
+            "RA": "08:07:13.50",
+            "Dec": "+05:40:56.5",
+            "redshift": 0.021,
+            "Type": "Ia",
+            "Time": "2016-11-30.04",
+            "Date": "2016-11-28.62"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tomasella et al.",
+            "Year": 2014,
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Authors": "Huber et al.",
+            "Year": 2015,
+            "ATel": 7153
+        },
+        {
+            "Authors": "Tonry et al.",
+            "Year": 2011,
+            "Journal": "PASP",
+            "Volume": 123,
+            "Page": 58
+        },
+        {
+            "Authors": "Tonry et al.",
+            "ATel": 8680
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        {
+            "Name": "Asiago 1.82 m Copernico Telescope",
+            "Instrument": "AFOSC",
+            "Observatory": "Asiago"
+        },
+        {
+            "Name": "Asiago 1.22 m Galilei Telescope",
+            "Instrument": "B&C spectrograph",
+            "Observatory": "Asiago"
+        }
+    ]
+}

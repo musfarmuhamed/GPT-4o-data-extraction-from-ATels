@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J0055-727",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient pulsar",
+            "Time": "14:32 - 19:48 UT",
+            "Date": "2003-12-18"
+        },
+        {
+            "Name": "XMMU J005455.4-724512",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMU J005517.9-723853",
+            "RA": "00h55m17.9s",
+            "Dec": "-72d38m53s",
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOU J005455.6-724510",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0054.9-7245",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J0054.8-7244",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RX J0055.2-7238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #214",
+        "ATEL #217",
+        "Haberl et al. 2000, A&AS 142, 41"
+    ],
+    "Event Type": "XMM-Newton target of opportunity observation",
+    "Time": "14:32 - 19:48 UT",
+    "Date": "2003-12-18",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

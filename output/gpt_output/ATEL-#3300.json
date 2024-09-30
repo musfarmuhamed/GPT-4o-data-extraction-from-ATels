@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1626.6-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16263652-5156305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Proposed counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #678",
+        "ATel #679",
+        "ATel #688",
+        "ATel #713",
+        "ATel #739",
+        "Clark and Steele, 2000, A&AS, 141, 65",
+        "Steele and Clark, 2001, A&A, 371, 643"
+    ],
+    "Event Type": "NIR Spectroscopy",
+    "Time": null,
+    "Date": "2010-07-23",
+    "Telescope": "3.5m NTT",
+    "Instrument": "SofI spectrograph",
+    "Observatory": "La Silla, Chile"
+}

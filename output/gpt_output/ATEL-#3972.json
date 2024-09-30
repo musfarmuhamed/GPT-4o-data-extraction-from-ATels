@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient gamma-ray source",
+            "RA": "135.56 deg",
+            "Dec": "-46.41 deg",
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "Unknown",
+            "Date": "15 March 2012"
+        },
+        {
+            "Name": "Vela pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Preliminary analysis of Fermi-LAT data",
+        "Fermi-LAT data"
+    ],
+    "Event Type": "Transient gamma-ray detection",
+    "Time": null,
+    "Date": "15 March 2012",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "Fermi"
+}

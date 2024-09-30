@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1659-152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "10:15:04",
+            "Date": "2011-04-18"
+        }
+    ],
+    "References": [
+        "ATel #2873",
+        "GCN #11296",
+        "ATel #3201",
+        "ATel #3249",
+        "ATel #2877",
+        "Kuulkers et. al, 2011, arXiv: 1102.2102"
+    ],
+    "Event Type": "observation",
+    "Time": "10:15:04",
+    "Date": "2011-04-18",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

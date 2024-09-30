@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1745-2900",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5020",
+        "ATel #5043",
+        "ATel #5040",
+        "ATel #5027",
+        "ATel #5053",
+        "ATel #5033",
+        "ATel #5046"
+    ],
+    "Event Type": "observations report",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Max Planck Institute for Radio Astronomy (MPIfR) Effelsberg Telescope",
+        "CNRS Nancay Radio Telescope",
+        "Lovell Telescope at Jodrell Bank"
+    ],
+    "Instrument": "NuStar X-ray telescope",
+    "Observatory": null
+}

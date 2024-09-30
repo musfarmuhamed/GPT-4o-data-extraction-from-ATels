@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15on",
+            "RA": "16:36:36.156",
+            "Dec": "+55:33:09.95",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "16:21",
+            "Date": "2015-08-16"
+        },
+        {
+            "Name": "SDSS J163636.15+553311.0",
+            "RA": "16:36:36.15",
+            "Dec": "+55:33:11.0",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "RA": "2015-08-12.31",
+            "Dec": "17.0",
+            "redshift": null,
+            "Type": "Observation",
+            "Time": null,
+            "Date": "2015-08-12"
+        },
+        {
+            "RA": "2015-08-10.33",
+            "Dec": ">17.3",
+            "redshift": null,
+            "Type": "Non-detection",
+            "Time": null,
+            "Date": "2015-08-10"
+        },
+        {
+            "RA": "2015-08-16.21",
+            "Dec": "16.6",
+            "redshift": null,
+            "Type": "Observation",
+            "Time": null,
+            "Date": "2015-08-16"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "16:21",
+    "Date": "2015-08-16",
+    "Telescope": "\"Brutus\" telescope",
+    "Instrument": "14-cm",
+    "Observatory": "Haleakala, Hawaii"
+}

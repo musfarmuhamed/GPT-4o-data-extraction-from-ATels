@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006au",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01,
+            "Type": "Type II supernova",
+            "Time": "13.6",
+            "Date": "March 13",
+            "References": "CBET #426"
+        },
+        {
+            "Name": "UGC 11057",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00958,
+            "Type": null,
+            "Time": null,
+            "Date": "1998",
+            "References": "Theureau et al. 1998, A&AS, 130, 333 via NED"
+        }
+    ],
+    "References": "CBET #426",
+    "Event Type": "spectrum obtained",
+    "Time": "13.6",
+    "Date": "March 13",
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "Supernova Integral Field Spectrograph",
+    "Observatory": null
+}

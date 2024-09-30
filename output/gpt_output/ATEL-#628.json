@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1726-47",
+            "RA": "17:26:49.28",
+            "Dec": "-47:38:24.9",
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "Oct 10.99172 UT",
+                "Oct 11.99156 UT"
+            ],
+            "Date": [
+                "Oct 10",
+                "Oct 11"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #623",
+        "ATel #624",
+        "ATel #625",
+        "ATel #626"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "SMARTS 1.3m telescope",
+    "Instrument": "ANDICAM",
+    "Observatory": null
+}

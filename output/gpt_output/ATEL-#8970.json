@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "00:00",
+            "Date": "2016-04-16"
+        }
+    ],
+    "References": [
+        "Tavani et al., Nature, 462, 620, (2009)",
+        "Abdo et al., Science, 326, 1512 (2009)",
+        "Piano et al., A&A, 545, A110 (2012)"
+    ],
+    "Event Type": "gamma-ray emission above 100 MeV",
+    "Time": "00:00",
+    "Date": "2016-04-16",
+    "Telescope": "AGILE-GRID",
+    "Instrument": "multi-source likelihood analysis",
+    "Observatory": null
+}

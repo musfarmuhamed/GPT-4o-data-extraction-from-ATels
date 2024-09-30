@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1011+496",
+            "RA": "10h 15m 04.1s",
+            "Dec": "+49d 26m 01s",
+            "redshift": "0.212",
+            "Type": "blazar",
+            "Time": "Nightly",
+            "Date": "February 3, 2014 - February 11, 2014"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "J. Albert et al. 2007, ApJ 667, L21",
+    "Event Type": "Flaring Activity",
+    "Time": "Nightly",
+    "Date": "February 3, 2014 - February 11, 2014",
+    "Telescope": "MAGIC, VERITAS",
+    "Instrument": "Imaging Atmospheric Cherenkov Telescopes (IACTs)",
+    "Observatory": "MAGIC: Canary Island of La Palma, Spain; VERITAS: Near Tucson, Arizona, USA"
+}

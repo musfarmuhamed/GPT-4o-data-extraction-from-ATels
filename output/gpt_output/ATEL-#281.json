@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00370+6122",
+            "RA": "0h 37m 05.4s",
+            "Dec": "+61o 22' 13\"",
+            "redshift": null,
+            "Type": "variable hard X-ray source",
+            "Time": null,
+            "Date": "Dec 2003"
+        },
+        {
+            "Name": "1RXS J003709.6+612131",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "BD +60 73",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B1Ib supergiant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

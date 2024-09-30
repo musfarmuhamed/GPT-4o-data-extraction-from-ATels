@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080508:112311+341250",
+            "RA": "11:23:10.90",
+            "Dec": "34:12:51.0",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "07:12:06",
+            "Date": "2008-05-08"
+        },
+        {
+            "Name": "AGC 211492",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://voeventnet.cacr.caltech.edu/feeds/ATEL/CSS, http://voeventnet.org/feeds/Catalina.shtml, http://voeventnet.caltech.edu/feeds/Catfeed.xml",
+    "Event Type": "optical transient",
+    "Time": "07:12:06",
+    "Date": "2008-05-08",
+    "Telescope": "0.7m Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Mt. Bigelow"
+}

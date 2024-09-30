@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1806-20",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "2400s",
+            "Date": "11-12th September 2005"
+        }
+    ],
+    "References": [
+        "Israel et al. 2005, A&A, 438, L1",
+        "Kosugi et al. 2005, ApJ, 623, L125",
+        "Rea et al. 2005, ApJ 627, L1",
+        "Tiengo et al. 2005, A&A, 440, L63",
+        "Mereghetti et al. 2005, ApJ 628, 938",
+        "Mereghetti et al. 2005, GCN 4168"
+    ],
+    "Event Type": "Observation",
+    "Time": "34 ks",
+    "Date": "4th October 2005",
+    "Telescope": "XMM-Newton",
+    "Instrument": "NAOS-CONICA for IR observations, unspecified for X-ray observations",
+    "Observatory": "VLT-UT4, unnamed observatory for XMM-Newton"
+}

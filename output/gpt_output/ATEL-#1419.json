@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "source in AGILE error box",
+            "RA": "14 08 00.6",
+            "Dec": "-61 58 19.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "29/01/2000"
+        }
+    ],
+    "References": "ATel#1394",
+    "Event Type": "detection of variable gamma-ray emission",
+    "Time": [
+        "90 ksec",
+        "47 ksec",
+        "220 ksec",
+        "42 ksec"
+    ],
+    "Date": [
+        "23/02/1997",
+        "19/02/2000",
+        "06/01/2001",
+        "29/01/2000"
+    ],
+    "Telescope": "BeppoSAX",
+    "Instrument": "PDS",
+    "Observatory": null
+}

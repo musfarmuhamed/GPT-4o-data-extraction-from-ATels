@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17lx (AT 2017gqe)",
+            "RA": "07:23:35.437",
+            "Dec": "-52:38:13.10",
+            "redshift": "0.0335",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-09-04.31"
+        },
+        {
+            "Name": "ASASSN-17lz (AT 2017grw)",
+            "RA": "15:57:29.739",
+            "Dec": "+15:52:21.34",
+            "redshift": "0.0174",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-09-11.99"
+        },
+        {
+            "Name": "ASASSN-17mf (AT 2017gsu)",
+            "RA": "21:02:21.642",
+            "Dec": "-54:35:18.53",
+            "redshift": "0.0434",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2017-09-12.03"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "supernova discovery",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo"
+}

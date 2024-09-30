@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "MJD 54530.4",
+            "Date": "March, 2008"
+        },
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "MJD 54538.1",
+            "Date": "March, 2008"
+        },
+        {
+            "Name": "4U 1626-67",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "MJD 54984.5",
+            "Date": "June 1 to June 3, 2009"
+        }
+    ],
+    "References": [
+        "Krimm et al. 2008, ATel #1426",
+        "Jain et al. 2009, astro-ph 0906.4169",
+        "Levine et al. 1988, ApJ, 327, 732",
+        "Chakrabarty et al. 1997, ApJ, 474, 414"
+    ],
+    "Event Type": "torque reversal to spin-up",
+    "Time": "MJD 54500",
+    "Date": "around MJD 54500",
+    "Telescope": "RXTE",
+    "Instrument": null,
+    "Observatory": null
+}

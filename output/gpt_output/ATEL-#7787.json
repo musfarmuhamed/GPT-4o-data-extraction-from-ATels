@@ -1,0 +1,75 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mg",
+            "RA": "15h32m22.70s",
+            "Dec": "+41d50m58.6s",
+            "redshift": 0.0428,
+            "Type": "Ia",
+            "Time": "2015-07-10 21:07:12",
+            "Date": "2015-07-10"
+        },
+        {
+            "Name": "PSN J17292918+7542390",
+            "RA": "17h29m29.18s",
+            "Dec": "+75d42m39.0s",
+            "redshift": 0.0044,
+            "Type": "II",
+            "Time": "2015-07-10 23:16:48",
+            "Date": "2015-07-10"
+        },
+        {
+            "Name": "PSN J22460504-1059484",
+            "RA": "22h46m05.04s",
+            "Dec": "-10d59m48.4s",
+            "redshift": 0.0089,
+            "Type": "IIb?",
+            "Time": "2015-07-11 01:41:12",
+            "Date": "2015-07-11"
+        }
+    ],
+    "References": [
+        {
+            "Title": "The Asiago Transient Classification Program",
+            "Authors": "Tomasella et al.",
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841,
+            "Year": 2014
+        },
+        {
+            "Website": "Bright Supernova",
+            "URL": "http://www.rochesterastronomy.org/snimages/"
+        },
+        {
+            "Website": "CBAT Transient Objects Confirmation Page",
+            "URL": "http://www.cbat.eps.harvard.edu/unconf/tocp.html"
+        },
+        {
+            "Website": "Asiago Classification Spectra",
+            "URL": "http://sngroup.oapd.inaf.it"
+        },
+        {
+            "Tool": "GELATO",
+            "Authors": "Harutyunyan et al.",
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383,
+            "Year": 2008
+        },
+        {
+            "Tool": "SNID",
+            "Authors": "Blondin and Tonry",
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024,
+            "Year": 2007
+        }
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

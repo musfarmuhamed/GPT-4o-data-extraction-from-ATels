@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 2241+406",
+            "RA": 341.05305,
+            "Dec": 40.95378,
+            "redshift": 1.171,
+            "Type": "BL Lac object",
+            "Time": "Null",
+            "Date": "2015-02-21"
+        },
+        {
+            "Name": "3FGL J2244.1+4057",
+            "RA": 341.05305,
+            "Dec": 40.95378,
+            "redshift": 1.171,
+            "Type": "BL Lac object",
+            "Time": "Null",
+            "Date": "2015-02-21"
+        }
+    ],
+    "References": "Acero et al. 2015, arXiv:1501.02003; Beasley et al. 2002, ApJS, 141, 13; Shaw et al. 2012, ApJ, 748, 49",
+    "Event Type": "gamma-ray outburst",
+    "Time": "Null",
+    "Date": "2015-02-21",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

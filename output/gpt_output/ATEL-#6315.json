@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UX Ari",
+            "RA": "51.505",
+            "Dec": "28.600",
+            "redshift": null,
+            "Type": "RS CVn star",
+            "Time": "21:38:03 UT",
+            "Date": "July 15 2014"
+        }
+    ],
+    "References": [
+        {
+            "Source": "Matsumura et al.",
+            "Year": 2011,
+            "ATEL": "#3308"
+        },
+        {
+            "Source": "Tsuru et al.",
+            "Year": 1989,
+            "PASJ": "31, 679"
+        },
+        {
+            "Source": "Franciosini et al.",
+            "Year": 2001,
+            "A&A": "375, 196"
+        },
+        {
+            "Source": "Baumgarther et al.",
+            "GCN Circ.": 16594
+        }
+    ],
+    "Event Type": "flare",
+    "Time": "20:05:22 UT",
+    "Date": "July 15 2014",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "XRT",
+    "Observatory": "International Space Station (ISS)"
+}

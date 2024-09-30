@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J1731-4744",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "07:00",
+            "Date": "2017-09-09"
+        }
+    ],
+    "References": [
+        "Bailes et al. 2017 (arXiv ID 1708.09619)",
+        "ATNF glitch table",
+        "Jodrell Bank glitch database"
+    ],
+    "Event Type": "glitch",
+    "Time": null,
+    "Date": "2017-08-19",
+    "Telescope": "Molonglo Observatory Synthesis Radio Telescope",
+    "Instrument": null,
+    "Observatory": "Molonglo"
+}

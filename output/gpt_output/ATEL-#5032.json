@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New X-ray pulsar",
+            "RA": "17:45:40.19",
+            "Dec": "-29:00:30.37",
+            "redshift": null,
+            "Type": "Soft gamma repeater",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "SgrA*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nowak et al. 2012",
+        "Mori et al. 2013, Atel #5020",
+        "Kennea et al. 2013, Atel #5009"
+    ],
+    "Event Type": "Observation",
+    "Time": "Unknown",
+    "Date": "April 29, 2013",
+    "Telescope": "Chandra X-ray Observatory",
+    "Instrument": "High Resolution Camera (HRC-S)",
+    "Observatory": "Chandra"
+}

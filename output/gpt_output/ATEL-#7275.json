@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17511-3057",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "millisecond X-ray pulsar",
+            "Time": "02:49 to 07:26",
+            "Date": "2015 March 23"
+        }
+    ],
+    "References": [
+        "ATel #2196",
+        "ATel #2197",
+        "Papitto et al., 2010, MNRAS, 407, 2575"
+    ],
+    "Event Type": "outburst",
+    "Time": "02:49 to 07:26",
+    "Date": "2015 March 23",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS",
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

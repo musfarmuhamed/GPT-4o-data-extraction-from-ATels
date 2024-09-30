@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "251346 (2007 SJ)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S-family asteroid",
+            "Time": [
+                "17.26",
+                "11.18",
+                "13.18"
+            ],
+            "Date": [
+                "2013-10-17",
+                "2013-12-11",
+                "2013-12-13"
+            ]
+        }
+    ],
+    "References": [
+        "Bus & Binzel, 2002",
+        "Belskaya & Shevchenko, 1999",
+        "Brian Warner (http://echo.jpl.nasa.gov/asteroids/2007SJ/2007SJ_planning.html)"
+    ],
+    "Event Type": "Photometry",
+    "Time": [
+        "17.26",
+        "11.18",
+        "13.18"
+    ],
+    "Date": [
+        "2013-10-17",
+        "2013-12-11",
+        "2013-12-13"
+    ],
+    "Telescope": "0.6-m telescope",
+    "Instrument": "Broadband Bessel BVRI photometry",
+    "Observatory": "JPL Table Mountain (TMO)"
+}

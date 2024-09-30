@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bir",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.035,
+            "Type": "Type-Ib supernova",
+            "Time": "10.36",
+            "Date": "April 10"
+        },
+        {
+            "Name": "SDSS J131405.16+335510.1",
+            "RA": "13:14:05.16",
+            "Dec": "+33:55:10.1",
+            "redshift": 0.032,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL #8857; Blondin & Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Observation",
+    "Time": "10.36 UT",
+    "Date": "April 10",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16exz",
+            "RA": "23:44:47.87",
+            "Dec": "-66:05:37.5",
+            "redshift": "0.055",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161025"
+        },
+        {
+            "Name": "AT2016hvt",
+            "RA": "06:21:53.17",
+            "Dec": "-27:10:02.5",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "20161106"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Wyrzykowski et al., 2014 arxiv:1409.1095; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016 November 06",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

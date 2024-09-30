@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova (SN) 2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2014-01-22.43",
+            "Date": "2014-01-22"
+        }
+    ],
+    "References": [
+        "ATEL#5786",
+        "CBET#3792",
+        "ATEL#5797",
+        "Brown et al. 2010, ApJ, 721, 1608",
+        "Breeveld et al. 2011, AIP Conf. Ser. 1358, p. 373"
+    ],
+    "Event Type": null,
+    "Time": "2014-01-22.43",
+    "Date": "2014-01-22",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "Swift's X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

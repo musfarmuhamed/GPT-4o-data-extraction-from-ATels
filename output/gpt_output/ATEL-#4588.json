@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "136993 (1998 ST49)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S-type",
+            "Time": null,
+            "Date": "1998-10-29"
+        }
+    ],
+    "References": [
+        {
+            "name": "Binzel et al.",
+            "year": 2001,
+            "publication": "Icarus 151, 139-149"
+        },
+        {
+            "name": "A. Galad",
+            "year": 2007,
+            "publication": "Earth, Moon and Planets, 100, 77-82"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": "N/A",
+    "Date": [
+        "2012-10-17",
+        "2012-10-28",
+        "2012-10-30",
+        "2012-10-31"
+    ],
+    "Telescope": "0.6-m telescope",
+    "Instrument": "Bessel BVRI, Bessel R",
+    "Observatory": "JPL Table Mountain Observatory (TMO)"
+}

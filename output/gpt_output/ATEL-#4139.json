@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1910.2-0546",
+            "RA": 287.576,
+            "Dec": -5.785,
+            "redshift": null,
+            "Type": "Galactic transient source",
+            "Time": "May 30-31, 2012",
+            "Date": "2012-05-30"
+        },
+        {
+            "Name": "1RXS J191024.6-054700",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ROSAT source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "Discovery of a new galactic transient source",
+    "Time": "May 30-31, 2012",
+    "Date": "2012-05-30",
+    "Telescope": [
+        "Swift Burst Alert Telescope (BAT)",
+        "MAXI"
+    ],
+    "Instrument": [
+        "BAT",
+        "MAXI"
+    ],
+    "Observatory": null
+}

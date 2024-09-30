@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FSRQ B3 0650+453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "UT",
+            "Date": "Aug.27.0",
+            "Observations": {
+                "R": 16.65,
+                "I": 15.98
+            }
+        },
+        {
+            "Name": "FSRQ B3 0650+453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "UT",
+            "Date": "Aug.28.0",
+            "Observations": {
+                "V": 17.33,
+                "R": 16.8
+            }
+        },
+        {
+            "Name": "FSRQ B3 0650+453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "UT",
+            "Date": "Aug.29.0",
+            "Observations": {
+                "V": 17.38,
+                "R": 16.85,
+                "I": 16.13,
+                "J": 15.2,
+                "H": 14.17,
+                "K": 13.24
+            }
+        },
+        {
+            "Name": "FSRQ B3 0650+453",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "UT",
+            "Date": "Aug.30.0",
+            "Observations": {
+                "V": 17.44,
+                "R": 16.91,
+                "I": 16.21
+            }
+        }
+    ],
+    "References": "ATels#3580, ATels#3596, Healey, S. E., et al., 2008, Veron-Cetty, M. P. and Veron, P., 2010, 2MASS",
+    "Event Type": "Optical and Near-Infrared Photometry and R-band Polarimetry",
+    "Time": null,
+    "Date": null,
+    "Telescope": "70-cm AZT-8, 1.1-m AZT-24",
+    "Instrument": null,
+    "Observatory": "CrAO, Ukraine; Campo Imperatore, Italy"
+}

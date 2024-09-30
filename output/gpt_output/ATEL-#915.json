@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1818.6-1703",
+            "RA": "18h18m37s.89",
+            "Dec": "-17d02'47\".9",
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": "09.8 ksec",
+            "Date": "Sep. 19, 2006"
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supergiant Fast X-ray Transient (SFXT)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1907+097",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB supergiant neutron star system",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Vela X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "HMXB supergiant neutron star system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "in 't Zand et al, 1998, IAUC # 6840",
+        "Grebenev & Sunyaev, 2005, AstL 31, 672",
+        "Sguera et al, 2005, A&A 444, 221",
+        "Negueruela & Smith, 2006, ATel #831",
+        "Sguera et al, 2005",
+        "in 't Zand, 2005, A&A 441, L1",
+        "Markwardt, 2006, AIP Conf. Proc. 840, 45",
+        "Marshall & Ricketts, 1980, MNRAS 193, 7P",
+        "Krivonos et al, 2003, ATel #211"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S CCD array",
+    "Observatory": null
+}

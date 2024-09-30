@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17497-2821",
+            "RA": 267.41,
+            "Dec": -28.358,
+            "redshift": null,
+            "Type": "hard X-ray source",
+            "Time": "08:30-12:12",
+            "Date": "2006-09-18"
+        }
+    ],
+    "References": [
+        "ATel #885",
+        "ATels #438",
+        "ATel #874"
+    ],
+    "Event Type": "Detection",
+    "Time": "08:30-12:12",
+    "Date": "2006-09-18",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL Galactic bulge monitoring program"
+}

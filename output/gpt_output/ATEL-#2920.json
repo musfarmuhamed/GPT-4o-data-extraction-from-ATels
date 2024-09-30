@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Terzan 5",
+            "RA": 267.021,
+            "Dec": -24.781,
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": "01:32:05",
+            "Date": "2010-10-10"
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bordas et al. ATel #2919",
+        "Heinke et al. 2003, ApJ, 590, 809",
+        "http://lheawww.gsfc.nasa.gov/users/craigm/galscan/html/EXO_1745-248.html"
+    ],
+    "Event Type": "enhanced X-ray emission",
+    "Time": "01:32:05",
+    "Date": "2010-10-10",
+    "Telescope": "Swift-XRT",
+    "Instrument": null,
+    "Observatory": null
+}

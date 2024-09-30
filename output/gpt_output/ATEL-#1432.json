@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1810-189",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray binary",
+            "Time": "14:08",
+            "Date": "March 17, 2008"
+        },
+        {
+            "Name": "Swift J181020.7-190411",
+            "RA": "18h 10m 20.7s",
+            "Dec": "-19d 04m 11.0s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 18102072-1904093",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Markwardt and Swank, ATel #1424; Neronov et al, ATel #1430",
+    "Event Type": "Observation",
+    "Time": "14:08",
+    "Date": "March 17, 2008",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

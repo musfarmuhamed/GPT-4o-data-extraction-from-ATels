@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XSS J12270-4859/1FGL 1227.9-4852/2FGL 1227.7-4853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low-mass X-ray binary and gamma-ray source",
+            "Time": [
+                "Dec 14.31",
+                "Dec 15.32",
+                "Dec 17.30",
+                "Dec 18.26"
+            ],
+            "Date": "2013"
+        }
+    ],
+    "References": [
+        "de Martino et al. 2010, A&A 515, A25",
+        "ATel #5651",
+        "Monard 2013 (see ATel #5647)",
+        "Atel #5513"
+    ],
+    "Event Type": "observation",
+    "Time": [
+        "Dec 14.31",
+        "Dec 15.32",
+        "Dec 17.30",
+        "Dec 18.26"
+    ],
+    "Date": "2013",
+    "Telescope": [
+        "ESO NTT telescope",
+        "La Silla INAF-REM telescope"
+    ],
+    "Instrument": [
+        "EFOSC2 and Gr.#19",
+        "ROSS2 camera"
+    ],
+    "Observatory": "European Southern Observatory, La Silla, Chile"
+}

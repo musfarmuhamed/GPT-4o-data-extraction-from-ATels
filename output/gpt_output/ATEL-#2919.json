@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EXO 1745-248",
+            "RA": "17:48:05.196",
+            "Dec": "-24:46:47.40",
+            "redshift": null,
+            "Type": "neutron star X-ray transient",
+            "Time": "08:45",
+            "Date": "2010 October 10"
+        },
+        {
+            "Name": "XB 1745-25",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "08:45",
+            "Date": "2010 October 10"
+        }
+    ],
+    "References": [
+        "Heinke et al, 2003, ApJ, 590, 809",
+        "Kuulkers et al. 2003, A&A 399, 663",
+        "Markwardt & Swank 2000, IAUC, 7454",
+        "Wijnands et al. 2005, ApJ, 618, 883"
+    ],
+    "Event Type": "Galactic bulge monitoring program",
+    "Time": "08:45 - 12:27",
+    "Date": "2010 October 10",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140505:143511+134946",
+            "RA": "14:35:11",
+            "Dec": "+13:49:46",
+            "redshift": null,
+            "Type": "Ic-lum?",
+            "Time": "UT",
+            "Date": "June 30"
+        },
+        {
+            "Name": "CSS140622:133751+340948",
+            "RA": "13:37:51",
+            "Dec": "+34:09:48",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140627:173000+403615",
+            "RA": "17:30:00",
+            "Dec": "+40:36:15",
+            "redshift": "0.06",
+            "Type": "IIn",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140628:233025+060302",
+            "RA": "23:30:25",
+            "Dec": "+06:03:02",
+            "redshift": "0.06",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140628:164427+285658",
+            "RA": "16:44:27",
+            "Dec": "+28:56:58",
+            "redshift": "0.053",
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024; Drake et al. 2012, ATel#4498; Tomasella et al. 2012, ATel#4512; Benetti et al. 2014, MNRAS, 441, 289",
+    "Event Type": "classification of CRTS optical transients",
+    "Time": "UT",
+    "Date": "June 30",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": null
+}

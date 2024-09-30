@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible supernova",
+            "RA": "01h09m52s.97",
+            "Dec": "+15d59'43\".3",
+            "redshift": "0.03",
+            "Type": "supernova",
+            "Time": "37.5 min",
+            "Date": "2011 Jan. 30.753 UT"
+        },
+        {
+            "Name": "presumed host galaxy SDSS J010952.96+155942.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://titan.physx.u-szeged.hu/~sky/poss-sn2.gif",
+    "Event Type": "discovery of a possible supernova",
+    "Time": "37.5 min",
+    "Date": "2011 Jan. 30.753 UT",
+    "Telescope": "0.60-m Schmidt telescope",
+    "Instrument": "unfiltered CCD",
+    "Observatory": "Konkoly Observatory, Piszk\u00e9stet\u0151, Hungary"
+}

@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016hpw",
+            "RA": "21 09 07.87",
+            "Dec": "-18 06 14.2",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161026"
+        },
+        {
+            "Name": "OGLE16eun",
+            "RA": "02 55 14.51",
+            "Dec": "-68 07 43.8",
+            "redshift": "0.057",
+            "Type": "Ib/c",
+            "Time": null,
+            "Date": "20161023"
+        },
+        {
+            "Name": "SN2016hnk",
+            "RA": "02 13 16.63",
+            "Dec": "-07 39 40.7",
+            "redshift": "0.016",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161019"
+        },
+        {
+            "Name": "SN2016hid",
+            "RA": "03 35 11.67",
+            "Dec": "+15 48 02.3",
+            "redshift": "0.044",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161020"
+        },
+        {
+            "Name": "OGLE16euo",
+            "RA": "02 50 19.15",
+            "Dec": "-75 23 29.3",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160917"
+        },
+        {
+            "Name": "SN2016hpx",
+            "RA": "06 03 16.66",
+            "Dec": "-26 53 54.8",
+            "redshift": "0.033",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161026"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011 PASP, 123, 58)",
+        "Tonry et al. (ATEL #8680)",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Howell et al., 2005, ApJ, 634, 1190",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016 Nov 01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

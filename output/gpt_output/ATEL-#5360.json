@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J002631.09+444127.4",
+            "RA": "00h 26m 31.09s",
+            "Dec": "+44d 41m 27.4s",
+            "redshift": null,
+            "Type": "fast transient",
+            "Time": "15:35:58 UT",
+            "Date": "2013-09-02"
+        },
+        {
+            "Name": "WISE J002630.98+444126.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J002631+444127-MASTER-anim.gif, http://master.sai.msu.ru/static/OT/J002631+444127-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/002631.09444127.4.png",
+    "Event Type": "Optical Transients",
+    "Time": "15:35:58 UT",
+    "Date": "2013-09-02",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "MASTER-Amur auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

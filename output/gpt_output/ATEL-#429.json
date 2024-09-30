@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16465-4507",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray transient, reddened early-type supergiant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0448-00520455",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reddened early-type supergiant, counterpart to IGR J16465-4507",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16463526-4507045",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "reddened early-type supergiant, counterpart to IGR J16465-4507",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17544-2619",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high mass X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #329",
+        "ATel #336",
+        "ATel #338"
+    ],
+    "Event Type": "spectra observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "3.5-m NTT",
+    "Instrument": null,
+    "Observatory": "La Silla"
+}

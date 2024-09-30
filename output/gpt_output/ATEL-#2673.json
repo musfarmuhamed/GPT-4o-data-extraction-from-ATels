@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0235-618",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "21:48:35",
+            "Date": "2010-06-11"
+        },
+        {
+            "Name": "PKS 0235-618",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:51:24",
+            "Date": "2010-06-12"
+        }
+    ],
+    "References": [
+        "ATel #2669",
+        "Cutini 2010",
+        "Kalberla et al. 2005",
+        "Brinkmann et al. 1994",
+        "Monet et al. 1998"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "21:48:35",
+    "Date": "2010-06-11",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

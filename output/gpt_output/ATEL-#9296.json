@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2016-07c",
+            "RA": "00:43:57.94",
+            "Dec": "+41:34:54.6",
+            "redshift": null,
+            "Type": "Classical nova",
+            "Time": "2016 July 26.039 UT",
+            "Date": "2016-07-26"
+        },
+        {
+            "Name": "MASTEROTJ004003.13+414518.7",
+            "RA": "00:40:03.13",
+            "Dec": "+41:45:18.7",
+            "redshift": null,
+            "Type": "Classical nova",
+            "Time": "2016 July 28.152 UT",
+            "Date": "2016-07-28"
+        }
+    ],
+    "References": [
+        "ATel #9264",
+        "ATel #9271"
+    ],
+    "Event Type": "Spectra obtained",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": null,
+            "RA": "00h42m37.67s",
+            "Dec": "+41d12'29.4\"",
+            "redshift": null,
+            "Type": "Probable nova",
+            "Time": "01.03958 UT",
+            "Date": "2008 Sep 01"
+        },
+        {
+            "Name": "J004237.75+411228.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2008-08c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova candidate",
+            "Time": "01.03958 UT",
+            "Date": "2008 Sep 01"
+        }
+    ],
+    "References": "http://cfa-www.harvard.edu/iau/CBAT_M31.html",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "50/70cm Schmidt telescope",
+    "Instrument": "SBIG STL-11000M CCD camera",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

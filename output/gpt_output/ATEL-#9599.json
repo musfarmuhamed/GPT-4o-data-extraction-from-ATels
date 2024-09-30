@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.069",
+            "Type": "Blazar",
+            "Time": "~4:00 UTC to ~7:00 UTC",
+            "Date": "October 5, 2016"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Arlen et al",
+            "Title": "ApJ",
+            "Year": 2013,
+            "Volume": 762,
+            "Page": 92
+        }
+    ],
+    "Event Type": "Bright flare detection",
+    "Time": "~4:00 UTC to ~7:00 UTC",
+    "Date": "October 5, 2016",
+    "Telescope": "VERITAS (Very Energetic Radiation Imaging Telescope Array System)",
+    "Instrument": null,
+    "Observatory": "Fred Lawrence Whipple Observatory, southern Arizona, USA"
+}

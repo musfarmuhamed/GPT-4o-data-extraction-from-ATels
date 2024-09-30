@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15rq",
+            "RA": "00:08:03.13",
+            "Dec": "-36:33:51.8",
+            "redshift": "0.025",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2015-10-21"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classification",
+    "Time": "Null",
+    "Date": "2015-10-21",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

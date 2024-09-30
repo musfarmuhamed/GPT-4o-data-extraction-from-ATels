@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SDSS J123527.19+270402.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2010ay",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broad-lined SN Ic",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Drake et al. 2010, CBET 2224"
+    ],
+    "Event Type": "spectrum obtained",
+    "Time": null,
+    "Date": "March 22",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

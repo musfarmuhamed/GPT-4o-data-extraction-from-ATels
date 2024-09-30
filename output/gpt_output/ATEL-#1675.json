@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma-ray Repeater",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2RXP J050107.7+451637",
+            "RA": "05:01:07.7",
+            "Dec": "+45:16:37",
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J050107.9+451631",
+            "RA": "05:01:07.9",
+            "Dec": "+45:16:31",
+            "redshift": null,
+            "Type": "X-ray Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #8112",
+        "GCN #8113",
+        "GCN #8114",
+        "GCN #8115"
+    ],
+    "Event Type": "Observation",
+    "Time": "4.2 ks",
+    "Date": "September 21-24, 1992",
+    "Telescope": "ROSAT",
+    "Instrument": "PSPC",
+    "Observatory": null
+}

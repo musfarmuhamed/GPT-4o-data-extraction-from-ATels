@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J010745.0-722740",
+            "RA": "01:07:45.00",
+            "Dec": "-72:27:40.9",
+            "redshift": null,
+            "Type": "Be/X-ray binary (BeXRB)",
+            "Time": null,
+            "Date": "2014 Jan 06"
+        },
+        {
+            "Name": "[MCS2008] 206",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2006 Feb 10"
+        },
+        {
+            "Name": "[MA93] 1641",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "McGowan et al. (2008, MNRAS 383, 330)",
+        "Udalski, 2008, Acta Astron., 58, 187"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": null,
+    "Date": "2014 Jan 06",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "SMC"
+}

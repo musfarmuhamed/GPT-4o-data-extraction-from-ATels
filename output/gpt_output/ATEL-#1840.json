@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17062-6143",
+            "RA": 256.5462,
+            "Dec": -61.6697,
+            "redshift": null,
+            "Type": "hard X-ray transient",
+            "Time": "19:56",
+            "Date": "2008-11-03"
+        },
+        {
+            "Name": "SWIFT J1706.6-6146",
+            "RA": 256.569,
+            "Dec": -61.7119,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2008-07-13"
+        },
+        {
+            "Name": "Swift/UVOT detected object",
+            "RA": 256.56771,
+            "Dec": -61.71125,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Churazov et al. 2007",
+    "Event Type": "observation",
+    "Time": "19:56",
+    "Date": "2008-11-03",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

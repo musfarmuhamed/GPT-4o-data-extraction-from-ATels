@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible supernova",
+            "RA": "01h20m22s.63",
+            "Dec": "-00d04'20\".2",
+            "redshift": 0.07741,
+            "Type": "transient",
+            "Time": "00:00",
+            "Date": "2016-09-29"
+        },
+        {
+            "Name": "SDSS J012023.13-000444.3",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.07741,
+            "Type": "host galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "https://wis-tns.weizmann.ac.il/object/2016gvd",
+    "Event Type": "discovery",
+    "Time": "00:00",
+    "Date": "2016-10-09",
+    "Telescope": "0.60-m Schmidt telescope",
+    "Instrument": "Null",
+    "Observatory": "Konkoly Observatory, Piszkesteto, Hungary"
+}

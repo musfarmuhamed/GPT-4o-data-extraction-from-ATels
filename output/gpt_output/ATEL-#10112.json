@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J161308.18+260953.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03",
+            "Type": "Type II SN 2005cs",
+            "Time": "21.5 UT",
+            "Date": "2017 February 21"
+        },
+        {
+            "Name": "ASASSN-17cq/AT 2017axl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.034",
+            "Type": "Type Ia SN 2002bo",
+            "Time": "22.6 UT",
+            "Date": "2017 February 22"
+        }
+    ],
+    "References": [
+        "ATel #10099",
+        "ATel #10108"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "LCO 2-meter",
+    "Instrument": "FLOYDS",
+    "Observatory": [
+        "Haleakala, Hawai'i",
+        "Siding Spring, Australia"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17gt",
+            "RA": "22:55:37.11",
+            "Dec": "+19:10:24.60",
+            "redshift": "0.033470",
+            "Type": "Transient",
+            "Time": "2017-05-24.59",
+            "Date": "2017-05-24"
+        },
+        {
+            "Name": "ASASSN-17gu",
+            "RA": "11:51:31.07",
+            "Dec": "+15:27:25.22",
+            "redshift": "Null",
+            "Type": "Transient",
+            "Time": "2017-05-26.34",
+            "Date": "2017-05-26"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2014",
+        "R. Post",
+        "J. Brimacombe",
+        "NED",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "Discovery of transient sources",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala, Hawaii"
+}

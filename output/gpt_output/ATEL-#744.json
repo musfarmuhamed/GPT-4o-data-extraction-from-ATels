@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17419-2802",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12.2",
+            "Date": "February 19-20, 2006"
+        },
+        {
+            "Name": "GRS 1736-297",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be-system",
+            "Time": "6.8",
+            "Date": "February 19-20, 2006"
+        }
+    ],
+    "References": [
+        "ATEL #616",
+        "ATEL #617",
+        "Pavlinsky et al., SvAL, 1992, 18, 88",
+        "Motch et al. (A&A, 1998, 132, 341)",
+        "Wilson et al., ApJ, 2003, 596, 1220"
+    ],
+    "Event Type": "detection of X-ray transients",
+    "Time": "February 19-20, 2006",
+    "Date": "February 19-20, 2006",
+    "Telescope": "IBIS/ISGRI",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

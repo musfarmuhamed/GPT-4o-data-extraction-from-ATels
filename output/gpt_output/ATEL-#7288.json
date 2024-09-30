@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17511-3057",
+            "RA": "17 51 08.47",
+            "Dec": "-30 57 36.7",
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": "2015-03-25"
+        }
+    ],
+    "References": [
+        "Atel #7275",
+        "#2198",
+        "#2215",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Paizis et al. 2012, ApJ, 755, 52",
+        "Atel #2216"
+    ],
+    "Event Type": "outburst",
+    "Time": "57105.10924 MJD",
+    "Date": "2015-03-25",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT/PC",
+    "Observatory": "Swift"
+}

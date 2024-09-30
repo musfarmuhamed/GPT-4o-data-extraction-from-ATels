@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15as",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Ia supernova",
+            "Time": "14.31",
+            "Date": "Jan 14"
+        },
+        {
+            "Name": "SN 2001dl",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "-1 day",
+            "Date": null
+        },
+        {
+            "Name": "SN 2011fe",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": "-3 days",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6919",
+        "Marion et al. 2009",
+        "Hsiao et al. 2013"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "14.31 UT",
+    "Date": "Jan 14",
+    "Telescope": "6.5-m Magellan Baade Telescope",
+    "Instrument": "FoldedPort Infrared Echellette (FIRE) spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

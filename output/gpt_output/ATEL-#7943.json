@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1327-627",
+            "RA": "201.875 deg",
+            "Dec": "-62.794 deg",
+            "redshift": null,
+            "Type": "Transient low-mass X-ray binary",
+            "Time": "07:53 UT",
+            "Date": "2015 August 21"
+        },
+        {
+            "Name": "MAXI J1327-627",
+            "RA": "202.670 deg",
+            "Dec": "-62.490 deg",
+            "redshift": null,
+            "Type": "Transient low-mass X-ray binary",
+            "Time": "09:25 UT",
+            "Date": "2015 August 21"
+        },
+        {
+            "Name": "MAXI J1327-627",
+            "RA": "201.629 deg",
+            "Dec": "-63.061 deg",
+            "redshift": null,
+            "Type": "Transient low-mass X-ray binary",
+            "Time": null,
+            "Date": "2015 August 21"
+        },
+        {
+            "Name": "MAXI J1702-301",
+            "RA": "255.542 deg",
+            "Dec": "-30.130 deg",
+            "redshift": null,
+            "Type": "Transient low-mass X-ray binary",
+            "Time": "17:05 UT",
+            "Date": "2015 August 21"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Cornelisse et al.",
+            "Year": 2002,
+            "Title": "A&A",
+            "Volume": 392,
+            "Page": 931
+        },
+        {
+            "Author": "White, Nagase, and Parmar",
+            "Year": 1995,
+            "Title": "X-ray Binaries",
+            "Editors": "Lewin, van Paradijs, and van den Heuvel"
+        }
+    ],
+    "Event Type": "Observations of transient X-ray sources",
+    "Time": "07:53 UT",
+    "Date": "2015 August 21",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

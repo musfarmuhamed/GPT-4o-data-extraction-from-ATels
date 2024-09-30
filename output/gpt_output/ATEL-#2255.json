@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF09fox",
+            "RA": "23:20:48.009",
+            "Dec": "+32:30:08.60",
+            "redshift": "0.07",
+            "Type": "Type Ia supernova",
+            "Time": "Unknown",
+            "Date": "Oct 19.6"
+        },
+        {
+            "Name": "PTF09foz",
+            "RA": "00:42:11.719",
+            "Dec": "-09:52:52.47",
+            "redshift": "0.05",
+            "Type": "Type Ia supernova",
+            "Time": "Unknown",
+            "Date": "Oct 19.8"
+        }
+    ],
+    "References": "ATEL#2174, Howell et al. 2005",
+    "Event Type": "discovery of two nearby supernova",
+    "Time": "Unknown",
+    "Date": "October 21",
+    "Telescope": "Keck II, Gemini-South, Hubble Space Telescope",
+    "Instrument": "DEIMOS, GMOS, STIS/UV",
+    "Observatory": "Palomar Transient Factory"
+}

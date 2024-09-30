@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3FGL J1603.7+1106",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1608.6+1029",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1555.7+1111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1552.1+0852",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J1546.0+0818",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PG 1553+113",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": null,
+            "Date": "2016-04-27"
+        }
+    ],
+    "References": [
+        "http://gcn.gsfc.nasa.gov/notices_amon/67093193_127853.amon",
+        "http://gcn.gsfc.nasa.gov/doc/Public_Doc_AMON_IceCube_GCN_Alerts_v2.pdf",
+        "Acero et al. 2015",
+        "B. Kapanadze, ATel #8998"
+    ],
+    "Event Type": "IceCube High Energy Starting Event",
+    "Time": "05:52:32.00",
+    "Date": "2016-04-27",
+    "Telescope": "Fermi-LAT",
+    "Instrument": "Large Area Telescope",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

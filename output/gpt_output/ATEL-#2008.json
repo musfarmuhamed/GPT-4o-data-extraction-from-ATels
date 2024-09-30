@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J19294+1816",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Binary system",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Turler et al, ATel #1997",
+        "Krimm et al. (ATel #1999)",
+        "Strohmayer et al, ATel #2002",
+        "Corbet 1986, MNRAS, 220, 1047"
+    ],
+    "Event Type": null,
+    "Time": "54,680.3 (+/- 0.6) + n x 117.2 (+/- 0.2) MJD",
+    "Date": "2006 January 1 through 2009 April 2",
+    "Telescope": "Swift/BAT",
+    "Instrument": "Hard X-ray transient monitor",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": "06:56",
+            "Date": "2013-03-02"
+        }
+    ],
+    "References": [
+        "ATel#4855",
+        "ATel#4856",
+        "ATel#4867"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "06:56",
+    "Date": "2013-03-02",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "SPI"
+    ],
+    "Observatory": null
+}

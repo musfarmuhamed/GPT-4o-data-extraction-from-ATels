@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray blazar",
+            "Time": null,
+            "Date": "June 28, 2008"
+        },
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray blazar",
+            "Time": null,
+            "Date": "July 10-21, 2008"
+        }
+    ],
+    "References": [
+        "ATel #1592",
+        "ATel #1625",
+        "Hartman et al. 1999, ApJS, 123,79",
+        "ATel #1592",
+        "Vercellone et al. 2008, ApJ,676,L13"
+    ],
+    "Event Type": "high flux monitoring",
+    "Time": null,
+    "Date": "June 28, 2008",
+    "Telescope": "Large Area Telescope",
+    "Instrument": "LAT Automatic Science Processing (ASP) pipeline",
+    "Observatory": "Gamma-ray Large Area Space Telescope (GLAST)"
+}

@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SSS120814:221352-124146",
+            "RA": "23 18 01.82",
+            "Dec": "-56 09 25.7",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20120814"
+        },
+        {
+            "Name": "PSN J21015899-4816259",
+            "RA": "21 01 58.99",
+            "Dec": "-48 16 25.9",
+            "redshift": "0.019",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20120819"
+        },
+        {
+            "Name": "LSQ12elt",
+            "RA": "20 11 07.15",
+            "Dec": "-23 08 44.5",
+            "redshift": "0.10",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20120811"
+        },
+        {
+            "Name": "LSQ12egy",
+            "RA": "23 59 45.94",
+            "Dec": "-06 21 07.9",
+            "redshift": "0.09?",
+            "Type": "SN II?",
+            "Time": "Null",
+            "Date": "20120808"
+        },
+        {
+            "Name": "PSN J23054871+1419564",
+            "RA": "23 05 48.71",
+            "Dec": "+14 19 56.4",
+            "redshift": "0.11",
+            "Type": "SN Ia-91T",
+            "Time": "Null",
+            "Date": "20120821"
+        },
+        {
+            "Name": "LSQ12elj",
+            "RA": "02 04 08.40",
+            "Dec": "-04 49 14.5",
+            "redshift": "0.09",
+            "Type": "SN Ia",
+            "Time": "Null",
+            "Date": "20120727"
+        },
+        {
+            "Name": "LSQ12emi",
+            "RA": "05 00 13.78",
+            "Dec": "-22 11 17.5",
+            "redshift": "0.05",
+            "Type": "SN Ic",
+            "Time": "Null",
+            "Date": "20120821"
+        },
+        {
+            "Name": "PSN J02554120-2725276",
+            "RA": "02 55 41.20",
+            "Dec": "-27 25 27.6",
+            "redshift": "0.02",
+            "Type": "SN Ia-91bg",
+            "Time": "Null",
+            "Date": "20120822"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "http://www.pessto.org",
+        "http://crts.caltech.edu/",
+        "http://www.pessto.org (via WISeREP)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2012 August 26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

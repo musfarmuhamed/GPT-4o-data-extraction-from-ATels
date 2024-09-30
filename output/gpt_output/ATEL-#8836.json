@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016bas",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": "17.4 UT",
+            "Date": "2016 March 17"
+        },
+        {
+            "Name": "ESO 163-G011",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2001ig",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8814, Ryder et al. 2004, MNRAS, 349, 1093",
+    "Event Type": "Observation",
+    "Time": "17.4 UT",
+    "Date": "2016 March 17",
+    "Telescope": "Australia Telescope Compact Array",
+    "Instrument": null,
+    "Observatory": "Australia Telescope National Facility"
+}

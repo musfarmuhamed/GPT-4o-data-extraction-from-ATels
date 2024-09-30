@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17adb",
+            "RA": "04:32:44.43",
+            "Dec": "-05:53:30.4",
+            "redshift": 0.043,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170116"
+        },
+        {
+            "Name": "SN2017jy",
+            "RA": "04:32:44.43",
+            "Dec": "-05:53:30.4",
+            "redshift": 0.043,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170116"
+        },
+        {
+            "Name": "Gaia17acv",
+            "RA": "08:33:49.81",
+            "Dec": "-25:02:24.5",
+            "redshift": 0.063,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170114"
+        },
+        {
+            "Name": "SN2017jr",
+            "RA": "08:33:49.81",
+            "Dec": "-25:02:24.5",
+            "redshift": 0.063,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170114"
+        },
+        {
+            "Name": "ATLAS17agh",
+            "RA": "11:10:27.18",
+            "Dec": "+28:41:42.4",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20170104"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2017 January 17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

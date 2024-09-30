@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14bt",
+            "RA": "10:19:19.96",
+            "Dec": "+58:30:15.42",
+            "redshift": "0.0289",
+            "Type": "Type Ia SN",
+            "Time": "Null",
+            "Date": "2014-05-27"
+        },
+        {
+            "Name": "ASASSN-14bu",
+            "RA": "11:18:41.03",
+            "Dec": "+25:09:59.88",
+            "redshift": "0.0254",
+            "Type": "Type II SN",
+            "Time": "Null",
+            "Date": "2014-05-29"
+        }
+    ],
+    "References": [
+        "ASAS-SN reference image",
+        "archival SDSS g-band image",
+        "ASAS-SN May 27.28 discovery subtraction image",
+        "ASAS-SN June 1.26 confirmation image",
+        "ASAS-SN May 29.31 discovery subtraction image",
+        "ASAS-SN June 1.32 confirmation image"
+    ],
+    "Event Type": "Discovery of supernovae",
+    "Time": "Null",
+    "Date": "2014",
+    "Telescope": "Brutus",
+    "Instrument": "OSMOS",
+    "Observatory": "Haleakala, Hawaii"
+}

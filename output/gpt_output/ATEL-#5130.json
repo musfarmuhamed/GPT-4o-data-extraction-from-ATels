@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J221205.95+235541.0",
+            "RA": "22h 12m 05.95s",
+            "Dec": "+23d 55m 41.0s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2013-06-13.87596 UT",
+            "Date": "2013-06-13"
+        },
+        {
+            "Name": "Quasar PKS2209+236",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "L. Carrasco, A. Luna, G. Escobedo, D. Y. Mayya, A. Carraminana, V. et al. ATel #4559",
+    "Event Type": "Discovery",
+    "Time": "2013-06-13.87596 UT",
+    "Date": "2013-06-13",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Net"
+}

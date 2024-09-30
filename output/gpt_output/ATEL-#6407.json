@@ -1,0 +1,151 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14fe",
+            "RA": "01:42:21.57",
+            "Dec": "-61:35:37.6",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "ASASSN-14fh",
+            "RA": "17:55:44.17",
+            "Dec": "-70:46:36.1",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "ASASSN-14fi",
+            "RA": "02:03:32.94",
+            "Dec": "-67:31:26.8",
+            "redshift": "0",
+            "Type": "M-star",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "ASASSN-14fr",
+            "RA": "21:59:06.80",
+            "Dec": "-35:29:56.9",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14doj",
+            "RA": "22:17:35.34",
+            "Dec": "-54:27:20.9",
+            "redshift": "0",
+            "Type": "CV",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14dtp",
+            "RA": "01:53:31.88",
+            "Dec": "-20:32:13.3",
+            "redshift": "0.10",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14dxb",
+            "RA": "20:40:20.08",
+            "Dec": "-50:55:21.2",
+            "redshift": "0.06",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14dxo",
+            "RA": "23:23:56.98",
+            "Dec": "-17:48:46.0",
+            "redshift": "0.08",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14ebu",
+            "RA": "04:02:18.19",
+            "Dec": "-17:18:13.1",
+            "redshift": "0.06",
+            "Type": "SNII",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14edl",
+            "RA": "02:48:35.67",
+            "Dec": "-48:39:39.3",
+            "redshift": "0.11",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14eeu",
+            "RA": "23:02:08.38",
+            "Dec": "+11:00:34.8",
+            "redshift": "0.17",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "LSQ14eez",
+            "RA": "00:25:43.00",
+            "Dec": "-57:41:42.1",
+            "redshift": "?",
+            "Type": "?",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "OGLE-2014-SN-051",
+            "RA": "23:35:12.68",
+            "Dec": "-63:15:24.1",
+            "redshift": "0.16",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "PSNJ14504990-1331037",
+            "RA": "14:50:49.90",
+            "Dec": "-13:31:03.7",
+            "redshift": "0.03",
+            "Type": "SNIa",
+            "Time": null,
+            "Date": "2014-08-19"
+        },
+        {
+            "Name": "PSNJ23274086+2335214",
+            "RA": "23:27:40.86",
+            "Dec": "+23:35:21.4",
+            "redshift": "0.01",
+            "Type": "SNII",
+            "Time": null,
+            "Date": "2014-08-19"
+        }
+    ],
+    "References": [
+        "All-Sky Automated Survey for Supernovae",
+        "La Silla-Quest survey (Baltay et al. 2013, PASP, 125, 683)",
+        "OGLE IV survey",
+        "IAU Transient Object Confirmation Page (TOCP)"
+    ],
+    "Event Type": "Spectroscopic Classification",
+    "Time": null,
+    "Date": "2014-08-19",
+    "Telescope": "3.6m New Technology Telescope",
+    "Instrument": "EFOSC2 spectrograph using Grism #13",
+    "Observatory": "La Silla"
+}

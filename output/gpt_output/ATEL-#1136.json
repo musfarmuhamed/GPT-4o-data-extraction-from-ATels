@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J174716.1-281048",
+            "RA": "17:47:16.16",
+            "Dec": "-28:10:48.0",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "04:54-05:28 UT",
+            "Date": "July 6, 2007"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Del Santo et al. 2007",
+            "Link": "astro-ph/0704.2134"
+        },
+        {
+            "ATel": "#1078",
+            "Link": null
+        },
+        {
+            "ATel": "#147",
+            "Link": null
+        }
+    ],
+    "Event Type": "observation",
+    "Time": "04:54-05:28 UT",
+    "Date": "July 6, 2007",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": "CTIO"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB60713+5738",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "MJD2458116.972963",
+            "Date": "December 29th, 2017"
+        },
+        {
+            "Name": "Fermi J0713+5739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel#11331",
+        "ATel#11056"
+    ],
+    "Event Type": "giant flare",
+    "Time": null,
+    "Date": "December 29th, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J082047.74+680423.3",
+            "RA": "08h 20m 47.74s",
+            "Dec": "+68d 04m 23.3s",
+            "redshift": null,
+            "Type": "CV (cataclysmic variable)",
+            "Time": "2013-02-11.58751 UT",
+            "Date": "2013-02-11"
+        },
+        {
+            "Name": "MASTER OT J141143.46+262051.5",
+            "RA": "14h 11m 43.46s",
+            "Dec": "+26d 20m 51.5s",
+            "redshift": null,
+            "Type": "CV (cataclysmic variable)",
+            "Time": "2013-02-13.76514 UT",
+            "Date": "2013-02-13"
+        }
+    ],
+    "References": [
+        "USNO-B1.0 1580-0143983",
+        "GALEX J082047.6+680424",
+        "GALEX J082047.5+680424",
+        "SDSS J141143.46+262051.3",
+        "USNO-B1.0 1163-0236133",
+        "GALEX J141143.4+262052"
+    ],
+    "Event Type": "new cataclysmic variable",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

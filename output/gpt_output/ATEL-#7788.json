@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "2015-07-10",
+            "Date": null
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2015-07-10 12:34:32 UTC",
+            "Date": "2015-07-10"
+        }
+    ],
+    "References": [
+        "ATel #7773",
+        "ATel #7763",
+        "Wilms et al. (2000, ApJ 542, 914)",
+        "Verner et al. (1996, ApJ, 465, 487)",
+        "Miller-Jones et al. 2009, ApJL, 706, 230"
+    ],
+    "Event Type": "outburst monitoring",
+    "Time": "2015-07-10",
+    "Date": "2015",
+    "Telescope": [
+        "VLA",
+        "AMI-LA",
+        "Swift",
+        "Integral"
+    ],
+    "Instrument": [
+        "L band",
+        "C_l band",
+        "C_h band",
+        "Ku_l band",
+        "Ku_h band",
+        "Swift UVOT",
+        "Integral"
+    ],
+    "Observatory": null
+}

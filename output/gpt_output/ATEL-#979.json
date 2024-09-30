@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007I",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021639,
+            "Type": "Type Ic Supernova",
+            "Time": "2007-01-20.03 UT",
+            "Date": "2007-01-20"
+        }
+    ],
+    "References": [
+        "CBET #807",
+        "CBET #808"
+    ],
+    "Event Type": "Observation",
+    "Time": "2007-01-20.03 UT",
+    "Date": "2007-01-20",
+    "Telescope": "Swift",
+    "Instrument": [
+        {
+            "Name": "Ultraviolet/Optical Telescope (UVOT)"
+        },
+        {
+            "Name": "X-Ray Telescope (XRT)"
+        }
+    ],
+    "Observatory": null
+}

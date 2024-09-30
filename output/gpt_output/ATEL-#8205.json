@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15er",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "Ic-pec",
+            "Time": null,
+            "Date": "2015-10-13.30"
+        },
+        {
+            "Name": "PSN J07111498+3110058",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "II",
+            "Time": null,
+            "Date": "2015-10-21.10"
+        },
+        {
+            "Name": "PSN J01510869+3155215",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.26,
+            "Type": "Seyfert 1",
+            "Time": null,
+            "Date": "2015-09-12.78"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "ATel #8162",
+        "Taubenberger et al 2006, MNRAS 371, 1459",
+        "Hamuy et al 2003, Nature 424, 651",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Asiago 1.82 m Copernico Telescope",
+        "1.22 m Galileo Telescope"
+    ],
+    "Instrument": [
+        "AFOSC",
+        "Boller & Chivens spectrograph"
+    ],
+    "Observatory": "Asiago"
+}

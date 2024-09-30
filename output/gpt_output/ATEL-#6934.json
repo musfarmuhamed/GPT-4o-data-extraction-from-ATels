@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ba",
+            "RA": "14:04:55.09",
+            "Dec": "+08:55:14.53",
+            "Redshift": "0.023132",
+            "Type": "supernova",
+            "Time": "2015-01-15.64",
+            "Date": "2015-01-15"
+        },
+        {
+            "Name": "SDSS J140455.12+085514.0",
+            "RA": "14:04:55.12",
+            "Dec": "+08:55:14.0",
+            "Redshift": "0.023132",
+            "Type": "dwarf, star-forming galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, NED",
+    "Event Type": "transient discovery",
+    "Time": "2015-01-15.64",
+    "Date": "2015-01-15",
+    "Telescope": "Brutus telescope, 0.35m Schmidt-Cassegrain telescope, Planewave CDK 0.43m telescope, Meade LX-200 25cm telescope, RCOS 51-cm telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; Mt Teide, Canary Islands; near Mayhill, New Mexico; Antelope Hills Observatory, Colorado; New Mexico"
+}

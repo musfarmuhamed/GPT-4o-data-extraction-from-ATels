@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE16dha",
+            "RA": "06:32:25.15",
+            "Dec": "-71:34:04.0",
+            "redshift": 0.006,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160919"
+        },
+        {
+            "Name": "SN2016gio",
+            "RA": "20:41:57.25",
+            "Dec": "-40:28:20.4",
+            "redshift": 0.094,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20160916"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "http://www.pessto.org",
+        "http://ogle.astrouw.edu.pl/",
+        "http://gsaweb.ast.cam.ac.uk/alerts"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-09-24",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

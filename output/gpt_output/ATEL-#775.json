@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J061223.0+701243.9",
+            "RA": "06 12 22.6 \u00b1 0.5",
+            "Dec": "+70 12 43.4 \u00b1 0.8",
+            "redshift": null,
+            "Type": "X-ray binary system, either a low-mass X-ray binary or a Cataclysmic Variable",
+            "Time": "20:35 UT",
+            "Date": "2006 February 04"
+        }
+    ],
+    "References": [
+        "Grupe et al., 2006, GCN #4672",
+        "GCN #4681",
+        "Grupe et al., 2006, GCN #4663",
+        "Sakamoto et al., 2006, GCN #4679"
+    ],
+    "Event Type": "Optical identification of X-ray transient",
+    "Time": "20:35 UT",
+    "Date": "2006 February 04",
+    "Telescope": "Swift X-ray Telescope (XRT), Low-Resolution Spectrograph (LRS)",
+    "Instrument": "UV-Optical Telescope (UVOT), grism #1 with a 2\" slit",
+    "Observatory": "Hobby-Eberly-Telescope (HET) at McDonald Observatory"
+}

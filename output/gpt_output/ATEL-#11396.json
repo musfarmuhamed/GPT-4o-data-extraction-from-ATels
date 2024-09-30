@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J2129-5721",
+            "RA": "21:31:33.42",
+            "Dec": "-57:44:26.7",
+            "redshift": 2,
+            "Type": "millisecond pulsar",
+            "Time": "04:11:54.80 UTC",
+            "Date": "2018-03-11"
+        },
+        {
+            "Name": "FRB 180311",
+            "RA": "21:31:33.42",
+            "Dec": "-57:44:26.7",
+            "redshift": 2,
+            "Type": "fast radio burst",
+            "Time": "04:11:54.80 UTC",
+            "Date": "2018-03-11"
+        }
+    ],
+    "References": [
+        "Barsdell et al. 2011",
+        "Cordes & Lazio, 2001",
+        "Manchester et al. 2013",
+        "Macquart & Ekers, 2017",
+        "Yao et al. 2017"
+    ],
+    "Event Type": "Detection of fast radio burst",
+    "Time": "04:11:54.80 UTC",
+    "Date": "2018-03-11",
+    "Telescope": "CSIRO 64-m Parkes Telescope",
+    "Instrument": "multibeam receiver and BPSR backend",
+    "Observatory": "Parkes Observatory"
+}

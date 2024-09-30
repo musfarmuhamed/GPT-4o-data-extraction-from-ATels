@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J001502.14+413235.2",
+            "RA": "00h 15m 02.14s",
+            "Dec": "+41d 32m 35.2s",
+            "redshift": "Null",
+            "Type": "Optical Transient",
+            "Time": "00h 15m 02.14s UT",
+            "Date": "2013-08-30.86205"
+        },
+        {
+            "Name": "GALEX J001502.42+413232.6",
+            "RA": "00h 15m 02.42s",
+            "Dec": "+41d 32m 32.6s",
+            "redshift": "Null",
+            "Type": "Spiral Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "MASTER OT J015527.18+474719.2",
+            "RA": "01h 55m 27.18s",
+            "Dec": "+47d 47m 19.2s",
+            "redshift": "Null",
+            "Type": "Cataclysmic Variable",
+            "Time": "01h 55m 27.18s UT",
+            "Date": "2013-09-05.74904"
+        },
+        {
+            "Name": "USNO-B1.0 1377-0050829",
+            "RA": "01h 55m 27.199s",
+            "Dec": "+47d 47m 20.77s",
+            "redshift": "Null",
+            "Type": "Faint Blue Star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/001502.14413235.2.png, http://master.sai.msu.ru/static/OT/015527.18474719.2.png",
+    "Event Type": "Optical Transient, Cataclysmic Variable",
+    "Time": "00h 15m 02.14s UT, 01h 55m 27.18s UT",
+    "Date": "2013-08-30.86205, 2013-09-05.74904",
+    "Telescope": "MASTER-Kislovodsk, MASTER-Amur",
+    "Instrument": "Auto-detection System",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

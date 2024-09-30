@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cyg X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "persistent black-hole binary",
+            "Time": [
+                "20:58 - 21:57 UT"
+            ],
+            "Date": [
+                "2006-09-24",
+                "2006-09-25",
+                "2006-09-26",
+                "2006-09-30"
+            ]
+        }
+    ],
+    "References": [
+        "Zdziarski et al. 2002, ApJ 578, 357"
+    ],
+    "Event Type": "high state X-ray observation and outburst",
+    "Time": "20:58 - 21:57 UT",
+    "Date": "2006-09-25",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "ESA"
+}

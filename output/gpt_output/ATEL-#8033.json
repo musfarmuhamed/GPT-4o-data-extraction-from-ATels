@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2015-08c",
+            "RA": "00h44m16.54s",
+            "Dec": "+41d32m23.9s",
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "04.924 UT",
+            "Date": "2015-09-04"
+        },
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "04.854 & 06.032 UT",
+            "Date": "2015-09-04 & 2015-09-06"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Gloria Sala et al.",
+            "ATEL #": 7963
+        },
+        {
+            "Event": "PTF09hsd",
+            "ATEL #": [
+                8029,
+                7984,
+                7980,
+                7979,
+                7976,
+                7974,
+                7969,
+                7967,
+                7965,
+                7964
+            ]
+        },
+        {
+            "Authors": "Corbelli et al.",
+            "Astron. Astrophys.": "511, A89",
+            "Year": 2010
+        },
+        {
+            "Authors": "Massey et al.",
+            "Journal": "AJ",
+            "Volume": 131,
+            "Page": 2478,
+            "Year": 2006
+        }
+    ],
+    "Event Type": "optical spectroscopy and photometry",
+    "Time": "04.924 UT",
+    "Date": "2015-09-04",
+    "Telescope": "BTA telescope",
+    "Instrument": "SCORPIO spectrograph",
+    "Observatory": "Observatori Astronomic del Montsec"
+}

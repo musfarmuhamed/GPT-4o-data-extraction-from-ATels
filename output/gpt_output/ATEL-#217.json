@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0055.4-7210",
+            "RA": "00h55m27.9s",
+            "Dec": "-72d10m58s",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "09:47:57 - 12:45:44",
+            "Date": "2002-07-04"
+        },
+        {
+            "Name": "RX J0054.9-7245",
+            "RA": "00h54m55.6s",
+            "Dec": "-72d45m10s",
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "06:48:04 - 09:47:57",
+            "Date": "2002-07-04"
+        }
+    ],
+    "References": [
+        "Zezas et al. astro-ph/0310562, 2003",
+        "Haberl & Pietsch (2003, astro-ph/0311092)",
+        "Yokogawa et al (2003, PASJ 55, 161)"
+    ],
+    "Event Type": "Detection of X-ray pulsars",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

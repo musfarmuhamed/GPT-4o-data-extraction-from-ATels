@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16po (AT 2016jga)",
+            "RA": "02:05:38.33",
+            "Dec": "-59:47:58.23",
+            "redshift": "0.024300",
+            "Type": "supernova",
+            "Time": "2016-12-21.17",
+            "Date": "2016-12-21"
+        },
+        {
+            "Name": "ASASSN-16pp (AT 2016jgr)",
+            "RA": "23:42:37.01",
+            "Dec": "-45:41:22.79",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2016-12-31.08",
+            "Date": "2016-12-31"
+        }
+    ],
+    "References": "NSF grant AST-1515927, CCAPP at OSU, CASSACA, Mt. Cuba Astronomical Foundation",
+    "Event Type": "transient detection",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Cassius",
+    "Instrument": "Cassius telescope",
+    "Observatory": "Cerro Tololo, Chile"
+}

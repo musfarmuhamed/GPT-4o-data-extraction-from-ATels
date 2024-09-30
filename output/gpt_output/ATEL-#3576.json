@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1834.9-0846",
+            "RA": "18 34 52.12",
+            "Dec": "-08 45 55.97",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "13 ks net exposure time",
+            "Date": "2011 August 22"
+        }
+    ],
+    "References": [
+        "D'Elia et al. GCN Circ. 12253",
+        "Guiriec et al. 12255",
+        "Gogus et al. ATel 2542"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "13 ks net exposure time",
+    "Date": "2011 August 22",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

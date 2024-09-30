@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB (Trigger n.6917)",
+            "RA": 292.6,
+            "Dec": -47.6,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "06:04:00:73",
+            "Date": "12/07"
+        },
+        {
+            "Name": "GRB (Trigger n.6918)",
+            "RA": 300.5,
+            "Dec": -52,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "21:06:07:13",
+            "Date": "12/07"
+        },
+        {
+            "Name": "SN1998bw",
+            "RA": 291,
+            "Dec": -52,
+            "redshift": null,
+            "Type": "SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "D.Fargion Preprint INFN 1215 on 13/07/98; D.Fargion,A.Salis \"The time evolution of GRB spectra by a precessing lighthouse Gamma Jet\", 749, GRB 3rd Huntsville Symposium 1996; #Astro-ph 9605166/9605167/9605168",
+    "Event Type": "GRBs",
+    "Time": null,
+    "Date": "12/07",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

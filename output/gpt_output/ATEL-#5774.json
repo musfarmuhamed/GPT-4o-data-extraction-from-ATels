@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J003059.39+301634.3",
+            "RA": "00h 30m 59.39s",
+            "Dec": "+30d 16m 34.3s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "00:11:56.227",
+            "Date": "2014-01-17"
+        },
+        {
+            "Name": "blue star USNO-A2.0 1200-00232738",
+            "RA": "00 30 59.46",
+            "Dec": "+30 16 34.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1202-0006789",
+            "RA": "00 30 59.439",
+            "Dec": "+30 16 34.72",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J003059.40+301634.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J003059.3+301635",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Magnitude": "16.1m",
+            "Limit": "18.1m",
+            "Date": "2014-01-17.47291 UT"
+        },
+        {
+            "Magnitude": "18.6m",
+            "Limit": "19.5m",
+            "Date": "2011-11-19.63458 UT"
+        },
+        {
+            "Magnitude": "16.6m",
+            "Date": "2014-01-17.504 UT"
+        }
+    ],
+    "Event Type": "New CV (Cataclysmic Variable)",
+    "Time": "00:11:56.227",
+    "Date": "2014-01-17",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

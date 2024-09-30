@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017acd",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": "13.2 UT",
+            "Date": "February 13, 2017"
+        },
+        {
+            "Name": "PGC 612475",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.032042",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "13.2 UT",
+    "Date": "February 13, 2017",
+    "Telescope": "Magellan I Baade",
+    "Instrument": "IMACS",
+    "Observatory": "Las Campanas Observatory"
+}

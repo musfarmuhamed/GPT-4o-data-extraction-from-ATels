@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17303-0601",
+            "RA": "17h30m21.9s",
+            "Dec": "-05d59m31s",
+            "redshift": null,
+            "Type": "intermediate polar (IP)",
+            "Time": null,
+            "Date": "2003"
+        },
+        {
+            "Name": "1RXS J173021.5-055933",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate polar (IP)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNOA2.0 0825_10606993",
+            "RA": "17h30m21.9s",
+            "Dec": "-05d59m31s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AE Aqr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schenker et al. 2002, MNRAS 337, 1105",
+        "Bird et al. 2004, ApJ Letters 607, 33"
+    ],
+    "Event Type": null,
+    "Time": "120s spin period",
+    "Date": "2003",
+    "Telescope": [
+        "JKT",
+        "OGS",
+        "Calar Alto 2.m",
+        "INT",
+        "WHT",
+        "Magellan-Clay"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

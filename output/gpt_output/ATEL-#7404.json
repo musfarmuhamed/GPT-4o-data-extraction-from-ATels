@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "old nova",
+            "Time": null,
+            "Date": "March 12-25 2015"
+        },
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "old nova",
+            "Time": null,
+            "Date": "March 26 - April 9 2015"
+        },
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "old nova",
+            "Time": "April 4 2015",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #7217",
+        "#7244",
+        "#7248",
+        "#7276"
+    ],
+    "Event Type": "dwarf nova outburst",
+    "Time": null,
+    "Date": "2015",
+    "Telescope": [
+        "Swift",
+        "NuSTAR",
+        "Chandra"
+    ],
+    "Instrument": [
+        "XRT",
+        "ACIS-S/HETG grating",
+        "MEG summed first orders",
+        "HEG summed first orders"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14gok",
+            "RA": "10:52:41.47",
+            "Dec": "+04:09:22.8",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "LSQ14gov",
+            "RA": "04:06:01.33",
+            "Dec": "-16:01:41.4",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "LSQ14gqk",
+            "RA": "04:32:46.68",
+            "Dec": "-07:18:26.1",
+            "redshift": "~0.04",
+            "Type": "Ib/c",
+            "Time": "00:00:00",
+            "Date": "2014-12-29"
+        },
+        {
+            "Name": "OGLE-2014-SN-210",
+            "RA": "03:48:35.98",
+            "Dec": "-64:21:16.5",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "00:00:00",
+            "Date": "2014-12-29"
+        }
+    ],
+    "References": "Smartt et al., arXiv:1411.0299; Baltay et al., 2013, PASP, 125, 683; Wyrzykowski et al., 2014 arxiv:1409.1095; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova Classifications",
+    "Time": "00:00:00",
+    "Date": "2014-12-29",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

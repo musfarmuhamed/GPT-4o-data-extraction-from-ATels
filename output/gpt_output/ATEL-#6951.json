@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J004207.99+405501.1",
+            "RA": "00h 42m 07.99s",
+            "Dec": "+40d 55m 01.1s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "13.63235 UT",
+            "Date": "2015-01-13"
+        },
+        {
+            "Name": "M31N 2015-01a",
+            "RA": "00h 42m 07.99s",
+            "Dec": "+40d 55m 01.1s",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "13.63235 UT",
+            "Date": "2015-01-13"
+        }
+    ],
+    "References": [
+        "Shumkov et al., #6911",
+        "E. Ovcharov et al., #6924",
+        "A. Kurtenkov et al., #6941"
+    ],
+    "Event Type": "Discovery",
+    "Time": "13.63235 UT",
+    "Date": "2015-01-13",
+    "Telescope": "2 m RCC telescope",
+    "Instrument": "Spectra",
+    "Observatory": "MASTER-Kislovodsk"
+}

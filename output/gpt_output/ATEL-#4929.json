@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": 276.111,
+            "Dec": -24.857,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "02:22:21",
+            "Date": "2013-03-30"
+        },
+        {
+            "Name": "IGR J18245-2452",
+            "RA": 276.1343,
+            "Dec": -24.8682,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "T+191 s",
+            "Date": "2013-03-30"
+        }
+    ],
+    "References": [
+        "Eckert et al, ATel #4925",
+        "Barthelmy et al, GCN 14355",
+        "Heinke et al. (ATel #4927)"
+    ],
+    "Event Type": "Trigger",
+    "Time": [
+        "02:22:21",
+        "15:10:37 UT",
+        "15:17:33.61 UT"
+    ],
+    "Date": "2013-03-30",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Burst Alert Telescope (BAT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ex",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03",
+            "Type": "Ia-pec",
+            "Time": "2016-05-04.63 UT",
+            "Date": "2016-04-30.43"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "ATel#9020",
+        "Atel#9023",
+        "Taubenberger et al. 2011, MNRAS 412, 2735",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Yaron & Gal-Yam 2012, PASP, 124, 668"
+    ],
+    "Event Type": "Observation",
+    "Time": "2016-05-04.63 UT",
+    "Date": "2016-05-04",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": null
+}

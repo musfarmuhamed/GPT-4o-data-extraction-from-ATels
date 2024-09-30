@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": "19h 11m 16.0245341s",
+            "Dec": "00deg 35' 05.879384\"",
+            "redshift": null,
+            "Type": "Neutron star X-ray binary",
+            "Time": [
+                "19:48 - 20:36 UT",
+                "02:53 - 05:54 UT"
+            ],
+            "Date": [
+                "2013 June 18",
+                "2013 June 19"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #5114",
+        "ATel #5117",
+        "ATel #5129",
+        "ATel #5136",
+        "ATel #5148",
+        "ATel #2317",
+        "Miller-Jones et al. 2010, ApJ, 716, L109"
+    ],
+    "Event Type": "Outburst",
+    "Time": [
+        "19:48 - 20:36 UT",
+        "02:53 - 05:54 UT"
+    ],
+    "Date": [
+        "2013 June 18",
+        "2013 June 19"
+    ],
+    "Telescope": [
+        "Effelsberg",
+        "Jodrell Bank Mk2",
+        "Medicina",
+        "Noto",
+        "Onsala 25m",
+        "Torun",
+        "Yebes",
+        "Westerbork Synthesis Radio Telescope",
+        "Shanghai",
+        "Hartebeesthoek"
+    ],
+    "Instrument": "European VLBI Network (e-EVN)",
+    "Observatory": [
+        "Germany",
+        "UK",
+        "Italy",
+        "Italy",
+        "Sweden",
+        "Poland",
+        "Spain",
+        "Netherlands",
+        "China",
+        "South Africa"
+    ]
+}

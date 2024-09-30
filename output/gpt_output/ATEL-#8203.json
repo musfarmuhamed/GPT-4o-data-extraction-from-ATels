@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "proposed X-ray counterpart of the ANTARES-detected neutrino event",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "20:54",
+            "Date": "Sep. 3"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "#ATel 7987",
+    "Event Type": "neutrino detection follow-up",
+    "Time": "20:54",
+    "Date": "Sep. 3",
+    "Telescope": "MAGIC",
+    "Instrument": null,
+    "Observatory": "La Palma, Spain"
+}

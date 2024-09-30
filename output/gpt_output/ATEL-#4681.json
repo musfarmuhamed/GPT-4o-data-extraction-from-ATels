@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02242235+4051032",
+            "RA": "02:24:22.35",
+            "Dec": "+40:51:03.2",
+            "redshift": "0.048",
+            "Type": "Type-Ia",
+            "Time": "00:00",
+            "Date": "Dec. 27.0"
+        },
+        {
+            "Name": "PSN J06564291+4854103",
+            "RA": "06:56:42.91",
+            "Dec": "+48:54:10.3",
+            "redshift": "0.019320",
+            "Type": "Type-Ia",
+            "Time": "00:00",
+            "Date": "Dec. 27.0"
+        },
+        {
+            "Name": "PSN J11173029+5124074",
+            "RA": "11:17:30.29",
+            "Dec": "+51:24:07.4",
+            "redshift": "0.033338",
+            "Type": "Type-Ia",
+            "Time": "00:00",
+            "Date": "Dec. 27.0"
+        }
+    ],
+    "References": "Falco et al. 1999, PASP 111, 438; Krisciunas et al. 2001, AJ 122, 1616; SDSS Data release 2, 2004, via NED; Anapuma et al., 2005, A&A 429, 667; Harutyunyan et al. 2008, A.Ap. 488, 383; Blondin and Tonry 2007, Ap.J. 666, 1024",
+    "Event Type": "spectroscopic classification",
+    "Time": "00:00",
+    "Date": "Dec. 27.0",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

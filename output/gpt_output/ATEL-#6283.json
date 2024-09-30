@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dl",
+            "RA": "12:21:51.38",
+            "Dec": "-24:09:54.0",
+            "redshift": null,
+            "Type": "transient source, most likely a supernova",
+            "Time": "2014-06-30.03",
+            "Date": "2014-06-30"
+        },
+        {
+            "Name": "6dF J1221502-241004",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.013926",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "For more information about the ASAS-SN project, see the ASAS-SN Homepage and the list of all ASAS-SN transients.",
+    "Event Type": "discovery of a new transient source",
+    "Time": "2014-06-30.03",
+    "Date": "2014-06-30",
+    "Telescope": "Cassius",
+    "Instrument": "double 14-cm",
+    "Observatory": "Cerro Tololo, Chile"
+}

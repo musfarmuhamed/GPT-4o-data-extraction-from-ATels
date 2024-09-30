@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17ivr",
+            "RA": "14:29:44.86",
+            "Dec": "+67:38:53.30",
+            "redshift": 0.066,
+            "Type": "Ia",
+            "Time": "-2 d",
+            "Date": "2017-07-27"
+        },
+        {
+            "Name": "ASASSN-17jo",
+            "RA": "02:42:58.95",
+            "Dec": "-10:07:26.00",
+            "redshift": 0.054,
+            "Type": "Ia",
+            "Time": "+5 d",
+            "Date": "2017-07-27"
+        }
+    ],
+    "References": "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+    "Event Type": "classification of optical transients",
+    "Time": null,
+    "Date": "2017-07-27",
+    "Telescope": "KPNO Mayall 4-m telescope",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

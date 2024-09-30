@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 1318+225",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": "2012-11-28"
+        },
+        {
+            "Name": "SDSS J132111.20+221612.1",
+            "RA": "13h 21m 11.20s",
+            "Dec": "+22d 16m 12.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Torresi et al., ATel #4609"
+    ],
+    "Event Type": "increased gamma-ray activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER robotic network"
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1747-312",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing transient low-mass X-ray binary",
+            "Time": "15:36:22",
+            "Date": "2016-05-19"
+        }
+    ],
+    "References": [
+        "in't Zand et al. 2003, A&A, 406, 233",
+        "ATel #4915",
+        "Saji et al. 2016, PASJ, in press",
+        "Wilms et al., 2000, ApJ 542, 914",
+        "Verner et al., 1996, ApJ, 465, 487"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "15:26:17 to 15:51:12",
+    "Date": "2016-05-19",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

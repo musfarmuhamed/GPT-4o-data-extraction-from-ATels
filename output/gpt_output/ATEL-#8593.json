@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1502+106",
+            "RA": "226.10408 deg",
+            "Dec": "10.49422 deg",
+            "redshift": "1.8383",
+            "Type": "blazar",
+            "Time": "05:30",
+            "Date": "2016-01-24"
+        },
+        {
+            "Name": "PKS 1502+106",
+            "RA": "226.10408 deg",
+            "Dec": "10.49422 deg",
+            "redshift": "1.8383",
+            "Type": "blazar",
+            "Time": "05:00",
+            "Date": "2016-01-26"
+        },
+        {
+            "Name": "PKS 1502+106",
+            "RA": "226.10408 deg",
+            "Dec": "10.49422 deg",
+            "redshift": "1.8383",
+            "Type": "blazar",
+            "Time": "06:40",
+            "Date": "2016-01-19"
+        },
+        {
+            "Name": "PKS 1502+106",
+            "RA": "226.10408 deg",
+            "Dec": "10.49422 deg",
+            "redshift": "1.8383",
+            "Type": "blazar",
+            "Time": "06:40",
+            "Date": "2016-01-26"
+        }
+    ],
+    "References": [
+        "Fermi-LAT",
+        "ATel #7801",
+        "ATel #7799",
+        "ATel #7829",
+        "ATel #7805"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "05:30",
+    "Date": "2016-01-24",
+    "Telescope": "AGILE",
+    "Instrument": "gamma-ray detector",
+    "Observatory": "AGILE satellite"
+}

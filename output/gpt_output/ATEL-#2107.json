@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1652-453",
+            "RA": "253.192",
+            "Dec": "-45.353",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "14:20",
+            "Date": "2009-07-02"
+        },
+        {
+            "Name": "XTE J1652-453",
+            "RA": "253.192",
+            "Dec": "-45.353",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2009-06-28"
+        },
+        {
+            "Name": "XTE J1652-453",
+            "RA": "253.192",
+            "Dec": "-45.353",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2009-07-01"
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": "2009-06-27"
+        }
+    ],
+    "References": "RXTE PCA, Swift BAT",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "RXTE",
+        "Swift"
+    ],
+    "Instrument": [
+        "PCA",
+        "BAT"
+    ],
+    "Observatory": null
+}

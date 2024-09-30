@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3FGLJ1454.5+5124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": null,
+            "Date": "2018-03-28"
+        },
+        {
+            "Name": "SBS1452+516",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.0831",
+            "Type": "quasar",
+            "Time": null,
+            "Date": "2018-03-28"
+        }
+    ],
+    "References": [
+        "ATEL#3347",
+        "ATEL#6282",
+        "ATEL#9241"
+    ],
+    "Event Type": "outburst",
+    "Time": "JD 24582015.0015",
+    "Date": "2018-03-28",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (a NIR camera)",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

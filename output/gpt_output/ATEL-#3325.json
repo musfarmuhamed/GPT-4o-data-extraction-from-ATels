@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Microquasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "ATEL #": 2644,
+            "Mission": "INTEGRAL"
+        },
+        {
+            "ATEL #": 2645,
+            "Mission": "AGILE"
+        },
+        {
+            "ATEL #": 3239,
+            "Mission": "AGILE"
+        },
+        {
+            "ATEL #": 2646,
+            "Mission": "Fermi LAT"
+        },
+        {
+            "ATEL #": 3233,
+            "Mission": "Fermi LAT"
+        }
+    ],
+    "Event Type": "X-ray/gamma-ray activity",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE/ASM",
+    "Instrument": "ASM",
+    "Observatory": null
+}

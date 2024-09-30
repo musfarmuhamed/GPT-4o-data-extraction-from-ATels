@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17bci",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.01859,
+            "Type": "SN Ia",
+            "Time": "2017-04-30.30",
+            "Date": "2017-04-30"
+        },
+        {
+            "Name": "Gaia17bat",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.019804,
+            "Type": "SN Ia",
+            "Time": "2017-04-30.46",
+            "Date": "2017-04-30"
+        }
+    ],
+    "References": "Gaia Alerts (http://gsaweb.ast.cam.ac.uk/alerts/alertsindex), Blondin & Tonry, 2007, ApJ, 666, 1024, NED",
+    "Event Type": "optical spectroscopic observation",
+    "Time": null,
+    "Date": "2017-04-30",
+    "Telescope": "MDM 2.4m telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174510.8-262411",
+            "RA": 266.29,
+            "Dec": -26.4,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "01:15-05:34",
+            "Date": "2012-09-16/2012-09-17"
+        }
+    ],
+    "References": [
+        "GCN #13774",
+        "GCN #13775",
+        "ATEL #4380"
+    ],
+    "Event Type": "detection",
+    "Time": "01:15-05:34 UTC",
+    "Date": "2012-09-16/2012-09-17",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

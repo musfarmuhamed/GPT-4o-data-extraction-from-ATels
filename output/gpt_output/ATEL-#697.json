@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0732.5-1331",
+            "RA": "07 32 37.5",
+            "Dec": "-13 31 04",
+            "redshift": "0.0000",
+            "Type": "CV?",
+            "Time": "3400 sec",
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0823.4-0457",
+            "RA": "08 23 01.2",
+            "Dec": "-04 56 04",
+            "redshift": "0.0218",
+            "Type": "AGN",
+            "Time": "1230 sec",
+            "Date": null
+        },
+        {
+            "Name": "SWIFT J0918.5+1618",
+            "RA": "09 18 25.9",
+            "Dec": "+16 18 22",
+            "redshift": "0.0292",
+            "Type": "Sy1.5",
+            "Time": "660 sec",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #668",
+        "ATEL #669",
+        "ATEL #677"
+    ],
+    "Event Type": "Detection of hard X-rays from 3 sources",
+    "Time": null,
+    "Date": "May-Nov 2005",
+    "Telescope": "Swift Burst Alert Telescope (BAT)",
+    "Instrument": "Swift X-ray Telescope (XRT; 0.5-10 keV)",
+    "Observatory": "Swift"
+}

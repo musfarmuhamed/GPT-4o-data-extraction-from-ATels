@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ17476-2253",
+            "RA": "17:47:29.71",
+            "Dec": "-22:52:44.3",
+            "redshift": "0.0463",
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGRJ12107+3822",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0228",
+            "Type": "Seyfert 1 AGN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krivonos et al. 2007, A&A, 475, 775; current version of the catalog at http://hea.iki.rssi.ru/rsdc/catalog/index.php",
+    "Event Type": "Optical spectroscopic identification",
+    "Time": null,
+    "Date": "4-7 Jul, 2009",
+    "Telescope": "Russian-Turkish 1.5-m telescope (RTT-150)",
+    "Instrument": "TUG Faint Object Spectrograph and Camera (TFOSC)",
+    "Observatory": "TUBITAK National Observatory, Turkey"
+}

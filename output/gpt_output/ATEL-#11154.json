@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018bq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0256,
+            "Type": "type Ia supernova",
+            "Time": "09.81",
+            "Date": "2018"
+        },
+        {
+            "Name": "ASASSN-18ac",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0256,
+            "Type": "type Ia supernova",
+            "Time": "09.81",
+            "Date": "2018"
+        },
+        {
+            "Name": "LCRS B110329.3-121524",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0256,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2003kf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type Ia supernova",
+            "Time": "-7.1 days from maximum light",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum observation",
+    "Time": "09.81",
+    "Date": "2018",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

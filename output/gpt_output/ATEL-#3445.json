@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MG1 J123931+0443",
+            "RA": "12h39m32.7556s",
+            "Dec": "+04d43m05.233s",
+            "redshift": "1.762090",
+            "Type": "FSRQ",
+            "Time": "High state flux",
+            "Date": "2011-06-19"
+        },
+        {
+            "Name": "GB6 J0742+5444",
+            "RA": "07h42m39.8s",
+            "Dec": "+54d44m25s",
+            "redshift": "0.72",
+            "Type": "FSRQ",
+            "Time": "High state flux",
+            "Date": "2011-06-19"
+        }
+    ],
+    "References": "A. J. Beasley et al. 2002, ApJS, 141, 13; A. Abdo et al. 2010 ApJ, 715, 429; J. Halpern et al. 2003, AJ, 125, 572; A. Abdo et al. 2010, ApJS, 188, 405; ATel #1888; ATel #3196; Fermi LAT monitored sources link: http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/",
+    "Event Type": "Increasing gamma-ray flux",
+    "Time": "High state flux",
+    "Date": "2011-06-19",
+    "Telescope": "Large Area Telescope (LAT)",
+    "Instrument": "Fermi Gamma-ray Space Telescope",
+    "Observatory": "Fermi Gamma-ray Space Telescope operating in all-sky scanning mode"
+}

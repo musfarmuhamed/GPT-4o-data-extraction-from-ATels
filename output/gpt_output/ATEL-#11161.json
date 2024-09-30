@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018dx",
+            "RA": "09h 16m 12.25s",
+            "Dec": "+39d 03' 41.8\"",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "UT 11.8",
+            "Date": 2018
+        },
+        {
+            "Name": "SDSS J091612.25+390341.8",
+            "RA": "09h 16m 12.25s",
+            "Dec": "+39d 03' 41.8\"",
+            "redshift": 0.06,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "Supernova observation",
+    "Time": "UT 11.8",
+    "Date": 2018,
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

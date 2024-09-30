@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18aoq",
+            "RA": "13:55:07.91",
+            "Dec": "-38:23:22.74",
+            "redshift": 0.026,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": "2018-01-31"
+        },
+        {
+            "Name": "2MASX J13550786-3823227",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "http://gsaweb.ast.cam.ac.uk/alerts"
+    ],
+    "Event Type": "Optical Transient",
+    "Time": null,
+    "Date": "2018-01-31",
+    "Telescope": "Very Large Telescope",
+    "Instrument": "FOcal Reducer/low dispersion Spectrograph 2 (FORS2)",
+    "Observatory": "ESO"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB60713+5738",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fermi J0713+5739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #11331",
+        "ATels #11335"
+    ],
+    "Event Type": "NIR detection",
+    "Time": "2018-03-09",
+    "Date": "MJD2458186.6696",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory operated by the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

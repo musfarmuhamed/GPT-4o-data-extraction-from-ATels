@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J072556.41+414317.5",
+            "RA": "07h 25m 56.41s",
+            "Dec": "+41d 43m 17.5s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-02-24.56277 UT",
+            "Date": "2014-02-24"
+        },
+        {
+            "Name": "MASTER OT J094631.32+363845.0",
+            "RA": "09h 46m 31.32s",
+            "Dec": "+36d 38m 45.0s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-02-26.76799 UT",
+            "Date": "2014-02-26"
+        }
+    ],
+    "References": "We have reference image without OT on 2012-10-21.70659 UT with unfiltered magnitude limit 19.0m for MASTER OT J072556.41+414317.5. We have reference image without OT on 2011-03-26.64207 UT with unfiltered magnitude limit 20.2m for MASTER OT J094631.32+363845.0.",
+    "Event Type": "possible Supernova",
+    "Time": "2014-02-24.56277 UT",
+    "Date": "2014-02-24",
+    "Telescope": "MASTER-Amur and MASTER-Tunka auto-detection systems",
+    "Instrument": "OT source detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

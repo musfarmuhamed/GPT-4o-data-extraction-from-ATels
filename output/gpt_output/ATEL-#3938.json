@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER095634.40+180751.2",
+            "RA": "09h 56m 34.40s",
+            "Dec": "+18d 07m 51.2s",
+            "redshift": null,
+            "Type": "OT",
+            "Time": "2012-02-20.89145 UT",
+            "Date": "2012-02-20"
+        },
+        {
+            "Name": "MASTER084545.27-051130.0",
+            "RA": "08h 45m 45.27s",
+            "Dec": "-05d 11m 30.0s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2012-02-20.80934 UT",
+            "Date": "2012-02-20"
+        },
+        {
+            "Name": "MASTER033006.27+181233.1",
+            "RA": "03h 30m 06.27s",
+            "Dec": "+18d 12m 33.1s",
+            "redshift": null,
+            "Type": "new variable",
+            "Time": "2012-02-21.71737 UT",
+            "Date": "2012-02-21"
+        },
+        {
+            "Name": "MASTER075929.72+194610.7",
+            "RA": "07h 59m 29.72s",
+            "Dec": "+19d 46m 10.7s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-02-18.65766 UT",
+            "Date": "2012-02-18"
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/095634.40+180751.2/095634.40+180751.jpg, http://master.sai.msu.ru/static/OT/084545.27-051130.0.png, http://master.sai.msu.ru/static/OT/033006.27181233.1.png, http://master.sai.msu.ru/static/OT/075929.72194610.7_1.png",
+    "Event Type": "OT, CV, new variable, PSN",
+    "Time": "2012-02-20.89145 UT, 2012-02-20.80934 UT, 2012-02-21.71737 UT, 2012-02-18.65766 UT",
+    "Date": "2012-02-20, 2012-02-20, 2012-02-21, 2012-02-18",
+    "Telescope": "MASTER-Kislovodsk, MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "Global MASTER Robotic Net"
+}

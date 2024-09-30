@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Mrk421",
+            "RA": "11h04m27.3139s",
+            "Dec": "+38d12m31.799s",
+            "redshift": "0.03",
+            "Type": "high-synchrotron-peaked BL Lac",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "2FGL J1104.4+3812",
+            "RA": "11h04m27.3139s",
+            "Dec": "+38d12m31.799s",
+            "redshift": "0.03",
+            "Type": "high-synchrotron-peaked BL Lac",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "Fey et al. 2004, AJ, 127, 3587",
+        "ATels #4974",
+        "ATels #4976"
+    ],
+    "Event Type": "Increasing gamma-ray activity",
+    "Time": "23:00 UTC",
+    "Date": "April 12",
+    "Telescope": "Large Area Telescope (LAT), Fermi Gamma-ray Space Telescope",
+    "Instrument": "Fermi-LAT",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

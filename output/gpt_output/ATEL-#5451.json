@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J063100.30+260253.3",
+            "RA": "06h 31m 00.30s",
+            "Dec": "+26d 02m 53.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable, probably a dwarf nova",
+            "Time": "2013-10-03.91347 UT",
+            "Date": "2013-10-03"
+        },
+        {
+            "Name": "MASTER OT J022906.32+275222.3",
+            "RA": "02h 29m 06.32s",
+            "Dec": "+27d 52m 22.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "2013-10-05.77687 UT",
+            "Date": "2013-10-05"
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J063100+260253-POSS-R.jpg, http://master.sai.msu.ru/static/OT/063100.30260253.3.png, http://master.sai.msu.ru/static/OT/J022906+275222-BRIR.jpg, http://master.sai.msu.ru/static/OT/022906.32275222.3.png",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150354.87+420655.3",
+            "RA": "15h 03m 54.87s",
+            "Dec": "+42d 06m 55.3s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "20.83841",
+            "Date": "2012-12-20"
+        },
+        {
+            "Name": "MASTER OT J191156.83+403101.6",
+            "RA": "19h 11m 56.83s",
+            "Dec": "+40d 31m 01.6s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "20.41845",
+            "Date": "2012-12-20"
+        },
+        {
+            "Name": "MASTER OT J202225.43+511248.0",
+            "RA": "20h 22m 25.43s",
+            "Dec": "+51d 12m 48.0s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "20.47796",
+            "Date": "2012-12-20"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/150354.87420655.3.png",
+        "http://master.sai.msu.ru/static/OT/PSNJ150354+420655-Dec15.jpg",
+        "http://master.sai.msu.ru/static/OT/J191156+403101-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/191156.83403101.6.png",
+        "http://master.sai.msu.ru/static/OT/J202225+511248-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/202225.43511248.0.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2012-12-20",
+    "Telescope": "MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global"
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray millisecond pulsar",
+            "Time": "16:25",
+            "Date": "05 April 2007"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Markwardt & Swank",
+            "ATEL": "#1045"
+        },
+        {
+            "Authors": "Falanga et al.",
+            "ATEL": "#1046"
+        },
+        {
+            "Authors": "Grebenev et al.",
+            "ATEL": "#446"
+        },
+        {
+            "Authors": "Swank, Markwardt & Smith",
+            "ATEL": "#449"
+        }
+    ],
+    "Event Type": "Detection and follow-up observation",
+    "Time": "16:25",
+    "Date": "05 April 2007",
+    "Telescope": "Swift",
+    "Instrument": "Swift XRT",
+    "Observatory": "RXTE and INTEGRAL"
+}

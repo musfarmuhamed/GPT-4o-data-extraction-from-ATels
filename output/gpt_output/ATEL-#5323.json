@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SgrA*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic Centre black hole",
+            "Time": [
+                "March 22",
+                "April 24",
+                "May 23",
+                "June 4",
+                "July 5",
+                "August 2"
+            ],
+            "Date": [
+                "2013-03-22",
+                "2013-04-24",
+                "2013-05-23",
+                "2013-06-04",
+                "2013-07-05",
+                "2013-08-02"
+            ]
+        }
+    ],
+    "References": [
+        "Gillessen et al. 2012, Nature, 481, 51",
+        "Kassim et al. 2013, ATel #4922",
+        "An et al. 2005, ApJ, 634, L49",
+        "Sadowski et al. 2013, MNRAS, 433, 2165"
+    ],
+    "Event Type": "monitor the flux density",
+    "Time": null,
+    "Date": "2013",
+    "Telescope": "The Giant Metrewave Radio Telescope (GMRT)",
+    "Instrument": null,
+    "Observatory": "National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research (NCRA-TIFR)"
+}

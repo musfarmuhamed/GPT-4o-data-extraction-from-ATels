@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient in the central region of the Andromeda Galaxy (M 31)",
+            "RA": "00:43:26.66",
+            "Dec": "+41:23:30.8",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": [
+                {
+                    "ObsID": "00032702058",
+                    "Exp": "3.6 ks",
+                    "Date": "2014-06-11.82",
+                    "Rate": "<6.3 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702059",
+                    "Exp": "3.3 ks",
+                    "Date": "2014-06-19.01",
+                    "Rate": "<6.1 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702060",
+                    "Exp": "3.6 ks",
+                    "Date": "2014-06-27.00",
+                    "Rate": "<3.5 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702061",
+                    "Exp": "3.9 ks",
+                    "Date": "2014-07-05.67",
+                    "Rate": "5.1 \u00b1 1.5 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702062",
+                    "Exp": "4.2 ks",
+                    "Date": "2014-07-13.74",
+                    "Rate": "2.1 \u00b1 1.0 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702063",
+                    "Exp": "4.0 ks",
+                    "Date": "2014-07-21.00",
+                    "Rate": "<6.8 \u00d7 10^-3 ct s-1"
+                },
+                {
+                    "ObsID": "00032702066",
+                    "Exp": "3.4 ks",
+                    "Date": "2014-08-01.19",
+                    "Rate": "5.4 \u00b1 1.7 \u00d7 10^-3 ct s-1"
+                }
+            ]
+        },
+        {
+            "Name": "M 31 nova 2014-02a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/N nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5844",
+        "ATel #5852",
+        "Henze et al. 2014, A&A, 563A, 2",
+        "ATels #4727",
+        "#5633"
+    ],
+    "Event Type": "X-ray transient discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift satellite",
+    "Instrument": "X-ray telescope",
+    "Observatory": null
+}

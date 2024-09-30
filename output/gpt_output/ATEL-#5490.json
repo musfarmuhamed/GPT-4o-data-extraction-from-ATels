@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M15",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Globular cluster",
+            "Time": "00:57:46",
+            "Date": "2013-Oct-07"
+        },
+        {
+            "Name": "M15 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AC 211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Bright X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5327",
+        "ATel #5396",
+        "ATel #3356",
+        "ATel #3363",
+        "ATel #3393"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "00:57:46",
+    "Date": "2013-Oct-07",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-S",
+    "Observatory": null
+}

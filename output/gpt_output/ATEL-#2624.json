@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J174716.1-281048",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I burster",
+            "Time": null,
+            "Date": "2003"
+        }
+    ],
+    "References": [
+        "ATel #147",
+        "Sidoli et al., 2006, A&A 456, 287",
+        "ATel #970",
+        "ATel #972",
+        "Del Santo et al., 2007, A&A 468, L17",
+        "ATel #1207",
+        "ATel #1078",
+        "ATel #1174",
+        "ATel #1496",
+        "ATel #2050"
+    ],
+    "Event Type": "Outburst Monitoring",
+    "Time": [
+        "07:28:35 to 10:51:56",
+        "07:38:46 to 14:10:48"
+    ],
+    "Date": [
+        "2010 May 13",
+        "2010 May 17"
+    ],
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

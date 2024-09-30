@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova ASASSN-16ra",
+            "RA": "15:41:45.24",
+            "Dec": "-53:08:05.9",
+            "redshift": null,
+            "Type": "Galactic Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "VVV J154145.24-530805.95",
+            "RA": "15:41:45.243",
+            "Dec": "-53:08:05.95",
+            "redshift": null,
+            "Type": "likely progenitor",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Jayasinghe et. al. (ATel #10740)",
+        "Chomiuk et al. 2017, ATel #10764",
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Cardelli et al. (1989, ApJ, 345, 245)",
+        "Saito et al. 2012 (A&A, 537, A107)"
+    ],
+    "Event Type": "Detection of a likely Galactic Nova",
+    "Time": null,
+    "Date": null,
+    "Telescope": "SOAR Telescope",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002 taken with the VISTA telescope"
+}

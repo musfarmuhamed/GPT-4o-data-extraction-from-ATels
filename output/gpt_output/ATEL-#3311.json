@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0101.8-7223",
+            "RA": "01:01:52.53",
+            "Dec": "-72:23:34.98",
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": null,
+            "Date": "2011-04-08"
+        }
+    ],
+    "References": [
+        "Haberl & Sasaki, 2000, A&A, 359, 573",
+        "Yokogawa et al., 2003, PASJ, 55, 161"
+    ],
+    "Event Type": "X-ray pulsation detection",
+    "Time": null,
+    "Date": [
+        "2011-03-19",
+        "2011-03-26",
+        "2011-04-02",
+        "2011-04-08"
+    ],
+    "Telescope": [
+        "RXTE",
+        "INTEGRAL",
+        "XMM-Newton"
+    ],
+    "Instrument": [
+        "PCA",
+        "IBIS",
+        "EPIC"
+    ],
+    "Observatory": null
+}

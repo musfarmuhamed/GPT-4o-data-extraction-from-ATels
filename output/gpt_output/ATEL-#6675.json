@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible nova in M31",
+            "RA": "0:42:52.76",
+            "Dec": "+41:17:19.7",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "7.98 UT",
+            "Date": "2014-11-07"
+        },
+        {
+            "Name": "PNV J00423972+4120117",
+            "RA": "00:42:39.72",
+            "Dec": "+41:20:11.7",
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6563",
+        "ATel #6616"
+    ],
+    "Event Type": "nova discovery",
+    "Time": "7.98 UT",
+    "Date": "2014-11-07",
+    "Telescope": "Liverpool Telescope (LT)",
+    "Instrument": "IO:O",
+    "Observatory": null
+}

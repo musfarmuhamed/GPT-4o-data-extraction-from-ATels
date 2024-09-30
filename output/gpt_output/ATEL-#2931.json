@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient Source",
+            "RA": "01h 53m 47.24s",
+            "Dec": "+30d 38m 44s.0",
+            "redshift": null,
+            "Type": "OT (SN-candidate)",
+            "Time": "23:25:48",
+            "Date": "2010-10-01"
+        },
+        {
+            "Name": "PGC1908869",
+            "RA": "01h 53m 55.00s",
+            "Dec": "+30d 33m 59.0s",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/OT015347+303844/OT015347+303844.jpg",
+    "Event Type": "Discovery of transient source (SN-candidate)",
+    "Time": "23:25:48",
+    "Date": "2010-10-01",
+    "Telescope": "MASTER",
+    "Instrument": "Robotic Net",
+    "Observatory": "Kislovodsk"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14kr",
+            "RA": "12:54:13.15",
+            "Dec": "-07:38:57.46",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": null,
+            "Date": "2014-11-23"
+        },
+        {
+            "Name": "GALEXASC J125413.02-073849.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients"
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-11-23.64",
+    "Date": "2014-11-23",
+    "Telescope": "Brutus, RCOS 51-cm telescope, LCOGT 1-m robotic telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, New Mexico, McDonald Observatory"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RGB J2243+203",
+            "RA": 341.004,
+            "Dec": 20.343,
+            "redshift": "z>0.39",
+            "Type": [
+                "intermediate-energy-peaked BL Lac object",
+                "high-synchrotron-peaked BL Lac object"
+            ],
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FHL J2244.0+2020",
+            "RA": 341.004,
+            "Dec": 20.343,
+            "redshift": null,
+            "Type": "hard Fermi-LAT gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Ackermann et al. 2013, ApJS, 209, 34",
+        "Meisner & Romani 2010, ApJ, 712, 14",
+        "Laurent-Muehleisen et al. 1999, ApJL, 525, 127"
+    ],
+    "Event Type": "discovery of very high energy (VHE) gamma-ray emission",
+    "Time": null,
+    "Date": "21 Dec 2014 - 24 Dec 2014",
+    "Telescope": "VERITAS",
+    "Instrument": "atmospheric-Cherenkov telescope array",
+    "Observatory": null
+}

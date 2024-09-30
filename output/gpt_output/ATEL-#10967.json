@@ -1,0 +1,115 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ow (AT 2017hzw)",
+            "RA": "02:05:18.337",
+            "Dec": "+53:12:13.16",
+            "redshift": "0.051249",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-13.41"
+        },
+        {
+            "Name": "ASASSN-17ot (AT 2017hzv)",
+            "RA": "09:39:12.257",
+            "Dec": "-01:20:22.98",
+            "redshift": "N/A",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-13.33"
+        },
+        {
+            "Name": "ASASSN-17os (SN 2017hyy)",
+            "RA": "04:33:05.884",
+            "Dec": "-26:07:41.34",
+            "redshift": "0.032700",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-11.33"
+        },
+        {
+            "Name": "ASASSN-17or (AT 2017hyx)",
+            "RA": "04:47:09.013",
+            "Dec": "-16:20:42.57",
+            "redshift": "0.038130",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-11.33"
+        },
+        {
+            "Name": "ASASSN-17oq (AT 2017hyw)",
+            "RA": "0:58:08.084",
+            "Dec": "-10:07:14.18",
+            "redshift": "0.051015",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-10.16"
+        },
+        {
+            "Name": "ASASSN-17op (AT 2017hyt)",
+            "RA": "19:03:35.620",
+            "Dec": "-53:10:18.16",
+            "redshift": "0.036192",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-11.02"
+        },
+        {
+            "Name": "ASASSN-17on (SN 2017hya)",
+            "RA": "23:20:21.114",
+            "Dec": "-34:37:28.40",
+            "redshift": "0.055200",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-10.12"
+        },
+        {
+            "Name": "ASASSN-17ok (SN 2017hxx)",
+            "RA": "21:32:45.582",
+            "Dec": "+24:08:27.94",
+            "redshift": "0.036",
+            "Type": "Supernova",
+            "Time": "N/A",
+            "Date": "2017-11-10.28"
+        }
+    ],
+    "References": [
+        {
+            "Authors": [
+                "Shappee et al. 2014"
+            ],
+            "Project Name": "All Sky Automated Survey for SuperNovae (ASAS-SN)"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "N/A",
+    "Date": "Ongoing",
+    "Telescope": [
+        {
+            "Name": "Brutus",
+            "Diameter": "14 cm",
+            "Location": "Haleakala, Hawaii"
+        },
+        {
+            "Name": "Leavitt",
+            "Diameter": "14 cm",
+            "Location": "Fort Davis, Texas"
+        },
+        {
+            "Name": "Cassius",
+            "Diameter": "14 cm",
+            "Location": "Cerro Tololo, Chile"
+        },
+        {
+            "Name": "Paczynski",
+            "Diameter": "14 cm",
+            "Location": "Cerro Tololo, Chile"
+        }
+    ],
+    "Instrument": "N/A",
+    "Observatory": [
+        "Las Cumbres Observatory",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Chinese Academy of Sciences South America Center for Astronomy (CASSACA)"
+    ]
+}

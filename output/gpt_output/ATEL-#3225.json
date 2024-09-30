@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": "03:50:24.66",
+            "Date": "2011-03-14"
+        },
+        {
+            "Name": "IGR J17098-3628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GX 349+2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Neutron Star System",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GRS 1915+105",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black Hole Candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Source": "#3144"
+        },
+        {
+            "Source": "#3159"
+        },
+        {
+            "Source": "#3167"
+        },
+        {
+            "Source": "#3203"
+        },
+        {
+            "Source": "Lutovinov & Revnivtsev 2003, AstL, 29, 719"
+        },
+        {
+            "Source": "Capitanio et al 2009, ApJ 690, 1621"
+        },
+        {
+            "Source": "Morgan et al. 1997, ApJ, 482, 993"
+        },
+        {
+            "Source": "Casella et al. 2005, ApJ, 629, 403"
+        },
+        {
+            "Source": "Revnivtsev et al, 2001, A&A, 372, 138"
+        },
+        {
+            "Source": "Linares et al., 2010, ATEL #2958"
+        },
+        {
+            "Source": "#3148"
+        }
+    ],
+    "Event Type": "Discovery of quasi-periodic oscillations",
+    "Time": "03:50:24.66",
+    "Date": "2011-03-14",
+    "Telescope": "Rossi X-ray Timing Explorer (RXTE)",
+    "Instrument": "Proportional Counter Array (PCA)",
+    "Observatory": null
+}

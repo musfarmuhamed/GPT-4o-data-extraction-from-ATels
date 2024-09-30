@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J10051374+2127231",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.018613,
+            "Type": "II",
+            "Time": "20151218.43",
+            "Date": "20151220.21"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Bright Supernova website",
+            "URL": "http://www.rochesterastronomy.org/snimages/"
+        },
+        {
+            "Title": "Asiago classification spectra",
+            "URL": "http://sngroup.oapd.inaf.it"
+        },
+        {
+            "Title": "NED",
+            "URL": "http://ned.ipac.caltech.edu"
+        },
+        {
+            "Title": "GELATO",
+            "Author": "Harutyunyan et al. 2008",
+            "Journal": "A&A",
+            "Volume": "488",
+            "Page": "383"
+        },
+        {
+            "Title": "SNID",
+            "Author": "Blondin and Tonry 2007",
+            "Journal": "ApJ",
+            "Volume": "666",
+            "Page": "1024"
+        },
+        {
+            "Title": "Asiago Transient Classification Program",
+            "Author": "Tomasella et al. 2014",
+            "Journal": "AN",
+            "Volume": "335",
+            "Page": "841"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "20151218.43",
+    "Date": "20151220.21",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

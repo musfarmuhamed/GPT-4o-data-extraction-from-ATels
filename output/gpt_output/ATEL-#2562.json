@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14549-6459",
+            "RA": "14h 55m 23.9s",
+            "Dec": "-65d 00m 03.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 source 1",
+            "RA": "14h 55m 23.913s",
+            "Dec": "-65d 00m 01.88s",
+            "redshift": null,
+            "Type": "Optical source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 source 2",
+            "RA": "14h 55m 24.161s",
+            "Dec": "-65d 00m 00.14s",
+            "redshift": null,
+            "Type": "Optical source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1; Landi et al. 2010 (MNRAS, 403, 945)",
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

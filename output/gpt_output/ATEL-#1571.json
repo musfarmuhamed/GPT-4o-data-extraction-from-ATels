@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080611:121642+410211",
+            "RA": "12:16:41.53",
+            "Dec": "41:02:11.2",
+            "redshift": null,
+            "Type": "SN",
+            "Time": "04:52:41",
+            "Date": "2008-06-11"
+        },
+        {
+            "Name": "SDSSJ121642.18+410223.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://voeventnet.cacr.caltech.edu/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "Supernova",
+    "Time": "04:52:41",
+    "Date": "2008-06-11",
+    "Telescope": "Catalina Sky Survey",
+    "Instrument": null,
+    "Observatory": null
+}

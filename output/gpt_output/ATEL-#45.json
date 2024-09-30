@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GM Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray outburst",
+            "Time": "03:45:08-03:46:07",
+            "Date": "Sept 16.15566-16.16340"
+        },
+        {
+            "Name": "SAX J1819.3-2525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray outburst",
+            "Time": "03:45:08-03:46:07",
+            "Date": "Sept 16.15566-16.16340"
+        },
+        {
+            "Name": "XTE J1819-254",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray outburst",
+            "Time": "03:45:08-03:46:07",
+            "Date": "Sept 16.15566-16.16340"
+        }
+    ],
+    "References": [
+        "ATEL #43",
+        "IAUC #7253"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "Sept 16.15566-16.16340",
+    "Date": "Sept 16",
+    "Telescope": "OVRO 40m telescope",
+    "Instrument": "dual-beam, Dicke-switching receiver",
+    "Observatory": "OVRO"
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16181-5407",
+            "RA": "16h 18m 08.02s",
+            "Dec": "-54d 06m 09.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "~1.4 ks",
+            "Date": null
+        },
+        {
+            "Name": "IGR J17157-5449",
+            "RA": "17h 15m 37.39s",
+            "Dec": "-54d 50m 04.5s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "~1.5 ks",
+            "Date": null
+        },
+        {
+            "Name": "Source #1 (IGR J17157-5449)",
+            "RA": "17h 15m 37.11s",
+            "Dec": "-54d 50m 10.7s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Source #2 (IGR J17157-5449)",
+            "RA": "17h 15m 37.83s",
+            "Dec": "-54d 50m 00.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 155573 (rejected association)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krivonos et al. 2012",
+        "Cusumano et al. 2010"
+    ],
+    "Event Type": "Observation and analysis of X-ray sources",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

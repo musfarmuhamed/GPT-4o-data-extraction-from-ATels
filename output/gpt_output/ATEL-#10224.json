@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "06:44UT",
+            "Date": "March 29, 2017"
+        },
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2017"
+        },
+        {
+            "Name": "NGC 6440 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": "2010"
+        }
+    ],
+    "References": [
+        "#10208",
+        "#10215",
+        "#10216",
+        "#10217",
+        "#10221",
+        "#10222",
+        "#10223",
+        "Altamirano et al. 2010, ApJ, 712, L58",
+        "Heinke et al. 2010, ApJ, 714, 894",
+        "Mata Sanchez et al. 2017, arXiv:1701.03381"
+    ],
+    "Event Type": "Swift observation",
+    "Time": "06:44UT",
+    "Date": "March 29, 2017",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

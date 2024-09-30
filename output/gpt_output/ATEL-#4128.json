@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VER J0521+211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "VHE Gamma-ray Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J0521.7+2114",
+            "RA": 80.4472,
+            "Dec": 21.235,
+            "redshift": null,
+            "Type": "Fermi LAT source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J052145.96+211251.4",
+            "RA": 80.4415151,
+            "Dec": 21.2142989,
+            "redshift": null,
+            "Type": "gamma-ray blazar candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RGB J0521+212",
+            "RA": 80.4415242,
+            "Dec": 21.21429194,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J052147.2+211246",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2260",
+        "Massaro, F. et al. 2011 ApJ, 740L, 48",
+        "Massaro, F. et al. 2012 ApJ in press (http://arxiv.org/abs/1203.3801)",
+        "First Fermi LAT Source Catalog (1FGL, Abdo et al 2010ApJS, 188, 405)",
+        "Beasley et al. 2002, ApJS, 141, 38",
+        "Errando et al. 2011 Fermi Symposium PROC. (http://arxiv.org/abs/1111.1209)",
+        "D'Abrusco, R. et al. 2012 ApJ, 748, 68",
+        "Massaro, F. et al. 2012 ApJ, 750, 138",
+        "Massaro, F., et al. 2012 ApJ in press (http://arxiv.org/abs/1203.3801)",
+        "Massaro, F., et al. 2012 ApJ in press (http://arxiv.org/abs/1203.4230)"
+    ],
+    "Event Type": "Discovery of a new VHE Gamma-ray Source",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Wide-field Infrared Survey Explorer (WISE)",
+    "Instrument": "WISE data",
+    "Observatory": "Joint project of the University of California, Los Angeles, and the Jet Propulsion Laboratory/California Institute of Technology"
+}

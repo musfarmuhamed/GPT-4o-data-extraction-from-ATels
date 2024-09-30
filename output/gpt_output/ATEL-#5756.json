@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J0059.2-7138",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary and transient pulsar",
+            "Time": "2013 December 26",
+            "Date": "2013 December 26"
+        },
+        {
+            "Name": "SXP 2.76",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary and transient pulsar",
+            "Time": "2013 December 26",
+            "Date": "2013 December 26"
+        }
+    ],
+    "References": [
+        "Hughes, ApJ 427, L25, 1994",
+        "Southwell & Charles (MNRAS 281, L63, 1996)",
+        "Kohno, Yokogawa & Koyama (PASJ 52, 299, 2000)"
+    ],
+    "Event Type": "detection",
+    "Time": "2013 December 26",
+    "Date": "2013 December 26",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": null
+}

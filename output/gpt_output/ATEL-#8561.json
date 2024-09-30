@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16bh",
+            "RA": "11:52:34.52",
+            "Dec": "-08:46:11.9",
+            "redshift": 0.035,
+            "Type": "SNII",
+            "Time": null,
+            "Date": "2016-01-14"
+        },
+        {
+            "Name": "LSQ16bs",
+            "RA": "13:31:53.82",
+            "Dec": "-29:40:59.3",
+            "redshift": 0.0,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2016-01-11"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Baltay et al., PASP, 2013, 125, 683; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-01-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

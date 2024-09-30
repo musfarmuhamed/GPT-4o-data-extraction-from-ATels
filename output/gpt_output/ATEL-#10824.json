@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": null,
+            "Date": "2017 September 29"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "D. Russell et al., Atel 10797",
+        "Gandhi et al., Atel 10820",
+        "T. Russell et al., Atel 10808"
+    ],
+    "Event Type": "optical alert",
+    "Time": null,
+    "Date": null,
+    "Telescope": "NICER",
+    "Instrument": null,
+    "Observatory": null
+}

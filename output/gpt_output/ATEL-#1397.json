@@ -1,0 +1,80 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18173-2509",
+            "RA": "18h17m22s",
+            "Dec": "-25d08'38\"",
+            "redshift": null,
+            "Type": null,
+            "Time": [
+                "08:42",
+                "10:49"
+            ],
+            "Date": [
+                "2003-09-23",
+                "2004-09-25"
+            ]
+        },
+        {
+            "Name": "XMMLS1 J181722.2-250838",
+            "RA": "18h17m22s",
+            "Dec": "-25d08'38\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J181723-250831",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J16426+6536",
+            "RA": "16h43m04s",
+            "Dec": "+65d32'53\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:37",
+            "Date": "2003-12-19"
+        },
+        {
+            "Name": "XMMLS1 J164303.7+653253",
+            "RA": "16h43m04s",
+            "Dec": "+65d32'53\"",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J164244.8+653628",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J164207.3+65384",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2007, ApJS, 170, 175; Saxton et al. 2008, A&A in press; http://isdc.unige.ch/~rodrigue/html/igrsources.html",
+    "Event Type": "X-ray identification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00420765+4119438",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "14.09 UT",
+            "Date": "2018 July 14"
+        },
+        {
+            "Name": "PNV J00425261+4118409",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "16.17 UT",
+            "Date": "2018 July 16"
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "ATel #11849",
+        "ATel #11856",
+        "Piascik et al. 2014",
+        "Steele et al. 2004"
+    ],
+    "Event Type": "nova eruptions in M31",
+    "Time": null,
+    "Date": null,
+    "Telescope": "2-m Liverpool Telescope",
+    "Instrument": "SPRAT spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ser X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I X-ray burster",
+            "Time": "Between UT 01:41 and 03:16",
+            "Date": "1999 Aug 9"
+        },
+        {
+            "Name": "Ser X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I X-ray burster",
+            "Time": "Between UT 05:07 and 06:41",
+            "Date": "2008 Oct 14"
+        },
+        {
+            "Name": "Ser X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I X-ray burster",
+            "Time": "UT 03:39",
+            "Date": "2001 Jul 30"
+        },
+        {
+            "Name": "4U 1636-536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I X-ray burster",
+            "Time": "Between UT 07:09 and 08:44",
+            "Date": "1997 Jul 13"
+        }
+    ],
+    "References": [
+        "Cornelisse et al. 2002, A&A 382, 174",
+        "Kuulkers 2002, A&A 383, L5",
+        "Cumming et al. 2006, ApJ 646, 429",
+        "Wijnands 2001, ApJ 554, L59",
+        "Strohmayer & Markwardt 2002, ApJ 577, 337",
+        "Kuulkers et al. 2004, AIPC, 714, 257"
+    ],
+    "Event Type": "superburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "RXTE/ASM",
+    "Instrument": "ASM",
+    "Observatory": null
+}

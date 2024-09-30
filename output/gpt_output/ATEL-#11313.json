@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Sgr A*",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flare",
+            "Time": "00:45UT",
+            "Date": "2018-02-17"
+        }
+    ],
+    "References": [
+        "Degenaar+ 2015, JHEA 7, 137",
+        "Degenaar+ 2015",
+        "Degenaar+ 2013, ApJ, 769, 155",
+        "Atel #11263"
+    ],
+    "Event Type": "Detection of a large X-ray flare",
+    "Time": "00:45UT",
+    "Date": "2018-02-17",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

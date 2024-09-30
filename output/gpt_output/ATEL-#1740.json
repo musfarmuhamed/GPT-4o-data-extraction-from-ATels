@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LS I +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High Mass X-ray Binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Radio source 03",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "compact radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Radio source 09",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "compact radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Radio source 11",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "compact radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "de Pasquale et al. GCN 8209, Barthelmy et al. GCN 8215, Dubus & Giebels, Atel #1715, Ray et al. Atel #1730, Rea & Torres ATel #1731, Paredes et al. 2007, ApJ, 664, L39, Marti et al. 1998, A&A, 329, 951",
+    "Event Type": "SGR-like burst, X-ray activity with QPOs",
+    "Time": "2008-09-10",
+    "Date": "2008-09-10",
+    "Telescope": "Swift BAT, VLA, CAHA, Chandra ACIS-I",
+    "Instrument": "BAT instrument, VLA instrument, 3.5 m telescope at CAHA, ACIS-I",
+    "Observatory": "Swift, VLA, CAHA, Chandra"
+}

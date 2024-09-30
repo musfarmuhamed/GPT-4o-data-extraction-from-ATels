@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS 081007:030559+054715",
+            "RA": "03:05:59",
+            "Dec": "+05:47:15",
+            "redshift": "Null",
+            "Type": "soft X-ray transient and possible O/Ne class nova",
+            "Time": "Null",
+            "Date": "2008 Dec 3 - 2009 Feb 19"
+        },
+        {
+            "Name": "GSC 0061.1376",
+            "RA": "3:05:53.5",
+            "Dec": "+5:46:26, 2000",
+            "redshift": "Null",
+            "Type": "comparison star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "CI Aql",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "nova",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "V723 Cas",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "nova",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "ATEL #1825, ATEL #1835, ATEL #1847, ATEL #1873, ATEL #1910",
+    "Event Type": "photometric BVRc monitoring",
+    "Time": "Variable periods reported: 1.77 days, 1.694 +/- 0.005 days, 0.6106 +/- 0.0006 day",
+    "Date": "2008 Dec 3 - 2009 Feb 19",
+    "Telescope": "60-cm telescope of SAI Crimean Station",
+    "Instrument": "CCD Apogee-47",
+    "Observatory": "SAI Crimean Station (Ukraine)"
+}

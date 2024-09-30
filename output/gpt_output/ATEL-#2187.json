@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UGC2773 OT2009-1",
+            "RA": "03:32:07.22",
+            "Dec": "+47:47:39.7",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "2.60 UT",
+            "Date": "2009 September 2"
+        },
+        {
+            "Name": "NGC300 OT2008-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "intermediate-luminosity transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN1997D",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type IIP supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #1931",
+        "Berger et al. 2009, ApJ, 699, 1850",
+        "Turatto et al. 1998, ApJ, 498, L129",
+        "Benetti et al. 2001, MNRAS, 322, 361"
+    ],
+    "Event Type": "Observation",
+    "Time": "2.60 UT",
+    "Date": "2009 September 2",
+    "Telescope": "Gemini-North 8-m telescope",
+    "Instrument": "Gemini Multi-Object Spectrograph",
+    "Observatory": "Gemini Observatory"
+}

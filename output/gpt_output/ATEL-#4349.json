@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "BL Lac",
+            "Time": "Variable",
+            "Date": "July 30, 2012 - August 27, 2012"
+        }
+    ],
+    "References": [
+        "Aller et al. 1999",
+        "ATel #4031",
+        "ATel #4028",
+        "UMRAO light curve",
+        "F-GAMMA radio light curves"
+    ],
+    "Event Type": "flaring behavior",
+    "Time": "Variable",
+    "Date": "July 30, 2012 - August 27, 2012",
+    "Telescope": [
+        "Effelsberg 100-m",
+        "IRAM 30-m"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "University of Michigan Radio Astronomy Observatory",
+        "F-GAMMA program"
+    ]
+}

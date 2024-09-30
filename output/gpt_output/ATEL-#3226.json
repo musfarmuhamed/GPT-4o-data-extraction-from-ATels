@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17177-3656",
+            "RA": "259.428",
+            "Dec": "-36.934",
+            "redshift": null,
+            "Type": null,
+            "Time": "18:39:24 to 20:41:01 UT",
+            "Date": "2011-03-16"
+        },
+        {
+            "Name": "2MASS J17174269-3656039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NVSS J171743-365606",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Frankowski et al. 2011, ATel #3223",
+        "Malizia et al. (ATel #3224)",
+        "Kalberla et al. 2005"
+    ],
+    "Event Type": "Swift ToO Observation",
+    "Time": "18:39:24 to 20:41:01 UT",
+    "Date": "2011-03-16",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": "Swift Observatory"
+}

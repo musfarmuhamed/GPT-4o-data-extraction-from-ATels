@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017gkk",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.0049,
+            "Type": "IIb",
+            "Time": "05:36:03",
+            "Date": "2017-09-02"
+        },
+        {
+            "Name": "MASTER OT J091344.71+762842.5",
+            "RA": "09:13:44.71",
+            "Dec": "+76:28:42.5",
+            "redshift": 0.0049,
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2017-08-19.96"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Atel #10667",
+        "Kamphuis, J. J. et al., 1996, A&AS, 116, 15",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "IAU Transient Name Server"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "05:36:03",
+    "Date": "2017-09-02",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

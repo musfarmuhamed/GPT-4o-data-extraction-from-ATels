@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1700.2-4220",
+            "RA": "17h00m19.30s",
+            "Dec": "-42o20'19.2\"",
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": "00:00:00",
+            "Date": "2007-02-17"
+        },
+        {
+            "Name": "AX J1700.2-4220",
+            "RA": "17h00m19.30s",
+            "Dec": "-42o20'19.2\"",
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": "00:00:00",
+            "Date": "2007-02-24"
+        },
+        {
+            "Name": "AX J1700.2-4220",
+            "RA": "17h00m19.30s",
+            "Dec": "-42o20'19.2\"",
+            "redshift": null,
+            "Type": "X-ray Pulsar",
+            "Time": "00:00:00",
+            "Date": "2007-09-30"
+        }
+    ],
+    "References": [
+        "Corbet et al. ATEL #2259",
+        "Bird et al, 2010, ApJS 186 1",
+        "Tueller et al 2010, ApJS 186 378"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:00:00",
+    "Date": "2007-02-17",
+    "Telescope": [
+        "Swift XRT",
+        "XMM Newton",
+        "Chandra ACIS-S",
+        "RXTE PCA",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "XRT",
+        "Newton",
+        "ACIS-S",
+        "PCA",
+        "INTEGRAL"
+    ],
+    "Observatory": [
+        "Swift",
+        "XMM",
+        "Chandra",
+        "RXTE",
+        "INTEGRAL"
+    ]
+}

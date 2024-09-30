@@ -1,0 +1,111 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia17acy",
+            "RA": "05:00:06.76",
+            "Dec": "-13:08:31.5",
+            "redshift": 0.175,
+            "Type": "?",
+            "Time": null,
+            "Date": "20170114"
+        },
+        {
+            "Name": "Gaia17afb",
+            "RA": "09:57:20.97",
+            "Dec": "-41:35:20.9",
+            "redshift": 0.012,
+            "Type": "II",
+            "Time": "-7 to -4 d",
+            "Date": "20170120"
+        },
+        {
+            "Name": "SN2017nf",
+            "RA": "11:10:52.78",
+            "Dec": "+28:16:27.1",
+            "redshift": 0.037,
+            "Type": "I",
+            "Time": null,
+            "Date": "20170122"
+        },
+        {
+            "Name": "ATLAS17ajs",
+            "RA": "11:27:54.52",
+            "Dec": "+27:20:44.7",
+            "redshift": 0.033,
+            "Type": "Ia",
+            "Time": "-7 to -4 d",
+            "Date": "20170120"
+        },
+        {
+            "Name": "ATLAS17ajn",
+            "RA": "11:44:26.53",
+            "Dec": "-28:27:27.2",
+            "redshift": 0.029,
+            "Type": "Ia",
+            "Time": "-7 to -4 d",
+            "Date": "20170114"
+        },
+        {
+            "Name": "Gaia17aei",
+            "RA": "14:19:44.20",
+            "Dec": "-16:50:15.7",
+            "redshift": 0.043,
+            "Type": "II/IIn",
+            "Time": "> +20 d",
+            "Date": "20170117"
+        },
+        {
+            "Name": "ASASSN-17bb",
+            "RA": "15:20:40.81",
+            "Dec": "+04:39:34.1",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "-3 to +3 d",
+            "Date": "20170123"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Smartt et al. 2015, A&A, 579, 40",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "Tonry et al. 2011, PASP, 123, 58",
+            "URL": null
+        },
+        {
+            "Title": "Tonry et al. (ATel #8680)",
+            "URL": null
+        },
+        {
+            "Title": "ESA Gaia Photometric Science Alerts Team and DPAC",
+            "URL": "http://gsaweb.ast.cam.ac.uk/alerts"
+        },
+        {
+            "Title": "Shappee et al. 2014, ApJ, 788, 48",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Title": "IAU TNS list",
+            "URL": "https://wis-tns.weizmann.ac.il/"
+        },
+        {
+            "Title": "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+            "URL": null
+        },
+        {
+            "Title": "WISeREP",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "IAU Transient Name Server",
+            "URL": null
+        }
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": null,
+    "Date": "2017 January 26",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

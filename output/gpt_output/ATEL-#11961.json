@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18sg",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.055,
+            "Type": "Type-Ia supernova",
+            "Time": "2018-08-14.9",
+            "Date": "2018-08-14"
+        },
+        {
+            "Name": "2MASS J00505596-0745536",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006ax",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Template Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2007F",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Template Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014; Blondin and Tonry 2007",
+    "Event Type": "Spectroscopic Classification",
+    "Time": "2018-08-17.1",
+    "Date": "2018-08-17",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

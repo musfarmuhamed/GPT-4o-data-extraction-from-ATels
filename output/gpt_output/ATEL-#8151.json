@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15ces",
+            "RA": "01:38:44.68",
+            "Dec": "-23:07:34.5",
+            "redshift": 0.134,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "PS15cfn",
+            "RA": "21:59:21.97",
+            "Dec": "-21:07:10.7",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "-2",
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "PS15cgc",
+            "RA": "23:12:55.84",
+            "Dec": "+00:21:55.2",
+            "redshift": 0.049,
+            "Type": "II-p",
+            "Time": null,
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "PS15cge",
+            "RA": "23:35:20.90",
+            "Dec": "+01:10:32.4",
+            "redshift": 0.085,
+            "Type": "Ia",
+            "Time": "-3",
+            "Date": "2015-10-11"
+        },
+        {
+            "Name": "PS15cgi",
+            "RA": "21:21:25.73",
+            "Dec": "-12:28:04.2",
+            "redshift": 0.079,
+            "Type": "Ia",
+            "Time": "+4",
+            "Date": "2015-10-11"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": "2015-10-11",
+    "Telescope": "SOAR",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

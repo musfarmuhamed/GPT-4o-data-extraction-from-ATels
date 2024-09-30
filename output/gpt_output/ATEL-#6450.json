@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14gs",
+            "RA": "16:36:11.17",
+            "Dec": "-26:12:02.78",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "00:01",
+            "Date": "2014-09-06"
+        },
+        {
+            "Name": "PGC 058582",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.013709",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": null,
+    "Event Type": "transient discovery",
+    "Time": "00:01",
+    "Date": "2014-09-06",
+    "Telescope": "Cassius",
+    "Instrument": "double 14-cm",
+    "Observatory": "Cerro Tololo"
+}

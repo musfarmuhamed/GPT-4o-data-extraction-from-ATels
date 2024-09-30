@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nebula",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Crab Pulsar",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Vela",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #2855, ATel #2861",
+    "Event Type": "enhanced gamma-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S3",
+    "Observatory": "CXC"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova",
+            "RA": "23:12:25.99",
+            "Dec": "+13:54:49.3",
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Nov 1.22 UT",
+            "Date": "2023-11-01"
+        },
+        {
+            "Name": "2MASX J23122598+1354503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://www.rotse.net/transients/j2312+1355/index.html",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2023-10-28",
+    "Telescope": "ROTSE-IIIb",
+    "Instrument": null,
+    "Observatory": "McDonald Observatory"
+}

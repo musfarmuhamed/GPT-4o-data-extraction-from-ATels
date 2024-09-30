@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 1318+225",
+            "RA": "200.2966771 deg",
+            "Dec": "22.2700300 deg",
+            "redshift": "0.943",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2012-11-25"
+        },
+        {
+            "Name": "2FGL J1321.1+2215",
+            "RA": "200.2966771 deg",
+            "Dec": "22.2700300 deg",
+            "redshift": "0.943",
+            "Type": "flat spectrum radio quasar",
+            "Time": "Null",
+            "Date": "2012-11-26"
+        }
+    ],
+    "References": [
+        "Sowards-Emmerd et al. 2003, ApJ, 590, 109",
+        "Nolan et al. 2012, ApJS, 199, 31"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": "Null",
+    "Date": "2012-11-25 and 2012-11-26",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE in collaboration with France, Italy, Japan, and Sweden"
+}

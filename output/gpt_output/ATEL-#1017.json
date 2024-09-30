@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007aa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.004887,
+            "Type": "Type II Supernova",
+            "Time": "322 s",
+            "Date": "2007-02-24.63"
+        }
+    ],
+    "References": [
+        "CBET #850",
+        "IAUC # 8814"
+    ],
+    "Event Type": "Observation",
+    "Time": "322 s (V band), 367 s (B and U bands), 737 s (UVW1), 236 s (UVM2), 725 s (UVW2), 3.4 ks (XRT)",
+    "Date": "2007-02-24.63",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT), X-Ray Telescope (XRT)",
+    "Observatory": null
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSNJ22152655-1028346",
+            "RA": "22 15 26.55",
+            "Dec": "-10 28 34.6",
+            "redshift": 0.006,
+            "Type": "II",
+            "Time": null,
+            "Date": "20140829"
+        },
+        {
+            "Name": "ASASSN-14gm",
+            "RA": "00 59 47.83",
+            "Dec": "-07 34 19.3",
+            "redshift": 0.005,
+            "Type": "II",
+            "Time": null,
+            "Date": "20140902"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2014-09-02",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

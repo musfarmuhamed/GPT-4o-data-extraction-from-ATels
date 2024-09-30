@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia",
+            "Time": "Jan 31.29 UT",
+            "Date": "2014-01-31"
+        }
+    ],
+    "References": [
+        "ATel #5786",
+        "ATel #5797",
+        "ATel #5816",
+        "ATel #5791",
+        "ATel #5818",
+        "ATel #5827",
+        "ATel #5829",
+        "ATel #5843"
+    ],
+    "Event Type": "Supernova",
+    "Time": "Jan 31.29 UT",
+    "Date": "2014-01-31",
+    "Telescope": "Himalayan Chandra Telescope (HCT)",
+    "Instrument": [
+        "HFOSC",
+        "TIRSPEC"
+    ],
+    "Observatory": "Indian Astronomical Observatory (IAO)"
+}

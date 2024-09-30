@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14lt",
+            "RA": "03:11:02.54",
+            "Dec": "-13:06:38.76",
+            "redshift": "0.032046",
+            "Type": "supernova",
+            "Time": "2014-12-10.37",
+            "Date": "2014-12-10"
+        }
+    ],
+    "References": [
+        "All Sky Automated Survey for SuperNovae (ASAS-SN)",
+        "ITelescope.NET site at Nerpio, Spain",
+        "LCOGT 1-m robotic telescope at Siding Springs Observatory",
+        "NED"
+    ],
+    "Event Type": "discovery",
+    "Time": "2014-12-10.37",
+    "Date": "2014-12-10",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": "CDK + STL-11000M",
+    "Observatory": "Haleakala, Hawaii"
+}

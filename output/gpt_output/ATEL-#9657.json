@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16eot",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-II supernova",
+            "Time": "19.9",
+            "Date": "2016-10-19"
+        },
+        {
+            "Name": "UGC 2372",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.026",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Haynes et al. 1997, AJ, 113, 1197",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Huber et al. 2015, ATel #7153"
+    ],
+    "Event Type": "SALT (+RSS) spectroscopy",
+    "Time": "19.9",
+    "Date": "2016-10-19",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

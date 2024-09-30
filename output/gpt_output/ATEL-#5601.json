@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": [
+                56603.68,
+                56616.7,
+                56617.6,
+                56621.66,
+                56603.61,
+                56616.67,
+                56617.58,
+                56621.6,
+                56603.62,
+                56616.68,
+                56617.59,
+                56621.6,
+                56603.62,
+                56616.68,
+                56617.59,
+                56621.59
+            ],
+            "Date": [
+                "7th November 2013",
+                "20th November 2013",
+                "21st November 2013",
+                "25th November 2013"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #5518 (Carrasco et al.)",
+        "ATel #5550",
+        "ATel #5558",
+        "ATel #5597 (Larionov et al.)",
+        "ATel #5598 (Grupe et al.)",
+        "ATel #5599 (Carnerero et al.)"
+    ],
+    "Event Type": "ongoing flaring activity",
+    "Time": null,
+    "Date": "mid October 2013 to 25th November 2013",
+    "Telescope": "MIRO",
+    "Instrument": null,
+    "Observatory": null
+}

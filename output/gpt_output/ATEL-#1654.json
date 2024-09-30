@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Candidate 1",
+            "RA": "00h42m44.99s",
+            "Dec": "41d17'07.7\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2008 August 09.96",
+            "Date": "2008-08-09"
+        },
+        {
+            "Name": "Nova Candidate 2",
+            "RA": "00h42m52.38s",
+            "Dec": "41d16'12.9\"",
+            "redshift": null,
+            "Type": "Recurrent Nova",
+            "Time": "2008 August 09.96",
+            "Date": "2008-08-09"
+        }
+    ],
+    "References": [
+        "Shafter & Irby (2001)",
+        "Pietsch et al. (2007)",
+        "Massey et al. (2006)"
+    ],
+    "Event Type": "Discovery of novas",
+    "Time": "2008 August 09",
+    "Date": "2008-08-09",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Andor DZ436-BV CCD Camera",
+    "Observatory": "Skinakas Observatory"
+}

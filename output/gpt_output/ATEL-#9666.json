@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16lx",
+            "RA": "10:24:05.32",
+            "Dec": "+16:44:27.67",
+            "redshift": "0.018596",
+            "Type": "Type Ia supernova",
+            "Time": "2016-10-19.62",
+            "Date": "2016-10-19.62"
+        },
+        {
+            "Name": "IC 0607",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.018596",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation"
+    ],
+    "Event Type": "supernova",
+    "Time": "2016-10-19.62",
+    "Date": "2016-10-19.62",
+    "Telescope": "MDM 2.4-m Hiltner telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "Haleakala, Hawaii"
+}

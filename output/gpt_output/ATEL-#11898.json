@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 180728A",
+            "RA": null,
+            "Dec": null,
+            "redshift": "low-redshift",
+            "Type": "optical afterglow",
+            "Time": "35.5 hr after the GRB",
+            "Date": "July 30.21 UT"
+        },
+        {
+            "Name": "host galaxy of GRB 180728A",
+            "RA": null,
+            "Dec": null,
+            "redshift": "same as GRB 180728A",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Starling et al., GCN 23046; Lipunov et al., GCB 23048; Rossi et al., GCB 23055; Buckley et al., ATel 11897",
+    "Event Type": "observation",
+    "Time": "around July 30.21 UT",
+    "Date": "35.5 hr after the GRB",
+    "Telescope": "ESO VLT UT2",
+    "Instrument": "X-shooter spectrograph",
+    "Observatory": "ESO"
+}

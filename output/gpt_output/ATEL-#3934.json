@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": "15h 12m 50.5s",
+            "Dec": "-09d 05m 59.8s",
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "04:00 UT",
+            "Date": "2012-02-14"
+        },
+        {
+            "Name": "BZQ J1512-0905",
+            "RA": "15h 12m 50.5s",
+            "Dec": "-09d 05m 59.8s",
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "04:00 UT",
+            "Date": "2012-02-14"
+        }
+    ],
+    "References": [
+        "ATel #3907",
+        "ATel #3910"
+    ],
+    "Event Type": "Gamma-ray Emission Detection",
+    "Time": "04:00 UT",
+    "Date": "2012-02-14",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

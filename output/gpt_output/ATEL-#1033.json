@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "U0225_02842370",
+            "RA": "06 11 48.32",
+            "Dec": "-66 24 34.0",
+            "redshift": "0.230",
+            "Type": "Seyfert 1.5 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "LEDA 21656",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.025",
+            "Type": "Seyfert 2 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "NGC 4180",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.006",
+            "Type": "Seyfert 2 galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "LEDA 53392",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.025",
+            "Type": "Seyfert 2 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "IC 4518a",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.016",
+            "Type": "Seyfert 2 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "LEDA 3079933",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.025",
+            "Type": "Seyfert 1.5 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Bird et al., astro-ph/0611493",
+        "Krivonos et al., astro-ph/0701836",
+        "Masetti et al. 2006, A&A, 459, 21",
+        "Voges et al. 1999, A&A, 349, 389",
+        "Condon et al. 1998, AJ, 115, 1693",
+        "Mauch et al. 2003, MNRAS, 342, 1117",
+        "West et al. 1981, A&AS, 46, 57"
+    ],
+    "Event Type": "Optical Spectra Observation",
+    "Time": "13 Jan 2007, 18-19 Feb 2007, 10-11 Mar 2007",
+    "Date": "2007",
+    "Telescope": [
+        "1.5m 'Cassini' telescope",
+        "CTIO 1.5m telescope",
+        "2.15m 'Jorge Sahade' telescope"
+    ],
+    "Instrument": [
+        "BFOSC",
+        "R-C spectrograph",
+        "REOSC spectrograph"
+    ],
+    "Observatory": [
+        "Astronomical Observatory of Bologna, Loiano, Italy",
+        "Cerro Tololo, Chile",
+        "CASLEO, Argentina"
+    ]
+}

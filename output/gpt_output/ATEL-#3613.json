@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": "18h 35m 43.43s",
+            "Dec": "-19d 19m 12.1s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:46 UT",
+            "Date": "August 30th, 2011"
+        },
+        {
+            "Name": "MAXI J1836-194",
+            "RA": "18h 35m 43.45s",
+            "Dec": "-19d 19m 10.8s",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Negoro et al., ATEL #3611",
+        "Kalberla et al., 2005",
+        "Evans et al. 2009, MNRAS, 397, 1177"
+    ],
+    "Event Type": "target of opportunity observation",
+    "Time": "16:46 UT",
+    "Date": "August 30th, 2011",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

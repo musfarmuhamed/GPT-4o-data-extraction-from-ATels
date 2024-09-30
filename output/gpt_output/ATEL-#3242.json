@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB110328A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": "12:57 UT",
+            "Date": "2011-Mar-28"
+        },
+        {
+            "Name": "Swift J164449.3+573451",
+            "RA": "16h 44m 49.89s",
+            "Dec": "+57d 35' 00.0\"",
+            "redshift": null,
+            "Type": "hard galactic X-ray transient / SFXT candidate",
+            "Time": "13:40 UT",
+            "Date": "2011-Mar-28"
+        },
+        {
+            "Name": "IGR J16479-4514",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supergiant fast X-ray transient (SFXT)",
+            "Time": null,
+            "Date": "2008-Mar-19"
+        }
+    ],
+    "References": [
+        "Cummings et al., GCN #11823",
+        "Barthelmy et al., GCN #11824",
+        "Osborne et al., GCN #11826",
+        "Romano et al 2008, ApJ, 680, L137",
+        "Levan et al. (GCN #11825)"
+    ],
+    "Event Type": "Transient source detection",
+    "Time": "12:57 UT",
+    "Date": "2011-Mar-28",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Swift"
+}

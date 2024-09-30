@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": [
+                "2457383.34",
+                "2457418.30",
+                "2457654.57",
+                "2457694.54",
+                "2457734.38",
+                "2457830.29",
+                "2458095.22",
+                "2458110.54",
+                "2458120.23",
+                "2458145.22"
+            ],
+            "Date": [
+                "March 2017",
+                "February 2018"
+            ]
+        },
+        {
+            "Name": "4U 0352+30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Matsuoka, M. et al., 2009, PASJ, 61, 999; Reig et al., 2016, A&A 590, A122",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "2.0m telescope, 1.2m TIGRE telescope",
+    "Instrument": null,
+    "Observatory": "Rozhen National Astronomical Observatory, Mexico"
+}

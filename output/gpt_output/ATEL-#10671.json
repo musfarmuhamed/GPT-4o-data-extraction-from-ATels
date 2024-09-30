@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RX J1709.5-2639 (XTE J1709-267)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent soft X-ray transient",
+            "Time": "09:30",
+            "Date": "2017 August 23"
+        },
+        {
+            "Name": "XTE J1710-281 (1RXS J171012.3-280754)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing low-mass X-ray binary",
+            "Time": "04:26",
+            "Date": "2017 August 18"
+        }
+    ],
+    "References": [
+        "Morii et al. 2016, PASJ, 68, S11",
+        "https://asd.gsfc.nasa.gov/Craig.Markwardt/galscan/html/XTE_J1710-281.html",
+        "ATel. #2729",
+        "ATel. #4304",
+        "ATel. #5319",
+        "ATel. #5332",
+        "ATel. #9108",
+        "ATel. #9181",
+        "https://asd.gsfc.nasa.gov/Craig.Markwardt/galscan/html/RXJ1709.5-263.html",
+        "http://maxi.riken.jp/pubdata/v3.rkn/J1709-266/",
+        "http://maxi.riken.jp/pubdata/v3.rkn/J1710-281/"
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "09:30",
+    "Date": "2017 August 23",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

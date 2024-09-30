@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0402-362",
+            "RA": "04h03m53.7499s",
+            "Dec": "-36d05m01.912s",
+            "redshift": "1.417",
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "22 September 2011"
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Abdo et al. 2011, submitted to ApJS, arXiv:11081435",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Peterson et al. 1976, ApJ, 207, 5",
+        "Abdo et al. 2011, submitted to ApJS, arXiv:11081435",
+        "ATel #2413",
+        "ATel #2484"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": null,
+    "Date": "20 September 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2006jc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN",
+            "Time": "16:10",
+            "Date": "2006-10-13"
+        },
+        {
+            "Name": "SN IIP 2006bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN IIn 1998S",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN Ia",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN Ic 2006aj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ic",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "CBET 666, 672, ATEL #793, Li et al 2002, 114, 401, Brown et al. ApJ, 2005, 635, 1192, Campana et al. Nature, 442, 1008, Modjaz et al. in prep",
+    "Event Type": "observations",
+    "Time": "16:10",
+    "Date": "2006-10-13",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)"
+    ],
+    "Observatory": null
+}

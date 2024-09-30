@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017lf",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.0146",
+            "Type": "Ia",
+            "Time": "2017-01-23.86",
+            "Date": "2017-01-22.59"
+        },
+        {
+            "Name": "SN 2017ms",
+            "RA": "102641.99",
+            "Dec": "+364053.2",
+            "redshift": "0.0246",
+            "Type": "Ia",
+            "Time": "2017-01-24.00",
+            "Date": "2017-01-21.71"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Theureau et al. 1997, A&AS, 130, 333",
+        "Sloan Digital Sky Survey Data Release 5",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J00424126+4116102",
+            "RA": "0h42m41s.26",
+            "Dec": "+41o16'10\".2",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "19.953 UT",
+            "Date": "2017 Jul"
+        },
+        {
+            "Name": "M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "P. Kusnirak, H. Kucakova",
+    "Event Type": "Discovery",
+    "Time": "19.953 UT",
+    "Date": "2017 Jul",
+    "Telescope": "0.65-m telescope",
+    "Instrument": "CCD frame",
+    "Observatory": "Ondrejov"
+}

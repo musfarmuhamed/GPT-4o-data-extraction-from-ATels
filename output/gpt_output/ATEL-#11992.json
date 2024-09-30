@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17503-2636",
+            "RA": "17:50:18.06",
+            "Dec": "-26:36:16.7",
+            "redshift": null,
+            "Type": "High-mass X-ray binary, possibly of the Supergiant Fast X-ray Transient subclass",
+            "Time": [
+                "06:53-07:04",
+                "03:14-03:19"
+            ],
+            "Date": [
+                "2010 April 9",
+                "2011 August 31"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #11952",
+        "ATel #11990",
+        "ATel #11991",
+        "ATel #11952"
+    ],
+    "Event Type": "Detection and observation of astronomical object",
+    "Time": [
+        "06:53-07:04 UT",
+        "03:14-03:19 UT"
+    ],
+    "Date": [
+        "2010 April 9",
+        "2011 August 31"
+    ],
+    "Telescope": "4.1m VISTA",
+    "Instrument": "NIR observation",
+    "Observatory": "Cerro Paranal, Chile"
+}

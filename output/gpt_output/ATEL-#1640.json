@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J180834.7+101041",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "USNO-B1 1001-0317189",
+            "RA": "18h08m35.80s",
+            "Dec": "+10o10'30.2\" (J2000.0)",
+            "redshift": "Null",
+            "Type": "cataclysmic variable",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "USNO-A2.0 0975-10560020",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "comparison star",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "USNO-A2.0 0975-10561808",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "check star",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "http://hea.iki.rssi.ru/~denis/J1808+1010-LC-May22.gif",
+        "http://hea.iki.rssi.ru/~denis/J1808+1010-comps.gif",
+        "http://hea.iki.rssi.ru/~denis/J1808+1010-LC2008.gif"
+    ],
+    "Event Type": "photometric follow-up",
+    "Time": "Null",
+    "Date": "between 2008 May 21 and 31",
+    "Telescope": "0.30-m Astrotel-Caucasus robotic telescope",
+    "Instrument": "Null",
+    "Observatory": "Kazan State University Mountain Station, Karachay-Cherkessia, Russia"
+}

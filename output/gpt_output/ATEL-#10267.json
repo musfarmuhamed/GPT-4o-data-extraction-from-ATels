@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQJ1127-1857",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.05,
+            "Type": "QSO",
+            "Time": "2457830.8924",
+            "Date": "2017-03-18"
+        },
+        {
+            "Name": "CGRaBSJ1127-1857",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.05,
+            "Type": "QSO",
+            "Time": "2457830.8924",
+            "Date": "2017-03-18"
+        },
+        {
+            "Name": "3FGLJ1127.0-1857",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3207",
+        "ATEL #3212",
+        "ATEL #4820"
+    ],
+    "Event Type": "NIR flare",
+    "Time": "2457830.8924",
+    "Date": "2017-03-18",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

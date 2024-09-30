@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2011-01a",
+            "RA": "00h42m42.68s",
+            "Dec": "+41d19'14.0\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "14.044",
+            "Date": "2011-07"
+        },
+        {
+            "Name": "PNV J00424359+4116378",
+            "RA": "00h42m43.53s",
+            "Dec": "+41d16'37.3\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "14.044",
+            "Date": "2011-07"
+        },
+        {
+            "Name": "PNV J00430685+4115308",
+            "RA": "00h43m06.84s",
+            "Dec": "+41d15'31.7\"",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "14.071",
+            "Date": "2011-07"
+        }
+    ],
+    "References": [
+        "ATels #2234",
+        "ATels #1602",
+        "Massey et al. 2006, AJ, 131, 2478"
+    ],
+    "Event Type": "Nova Detection",
+    "Time": "14.044",
+    "Date": "2011-07-14",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Andor DZ436-BV-9CQ CCD Camera with broad H-alpha filter",
+    "Observatory": "Skinakas Observatory, Crete, Greece"
+}

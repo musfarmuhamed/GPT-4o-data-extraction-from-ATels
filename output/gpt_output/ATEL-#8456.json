@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVV-WIT-04",
+            "RA": "15:15:12.69",
+            "Dec": "-55:59:32.78",
+            "redshift": null,
+            "Type": "Transitional Source (Likely Galactic nova or supernova in background radio-loud galaxy)",
+            "Time": null,
+            "Date": "2010-2013"
+        },
+        {
+            "Name": "PMN J1515-5559",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": null,
+            "Date": "1994"
+        },
+        {
+            "Name": "LQAC 228-055_001",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Catalog Entry",
+            "Time": null,
+            "Date": "2015"
+        },
+        {
+            "Name": "WISE J151512.70-555932.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Catalog Entry",
+            "Time": null,
+            "Date": "2012"
+        }
+    ],
+    "References": [
+        "Minniti et al. 2010, New Astronomy, 15, 433",
+        "Wright et al. 1994, ApJS, 91, 111",
+        "Souchay et al. 2015, A&A, 583, A75",
+        "Cutri et al. 2012, VizieR Online Data Catalog, 2311",
+        "Saito et al. 2012, A&A, 537, A107"
+    ],
+    "Event Type": "Discovery of Transient Source",
+    "Time": null,
+    "Date": "2010-2013",
+    "Telescope": "VISTA",
+    "Instrument": null,
+    "Observatory": "ESO Public Survey programme ID 179.B-2002"
+}

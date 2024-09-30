@@ -1,0 +1,118 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2017bzb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.003132",
+            "Type": "II",
+            "Time": "28.4",
+            "Date": null
+        },
+        {
+            "Name": "2017bzc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005365",
+            "Type": "Ia",
+            "Time": "29.4",
+            "Date": null
+        },
+        {
+            "Name": "2017caw",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027145",
+            "Type": "II",
+            "Time": "29.2",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17dm",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "M-type star",
+            "Time": "26.2",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17ds",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021648",
+            "Type": "II?",
+            "Time": "27.1, 28.1",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17dt",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.046",
+            "Type": "Ia",
+            "Time": "26.2",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17du",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.033253",
+            "Type": "Ia",
+            "Time": "27.4",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17ea",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.014440",
+            "Type": "Ia",
+            "Time": "26.2",
+            "Date": null
+        },
+        {
+            "Name": "ATLAS17dcl",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.009376",
+            "Type": "Ia",
+            "Time": "27.0",
+            "Date": null
+        },
+        {
+            "Name": "DLT17ah",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017495",
+            "Type": "II?",
+            "Time": "27.3, 29.2",
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-17ed",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.040308",
+            "Type": "Ia",
+            "Time": "26.0",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10165",
+        "ATel #10176",
+        "ATel #10199",
+        "ATel #10200",
+        "ATel #10206",
+        "ATel #10214",
+        "ATel #10226"
+    ],
+    "Event Type": "Optical Spectroscopy",
+    "Time": null,
+    "Date": "March 26 to 29 UT",
+    "Telescope": "2.5-m du Pont telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

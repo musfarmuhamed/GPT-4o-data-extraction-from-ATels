@@ -1,0 +1,97 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J162412.26+091303.0",
+            "RA": "16 24 12.26",
+            "Dec": "+09 13 03.0",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "+2d",
+            "Date": "20140813"
+        },
+        {
+            "Name": "LSQ14drr",
+            "RA": "20 41 08.26",
+            "Dec": "-55 28 16.1",
+            "redshift": "0.04",
+            "Type": "IIP",
+            "Time": "+24d",
+            "Date": "20140724"
+        },
+        {
+            "Name": "LSQ14dus",
+            "RA": "22 03 44.68",
+            "Dec": "-52 43 19.8",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "+6d",
+            "Date": "20140801"
+        },
+        {
+            "Name": "LSQ14dtt",
+            "RA": "21 33 10.24",
+            "Dec": "-18 20 26.1",
+            "redshift": "0.05",
+            "Type": "Ia-pec",
+            "Time": "+10d",
+            "Date": "20140710"
+        },
+        {
+            "Name": "OGLE-2014-SN-052",
+            "RA": "00 03 49.30",
+            "Dec": "-69 59 00.3",
+            "redshift": "0.08",
+            "Type": "--",
+            "Time": "--",
+            "Date": "20140808"
+        },
+        {
+            "Name": "LSQ14dvy",
+            "RA": "21 40 59.74",
+            "Dec": "-45 23 02.0",
+            "redshift": "0.16",
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": "20140726"
+        },
+        {
+            "Name": "PSN J06363000-6643540",
+            "RA": "06 36 30.00",
+            "Dec": "-66 43 54.0",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "+22d",
+            "Date": "20140813"
+        },
+        {
+            "Name": "PSN J06335776-3448276",
+            "RA": "06:33:57.76",
+            "Dec": "-34:48:27.6",
+            "redshift": "0.02",
+            "Type": "Ia",
+            "Time": "max",
+            "Date": "20140809"
+        },
+        {
+            "Name": "ASASSN-14fg",
+            "RA": "14:19:15.97",
+            "Dec": "-33:42:17.0",
+            "redshift": "--",
+            "Type": "--",
+            "Time": "--",
+            "Date": "20140810"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": "Night starting on 2014 Aug 15 UT",
+    "Date": "2014-08-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

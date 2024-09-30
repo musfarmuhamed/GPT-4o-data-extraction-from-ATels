@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DES14C1eu",
+            "RA": "03:38:53.58",
+            "Dec": "-27:54:18.1",
+            "redshift": "0.39",
+            "Type": "Type Ia",
+            "Time": "peak",
+            "Date": "2014 Aug 30"
+        },
+        {
+            "Name": "DES14C3nj",
+            "RA": "03:34:03.05",
+            "Dec": "-28:19:05.4",
+            "redshift": "0.45",
+            "Type": "Type Ia",
+            "Time": "-5 days",
+            "Date": "2014 Aug 31"
+        },
+        {
+            "Name": "DES14E1gw",
+            "RA": "00:26:45.80",
+            "Dec": "-43:26:02.5",
+            "redshift": "0.4533",
+            "Type": "Type Ia",
+            "Time": "+22 days",
+            "Date": "2014 Aug 31"
+        },
+        {
+            "Name": "DES14E2u",
+            "RA": "00:37:51.13",
+            "Dec": "-43:43:17.2",
+            "redshift": "0.2923",
+            "Type": "Type Ia",
+            "Time": "peak",
+            "Date": "2014 Aug 31"
+        },
+        {
+            "Name": "DES14E2ag",
+            "RA": "00:39:22.19",
+            "Dec": "-44:04:03.4",
+            "redshift": "0.2263",
+            "Type": "Type Ic",
+            "Time": "+20 days",
+            "Date": "2014 Sep 01"
+        },
+        {
+            "Name": "DES14E2am",
+            "RA": "00:39:57.94",
+            "Dec": "-44:52:30.9",
+            "redshift": "0.2470",
+            "Type": "Type II?",
+            "Time": "peak",
+            "Date": "2014 Aug 30"
+        },
+        {
+            "Name": "DES14S2qg",
+            "RA": "02:42:21.44",
+            "Dec": "-01:21:42.9",
+            "redshift": "0.11",
+            "Type": "Type Ia",
+            "Time": "+30 days",
+            "Date": "2014 Aug 31"
+        },
+        {
+            "Name": "DES14X2dl",
+            "RA": "02:22:44.29",
+            "Dec": "-06:03:48.9",
+            "redshift": "0.44",
+            "Type": "Type Ia",
+            "Time": "+9 days",
+            "Date": "2014 Aug 30"
+        }
+    ],
+    "References": "superfit (Howell and Wang, 2002, BAAS, 34, 1256), SNID (Blondin & Tonry, 2007, ApJ, 666, 1024), ATel #4668",
+    "Event Type": "optical spectroscopy and classification",
+    "Time": "Null",
+    "Date": "2014 Aug",
+    "Telescope": "Very Large Telescope (VLT)",
+    "Instrument": "X-SHOOTER",
+    "Observatory": "European Southern Observatory (ESO)"
+}

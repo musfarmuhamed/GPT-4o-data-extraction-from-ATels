@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HSP blazar 2WHSP J062753.2-151956",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.3102",
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fermi gamma-ray source 3FGLJ0627.9-1517",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "TXS0506+056 (AGILE source C)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lucarelli et al., 2018",
+        "Chang et al., 2017"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "April 2016; March 2018",
+    "Telescope": "Gran Telescopio Canarias",
+    "Instrument": "OSIRIS",
+    "Observatory": null
+}

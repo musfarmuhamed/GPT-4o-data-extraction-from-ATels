@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1824-141",
+            "RA": "276.02",
+            "Dec": "-14.15",
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": "2008-08-14"
+        },
+        {
+            "Name": "LS 5039",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "High-mass X-ray binary",
+            "Time": null,
+            "Date": "2008-06"
+        }
+    ],
+    "References": [
+        "J. Cummings, priv. comm.",
+        "P.R."
+    ],
+    "Event Type": "Detection and Monitoring",
+    "Time": null,
+    "Date": "2008-08-14",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

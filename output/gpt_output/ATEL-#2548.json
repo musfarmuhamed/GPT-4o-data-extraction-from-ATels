@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1749.4\u22122807 (GRB060602B)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "burst-only source",
+            "Time": "2010-04-10 22:00:00 to 2010-04-11 01:41:36 (UTC)",
+            "Date": "2010-04-10 to 2010-04-11"
+        },
+        {
+            "Name": "Swift J1749.4-2807",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray flux",
+            "Time": "2010-04-11 23:41:10 to 2010-04-12 04:48:48 (UTC)",
+            "Date": "2010-04-11 to 2010-04-12"
+        }
+    ],
+    "References": [
+        "Wijnands et al. 2009, MNRAS, 393, 126",
+        "Campana, 2009, ApJ 699 1144"
+    ],
+    "Event Type": "High energy emission detection",
+    "Time": "2010-04-10 22:00:00 to 2010-04-11 01:41:36 (UTC)",
+    "Date": "2010-04-10 to 2010-04-11",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEMX1, JEMX2, Swift ToO",
+    "Observatory": null
+}

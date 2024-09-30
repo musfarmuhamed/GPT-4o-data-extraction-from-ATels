@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSBG F156-039",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.043707,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16kk (AT 2016gdu)",
+            "RA": "04:10:31.49",
+            "Dec": "-54:41:06.72",
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": "09:00:00 AM",
+            "Date": "2016-09-09"
+        }
+    ],
+    "References": "ATEL #9483",
+    "Event Type": "discovery",
+    "Time": "09:00:00 AM",
+    "Date": "2016-09-09",
+    "Telescope": "quadruple 14-cm 'Cassius' telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

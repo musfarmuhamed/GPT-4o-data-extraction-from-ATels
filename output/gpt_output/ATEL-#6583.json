@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "X-ray transient source",
+            "RA": "03:32:38.80",
+            "Dec": "-27:51:34.1",
+            "redshift": "~0.53",
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "8 October 2014"
+        },
+        {
+            "Name": "Sw 1644+57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "tidal disruption event",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6541",
+        "Miller et al. (2013)",
+        "Minh et al. (2012)",
+        "Bell et al. (in prep)",
+        "Huynh et al. (2012)",
+        "Skelton et al. (2014)"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "8 October 2014",
+    "Telescope": "Australian Telescope Compact Array (ATCA)",
+    "Instrument": "1.5km configuration",
+    "Observatory": null
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1748-361",
+            "RA": "17:48:13.13",
+            "Dec": "-36:07:58.17",
+            "redshift": null,
+            "Type": "X-ray transient / optical counterpart",
+            "Time": null,
+            "Date": "2003-11-09"
+        },
+        {
+            "Name": "A1744-36",
+            "RA": "17:48:13.13",
+            "Dec": "-36:07:58.17",
+            "redshift": null,
+            "Type": "Ariel source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #204",
+        "ATEL #238",
+        "ATEL #210",
+        "ATEL #265",
+        "ATEL #266"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2003-11-09",
+    "Telescope": "Magellan-Clay",
+    "Instrument": "MagIC camera",
+    "Observatory": "Las Campanas Observatory"
+}

@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16597-3704",
+            "RA": "254.8870",
+            "Dec": "-37.1207",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": "2017 October 21"
+        },
+        {
+            "Name": "2MASS 16593293-3707115",
+            "RA": "16593293",
+            "Dec": "-3707115",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NOMAD1 0528-0607472",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "significantly redder object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J165932.58-370714.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "red giant",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bozzo et al. 2107; ATel #10880",
+        "Bozzo et al. 2107; ATel #10881",
+        "Schlafly & Finkbeiner 2011 (ApJ 737, 103)",
+        "Schlegel et al. 1998 (ApJ 500, 525)",
+        "Ducati et al. 2001 (ApJ 558, 309)",
+        "ESA mission Gaia (https://www.cosmos.esa.int/gaia)",
+        "Gaia DPAC (https://www.cosmos.esa.int/web/gaia/dpac/consortium)"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2017 October 21",
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": "Observations of the Galactic Center"
+}

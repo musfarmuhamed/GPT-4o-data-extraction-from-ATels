@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016adj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "00:00",
+            "Date": "2016-02-08"
+        },
+        {
+            "Name": "SN 2007gr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #8686",
+        "ATel #8651",
+        "Hunter et al. 2009"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:00",
+    "Date": "2016-04-07",
+    "Telescope": "1.2m telescope, NASA 3m IRTF telescope",
+    "Instrument": "SpeX",
+    "Observatory": "Mt Abu"
+}

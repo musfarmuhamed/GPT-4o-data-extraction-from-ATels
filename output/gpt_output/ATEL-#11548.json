@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PGC 2402248",
+            "RA": "07:33:26.7",
+            "Dec": "+51:53:54.99",
+            "redshift": null,
+            "Type": "extreme high-energy peaked BL Lacertae object",
+            "Time": "2018/01/23 to 2018/04/18",
+            "Date": null
+        },
+        {
+            "Name": "2WHSP J073326.7+515354",
+            "RA": "07:33:26.7",
+            "Dec": "+51:53:54.99",
+            "redshift": null,
+            "Type": "extreme high-energy peaked BL Lacertae object",
+            "Time": "2018/01/23 to 2018/04/18",
+            "Date": null
+        }
+    ],
+    "References": "Chang et al. 2016, A&A, 598, A17",
+    "Event Type": "first detection of very-high-energy (VHE; E>100 GeV) gamma-ray emission",
+    "Time": "2018/01/23 to 2018/04/18",
+    "Date": null,
+    "Telescope": "MAGIC",
+    "Instrument": "XRT",
+    "Observatory": "Neil Gehrels Swift Observatory"
+}

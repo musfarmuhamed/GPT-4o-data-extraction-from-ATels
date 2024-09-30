@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "May 19 to May 26, 2010"
+        },
+        {
+            "Name": "PSR J2032+4127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #2609",
+        "ATel #2644",
+        "ATel #2635",
+        "ATel #2611",
+        "Abdo et al. 2009, Science, 326, 1512"
+    ],
+    "Event Type": "Transition from hard state to soft state",
+    "Time": null,
+    "Date": "Late April 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

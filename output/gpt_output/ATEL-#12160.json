@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1858.6-0814",
+            "RA": "284.64565",
+            "Dec": "-8.23789",
+            "redshift": null,
+            "Type": "point source",
+            "Time": "14:30UT",
+            "Date": "Nov 2nd"
+        },
+        {
+            "Name": "UGPS J185834.91-081414.8",
+            "RA": "284.64549",
+            "Dec": "-8.23775",
+            "redshift": null,
+            "Type": "point source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al. ATEL #12151",
+        "Ludlam et al. ATEL #12158"
+    ],
+    "Event Type": "target of opportunity observation",
+    "Time": "14:30UT",
+    "Date": "Nov 2nd",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift"
+}

@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16asb",
+            "RA": "00:24:17.42",
+            "Dec": "-38:12:04.39",
+            "redshift": "0.11617",
+            "Type": "SN Ia/galaxy",
+            "Time": null,
+            "Date": "2016-07-08"
+        },
+        {
+            "Name": "Gaia16apt",
+            "RA": "12:37:01.62",
+            "Dec": "-22:26:09.74",
+            "redshift": "0.13650",
+            "Type": "AGN flare/TDE?",
+            "Time": null,
+            "Date": "2016-07-03"
+        },
+        {
+            "Name": "Gaia16aqc",
+            "RA": "01:44:55.39",
+            "Dec": "-21:49:10.81",
+            "redshift": "0.42748",
+            "Type": "AGN flare/TDE?",
+            "Time": null,
+            "Date": "2016-07-03"
+        },
+        {
+            "Name": "Gaia16aqg",
+            "RA": "02:20:14.52",
+            "Dec": "-40:53:05.14",
+            "redshift": "0.05956",
+            "Type": "SN II?/galaxy",
+            "Time": null,
+            "Date": "2016-07-08"
+        },
+        {
+            "Name": "OGLE-2014-SN-122",
+            "RA": "02:36:55.78",
+            "Dec": "-72:10:00.00",
+            "redshift": "0.05960",
+            "Type": "SN IIn",
+            "Time": null,
+            "Date": "2016-09-07"
+        }
+    ],
+    "References": [
+        "Wyrzykowski et al. 2014",
+        "Blondin & Tonry 2007",
+        "ATEL #6700",
+        "ATEL #6739"
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "South African Large Telescope (SALT)",
+    "Instrument": "Robert Stobie Spectrograph (RSS)",
+    "Observatory": null
+}

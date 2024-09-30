@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S5 1217+71",
+            "RA": "12 20 03.57",
+            "Dec": "+71 05 31.5",
+            "redshift": "0.451",
+            "Type": "radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1219.2+7107",
+            "RA": "12 20 03.57",
+            "Dec": "+71 05 31.5",
+            "redshift": "0.451",
+            "Type": "radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6023",
+        "ATel #4885"
+    ],
+    "Event Type": "possible onset of a new activity episode",
+    "Time": null,
+    "Date": "2014-03-27",
+    "Telescope": [
+        "MASTER-Kislovodsk",
+        "MASTER-Amur",
+        "MASTER-Tunka"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

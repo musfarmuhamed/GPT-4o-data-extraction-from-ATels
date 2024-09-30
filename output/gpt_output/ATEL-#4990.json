@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS130414:112131-033103",
+            "RA": "11 21 30.88",
+            "Dec": "-03 31 02.75",
+            "redshift": "0.06",
+            "Type": "II",
+            "Time": "2013-04-15",
+            "Date": "2013-04-14"
+        },
+        {
+            "Name": "PSN J10505237-0123269",
+            "RA": "10 46 52.37",
+            "Dec": "-01 23 26.92",
+            "redshift": "0.04",
+            "Type": "II",
+            "Time": "2013-04-15",
+            "Date": "2013-04-14"
+        },
+        {
+            "Name": "LSQ13aav",
+            "RA": "13 30 23.84",
+            "Dec": "-46 16 07.79",
+            "redshift": null,
+            "Type": "Be Star",
+            "Time": "2013-04-15",
+            "Date": "2013-04-15"
+        },
+        {
+            "Name": "LSQ13abf",
+            "RA": "11 49 06.62",
+            "Dec": "+19 10 10.71",
+            "redshift": "0.02",
+            "Type": "Ic",
+            "Time": "2013-04-16",
+            "Date": "2013-04-15"
+        }
+    ],
+    "References": [
+        "ATEL #4984",
+        "Discovered by SNhunt (SNhunt186). Note that the PSN designation gave the wrong coordinates.",
+        "supplied by the La Silla-Quest survey (Hadjiyska et al., ATel #3812)"
+    ],
+    "Event Type": "spectroscopic classifications",
+    "Time": "various",
+    "Date": "various",
+    "Telescope": [
+        "Nordic Optical Telescope",
+        "Las Campanas Observatory du Pont Telescope"
+    ],
+    "Instrument": [
+        "Alfosc",
+        "WFCCD"
+    ],
+    "Observatory": [
+        "Las Campanas Observatory"
+    ]
+}

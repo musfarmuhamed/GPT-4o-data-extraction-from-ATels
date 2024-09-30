@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE15rc",
+            "RA": "04 59 27.51",
+            "Dec": "-60 16 46.5",
+            "redshift": "0.072",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20151101"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Wyrzykowski et al., 2014 arxiv:1409.1095",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2015 Nov. 16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

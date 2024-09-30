@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017bel",
+            "RA": "08 56 46.74",
+            "Dec": "+29 55 15.5",
+            "redshift": "0.033",
+            "Type": "?",
+            "Time": "Null",
+            "Date": "20170217"
+        },
+        {
+            "Name": "AT2017ayj",
+            "RA": "09 22 51.10",
+            "Dec": "-30 14 08.5",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": "Null",
+            "Date": "20170219"
+        },
+        {
+            "Name": "SN2017azw",
+            "RA": "04 22 49.71",
+            "Dec": "-82 04 09.6",
+            "redshift": "0.02",
+            "Type": "SN Ia",
+            "Time": "-5 d",
+            "Date": "20170219"
+        },
+        {
+            "Name": "SN2017bcd",
+            "RA": "09 59 50.58",
+            "Dec": "-20 59 37.5",
+            "redshift": "0.05",
+            "Type": "SN Ia",
+            "Time": "-6 d",
+            "Date": "20170215"
+        },
+        {
+            "Name": "SN2017ayp",
+            "RA": "13 12 00.98",
+            "Dec": "-28 22 08.5",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "+5 d",
+            "Date": "20170215"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Lipunov et al. 2004, AN, 325, 580",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "ATel #10108"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2017 February 25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

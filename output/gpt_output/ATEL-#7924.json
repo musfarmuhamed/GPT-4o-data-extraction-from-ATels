@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15on",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "19.23 UT",
+            "Date": "Aug. 19",
+            "Template": "SN 1994ae",
+            "Template Time": "T=+4 days"
+        },
+        {
+            "Name": "ASASSN-15oh",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016835",
+            "Type": "type-Ia supernova",
+            "Time": "19.42 UT",
+            "Date": "Aug. 19",
+            "Template": "SN 1981B",
+            "Template Time": "maximum light"
+        }
+    ],
+    "References": [
+        "ATEL #7917",
+        "ATEL #7911"
+    ],
+    "Event Type": "Spectra Observation",
+    "Time": "Aug. 19.23 and Aug. 19.42 UT",
+    "Date": "Aug. 19",
+    "Telescope": "1.82-m Plaskett telescope",
+    "Instrument": null,
+    "Observatory": "National Research Council of Canada"
+}

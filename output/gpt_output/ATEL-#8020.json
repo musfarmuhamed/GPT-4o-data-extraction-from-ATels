@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J090639.19-275335.5",
+            "RA": "09h 06m 39.19s",
+            "Dec": "-27d 53m 35.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-08.15233 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J091631.68-330230.1",
+            "RA": "09h 16m 31.68s",
+            "Dec": "-33d 02m 30.1s",
+            "redshift": null,
+            "Type": "possible dwarf outburst",
+            "Time": "2015-09-08.15676 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J231846.26+044416.1",
+            "RA": "23h 18m 46.26s",
+            "Dec": "+04d 44m 16.1s",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "2015-09-07.01255 UT",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J190155.95-760928.3",
+            "RA": "19h 01m 55.95s",
+            "Dec": "-76d 09m 28.3s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-08.80975 UT",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+        "http://master.sai.msu.ru/static/OT/090639.19-275335.5.png",
+        "http://master.sai.msu.ru/static/OT/MASTEROTJ091631.68-330230.1.png",
+        "http://observ.pereplet.ru/images/MASTEROTJ231846.26+044416.1.jpg",
+        "http://master.sai.msu.ru/static/OT/190155.95-760928.3_1.png"
+    ],
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016eob",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024",
+            "Type": "II",
+            "Time": "2016-08-03.11",
+            "Date": "2016-08-03"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Tomasella et al.",
+            "Title": "AN",
+            "Volume": "335",
+            "Page": "841",
+            "Year": 2014
+        },
+        {
+            "Author": "Leonini et al.",
+            "Title": "TNS Astronomical Transient Report No. 3994",
+            "Year": 2016
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2016-08-03.95",
+    "Date": "2016-08-03",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

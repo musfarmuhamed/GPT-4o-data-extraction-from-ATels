@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235333.47+101459.0",
+            "RA": "23h 53m 33.47s",
+            "Dec": "+10d 14m 59.0s",
+            "redshift": null,
+            "Type": "flaring red dwarf",
+            "Time": "17:23:44 UT",
+            "Date": "2014-11-25"
+        },
+        {
+            "Name": "SDSS J235333.45+101458.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AllWISE J235333.47+101458.4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/235333.47101459.0.png",
+    "Event Type": "large amplitude flaring red dwarf",
+    "Time": "17:22:16 UT",
+    "Date": "2014-11-25",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1153-1124",
+            "RA": 178.44,
+            "Dec": -11.11,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "00:00",
+            "Date": "2018-11-09"
+        },
+        {
+            "Name": "Fermi J1153-1124",
+            "RA": 178.1,
+            "Dec": -11.8,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": "00:00",
+            "Date": "2018-11-06"
+        }
+    ],
+    "References": "ATel #12206",
+    "Event Type": "detection",
+    "Time": "00:00",
+    "Date": "2018-11-09",
+    "Telescope": "AGILE",
+    "Instrument": "AGILE-GRID",
+    "Observatory": null
+}

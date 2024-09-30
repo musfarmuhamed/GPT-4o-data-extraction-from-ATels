@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J174540.7-290015",
+            "RA": "17:45:40.664",
+            "Dec": "-29:00:15.61",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "08:59:23",
+            "Date": "2016-02-13"
+        },
+        {
+            "Name": "SGR J1745-29",
+            "RA": "17:45:40.164",
+            "Dec": "-29:00:29.82",
+            "redshift": null,
+            "Type": "GC magnetar",
+            "Time": "08:59:23",
+            "Date": "2016-02-13"
+        },
+        {
+            "Name": "CXOU J174540.1-290016",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cataloged CXO source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.0-290014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Cataloged CXO source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.6-290015",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "New transient X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174540.0-290005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Known X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC J174541.0-290014",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Known X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AX J1745.6-2901",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Degenaar et al. 2015, JHEAp, 7, 137",
+        "DeWitt et al. 2010, ApJ, 721, 1663",
+        "Minniti et al. 2010, New Astron., 15, 433",
+        "Muno et al. 2005, ApJ 622, L113",
+        "Muno et al. 2009, ApJ, 181, 110",
+        "Pennucci et al. 2015, ApJ, 808, 81, 15",
+        "Shannon & Johnston 2013, MNRAS, 435, L29"
+    ],
+    "Event Type": null,
+    "Time": "08:59:23",
+    "Date": "2016-02-13",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS-S",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS2209+236",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.125,
+            "Type": "QSO",
+            "Time": "MJD 2456462.940822",
+            "Date": "June 19th, 2013"
+        },
+        {
+            "Name": "1FGLJ 2212.1+2358",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "MJD 2454745.797086",
+            "Date": null
+        }
+    ],
+    "References": "Atel #5130",
+    "Event Type": "optical brightening",
+    "Time": "MJD 2456462.940822",
+    "Date": "June 19th, 2013",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA (NIR camera)",
+    "Observatory": "Guillermo Haro Observatory (Mexico)"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S4 0954+65",
+            "RA": 149.696855,
+            "Dec": 65.565227,
+            "redshift": 0.368,
+            "Type": "Gamma-ray source",
+            "Time": "daily averaged",
+            "Date": "Nov 15th, 2014"
+        }
+    ],
+    "References": [
+        "Johnston et al., 1995, AJ, 110, 880",
+        "Wills et al., 1992, ApJ, 398, 454",
+        "Nolan et al., 2012, ApJS, 199, 31",
+        "Ackermann et al., 2013, ApJS, 209, 34"
+    ],
+    "Event Type": "Gamma-ray activity",
+    "Time": "daily averaged",
+    "Date": "Nov 15th, 2014",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA/DOE"
+}

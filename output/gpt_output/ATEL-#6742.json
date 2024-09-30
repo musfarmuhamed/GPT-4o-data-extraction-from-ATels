@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0736+01",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Photon Counting mode for a net exposure of about 4.4 ksec",
+            "Date": "2014-11-21"
+        }
+    ],
+    "References": "ATel #6731, Kalberla et al. 2005, A&A, 440, 775",
+    "Event Type": "gamma-ray flare",
+    "Time": "4.4 ksec",
+    "Date": "2014-11-21",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

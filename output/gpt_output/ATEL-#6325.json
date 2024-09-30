@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J194955.17+455349.6",
+            "RA": "19h 49m 55.17s",
+            "Dec": "+45d 53m 49.6s",
+            "redshift": null,
+            "Type": "cataclysmic variable, likely a dwarf nova in outburst",
+            "Time": "13:20:19.39",
+            "Date": "2014-07-18"
+        },
+        {
+            "Name": "USNO-B1.0 1358-0337295",
+            "RA": "19h 49m 55.184s",
+            "Dec": "+45d 53m 51.21s",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J194954.8+455347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "faint X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KIC 9358280",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "KIS J194955.17+455350.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J193347.47+442455.5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J185510.67+434138.0",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "KIC 7873220",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J185624.15+400311.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6317, ATel #6228, ATel #6187",
+    "Event Type": "New CV discovery",
+    "Time": "13:20:19.39",
+    "Date": "2014-07-18",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": null
+}

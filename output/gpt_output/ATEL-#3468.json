@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "NA",
+            "Date": "June 28, 2011"
+        },
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "NA",
+            "Date": "June 30, 2011"
+        }
+    ],
+    "References": [
+        "ATel #3459",
+        "ATel #3377",
+        "ATel #3368",
+        "ATel #3462",
+        "Ravasio et al. 2003, A&A, 408, 479"
+    ],
+    "Event Type": "VHE flare",
+    "Time": null,
+    "Date": "June 28, 2011",
+    "Telescope": [
+        "VERITAS",
+        "Swift"
+    ],
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": null
+}

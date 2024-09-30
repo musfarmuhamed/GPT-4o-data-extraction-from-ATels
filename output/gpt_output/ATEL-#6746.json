@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J231823.85+455358.5",
+            "RA": "23h 18m 23.85s",
+            "Dec": "+45d 53m 58.5s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "23h 18m 23.85s",
+            "Date": "2014-11-21.60100 UT"
+        },
+        {
+            "Name": "MASTER OT J070835.05+275326.6",
+            "RA": "07h 08m 35.05s",
+            "Dec": "+27d 53m 26.6s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "07h 08m 35.05s",
+            "Date": "2014-11-22.01006 UT"
+        },
+        {
+            "Name": "MASTER OT J095757.42+084120.3",
+            "RA": "09h 57m 57.42s",
+            "Dec": "+08d 41m 20.3s",
+            "redshift": "unknown",
+            "Type": "PSN",
+            "Time": "09h 57m 57.42s",
+            "Date": "2014-11-24.05660 UT"
+        }
+    ],
+    "References": [
+        "We have reference image without OT on 2011-08-01.75332 UT with unfiltered magnitude limit 19.9m",
+        "We have reference image without OT on 2010-12-06.96181 UT with unfiltered magnitude limit 21.6m",
+        "We have reference image without OT on 2010-03-12.79431 UT with unfiltered magnitude limit 20.2m"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-Tunka, MASTER-Kislovodsk"
+}

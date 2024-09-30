@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2016frp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.027,
+            "Type": "peculiar type Ib supernova",
+            "Time": "Sep.05.7",
+            "Date": "2016"
+        },
+        {
+            "Name": "GALEXASC J002132.53-055728.4",
+            "RA": "00:21:32.53",
+            "Dec": "-05:57:28.4",
+            "redshift": 0.027,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J., 666, 1024",
+    "Event Type": "optical spectrum",
+    "Time": "Sep.05.7",
+    "Date": "2016",
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of NAOC"
+}

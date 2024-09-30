@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ16ajl/AT 2016blw",
+            "RA": "15:25:23.50",
+            "Dec": "-03:34:19.6",
+            "redshift": "0.031",
+            "Type": "Type II SN",
+            "Time": "29.3",
+            "Date": "2016 March 29"
+        },
+        {
+            "Name": "CGCG 021-092",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.032",
+            "Type": "Host Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Baltay et al. 2013, PASP, 125, 683",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Jones et al. \"The 6dF Galaxy Survey Data Release 3\" via NED"
+    ],
+    "Event Type": "Discovery",
+    "Time": "29.3",
+    "Date": "2016 March 29",
+    "Telescope": "LCOGT 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

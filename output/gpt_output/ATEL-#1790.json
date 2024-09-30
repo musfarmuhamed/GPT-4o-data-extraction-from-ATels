@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova in M 31",
+            "RA": "00h43m02.42s",
+            "Dec": "41d14'09.9\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Oct 18.91",
+            "Date": "2008"
+        }
+    ],
+    "References": [
+        "ATel #1602",
+        "ATel #1141",
+        "AJ, 131, 2478 (Massey et al. 2006)"
+    ],
+    "Event Type": "discovery",
+    "Time": "Oct 18.91",
+    "Date": "2008",
+    "Telescope": "1.3m Ritchey Chretien f/7.5",
+    "Instrument": "Andor DZ436-BV CCD Camera",
+    "Observatory": "Skinakas Observatory"
+}

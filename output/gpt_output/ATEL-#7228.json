@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ez",
+            "RA": "08:59:40.20",
+            "Dec": "+15:11:12.5",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-03-15.210",
+            "Date": "2015-03-15"
+        },
+        {
+            "Name": "SDSS J085940.13+151113.6",
+            "RA": "08:59:40.13",
+            "Dec": "+15:11:13.6",
+            "redshift": "0.028724",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage, list of all ASAS-SN transients",
+    "Event Type": "discovery",
+    "Time": "2015-03-15.210",
+    "Date": "2015-03-15",
+    "Telescope": "RCOS 41-cm telescope, 0.5m CDK + FLI PL-9000",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii; Siding Springs Observatory"
+}

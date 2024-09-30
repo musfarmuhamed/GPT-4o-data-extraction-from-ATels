@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16eej",
+            "RA": "23:52:16.97",
+            "Dec": "-22:45:19.86",
+            "redshift": 0.049,
+            "Type": "Ia",
+            "Time": "-4d",
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "PS16fno",
+            "RA": "04:10:48.93",
+            "Dec": "+05:28:21.70",
+            "redshift": 0.032,
+            "Type": "Ib",
+            "Time": "+30d",
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "PS16fnp",
+            "RA": "04:25:20.08",
+            "Dec": "+02:03:11.80",
+            "redshift": 0.079,
+            "Type": "Ia",
+            "Time": "+4d",
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "PS16fnr",
+            "RA": "04:31:01.94",
+            "Dec": "+04:28:33.30",
+            "redshift": 0.147,
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "PS16fnb",
+            "RA": "09:08:43.10",
+            "Dec": "+18:21:30.20",
+            "redshift": 0.18,
+            "Type": "Ia",
+            "Time": "+20d",
+            "Date": "2017-01-03"
+        },
+        {
+            "Name": "PS16fmo",
+            "RA": "09:36:56.73",
+            "Dec": "-25:55:38.90",
+            "redshift": 0.0,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2017-01-03"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2017-01-03",
+    "Telescope": "Southern Astrophysical Research (SOAR)",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

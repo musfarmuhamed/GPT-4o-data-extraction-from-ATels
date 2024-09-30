@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 0142+61",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J02097+5222",
+            "RA": "02 09 45.6",
+            "Dec": "55 22 48.0",
+            "redshift": null,
+            "Type": "INTEGRAL Hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1E 0206.3+5212",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0492",
+            "Type": "Seyfert-1 galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1ES 0033+595",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.086",
+            "Type": "BL Lac type object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "QSO B0241+622 (1E 0241.0+6215)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0446",
+            "Type": "Seyfert-1 galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Costamante et al., 2001, A&A 371, 512",
+        "Perlman et al., 2005, ApJ 625, 727"
+    ],
+    "Event Type": "Astronomical Observation",
+    "Time": null,
+    "Date": "2005 June 29 to July 16",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS ISGRI",
+    "Observatory": null
+}

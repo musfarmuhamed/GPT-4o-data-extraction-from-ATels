@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGL J1018.6-5856",
+            "RA": "10h 18m 55.54s",
+            "Dec": "-58\u00b0 56' 45.9\"",
+            "redshift": null,
+            "Type": "gamma-ray binary",
+            "Time": null,
+            "Date": "September 2009 - February 2011"
+        },
+        {
+            "Name": "Star within DSS2 image",
+            "RA": "10h 18m 55.6s",
+            "Dec": "-58\u00b0 56' 46.2\"",
+            "redshift": null,
+            "Type": "O6V((f))",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Abdo et al., 2010, ApJS, 188, 405",
+    "Event Type": "gamma-ray periodic modulation",
+    "Time": "16.58 \u00b1 0.04 days period; Epoch of max flux: MJD 55403.3 \u00b1 0.4",
+    "Date": "MJD 54682 to 55627",
+    "Telescope": "SAAO 1.9m",
+    "Instrument": null,
+    "Observatory": null
+}

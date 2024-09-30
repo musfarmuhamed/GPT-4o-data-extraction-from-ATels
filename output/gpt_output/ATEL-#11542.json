@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "12h56m11.1665s",
+            "Dec": "-05d47m21.523s",
+            "redshift": "0.5362",
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": "18:00-24:00 UTC",
+            "Date": "April 16"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS, 218, 23",
+        "Johnston et al. 1995, AJ, 110, 880",
+        "Marziani et al. 1996, ApJS, 104, 37",
+        "ATel #7633",
+        "ATel#11189",
+        "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/msl_lc/source/3C_279"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "18:00-24:00 UTC",
+    "Date": "April 16",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

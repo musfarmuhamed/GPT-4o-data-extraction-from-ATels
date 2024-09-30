@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0447-439",
+            "RA": "04h49m24.88s",
+            "Dec": "-43d50'09.7s",
+            "redshift": "0.107, ~0.2, 0.176 (lower limit), 0.20",
+            "Type": "gamma-ray source",
+            "Time": "J=12.82+-0.04 (Sep. 2011), J=12.28+-0.01 (Dec. 18 2011), 0.10 Jy (2011Sep13), 0.14 Jy (2011Nov08)",
+            "Date": "Sep. 2011, Dec. 18 2011, 2011Sep13, 2011Nov08"
+        }
+    ],
+    "References": "Ojha et al. 2010, A&A, 519, 45; Healey et al. 2007 ApJS, 171, 61; Abdo et al. 2010, ApJS, 188, 405; Zech et al. 2011, arXiv:1105.0840; Craig & Fruscione 1997, AJ, 114, 4; Perlman et al. 1998, ApJ, 115, 1253; Landt & Bignall 2008, MNRAS, 391, 967; Prandini et al. 2011, arXiv1110.4038",
+    "Event Type": "rising NIR and millimeter emission",
+    "Time": "J=12.82+-0.04 (Sep. 2011), J=12.28+-0.01 (Dec. 18 2011), 0.10 Jy (2011Sep13), 0.14 Jy (2011Nov08)",
+    "Date": "Sep. 2011, Dec. 18 2011, 2011Sep13, 2011Nov08",
+    "Telescope": [
+        "REM",
+        "ATCA"
+    ],
+    "Instrument": "JHK bands, Snapshot observations",
+    "Observatory": [
+        "REM",
+        "Australia Telescope Compact Array"
+    ]
+}

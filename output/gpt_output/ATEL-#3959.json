@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMU J004243.6+412519",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ULX",
+            "Time": [
+                "2012-02-19.03 UT",
+                "2012-02-23.78 UT",
+                "2012-03-02.20 UT",
+                "2012-03-03.01 UT",
+                "2012-03-04.20 UT"
+            ],
+            "Date": [
+                "2012-02-19",
+                "2012-02-23",
+                "2012-03-02",
+                "2012-03-03",
+                "2012-03-04"
+            ]
+        },
+        {
+            "Name": "CXOM31 J004253.1+411422",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ULX",
+            "Time": null,
+            "Date": "2009-12-01"
+        }
+    ],
+    "References": [
+        "ATel #3890",
+        "ATel #3921",
+        "ATel #3937",
+        "Kaur et al. 2012, A&A, 538A, 49K",
+        "Middleton et al. 2012, MNRAS, 420, 2969",
+        "Poole et al. 2008, MNRAS, 383, 627"
+    ],
+    "Event Type": "ToO observations",
+    "Time": [
+        "2012-02-19.03 UT",
+        "2012-02-23.78 UT",
+        "2012-03-02.20 UT",
+        "2012-03-03.01 UT",
+        "2012-03-04.20 UT"
+    ],
+    "Date": [
+        "2012-02-19",
+        "2012-02-23",
+        "2012-03-02",
+        "2012-03-03",
+        "2012-03-04"
+    ],
+    "Telescope": "X-ray telescope (XRT)",
+    "Instrument": null,
+    "Observatory": "Swift satellite"
+}

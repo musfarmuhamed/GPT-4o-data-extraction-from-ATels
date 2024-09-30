@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J2103.5+4545",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Binary System",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGS 03588-00834",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Counterpart",
+            "Time": [
+                "01:49:26.400",
+                "04:30:43.200"
+            ],
+            "Date": [
+                "2013-09-11",
+                "2014-04-05"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #4187",
+        "ATels #4068",
+        "ATel #6019",
+        "ATel #6154"
+    ],
+    "Event Type": "Multiwavelength Observations",
+    "Time": [
+        "01:49:26.400",
+        "04:30:43.200",
+        "22:43:40.800",
+        "03:50:24.000"
+    ],
+    "Date": [
+        "2013-09-11",
+        "2014-04-05",
+        "2013-09-19",
+        "2014-06-05"
+    ],
+    "Telescope": [
+        "1.5-m TCS",
+        "80-cm IAC80",
+        "51 cm telescope",
+        "Swift/BAT",
+        "INTEGRAL IBIS/ISGRI",
+        "Fermi/GBM"
+    ],
+    "Instrument": [
+        "spectrograph"
+    ],
+    "Observatory": [
+        "Observatorio del Teide",
+        "Observatorio de Aras de los Olmos (University of Valencia)"
+    ]
+}

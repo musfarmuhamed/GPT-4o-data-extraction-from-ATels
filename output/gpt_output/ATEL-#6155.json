@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1808.4-1754",
+            "RA": "272.10475",
+            "Dec": "-17.89701",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "03:37:10.774",
+            "Date": "2014 May 19"
+        },
+        {
+            "Name": "2MASS 18082507-1753482",
+            "RA": "272.10446",
+            "Dec": "-17.896723",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Krimm et al, ATel #6138",
+        "Goad et al., 2007, A&A, 476, 1401",
+        "Evans et al., 2009, MNRAS, 397, 1177",
+        "Krimm et al, 2011, ApJ 735, 104",
+        "Krimm et al, 2013, ApJSS 209, 14",
+        "Krimm 2013"
+    ],
+    "Event Type": "Observation",
+    "Time": "03:37:10.774",
+    "Date": "2014 May 19",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

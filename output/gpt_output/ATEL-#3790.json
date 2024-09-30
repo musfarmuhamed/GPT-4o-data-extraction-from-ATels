@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1836-194",
+            "RA": "18h35m43.44555s",
+            "Dec": "-19d19'10.4921\"",
+            "redshift": null,
+            "Type": "Galactic stellar-mass black hole",
+            "Time": "5 GHz",
+            "Date": "2011 October 17"
+        }
+    ],
+    "References": [
+        "ATel #3611",
+        "#3613",
+        "#3628",
+        "#3652",
+        "#3689"
+    ],
+    "Event Type": "detection",
+    "Time": "real-time",
+    "Date": "2011 October 17",
+    "Telescope": "European VLBI Network",
+    "Instrument": "e-VLBI",
+    "Observatory": "European Observatory"
+}

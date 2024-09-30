@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "very-high-energy peaked BL Lac object",
+            "Time": "04:30-05:20 UTC",
+            "Date": "2016-04-29"
+        },
+        {
+            "Name": "1ES 1959+650",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "very-high-energy peaked BL Lac object",
+            "Time": "4:10-5:10 UTC",
+            "Date": "2016-04-29"
+        },
+        {
+            "Name": "1ES 1959+650",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "very-high-energy peaked BL Lac object",
+            "Time": "09:42-11:29 UTC",
+            "Date": "2016-04-29"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS 218, 23",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Schachter et al. 1993, ApJ, 412, 541",
+        "Albert et al. 2006 ApJ, 639, 761",
+        "Aliu et al. 2014, ApJ, 797, 89",
+        "ATel #8148",
+        "ATel #8193",
+        "ATel #8468"
+    ],
+    "Event Type": "detection of enhanced gamma-ray activity",
+    "Time": "Various (04:30-05:20 UTC, 4:10-5:10 UTC, 09:42-11:29 UTC)",
+    "Date": "2016-04-29",
+    "Telescope": [
+        "Fermi-LAT",
+        "FACT",
+        "MAGIC",
+        "VERITAS"
+    ],
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

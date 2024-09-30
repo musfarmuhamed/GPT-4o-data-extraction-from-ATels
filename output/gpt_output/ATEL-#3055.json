@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "FSRQ",
+            "Time": "16:45 UT - 04:30 UT",
+            "Date": "21 Nov, 2010 - 24 Nov, 2010"
+        }
+    ],
+    "References": [
+        "ATel #3034",
+        "ATel #3041",
+        "ATel #3043",
+        "ATel #3049",
+        "Pian et al. 2005, A&A, 449, L21"
+    ],
+    "Event Type": "gamma-ray activity",
+    "Time": "16:45 UT - 04:30 UT",
+    "Date": "21 Nov, 2010 - 24 Nov, 2010",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL satellite"
+}

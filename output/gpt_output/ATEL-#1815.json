@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOM31 J004243.8+411612",
+            "RA": "00:42:43.80",
+            "Dec": "+41:16:12.54",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-10-13.15"
+        },
+        {
+            "Name": "CXOM31 J004243.9+411610",
+            "RA": "00:42:43.93",
+            "Dec": "+41:16:10.59",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-10-13.15"
+        },
+        {
+            "Name": "M31GC J004234+405709 (Bol 117)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2008-10-13.15"
+        }
+    ],
+    "References": [
+        "Henze et al. 2008, ATel #1806",
+        "Williams et al. 2006, ApJ 643, 356"
+    ],
+    "Event Type": "Discovery of X-ray sources",
+    "Time": null,
+    "Date": "2008-10-13.15",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS",
+    "Observatory": null
+}

@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HR Lyr",
+            "RA": null,
+            "Dec": "+50",
+            "redshift": null,
+            "Type": "Old nova",
+            "Time": "Aug 25.94 UT",
+            "Date": "Aug 26.93 UT"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Honeycutt et al",
+            "Year": 2014,
+            "Journal": "AJ 147, 105"
+        },
+        {
+            "Author": "Landolt",
+            "Year": 2013,
+            "Journal": "AJ 146, 131"
+        },
+        {
+            "Author": "Bruch",
+            "Year": 1984,
+            "Journal": "A&AS 56, 441"
+        },
+        {
+            "Author": "Humason",
+            "Year": 1938,
+            "Journal": "ApJ 88, 228"
+        },
+        {
+            "Author": "Kraft",
+            "Year": 1964,
+            "Journal": "ApJ 139, 457"
+        },
+        {
+            "Author": "Williams",
+            "Year": 1983,
+            "Journal": "ApJS 53, 523"
+        }
+    ],
+    "Event Type": "Excursion down to V~17 of old nova",
+    "Time": "Aug 24",
+    "Date": null,
+    "Telescope": "Asiago Schmidt 67/92cm telescope, Asiago 1.22m telescope",
+    "Instrument": null,
+    "Observatory": "Asiago"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18ag/AT2018ds",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018 Jan 11"
+        },
+        {
+            "Name": "ASASSN-18aj/AT2018dx",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.053 +/- 0.004",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018 Jan 11"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "optical spectroscopic observation",
+    "Time": null,
+    "Date": "2018 Jan 11",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

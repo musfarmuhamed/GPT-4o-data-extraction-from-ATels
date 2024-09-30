@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2013 RH74",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Potentially Hazardous Asteroid (PHA)",
+            "Time": null,
+            "Date": "2013-09-15"
+        }
+    ],
+    "References": [
+        "MPEC 2013-S15",
+        "http://echo.jpl.nasa.gov/asteroids/index.html",
+        "Bus & Binzel 2002",
+        "SMASS II database",
+        "[[Figure 1] and Table 2]",
+        "[[Figure 2]]",
+        "[[Figure 3]]",
+        "[[Figure 4]]"
+    ],
+    "Event Type": "Discovery and photometry",
+    "Time": null,
+    "Date": [
+        "2013-10-12",
+        "2013-10-13",
+        "2013-10-15",
+        "2013-10-16",
+        "2013-10-17",
+        "2013-10-18"
+    ],
+    "Telescope": "JPL Table Mountain 0.6-m telescope (TMO)",
+    "Instrument": "Bessel BVRI photometry",
+    "Observatory": "Jet Propulsion Laboratory"
+}

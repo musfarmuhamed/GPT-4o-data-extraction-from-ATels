@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18gs/2018apn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.039,
+            "Type": "Ia",
+            "Time": "3-7 days post max.",
+            "Date": "2018-04-10.41"
+        },
+        {
+            "Name": "ASASSN-18gu/2018aqa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0288,
+            "Type": "Ia",
+            "Time": "Week after max.",
+            "Date": "2018-04-10.25"
+        },
+        {
+            "Name": "ASASSN-18gz/2018aqe",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0446,
+            "Type": "Ia",
+            "Time": "Near max.",
+            "Date": "2018-04-10.34"
+        }
+    ],
+    "References": null,
+    "Event Type": "optical spectroscopic observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m telescope",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

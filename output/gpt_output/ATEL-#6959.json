@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15bf",
+            "RA": "04:38:41.10",
+            "Dec": "-41:37:26.21",
+            "redshift": "0.048527",
+            "Type": "supernova",
+            "Time": "2015-01-19.12",
+            "Date": "2015-01-19"
+        },
+        {
+            "Name": "2MASX J04384102-4137212",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.048527",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NED",
+        "Mt. Cuba Astronomical Foundation",
+        "ASAS-SN Homepage"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-01-19.12",
+    "Date": "2015-01-19",
+    "Telescope": [
+        "Cassius telescope",
+        "RCOS 51-cm telescope",
+        "LCOGT 1-m robotic telescope"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "Cerro Tololo",
+        "New Mexico",
+        "Sutherland, South Africa"
+    ]
+}

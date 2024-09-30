@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16av (AT 2016ac)",
+            "RA": "11:51:28.20",
+            "Dec": "+22:01:34.90",
+            "redshift": "0.025668",
+            "Type": "Type Ia Supernova",
+            "Time": "2016-01-18.44",
+            "Date": "2016-01-18"
+        },
+        {
+            "Name": "NGC 3926 NED02",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.025668",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Mt. Cuba Astronomical Foundation",
+        "George Skestos",
+        "Robert Martin Ayers Sciences Fund",
+        "Blondin & Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2016-01-18.44",
+    "Date": "2016-01-18",
+    "Telescope": "LT 2.0m",
+    "Instrument": "SPRAT",
+    "Observatory": "Haleakala, Hawaii"
+}

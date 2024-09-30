@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1329-049",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.15,
+            "Type": "high-redshift blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J1331.9-0506",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J1331.9-0506",
+            "RA": null,
+            "Dec": null,
+            "redshift": 2.15,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "Title": "Detection of GeV Flare from PKS 1329-049",
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Thompson et al. 1990, PASP, 102, 1235",
+        "ATel #2728",
+        "Kalberla et al. 2005"
+    ],
+    "Event Type": "GeV flare detection",
+    "Time": null,
+    "Date": "July 07, 2010",
+    "Telescope": "Swift",
+    "Instrument": "Swift/XRT, Swift/UVOT",
+    "Observatory": "Swift"
+}

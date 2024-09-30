@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Fermi J1717-5156",
+            "RA": "17:17:34.47",
+            "Dec": "-51:55:31.5",
+            "redshift": "Null",
+            "Type": "gamma-ray blazar",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Source 1 (part of Fermi J1717-5156)",
+            "RA": "17:17:26.80",
+            "Dec": "-51:56:52.8",
+            "redshift": "Null",
+            "Type": "X-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Source 2 (part of Fermi J1717-5156)",
+            "RA": "17:17:24.82",
+            "Dec": "-51:57:45.9",
+            "redshift": "Null",
+            "Type": "X-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Source 3 (part of Fermi J1717-5156)",
+            "RA": "17:17:28.16",
+            "Dec": "-51:58:27.1",
+            "redshift": "Null",
+            "Type": "X-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "WISE J171734.65-515532.0",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "IR source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "PMN J1717-5155",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "radio source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Swift XRT primary counterpart",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "X-ray source",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Swift UVOT primary counterpart",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "UV source",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "Atel #4023, Atel #4029, Sambruna et al. (2010)",
+    "Event Type": "gamma-ray transient",
+    "Time": "Null",
+    "Date": "2012-04-09 to 2012-04-13",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

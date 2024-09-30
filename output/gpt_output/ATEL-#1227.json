@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1810.8-2609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star LMXB",
+            "Time": "06:01",
+            "Date": "2007-09-21"
+        },
+        {
+            "Name": "SAX J1810.8-2609",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron-star LMXB",
+            "Time": "19:53:06",
+            "Date": "2007-09-24"
+        }
+    ],
+    "References": [
+        "ATel#1175",
+        "ATel#1185",
+        "Kuulkers et al. 2007, A&A 466, 595",
+        "Titarchuk 1994"
+    ],
+    "Event Type": "X-ray activity and X-ray burst",
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI, JEM-X1",
+    "Observatory": null
+}

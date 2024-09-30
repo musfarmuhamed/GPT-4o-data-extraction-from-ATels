@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ZTF18abajlni",
+            "RA": "20:32:32.12",
+            "Dec": "+58:09:28.76",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-07-03"
+        },
+        {
+            "Name": "ZTF18aaytovs",
+            "RA": "17:45:53.40",
+            "Dec": "+31:42:38.02",
+            "redshift": "0.076",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        },
+        {
+            "Name": "ZTF18abbqjds",
+            "RA": "14:45:24.54",
+            "Dec": "+78:17:04.99",
+            "redshift": "0.1",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-08"
+        },
+        {
+            "Name": "ZTF18abclfee",
+            "RA": "17:14:22.20",
+            "Dec": "+48:15:51.75",
+            "redshift": "0.03",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-08"
+        },
+        {
+            "Name": "ZTF18aawrmhl",
+            "RA": "19:45:27.72",
+            "Dec": "+44:29:56.22",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-07-03"
+        },
+        {
+            "Name": "ZTF18abckxfb",
+            "RA": "17:49:21.7",
+            "Dec": "+19:44:22.8",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "2018-07-03"
+        },
+        {
+            "Name": "ZTF18abdfazk",
+            "RA": "14:27:55.2",
+            "Dec": "+40:58:27.64",
+            "redshift": "0.087",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        },
+        {
+            "Name": "ZTF18abdfaqi",
+            "RA": "14:53:58.32",
+            "Dec": "+26:00:07.09",
+            "redshift": "0.048",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        },
+        {
+            "Name": "ZTF18abdhsfc",
+            "RA": "17:11:40.35",
+            "Dec": "+79:38:37.34",
+            "redshift": "0.067",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        },
+        {
+            "Name": "ZTF18abcysdx",
+            "RA": "18:11:57.33",
+            "Dec": "+30:02:43.49",
+            "redshift": "0.067",
+            "Type": "SN Ia",
+            "Time": null,
+            "Date": "2018-07-09"
+        }
+    ],
+    "References": "Blagorodnova et. al. 2018, PASP, 130, 5003; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "Palomar Observatory"
+}

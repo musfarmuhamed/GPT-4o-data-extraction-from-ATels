@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016ggg",
+            "RA": "23:56:32.55",
+            "Dec": "-31:01:23.8",
+            "redshift": "0.061599",
+            "Type": "Possible AGN",
+            "Time": "57616.53",
+            "Date": "20160816.53"
+        },
+        {
+            "Name": "AT2016csy",
+            "RA": "01:31:57.59",
+            "Dec": "-33:38:38.8",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "57616.61",
+            "Date": "20160816.61"
+        },
+        {
+            "Name": "AT2016ggd",
+            "RA": "01:12:32.46",
+            "Dec": "-17:27:18.2",
+            "redshift": "0.044744",
+            "Type": "Transient",
+            "Time": "57639.52",
+            "Date": "20160908.52"
+        },
+        {
+            "Name": "AT2016ctb",
+            "RA": "17:06:09.09",
+            "Dec": "-23:43:18.7",
+            "redshift": null,
+            "Type": "High amplitude stellar variable",
+            "Time": "57643.26",
+            "Date": "20160912.26"
+        },
+        {
+            "Name": "AT2016ggf",
+            "RA": "01:50:57.04",
+            "Dec": "-22:46:01.8",
+            "redshift": null,
+            "Type": "Hostless",
+            "Time": "57643.55",
+            "Date": "20160912.55"
+        },
+        {
+            "Name": "AT2016ggi",
+            "RA": "02:04:14.84",
+            "Dec": "-08:08:28.7",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "57643.56",
+            "Date": "20160912.56"
+        },
+        {
+            "Name": "AT2016ggk",
+            "RA": "02:23:53.42",
+            "Dec": "-33:54:31.2",
+            "redshift": null,
+            "Type": "Possible faint host",
+            "Time": "57643.60",
+            "Date": "20160912.60"
+        }
+    ],
+    "References": "Tonry et al. ATel #8680",
+    "Event Type": "Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ATLAS",
+    "Instrument": null,
+    "Observatory": "Haleakala and Mauna Loa"
+}

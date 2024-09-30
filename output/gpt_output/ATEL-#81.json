@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1650-500",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galactic black hole candidate",
+            "Time": "Fall-Winter 2001",
+            "Date": null
+        }
+    ],
+    "References": "Remillard (2001, IAU Circ. 7707), Augusteijn, Coe, & Groot 2001, IAU Circ. 7710",
+    "Event Type": "Observation",
+    "Time": [
+        null,
+        "30 ksec"
+    ],
+    "Date": "Fall-Winter 2001",
+    "Telescope": [
+        "Rossi X-ray Timing Explorer (RXTE)",
+        "Chandra"
+    ],
+    "Instrument": [
+        "Proportional Counter Array (PCA)",
+        "High Energy Transmission Grating Spectrometer (HETGS)"
+    ],
+    "Observatory": null
+}

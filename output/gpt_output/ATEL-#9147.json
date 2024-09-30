@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fp",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broad-lined Type Ic SN",
+            "Time": [
+                "5.92",
+                "6.92",
+                "7.92"
+            ],
+            "Date": "June 2016"
+        },
+        {
+            "Name": "SN 2002ap",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "prototypical broad-lined",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9086",
+        "ATel #9090",
+        "ATel #9124",
+        "ATel #9134",
+        "ATel #9128"
+    ],
+    "Event Type": "radio detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "electronic Multi-Element Remotely-Linked Interferometer Network (e-MERLIN)",
+    "Instrument": "e-MERLIN",
+    "Observatory": null
+}

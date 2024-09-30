@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XMMM31 J004224.5+412401",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary candidate",
+            "Time": "2008-10-15.15",
+            "Date": "2008-10-15"
+        },
+        {
+            "Name": "XMMM31 J004224.5+412401",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary candidate",
+            "Time": "2008-10-21.63",
+            "Date": "2008-10-21"
+        },
+        {
+            "Name": "XMMM31 J004205.8+411329",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent transient",
+            "Time": "2008-10-21.63",
+            "Date": "2008-10-21"
+        },
+        {
+            "Name": "XMMU J004245.9+411036",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2008-10-21.63",
+            "Date": "2008-10-21"
+        },
+        {
+            "Name": "SWIFT J004320.5+411528",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #1647",
+        "ATels #1674",
+        "ATel #1805"
+    ],
+    "Event Type": "X-ray transient outbursts and luminosity evolution",
+    "Time": null,
+    "Date": "2008-10-15 to 2008-10-21",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": "Swift Observatory"
+}

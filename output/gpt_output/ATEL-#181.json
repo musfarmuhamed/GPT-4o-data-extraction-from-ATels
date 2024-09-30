@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17391-3021",
+            "RA": "17h39.1m",
+            "Dec": "-30o21.5'",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1739-302",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Smith et al. 1998, ApJ, 501, L181",
+    "Event Type": "detection of a possible new transient source / outburst",
+    "Time": [
+        "Aug 26, 2003 UT18:49",
+        "Aug 27, 2003 UT00:44"
+    ],
+    "Date": [
+        "Aug 26, 2003",
+        "Aug 27, 2003"
+    ],
+    "Telescope": null,
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL"
+}

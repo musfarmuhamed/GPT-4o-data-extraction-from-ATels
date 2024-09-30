@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017cal",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021,
+            "Type": "Type Ia Supernova",
+            "Time": "Mar.09.9",
+            "Date": 2017
+        },
+        {
+            "Name": "ASASSN-17dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.021,
+            "Type": "Type Ia Supernova",
+            "Time": "Mar.09.9",
+            "Date": 2017
+        }
+    ],
+    "References": [
+        "ATEL 10156",
+        "Blondin and Tonry 2007, Ap.J., 666, 1024"
+    ],
+    "Event Type": "Observation",
+    "Time": "Mar.09.9",
+    "Date": 2017,
+    "Telescope": "2.16-m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Station of National Astronomical Observatories of China (NAOC)"
+}

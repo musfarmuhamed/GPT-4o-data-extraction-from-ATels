@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01217-7257",
+            "RA": "20.4379",
+            "Dec": "-72.9577",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "28-30 October 2015"
+        },
+        {
+            "Name": "IGR J01217-7257",
+            "RA": "20.42130",
+            "Dec": "-72.95853",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "3 November 2015"
+        },
+        {
+            "Name": "SMC732.03.3540",
+            "RA": "20.42130",
+            "Dec": "-72.95853",
+            "redshift": null,
+            "Type": "optical candidate",
+            "Time": null,
+            "Date": "3 November 2015"
+        }
+    ],
+    "References": "Coe et al ATel #5806",
+    "Event Type": "detection of transient source",
+    "Time": null,
+    "Date": "28-30 October 2015",
+    "Telescope": "INTEGRAL, Swift",
+    "Instrument": "IBIS, JEM-X",
+    "Observatory": null
+}

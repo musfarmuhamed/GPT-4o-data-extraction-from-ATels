@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "host galaxy of SN 1999dd",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.064",
+            "Type": "type I AGN",
+            "Time": "UT",
+            "Date": "August 1, 2005"
+        },
+        {
+            "Name": "SN 1999de",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.65",
+            "Type": "type I AGN",
+            "Time": "UT",
+            "Date": "August 1, 2005"
+        },
+        {
+            "Name": "nearby galaxy (for SN 1999de)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.384",
+            "Type": null,
+            "Time": "UT",
+            "Date": "August 1, 2005"
+        }
+    ],
+    "References": [
+        "Gal-Yam & Maoz 1999; IAUC # 7227",
+        "Gal-Yam et al. 2003, AJ, 125, 1087"
+    ],
+    "Event Type": "obtained spectrum",
+    "Time": "UT",
+    "Date": "August 1, 2005",
+    "Telescope": "Keck I 10m telescope",
+    "Instrument": "LRIS spectrograph",
+    "Observatory": "WMKO, Hawaii"
+}

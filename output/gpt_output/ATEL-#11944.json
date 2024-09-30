@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18rn",
+            "RA": "21:48:38.453",
+            "Dec": "-43:22:48.43",
+            "redshift": "0.07389",
+            "Type": "supernova",
+            "Time": "08:51 PM",
+            "Date": "2018-08-08"
+        },
+        {
+            "Name": "2MASS J21483845-4322470",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.07389",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014",
+    "Event Type": "transient discovery",
+    "Time": "08:51 PM",
+    "Date": "2018-08-08",
+    "Telescope": "Payne-Gaposchkin",
+    "Instrument": null,
+    "Observatory": "Sutherland, South Africa"
+}

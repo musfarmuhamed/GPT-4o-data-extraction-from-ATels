@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17ky",
+            "RA": "16:23:11.76",
+            "Dec": "+01:45:17.6",
+            "redshift": "0.03",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Gaia17cbx",
+            "RA": "17:42:50.83",
+            "Dec": "-52:22:42.2",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "ATLAS17jnd",
+            "RA": "00:20:51.48",
+            "Dec": "-15:31:13.0",
+            "redshift": "0.061",
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "Null"
+        },
+        {
+            "Name": "PS17eai",
+            "RA": "01:17:34.47",
+            "Dec": "-25:46:32.2",
+            "redshift": "0.060",
+            "Type": "Ia",
+            "Time": ">20d",
+            "Date": "Null"
+        },
+        {
+            "Name": "PS17eam",
+            "RA": "01:47:13.68",
+            "Dec": "-28:09:14.0",
+            "redshift": "0.058",
+            "Type": "Ia",
+            "Time": "+10d",
+            "Date": "Null"
+        },
+        {
+            "Name": "ATLAS17jce",
+            "RA": "00:39:42.87",
+            "Dec": "+23:16:35.4",
+            "redshift": "0.057",
+            "Type": "Ia",
+            "Time": "+11d",
+            "Date": "Null"
+        },
+        {
+            "Name": "PS17edj",
+            "RA": "02:30:45.31",
+            "Dec": "-45:07:02.0",
+            "redshift": "0.143",
+            "Type": "AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Gaia17cbp",
+            "RA": "06:46:45.02",
+            "Dec": "-27:14:55.8",
+            "redshift": "0.09",
+            "Type": "SLSN-I",
+            "Time": "pre-max",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2017-08-18",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

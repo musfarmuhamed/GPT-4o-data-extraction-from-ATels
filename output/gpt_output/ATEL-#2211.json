@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "12.13 UT",
+            "Date": "Feb 12, 2009"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "20.95 UT",
+            "Date": "Mar 20, 2009"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "16.90 UT",
+            "Date": "Apr 16, 2009"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "19.89 UT",
+            "Date": "Apr 19, 2009"
+        },
+        {
+            "Name": "V838 Mon",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary",
+            "Time": "14.20 UT",
+            "Date": "Sep 14, 2009"
+        }
+    ],
+    "References": [
+        "Goranskij et al. 2008, arXiv:0810.1887",
+        "ATel #1821",
+        "Munari et al. 2007, A&A, 474, 585",
+        "Kolka and Kipper 2007, ASP Conf. Ser., 363, 235"
+    ],
+    "Event Type": "brightness measurements",
+    "Time": null,
+    "Date": "2009",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": [
+        "ALFOSC",
+        "MOSCA"
+    ],
+    "Observatory": "La Palma"
+}

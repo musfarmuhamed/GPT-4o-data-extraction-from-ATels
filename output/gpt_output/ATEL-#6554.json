@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J095321.02+202721.2",
+            "RA": "09h 53m 21.02s",
+            "Dec": "+20d 27m 21.2s",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:01:34.15200",
+            "Date": "2014-10-08"
+        },
+        {
+            "Name": "2MASX J09532220+2026551",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0200",
+            "Type": "starburst galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J095322.22+202654.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0200",
+            "Type": "starburst galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "reference image without OT on 2014-03-24",
+    "Event Type": "OT",
+    "Time": "00:20:00.69888",
+    "Date": "2014-03-24",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

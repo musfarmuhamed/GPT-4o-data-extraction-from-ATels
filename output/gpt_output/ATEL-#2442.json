@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "U Sco",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": "2010-02-16 to 2010-02-14"
+        },
+        {
+            "Name": "nova V5116 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #2419",
+        "ATEL #2430",
+        "IAUC #9111",
+        "Sala et al. 2008 ApJ 675, L93",
+        "Thoroughgood et al. 2001, MNRAS 327, 1323",
+        "Schaefer 2009, ApJS in press, arXiv:0912.4426"
+    ],
+    "Event Type": "outburst",
+    "Time": "2010-02-16 to 2010-02-14",
+    "Date": "2010-02-16 to 2010-02-14",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT",
+        "uv grism"
+    ],
+    "Observatory": "Swift Observatory"
+}

@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0346-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "U=15.65 +-0.01 mag with a count-rate of 0.0704 +-0.0062 c/s in the 0.2-10 keV range",
+            "Date": "2018-03-19"
+        },
+        {
+            "Name": "PKS 0346-27",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "U=17.53+-0.04",
+            "Date": "2009-03-29"
+        }
+    ],
+    "References": [
+        {
+            "Angioni et al.": "ATel #11251"
+        },
+        {
+            "Nesci": "ATel #11269"
+        },
+        {
+            "Vallely et al.": "ATel #11337"
+        },
+        {
+            "Drake, A.J. et al.": "2009, ApJ, 696, 870"
+        }
+    ],
+    "Event Type": "Strong Gamma-ray flare",
+    "Time": null,
+    "Date": "2018-02-02",
+    "Telescope": "REM, Swift-XRT, UVOT",
+    "Instrument": null,
+    "Observatory": "Space Science Data Center - ASI"
+}

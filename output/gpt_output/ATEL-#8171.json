@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PGC143111",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0572,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": "2015-10-14"
+        },
+        {
+            "Name": "2MASX J00000895-3341350",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2015-10-14"
+        }
+    ],
+    "References": "Popova et al. (ATel #8166)",
+    "Event Type": "Observation",
+    "Time": "between 14.74 and 14.77 UT",
+    "Date": "2015-10-14",
+    "Telescope": "Swift",
+    "Instrument": "XRT and UVOT",
+    "Observatory": null
+}

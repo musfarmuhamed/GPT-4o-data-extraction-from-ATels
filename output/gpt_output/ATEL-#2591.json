@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0537-441",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.894,
+            "Type": "BL Lac",
+            "Time": "6 hr",
+            "Date": "27th April 2010"
+        },
+        {
+            "Name": "PKS 0301-243",
+            "RA": "03h03m26.50s",
+            "Dec": "-24d07m11.3s",
+            "redshift": 0.26,
+            "Type": "BL Lac",
+            "Time": "6 hr",
+            "Date": "28th April 2010"
+        }
+    ],
+    "References": [
+        "Peterson et al. 1976, ApJ, 207, L5",
+        "Healey et al., 2007 ApJS, 171, 61",
+        "Falomo et al 1993 AJ, 106, 11",
+        "ATEL #1759",
+        "ATEL #2124",
+        "arXiv:1002.2280v1"
+    ],
+    "Event Type": "Gamma-ray activity",
+    "Time": "27th and 28th April 2010",
+    "Date": "27th and 28th April 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": null
+}

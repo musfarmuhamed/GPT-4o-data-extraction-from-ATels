@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gz",
+            "RA": "04:34:27.549",
+            "Dec": "-21:12:55.11",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-07-06.42",
+            "Date": "2016-07-06"
+        },
+        {
+            "Name": "APMUKS(BJ) B043218.28-211910.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16ha",
+            "RA": "01:03:30.273",
+            "Dec": "-47:01:27.58",
+            "redshift": "0.022529",
+            "Type": "supernova",
+            "Time": "2016-07-07.37",
+            "Date": "2016-07-07"
+        },
+        {
+            "Name": "Fairall 0673",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.022529",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, Mt. Cuba Astronomical Foundation, George Skestos, Robert Martin Ayers Sciences Fund",
+    "Event Type": "discovery of supernovae",
+    "Time": "2016-07-06.42",
+    "Date": "2016-07-06",
+    "Telescope": "14-cm \"Cassius\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

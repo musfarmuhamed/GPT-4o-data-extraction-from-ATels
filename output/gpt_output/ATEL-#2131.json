@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M82",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "54993.26 UT",
+            "Date": "June 11 2009"
+        },
+        {
+            "Name": "SN 2008iz",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II (Potentially IIn/II-L or IIb)",
+            "Time": null,
+            "Date": "Late January 2008"
+        },
+        {
+            "Name": "MERLIN transient",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio transient",
+            "Time": null,
+            "Date": "38 to 46 days prior to June 11 2009"
+        }
+    ],
+    "References": [
+        "CBET #1803",
+        "ATEL #2073",
+        "Mattila & Meikle, 2001",
+        "Brunthaler et al. (CBET 1803)",
+        "Benz, 1996"
+    ],
+    "Event Type": "Observation",
+    "Time": "54993.26 UT",
+    "Date": "June 11 2009",
+    "Telescope": "Gemini North",
+    "Instrument": "Near InfraRed Imager and Spectrometer (NIRI) with ALTAIR adaptive optics system",
+    "Observatory": "Gemini Observatory"
+}

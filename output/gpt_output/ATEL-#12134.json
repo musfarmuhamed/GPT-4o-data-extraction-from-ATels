@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18xb",
+            "RA": "08 20 25.9",
+            "Dec": "-65 20 31.7",
+            "redshift": 0.035,
+            "Type": "Ia-91T",
+            "Time": null,
+            "Date": "2018-10-06"
+        }
+    ],
+    "References": [
+        {
+            "Title": "Smartt et al. 2015, A&A, 579, 40",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Title": "Shappee et al. 2014, ApJ, 788, 48",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Title": "Blondin & Tonry, 2007, ApJ, 666, 1024"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2018-10-20",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1RXS J180408.9-342058",
+            "RA": "271.03501",
+            "Dec": "-34.34766",
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": [
+                "20:45:14.928",
+                "00:04:20.777",
+                "21:24:16"
+            ],
+            "Date": [
+                "2015-02-06",
+                "2015-02-07",
+                "2015-02-06"
+            ]
+        }
+    ],
+    "References": [
+        "Krimm et al., ATel #6997",
+        "Negoro et al., ATel #7008",
+        "Barthelmy et al., GCN #17367",
+        "Barthelmy et al., GCN #17416",
+        "Chevenez et al., ATel #4050",
+        "Kalberla et al. 2005",
+        "Breeveld et al. 2011",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "galactic transient source",
+    "Time": [
+        "20:45:14.928",
+        "00:04:20.777"
+    ],
+    "Date": [
+        "2015-02-06",
+        "2015-02-07"
+    ],
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": "Null"
+}

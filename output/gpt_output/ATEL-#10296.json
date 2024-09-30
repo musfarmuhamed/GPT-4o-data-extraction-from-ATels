@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1716-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "12:00:56",
+            "Date": "2017-02-06"
+        }
+    ],
+    "References": [
+        "ATEL #9876",
+        "ATEL #9895",
+        "ATEL #10036",
+        "ATEL #10196",
+        "ATEL #10236",
+        "Delle Valle, M., et al., 1994, A&A, 290, 803",
+        "Dickey, J., & Lockman, F., 1990, ARAA, 28, 215",
+        "Wilms, J., et al., 2000, ApJ, 542, 914"
+    ],
+    "Event Type": "observation",
+    "Time": "12:00:56",
+    "Date": "2017-02-06",
+    "Telescope": "Chandra",
+    "Instrument": "HETGS",
+    "Observatory": "Chandra X-ray Observatory"
+}

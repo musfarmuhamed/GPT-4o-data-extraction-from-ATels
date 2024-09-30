@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0736+01",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Flaring blazar",
+            "Time": [
+                "2015-01-15.52",
+                "2015-01-16.52",
+                "2015-01-18.40",
+                "2015-01-20.40"
+            ],
+            "Date": [
+                "2015-01-15",
+                "2015-01-16",
+                "2015-01-18",
+                "2015-01-20"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #6731",
+        "ATel #6742"
+    ],
+    "Event Type": "V-band flare",
+    "Time": "2015-01-20.40",
+    "Date": "2015-01-20",
+    "Telescope": "ASAS-SN quadruple 'Brutus'",
+    "Instrument": null,
+    "Observatory": "Mt. Cuba Astronomical Foundation"
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OT source",
+            "RA": "02h 21m 18.32s",
+            "Dec": "+40d 51m 15.8s",
+            "redshift": null,
+            "Type": "SN Ia",
+            "Time": "10:11:44.96",
+            "Date": "2014-10-28"
+        },
+        {
+            "Name": "Galaxy PGC2171875",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pruzhinskaya et al., Astron. Lett., Vol. 37, pp. 663-669, 2011",
+        "ATel #4702, Balanutsa et al., 2013"
+    ],
+    "Event Type": "Discovery",
+    "Time": "22:06:14.88",
+    "Date": "2014-10-28",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER"
+}

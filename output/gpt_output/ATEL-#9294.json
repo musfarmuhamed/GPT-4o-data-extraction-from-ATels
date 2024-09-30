@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 125981",
+            "RA": "14h 22m 46.57s",
+            "Dec": "-00d 38' 16.0\"",
+            "redshift": null,
+            "Type": "A0IV",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "[VV2006] J141936.0-010840",
+            "RA": "14h 19m 36.50s",
+            "Dec": "-01d 08' 45.3\"",
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "QSO J1422-0001",
+            "RA": "14h 22m 53.44s",
+            "Dec": "-00d 01' 50.7\"",
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "3XMM J142253.3-000149",
+            "RA": "14h 22m 53.44s",
+            "Dec": "-00d 01' 50.7\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "1SXPS J142252.8-003553",
+            "RA": "14h 22m 53.44s",
+            "Dec": "-00d 36' 00.1\"",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "[VV2006] J141949.9-000644",
+            "RA": "14h 19m 50.15s",
+            "Dec": "-00d 06' 45.6\"",
+            "redshift": null,
+            "Type": "Quasar",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        },
+        {
+            "Name": "2MASS J14182661+0014283",
+            "RA": "14h 19m 50.15s",
+            "Dec": "-00d 06' 45.6\"",
+            "redshift": null,
+            "Type": "Late-type star",
+            "Time": "03:00:46 to 14:51:52",
+            "Date": "2016 Jul 31"
+        }
+    ],
+    "References": "AMON ICECUBE HESE 128290 6888376",
+    "Event Type": "IceCube HESE event",
+    "Time": "03:00:46 to 14:51:52",
+    "Date": "2016 Jul 31",
+    "Telescope": "Swift-XRT",
+    "Instrument": "X-Ray Telescope (XRT)",
+    "Observatory": "Swift"
+}

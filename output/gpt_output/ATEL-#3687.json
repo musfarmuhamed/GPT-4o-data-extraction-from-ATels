@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1836.6+0341",
+            "RA": "18 36 39.44",
+            "Dec": "+03 41 00.6",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "23:51 UT",
+            "Date": "Oct. 15, 2011"
+        },
+        {
+            "Name": "Swift J1836.6+0341",
+            "RA": "18 36 39.44",
+            "Dec": "+03 41 00.6",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:09 UT",
+            "Date": "Oct. 17, 2011"
+        }
+    ],
+    "References": [
+        "Krimm et al. 2011, ATEL 3684",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Schlegel et al. 1998"
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "23:51 UT",
+        "00:09 UT"
+    ],
+    "Date": [
+        "Oct. 15, 2011",
+        "Oct. 17, 2011"
+    ],
+    "Telescope": "2.2m MPI/ESO telescope",
+    "Instrument": "GROND",
+    "Observatory": "La Silla Observatory (Chile)"
+}

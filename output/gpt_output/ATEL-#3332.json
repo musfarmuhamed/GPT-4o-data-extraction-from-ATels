@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1FGLJ1553.4-2425",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": "JD24555677.877",
+            "Date": "2011-04-26"
+        },
+        {
+            "Name": "PKS1550-242",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "JD24555677.877",
+            "Date": "2011-04-26"
+        }
+    ],
+    "References": "ATEL#2726",
+    "Event Type": "outburst",
+    "Time": "JD24555677.877",
+    "Date": "2011-04-26",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

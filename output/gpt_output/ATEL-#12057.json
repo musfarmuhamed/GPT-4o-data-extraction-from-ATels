@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "2018-07-01"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "2018-09-22"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "2018-09-23"
+        },
+        {
+            "Name": "MAXI J1820+070",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": "2018-09-24"
+        }
+    ],
+    "References": [
+        "Kawamura et al. ATel #11399",
+        "Denisenko et al. ATel. #11400",
+        "Homan et al. ATel #11820",
+        "https://swift.gsfc.nasa.gov/results/transients/weak/MAXIJ1820p070/",
+        "Shidatsu et al., ApJ, submitted",
+        "Homan et al. ATel #11576",
+        "Gandhi et al. https://arxiv.org/abs/1804.11349"
+    ],
+    "Event Type": "hard X-ray flux increase and state transition",
+    "Time": null,
+    "Date": "2018-09-22",
+    "Telescope": [
+        "MAXI",
+        "Swift"
+    ],
+    "Instrument": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Observatory": null
+}

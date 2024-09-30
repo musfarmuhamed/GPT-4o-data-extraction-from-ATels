@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Cep 2013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Feb 2.4 UT",
+            "Date": "2013-02-02"
+        }
+    ],
+    "References": [
+        "CBET #3397",
+        "ATel #4893",
+        "ATel #5026",
+        "ATel #5269",
+        "ATel #4950",
+        "ATel #5375"
+    ],
+    "Event Type": "Detection and Follow-up Observations",
+    "Time": "Feb 2.4 UT",
+    "Date": "2013-02-02",
+    "Telescope": [
+        "ANS Collaboration telescopes",
+        "Asiago 67/92cm Schmidt telescope",
+        "Asiago 1.22m + B&C spectrograph"
+    ],
+    "Instrument": [
+        "B&C spectrograph"
+    ],
+    "Observatory": null
+}

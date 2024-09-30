@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "VVV-WIT-01",
+            "RA": "16:10:53.45",
+            "Dec": "-51:55:32.4",
+            "redshift": null,
+            "Type": "unknown",
+            "Time": null,
+            "Date": "March 2010"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Aguilar-Arevalo et al.",
+            "Title": "ApJ669, 519",
+            "Year": 2010
+        },
+        {
+            "Authors": "Bildsten et al.",
+            "Title": "ApJ 662, L95",
+            "Year": 2007
+        },
+        {
+            "Authors": "Guver and Ozel",
+            "Title": "MNRAS 400, 2050",
+            "Year": 2009
+        },
+        {
+            "Authors": "Horiuchi and Beacom",
+            "Title": "ApJ 723, 329",
+            "Year": 2010
+        },
+        {
+            "Authors": "Ikeda et al.",
+            "Title": "PRD81, 032001",
+            "Year": 2007
+        }
+    ],
+    "Event Type": "Extreme Transient",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Fermi satellite",
+    "Instrument": "GBM",
+    "Observatory": "Not Specified"
+}

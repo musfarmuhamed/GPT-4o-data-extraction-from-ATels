@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTERJ141023.42-431843.7",
+            "RA": "14:10:23.41",
+            "Dec": "-43:18:43.7",
+            "redshift": "0.006",
+            "Type": "Ib",
+            "Time": "Null",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "OGLE15xl",
+            "RA": "04:20:53.44",
+            "Dec": "-73:36:20.1",
+            "redshift": "0.19",
+            "Type": "??",
+            "Time": "Null",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "OGLE15xt",
+            "RA": "03:24:50.23",
+            "Dec": "-66:32:36.3",
+            "redshift": "0.11",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "PS15dcw",
+            "RA": "08:46:36.42",
+            "Dec": "+06:43:26.7",
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "+5d",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "PS15dlq",
+            "RA": "10:54:24.69",
+            "Dec": "+06:34:32.7",
+            "redshift": "0.14",
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "2015-12-17"
+        },
+        {
+            "Name": "PS15dmp",
+            "RA": "10:23:03.86",
+            "Dec": "-01:56:49.4",
+            "redshift": "0.14",
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "2015-12-17"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Wyrzykowski et al., 2014 arxiv:1409.1095; Huber et al., ATel #7153; Lipunov et al., 2010, Adv. in Ast., 1-7; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "Supernova classifications",
+    "Time": "Null",
+    "Date": "2015-12-17",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

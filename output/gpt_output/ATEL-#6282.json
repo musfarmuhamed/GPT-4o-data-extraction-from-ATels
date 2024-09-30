@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2FGLJ1454.4+5123",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma Ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SBS1452+516",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.0831",
+            "Type": "quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATEL # 3347",
+    "Event Type": "outburst",
+    "Time": "JD2456801.956",
+    "Date": "May 24th, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Observatorio Astrofisico Guillermo Haro"
+}

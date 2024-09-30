@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ho",
+            "RA": "09:09:23.89",
+            "Dec": "-04:43:30.98",
+            "redshift": null,
+            "Type": "possible supernova",
+            "Time": "2015-04-19.06",
+            "Date": "2015-04-19"
+        },
+        {
+            "Name": "2MASXi J0909234-044327",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "extended source (potential galaxy)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://adsabs.harvard.edu/abs/2015arXiv150305634S",
+    "Event Type": "new transient source discovery",
+    "Time": "2015-04-19.06",
+    "Date": "2015-04-19",
+    "Telescope": "Cassius telescope, Planewave CDK 0.43-m telescope, RCOS 51-cm telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile, Mayhill, New Mexico"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15im",
+            "RA": "09:25:51.37",
+            "Dec": "+16:17:27.3",
+            "redshift": 0.077,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-02-12"
+        },
+        {
+            "Name": "MLS150210-102122+110418",
+            "RA": "10:21:21.53",
+            "Dec": "+11:04:17.8",
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2015-02-12"
+        }
+    ],
+    "References": [
+        "Smartt et al., arXiv:1411.0299",
+        "Baltay et al., PASP, 2013, 125, 683",
+        "Drake et al. 2009, 696, 870",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "Unknown",
+    "Date": "2015-02-12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

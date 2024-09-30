@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-019",
+            "RA": "02:27:33.91",
+            "Dec": "-75:08:16.0",
+            "redshift": "0.079",
+            "Type": "IIn",
+            "Time": null,
+            "Date": "2013-03-10"
+        },
+        {
+            "Name": "SSS130307:114002-350527",
+            "RA": "11:40:02.21",
+            "Dec": "-35:05:27.2",
+            "redshift": "0.025",
+            "Type": "IIP",
+            "Time": "~20d",
+            "Date": "2013-03-10"
+        },
+        {
+            "Name": "PSNJ18120245-5858271",
+            "RA": "18:12:02.45",
+            "Dec": "-58:58:27.1",
+            "redshift": "0.008",
+            "Type": "II",
+            "Time": "~14d",
+            "Date": "2013-03-10"
+        },
+        {
+            "Name": "CSS130307:134411+030344",
+            "RA": "13:44:10.79",
+            "Dec": "+03:03:44.2",
+            "redshift": "0.080",
+            "Type": "Ia",
+            "Time": "-7d",
+            "Date": "2013-03-10"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Wyrzykowski et al., ATEL #4495",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013-03-10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

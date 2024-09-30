@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1930+093",
+            "RA": 292.685,
+            "Dec": 9.314,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "05:31:55",
+            "Date": "March 2, 2014"
+        },
+        {
+            "Name": "2FGL J1931.1+0938",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J193121.5+092947",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "New-transient:97",
+        "New-transient:96"
+    ],
+    "Event Type": "X-ray transient",
+    "Time": "05:31:55",
+    "Date": "March 2, 2014",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

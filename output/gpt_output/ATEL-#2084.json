@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1424+240",
+            "RA": null,
+            "Dec": null,
+            "redshift": "uncertain",
+            "Type": "intermediate-frequency-peaked BL Lac object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "0FGL J1427.1+2347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al., arXiv:0902.1340",
+        "Abdo et al., arXiv:0902.1559"
+    ],
+    "Event Type": "discovery of very high energy gamma-ray emission",
+    "Time": "between 19 February 2009 and 14 June 2009",
+    "Date": null,
+    "Telescope": "VERITAS atmospheric-Cherenkov telescope array",
+    "Instrument": null,
+    "Observatory": "VERITAS"
+}

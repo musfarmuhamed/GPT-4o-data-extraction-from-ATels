@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17aup",
+            "IAU Name": "AT2017zg",
+            "RA": "09:41:54.49",
+            "Dec": "+01:19:08.43",
+            "redshift": 0.022,
+            "Type": "II",
+            "Time": "+19d",
+            "Date": "2017 Feb 1"
+        },
+        {
+            "Name": "ASASSN-17bt",
+            "IAU Name": "AT2017yt",
+            "RA": "09:44:11.46",
+            "Dec": "+32:50:36.53",
+            "redshift": 0.045,
+            "Type": "Ia",
+            "Time": "+5d",
+            "Date": "2017 Feb 1"
+        },
+        {
+            "Name": "PS17aig",
+            "IAU Name": "AT2017uq",
+            "RA": "12:14:25.15",
+            "Dec": "-02:03:25.80",
+            "redshift": 0.079,
+            "Type": "Ia",
+            "Time": "+13d",
+            "Date": "2017 Feb 1"
+        },
+        {
+            "Name": "PS17agy",
+            "IAU Name": "AT2017tn",
+            "RA": "13:04:59.52",
+            "Dec": "-05:53:54.60",
+            "redshift": 0.224,
+            "Type": "Ia",
+            "Time": "-2d",
+            "Date": "2017 Feb 1"
+        },
+        {
+            "Name": "ATLAS17and",
+            "IAU Name": "AT2017pl",
+            "RA": "14:59:30.78",
+            "Dec": "+46:37:58.07",
+            "redshift": 0.097,
+            "Type": "Ia",
+            "Time": "+3d",
+            "Date": "2017 Feb 1"
+        },
+        {
+            "Name": "ASASSN-17bs",
+            "IAU Name": "AT2017yh",
+            "RA": "17:52:06.25",
+            "Dec": "+21:33:58.32",
+            "redshift": 0.02,
+            "Type": "Ia",
+            "Time": "-6d",
+            "Date": "2017 Feb 1"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Classifications of optical transients",
+    "Time": "Unknown",
+    "Date": "2017 Feb 1",
+    "Telescope": "KPNO Mayall 4-m",
+    "Instrument": "KOSMOS",
+    "Observatory": "KPNO"
+}

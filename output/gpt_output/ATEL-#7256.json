@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15fi",
+            "RA": "16:31:48.80",
+            "Dec": "+20:24:38.50",
+            "redshift": "0.017182",
+            "Type": "supernova",
+            "Time": "2015-03-17.63",
+            "Date": null
+        },
+        {
+            "Name": "Mrk 0884",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.017182",
+            "Type": "starburst galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mt. Cuba Astronomical Foundation, NED, SDSS, LCOGT, ASAS-SN Homepage",
+    "Event Type": "transient discovery",
+    "Time": "2015-03-17.63",
+    "Date": null,
+    "Telescope": "quadruple 14-cm 'Brutus' telescope, LCOGT 1-m robotic telescope",
+    "Instrument": "imaging",
+    "Observatory": "Haleakala, Hawaii, Siding Springs Observatory"
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11bli",
+            "RA": "14:02:16.18",
+            "Dec": "+33:39:41.5",
+            "redshift": "0.0344",
+            "Type": "Ib/c",
+            "Time": "Null",
+            "Date": "March 15, 2011"
+        },
+        {
+            "Name": "PTF11bop",
+            "RA": "15:03:02.69",
+            "Dec": "+31:31:54.5",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "March 15, 2011"
+        }
+    ],
+    "References": [
+        "ATEL #1964",
+        "Smith et al. 2011, MNRAS, 412, 1309",
+        "http://www.astro.caltech.edu/ptf/",
+        "http://supernova.galaxyzoo.org"
+    ],
+    "Event Type": "Discovery",
+    "Time": "March 30",
+    "Date": "2011",
+    "Telescope": "2.2-m UH telescope",
+    "Instrument": "SNIFS spectrograph",
+    "Observatory": "University of Hawaii"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XSS J12270-4859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray emitting low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J1227.7-4853",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray emitting low-mass X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #5647, Nolan et al., 2012",
+    "Event Type": "decreased brightness",
+    "Time": null,
+    "Date": "2013-01-01 to 2013-12-10",
+    "Telescope": "Fermi/LAT and Swift/XRT",
+    "Instrument": "LAT and XRT",
+    "Observatory": "Fermi and Swift"
+}

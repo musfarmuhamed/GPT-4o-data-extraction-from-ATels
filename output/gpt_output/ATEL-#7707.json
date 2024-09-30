@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15lu",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.035037",
+            "Type": "Type Ia supernova",
+            "Time": "24.2",
+            "Date": "2015 June 24"
+        },
+        {
+            "Name": "SDSS J132112.88+401556.7",
+            "RA": "13:21:12.88",
+            "Dec": "+40:15:56.7",
+            "redshift": "0.035037",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7698",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Blondin et al. 2012, AJ, 143, 126",
+        "Branch et al. 2006, PASP, 118, 560"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "24.2",
+    "Date": "2015 June 24",
+    "Telescope": "2.3-m Bok telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Kitt Peak"
+}

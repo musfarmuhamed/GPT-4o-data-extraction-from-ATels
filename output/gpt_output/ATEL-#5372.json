@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nearby Source 1",
+            "RA": "17:59:12.04",
+            "Dec": "-27:36:58.5",
+            "redshift": null,
+            "Type": "late-type K dwarf",
+            "Time": "24s for J-band, 8s for H- and Ks-band",
+            "Date": "11th of April 2010"
+        },
+        {
+            "Name": "Nearby Source 2",
+            "RA": "17:59:12.25",
+            "Dec": "-27:36:55.5",
+            "redshift": null,
+            "Type": null,
+            "Time": "24s for J-band, 8s for H- and Ks-band",
+            "Date": "11th of April 2010"
+        },
+        {
+            "Name": "Nearby Source 3",
+            "RA": "17:59:11.92",
+            "Dec": "-27:36:59.5",
+            "redshift": null,
+            "Type": "K giant or supergiant",
+            "Time": "24s for J-band, 8s for H- and Ks-band",
+            "Date": "11th of April 2010"
+        },
+        {
+            "Name": "Faint Object",
+            "RA": "17:59:12.21",
+            "Dec": "-27:36:56.4",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Minniti et al. 2010, New Astronomy, Volume 15, 433",
+        "Gonzalez et al. 2011, A&A, 534, 3",
+        "Cardelli et al. 1989, ApJ, 345, 245"
+    ],
+    "Event Type": "Search for counterpart of transient source",
+    "Time": "24s for J-band, 8s for H- and Ks-band",
+    "Date": "11th of April 2010",
+    "Telescope": "4-m VISTA",
+    "Instrument": "NIR camera",
+    "Observatory": "Paranal Observatory, Chile"
+}

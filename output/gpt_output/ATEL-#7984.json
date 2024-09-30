@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2008-12a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": "2015-09-03.059",
+            "Date": "2015-08-28.55"
+        }
+    ],
+    "References": [
+        "Darnley et al. 2014",
+        "Darnley et al. 2015",
+        "Henze et al. 2014",
+        "Henze et al. 2015a",
+        "Henze et al. 2015b",
+        "ATel #7964",
+        "ATel #7965",
+        "ATel #7967",
+        "ATel #7968",
+        "ATel #7969",
+        "ATel #7974",
+        "ATel #7976",
+        "ATel #7979",
+        "ATel #7980",
+        "Poole et al. 2008"
+    ],
+    "Event Type": "eruption",
+    "Time": "2015-08-28.55",
+    "Date": "2015-08-28",
+    "Telescope": "Swift Telescope, Liverpool Telescope",
+    "Instrument": "XRT (Swift), UVOT (Swift), Optical photometry (Liverpool)",
+    "Observatory": "Swift Observatory, Liverpool Observatory"
+}

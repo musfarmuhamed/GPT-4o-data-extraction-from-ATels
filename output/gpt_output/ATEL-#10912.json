@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTSS-17xqa (SN 2017him)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.051,
+            "Type": "Ia Supernova",
+            "Time": "29.7",
+            "Date": "2017-10-29"
+        },
+        {
+            "Name": "SN 2007ca",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia Supernova",
+            "Time": "+13 days from maximum light",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": null,
+    "Time": "29.7",
+    "Date": "2017-10-29",
+    "Telescope": "Li-Jiang 2.4 m telescope",
+    "Instrument": "LJT+YFOSC",
+    "Observatory": "Li-Jiang Observatory of Yunnan Observatories"
+}

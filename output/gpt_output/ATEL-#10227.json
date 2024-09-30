@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1807+132 (ATel #10208)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": [
+                {
+                    "Obs. UT Date": "2017-03-11.55",
+                    "V mag": ">17.7"
+                },
+                {
+                    "Obs. UT Date": "2017-03-14.56",
+                    "V mag": "16.1"
+                },
+                {
+                    "Obs. UT Date": "2017-03-16.40",
+                    "V mag": "16.1"
+                },
+                {
+                    "Obs. UT Date": "2017-03-20.62",
+                    "V mag": "16.6"
+                },
+                {
+                    "Obs. UT Date": "2017-03-23.57",
+                    "V mag": "16.6"
+                },
+                {
+                    "Obs. UT Date": "2017-03-27.59",
+                    "V mag": "18.1"
+                }
+            ]
+        }
+    ],
+    "References": "ATel #10208",
+    "Event Type": "V-band observations",
+    "Time": null,
+    "Date": "2017-03-14 to 2017-03-27",
+    "Telescope": "All Sky Automated Survey for SuperNovae (ASAS-SN or 'Assassin')",
+    "Instrument": null,
+    "Observatory": "Las Cumbres Observatory"
+}

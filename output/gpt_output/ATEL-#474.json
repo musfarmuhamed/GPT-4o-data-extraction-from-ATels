@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2005bx",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIn",
+            "Time": "1.5 UT",
+            "Date": "May 1",
+            "Details": {
+                "Velocity": "9359 km/s",
+                "H-alpha fwhm": "3500 km/s"
+            }
+        }
+    ],
+    "References": "CBET #148",
+    "Event Type": null,
+    "Time": "1.5 UT",
+    "Date": "May 1",
+    "Telescope": "University of Hawaii 2.2-m telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": null
+}

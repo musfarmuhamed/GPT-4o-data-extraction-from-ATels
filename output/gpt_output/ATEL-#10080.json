@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF17atf (AT2017atf)",
+            "RA": "07:58:33.37",
+            "Dec": "+11:55:21.98",
+            "redshift": "0.0004",
+            "Type": null,
+            "Time": "2017-02-14.01",
+            "Date": "2017-02-14.01"
+        },
+        {
+            "Name": "iPTF17aub (AT2017aub)",
+            "RA": "06:40:24.69",
+            "Dec": "+64:33:02.77",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-02-15.18",
+            "Date": "2017-02-15.18"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "Masci et al. 2016",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012"
+    ],
+    "Event Type": "bright (<19 mag) transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar 60-inch (P60)",
+    "Instrument": "Spectral Energy Distribution Machine (SEDM)",
+    "Observatory": "intermediate Palomar Transient Factory (iPTF)"
+}

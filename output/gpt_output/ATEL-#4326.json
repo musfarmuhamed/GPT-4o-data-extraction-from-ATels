@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J18402884+3607174",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.028563",
+            "Type": "type Ib supernova",
+            "Time": "21.79 UT",
+            "Date": "Aug 21",
+            "Host Galaxy": "PGC 62237"
+        },
+        {
+            "Name": "PSN J17315266+7150120",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.039694",
+            "Type": "type Ia supernova",
+            "Time": "21.86 UT",
+            "Date": "Aug 21",
+            "Host Galaxy": "PGC 60437"
+        }
+    ],
+    "References": [
+        "Freudling et al. 1995, A&AS 112, 429 via NED",
+        "Falco et al. 1999, PASP 111, 438 via NED",
+        "Harutyuyan et al. 2008, A&A 488, 383"
+    ],
+    "Event Type": "spectroscopic confirmations of 2 PSNe",
+    "Time": "21.79 UT and 21.86 UT",
+    "Date": "Aug 21",
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

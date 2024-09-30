@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF10absf",
+            "RA": "03:43:27.70",
+            "Dec": "-12:48:39.6",
+            "redshift": "0.062",
+            "Type": "SN II",
+            "Time": "20.2",
+            "Date": "2010 Dec 2"
+        },
+        {
+            "Name": "PTF10abte",
+            "RA": "01:25:23.69",
+            "Dec": "+10:10:30.0",
+            "redshift": "0.053",
+            "Type": "SN II",
+            "Time": "20.1",
+            "Date": "2010 Dec 1"
+        },
+        {
+            "Name": "PTF10abui",
+            "RA": "06:12:18.46",
+            "Dec": "-22:46:15.6",
+            "redshift": "0.052",
+            "Type": "SN IIn",
+            "Time": "19.1",
+            "Date": "2010 Nov 30"
+        },
+        {
+            "Name": "PTF10aavz",
+            "RA": "11:20:13.36",
+            "Dec": "+03:44:45.2",
+            "redshift": "0.062",
+            "Type": "SN Ic-BL",
+            "Time": "19.5",
+            "Date": "2010 Nov 14"
+        },
+        {
+            "Name": "PTF10abav",
+            "RA": "08:31:17.45",
+            "Dec": "+10:20:27.2",
+            "redshift": "0.085",
+            "Type": "SN II",
+            "Time": "19.8",
+            "Date": "2010 Nov 14"
+        }
+    ],
+    "References": "PTF (ATel #1964; http://www.astro.caltech.edu/ptf ), Galaxy Zoo Supernovae (http://supernova.galaxyzoo.org; Smith et al. 2010, arXiv 1011.2199), Oke & Gunn 1982, PASP, 94, 586, Howell et al. 2005, ApJ 634, 1190",
+    "Event Type": "discovery and spectroscopic classification",
+    "Time": "Null",
+    "Date": "2010 Nov 14 - 2010 Dec 2",
+    "Telescope": "Palomar 48-inch Oschin Schmidt telescope, William Herschel 4.2-m telescope, Palomar 5-m Hale telescope",
+    "Instrument": "Intermediate dispersion Spectrograph and Imaging System (ISIS), Double-Beam Spectrograph (DBSP)",
+    "Observatory": "Null"
+}

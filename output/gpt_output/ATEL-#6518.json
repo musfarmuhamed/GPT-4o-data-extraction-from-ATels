@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ14fnt",
+            "RA": "21:26:53.77",
+            "Dec": "-11:45:21.3",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014-09-04"
+        },
+        {
+            "Name": "LSQ14fne",
+            "RA": "21:38:07.15",
+            "Dec": "-28:48:36.2",
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": "Unknown",
+            "Date": "2014-09-12"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org",
+    "Event Type": "supernova classifications",
+    "Time": "Unknown",
+    "Date": "2014-09-29",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

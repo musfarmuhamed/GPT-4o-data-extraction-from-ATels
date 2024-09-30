@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J185011.29+302059.5",
+            "RA": "18h 50m 11.29s",
+            "Dec": "+30d 20m 59.5s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-03-19.77620 UT",
+            "Date": "2013-03-19",
+            "References": "http://master.sai.msu.ru/static/OT/185011.29302059.5.png"
+        },
+        {
+            "Name": "PGC 2813322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null,
+            "References": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/185011.29302059.5.png",
+    "Event Type": "PSN",
+    "Time": "2013-03-19.77620 UT",
+    "Date": "2013-03-19",
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J234441.46+251718.9",
+            "RA": "23h 44m 41.46s",
+            "Dec": "+25d 17m 18.9s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2014-11-25.68131 UT",
+            "Date": "2014-11-25"
+        },
+        {
+            "Name": "SDSS J234441.49+251718.7",
+            "RA": "23h 44m 41.49s",
+            "Dec": "+25d 17m 18.7s",
+            "redshift": null,
+            "Type": "faint blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J010728.48+033348.4",
+            "RA": "01h 07m 28.48s",
+            "Dec": "+03d 33m 48.4s",
+            "redshift": null,
+            "Type": "flaring quasar",
+            "Time": "2014-11-25.75205 UT",
+            "Date": "2014-11-25"
+        },
+        {
+            "Name": "SDSS J010728.57+033348.6",
+            "RA": "01h 07m 28.57s",
+            "Dec": "+03d 33m 48.6s",
+            "redshift": null,
+            "Type": "star-like object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/234441.46251718.9.png",
+        "http://master.sai.msu.ru/static/OT/010728.48033348.4.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

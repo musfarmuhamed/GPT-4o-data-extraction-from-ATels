@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary X-ray pulsar",
+            "Time": "03:31-04:18",
+            "Date": "2010-08-13"
+        },
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary X-ray pulsar",
+            "Time": "04:43-06:35",
+            "Date": "2010-08-13"
+        },
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary X-ray pulsar",
+            "Time": "01:36-04:33",
+            "Date": "2010-08-14"
+        },
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary X-ray pulsar",
+            "Time": "01:58-04:43",
+            "Date": "2010-08-15"
+        }
+    ],
+    "References": "ATel#2779",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2010-08-16",
+    "Telescope": [
+        "RXTE",
+        "Suzaku"
+    ],
+    "Instrument": [
+        "MAXI",
+        "Swift/BAT",
+        "HEXTE"
+    ],
+    "Observatory": null
+}

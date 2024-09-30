@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J06074+2205",
+            "RA": "06h07.4m",
+            "Dec": "22\u00b005'",
+            "redshift": null,
+            "Type": null,
+            "Time": "67 ks",
+            "Date": "15 February 2003"
+        },
+        {
+            "Name": "IGR J06074+2205",
+            "RA": "06h07.4m",
+            "Dec": "22\u00b005'",
+            "redshift": null,
+            "Type": null,
+            "Time": "16 ks",
+            "Date": "16 February 2003"
+        },
+        {
+            "Name": "1RXS J060731.8+222120",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "1RXS J060731.8+222120",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "15 and 16 February 2003",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

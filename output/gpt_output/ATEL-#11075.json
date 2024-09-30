@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ton 599",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.72,
+            "Type": "flat-spectrum radio quasar",
+            "Time": null,
+            "Date": "2017-12-15"
+        },
+        {
+            "Name": "4C +29.45",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RGB J1156+292",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel # 10931",
+        "ATel # 10949",
+        "ATel # 11061"
+    ],
+    "Event Type": "Detection of VHE emission",
+    "Time": "2017-12-15",
+    "Date": "2017-12-15",
+    "Telescope": "VERITAS",
+    "Instrument": null,
+    "Observatory": "Fred Lawrence Whipple Observatory"
+}

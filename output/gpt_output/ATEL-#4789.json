@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1753.7-2544",
+            "RA": 268.41615,
+            "Dec": -25.75355,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "11:15",
+            "Date": "2013-02-04"
+        },
+        {
+            "Name": "USNO-A2.0 0600-29362287",
+            "RA": 268.416289,
+            "Dec": -25.753628,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 17533994-2545129",
+            "RA": 268.416419,
+            "Dec": -25.753601,
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4769",
+        "Evans et al (2009, MNRAS, 2009, 397, 1177)"
+    ],
+    "Event Type": "Swift follow-up observations",
+    "Time": "11:15",
+    "Date": "2013-02-04",
+    "Telescope": "Swift",
+    "Instrument": "XRT (X-ray Telescope), UVOT (Ultraviolet/Optical Telescope)",
+    "Observatory": "Swift Observatory"
+}

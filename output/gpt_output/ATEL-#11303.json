@@ -1,0 +1,66 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASAS-SN18ck",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.045,
+            "Type": "Ia",
+            "Time": "20:32:00",
+            "Date": "2018-02-14"
+        },
+        {
+            "Name": "ASAS-SN18cp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.047,
+            "Type": "Ia",
+            "Time": "21:42:00",
+            "Date": "2018-02-14"
+        },
+        {
+            "Name": "ASAS-SN18cq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.023,
+            "Type": "II",
+            "Time": "23:34:00",
+            "Date": "2018-02-14"
+        },
+        {
+            "Name": "ASAS-SN18cj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.028,
+            "Type": "Ia",
+            "Time": "23:54:00",
+            "Date": "2018-02-14"
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Tomasella et al. 2014, AN, 335, 841"
+        },
+        {
+            "Reference": "Shappee et al. 2014, Atel #11178"
+        },
+        {
+            "Reference": "Grogin et al. 1998, ApJS 119"
+        },
+        {
+            "Reference": "Inserra et al. 2010, MNRAS 417, 261"
+        },
+        {
+            "Reference": "Harutyunyan et al. 2008, A&A, 488, 383"
+        },
+        {
+            "Reference": "Blondin and Tonry 2007, ApJ, 666, 1024"
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

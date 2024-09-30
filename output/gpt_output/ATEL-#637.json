@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1747.0-2853",
+            "RA": "17h47m02.60s",
+            "Dec": "-28d52m58.9s",
+            "redshift": null,
+            "Type": "neutron-star X-ray transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wijnands et al. 2005, A&A submitted, astro-ph/0508648",
+        "Wijnands et al. (2002, ApJ, 579, 422)",
+        "ATEL #255",
+        "ATEL #256"
+    ],
+    "Event Type": "Detection of X-ray transient in outburst",
+    "Time": null,
+    "Date": "18 October 2005",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-I",
+    "Observatory": "XMM-Newton/Chandra monitoring campaign"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0208-512",
+            "RA": "02h 10m 46.2004s",
+            "Dec": "-51d 01m 01.891s (J2000)",
+            "redshift": 0.999,
+            "Type": "Flat spectrum radio quasar",
+            "Time": null,
+            "Date": "May 9, 2011"
+        },
+        {
+            "Name": "1FGL J0210.6-51013",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3EG J0210-5055",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Andrei et al. 2009, A&A, 505, 385; Abdo et al. 2010, ApJS, 188, 405; Hartman et al. 1999, ApJS, 123, 79; Wisotzki et al. 2000, A&A, 358, 77",
+    "Event Type": "Increased gamma-ray activity",
+    "Time": null,
+    "Date": "May 9, 2011",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan, and Sweden"
+}

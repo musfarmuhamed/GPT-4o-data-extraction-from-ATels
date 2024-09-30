@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS121106:003304+312335",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": "15.836",
+            "Date": "Nov",
+            "host galaxy lines": [
+                "Halpha",
+                "Hbeta?"
+            ]
+        },
+        {
+            "Name": "CSS121112:024457+353043",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": "15.903",
+            "Date": "Nov",
+            "host galaxy lines": [
+                "Halpha"
+            ]
+        },
+        {
+            "Name": "MLS121104:021643+204009",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.303,
+            "Type": "Ic",
+            "Time": "15.865",
+            "Date": "Nov",
+            "host galaxy lines": [
+                "[OII]3727A",
+                "Hgamma",
+                "Hbeta",
+                "[OIII]4959,5007AA"
+            ]
+        }
+    ],
+    "References": [
+        "Drake et al. 2009, ApJ, 696, 870",
+        "Blondin & Tonry, 2007, ApJ 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "A. Gal-Yam, Science, 2012, 337, 927"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Russian 6-meter telescope",
+    "Instrument": "+SCORPIO",
+    "Observatory": "Northern Caucasus"
+}

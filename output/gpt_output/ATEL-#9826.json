@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16ok",
+            "RA": "00:53:29.434",
+            "Dec": "-36:21:54.66",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-12-05.04",
+            "Date": "2016-12-05"
+        },
+        {
+            "Name": "ASASSN-16ol",
+            "RA": "01:10:02.382",
+            "Dec": "-70:20:56.55",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2016-12-04.07",
+            "Date": "2016-12-04"
+        }
+    ],
+    "References": [
+        "GALEXASC J005328.92-362154.1",
+        "GALEXASC J011003.70-702046.4"
+    ],
+    "Event Type": "transient source discovery",
+    "Time": "UT dates specified in entries",
+    "Date": "2016-12-05",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

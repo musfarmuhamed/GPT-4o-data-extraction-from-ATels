@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J150948.78-472953.6",
+            "RA": "15h 09m 48.78s",
+            "Dec": "-47d 29m 53.6s",
+            "redshift": null,
+            "Type": "possible CV, possible SS Cyg",
+            "Time": "2015-01-03.0761 UT",
+            "Date": "2015-01-03"
+        },
+        {
+            "Name": "MASTER OT 064334.81+741014.7",
+            "RA": "06h 43m 34.81s",
+            "Dec": "+74d 10m 14.7s",
+            "redshift": null,
+            "Type": "possible CV",
+            "Time": "2015-01-04.460 UT",
+            "Date": "2015-01-04"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2015-01-01.077 UT",
+            "Limit": "18.9m"
+        },
+        {
+            "Date": "2010-11-13.746 UT",
+            "Limit": "19.9m"
+        }
+    ],
+    "Event Type": "CV detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-South African Astronomical Observatory auto-detection system, MASTER-Tunka auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER-SAAO"
+}

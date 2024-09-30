@@ -1,0 +1,64 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J151647.17+283742.8",
+            "RA": "15h 16m 47.17s",
+            "Dec": "+28d 37m 42.8s",
+            "redshift": "Null",
+            "Type": "PSN",
+            "Time": "Null",
+            "Date": "2016-06-28"
+        },
+        {
+            "Name": "MASTER OT J180018.25+151529.1",
+            "RA": "18h 00m 18.25s",
+            "Dec": "+15d 15m 29.1s",
+            "redshift": "Null",
+            "Type": "possibly dwarf nova outburst",
+            "Time": "Null",
+            "Date": "2016-06-30"
+        },
+        {
+            "Name": "MASTER OT J195405.17+204126.6",
+            "RA": "19h 54m 05.17s",
+            "Dec": "+20d 41m 26.6s",
+            "redshift": "Null",
+            "Type": "OT (YSO?)",
+            "Time": "Null",
+            "Date": "2016-06-28"
+        },
+        {
+            "Name": "MASTER OT J174714.69-291852.2",
+            "RA": "17h 47m 14.69s",
+            "Dec": "-29d 18m 52.2s",
+            "redshift": "Null",
+            "Type": "OT (possibly YSO)",
+            "Time": "Null",
+            "Date": "2016-06-11"
+        }
+    ],
+    "References": {
+        "MASTER OT J151647.17+283742.8": {
+            "Date": "2015-09-06",
+            "Time": "20:15:24UT"
+        },
+        "MASTER OT J180018.25+151529.1": {
+            "Date": "2016-06-03",
+            "Time": "Null"
+        },
+        "MASTER OT J195405.17+204126.6": {
+            "Date": "2015-02-18",
+            "Time": "Null"
+        },
+        "MASTER OT J174714.69-291852.2": {
+            "Date": "2013-06-08",
+            "Time": "20:15:24UT"
+        }
+    },
+    "Event Type": "Optical Transients discovered by MASTER",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MASTER Global Robotic Net",
+    "Instrument": "auto-detection system",
+    "Observatory": "Null"
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 339-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "04:40 - 01:42",
+            "Date": "2007-03-29 to 2007-03-31"
+        }
+    ],
+    "References": [
+        "#980",
+        "#986",
+        "#1000",
+        "#1012",
+        "#1029",
+        "#1032",
+        "#1048"
+    ],
+    "Event Type": "Observations",
+    "Time": "04:40 - 01:42",
+    "Date": "2007-03-29 to 2007-03-31",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16avf",
+            "RA": "12:37:31.3",
+            "Dec": "+57:31:56.5",
+            "redshift": "0.15013",
+            "Type": "blue transient",
+            "Time": "N/A",
+            "Date": "2016-07-17"
+        },
+        {
+            "Name": "SDSS J123731.27+573156.6",
+            "RA": "N/A",
+            "Dec": "N/A",
+            "redshift": "0.15013",
+            "Type": "non-active galaxy",
+            "Time": "N/A",
+            "Date": "N/A"
+        }
+    ],
+    "References": "Hardy et al. 2015, MNRAS, 454, 4316",
+    "Event Type": "transient detection",
+    "Time": "N/A",
+    "Date": "2016-07-17",
+    "Telescope": "pt5m, BFOSC@1.5m G.D. Cassini Telescope, Swift",
+    "Instrument": "UVOT, XRT",
+    "Observatory": "Roque de los Muchachos observatory, La Palma, Loiano, Italy"
+}

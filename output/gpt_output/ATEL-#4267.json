@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Messier 87",
+            "RA": "12:30:49.09",
+            "Dec": "+12:23:29.31",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        },
+        {
+            "Name": "New Near-Ultraviolet source in M87 jet",
+            "RA": "12:30:49.09",
+            "Dec": "+12:23:29.31",
+            "redshift": null,
+            "Type": "Near-Ultraviolet source",
+            "Time": "Unknown",
+            "Date": "Unknown"
+        }
+    ],
+    "References": [
+        "Bowen, I. S 1952 in Ann. Rep. Director Mt. Wilson and Palomar Obs. No. 51, p.19",
+        "Harris, D. E. et al. 2003, ApJ, 586, L41",
+        "Madrid, J. P. et al. 2007, ApJ Letters, 654, L41",
+        "Madrid, J. P. 2009, AJ, 137, 3864"
+    ],
+    "Event Type": "New Near-Ultraviolet source detection",
+    "Time": "Unknown",
+    "Date": "2011 July 11",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Near-Ultraviolet MAMA detector",
+    "Observatory": "Space Telescope Science Institute"
+}

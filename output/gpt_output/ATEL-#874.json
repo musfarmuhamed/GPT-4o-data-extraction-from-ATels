@@ -1,0 +1,22 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17354-3255",
+            "RA": "17h 35m 25s",
+            "Dec": "-32o 55' 18\"",
+            "redshift": null,
+            "Type": "X-ray or gamma-ray",
+            "Time": "04:27 to 05:29",
+            "Date": "21 Apr 2006"
+        }
+    ],
+    "References": [
+        "ATel #438; Kuulkers et al. 2006, astro-ph/0603130"
+    ],
+    "Event Type": "detection",
+    "Time": "04:27 to 05:29",
+    "Date": "21 Apr 2006",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": "INTEGRAL (International Gamma-Ray Astrophysics Laboratory)"
+}

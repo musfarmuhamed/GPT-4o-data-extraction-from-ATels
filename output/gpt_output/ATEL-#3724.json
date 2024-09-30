@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT 081443.89+125459.7",
+            "RA": "08:14:43.89",
+            "Dec": "+12:54:59.7",
+            "redshift": "0",
+            "Type": "Milky Way origin",
+            "Time": "27.92 UT",
+            "Date": "Oct. 27"
+        },
+        {
+            "Name": "MLS111018:035322+190349",
+            "RA": "03:53:22",
+            "Dec": "+19:03:49",
+            "redshift": "0.11",
+            "Type": "Type Ia Supernova",
+            "Time": "28.24 UT",
+            "Date": "Oct. 28"
+        },
+        {
+            "Name": "MLS110927:020135+233303",
+            "RA": "02:01:35",
+            "Dec": "+23:33:03",
+            "redshift": "0.15",
+            "Type": "Type Ia Supernova",
+            "Time": "28.08 UT",
+            "Date": "Oct. 28"
+        },
+        {
+            "Name": "PSN J04054651+1912218",
+            "RA": "04:05:46.51",
+            "Dec": "+19:12:21.8",
+            "redshift": "0.14",
+            "Type": "Type Ia Supernova",
+            "Time": "28.05 UT",
+            "Date": "Oct. 28"
+        },
+        {
+            "Name": "MLS111022:081449+192315",
+            "RA": "08:14:49",
+            "Dec": "+19:23:15",
+            "redshift": "0.10",
+            "Type": "Type Ia Supernova",
+            "Time": "28.16 UT",
+            "Date": "Oct. 28"
+        }
+    ],
+    "References": [
+        "ATel #3715",
+        "ATel #3706",
+        "ATel #3721",
+        "Ap.J. 666, 1024"
+    ],
+    "Event Type": "Spectral observation",
+    "Time": "October 27-28",
+    "Date": "2023",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope"
+}

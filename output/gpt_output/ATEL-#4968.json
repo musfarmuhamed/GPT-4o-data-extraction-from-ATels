@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09552925+6904045",
+            "RA": "09h55m29s.25",
+            "Dec": "+69d04'04\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "Apr. 5.946 UT",
+            "Date": "Apr. 5.946"
+        },
+        {
+            "Name": "PNV J09553917+6902390",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09552647+6903073",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09553974+6905219",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09560368+6859586",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09555123+6901482",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PNV J09555177+6902549",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4894",
+        "ATel #4844",
+        "ATel #4794",
+        "ATel #4630"
+    ],
+    "Event Type": "discovery",
+    "Time": "Apr. 5.946 UT",
+    "Date": "Apr. 5.946",
+    "Telescope": "Isaac Newton Telescope (INT)",
+    "Instrument": "WFC",
+    "Observatory": "Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias (IAC)"
+}

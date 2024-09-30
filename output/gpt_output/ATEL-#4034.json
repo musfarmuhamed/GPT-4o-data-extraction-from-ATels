@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": "13h 06m 55.53s",
+            "Dec": "-70d 27' 01.8''",
+            "redshift": null,
+            "Type": "Galactic black-hole binary (BHB)",
+            "Time": "16:07UT",
+            "Date": "April 11, 2012"
+        },
+        {
+            "Name": "MAXI J1305-704",
+            "RA": "13h 06m 55.53s",
+            "Dec": "-70d 27' 01.8''",
+            "redshift": null,
+            "Type": "Galactic black-hole binary (BHB)",
+            "Time": "16:04UT",
+            "Date": "April 10, 2012"
+        }
+    ],
+    "References": [
+        "Sato et al., ATEL #4024",
+        "Greiner et al., ATEL #4030",
+        "UK Swift Science Data Centre at the University of Leicester"
+    ],
+    "Event Type": "Swift follow-up observations",
+    "Time": "16:07UT",
+    "Date": "April 11, 2012",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT in Windowed Timing (WT) mode",
+        "4-pointing Photon Counting(PC) mode tiling observation",
+        "GROND/UVOT",
+        "Swift/BAT hard X-ray transient monitor"
+    ],
+    "Observatory": "Swift"
+}

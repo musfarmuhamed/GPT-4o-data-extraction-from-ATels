@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRS 1716-249",
+            "RA": "17h 19m 36.80s",
+            "Dec": "-25d 00' 59.95\"",
+            "redshift": null,
+            "Type": "Black Hole Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9876",
+        "ATel #9895",
+        "(Della Valle et al., 1994, A&A, 290, 803)",
+        "Tanaka 1993, IAU Circ. 5877"
+    ],
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2017 January 28, 29, 30",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

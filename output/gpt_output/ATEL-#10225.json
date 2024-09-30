@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS17cpj",
+            "RA": "10:38:12.91",
+            "Dec": "+28:07:02.0",
+            "redshift": "0.042",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "ATLAS17dcl",
+            "RA": "03:42:50.76",
+            "Dec": "-01:52:28.98",
+            "redshift": "0.009",
+            "Type": "Ia",
+            "Time": "-8d",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "ATLAS17dfo",
+            "RA": "10:44:25.38",
+            "Dec": "-32:12:32.80",
+            "redshift": "0.010",
+            "Type": "Ia",
+            "Time": "-9d",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "ASASSN-17ds",
+            "RA": "08:03:55.21",
+            "Dec": "+26:31:12.73",
+            "redshift": "0.022",
+            "Type": "II",
+            "Time": null,
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "PSN J12140783-1549026",
+            "RA": "12:14:07.83",
+            "Dec": "-15:49:02.60",
+            "redshift": "0.097",
+            "Type": "Ia",
+            "Time": "+25d",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "PTSS17-niq",
+            "RA": "14:20:16.69",
+            "Dec": "+15:20:29.57",
+            "redshift": "0.068",
+            "Type": "Ia",
+            "Time": "-1d",
+            "Date": "2017-03-29"
+        },
+        {
+            "Name": "PTSS17-nht",
+            "RA": "14:25:43.02",
+            "Dec": "+11:44:12.20",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "+2d",
+            "Date": "2017-03-29"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classifications of optical transients",
+    "Time": null,
+    "Date": "2017-03-29",
+    "Telescope": "Southern Astrophysical Research (SOAR) telescope",
+    "Instrument": "Goodman spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HAWC J0543+233",
+            "RA": "85.78\u00b0",
+            "Dec": "23.40\u00b0",
+            "redshift": null,
+            "Type": "TeV gamma-ray source",
+            "Time": null,
+            "Date": "November 2014 to August 2017"
+        },
+        {
+            "Name": "PSR B0540+23",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Abeysekara et al. 2017, ApJ, 843, 40; Linden et al., 2017, arXiv:1703.09704",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "High Altitude Water Cherenkov (HAWC)",
+    "Instrument": null,
+    "Observatory": null
+}

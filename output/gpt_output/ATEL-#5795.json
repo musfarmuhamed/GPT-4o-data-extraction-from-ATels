@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J09554214+6940260",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2014 Jan. 22.399 UT",
+            "Date": "2014 Jan. 22"
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "CBET #3792"
+    ],
+    "Event Type": "Observation",
+    "Time": "2014 Jan. 22.399 UT",
+    "Date": "2014 Jan. 22",
+    "Telescope": [
+        "MASTER-Amur",
+        "MASTER-II",
+        "MASTER-VWF"
+    ],
+    "Instrument": [
+        {
+            "Type": "0.40-m f/2.5 reflector + 4Kx4K CCD",
+            "Observatory": "Kislovodsk"
+        },
+        {
+            "Type": "0.40-m f/2.5 reflector + 4Kx4K CCD",
+            "Observatory": "Blagoveschensk"
+        },
+        {
+            "Type": "VWF very wide-field camera (D=72 mm f/1.4 lens + 11-Mpix CCD)",
+            "Observatory": "Tunka"
+        }
+    ],
+    "Observatory": [
+        "Kislovodsk",
+        "Blagoveschensk",
+        "Tunka"
+    ]
+}

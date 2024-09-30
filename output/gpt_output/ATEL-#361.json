@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J00291+5934",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "15 GHz source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio counterpart",
+            "Time": null,
+            "Date": "2004-12-04"
+        },
+        {
+            "Name": "5 GHz WSRT source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "14:45 UT --- 00:58 UT",
+            "Date": "2004-12-06 to 2004-12-07"
+        }
+    ],
+    "References": [
+        "ATEL #355",
+        "ATEL #354",
+        "ATEL #356"
+    ],
+    "Event Type": "Further observations report",
+    "Time": "13:41 UT",
+    "Date": "2004-12-05",
+    "Telescope": "Ryle Telescope",
+    "Instrument": null,
+    "Observatory": null
+}

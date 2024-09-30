@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Black hole candidate",
+            "Time": "18:49",
+            "Date": "2013-10-15"
+        },
+        {
+            "Name": "GS 1826-238",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Nakahira et al. ATel #5474",
+        "Kennea et al. ATel #5478",
+        "Kennea et al. ATel #5479",
+        "Filippova et al. ATel #5476"
+    ],
+    "Event Type": "Hard-to-soft state transition",
+    "Time": "18:49",
+    "Date": "2013-10-15",
+    "Telescope": "MAXI",
+    "Instrument": null,
+    "Observatory": null
+}

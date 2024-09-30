@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[M2002] 20671",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J0052-723",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Maravelias et al. 2017, IAUS 329, 373",
+        "Maravelias et al. 2019, in prep.",
+        "ATel #12209",
+        "Bonanos et al. 2010, AJ, 140, 416",
+        "Maravelias et al. 2014, MNRAS, 438, 2005",
+        "ATel #12229",
+        "Evans et al. 2004, MNRAS, 351, 601"
+    ],
+    "Event Type": "optical spectroscopic confirmation",
+    "Time": null,
+    "Date": "Nov. 20, 2018",
+    "Telescope": "Clay/Magellan",
+    "Instrument": "LDSS-3 spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

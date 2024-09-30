@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "short X-ray transient",
+            "RA": "+116.06 deg",
+            "Dec": "+3.62 deg",
+            "redshift": null,
+            "Type": null,
+            "Time": "21:31",
+            "Date": "2011-03-08"
+        },
+        {
+            "Name": "dM4.5e star YZ CMi",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active flare star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Reid & Hawley 2005",
+        "Kowalski et al. 2010",
+        "Hawley et al. 2007",
+        "Raassen et al. 2007"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "21:31",
+    "Date": "2011-03-08",
+    "Telescope": "MAXI/GSC",
+    "Instrument": null,
+    "Observatory": null
+}

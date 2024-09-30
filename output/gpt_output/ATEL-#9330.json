@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1608-52 (H 1608-522)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "low mass X-ray binary",
+            "Time": "11:30",
+            "Date": "2016-08-05"
+        }
+    ],
+    "References": [
+        "ATel #2264",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transients/H1608-522/",
+        "ATel #2462",
+        "Asai et al. 2012",
+        "ATel #3237",
+        "Asai et al 2012",
+        "ATel #4478",
+        "ATel #5094",
+        "ATel #5990",
+        "ATel #6550"
+    ],
+    "Event Type": "nova-alert",
+    "Time": "11:30",
+    "Date": "2016-08-05",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

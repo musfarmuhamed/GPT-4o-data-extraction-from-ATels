@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GB6J0713+5738",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": "undefined",
+            "Date": "January 22, 2018"
+        },
+        {
+            "Name": "Fermi J0713+5739",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray Source",
+            "Time": "undefined",
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATels #10149",
+        "ATels #11056"
+    ],
+    "Event Type": "NIR Flare",
+    "Time": "MJD2458140.8592",
+    "Date": "January 22, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

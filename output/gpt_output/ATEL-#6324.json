@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "apparent nova candidate in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "03:23:33",
+            "Date": "2014-07-03"
+        },
+        {
+            "Name": "apparent nova candidate in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "10:44:53",
+            "Date": "2014-07-04"
+        },
+        {
+            "Name": "apparent nova candidate in M31",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova candidate",
+            "Time": "10:49:59",
+            "Date": "2014-07-05"
+        }
+    ],
+    "References": "Massey et al. (2006, AJ, 131, 2478); Henze et al. (2014) in ATel #6305",
+    "Event Type": "observation",
+    "Time": "00:00",
+    "Date": "2014-07-01 to 2014-07-05",
+    "Telescope": "0.5m Astrophysical Research Consortium Small Aperture Telescope (ARCSAT)",
+    "Instrument": "SurveyCam imaging camera with Apogee U16M-HC CCD camera",
+    "Observatory": "Apache Point Observatory"
+}

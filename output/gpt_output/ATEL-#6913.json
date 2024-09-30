@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J002253.29+134041.0",
+            "RA": "00h 22m 53.29s",
+            "Dec": "+13d 40m 41.0s",
+            "redshift": null,
+            "Type": "cataclysmic variable",
+            "Time": "2015-01-13.72456 UT",
+            "Date": "2015-01-13"
+        },
+        {
+            "Name": "SDSS J002253.21+134040.6",
+            "RA": "00h 22m 53.21s",
+            "Dec": "+13d 40m 40.6s",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J002253.2+134041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J002253.1+134040",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/002253.29134041.0.png",
+    "Event Type": "discovery",
+    "Time": "2015-01-13.72456 UT",
+    "Date": "2015-01-13",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

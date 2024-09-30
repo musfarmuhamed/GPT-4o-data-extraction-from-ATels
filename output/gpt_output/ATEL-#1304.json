@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be transient",
+            "Time": "01:20UT",
+            "Date": "2007 November 22"
+        },
+        {
+            "Name": "GRO J1008-57",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be transient",
+            "Time": "19:23UT",
+            "Date": "2007 November 23"
+        }
+    ],
+    "References": [
+        "Krimm et al., ATEL #1298",
+        "Shrader et al. (1999, ApJ 512, 920-928)",
+        "Coe et al. (2007, MNRAS 378, 1427-1433)"
+    ],
+    "Event Type": "outburst",
+    "Time": "From 01:20UT on November 22 to 19:23UT on November 23",
+    "Date": "2007",
+    "Telescope": "RXTE",
+    "Instrument": [
+        "PCA",
+        "HEXTE-B"
+    ],
+    "Observatory": "RXTE Observatory"
+}

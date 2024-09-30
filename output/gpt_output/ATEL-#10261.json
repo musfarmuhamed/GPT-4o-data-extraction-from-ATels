@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "DLT17ar (SN 2017cyy)",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0098,
+            "Type": "type-Ia supernova",
+            "Time": "2017 Apr 12.8 UT",
+            "Date": "2017-04-12"
+        },
+        {
+            "Name": "ESO 091-G015",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0098,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin & Tonry 2007, ApJ, 666, 1024; Meyer et al. 2004, MNRAS, 350, 1195; via NED",
+    "Event Type": "spectroscopy",
+    "Time": "2017 Apr 12.8 UT",
+    "Date": "2017-04-12",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

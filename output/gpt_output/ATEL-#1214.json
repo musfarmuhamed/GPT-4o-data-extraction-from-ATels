@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20070831-009",
+            "RA": "22:26:11.78",
+            "Dec": "-12:08:09.7",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "Sep 07.4",
+            "Date": "Aug 31.3"
+        },
+        {
+            "Name": "SNF20070909-023",
+            "RA": "01:08:13.68",
+            "Dec": "18:44:27.0",
+            "redshift": 0.06,
+            "Type": "Ia",
+            "Time": "Sep 10.5",
+            "Date": "Sep 09.5"
+        },
+        {
+            "Name": "SNF20070910-005",
+            "RA": "01:04:47.69",
+            "Dec": "04:31:16.7",
+            "redshift": 0.1,
+            "Type": "Ia",
+            "Time": "Sep 12.5",
+            "Date": "Sep 10.3"
+        },
+        {
+            "Name": "SNF20070910-007",
+            "RA": "01:35:08.82",
+            "Dec": "36:01:04.8",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "Sep 12.5",
+            "Date": "Sep 10.4"
+        }
+    ],
+    "References": null,
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "Palomar Oschin 48-inch telescope",
+    "Instrument": "QUEST-II camera",
+    "Observatory": "Palomar-QUEST Consortium"
+}

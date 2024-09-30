@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2018hlr",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": 0.059,
+            "Type": "SN 1991T/1999aa-like type Ia supernova",
+            "Time": "Oct 22.5",
+            "Date": "2018"
+        },
+        {
+            "Name": "SDSS J182033.43+415807.3",
+            "RA": "182033.43",
+            "Dec": "+415807.3",
+            "redshift": 0.059,
+            "Type": "host galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "PMO-THU Supernova Survey (PTSS); SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+    "Event Type": "Discovery and optical spectrum observation",
+    "Time": "Oct 22.5",
+    "Date": "2018",
+    "Telescope": "Lijiang 2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "Gaomeigu Station of Yunnan Observatories (YNAO)"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16oj",
+            "RA": "05:32:09.380",
+            "Dec": "-02:04:23.88",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "2016-12-05.15",
+            "Date": "2016-12-05"
+        },
+        {
+            "Name": "SDSS J053208.29-020407.9",
+            "RA": "05:32:08.29",
+            "Dec": "-02:04:07.9",
+            "redshift": "Null",
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        {
+            "Name": "ASAS-SN",
+            "RA": "Null",
+            "Dec": "Null",
+            "Time": "2016-12-05.15",
+            "Date": "2016-12-05",
+            "Telescope": "14-cm Cassius telescope",
+            "Instrument": "Null",
+            "Observatory": "Cerro Tololo, Chile"
+        }
+    ],
+    "Event Type": "supernova",
+    "Time": "2016-12-05.15",
+    "Date": "2016-12-05",
+    "Telescope": "14-cm Cassius telescope",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Chile"
+}

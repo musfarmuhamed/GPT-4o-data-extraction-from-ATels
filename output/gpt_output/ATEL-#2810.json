@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16374-5043",
+            "RA": "16:37:13.5",
+            "Dec": "-50:43:29.3",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": "00:40",
+            "Date": "2010-08-22"
+        },
+        {
+            "Name": "GRB 100823A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "GRB",
+            "Time": null,
+            "Date": "2010-08-23"
+        }
+    ],
+    "References": "Atel #2809",
+    "Event Type": "Transient source discovery",
+    "Time": "00:40",
+    "Date": "2010-08-22",
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

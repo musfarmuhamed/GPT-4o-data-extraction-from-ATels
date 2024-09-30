@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J01505845+2159598",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14co",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBAT TOCP",
+        "ATel 6245",
+        "De Vaucouleurs et al. 1991, RC3.9, via NED",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024",
+        "Falco et al. 1999, via NED"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "June 20 UT",
+    "Telescope": "2.3-m Bok telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Steward Observatory"
+}

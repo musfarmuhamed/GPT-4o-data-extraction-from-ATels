@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Algol",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active binary system",
+            "Time": "19.49",
+            "Date": "2015-06-19"
+        },
+        {
+            "Name": "Algol",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "active binary system",
+            "Time": "22.42",
+            "Date": "2015-06-22"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Pooley & Ryle",
+            "Year": 1973,
+            "Journal": "Nature",
+            "Volume": 244,
+            "Page": 270,
+            "Frequency": "5 GHz"
+        },
+        {
+            "Author": "Richards et al.",
+            "Year": 2003,
+            "Journal": "ApJS",
+            "Volume": 147,
+            "Page": 337,
+            "Frequency": "2.3 GHz and 8.3 GHz"
+        }
+    ],
+    "Event Type": "flares",
+    "Time": "19.49 and 22.42",
+    "Date": "2015-06-19 and 2015-06-22",
+    "Telescope": "AMI-LA",
+    "Instrument": null,
+    "Observatory": null
+}

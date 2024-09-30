@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ton 599",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.72449",
+            "Type": "FSRQ",
+            "Time": null,
+            "Date": "2017-10-29"
+        }
+    ],
+    "References": [
+        "ATel #10932",
+        "ATel #10931",
+        "ATel #10937",
+        "Pacciani et al. 2014, ApJ, 790, 45"
+    ],
+    "Event Type": "Brightness increase in nir and gamma-ray",
+    "Time": null,
+    "Date": "2017-10-29",
+    "Telescope": "Swift",
+    "Instrument": "Swift-UVOT, Swift-XRT",
+    "Observatory": "Swift Observatory"
+}

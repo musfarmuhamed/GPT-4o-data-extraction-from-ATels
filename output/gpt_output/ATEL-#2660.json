@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2010da",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "3.4",
+            "Date": "2010-06-03"
+        },
+        {
+            "Name": "NGC 300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2008 transient in NGC 300",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2289",
+        "ATEL #2632",
+        "ATEL #2633",
+        "ATEL #2636",
+        "ATEL #2637",
+        "ATEL #2638",
+        "ATEL #2639",
+        "ATEL #2640",
+        "ATEL #2648",
+        "ATEL #2658"
+    ],
+    "Event Type": "New optical and near-IR images obtained",
+    "Time": "3.4",
+    "Date": "2010-06-03",
+    "Telescope": "SMARTS 1.3m",
+    "Instrument": "ANDICAM",
+    "Observatory": "Cerro Tololo"
+}

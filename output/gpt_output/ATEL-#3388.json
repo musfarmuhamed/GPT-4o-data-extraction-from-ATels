@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "possible nova",
+            "RA": "00h42m43.54s",
+            "Dec": "+41d16'37.6\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:00:00",
+            "Date": "2011-05-30"
+        },
+        {
+            "Name": "No.13305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "regular or semi-regular red variable",
+            "Time": null,
+            "Date": "2006-01-01"
+        }
+    ],
+    "References": "Fliri et al., 2006",
+    "Event Type": "discovery",
+    "Time": "00:00:00",
+    "Date": "2011-05-30",
+    "Telescope": "2m RCC telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

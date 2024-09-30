@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 279",
+            "RA": "12:56:11.67",
+            "Dec": "-05:47:21.52",
+            "redshift": null,
+            "Type": "flat-spectrum radio quasar",
+            "Time": "19.45",
+            "Date": "2018-01-19"
+        }
+    ],
+    "References": [
+        "ATels #11189",
+        "#11190",
+        "#11196"
+    ],
+    "Event Type": "optical photometric observations",
+    "Time": "19.45",
+    "Date": "2018-01-19",
+    "Telescope": "0.96 m SARA telescope",
+    "Instrument": "ARC CCD camera",
+    "Observatory": "Kitt Peak National Observatory, Arizona"
+}

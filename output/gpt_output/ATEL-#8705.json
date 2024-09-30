@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ287",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.3056,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "February 15th, 2016"
+        },
+        {
+            "Name": "PKS0851+202",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.3056,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": "February 15th, 2016"
+        },
+        {
+            "Name": "2FGLJ0854.8+2005",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray source",
+            "Time": null,
+            "Date": "February 15th, 2016"
+        }
+    ],
+    "References": "Zola et al. 2016 (Atel#8667)",
+    "Event Type": "NIR flare",
+    "Time": "2457433.9182 MJD",
+    "Date": "February 15th, 2016",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

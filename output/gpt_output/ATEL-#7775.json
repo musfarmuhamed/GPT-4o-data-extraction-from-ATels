@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mf",
+            "RA": "14:14:22.80",
+            "Dec": "+02:58:31.0",
+            "redshift": 0.026,
+            "Type": "supernova",
+            "Time": "UT 2015-07-07.32",
+            "Date": "2015-07-07"
+        },
+        {
+            "Name": "UGC 09108 NED02",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.026,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mt. Cuba Astronomical Foundation, ASAS-SN Homepage",
+    "Event Type": "discovery of a new transient source (supernova)",
+    "Time": "UT 2015-07-07.32",
+    "Date": "2015-07-07",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

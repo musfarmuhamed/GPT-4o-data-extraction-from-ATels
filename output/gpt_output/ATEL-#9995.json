@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J075043.35+790916.6",
+            "RA": "07h 50m 43.35s",
+            "Dec": "+79d 09m 16.6s",
+            "redshift": null,
+            "Type": "QSO flare",
+            "Time": "2017-01-23.88841 UT",
+            "Date": "2017-01-23"
+        },
+        {
+            "Name": "MASTER OT J191712.82+393006.4",
+            "RA": "19h 17m 12.82s",
+            "Dec": "+39d 30m 06.4s",
+            "redshift": null,
+            "Type": "OT, possibly dwarf nova",
+            "Time": "2017-01-24.25633 UT",
+            "Date": "2017-01-24"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L ; Ackermann+, 2015",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Tunka auto-detection system (for MASTER OT J075043.35+790916.6), MASTER-IAC auto-detection system (for MASTER OT J191712.82+393006.4)"
+}

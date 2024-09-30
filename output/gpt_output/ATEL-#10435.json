@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17gu/AT2017eip",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "00:52 UT",
+            "Date": "2017-05-28"
+        },
+        {
+            "Name": "UGC 06831",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.021",
+            "Type": "Elliptical Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Stone et al, ATel #10431",
+        "Greiner et al. 2008, PASP 120, 405",
+        "Schlafly & Finkbeiner 2011"
+    ],
+    "Event Type": "Observation",
+    "Time": "00:52 UT",
+    "Date": "2017-05-28",
+    "Telescope": "2.2m MPG telescope",
+    "Instrument": "GROND",
+    "Observatory": "ESO La Silla Observatory (Chile)"
+}

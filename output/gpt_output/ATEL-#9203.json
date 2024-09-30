@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.047,
+            "Type": "HBL",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9010",
+        "ATel #9070",
+        "ATel #9121",
+        "ATel #9139",
+        "ATel #9148",
+        "ATel #9168"
+    ],
+    "Event Type": "Enhanced gamma-ray flux",
+    "Time": "From 1:00 to 04:30 UTC",
+    "Date": [
+        "MJD 57552",
+        "MJD 57570.00 to 57570.21"
+    ],
+    "Telescope": [
+        "FACT",
+        "MAGIC"
+    ],
+    "Instrument": [
+        "Imaging Atmospheric Cherenkov Telescope"
+    ],
+    "Observatory": "Canary island of La Palma, Spain"
+}

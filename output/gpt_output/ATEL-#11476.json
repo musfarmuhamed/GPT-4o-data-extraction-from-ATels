@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18mmu",
+            "RA": "12 22 10.41",
+            "Dec": "+26 59 40.44",
+            "redshift": "0.079164",
+            "Type": "Ic:",
+            "Time": "Null",
+            "Date": "2018 01 15.67"
+        },
+        {
+            "Name": "PS18nh",
+            "RA": "11 44 40.51",
+            "Dec": "+13 33 44.09",
+            "redshift": "0.11",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 19.35"
+        },
+        {
+            "Name": "Gaia18arh",
+            "RA": "11 37 42.18",
+            "Dec": "-49 10 43.14",
+            "redshift": "0.016912",
+            "Type": "II",
+            "Time": "Null",
+            "Date": "2018 03 19.14"
+        },
+        {
+            "Name": "ASASSN-18gf",
+            "RA": "15 01 57.33",
+            "Dec": "+25 46 15.96",
+            "redshift": "0.044604",
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "2018 03 24.26"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Chambers et al. 2016, arXiv:1612.05560",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383",
+        "Taubenberger et al. 2006, MNRAS, 371, 1459",
+        "Elmhamdi et al. 2003, MNRAS, 338, 939",
+        "Fisher et al. 1995, ApJS, 100, 69",
+        "Sanchez Almeida et al. 2011, ApJ, 735, 125"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2018 March 25",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

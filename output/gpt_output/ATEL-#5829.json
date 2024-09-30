@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "23.75",
+            "Date": "January 23"
+        },
+        {
+            "Name": "SN2014J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "25.73",
+            "Date": "January 25"
+        },
+        {
+            "Name": "GSC 4383-1106",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5818",
+        "Cox et al., ATel #5797",
+        "The AAVSO Photometric All-Sky Survey",
+        "Fukugita et al. (1996, AJ, 111, 1748)"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "2m RCC telescope",
+        "60cm Cassegrain telescope"
+    ],
+    "Instrument": [
+        "echelle spectrograph",
+        "SBIG-STL-1001 CCD camera"
+    ],
+    "Observatory": [
+        "NAO Rozhen (Bulgaria)",
+        "Nicolaus Copernicus University Observatory (Torun, Poland)"
+    ]
+}

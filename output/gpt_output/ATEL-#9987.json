@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017mf",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0257,
+            "Type": "Ia",
+            "Time": null,
+            "Date": {
+                "Discovery": "2017-01-22.95",
+                "Observation": "2017-01-23.04"
+            }
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tomasella et al.",
+            "Year": 2014,
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Authors": "Zhang et al.",
+            "Event Type": "ATel",
+            "ID": 9986
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "Spectroscopic Observation",
+    "Time": "2017-01-23.04",
+    "Date": "2017-01-23",
+    "Telescope": "Asiago 1.22-m Galileo Telescope",
+    "Instrument": "Boller & Chivens spectrograph",
+    "Observatory": "Asiago"
+}

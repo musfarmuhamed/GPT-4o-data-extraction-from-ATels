@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08193798-2234147",
+            "RA": "08:19:37.98",
+            "Dec": "-22:34:14.7",
+            "redshift": 0.018,
+            "Type": "Ib",
+            "Time": "Null",
+            "Date": "20140928"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Dopita et al.",
+            "Year": 2007,
+            "Journal": "ApSS",
+            "Volume": 310,
+            "Page": 255
+        },
+        {
+            "Author": "Blondin & Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "Spectroscopic classification",
+    "Time": "Null",
+    "Date": "2014 Oct 09",
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

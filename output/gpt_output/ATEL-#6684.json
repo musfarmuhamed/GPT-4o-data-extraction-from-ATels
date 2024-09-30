@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14jv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "10.7 UT",
+            "Date": "November 10",
+            "References": [
+                "ATel #6676",
+                "ATel #6680"
+            ]
+        }
+    ],
+    "References": [
+        "ATel #6676",
+        "ATel #6680"
+    ],
+    "Event Type": "optical spectrogram",
+    "Time": "10.7 UT",
+    "Date": "November 10",
+    "Telescope": "23 cm Schmidt-Cassegrain",
+    "Instrument": "Lhires III spectrograph",
+    "Observatory": null
+}

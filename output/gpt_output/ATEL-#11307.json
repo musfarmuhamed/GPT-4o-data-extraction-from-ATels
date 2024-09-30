@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": 254.55268,
+            "Dec": -42.69847,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": 58165.3,
+            "Date": null
+        },
+        {
+            "Name": "VVV J165812.62-424154.78",
+            "RA": 254.55258,
+            "Dec": -42.69855,
+            "redshift": null,
+            "Type": "infrared source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #22416",
+        "GCN #22417",
+        "Goad et al. A&A, 476, 1401, 2007",
+        "Evans et al. MNRAS, 397, 1177, 2009",
+        "ATEL #11306",
+        "UK Swift Science Data Centre at the University of Leicester"
+    ],
+    "Event Type": "Observation",
+    "Time": "MJD 58165.3",
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "PC mode",
+    "Observatory": "UK Swift Science Data Centre at the University of Leicester"
+}

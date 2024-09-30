@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1833-0832",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": "00:00:00",
+            "Date": "2010-03-19"
+        },
+        {
+            "Name": "1E 1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Magnetar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #10526",
+        "ATel #2550",
+        "ATel #2553",
+        "Gogus et al. 2010, astroph/1005.3029",
+        "Camilo et al. 2008, ApJ, 679, 681",
+        "Israel et al. 2010, astroph/1006.2950"
+    ],
+    "Event Type": "short burst",
+    "Time": "00:00:00",
+    "Date": "2010-03-19",
+    "Telescope": [
+        "XMM-Newton",
+        "Swift",
+        "RossiXTE"
+    ],
+    "Instrument": [
+        "BAT"
+    ],
+    "Observatory": null
+}

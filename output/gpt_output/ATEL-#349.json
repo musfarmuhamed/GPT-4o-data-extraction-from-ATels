@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "4.4 s",
+            "Date": null
+        },
+        {
+            "Name": "BQ Cam",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "binary star",
+            "Time": "34.2 d",
+            "Date": null
+        }
+    ],
+    "References": "V. Goranskij and E. Barsukova(ATEL # 245)",
+    "Event Type": "outburst",
+    "Time": null,
+    "Date": "2004",
+    "Telescope": [
+        "RXTE",
+        "PCA"
+    ],
+    "Instrument": [
+        "ASM",
+        "HEXTE"
+    ],
+    "Observatory": null
+}

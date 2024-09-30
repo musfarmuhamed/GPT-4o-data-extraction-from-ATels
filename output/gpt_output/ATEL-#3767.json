@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "new optical transient source",
+            "RA": "11h 44m 39.27s",
+            "Dec": "+35d 58m 03s.9",
+            "redshift": null,
+            "Type": "transient",
+            "Time": "2011-11-15.08",
+            "Date": "2011-11-15"
+        },
+        {
+            "Name": "UGC06716",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://observ.pereplet.ru/images/SN114439.27+355803.9/SN114439.27+355803.9.png",
+    "Event Type": "discovery",
+    "Time": "2011-11-15.08",
+    "Date": "2011-11-15",
+    "Telescope": "MASTER",
+    "Instrument": "unfiltered",
+    "Observatory": "Kislovodsk"
+}

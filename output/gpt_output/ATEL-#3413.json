@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11eon/SN2011dh",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 1993J",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type IIb",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2008ax",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transitional Type IIb",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3398",
+        "CBET #2736",
+        "Silverman et al. (2011, ATEL #3398)",
+        "Filippenko et al. 1993, ApJ, 415, L103",
+        "Chornock et al. 2010, http://xxx.lanl.gov/abs/1001.2775",
+        "Pastorello et al. 2008, MNRAS, 389, 955",
+        "ATEL #3402",
+        "Li et al. 2006, PASP, 118, 37",
+        "ATEL #3400"
+    ],
+    "Event Type": "supernova",
+    "Time": "June 1.69 - June 6.65",
+    "Date": "June 2011",
+    "Telescope": "Palomar 48\" Oschin Telescope, Wise Observatory 1m and 18\" telescopes",
+    "Instrument": "Swift/UVOT",
+    "Observatory": "Wise Observatory"
+}

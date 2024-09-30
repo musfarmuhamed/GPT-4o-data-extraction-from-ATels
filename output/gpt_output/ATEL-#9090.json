@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16fp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0036,
+            "Type": "Ic-broad",
+            "Time": null,
+            "Date": "2016-05-27.55"
+        }
+    ],
+    "References": [
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Yaron & Gal-Yam 2012, PASP, 124, 668",
+        "Giovanelli and Haynes 1993, AJ, 105, 1271"
+    ],
+    "Event Type": "Spectroscopic classifications",
+    "Time": "2016-05-28.15",
+    "Date": "2016-05-28",
+    "Telescope": "Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "NUTS (NOT Unbiased Transient Survey)"
+}

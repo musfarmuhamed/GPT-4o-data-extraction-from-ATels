@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01217-7257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Outburst",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J0119-731",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Outburst",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Coe et al. 2015; ATel #8246",
+        "Haberl et al. 2015; ATel #8305",
+        "Corbet et al. 2003; IAUC # 8064",
+        "Coe et al. 2014; ATel #5806",
+        "Krimm et al., 2013, ApJSS 209,14"
+    ],
+    "Event Type": "Outburst Detection",
+    "Time": null,
+    "Date": [
+        "2014-01-22",
+        "2015-11-20"
+    ],
+    "Telescope": [
+        "INTEGRAL",
+        "XMM",
+        "Swift BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNHunt275",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "iPTF13efv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-05-16"
+        },
+        {
+            "Name": "PSN J09093496+3307204",
+            "RA": "09:09:34.96",
+            "Dec": "+33:07:20.4",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": "2015-05-16"
+        }
+    ],
+    "References": [
+        "ATEL#7042",
+        "ATEL#7409",
+        "ATEL#7514",
+        "ATEL#7515",
+        "ATEL#7517"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "2015-05-16",
+    "Telescope": "60/90 cm Schmidt telescope",
+    "Instrument": null,
+    "Observatory": "Konkoly Observatory, Piszkesteto, Hungary"
+}

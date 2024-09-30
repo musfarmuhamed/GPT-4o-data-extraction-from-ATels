@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1828-249",
+            "RA": 277.2427,
+            "Dec": -25.0304,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "15:04UT",
+            "Date": "October 16, 2013"
+        }
+    ],
+    "References": [
+        "Nakahira et al, ATEL #5474",
+        "Filippova et al., ATEL #5476"
+    ],
+    "Event Type": "observation",
+    "Time": "15:04UT",
+    "Date": "October 16, 2013",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

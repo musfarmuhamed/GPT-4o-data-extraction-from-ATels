@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "broad-line radio galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1630-47",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Krimm et al, ATel #2374; Tomida et al, ATel #2363",
+    "Event Type": "erroneous analysis report",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "BAT hard X-ray transient monitor",
+    "Observatory": null
+}

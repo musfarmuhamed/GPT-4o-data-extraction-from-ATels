@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15bqt",
+            "RA": "17 16 29.27",
+            "Dec": "+19 34 52.1",
+            "redshift": 0.18,
+            "Type": "SN Ia",
+            "Time": "00:00:00",
+            "Date": "2015-07-15"
+        }
+    ],
+    "References": [
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "ATel #7112",
+        "Yaron & Gal-Yam 2012",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "Discovery",
+    "Time": "00:00:00",
+    "Date": "2015-07-15",
+    "Telescope": "P200",
+    "Instrument": "DBSP",
+    "Observatory": "Intermediate Palomar Transient Factory"
+}

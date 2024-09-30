@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V0332+53",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting pulsar",
+            "Time": "63ks",
+            "Date": "2004 December 24-26"
+        }
+    ],
+    "References": "Makishima et al. (1990, ApJ 356 59L)",
+    "Event Type": null,
+    "Time": "Between 2004 December 24-26",
+    "Date": "2004 December 24-26",
+    "Telescope": "RXTE",
+    "Instrument": {
+        "PCA": {
+            "Flux": "2.6E-8 ergs/cm2/s",
+            "Energy Range": "2-10keV"
+        },
+        "HEXTE": {
+            "Energy Range": "above 35keV"
+        }
+    },
+    "Observatory": null
+}

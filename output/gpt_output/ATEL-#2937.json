@@ -1,0 +1,79 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient LMXB/Pulsar in Terzan 5",
+            "RA": "267.01987",
+            "Dec": "-24.78050",
+            "redshift": null,
+            "Type": "Transitional LMXB/Pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX33",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX25",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible quiescent LMXB candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX37",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX35",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 1745-248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Candidate counterpart AKA CX 3",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Bordas 2010, ATEL #2919",
+        "Evans et al. 2009, MNRAS, 397, 1177",
+        "Heinke et al. 2010, ATEL #2933",
+        "Heinke et al. 2006, ApJ, 651, 1098"
+    ],
+    "Event Type": "Swift/XRT on-axis photon counting mode observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": "UVOT",
+    "Observatory": null
+}

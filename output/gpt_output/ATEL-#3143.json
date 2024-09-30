@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1357.2-0933",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "09:23",
+            "Date": "2011-02-02"
+        }
+    ],
+    "References": [
+        "Krimm et al. ATel #3138",
+        "Jonker et al. arXiv:0806.388",
+        "Torres et al. ATel #1958",
+        "Rau, Greiner & Filgas 2011, ATel #3140"
+    ],
+    "Event Type": "spectrum acquisition",
+    "Time": "09:23",
+    "Date": "2011-02-02",
+    "Telescope": "Magellan-Clay telescope",
+    "Instrument": "MagE echellette spectrograph",
+    "Observatory": "Las Campanas Observatory"
+}

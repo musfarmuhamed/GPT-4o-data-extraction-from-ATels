@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2017ceq",
+            "RA": "10:57:39.76",
+            "Dec": "-41:58:33.7",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "20170309"
+        },
+        {
+            "Name": "SN2017cin",
+            "RA": "16:14:00.65",
+            "Dec": "+26:54:58.6",
+            "redshift": "0.033",
+            "Type": "IIn",
+            "Time": "0d",
+            "Date": "20170317"
+        },
+        {
+            "Name": "SN2017cju",
+            "RA": "15:38:34.06",
+            "Dec": "+13:20:52.4",
+            "redshift": "0.05",
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "20170323"
+        },
+        {
+            "Name": "SN2017cka",
+            "RA": "17:07:47.34",
+            "Dec": "+09:49:20.8",
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "10d",
+            "Date": "20170314"
+        }
+    ],
+    "References": [
+        {
+            "Text": "PESSTO, the Public ESO Spectroscopic Survey for Transient Objects (see Smartt et al. 2015, A&A, 579, 40 http://www.pessto.org )",
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Text": "All Sky Automated Survey for SuperNovae ASAS-SN (see Shappee et al. 2014, ApJ, 788, 48 and http://www.astronomy.ohio-state.edu/~assassin/index.shtml )",
+            "URL": "http://www.astronomy.ohio-state.edu/~assassin/index.shtml"
+        },
+        {
+            "Text": "ATLAS survey (see Tonry et al., 2011, PASP, 123, 58)",
+            "URL": null
+        },
+        {
+            "Text": "ESA Gaia Photometric Science Alerts Team and DPAC (http://gsaweb.ast.cam.ac.uk/alerts)",
+            "URL": "http://gsaweb.ast.cam.ac.uk/alerts"
+        },
+        {
+            "Text": "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)",
+            "URL": null
+        },
+        {
+            "Text": "GELATO (Harutyunyan et al., 2008, A&A, 488, 383)",
+            "URL": null
+        },
+        {
+            "Text": "Classification spectra and additional details can be obtained from http://www.pessto.org (via WISeREP) and the IAU Transient Name Server",
+            "URL": "http://www.pessto.org"
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2017 March 24",
+    "Date": "2017 March 24",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "ESO New Technology Telescope at La Silla"
+}

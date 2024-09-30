@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C279",
+            "RA": "12h56m11.1665s",
+            "Dec": "05d47m21.523s",
+            "redshift": 0.536,
+            "Type": "Flat Spectrum Radio Quasar (FSRQ)",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Marziani et al. ApJS, 1996, 104, 37",
+        "Hartman et al. 1999, ApJS, 123, 79",
+        "Albert et al. 2008, Science, 320, 5884",
+        "ATEL #1864"
+    ],
+    "Event Type": "Gamma-ray activity and detection in hard X-rays",
+    "Time": {
+        "Start": "2009 Jul 29",
+        "End": "2009 Aug 04"
+    },
+    "Date": "2009 Jul 29 - Aug 04",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": [
+        "Large Area Telescope (LAT)",
+        "IBIS/ISGRI (INTEGRAL)"
+    ],
+    "Observatory": "INTEGRAL"
+}

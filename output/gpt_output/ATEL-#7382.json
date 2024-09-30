@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J123253.56-511846.1",
+            "RA": "12h 32m 53.56s",
+            "Dec": "-51d 18m 46.1s",
+            "redshift": null,
+            "Type": "Anti-Nova transient",
+            "Time": "2015-04-08.980UT",
+            "Date": "2015-04-08"
+        },
+        {
+            "Name": "USNO-B1 star 0386-0308677",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "detection",
+    "Time": "2015-04-08.980UT",
+    "Date": "2015-04-08",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

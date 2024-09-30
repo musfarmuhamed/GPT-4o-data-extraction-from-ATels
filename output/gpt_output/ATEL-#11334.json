@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1658.2-4242",
+            "RA": "16h58m12.64s",
+            "Dec": "-42d41'54.5''",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "18.02.18UT",
+            "Date": "2018-02-18"
+        },
+        {
+            "Name": "VVV J16581262-42415478",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "known source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GLIMPSE G343.2514+00.0537",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "known source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J16581268-4241563",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GAIA 5966232529369270784",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "GCN #22416, ATel #11307, ATel #11310, ATel #11322",
+    "Event Type": "X-ray transient detection",
+    "Time": "18.02.18UT",
+    "Date": "2018-02-18",
+    "Telescope": "Swift XRT/UVOT, ATCA",
+    "Instrument": null,
+    "Observatory": null
+}

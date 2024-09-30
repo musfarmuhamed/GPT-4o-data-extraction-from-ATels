@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1818.8-1559",
+            "RA": "18h18m51.4s",
+            "Dec": "-15\u00b059'21.1''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unnamed source",
+            "RA": "18h19m13.4s",
+            "Dec": "-16\u00b001'18.8''",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Mereghetti et al. GCN 6927, Sugizaki et al. 2001, ApJS 134, 77",
+    "Event Type": "short soft burst",
+    "Time": null,
+    "Date": "March 28, 2003",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC pn camera",
+    "Observatory": "INTEGRAL"
+}

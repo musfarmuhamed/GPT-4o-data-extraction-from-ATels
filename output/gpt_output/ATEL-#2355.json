@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J14488-5942",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unidentified",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N1",
+            "RA": "14h 49m 00.20s",
+            "Dec": "-59d 45m 03.7s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N2",
+            "RA": "14h 48m 43.33s",
+            "Dec": "-59d 42m 16.3s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observation",
+    "Time": "~16.5 ks",
+    "Date": "2009-09-25",
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

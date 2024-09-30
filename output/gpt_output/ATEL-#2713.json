@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m55s.56",
+            "Dec": "+41d19'25\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2010-06-24.02",
+            "Date": "2010-06-24"
+        },
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m55s.56",
+            "Dec": "+41d19'25\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2010-06-12.04",
+            "Date": "2010-06-12"
+        },
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m55s.56",
+            "Dec": "+41d19'25\".5",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2010-06-21.29",
+            "Date": "2010-06-21"
+        },
+        {
+            "Name": "nova candidate in M 31",
+            "RA": "00h42m55s.62",
+            "Dec": "+41d19'25\".7",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "2010-07-01.082",
+            "Date": "2010-07-01"
+        }
+    ],
+    "References": [
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "Massey et al. 2006",
+        "ATel #2274",
+        "ATel #2435",
+        "Swift data archive"
+    ],
+    "Event Type": "detection of a nova candidate",
+    "Time": null,
+    "Date": null,
+    "Telescope": "UltraViolet/Optical Telescope (UVOT), 40-cm Cassegrain telescope",
+    "Instrument": "UVW1 filter, 2184 x 1472 pixel ST-10XME CCD camera",
+    "Observatory": "Swift satellite, Athens University Observatory, Greece"
+}

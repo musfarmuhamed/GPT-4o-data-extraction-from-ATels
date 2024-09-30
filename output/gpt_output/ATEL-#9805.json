@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16nm",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.030685",
+            "Type": "SN Ia",
+            "Time": "Nov. 25.06",
+            "Date": "2016"
+        },
+        {
+            "Name": "ASASSN-16nn",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0320",
+            "Type": "SN Ia",
+            "Time": "Nov. 25.02",
+            "Date": "2016"
+        },
+        {
+            "Name": "ASASSN-16no",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.020708",
+            "Type": "SN Ia",
+            "Time": "Nov. 28.32",
+            "Date": "2016"
+        },
+        {
+            "Name": "AT2016ice",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "Nov. 23.03",
+            "Date": "2016"
+        }
+    ],
+    "References": [
+        "ATel #9785",
+        "ATel #9796",
+        "ATel #9797"
+    ],
+    "Event Type": null,
+    "Time": "November 23-29",
+    "Date": "2016",
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

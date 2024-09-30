@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MOO-J1142",
+            "RA": null,
+            "Dec": null,
+            "redshift": "1.19",
+            "Type": "galaxy cluster",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SCP16L01",
+            "RA": "11:42:44.88",
+            "Dec": "+15:27:51.72",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "2016-03-10"
+        }
+    ],
+    "References": "HST GO: 13677, 14327; PI: Perlmutter",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-03-10",
+    "Telescope": "Hubble Space Telescope",
+    "Instrument": "Wide Field Camera 3 (WFC3)",
+    "Observatory": null
+}

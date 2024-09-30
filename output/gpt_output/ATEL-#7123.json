@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1935+2154",
+            "RA": "293.724",
+            "Dec": "+21.888",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:16:26 UT",
+            "Date": "2015 February 22"
+        },
+        {
+            "Name": "SGR 1935+2154",
+            "RA": "293.724",
+            "Dec": "+21.888",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:31:11 UT",
+            "Date": "2015 February 22"
+        },
+        {
+            "Name": "SGR 1935+2154",
+            "RA": "293.7315",
+            "Dec": "21.8973",
+            "redshift": null,
+            "Type": null,
+            "Time": "12:17:48.1 UT",
+            "Date": "2015 February 22"
+        }
+    ],
+    "References": [
+        "ATel #6294",
+        "Willingale et al. 2013, MNRAS, 431, 394"
+    ],
+    "Event Type": "Outburst",
+    "Time": "12:16:26 UT, 12:31:11 UT",
+    "Date": "2015 February 22",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Swift Observatory"
+}

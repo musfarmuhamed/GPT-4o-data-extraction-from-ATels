@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GALEXASC J002041.66+251341.1",
+            "RA": "00:20:41.66",
+            "Dec": "+25:13:41.1",
+            "redshift": "0.03561",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15tg",
+            "RA": "00:20:41.06",
+            "Dec": "+25:13:44.61",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "2015-11-30.21",
+            "Date": "2015-11-30.21"
+        }
+    ],
+    "References": [
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Sciences Fund",
+        "ASAS-SN Homepage",
+        "list of all ASAS-SN transients"
+    ],
+    "Event Type": "Discovery of transient source likely a supernova",
+    "Time": "2015-11-30.21",
+    "Date": "2015-11-30",
+    "Telescope": "quadruple 14-cm 'Brutus' telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,65 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2017haj (aka Gaia17clt)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0293",
+            "Type": null,
+            "Time": "15:36:00",
+            "Date": "2017-09-29"
+        },
+        {
+            "Name": "SN 2017hng (aka PTSS-17xsq)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "17:45:13",
+            "Date": "2017-10-21"
+        },
+        {
+            "Name": "AT 2017hnw (aka ATLAS17mns)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:25:55",
+            "Date": "2017-09-26"
+        },
+        {
+            "Name": "SN 2017hor (aka ATLAS17msj)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.04",
+            "Type": "Ia",
+            "Time": "15:27:21",
+            "Date": "2017-10-08"
+        },
+        {
+            "Name": "SN 2017hpa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.015654",
+            "Type": "Ia",
+            "Time": "08:18:16",
+            "Date": "2017-10-25"
+        },
+        {
+            "Name": "MLS171024:020025+031921",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.08",
+            "Type": "Ia",
+            "Time": "07:26:24",
+            "Date": "2017-10-24"
+        }
+    ],
+    "References": "Tomasella et al. 2014, AN, 335, 841",
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago Transient Classification Program"
+}

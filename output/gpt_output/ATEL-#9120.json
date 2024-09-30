@@ -1,0 +1,69 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J200308.64+023410.4",
+            "RA": "20h 03m 08.64s",
+            "Dec": "+02d 34m 10.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-06-02.14910",
+            "Date": "2016-06-02"
+        },
+        {
+            "Name": "MASTER OT J180241.86+090312.9",
+            "RA": "18h 02m 41.86s",
+            "Dec": "+09d 03m 12.9s",
+            "redshift": null,
+            "Type": "dwarf nova",
+            "Time": "2016-06-05.13306",
+            "Date": "2016-06-05"
+        },
+        {
+            "Name": "MASTER OT J130523.22-033819.6",
+            "RA": "13h 05m 23.22s",
+            "Dec": "-03d 38m 19.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-05-30.810",
+            "Date": "2016-05-30"
+        },
+        {
+            "Name": "MASTER OT J190901.75-343617.3",
+            "RA": "19h 09m 01.75s",
+            "Dec": "-34d 36m 17.3s",
+            "redshift": null,
+            "Type": "UG outburst",
+            "Time": "2016-06-02.08521",
+            "Date": "2016-06-02"
+        },
+        {
+            "Name": "MASTER OT J145949.09-194555.3",
+            "RA": "14h 59m 49.09s",
+            "Dec": "-19d 45m 55.3s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-06-02.03126",
+            "Date": "2016-06-02"
+        },
+        {
+            "Name": "MASTER OT J194732.04+405021.8",
+            "RA": "19h 47m 32.04s",
+            "Dec": "+40d 50m 21.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2016-06-03.91119",
+            "Date": "2016-06-03"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-IAC",
+        "MASTER-SAAO",
+        "MASTER-Kislovodsk"
+    ],
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

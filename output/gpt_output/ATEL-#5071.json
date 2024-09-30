@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J20540830-7820035",
+            "RA": "20:54:08.30",
+            "Dec": "-78:20:03.5",
+            "redshift": 0.03,
+            "Type": "SN Ia",
+            "Time": "17.70 UT",
+            "Date": "May 17"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Blondin & Tonry",
+            "Year": 2007,
+            "Publication": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Authors": "Stanishev et al.",
+            "Year": 2007,
+            "Publication": "A&A",
+            "Volume": 469,
+            "Page": 645
+        }
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "17.70 UT",
+    "Date": "May 17",
+    "Telescope": "Faulkes Telescope South",
+    "Instrument": "FLOYDS spectrograph",
+    "Observatory": "Siding Springs"
+}

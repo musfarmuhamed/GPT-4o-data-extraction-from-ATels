@@ -1,0 +1,72 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J005139.2-721704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "new transient",
+            "Time": "22:11:16 UTC",
+            "Date": "2018-11-14"
+        },
+        {
+            "Name": "XTE J0052-723",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": "22:11:16 UTC",
+            "Date": "2018-11-14"
+        },
+        {
+            "Name": "SXP 4.78",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "pulsar",
+            "Time": "22:11:16 UTC",
+            "Date": "2018-11-14"
+        },
+        {
+            "Name": "[M2002] SMC 20671",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "B-type star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[MA93]537",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AzV 129",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #12209",
+        "ATel #12219",
+        "Laycock et al. 2003, MNRAS, 339, 435",
+        "Coe et al. 2005, MNRAS, 356, 502",
+        "Vasilopoulos et al. 2017, MNRAS, 470, 1971",
+        "ATel #8305"
+    ],
+    "Event Type": "temporal analysis",
+    "Time": "22:11:16 UTC",
+    "Date": "2018-11-14",
+    "Telescope": "NICER",
+    "Instrument": "0.2-12 keV X-ray telescope",
+    "Observatory": "International Space Station"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1808.4-3658",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "01:03 UT",
+            "Date": "27 Sept 2008"
+        }
+    ],
+    "References": [
+        "ATEL #1728",
+        "ATEL #1749",
+        "ApJ, 635, 502 (Munoz-Darias et al. 2005)",
+        "Nature 394 346 (Chakrabarty and Morgan 1998)"
+    ],
+    "Event Type": "observation",
+    "Time": "01:03 UT (FORS1) and 00:10 UT (FORS2)",
+    "Date": "27 Sept 2008",
+    "Telescope": "ESO VLT",
+    "Instrument": "Kueyen+FORS1 (1200B Grism), Antu+FORS2 (600B Grism)",
+    "Observatory": "ESO"
+}

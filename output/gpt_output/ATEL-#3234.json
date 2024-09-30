@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "S41749+70",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HB891749+701",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.770",
+            "Type": "blazar",
+            "Time": "JD2455635.0055",
+            "Date": "March 14th, 2011"
+        },
+        {
+            "Name": "CGRaBSJ1748+7005",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.770",
+            "Type": "blazar",
+            "Time": "JD2455635.0055",
+            "Date": "March 14th, 2011"
+        }
+    ],
+    "References": "Lucarelli, et al 2011, Atel#3199",
+    "Event Type": "NIR flare",
+    "Time": "JD2455635.0055",
+    "Date": "March 14th, 2011",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory, National Institute for Astrophysics, Optics and Electronics, Mexico"
+}

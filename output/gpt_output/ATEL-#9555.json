@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kw",
+            "RA": "05:08:05.22",
+            "Dec": "-41:41:13.66",
+            "redshift": "0.044534",
+            "Type": "Supernova",
+            "Time": "2016-09-27.34",
+            "Date": "2016-09-27"
+        },
+        {
+            "Name": "2MASX J05080487-4141151",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.044534",
+            "Type": "Galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, and the Mt. Cuba Astronomical Foundation",
+    "Event Type": "Discovery of a new transient source",
+    "Time": "2016-09-27.34",
+    "Date": "2016-09-27",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Chile"
+}

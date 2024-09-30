@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-B1.0 0288-0337948",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J11440030-6107364",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "emission-line object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 0288-0337502",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be star",
+            "Time": "2007 April 30",
+            "Date": null
+        },
+        {
+            "Name": "IGR J11435-6109",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #370",
+        "ATel #350",
+        "ATel #362",
+        "Negueruela & Schurch (2007, A&A 461, 631)",
+        "ATel #1231",
+        "ATel #377"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "2004 December",
+    "Telescope": "SAAO 1.9-m telescope",
+    "Instrument": "Unit Spectrograph, grating #7, EMMI on the NTT",
+    "Observatory": null
+}

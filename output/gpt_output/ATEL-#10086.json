@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BF Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Eclipsing symbiotic binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Leibowitz and Formiggini 2006, MNRAS, 366, 675",
+        "Munari et al. 2006, CBET No. 596",
+        "Munari et al. 2015 (ATel #7013)",
+        "ATel #7258"
+    ],
+    "Event Type": "Flare / Burst",
+    "Time": null,
+    "Date": [
+        "Between Nov. 22, 2014 and Jan. 29, 2015",
+        "Between Nov. 23.688, 2016 and Dec. 16.697, 2016",
+        "Feb. 13.173, 2017",
+        "Feb. 15.158, 2017"
+    ],
+    "Telescope": "60 cm telescope / 18 cm Maksutov telescope",
+    "Instrument": "FLI ML3041 CCD camera / SBIG CCD camera",
+    "Observatory": "Pavilion G2 / Pavilion G1"
+}

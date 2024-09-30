@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1748-361",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "A1744-36",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "17 48 13.148",
+            "Dec": "-36 07 57.02",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #204",
+        "ATEL #205",
+        "ATEL #208"
+    ],
+    "Event Type": "VLA observations",
+    "Time": null,
+    "Date": "November 10",
+    "Telescope": "VLA",
+    "Instrument": null,
+    "Observatory": "National Radio Astronomy Observatory"
+}

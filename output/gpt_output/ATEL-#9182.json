@@ -1,0 +1,58 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT 2016cxa",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0",
+            "Type": "CV",
+            "Time": "20160623.01",
+            "Date": "20160619.60"
+        },
+        {
+            "Name": "SN 2016cxb",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.029",
+            "Type": "Ia",
+            "Time": "20160623.07",
+            "Date": "20160619.51"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Tomasella et al.",
+            "Published Year": 2014,
+            "Journal": "AN",
+            "Volume": 335,
+            "Page": 841
+        },
+        {
+            "Authors": "Hernandez et al.",
+            "Published Year": 2000,
+            "Journal": "MNRAS",
+            "Volume": 319,
+            "Page": 223
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Published Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        },
+        {
+            "Authors": "Blondin and Tonry",
+            "Published Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC (range 340-820 nm; resolution 1.4 nm)",
+    "Observatory": "Asiago"
+}

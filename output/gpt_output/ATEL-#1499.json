@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "EV Lac",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "dMe flare star",
+            "Time": "2008-04-25T05:13:57",
+            "Date": "2008-04-25"
+        },
+        {
+            "Name": "II Peg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASCA satellite",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "satellite",
+            "Time": null,
+            "Date": "1998"
+        }
+    ],
+    "References": "Favata et al. 2000 A&A 353, 987; Osten et al. (2007 ApJ 654,1052)",
+    "Event Type": "superflare",
+    "Time": "2008-04-25T05:13:57",
+    "Date": "2008-04-25",
+    "Telescope": "Swift",
+    "Instrument": "Burst Alert Telescope (BAT), XRT, UVOT",
+    "Observatory": null
+}

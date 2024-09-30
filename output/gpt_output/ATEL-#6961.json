@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GRB 150101B/Swift J123205.1-10560",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.134,
+            "Type": "Active Galactic Nucleus",
+            "Time": "10:13:31",
+            "Date": "2015-01-07"
+        }
+    ],
+    "References": [
+        "Cummings 2015, GCN 17267",
+        "Cummings et al. 2015, GCN 17268",
+        "Troja et al. 2015, GCN 17289",
+        "Fong 2015, GCN 17288",
+        "Levan et al 2015, GCN 17281"
+    ],
+    "Event Type": "Observation",
+    "Time": "10:13:31",
+    "Date": "2015-01-07",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC/pn",
+    "Observatory": "Null"
+}

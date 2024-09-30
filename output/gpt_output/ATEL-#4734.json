@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2012-NOVA-003",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "He/Ne nova",
+            "Time": "Jan 7.3",
+            "Date": null
+        },
+        {
+            "Name": "OGLE-2012-SN-044",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+20d",
+            "Date": "Jan 7.3"
+        },
+        {
+            "Name": "OGLE-2012-SN-046",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.111",
+            "Type": "SN Ia",
+            "Time": "+19d",
+            "Date": "Jan 8.3"
+        },
+        {
+            "Name": "OGLE-2013-SN-004",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+17d",
+            "Date": "Jan 10.1"
+        },
+        {
+            "Name": "OGLE-2012-SN-006",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.06",
+            "Type": "SN Ibn",
+            "Time": "late",
+            "Date": "Jan 10.2"
+        },
+        {
+            "Name": "OGLE-2013-SN-009",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.060",
+            "Type": "SN Ia",
+            "Time": "+3d",
+            "Date": "Jan 11.1"
+        },
+        {
+            "Name": "CSS130103:080252+162813",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.06",
+            "Type": "SN Ia",
+            "Time": "+24d",
+            "Date": "Jan 11.2"
+        },
+        {
+            "Name": "CSS130103:082702-020234",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01",
+            "Type": "SN II",
+            "Time": "~max",
+            "Date": "Jan 11.2"
+        },
+        {
+            "Name": "OGLE-2013-SN-005",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.07",
+            "Type": "SN II",
+            "Time": "~max",
+            "Date": "Jan 12.1"
+        },
+        {
+            "Name": "PNV J13364430-2950339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II nova",
+            "Time": "early",
+            "Date": "Jan 12.3"
+        }
+    ],
+    "References": [
+        "ATel #4540",
+        "ATel #4641",
+        "ATel #4657",
+        "ATel #4718",
+        "ATel #4495",
+        "ATel #4733",
+        "ATel #4718",
+        "ATel #4723"
+    ],
+    "Event Type": "optical spectroscopy",
+    "Time": "Jan 7-12",
+    "Date": null,
+    "Telescope": "du Pont 2.5-m",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

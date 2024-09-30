@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HD 306414",
+            "RA": "11 21 46.807",
+            "Dec": "-59 51 47.93",
+            "redshift": null,
+            "Type": "B supergiant",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J11215-5952",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "INTEGRAL transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J11214129-5953035",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J11220105-5950185",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS J11220165-5952502",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IR source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Klare & Neckel (1977, A&AS 27, 215)",
+        "Drilling (1991, ApJS 76, 1033)",
+        "Vijapurkar & Drilling (1993, ApJS 89, 293)",
+        "Lutovinov et al. astro-ph/0411550",
+        "ATel #429",
+        "ATel #469"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": null,
+    "Observatory": null
+}

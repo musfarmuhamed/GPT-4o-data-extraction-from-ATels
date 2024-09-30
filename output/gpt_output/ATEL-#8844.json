@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16ahj/AT 2016bey",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.073",
+            "Type": "Type Ia SN",
+            "Time": "19.5",
+            "Date": "2016 March 19"
+        },
+        {
+            "Name": "ATLAS16agv/AT 2016bfc",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.05",
+            "Type": "Type Ia supernova",
+            "Time": "19.5",
+            "Date": "2016 March 19"
+        }
+    ],
+    "References": "ATel #8839",
+    "Event Type": "spectra observation",
+    "Time": "19.5",
+    "Date": "2016 March 19",
+    "Telescope": "LCOGT 2-meter",
+    "Instrument": "FLOYDS",
+    "Observatory": "Haleakala, Hawai'i"
+}

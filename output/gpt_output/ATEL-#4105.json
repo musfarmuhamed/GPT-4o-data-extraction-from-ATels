@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": "20:40-23:00 and 22:30-01:40",
+            "Date": "2012-04-15 and 2012-04-16"
+        },
+        {
+            "Name": "XTE J1118+480",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #4024; #4030; Torres et al. 2002, ApJ, 569, 423; Dubus et al. 2001, ApJ, 553, 307; ATel #4044; ATel #4073",
+    "Event Type": "optical spectroscopy",
+    "Time": "20:40-23:00 and 22:30-01:40",
+    "Date": "2012-04-15 and 2012-04-16",
+    "Telescope": "SALT",
+    "Instrument": "Robert Stobie Spectrograph",
+    "Observatory": null
+}

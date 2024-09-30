@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174535.5-285921",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC174535.5-285920",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray point source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CXOGC174535.4-285925",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray point source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL #3472",
+        "DeWitt et al. 2010, ApJ 721, 1663",
+        "Muno et al. 2009, ApJS 181, 110"
+    ],
+    "Event Type": "X-ray transient detection",
+    "Time": null,
+    "Date": "2005 August 10",
+    "Telescope": "CTIO",
+    "Instrument": "ISPI",
+    "Observatory": null
+}

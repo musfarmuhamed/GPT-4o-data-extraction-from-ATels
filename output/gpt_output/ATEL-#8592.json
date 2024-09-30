@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent Be/X-ray transient pulsar",
+            "Time": null,
+            "Date": "2016-01-24"
+        },
+        {
+            "Name": "GS 0834-430",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "EXO 2030+375",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "A0535+26",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Sugizaki et al. 2015",
+        "Wilson et al. 1997",
+        "Wilson et al. 2002",
+        "Nakajima et al. 2014"
+    ],
+    "Event Type": "X-ray emission detection",
+    "Time": "Event ongoing",
+    "Date": "2016-01-24",
+    "Telescope": [
+        "MAXI/GSC",
+        "Swift/BAT"
+    ],
+    "Instrument": null,
+    "Observatory": null
+}

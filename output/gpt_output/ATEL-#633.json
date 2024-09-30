@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M33 X-7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": "JD 2453635.39",
+            "Date": null
+        },
+        {
+            "Name": "M33 X-7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": "JD 2453642.84",
+            "Date": null
+        },
+        {
+            "Name": "M33 X-7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "high-mass X-ray binary",
+            "Time": "JD 2453642.57",
+            "Date": null
+        }
+    ],
+    "References": [
+        "Pietsch et al. 2004, A&A 413, 879",
+        "Dubus et al. 1999, MNRAS 302, 731"
+    ],
+    "Event Type": "eclipse in- and egress",
+    "Time": [
+        "JD 2453635.39",
+        "JD 2453642.84",
+        "JD 2453642.57"
+    ],
+    "Date": [
+        "2005-09-21",
+        "2005-10-02",
+        null
+    ],
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

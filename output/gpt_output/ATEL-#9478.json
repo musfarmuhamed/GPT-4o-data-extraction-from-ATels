@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16kd",
+            "RA": "17 22 51",
+            "Dec": "-31 58 36.3",
+            "redshift": "0.00",
+            "Type": "Nova",
+            "Time": "20160907",
+            "Date": "2016 09 08"
+        },
+        {
+            "Name": "SN2016fmb",
+            "RA": "21 35 25",
+            "Dec": "+21 19 12.9",
+            "redshift": "0.07",
+            "Type": "Ia",
+            "Time": "20160902",
+            "Date": "2016 09 08"
+        },
+        {
+            "Name": "AT2016fsn",
+            "RA": "01 58 44",
+            "Dec": "+24 01 12.9",
+            "redshift": null,
+            "Type": null,
+            "Time": "20160901",
+            "Date": "2016 09 08"
+        },
+        {
+            "Name": "OGLE16cza",
+            "RA": "01 13 23",
+            "Dec": "-71 15 35.8",
+            "redshift": "0.00",
+            "Type": "Stellar",
+            "Time": "20160908",
+            "Date": "2016 09 08"
+        },
+        {
+            "Name": "SN2016fts",
+            "RA": "02 06 51",
+            "Dec": "+14 43 21.2",
+            "redshift": "0.03",
+            "Type": "Ia",
+            "Time": "20160905",
+            "Date": "2016 09 08"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Shappee et al. 2014, ApJ, 788, 48",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Wyrzykowski et al. 2014 arxiv:1409.1095"
+    ],
+    "Event Type": "Supernova Classifications",
+    "Time": null,
+    "Date": "2016 09 08",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2",
+    "Observatory": "La Silla"
+}

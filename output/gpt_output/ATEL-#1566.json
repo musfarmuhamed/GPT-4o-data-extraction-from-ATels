@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080608:125851+242257",
+            "RA": "12:58:50.55",
+            "Dec": "24:22:57.4",
+            "redshift": null,
+            "Type": "Optical Transient",
+            "Time": "06:33:14",
+            "Date": "2008-06-08 UT"
+        },
+        {
+            "Name": "MAPS-NGP O_379_0244547",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.043",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://voeventnet.cacr.caltech.edu/feeds/ATEL/CSS",
+        "http://voeventnet.org/feeds/Catalina.shtml",
+        "http://voeventnet.caltech.edu/feeds/Catfeed.xml"
+    ],
+    "Event Type": "Optical Transient Detection",
+    "Time": "06:33:14",
+    "Date": "2008-06-08 UT",
+    "Telescope": "Catalina Schmidt Telescope",
+    "Instrument": null,
+    "Observatory": "Catalina Sky Survey"
+}

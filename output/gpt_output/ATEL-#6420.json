@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14es",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-14fj",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01250",
+            "Type": "Type II SN",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #6358",
+        "ATel #6389"
+    ],
+    "Event Type": "optical spectroscopic observations",
+    "Time": "Aug 24.3",
+    "Date": "UT",
+    "Telescope": "MDM 2.4m",
+    "Instrument": "CCDS (range 3800-7450 Angstroms)",
+    "Observatory": "MDM"
+}

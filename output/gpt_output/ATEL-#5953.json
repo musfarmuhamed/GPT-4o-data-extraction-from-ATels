@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J084404.01+794408.7",
+            "RA": "08h 44m 04.01s",
+            "Dec": "+79d 44m 08.7s",
+            "redshift": null,
+            "Type": "new cataclysmic variable, most likely a dwarf nova of Z Cam (UGZ) or SU UMa (UGSU) type",
+            "Time": "2014-03-05.47961",
+            "Date": "2014-03-05"
+        },
+        {
+            "Name": "USNO-A2.0 1650-01314855",
+            "RA": "08 44 03.44",
+            "Dec": "+79 44 08.6",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1697-0036147",
+            "RA": "08 44 03.793",
+            "Dec": "+79 44 09.46",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J084404.7+794410",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J190519.41+301524.4",
+            "RA": "19h 05m 19.41s",
+            "Dec": "+30d 15m 24.4s",
+            "redshift": null,
+            "Type": "new cataclysmic variable, most likely the anti-nova of VY Scl type in the high state",
+            "Time": "2014-03-06.04617",
+            "Date": "2014-03-06"
+        },
+        {
+            "Name": "USNO-A2.0 1200-10461254",
+            "RA": "19 05 19.42",
+            "Dec": "+30 15 24.7",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1202-0321874",
+            "RA": "19 05 19.411",
+            "Dec": "+30 15 24.74",
+            "redshift": null,
+            "Type": "blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J190519.4+301525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J084404+794408-BRIR.jpg, http://master.sai.msu.ru/static/OT/084404.01794408.7.png, http://master.sai.msu.ru/static/OT/J190519+301524-BRIR5x5.jpg, http://master.sai.msu.ru/static/OT/J190519+301524-POSS-Red.jpg, http://master.sai.msu.ru/static/OT/190519.41301524.4.jpg",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur, MASTER-Kislovodsk, MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

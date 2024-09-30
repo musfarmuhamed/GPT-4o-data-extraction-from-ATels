@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS16eho",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type-Ia supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2016gcr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J22321713-2342106",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.065",
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2005hf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Colless et al. 2003, 2dFGRS, arXiv:astroph/0306581; Blondin & Tonry 2007, ApJ, 666, 1024; Huber et al. 2015, ATel #7153",
+    "Event Type": "Spectroscopy",
+    "Time": "2016 Sep 12.0 UT",
+    "Date": "2016-09-12",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J174805.3-244637",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "20:54:00",
+            "Date": "2012-07-17"
+        }
+    ],
+    "References": [
+        "ATEL #4249",
+        "#4242",
+        "Valenti et al. 2007, AJ, 133, 1287"
+    ],
+    "Event Type": "Type-I X-ray burst",
+    "Time": "20:54:00",
+    "Date": "2012-07-17",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "BAT"
+    ],
+    "Observatory": null
+}

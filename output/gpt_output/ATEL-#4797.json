@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J024850.29+401449.5",
+            "RA": "02h 48m 50.29s",
+            "Dec": "+40d 14m 49.5s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-02-03.63411 UT",
+            "Date": "2013-02-03"
+        },
+        {
+            "Name": "MASTER OT J061904.85+291606.4",
+            "RA": "06h 19m 04.85s",
+            "Dec": "+29d 16m 06.4s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-02-04.57531 UT",
+            "Date": "2013-02-04"
+        },
+        {
+            "Name": "MASTER OT J070314.79+202133.9",
+            "RA": "07h 03m 14.79s",
+            "Dec": "+20d 21m 33.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-02-04.58318 UT",
+            "Date": "2013-02-04"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/024850.29401449.5.png",
+        "http://master.sai.msu.ru/static/OT/J061904+291606-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/061904.85291606.4.png",
+        "http://master.sai.msu.ru/static/OT/J070314+202133-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/070314.79202133.9.png"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "Global MASTER Robotic Net"
+}

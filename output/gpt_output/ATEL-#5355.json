@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J002423.75+454728.7",
+            "RA": "00h 24m 23.75s",
+            "Dec": "+45d 47m 28.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-08-26.69771 UT",
+            "Date": "2013-08-26"
+        },
+        {
+            "Name": "MASTER OT J003712.10+403904.0",
+            "RA": "00h 37m 12.10s",
+            "Dec": "+40d 39m 04.0s",
+            "redshift": null,
+            "Type": "possible Nova in M31",
+            "Time": "2013-08-26.71814 UT",
+            "Date": "2013-08-26"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J002423+454728-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/002423.75454728.7.png",
+        "http://master.sai.msu.ru/static/OT/003712.10403904.0.png"
+    ],
+    "Event Type": "Discovery of Optical Transients",
+    "Time": "2013-08-26.69771 UT",
+    "Date": "2013-08-26",
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "MASTER-Amur auto-detection system, MASTER-Kislovodsk"
+}

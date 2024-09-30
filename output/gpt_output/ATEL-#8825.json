@@ -1,0 +1,55 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31N 2006-08a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "9.4 years",
+            "Date": "2016-01-21"
+        },
+        {
+            "Name": "Nova M31N 2013-11d",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "2.2 years",
+            "Date": "2016-01-21"
+        },
+        {
+            "Name": "Nova M31N 2015-08c",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Fe II Nova",
+            "Time": "0.4 years",
+            "Date": "2016-01-21"
+        },
+        {
+            "Name": "Nova M31N 2012-06a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": "2014"
+        }
+    ],
+    "References": [
+        "ATel #8227",
+        "ATel #8228",
+        "ATel #5605",
+        "ATel #5744",
+        "ATel #7963",
+        "ATel #8033",
+        "ATel #6564"
+    ],
+    "Event Type": "X-ray detections",
+    "Time": "January 2016",
+    "Date": "2016-01-01 to 2016-01-21",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC",
+    "Observatory": null
+}

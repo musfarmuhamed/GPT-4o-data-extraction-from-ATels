@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RXTE",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Terzan 5",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J17480-2446",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Z source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Cir X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "#2919",
+        "#2920",
+        "#2922",
+        "#2924",
+        "#2929",
+        "#2932",
+        "#2933",
+        "#2937",
+        "#2939",
+        "#2940",
+        "#2946",
+        "#2952",
+        "Revnivtsev et al. 2001, A&A, 372, 138",
+        "Altamirano et al. 2008, ApJL 673, 35",
+        "Heger et al. 2007, ApJ, 665, 1311",
+        "Bildsten 1998, mfns, 419",
+        "Linares et al. 2010, ApJL, 719, 84"
+    ],
+    "Event Type": "X-ray burst and quasi-periodic oscillations",
+    "Time": [
+        {
+            "Start": "October 13",
+            "End": "October 19"
+        }
+    ],
+    "Date": {
+        "Start": "October 13",
+        "End": "October 19"
+    },
+    "Telescope": "RXTE",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J105908.57+103834.8",
+            "RA": "10h 59m 08.57s",
+            "Dec": "+10d 38m 34.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2016-01-31.06135",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J103351.44+605107.5",
+            "RA": "10h 33m 51.44s",
+            "Dec": "+60d 51m 07.5s",
+            "redshift": null,
+            "Type": "Blazar's flare",
+            "Time": "2016-01-27.58297",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J061653.73-363919.8",
+            "RA": "06h 16m 53.73s",
+            "Dec": "-36d 39m 19.8s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-01-30 20:56:27.891",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J182529.52+082539.8",
+            "RA": "18h 25m 29.52s",
+            "Dec": "+08d 25m 39.8s",
+            "redshift": null,
+            "Type": "possible UVCet-type flare",
+            "Time": "2016-01-27.12203",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J182608.29+301406.1",
+            "RA": "18h 26m 08.29s",
+            "Dec": "+30d 14m 06.1s",
+            "redshift": null,
+            "Type": "bright star with proper motion",
+            "Time": "2016-01-31.24792",
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J133828.06+034426.7",
+            "RA": "13h 38m 28.06s",
+            "Dec": "+03d 44m 26.7s",
+            "redshift": null,
+            "Type": "possible UVCet-type flare",
+            "Time": "2016-01-24.11456",
+            "Date": null
+        }
+    ],
+    "References": "MASTER-Net database",
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": [
+        "MASTER-IAC",
+        "MASTER-Amur",
+        "MASTER-SAAO",
+        "MASTER-Kislovodsk"
+    ]
+}

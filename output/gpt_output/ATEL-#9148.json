@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.047,
+            "Type": "BL Lac type object",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #9139",
+        "Schachter et al. 1993, ApJ, 412, 541",
+        "Atel #8014",
+        "Atel #8107",
+        "Atel #8148",
+        "Atel #8165",
+        "Atel #8193",
+        "Atel #8289",
+        "Atel #8337",
+        "Atel #8342",
+        "Atel #8468",
+        "ATel #9010",
+        "ATel #9070",
+        "ATel #9121"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": "02:15 to 05:00 UTC",
+    "Date": "June 9, MJD 57552",
+    "Telescope": [
+        "FACT",
+        "MAGIC",
+        "VERITAS",
+        "Fermi-LAT",
+        "Swift"
+    ],
+    "Instrument": [
+        "FACT",
+        "MAGIC telescopes",
+        "VERITAS telescopes",
+        "Fermi-LAT detector",
+        "Swift-XRT"
+    ],
+    "Observatory": null
+}

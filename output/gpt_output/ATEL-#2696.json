@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ05414-6858",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Unknown",
+            "RA": "05h41m26.7s",
+            "Dec": "-69g01m25s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS 05412663-6901224",
+            "RA": "05h41m26.63s",
+            "Dec": "-69g01m22.4s",
+            "redshift": null,
+            "Type": "Infrared counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #2695",
+    "Event Type": "Observations",
+    "Time": null,
+    "Date": "June 25",
+    "Telescope": "Swift",
+    "Instrument": null,
+    "Observatory": "INTEGRAL"
+}

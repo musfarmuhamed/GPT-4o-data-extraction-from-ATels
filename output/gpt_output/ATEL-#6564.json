@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2014-02a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SSS",
+            "Time": "2014-08-09.89 UT",
+            "Date": "2014-08-09"
+        },
+        {
+            "Name": "M31N 2012-06a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SSS",
+            "Time": "2014-08-09.89 UT",
+            "Date": "2014-08-09"
+        }
+    ],
+    "References": [
+        "ATel #6374",
+        "ATel #5844",
+        "ATel #4186",
+        "ATel #4216",
+        "ATel #4281",
+        "ATel #4757",
+        "Henze et al. 2014"
+    ],
+    "Event Type": "Detection of supersoft X-ray sources",
+    "Time": "2014-08-09.89 UT",
+    "Date": "2014-08-09",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC pn and MOS",
+    "Observatory": null
+}

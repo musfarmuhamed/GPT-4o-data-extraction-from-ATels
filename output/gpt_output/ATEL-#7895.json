@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GALEXASC J044353.08-094205.8",
+            "RA": "04:43:53.08",
+            "Dec": "-09:42:05.8",
+            "redshift": null,
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-15nx",
+            "RA": "04:43:53.19",
+            "Dec": "-09:42:11.22",
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "08:08",
+            "Date": "2015-08-08"
+        }
+    ],
+    "References": [
+        "ASAS-SN project",
+        "Mt. Cuba Astronomical Foundation",
+        "LCOGT",
+        "Sierra Remote Observatory",
+        "S. Kiyota"
+    ],
+    "Event Type": "Discovery of a transient source",
+    "Time": "08:63",
+    "Date": "2015-08-08",
+    "Telescope": "14-cm 'Brutus' telescope",
+    "Instrument": "Planewave CDK 0.61-m telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

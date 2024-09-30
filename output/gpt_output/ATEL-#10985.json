@@ -1,0 +1,70 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J000435.75+201942.5",
+            "RA": "00h 04m 35.75s",
+            "Dec": "+20d 19m 42.5s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-11-16.44846",
+            "Date": "2017-11-16"
+        },
+        {
+            "Name": "BZQJ0004+2019",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flare",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J020344.24+304238.8",
+            "RA": "02h 03m 44.24s",
+            "Dec": "+30d 42m 38.8s",
+            "redshift": null,
+            "Type": null,
+            "Time": "2017-11-14 15:03:02",
+            "Date": "2017-11-14"
+        },
+        {
+            "Name": "BZBJ0203+3042",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flare",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J115158.31-472158.9",
+            "RA": "11h 51m 58.31s",
+            "Dec": "-47d 21m 58.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2017-11-12.09500",
+            "Date": "2017-11-12"
+        },
+        {
+            "Name": "MASTER OT J033915.96-270426.0",
+            "RA": "03h 39m 15.96s",
+            "Dec": "-27d 04m 26.0s",
+            "redshift": null,
+            "Type": "UVCet flare",
+            "Time": "2017-11-13.11413",
+            "Date": "2017-11-13"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER",
+    "Instrument": null,
+    "Observatory": [
+        "MASTER-Tunka",
+        "MASTER-IAC",
+        "MASTER-SAAO",
+        "MASTER-OAFA"
+    ]
+}

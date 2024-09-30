@@ -1,0 +1,49 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J163040.68+443034.7",
+            "RA": "16h 30m 40.68s",
+            "Dec": "+44d 30m 34.7s",
+            "redshift": null,
+            "Type": "possible Supernova",
+            "Time": "2014-03-11.79308 UT",
+            "Date": "2014-03-11"
+        }
+    ],
+    "Celestial Object References": [
+        {
+            "Name": "PGC 58391",
+            "RA": "16h 30m 41.34s",
+            "Dec": "+44d 30m 48.5s",
+            "redshift": "0.0316",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MCG+07-34-101",
+            "RA": "16h 30m 41.34s",
+            "Dec": "+44d 30m 48.5s",
+            "redshift": "0.0316",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SDSS J163041.34+443048.5",
+            "RA": "16h 30m 41.34s",
+            "Dec": "+44d 30m 48.5s",
+            "redshift": "0.0316",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/163040.68443034.7.png",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Amur",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

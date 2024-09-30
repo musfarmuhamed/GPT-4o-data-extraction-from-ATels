@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSNJ23194467+1011045",
+            "RA": "23 19 44.67",
+            "Dec": "+10 11 04.5",
+            "redshift": "0.012",
+            "Type": "IIn?",
+            "Time": "very young",
+            "Date": "20131007"
+        },
+        {
+            "Name": "PSNJ23413520+0343305",
+            "RA": "23 41 35.20",
+            "Dec": "+03 43 30.5",
+            "redshift": "0.009",
+            "Type": "IIP",
+            "Time": "+13",
+            "Date": "20130913"
+        },
+        {
+            "Name": "OGLE-2013-SN-070",
+            "RA": "00 45 14.41",
+            "Dec": "-66 19 50.6",
+            "redshift": "0.043",
+            "Type": "Ia",
+            "Time": "+33",
+            "Date": "20130910"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "Spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

@@ -1,0 +1,68 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type I (thermonuclear) X-ray burst",
+            "Time": "00:56:19",
+            "Date": "2010-08-22"
+        },
+        {
+            "Name": "SNR RXJ1713.7-3946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Reference": "Falanga et al., A&A 496, 333, 2009"
+        },
+        {
+            "Reference": "Linares et al., MNRAS 392, L11, 2009"
+        },
+        {
+            "Reference": "GCN 11132, Gotz & Ferrigno, 2009"
+        },
+        {
+            "Reference": "Kuulkers et al. 2003"
+        },
+        {
+            "Reference": "Markwardt et al. ATel #1569"
+        },
+        {
+            "Reference": "Falanga et al., 2009"
+        }
+    ],
+    "Event Type": "type I (thermonuclear) X-ray burst",
+    "Time": "00:56:19",
+    "Date": "2010-08-22",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        {
+            "Instrument": "JEM-X",
+            "Peak Flux": "4 Crab (1e-7 erg/cm2/s)",
+            "Energy Band": "3-30 keV"
+        },
+        {
+            "Instrument": "IBIS/ISGRI",
+            "Peak Flux": "0.35 Crab (3.4 e-9 erg/cm2/s)",
+            "Energy Band": "18-40 keV"
+        }
+    ],
+    "Observatory": "INTEGRAL Burst Alert System (IBAS)"
+}

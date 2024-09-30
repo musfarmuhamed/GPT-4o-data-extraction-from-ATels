@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF12dhk",
+            "RA": "13 15 11.07",
+            "Dec": "+53 16 54.0",
+            "redshift": "0.07",
+            "Type": "SN Ia",
+            "Time": "Apr 21.17",
+            "Date": "Apr 26"
+        },
+        {
+            "Name": "PTF12eph",
+            "RA": "15 01 13.48",
+            "Dec": "+47 33 38.6",
+            "redshift": "0.106",
+            "Type": "SN Ia",
+            "Time": "May 19.43",
+            "Date": "Jun 16"
+        },
+        {
+            "Name": "PTF12hws",
+            "RA": "00 46 21.86",
+            "Dec": "+01 07 24.9",
+            "redshift": "0.13",
+            "Type": "SN Ia",
+            "Time": "Aug 19.41",
+            "Date": "Sep 19"
+        },
+        {
+            "Name": "PTF12irx",
+            "RA": "00 55 57.16",
+            "Dec": "+41 37 30.4",
+            "redshift": "0.126",
+            "Type": "SN Ia",
+            "Time": "Sep 15.16",
+            "Date": "Sep 18"
+        },
+        {
+            "Name": "PTF12itq",
+            "RA": "22 57 55.38",
+            "Dec": "-00 20 25.3",
+            "redshift": "0.22",
+            "Type": "SN Ia",
+            "Time": "Sep 16.32",
+            "Date": "Sep 18"
+        },
+        {
+            "Name": "PTF12ivi",
+            "RA": "00 50 16.23",
+            "Dec": "-00 13 38.0",
+            "redshift": "0.16",
+            "Type": "SN Ia",
+            "Time": "Sep 15.36",
+            "Date": "Sep 24"
+        },
+        {
+            "Name": "PTF12ixq",
+            "RA": "02 52 16.01",
+            "Dec": "+00 31 33.7",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "Sep 21.49",
+            "Date": "Sep 24"
+        },
+        {
+            "Name": "PTF12izc",
+            "RA": "23 43 34.37",
+            "Dec": "+00 34 07.2",
+            "redshift": "0.08",
+            "Type": "SN Ia",
+            "Time": "Sep 21.44",
+            "Date": "Sep 24"
+        },
+        {
+            "Name": "PTF12jje",
+            "RA": "00 52 22.44",
+            "Dec": "+21 09 09.0",
+            "redshift": "0.042",
+            "Type": "SN II",
+            "Time": "Oct 05.11",
+            "Date": "Oct 06"
+        }
+    ],
+    "References": "ATEL #1964, #3253; http://www.astro.caltech.edu/ptf ; Law et al. 2009, PASP, 121, 1395; Rau et al. 2009, PASP, 121, 1334; Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B; Smith et al. 2011, MNRAS, 412, 1309; http://supernova.galaxyzoo.org",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley"
+}

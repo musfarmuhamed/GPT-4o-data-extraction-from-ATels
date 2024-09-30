@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J133017.28+780951.8",
+            "RA": "13h 30m 17.28s",
+            "Dec": "+78d 09m 51.8s",
+            "redshift": null,
+            "Type": "Optical Transient (OT)",
+            "Time": "23:03:55.905, 23:05:36.496, 23:07:37.042",
+            "Date": "2017-02-02"
+        },
+        {
+            "Name": "MASTER OT J134513.91-551738.0",
+            "RA": "13h 45m 13.91s",
+            "Dec": "-55d 17m 38.0s",
+            "redshift": null,
+            "Type": "Optical Transient (OT)",
+            "Time": "00:40:06, 00:29:50, 00:26:11",
+            "Date": "2017-02-03"
+        }
+    ],
+    "References": [
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+        "https://gcn.gsfc.nasa.gov/other/507702864.fermi",
+        "http://master.sai.msu.ru/static/OT/133017.28780951.8.png",
+        "http://master.sai.msu.ru/static/OT/134513.91-551738.0.png"
+    ],
+    "Event Type": "Fermi trigger 507702864",
+    "Time": "04:34:19.80",
+    "Date": "2017-02-02",
+    "Telescope": "MASTER-IAC, MASTER-SAAO",
+    "Instrument": "Auto-detection system",
+    "Observatory": null
+}

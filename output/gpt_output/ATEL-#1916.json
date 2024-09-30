@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2009H",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "SDSS J024554.48-073624.6",
+            "RA": "02h45m54.47s",
+            "Dec": "-07d36'24.7\"",
+            "redshift": "Null",
+            "Type": "non-transient",
+            "Time": "27.4",
+            "Date": "2009 Jan 27"
+        },
+        {
+            "Name": "NGC 1084 nucleus",
+            "RA": "02h45m59.89s",
+            "Dec": "-07d34'42.7\"",
+            "redshift": "Null",
+            "Type": "nucleus",
+            "Time": "27.4",
+            "Date": "2009 Jan 27"
+        },
+        {
+            "Name": "NGC 1084:[HK83] 13",
+            "RA": "02h46m01.97s",
+            "Dec": "-07d34'27.7\"",
+            "redshift": "Null",
+            "Type": "HII region",
+            "Time": "27.4",
+            "Date": "2009 Jan 27"
+        }
+    ],
+    "References": "ATEL #1915",
+    "Event Type": "radio emission detection",
+    "Time": "27.4",
+    "Date": "2009 Jan 27",
+    "Telescope": "VLA",
+    "Instrument": "Null",
+    "Observatory": "NRAO"
+}

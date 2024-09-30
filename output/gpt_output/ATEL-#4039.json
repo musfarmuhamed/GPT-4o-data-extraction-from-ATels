@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNhunt119",
+            "RA": "06:51:13.03",
+            "Dec": "-30:24:58.68",
+            "Redshift": 0.025,
+            "Type": "II",
+            "Time": "Unknown",
+            "Date": "20120323"
+        },
+        {
+            "Name": "LSQ12bgl",
+            "RA": "10:47:46.74",
+            "Dec": "-06:04:20.64",
+            "Redshift": 0.091,
+            "Type": "Ia",
+            "Time": "+19 -19.6 at max",
+            "Date": "20120317"
+        },
+        {
+            "Name": "LSQ12bia",
+            "RA": "10:28:33.79",
+            "Dec": "-10:34:41.52",
+            "Redshift": 0.053,
+            "Type": "Ia",
+            "Time": "+14",
+            "Date": "20120319"
+        },
+        {
+            "Name": "LSQ12bph",
+            "RA": "15:47:32.42",
+            "Dec": "+23:04:46.38",
+            "Redshift": 0.045,
+            "Type": "Ic",
+            "Time": "+15 similar to 02ap, low S/N",
+            "Date": "20120401"
+        },
+        {
+            "Name": "LSQ12bpo",
+            "RA": "11:23:32.49",
+            "Dec": "-12:23:58.92",
+            "Redshift": 0.12,
+            "Type": "Ia",
+            "Time": "+4",
+            "Date": "20120402"
+        }
+    ],
+    "References": [
+        "Valenti et al., ATel #4037",
+        "Hadjiyska et al., ATel #3812",
+        "Blondin & Tonry 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "Supernova classifications",
+    "Time": "PESSTO",
+    "Date": "2012 April 11 and 12",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

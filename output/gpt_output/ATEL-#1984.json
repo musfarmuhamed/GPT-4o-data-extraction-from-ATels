@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "P60-NGC2403-090314",
+            "RA": "07:36:35.00",
+            "Dec": "+65:40:20.8",
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": "14.160",
+            "Date": "2009 Mar 14"
+        },
+        {
+            "Name": "P60-NGC2403-090314",
+            "RA": "07:36:35.00",
+            "Dec": "+65:40:20.8",
+            "redshift": null,
+            "Type": "classical nova",
+            "Time": "20.145",
+            "Date": "2009 Mar 20"
+        }
+    ],
+    "References": "NGC2403",
+    "Event Type": "discovery",
+    "Time": "14.160",
+    "Date": "2009 Mar 14",
+    "Telescope": "Palomar 60-inch Fast Transients In Nearby Galaxies",
+    "Instrument": "Double Beam Spectrograph",
+    "Observatory": "Palomar Hale telescope"
+}

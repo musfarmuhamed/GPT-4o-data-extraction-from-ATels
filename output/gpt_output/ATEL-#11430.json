@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "TXS 0506+056",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.34,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2018 March 13"
+        },
+        {
+            "Name": "TXS 0506+056",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.34,
+            "Type": "BL Lac object",
+            "Time": null,
+            "Date": "2018 March 14"
+        }
+    ],
+    "References": [
+        "ATel #11419",
+        "ATel #10791",
+        "Paiano et al, 2018, ApJ, 854, L32",
+        "ATel #10799",
+        "ATel #10844",
+        "Jermak et al, 2016, MNRAS, 462, 4267"
+    ],
+    "Event Type": "Gamma Ray Activity",
+    "Time": null,
+    "Date": "2018 March 13",
+    "Telescope": "2.0 metre Liverpool Telescope",
+    "Instrument": "RINGO3 polarimeter",
+    "Observatory": "La Palma"
+}

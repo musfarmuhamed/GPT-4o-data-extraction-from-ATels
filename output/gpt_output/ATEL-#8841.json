@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Oph 2016",
+            "RA": "17:35:50.50",
+            "Dec": "-29:34:24.0",
+            "redshift": null,
+            "Type": "Nova",
+            "Time": {
+                "12.5 mag": "10.85",
+                "11.5 mag": "15.30",
+                "12.0 mag": "16.33"
+            },
+            "Date": {
+                "Discovery": "2016 Mar 11",
+                "12.5 mag": "2016 Mar 10",
+                "11.5 mag": "2016 Mar 15",
+                "12.0 mag": "2016 Mar 16"
+            }
+        }
+    ],
+    "References": [
+        "ATel #8809",
+        "ATel #8817",
+        "CBET #4265"
+    ],
+    "Event Type": "Nova",
+    "Time": null,
+    "Date": "2016 Mar 10",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ON246",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.135",
+            "Type": "Blazar",
+            "Time": "JD2457120.8315",
+            "Date": "April 8th, 2015"
+        },
+        {
+            "Name": "FBQSJ123014.0+251807",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.135",
+            "Type": "Blazar",
+            "Time": "JD2457120.8315",
+            "Date": "April 8th, 2015"
+        },
+        {
+            "Name": "CGRaBS J1230+2518",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.135",
+            "Type": "Blazar",
+            "Time": "JD2457120.8315",
+            "Date": "April 8th, 2015"
+        },
+        {
+            "Name": "2FGLJ1230.2+2517",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "S31227+25",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #6982 by Cutini et. al.",
+    "Event Type": "NIR Flaring event",
+    "Time": null,
+    "Date": "April 8th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory",
+    "Organization": "National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

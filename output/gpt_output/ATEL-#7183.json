@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17488-2018",
+            "RA": "17:48:52.2",
+            "Dec": "-20:21:32.6",
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": "02:02:21",
+            "Date": "2015-03-01"
+        },
+        {
+            "Name": "SAX J1748.8-2021",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #7098",
+        "ATel #7106",
+        "ATel #7136",
+        "in't Zand et al. 2001, ApJ, 563, 41",
+        "Pooley et al. 2002, ApJ, 573, 184",
+        "Bozzo et al. (2015)",
+        "Swift/XRT observations (Atel #7106)",
+        "Altamirano et al. 2008, ApJ, 674, 45",
+        "Harris et al. 1996, AJ, 112, 1487"
+    ],
+    "Event Type": "ToO observation",
+    "Time": "02:02:21",
+    "Date": "2015-03-01",
+    "Telescope": "Chandra",
+    "Instrument": "HRC-S",
+    "Observatory": "Chandra X-ray Observatory"
+}

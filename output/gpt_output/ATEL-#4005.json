@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER 161812.44+362852.8",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.02829",
+            "Type": "Ia",
+            "Time": "27.13",
+            "Date": "Mar. 27"
+        },
+        {
+            "Name": "PSN J13054566+4627529",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.024803",
+            "Type": "Ia",
+            "Time": "28.05",
+            "Date": "Mar. 28"
+        },
+        {
+            "Name": "PSNJ15411344+1534222",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.013513",
+            "Type": "II",
+            "Time": "28.13",
+            "Date": "Mar. 28"
+        }
+    ],
+    "References": "Harutyuyan et al. 2008, A.Ap. 488, 383; SDSS 2004; Stanishev et al. 2007, A&A, 469, 645; SDSS4 2005; Patat et al. 1996, A&A, MNRAS, 278, 111; Falco et al 1999, PASP 111, 438",
+    "Event Type": "spectroscopic confirmation",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": null
+}

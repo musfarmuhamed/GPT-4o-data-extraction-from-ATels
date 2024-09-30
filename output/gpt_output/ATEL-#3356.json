@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M15",
+            "RA": "+322.49",
+            "Dec": "+12.17",
+            "redshift": null,
+            "Type": "globular cluster",
+            "Time": "23:23:41",
+            "Date": "2011-05-16"
+        },
+        {
+            "Name": "AC 211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M15 X-2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M15 X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://maxi.riken.jp/top/index.php?cid=1&jname=J2129+121",
+    "Event Type": "X-ray burst",
+    "Time": "23:23:41",
+    "Date": "2011-05-16",
+    "Telescope": "MAXI/GSC",
+    "Instrument": "GSC",
+    "Observatory": "MAXI"
+}

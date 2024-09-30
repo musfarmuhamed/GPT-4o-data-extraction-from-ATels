@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGRJ17559-2612",
+            "RA": "268.9915",
+            "Dec": "-26.2300",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:00",
+            "Date": "2012 August 17"
+        },
+        {
+            "Name": "J17555833-2613457",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "J17555783-2613530",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Atel #4309",
+    "Event Type": "Observation",
+    "Time": "00:00",
+    "Date": "2012 August 17",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15up",
+            "RA": "04:25:39.258",
+            "Dec": "-49:46:19.48",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-12-29.20",
+            "Date": "2015-12-29"
+        },
+        {
+            "Name": "ASASSN-15uq",
+            "RA": "07:09:58.685",
+            "Dec": "-65:07:56.95",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2015-12-29.21",
+            "Date": "2015-12-29"
+        }
+    ],
+    "References": [
+        "J. Brimacombe",
+        "B. Monard",
+        "LCOGT",
+        "NSF grant AST-1515927",
+        "Mt. Cuba Astronomical Foundation",
+        "Center for Cosmology and AstroParticle Physics (CCAPP) at OSU",
+        "Robert Martin Ayers Sciences Fund"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-12-29",
+    "Date": "2015-12-29",
+    "Telescope": "Cassius",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo, Chile"
+}

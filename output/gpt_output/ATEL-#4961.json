@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18245-2452",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star low-mass X-ray binary",
+            "Time": "22:15:57",
+            "Date": "2013-04-07"
+        }
+    ],
+    "References": [
+        "Eckert et al. ATel #4925",
+        "ATel #4927",
+        "ATel #4929",
+        "ATel #4934",
+        "ATel #4959",
+        "ATel #4960",
+        "Papitto et al. (ATel #4959)",
+        "Linares (ATel #4960)"
+    ],
+    "Event Type": "X-ray burst",
+    "Time": "22:15:57",
+    "Date": "2013-04-07",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

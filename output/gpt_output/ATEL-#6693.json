@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J012838.97+053004.6",
+            "RA": "01h 28m 38.97s",
+            "Dec": "+05d 30m 04.6s",
+            "redshift": "Null",
+            "Type": "UV Ceti (flaring red dwarf)",
+            "Time": "20:43:33 UT",
+            "Date": "2014-11-11"
+        },
+        {
+            "Name": "MASTER OT J191906.08-180501.3",
+            "RA": "19h 19m 06.08s",
+            "Dec": "-18d 05m 01.3s",
+            "redshift": "Null",
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "Null",
+            "Date": "2014-11-12"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/012838.97053004.6.jpg",
+        "http://master.sai.msu.ru/static/OT/J191906-180501-VRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/191906.08-180501.3.png"
+    ],
+    "Event Type": "Optical Transients",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": "Null",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

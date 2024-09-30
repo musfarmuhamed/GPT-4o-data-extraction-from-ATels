@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-13an",
+            "RA": "13:45:36.21",
+            "Dec": "-07:19:32.62",
+            "redshift": "0.0216",
+            "Type": "Type Ia SN",
+            "Time": null,
+            "Date": "2013 June 5.34"
+        },
+        {
+            "Name": "2MASX J13453653-0719350",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4987",
+        "ATel #4999",
+        "ATel #5010",
+        "ATel #5082",
+        "ATel #5102"
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2013 June 5.34",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

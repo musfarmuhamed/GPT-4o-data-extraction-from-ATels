@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J0243.6+6124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-Ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Kennea et al, 2017, ATel #10809",
+        "Kouroubatzakis et al. (ATel #10822)",
+        "Martins and Palacios (A&A, 2013, 560, A16)",
+        "Friedman et al. (ApJ, 2013, 723, 33)",
+        "Dickey and Lockman, 1990",
+        "Doroshenko et al., 2017, arXiv:1710.10912",
+        "J. van den Eijnden et al., ATel #10946"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "Oct 9 - 17, 2017 & Oct 23/24, 2017",
+    "Telescope": [
+        "RTT-150",
+        "BTA"
+    ],
+    "Instrument": [
+        "TFOSC",
+        "SCORPIO-2"
+    ],
+    "Observatory": [
+        "TUBITAK National Observatory, Antalya, Turkey",
+        "Special Astrophysical Observatory of the Russian Academy of Sciences"
+    ]
+}

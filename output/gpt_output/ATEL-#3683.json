@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2011fe",
+            "RA": "14:03:05.81",
+            "Dec": "+54:16:25.4",
+            "redshift": null,
+            "Type": "Type Ia supernovae",
+            "Time": null,
+            "Date": "August 24th 2011"
+        }
+    ],
+    "References": [
+        "Nugent et al, ATEL #3581",
+        "Milne et al ApJ 613, 1101, 2004",
+        "Gomez-Gomar, Isern, Jean MNRAS 295, 1, 1998"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "SPI",
+        "IBIS/ISGRI",
+        "JEM-X",
+        "OMC"
+    ],
+    "Observatory": null
+}

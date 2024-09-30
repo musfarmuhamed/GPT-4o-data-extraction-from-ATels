@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CI Cam (XTE J0421+560)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient, Binary system",
+            "Time": null,
+            "Date": "1998 April"
+        }
+    ],
+    "References": [
+        "ATel #416",
+        "Astronomy Reports, 2006, V.50, 664"
+    ],
+    "Event Type": "Scientific Observation and Analysis",
+    "Time": null,
+    "Date": [
+        "1999 January 27",
+        "2006 December 25"
+    ],
+    "Telescope": [
+        "Russian 6-m telescope BTA",
+        "CFHT",
+        "McDonald 2.1-m telescope",
+        "McDonald 2.7-m telescope"
+    ],
+    "Instrument": [
+        "LYNX",
+        "NES spectrograph",
+        "ESPaDOnS spectrograph",
+        "Sandiford spectrograph",
+        "cs2 spectrograph"
+    ],
+    "Observatory": null
+}

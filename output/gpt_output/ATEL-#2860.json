@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0727-11",
+            "RA": "07:30:19.11248",
+            "Dec": "-11:41:12.6006",
+            "redshift": 1.59,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Unknown",
+            "Date": "September 21, 2010"
+        },
+        {
+            "Name": "PKS 0727-115",
+            "RA": "07:30:19.11248",
+            "Dec": "-11:41:12.6006",
+            "redshift": 1.59,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Unknown",
+            "Date": "January 2009"
+        },
+        {
+            "Name": "1FGL J0730.3-1141",
+            "RA": "07:30:19.11248",
+            "Dec": "-11:41:12.6006",
+            "redshift": 1.59,
+            "Type": "Flat Spectrum Radio Quasar",
+            "Time": "Unknown",
+            "Date": "January 2009"
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Petrov & Kovalev, in prep., http://astrogeo.org/rfc",
+        "Zensus et al. 2002"
+    ],
+    "Event Type": "Increasing gamma-ray flux",
+    "Time": "Unknown",
+    "Date": "September 21, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "NASA and DOE collaboration with institutions from France, Italy, Japan, and Sweden"
+}

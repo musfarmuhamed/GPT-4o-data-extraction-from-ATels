@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Cygnus X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Microquasar",
+            "Time": "00:00:00",
+            "Date": "2017-03-15"
+        }
+    ],
+    "References": [
+        "ATel #10138",
+        "ATel #10109",
+        "Tavani et al., Nature, 462, 620",
+        "Abdo et al., Science, 326, 1512",
+        "Piano et al., A&A, 545, A110"
+    ],
+    "Event Type": "gamma ray emission",
+    "Time": "00:00:00",
+    "Date": "2017-03-15",
+    "Telescope": "AGILE-GRID",
+    "Instrument": null,
+    "Observatory": null
+}

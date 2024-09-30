@@ -1,0 +1,20 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova M31 2018-10c",
+            "RA": "00:42:03.10",
+            "Dec": "+41:02:33.1",
+            "redshift": null,
+            "Type": "Fe II spectroscopic class",
+            "Time": "2018-10-20.9969 to 21.0082",
+            "Date": "2018/10/15.457"
+        }
+    ],
+    "References": "CBAT TOCP, ATel #12138, TNS",
+    "Event Type": "photometry",
+    "Time": "2018-10-20.9969 to 21.0082",
+    "Date": "2018/10/15.457",
+    "Telescope": "IAC80",
+    "Instrument": "CAMELOT camera",
+    "Observatory": "Teide Observatory, Tenerife"
+}

@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS080130:021110+171624",
+            "RA": "021110",
+            "Dec": "+171624",
+            "redshift": null,
+            "Type": "Possible CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080213:024607-073833",
+            "RA": "024607",
+            "Dec": "-073833",
+            "redshift": "0.025",
+            "Type": "SN Type II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080227:112633-100210",
+            "RA": "112633",
+            "Dec": "-100210",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080227:160549+192717",
+            "RA": "160549",
+            "Dec": "+192717",
+            "redshift": "0.03",
+            "Type": "SN Type Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080228:105301-075656",
+            "RA": "105301",
+            "Dec": "-075656",
+            "redshift": null,
+            "Type": "Probable SN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080303:075520+203908",
+            "RA": "075520",
+            "Dec": "+203908",
+            "redshift": "0.03",
+            "Type": "SN Type II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080227:113034+130905",
+            "RA": "113034",
+            "Dec": "+130905",
+            "redshift": null,
+            "Type": "SN 2008au",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS080229:115214+301037",
+            "RA": "115214",
+            "Dec": "+301037",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Drake et al., ATEL #1388, ATEL #1399, ATEL #1404; Glikman et al. ATEL #1413",
+    "Event Type": "Spectroscopic Observations",
+    "Time": null,
+    "Date": "2008 March 1, 2, and 3",
+    "Telescope": "Palomar 200-inch telescope",
+    "Instrument": "Double Spectrograph",
+    "Observatory": "Palomar Observatory"
+}

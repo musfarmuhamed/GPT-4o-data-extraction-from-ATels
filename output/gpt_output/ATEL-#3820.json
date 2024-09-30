@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2011ja",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IIP",
+            "Time": "19:52:30",
+            "Date": "2011-12-18"
+        },
+        {
+            "Name": "SN2004et",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC4945",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET 2946",
+        "NED",
+        "Kalberla 2005",
+        "Misra 2007 MNRAS 381 280",
+        "CBET 2946"
+    ],
+    "Event Type": "Swift-ToO",
+    "Time": "19:52:30",
+    "Date": "2011-12-18",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift-XRT",
+        "Swift-UVOT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQ J1849+6705",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.657,
+            "Type": "quasar",
+            "Time": "JD 2456934.7068",
+            "Date": "October 4, 2014"
+        },
+        {
+            "Name": "CGRaBS J1849+6705",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.657,
+            "Type": "quasar",
+            "Time": "JD 2456934.7068",
+            "Date": "October 4, 2014"
+        },
+        {
+            "Name": "2FGLJ 1849.4+6706",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.657,
+            "Type": "Gamma-ray source",
+            "Time": "JD 2456934.7068",
+            "Date": "October 4, 2014"
+        }
+    ],
+    "References": "2456934.7068, 2456864.8854",
+    "Event Type": "NIR brightening",
+    "Time": "JD 2456934.7068",
+    "Date": "October 4, 2014",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory of the National Institute for Astrophysics, Optics and Electronics (Mexico)"
+}

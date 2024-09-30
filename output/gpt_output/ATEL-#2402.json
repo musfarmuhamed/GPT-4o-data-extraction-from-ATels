@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0420-01",
+            "RA": "04:23:15.80073",
+            "Dec": "-01:20:33.0655",
+            "redshift": 0.914,
+            "Type": "gamma-ray",
+            "Time": "null",
+            "Date": "January 21, 2010"
+        },
+        {
+            "Name": "BL Lacertae",
+            "RA": "22:02:43.29137",
+            "Dec": "+42:16:39.9799",
+            "redshift": 0.0686,
+            "Type": "gamma-ray",
+            "Time": "six-hour interval centered on 2010 January 21.375 (UT)",
+            "Date": "January 21, 2010"
+        }
+    ],
+    "References": [
+        "Wills & Lynds 1978, ApJS, 36, 317",
+        "Vermeulen et al., 1995, ApJ, 452L, 5",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Bach et al. (2010) in ATEL #2395",
+        "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/1yr_catalog/"
+    ],
+    "Event Type": "gamma-ray flux increase",
+    "Time": "2010 January 21.375 (UT)",
+    "Date": "January 21, 2010",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi"
+}

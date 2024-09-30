@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "supersoft X-ray transient",
+            "RA": "00:42:09.9",
+            "Dec": "+40:57:48",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "Unknown",
+            "Date": "2007 Dec 13"
+        },
+        {
+            "Name": "supersoft source in the M31 globular cluster Bol 111",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supersoft source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #1333, ATel #1294",
+    "Event Type": "discovery",
+    "Time": "Unknown",
+    "Date": "2007 Dec 13",
+    "Telescope": "Swift",
+    "Instrument": null,
+    "Observatory": "Mount Laguna Observatory"
+}

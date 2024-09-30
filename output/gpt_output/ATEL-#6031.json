@@ -1,0 +1,39 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J151902.07+823951.2",
+            "RA": "15h 19m 02.07s",
+            "Dec": "+82d 39m 51.2s",
+            "redshift": "Null",
+            "Type": "Cataclysmic Variable - Dwarf Nova of SU UMa type",
+            "Time": "2014-03-30.64057 UT",
+            "Date": "2014-03-30"
+        },
+        {
+            "Name": "MASTER OT J140552.41+634223.5",
+            "RA": "11h 55m 23.94s",
+            "Dec": "+33d 55m 37.3s",
+            "redshift": "Unknown",
+            "Type": "Active Quasar",
+            "Time": "2014-03-30.70826 UT",
+            "Date": "2014-03-30"
+        }
+    ],
+    "References": [
+        {
+            "Image Link": "http://master.sai.msu.ru/static/OT/J151902+823951-BRIR5x5.jpg"
+        },
+        {
+            "Image Link": "http://master.sai.msu.ru/static/OT/151902.07823951.2.png"
+        },
+        {
+            "Image Link": "http://master.sai.msu.ru/static/OT/115523.94335537.3.png"
+        }
+    ],
+    "Event Type": "Discovery",
+    "Time": "2014-03-30",
+    "Date": "2014-03-30",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER"
+}

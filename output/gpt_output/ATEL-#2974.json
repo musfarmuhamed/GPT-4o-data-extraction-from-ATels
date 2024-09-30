@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOGlb J174804.8-244648",
+            "RA": "17:48:04.831",
+            "Dec": "-24:46:48.87",
+            "redshift": null,
+            "Type": "quiescent LMXB candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CX3",
+            "RA": "17:48:05.236",
+            "Dec": "-24:46:47.38",
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #2919, #2920, #2922, #2924, #2929, #2932, #2933, #2937, #2939, #2940, #2946, #2952, #2958",
+    "Event Type": "outburst",
+    "Time": "19:30:29",
+    "Date": "2010-10-24",
+    "Telescope": "Chandra",
+    "Instrument": "ACIS S3 chip",
+    "Observatory": "Observatory"
+}

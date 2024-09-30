@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14li",
+            "RA": "12:48:15.23",
+            "Dec": "+17:46:26.22",
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "2014-11-22.63",
+            "Date": "2014-11-22"
+        },
+        {
+            "Name": "PGC 043234",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0206",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Swift",
+        "LCOGT",
+        "UH 2.2m telescope",
+        "SDSS",
+        "ASAS-SN"
+    ],
+    "Event Type": "Discovery and follow-up",
+    "Time": "2014-11-22.63",
+    "Date": "2014-11-22",
+    "Telescope": "Brutus",
+    "Instrument": "Swift UVOT and XRT, SNIFS IFU spectrograph",
+    "Observatory": "Haleakala, Hawaii, LCOGT at McDonald Observatory, UH 2.2m telescope"
+}

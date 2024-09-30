@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Algol",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "eclipsing binary system plus a third star",
+            "Time": "15:22 to 16:52 (UTC)",
+            "Date": "2015-07-25"
+        },
+        {
+            "Name": "NGC 1275",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Schmitt & Favata 1999, Nature 401, 44",
+        "Favata et al. 2000, A&A 362, 628"
+    ],
+    "Event Type": "X-ray flare",
+    "Time": "15:22 to 16:52 (UTC)",
+    "Date": "2015-07-25",
+    "Telescope": "INTEGRAL",
+    "Instrument": "JEM-X",
+    "Observatory": "INTEGRAL satellite"
+}

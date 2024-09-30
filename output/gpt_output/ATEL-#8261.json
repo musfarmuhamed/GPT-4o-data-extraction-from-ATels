@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15so",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.007125,
+            "Type": "Type Ia supernova",
+            "Time": "2015-11-08.93",
+            "Date": "2015-11-08"
+        }
+    ],
+    "References": [
+        {
+            "Name": "ATel #8256"
+        },
+        {
+            "Name": "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)"
+        },
+        {
+            "Name": "SNID (Blondin & Tonry, 2007, ApJ, 666, 1024)"
+        },
+        {
+            "Name": "ATel #8259"
+        }
+    ],
+    "Event Type": "optical spectrum",
+    "Time": "2015-11-08.93",
+    "Date": "2015-11-08",
+    "Telescope": "2.4m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Observatory of Yunnan Observatories (YNAO)"
+}

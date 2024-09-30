@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J17492705+3608360",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Supernova",
+            "Time": "13:47:14",
+            "Date": "2015-04-05"
+        },
+        {
+            "Name": "UGC 11000",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Zheng & Filippenko 2015 ATEL#7345",
+    "Event Type": "Observation",
+    "Time": "13:47:14",
+    "Date": "2015-04-05",
+    "Telescope": "Swift",
+    "Instrument": "Ultraviolet/Optical Telescope (UVOT)",
+    "Observatory": null
+}

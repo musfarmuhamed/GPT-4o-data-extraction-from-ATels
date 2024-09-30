@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS18qdx",
+            "IAU Name": "AT2018cdz",
+            "RA": "15:08:37.21",
+            "Dec": "+48:45:19.02",
+            "redshift": 0.075,
+            "Type": "Ia",
+            "Time": "+4 d",
+            "Date": "2018 Jun 8"
+        },
+        {
+            "Name": "ATLAS18qem",
+            "IAU Name": "AT2018cem",
+            "RA": "16:05:34.82",
+            "Dec": "+32:39:47.27",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "+7 d",
+            "Date": "2018 Jun 8"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2018 Jun 8",
+    "Telescope": "Shane telescope",
+    "Instrument": "Kast spectrograph",
+    "Observatory": null
+}

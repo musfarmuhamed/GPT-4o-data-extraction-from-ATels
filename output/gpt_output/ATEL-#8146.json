@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1956+032",
+            "RA": "299.16266",
+            "Dec": "3.44520",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:09UT",
+            "Date": "October 9th, 2015"
+        },
+        {
+            "Name": "IGR J19566+0326",
+            "RA": "299.16266",
+            "Dec": "3.44520",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "16:09UT",
+            "Date": "October 9th, 2015"
+        },
+        {
+            "Name": "MAXI J1957+032",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": "October 9th, 2015"
+        }
+    ],
+    "References": [
+        "Sugimoto et al., ATEL #8143",
+        "Cherepashchuk et al., ATEL #7506"
+    ],
+    "Event Type": "target-of-opportunity observation",
+    "Time": "16:09UT",
+    "Date": "October 9th, 2015",
+    "Telescope": "Swift",
+    "Instrument": "XRT, UVOT",
+    "Observatory": null
+}

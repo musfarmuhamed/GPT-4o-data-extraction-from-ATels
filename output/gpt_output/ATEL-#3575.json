@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Transient Source",
+            "RA": "00 52 00",
+            "Dec": "-73 29 25.3",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "02:19 to 18:28",
+            "Date": "2011-08-20"
+        },
+        {
+            "Name": "Transient Source",
+            "RA": "00 52 01",
+            "Dec": "-73 29 20",
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "00:45 to 04:06",
+            "Date": "2011-08-21"
+        },
+        {
+            "Name": "Optical Source from Magellanic Cloud Photometric Survey",
+            "RA": "00 52 00.68",
+            "Dec": "-73 29 25.3",
+            "redshift": null,
+            "Type": "Main sequence B star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS Source",
+            "RA": "00 52 00.593",
+            "Dec": "-73 29 25.58",
+            "redshift": null,
+            "Type": "Main sequence B star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Zaritsky et al. 2002, AJ, 123, 855",
+        "Haberl et al. 2000, A&A, 142, 41",
+        "Sasaki et al. 2000, A&A, 147, 75",
+        "Wang & Wu 1992, ApJ, 78, 391"
+    ],
+    "Event Type": "Observation Report",
+    "Time": "02:19 to 18:28 and 00:45 to 04:06",
+    "Date": "2011-08-20 and 2011-08-21",
+    "Telescope": "SWIFT",
+    "Instrument": null,
+    "Observatory": null
+}

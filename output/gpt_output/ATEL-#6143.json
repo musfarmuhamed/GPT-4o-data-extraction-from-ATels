@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ax",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.029 +/- 0.004",
+            "Type": "Type Ia SNe",
+            "Time": "15.4",
+            "Date": "2014-05-15"
+        },
+        {
+            "Name": "Host galaxy (unnamed)",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.058 +/- 0.026",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #6133, Blondin & Tonry, 2007, ApJ, 666, 1024, SDSS, Milne et al. 2013, Schlafly & Finkbeiner 2011",
+    "Event Type": "Observation",
+    "Time": "14.02",
+    "Date": "2014-05-14",
+    "Telescope": "MDM 1.3m telescope",
+    "Instrument": "CCDS spectrograph",
+    "Observatory": "MDM"
+}

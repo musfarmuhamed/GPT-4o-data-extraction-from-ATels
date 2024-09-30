@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016hnl",
+            "RA": "06 04 59.05",
+            "Dec": "-33 24 40.0",
+            "redshift": 0.027,
+            "Type": "Ia",
+            "Time": "Null",
+            "Date": "20161014"
+        },
+        {
+            "Name": "AT2016hnq",
+            "RA": "20 11 13.29",
+            "Dec": "+01 02 30.5",
+            "redshift": 0.301,
+            "Type": "CV",
+            "Time": "Null",
+            "Date": "20161027"
+        },
+        {
+            "Name": "SN2016hqf",
+            "RA": "22 33 22.66",
+            "Dec": "-01 21 25.3",
+            "redshift": 0.055,
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20161027"
+        },
+        {
+            "Name": "SN2016htm",
+            "RA": "02 32 02.62",
+            "Dec": "-26 39 57.2",
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": "at max",
+            "Date": "20161026"
+        },
+        {
+            "Name": "SN2016htn",
+            "RA": "02 11 29.07",
+            "Dec": "-16 30 37.1",
+            "redshift": 0.053,
+            "Type": "Ia",
+            "Time": "-4",
+            "Date": "20161026"
+        }
+    ],
+    "References": "Smartt et al. 2015, A&A, 579, 40; Tonry et al. (2011 PASP, 123, 58); Tonry et al. (ATEL #8680); Huber et al., ATel #7153; Blondin & Tonry, 2007, ApJ, 666, 1024; Howell et al., 2005, ApJ, 634, 1190; Harutyunyan et al., 2008, A&A, 488, 383",
+    "Event Type": "supernova classifications",
+    "Time": "Null",
+    "Date": "2016 Nov 03",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

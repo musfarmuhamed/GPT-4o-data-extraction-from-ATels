@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18tb",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "SN 2018fhw (Type-Ia)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J04180598-6336523",
+            "RA": null,
+            "Dec": null,
+            "redshift": "5090 +/- 30 km/s",
+            "Type": "Host Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #11976, Blondin & Tonry 2007, ApJ, 666, 1024, Transient Name Server SN 2018fhw page",
+    "Event Type": "Spectroscopy",
+    "Time": "2018 August 23.3 UT",
+    "Date": "2018 August 23.3 UT",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

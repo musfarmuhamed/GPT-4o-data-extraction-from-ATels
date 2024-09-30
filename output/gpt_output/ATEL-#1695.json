@@ -1,0 +1,155 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SNF20080823-009",
+            "RA": "00:14:05.664",
+            "Dec": "+25:23:51.00",
+            "redshift": null,
+            "Type": "GALEX UVX QSO candidate",
+            "Time": null,
+            "Date": "2008-08-23"
+        },
+        {
+            "Name": "SNF20080816-008",
+            "RA": "00:20:57.384",
+            "Dec": "+33:28:20.29",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS",
+            "Time": null,
+            "Date": "2008-08-16"
+        },
+        {
+            "Name": "SNF20080825-001",
+            "RA": "02:19:07.704",
+            "Dec": "-07:57:32.40",
+            "redshift": null,
+            "Type": "APM host galaxy, outburst in August 2004",
+            "Time": null,
+            "Date": "2008-08-25"
+        },
+        {
+            "Name": "SNF20080821-001",
+            "RA": "02:41:48.408",
+            "Dec": "-02:50:40.92",
+            "redshift": null,
+            "Type": "APM host galaxy, outburst in October 2007",
+            "Time": null,
+            "Date": "2008-08-21"
+        },
+        {
+            "Name": "SNF20080821-006",
+            "RA": "16:59:03.242",
+            "Dec": "+16:34:37.92",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS",
+            "Time": null,
+            "Date": "2008-08-21"
+        },
+        {
+            "Name": "SNF20080816-007",
+            "RA": "18:17:01.351",
+            "Dec": "+53:56:11.76",
+            "redshift": null,
+            "Type": "Host galaxy in DSS, outburst in July 2005",
+            "Time": null,
+            "Date": "2008-08-16"
+        },
+        {
+            "Name": "SNF20080801-012",
+            "RA": "20:38:38.424",
+            "Dec": "-05:50:44.52",
+            "redshift": null,
+            "Type": "SDSS UVX QSO candidate",
+            "Time": null,
+            "Date": "2008-08-01"
+        },
+        {
+            "Name": "SNF20080802-004",
+            "RA": "20:42:58.752",
+            "Dec": "-00:33:53.28",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS, QSO? Dwarf nova?",
+            "Time": null,
+            "Date": "2008-08-02"
+        },
+        {
+            "Name": "SNF20080801-013",
+            "RA": "20:53:05.829",
+            "Dec": "-05:55:26.40",
+            "redshift": null,
+            "Type": "SDSS UVX QSO candidate",
+            "Time": null,
+            "Date": "2008-08-01"
+        },
+        {
+            "Name": "SNF20080813-013",
+            "RA": "21:32:37.874",
+            "Dec": "+10:18:25.20",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS",
+            "Time": null,
+            "Date": "2008-08-13"
+        },
+        {
+            "Name": "SNF20080823-003",
+            "RA": "21:36:26.472",
+            "Dec": "-00:45:42.12",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS",
+            "Time": null,
+            "Date": "2008-08-23"
+        },
+        {
+            "Name": "SNF20080808-006",
+            "RA": "21:52:02.472",
+            "Dec": "-07:21:16.56",
+            "redshift": null,
+            "Type": "Blue stellar object in SDSS",
+            "Time": null,
+            "Date": "2008-08-08"
+        },
+        {
+            "Name": "SNF20080827-011",
+            "RA": "21:54:24.217",
+            "Dec": "+09:46:28.20",
+            "redshift": null,
+            "Type": "Host galaxy in DSS, outburst in July 2005",
+            "Time": null,
+            "Date": "2008-08-27"
+        },
+        {
+            "Name": "SNF20080826-001",
+            "RA": "22:26:18.74",
+            "Dec": "+08:14:12.9",
+            "redshift": null,
+            "Type": "P200 spec., blue continuum, blazar?",
+            "Time": null,
+            "Date": "2008-08-26"
+        },
+        {
+            "Name": "SNF20080827-010",
+            "RA": "23:49:34.830",
+            "Dec": "-29:00:40.32",
+            "redshift": null,
+            "Type": "V.faint counterpart in DSS",
+            "Time": null,
+            "Date": "2008-08-27"
+        },
+        {
+            "Name": "SNF20080822-001",
+            "RA": "20:38:38.67",
+            "Dec": "+06:00:07.5",
+            "redshift": "~ zero",
+            "Type": "Galactic, dwarf nova",
+            "Time": null,
+            "Date": "2008-08-22"
+        }
+    ],
+    "References": "ATel #1694, VSNET-alert 10487",
+    "Event Type": "additional transients",
+    "Time": "Variable conditions",
+    "Date": "31 August 2008 UT",
+    "Telescope": "Palomar 200-inch telescope",
+    "Instrument": "Double Beam Spectrograph",
+    "Observatory": "Palomar"
+}

@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia18adv",
+            "RA": "12:13:41.37",
+            "Dec": "+28:26:40.0",
+            "redshift": 0.1,
+            "Type": "Ia-norm",
+            "Time": "2018-01-20.08",
+            "Date": "2018-01-14.37"
+        }
+    ],
+    "References": [
+        "ATel #8992",
+        "Blondin and Tonry 2007, ApJ, 666, 1024"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "2018-01-20.08",
+    "Date": "2018-01-14.37",
+    "Telescope": "2.56 m Nordic Optical Telescope",
+    "Instrument": "ALFOSC",
+    "Observatory": "Nordic Optical Telescope (NOT)"
+}

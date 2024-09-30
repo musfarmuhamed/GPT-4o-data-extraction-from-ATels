@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 1806-20",
+            "RA": "18h08.5m",
+            "Dec": "-20d23.0m",
+            "redshift": null,
+            "Type": "Soft Gamma Ray Repeater (SGR)",
+            "Time": "17:50:19.7",
+            "Date": "2003-08-24"
+        },
+        {
+            "Name": "SGR 1806-20",
+            "RA": "18h08.5m",
+            "Dec": "-20d24.0m",
+            "redshift": null,
+            "Type": "Soft Gamma Ray Repeater (SGR)",
+            "Time": "03:55:00.9",
+            "Date": "2003-08-25"
+        }
+    ],
+    "References": "GCN 2351",
+    "Event Type": "Gamma Ray Burst",
+    "Time": null,
+    "Date": "2003-08-24 to 2003-08-25",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

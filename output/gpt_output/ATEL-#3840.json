@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PTF11qju",
+            "RA": "14 15 27.01",
+            "Dec": "+36 24 31.0",
+            "redshift": "0.0282",
+            "Type": "SN II",
+            "Time": "Nov 17.55",
+            "Date": "Dec 27"
+        },
+        {
+            "Name": "PTF11qvc",
+            "RA": "13 20 53.60",
+            "Dec": "+42 49 01.6",
+            "redshift": "0.12",
+            "Type": "SN Ia",
+            "Time": "Nov 23.46",
+            "Date": "Dec 19"
+        },
+        {
+            "Name": "PTF11rem",
+            "RA": "23 53 45.77",
+            "Dec": "-10 33 51.0",
+            "redshift": "0.0787",
+            "Type": "SN Ia",
+            "Time": "Dec 08.14",
+            "Date": "Dec 21"
+        },
+        {
+            "Name": "PTF11rkd",
+            "RA": "01 32 49.46",
+            "Dec": "-00 08 33.3",
+            "redshift": "0.145",
+            "Type": "SN Ia",
+            "Time": "Dec 21.11",
+            "Date": "Dec 27"
+        },
+        {
+            "Name": "PTF11rke",
+            "RA": "01 32 53.51",
+            "Dec": "-00 31 35.2",
+            "redshift": "0.0943",
+            "Type": "SN Ia",
+            "Time": "Dec 21.11",
+            "Date": "Dec 27"
+        }
+    ],
+    "References": "ATEL #1964, #3253; http://www.astro.caltech.edu/ptf/; Law et al. 2009, PASP, 121, 1395; Rau et al. 2009, PASP, 121, 1334; Bloom et al. 2011, http://adsabs.harvard.edu/abs/2011arXiv1106.5491B; Smith et al. 2011, MNRAS, 412, 1309; http://supernova.galaxyzoo.org",
+    "Event Type": "discovery of 5 new supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": "PTF (collaboration of Caltech, LCOGT, the Weizmann Institute, LBNL, Oxford, Columbia, IPAC, and Berkeley)"
+}

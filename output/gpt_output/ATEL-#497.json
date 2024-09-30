@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.859,
+            "Type": "blazar",
+            "Time": "18:40 UT",
+            "Date": "May 15, 2005"
+        }
+    ],
+    "References": [
+        "Balonek, VSNET Alert",
+        "Remillard, ATel 484",
+        "Trushkin et al., ATel 488"
+    ],
+    "Event Type": "Target-of-Opportunity",
+    "Time": "18:40 UT",
+    "Date": "May 15, 2005",
+    "Telescope": "INTEGRAL",
+    "Instrument": "IBIS/ISGRI",
+    "Observatory": null
+}

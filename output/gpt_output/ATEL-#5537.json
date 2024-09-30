@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OGLE-2013-SN-090",
+            "RA": "04 08 38.84",
+            "Dec": "-65 45 59.5",
+            "redshift": 0.125,
+            "Type": "AGN",
+            "Time": null,
+            "Date": "20131006"
+        },
+        {
+            "Name": "OGLE-2013-SN-109",
+            "RA": "01 46 09.34",
+            "Dec": "-67 28 00.0",
+            "redshift": 0.088,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20131030"
+        },
+        {
+            "Name": "OGLE-2013-NOVA-02",
+            "RA": "05:57:58.38",
+            "Dec": "-74:54:09.4",
+            "redshift": 0.003,
+            "Type": "FeII-Nova",
+            "Time": null,
+            "Date": "20131016"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; http://www.pessto.org; Wyrzykowski et al., ATEL #4495; Blondin & Tonry, 2007, ApJ, 666, 1024; Harutyunyan et al., 2008, A&A, 488, 383; http://ned.ipac.caltech.edu/",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2013-11-01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

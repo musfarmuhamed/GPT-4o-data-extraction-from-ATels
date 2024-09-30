@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": "approximately 500 km/s",
+            "Type": "X-ray transient",
+            "Time": "30 ksec",
+            "Date": "29 April 2012"
+        },
+        {
+            "Name": "GRO J1655-40",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "unknown",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4U 1850-087",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "ultra-compact X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Juett, A. M., & Chakrabarty, D., 2005, ApJ, 627, 926",
+        "King, A. L., et al., 2012, ApJ, 746, L20",
+        "Madej, O., & Jonker, P. G., 2011, MNRAS, 412, L11",
+        "Miller, J. M., et al., 2006, Nature, 441, 953",
+        "Miller, J. M., et al., 2008, ApJ, 680, 1359"
+    ],
+    "Event Type": "Observation Report",
+    "Time": "30 ksec",
+    "Date": "29 April 2012",
+    "Telescope": "Chandra",
+    "Instrument": "High Energy Transmission Grating Spectrometer",
+    "Observatory": null
+}

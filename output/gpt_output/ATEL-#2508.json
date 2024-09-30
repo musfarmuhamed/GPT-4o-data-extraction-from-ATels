@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS100313:112547-084941",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "13.32UT",
+            "Date": "Mar 13"
+        },
+        {
+            "Name": "Galaxy1",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.17",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Galaxy2",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.23",
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Quimby et al. (ATel#2492), Pastorello et al. (ATel#2504)",
+    "Event Type": "Supernova",
+    "Time": "13.34UT",
+    "Date": "Mar 13",
+    "Telescope": "Palomar 5m",
+    "Instrument": null,
+    "Observatory": null
+}

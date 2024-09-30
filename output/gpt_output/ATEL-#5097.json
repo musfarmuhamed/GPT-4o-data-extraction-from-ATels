@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MLS130531:100208+115705",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "2013-05-31"
+        },
+        {
+            "Name": "2MASXJ10020847+1157123",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0362",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CGCG 064-031",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0364",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SDSS DR9, NED, Zwicky et al. 1961",
+    "Event Type": "Transient Discovery",
+    "Time": null,
+    "Date": "2013-05-31",
+    "Telescope": "CRTS",
+    "Instrument": null,
+    "Observatory": "CHFT MegaPrime"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J040556.85+714813.1",
+            "RA": "04h 05m 56.85s",
+            "Dec": "+71d 48m 13.1s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova)",
+            "Time": "2013-12-23.77628",
+            "Date": "2013-12-23"
+        },
+        {
+            "Name": "MASTER OT J043252.44+304855.7",
+            "RA": "04h 32m 52.44s",
+            "Dec": "+30d 48m 55.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-12-23.80252",
+            "Date": "2013-12-23"
+        },
+        {
+            "Name": "MASTER OT J061837.94-124658.2",
+            "RA": "06h 18m 37.94s",
+            "Dec": "-12d 46m 58.2s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "2013-12-23.81671",
+            "Date": "2013-12-23"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J040556+714813-POSS-B.jpg",
+        "http://master.sai.msu.ru/static/OT/J040556+714813-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/040556.85714813.1.png",
+        "http://master.sai.msu.ru/static/OT/J043252+304855-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/043252.44304855.7.png",
+        "http://master.sai.msu.ru/static/OT/J061837-124658-JRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/061837.94-124658.2.png"
+    ],
+    "Event Type": "detection",
+    "Time": "2013-12-23",
+    "Date": "2013-12-23",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

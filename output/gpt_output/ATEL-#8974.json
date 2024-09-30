@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AGLJ0917+1511",
+            "RA": "139.27",
+            "Dec": "15.196",
+            "redshift": null,
+            "Type": "Unidentified",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "3FGL J0912.7+1556",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "5BZG J0912+1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Fermi-LAT",
+    "Event Type": "Gamma-ray emission",
+    "Time": "18:00",
+    "Date": "2016-04-17 to 2016-04-19",
+    "Telescope": "AGILE",
+    "Instrument": null,
+    "Observatory": null
+}

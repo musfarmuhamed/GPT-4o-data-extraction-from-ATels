@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RW Aur",
+            "RA": "05 07 49.6",
+            "Dec": "+30 24 05.2",
+            "redshift": null,
+            "Type": "Young Star",
+            "Time": "1:35UT",
+            "Date": "2016-08-25"
+        },
+        {
+            "Name": "RW Aur",
+            "RA": "05 07 49.6",
+            "Dec": "+30 24 05.2",
+            "redshift": null,
+            "Type": "Young Star",
+            "Time": "2:23UT",
+            "Date": "2016-08-26"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Bozhinova et al.",
+            "Journal": "MNRAS",
+            "Status": "under review"
+        },
+        {
+            "Authors": "Rodriguez et al.",
+            "Journal": "AJ",
+            "Volume": "151",
+            "Page": "29",
+            "Year": "2016"
+        },
+        {
+            "Authors": "Schneider et al.",
+            "Journal": "A&A",
+            "Volume": "584",
+            "Page": "9",
+            "Year": "2015"
+        },
+        {
+            "Authors": "Petrov et al.",
+            "Journal": "A&A",
+            "Volume": "577",
+            "Page": "73",
+            "Year": "2015"
+        }
+    ],
+    "Event Type": "Extreme Obscuration Event",
+    "Time": null,
+    "Date": null,
+    "Telescope": "25cm telescope",
+    "Instrument": "CTK-II (Cassegrain-Teleskop-Kamera II)",
+    "Observatory": "University Observatory Jena in Gro\u00dfschwabhausen"
+}

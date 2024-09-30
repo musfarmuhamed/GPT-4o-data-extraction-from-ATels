@@ -1,0 +1,50 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ15bxe",
+            "RA": "12:27:52.38",
+            "Dec": "-17:06:24.95",
+            "redshift": 0.044,
+            "Type": "Type Ia 91T-like",
+            "Time": "2016-01-07",
+            "Date": "2016-01-07"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "Smartt et al.",
+            "Year": 2015,
+            "Journal": "A&A",
+            "Volume": 579,
+            "Page": 40,
+            "URL": "http://www.pessto.org"
+        },
+        {
+            "Authors": "Baltay et al.",
+            "Year": 2013,
+            "Journal": "PASP",
+            "Volume": 125,
+            "Page": 683
+        },
+        {
+            "Authors": "Blondin & Tonry",
+            "Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        },
+        {
+            "Authors": "Harutyunyan et al.",
+            "Year": 2008,
+            "Journal": "A&A",
+            "Volume": 488,
+            "Page": 383
+        }
+    ],
+    "Event Type": "supernova classifications",
+    "Time": "2016-01-07",
+    "Date": "2016-01-07",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

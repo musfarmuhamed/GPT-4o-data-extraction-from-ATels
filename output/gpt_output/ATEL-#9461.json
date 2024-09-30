@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16jh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0389,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-08-30"
+        },
+        {
+            "Name": "ASASSN-16jq",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.024,
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2016-09-01"
+        }
+    ],
+    "References": [
+        "ATel #9407",
+        "ATel #9430",
+        "ATel #9448"
+    ],
+    "Event Type": "spectroscopy",
+    "Time": null,
+    "Date": [
+        "2016-08-30",
+        "2016-09-01"
+    ],
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

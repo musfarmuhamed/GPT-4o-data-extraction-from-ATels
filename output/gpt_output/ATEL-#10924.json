@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "gamma-ray binary system",
+            "Time": "Near MJD 58059.5 to MJD 58059.8",
+            "Date": "2017-11-02.5 to 2017-11-02.8"
+        }
+    ],
+    "References": [
+        "ATel #10818",
+        "ATel #10918"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "MJD 58059.5 to MJD 58059.8",
+    "Date": "2017-11-02.5 to 2017-11-02.8",
+    "Telescope": "Fermi LAT",
+    "Instrument": "Fermi LAT",
+    "Observatory": "Fermi"
+}

@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08070669-2803101",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0037,
+            "Type": "type-II supernova",
+            "Time": "10.9",
+            "Date": "March 10"
+        },
+        {
+            "Name": "ESO 430-020",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Thomas et al. 2011, PASP, 123, 237; CBET 3197; CBET 2902",
+    "Event Type": "Observation",
+    "Time": "10.9",
+    "Date": "March 10",
+    "Telescope": "10-m SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

@@ -1,0 +1,81 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Anomalous X-ray Pulsar (AXP) 1E1547.0-5408",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Anomalous X-ray Pulsar",
+            "Time": "various",
+            "Date": "2007 July 8th, 12th, and August 17th"
+        },
+        {
+            "Name": "Object #1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Possible NIR counterpart",
+            "Time": "night",
+            "Date": "July 12th, 2007"
+        },
+        {
+            "Name": "Object #2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nearby object",
+            "Time": "various",
+            "Date": "2007 July 8th, 12th, and August 17th"
+        },
+        {
+            "Name": "Object #3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nearby object",
+            "Time": "various",
+            "Date": "2007 July 8th, 12th, and August 17th"
+        },
+        {
+            "Name": "Object #4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nearby object",
+            "Time": "various",
+            "Date": "2007 July 8th, 12th, and August 17th"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Krimm et al.",
+            "ID": "GCN 8311, 8312"
+        },
+        {
+            "Author": "Rea et al.",
+            "ID": "Atel #1756"
+        },
+        {
+            "Author": "Gelfand & Gaensler",
+            "ID": "2007"
+        },
+        {
+            "Author": "Camilo et al.",
+            "ID": "2007"
+        },
+        {
+            "Author": "Halpern et al.",
+            "ID": "2008"
+        },
+        {
+            "Author": "Mignani, Rea, Testa, et al.",
+            "ID": "2008 submitted"
+        }
+    ],
+    "Event Type": "X-ray outburst",
+    "Time": "Various",
+    "Date": "2007 July 8th, 12th, and August 17th and 2008 October 3rd",
+    "Telescope": "ESO-VLT",
+    "Instrument": "NAOS-CONICA (NACO)",
+    "Observatory": "European Southern Observatory (ESO)"
+}

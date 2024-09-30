@@ -1,0 +1,67 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M15",
+            "RA": "21h 29m 58.67s",
+            "Dec": "+12deg 09' 58.4''",
+            "redshift": null,
+            "Type": null,
+            "Time": "6.35 UT",
+            "Date": "September 7, 2013"
+        },
+        {
+            "Name": "AC-211",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "known bright persistent source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "M15-X2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "known bright persistent source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Title": "White & Angelini 2001, ApJ, 561, L101",
+            "Link": null
+        },
+        {
+            "Title": "ATel #3393",
+            "Link": null
+        },
+        {
+            "Title": "in't Zand et al. 2007, A&A, 465, 953",
+            "Link": null
+        },
+        {
+            "Title": "Wilms et al. 2000, ApJ, 542, 914",
+            "Link": null
+        },
+        {
+            "Title": "Verner et al. 1996, ApJ, 465, 487",
+            "Link": null
+        },
+        {
+            "Title": "Janulis 1992, Baltic Astr., 1, 25",
+            "Link": null
+        },
+        {
+            "Title": "Hannikainen et al. 2005, MNRAS, 357, 325",
+            "Link": null
+        }
+    ],
+    "Event Type": "brightening",
+    "Time": "6.35 UT",
+    "Date": "September 7, 2013",
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

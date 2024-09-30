@@ -1,0 +1,101 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J06523+5334 Source #1",
+            "RA": "06h 52m 31.35s",
+            "Dec": "+53d 31m 26.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J065230.8+533130",
+            "RA": "06h 52m 31.35s",
+            "Dec": "+53d 31m 26.2s",
+            "redshift": null,
+            "Type": "ROSAT Faint source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "QORG J065231.2+533130",
+            "RA": "06h 52m 31.35s",
+            "Dec": "+53d 31m 26.2s",
+            "redshift": null,
+            "Type": "QSO candidate",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J06523+5334 Source #2",
+            "RA": "06h 52m 07.1s",
+            "Dec": "+53d 30m 28.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1435-0176077",
+            "RA": "06h 52m 07.1s",
+            "Dec": "+53d 30m 28.8s",
+            "redshift": null,
+            "Type": "USNO-B1.0 object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18371+2634 Source #1",
+            "RA": "18h 37m 28.7s",
+            "Dec": "+26d 32m 31.2s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1RXS J183728.8+263225",
+            "RA": "18h 37m 28.7s",
+            "Dec": "+26d 32m 31.2s",
+            "redshift": null,
+            "Type": "ROSAT Faint source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J18371+2634 Source #2",
+            "RA": "18h 37m 28.36s",
+            "Dec": "+26d 29m 44.4s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XMMSL1 J183728.2+262942",
+            "RA": "18h 37m 28.36s",
+            "Dec": "+26d 29m 44.4s",
+            "redshift": null,
+            "Type": "XMM Slew source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "HD 336589",
+            "RA": "18h 37m 28.36s",
+            "Dec": "+26d 29m 44.4s",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. 2010, ApJS, 186, 1",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift/XRT",
+    "Instrument": null,
+    "Observatory": null
+}

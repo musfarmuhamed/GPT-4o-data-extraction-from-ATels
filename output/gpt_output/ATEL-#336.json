@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J16465-4507",
+            "RA": "16:46:35.5",
+            "Dec": "-45:07:04",
+            "redshift": null,
+            "Type": null,
+            "Time": "02:16-04:45 UTC",
+            "Date": "Sept. 14, 2004"
+        },
+        {
+            "Name": "2MASS J16463526-4507045",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL#329"
+    ],
+    "Event Type": "transient",
+    "Time": "02:16-04:45 UTC",
+    "Date": "Sept. 14, 2004",
+    "Telescope": "XMM-Newton",
+    "Instrument": "EPIC/MOS camera",
+    "Observatory": "INTEGRAL"
+}

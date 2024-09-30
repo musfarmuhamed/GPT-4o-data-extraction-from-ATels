@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "probable nova",
+            "RA": "00h42m33.92s",
+            "Dec": "+41d15'52.9\"",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.01869 UT",
+            "Date": "2009 June 21"
+        },
+        {
+            "Name": "J004233.92+411552.6",
+            "RA": "00h42m33.92s",
+            "Dec": "+41d15'52.6\"",
+            "redshift": null,
+            "Type": "unknown",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "nova candidate 2009-05a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "21.01869 UT",
+            "Date": "2009 June 21"
+        }
+    ],
+    "References": "Massey et al. 2007",
+    "Event Type": "discovery and photometry report",
+    "Time": "21.01869 UT",
+    "Date": "2009 June 21",
+    "Telescope": "2m RCC telescope",
+    "Instrument": "CCD",
+    "Observatory": "NAO Rozhen, Bulgaria"
+}

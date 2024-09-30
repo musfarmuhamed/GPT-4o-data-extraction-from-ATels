@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17269-4737",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:18 UT",
+            "Date": "October 15"
+        },
+        {
+            "Name": "XTE J1727-476",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "12:18 UT",
+            "Date": "October 15"
+        }
+    ],
+    "References": [
+        "ATels #623",
+        "ATels #624"
+    ],
+    "Event Type": "TOO observation",
+    "Time": "12:18 UT",
+    "Date": "October 15",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "JEM-X",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": "INTEGRAL"
+}

@@ -1,0 +1,48 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 0402-362",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.417,
+            "Type": "high redshift flat spectrum radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "1FGL J0403.9-3603",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio quasar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J0403.9-3604",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio quasar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Abdo et al. 2010, ApJS, 188, 405",
+        "Abdo et al. 2011, submitted to ApJS, arXiv:1108.1435",
+        "Peterson et al. 1976, ApJ, 207, 5",
+        "Kalberla et al. 2005, A&A, 440, 775",
+        "ATel #3655",
+        "ATel #2413"
+    ],
+    "Event Type": "gamma-ray flare",
+    "Time": "September 20-22, 2011",
+    "Date": "September 22, 2011",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/UVOT"
+    ],
+    "Observatory": "Fermi LAT"
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AX J1845.0-0433",
+            "RA": "281.25658",
+            "Dec": "-4.56593",
+            "redshift": "Null",
+            "Type": "SFXT",
+            "Time": "01:44:39",
+            "Date": "2012-05-05"
+        },
+        {
+            "Name": "IGR J18450-0435",
+            "RA": "281.25658",
+            "Dec": "-4.56593",
+            "redshift": "Null",
+            "Type": "SFXT",
+            "Time": "01:44:39",
+            "Date": "2012-05-05"
+        }
+    ],
+    "References": [
+        "Evans et al. (2009, MNRAS, 397, 1177)",
+        "Kalberla et al. (2005)",
+        "Coe et al. (1996, MNRAS, 281, 333)",
+        "Breeveld et al. (2011, AIP Conf. Proc. 1358, 373)",
+        "Romano et al (2009, ATel #2102)",
+        "Krimm et al. (2006, ATel #904)"
+    ],
+    "Event Type": "Outburst",
+    "Time": "01:44:39",
+    "Date": "2012-05-05",
+    "Telescope": "Swift",
+    "Instrument": "BAT, XRT, UVOT",
+    "Observatory": "Null"
+}

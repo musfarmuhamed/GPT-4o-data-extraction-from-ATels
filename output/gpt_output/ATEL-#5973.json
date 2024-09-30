@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J185957.16+354224.3",
+            "RA": "18h 59m 57.16s",
+            "Dec": "+35d 42m 24.3s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "00:10:55.9",
+            "Date": "2014-03-10"
+        },
+        {
+            "Name": "MASTER OT J185046.27+272044.1",
+            "RA": "18h 50m 46.27s",
+            "Dec": "+27d 20m 44.1s",
+            "redshift": null,
+            "Type": "CV?",
+            "Time": "00:23:34.1",
+            "Date": "2014-03-10"
+        },
+        {
+            "Name": "MASTER OT J194443.38+005637.4",
+            "RA": "19h 44m 43.38s",
+            "Dec": "+00d 56m 37.4s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "07:09:70.97",
+            "Date": "2014-03-10"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J185957+354224-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/185957.16354224.3.jpg",
+        "http://master.sai.msu.ru/static/OT/J185046+272044-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/185046.27272044.1.jpg",
+        "http://master.sai.msu.ru/static/OT/J194443+005637-BRIR5x5.jpg",
+        "http://master.sai.msu.ru/static/OT/194443.38005637.4.jpg"
+    ],
+    "Event Type": "Discovered",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Robotic Net"
+}

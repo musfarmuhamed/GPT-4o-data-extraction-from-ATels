@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "R ~ 12.9-13.0",
+            "Date": [
+                "2016 October 4",
+                "2016 October 5",
+                "2016 October 6"
+            ]
+        },
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "R ~ 13.2",
+            "Date": [
+                "2016 September 22",
+                "2016 September 23"
+            ]
+        },
+        {
+            "Name": "BL Lacertae",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "blazar",
+            "Time": "R ~ 14.1-14.2",
+            "Date": "early September 2016"
+        }
+    ],
+    "References": "Mukherjee, ATel #9599",
+    "Event Type": "optical outburst",
+    "Time": null,
+    "Date": "2016 October 5",
+    "Telescope": "Ferson 0.4-m telescope",
+    "Instrument": "FLI PL1001 CCD camera",
+    "Observatory": "Colgate University's Foggy Bottom Observatory"
+}

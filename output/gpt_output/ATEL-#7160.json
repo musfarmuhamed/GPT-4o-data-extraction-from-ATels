@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J165346.56+164948.6",
+            "RA": "16h 53m 46.56s",
+            "Dec": "+16d 49m 48.6s",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": "2015-02-27.06422",
+            "Date": "2015-02-27"
+        },
+        {
+            "Name": "MASTER OT J104706.90+002936.5",
+            "RA": "10h 47m 06.90s",
+            "Dec": "+00d 29m 36.5s",
+            "redshift": null,
+            "Type": "QSO",
+            "Time": "2015-02-26.81303",
+            "Date": "2015-02-26"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER OT J165346.56+164948.6",
+            "Date": "2010-04-16",
+            "Time": "2010-04-16.97389"
+        },
+        {
+            "Name": "MASTER OT J104706.90+002936.5",
+            "Date": "2010-12-07",
+            "Time": "2010-12-07.122"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

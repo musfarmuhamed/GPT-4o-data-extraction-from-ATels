@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "2MASX J22253147+3859010",
+            "RA": "22:25:31.47",
+            "Dec": "+38:59:01.0",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16hr",
+            "RA": "22:25:31.759",
+            "Dec": "+38:59:03.50",
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "UT 2016-07-26.42",
+            "Date": "2016-07-26"
+        }
+    ],
+    "References": "NSF grant AST-1515927, the Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, the Mt. Cuba Astronomical Foundation, George Skestos, Robert Martin Ayers Sciences Fund",
+    "Event Type": "discovery",
+    "Time": "UT 2016-07-26.42",
+    "Date": "2016-07-26",
+    "Telescope": "\"Brutus\"",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "05:00-17:17",
+            "Date": "April 19"
+        },
+        {
+            "Name": "MAXI J1305-704",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray transient",
+            "Time": "13:19-18:20",
+            "Date": "April 19"
+        }
+    ],
+    "References": [
+        "ATel #4024",
+        "#4030",
+        "#4035",
+        "#4044"
+    ],
+    "Event Type": "Observation",
+    "Time": "05:00-17:17",
+    "Date": "April 19",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "Swift/XRT",
+        "Swift/BAT",
+        "JEM-X",
+        "ISGRI",
+        "REM telescope"
+    ],
+    "Observatory": "La Silla (Chile)"
+}

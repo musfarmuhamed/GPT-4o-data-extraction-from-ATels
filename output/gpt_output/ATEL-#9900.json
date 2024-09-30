@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16pa",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.034,
+            "Type": "SNe Ia-norm",
+            "Time": "00:25:00.00",
+            "Date": "2016-12-25"
+        }
+    ],
+    "References": [
+        {
+            "Authors": "ATel #9893"
+        },
+        {
+            "Authors": "Shappee et al.",
+            "Publication Year": 2014,
+            "Journal": "ApJ",
+            "Volume": 788,
+            "Page": 48
+        },
+        {
+            "Authors": "Blondin & Tonry",
+            "Publication Year": 2007,
+            "Journal": "ApJ",
+            "Volume": 666,
+            "Page": 1024
+        }
+    ],
+    "Event Type": "optical spectroscopic observation",
+    "Time": "00:25:00.00",
+    "Date": "2016-12-25",
+    "Telescope": "du Pont 2.5-m telescope",
+    "Instrument": "WFCCD",
+    "Observatory": "Las Campanas Observatory"
+}

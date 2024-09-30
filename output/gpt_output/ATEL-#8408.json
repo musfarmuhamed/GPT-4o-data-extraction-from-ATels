@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ua",
+            "RA": "13:34:54.473",
+            "Dec": "+10:59:04.69",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "12:12.63",
+            "Date": "2015-12-12"
+        },
+        {
+            "Name": "SDSS J133454.38+105905.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "NSF grant AST-1515927, Mt. Cuba Astronomical Foundation, Center for Cosmology and AstroParticle Physics (CCAPP) at OSU, Robert Martin Ayers Sciences Fund",
+    "Event Type": "transient discovery",
+    "Time": "12:12.63",
+    "Date": "2015-12-12",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

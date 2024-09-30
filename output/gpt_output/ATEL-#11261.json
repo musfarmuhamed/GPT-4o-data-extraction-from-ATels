@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "[hb89]0234+285",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.213,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "January 27th, 2018"
+        },
+        {
+            "Name": "BZQJ0237+2848",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.213,
+            "Type": "QSO",
+            "Time": null,
+            "Date": "January 27th, 2018"
+        },
+        {
+            "Name": "4C+28.07",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": null,
+            "Date": "January 27th, 2018"
+        },
+        {
+            "Name": "3FGLJ0237.9+2848",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": "January 27th, 2018"
+        }
+    ],
+    "References": "ATel #10034",
+    "Event Type": "NIR flare",
+    "Time": "2458145.7470 MJD",
+    "Date": "January 27th, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

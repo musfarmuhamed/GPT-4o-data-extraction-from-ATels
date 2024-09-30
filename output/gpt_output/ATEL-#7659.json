@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": "00:59-01:50 UT",
+            "Date": "Jun 18, 2015"
+        },
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray transient",
+            "Time": "5:3 UT",
+            "Date": "Jun 15, 2015"
+        }
+    ],
+    "References": [
+        "ATELs #7646",
+        "#7647",
+        "#7650",
+        "#7655",
+        "#7658",
+        "Casares et al. 1991, MNRAS, 250, 712",
+        "GCN #17929",
+        "Casares 2015 arXiv:1506.00639"
+    ],
+    "Event Type": "renewed activity",
+    "Time": "00:59-01:50 UT",
+    "Date": "Jun 18, 2015",
+    "Telescope": "GTC-10.4m telescope",
+    "Instrument": "OSIRIS spectrograph",
+    "Observatory": "La Palma (Spain)"
+}

@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1535-571",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray binary",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10699",
+        "ATel #10700",
+        "ATel #10702",
+        "ATel #10704",
+        "ATel #10708",
+        "ATel #10711",
+        "ATel #10716",
+        "ATel #11020",
+        "ATel #11568"
+    ],
+    "Event Type": "spectral state change",
+    "Time": "21:46:09.9 to 22:39:09.9 UT",
+    "Date": "2018 May 03",
+    "Telescope": "Swift-XRT, ATCA",
+    "Instrument": "XRT, Radio",
+    "Observatory": "MAXI, BAT, CASA"
+}

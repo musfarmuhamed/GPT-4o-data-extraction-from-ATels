@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J154047.67+683151.7",
+            "RA": "15h 40m 47.67s",
+            "Dec": "+68d 31m 51.7s",
+            "redshift": null,
+            "Type": "cataclysmic variable (dwarf nova in outburst)",
+            "Time": "19:52:35",
+            "Date": "2013-09-25"
+        },
+        {
+            "Name": "USNO-B1.0 1585-0139108",
+            "RA": "15h 40m 47.473s",
+            "Dec": "+68d 31m 51.91s",
+            "redshift": null,
+            "Type": "faint blue star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J154047.4+683152",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/J154047+683151-BRIR.jpg, http://master.sai.msu.ru/static/OT/154047.67683151.7.png",
+    "Event Type": "detection",
+    "Time": "18:55:55",
+    "Date": "2011-02-26",
+    "Telescope": "MASTER-Tunka",
+    "Instrument": null,
+    "Observatory": null
+}

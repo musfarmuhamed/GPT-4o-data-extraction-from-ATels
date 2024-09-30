@@ -1,0 +1,62 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J04288-6702",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Source A",
+            "RA": "04 27 49.15",
+            "Dec": "-67 04 38.85",
+            "redshift": "Null",
+            "Type": "eclipsing low-mass X-ray binary",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Source B",
+            "RA": "04 29 47.48",
+            "Dec": "-67 03 18.87",
+            "redshift": "0.065",
+            "Type": "Seyfert 1.5 AGN",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "Swift J0826.2-7033",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "1SXPS J082623.1-703143",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "non-magnetic CV",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Mereminskiy et al. (2016, MNRAS 459,140)",
+        "Grebenev et al. (2013, MNRAS 428, 50)",
+        "Strader et al. (2016, Ap.J 831, 89)",
+        "Parisi et al. (2014, A&A 561, 67)",
+        "Parisi et al. (2013, A&A 545, A101)"
+    ],
+    "Event Type": "Update on identification/classification of soft gamma ray sources",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Swift-XRT",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

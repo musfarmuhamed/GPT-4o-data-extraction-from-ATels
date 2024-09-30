@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J122126.39-311248.3",
+            "RA": "12h 21m 26.39s",
+            "Dec": "-31d 12m 48.3s",
+            "redshift": null,
+            "Type": "variable star, possible E",
+            "Time": "02:03:03.0226",
+            "Date": "2015-02-03"
+        },
+        {
+            "Name": "MASTER175847.37+253624.2",
+            "RA": "17h 58m 47.37s",
+            "Dec": "+25d 36m 24.2s",
+            "redshift": null,
+            "Type": "new CV, UV Cet type",
+            "Time": "00:00:00.911",
+            "Date": "2015-01-30"
+        }
+    ],
+    "References": "Lipunov et al., 2010",
+    "Event Type": "OT",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO, MASTER-Tunka",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-SAAO, MASTER-Tunka"
+}

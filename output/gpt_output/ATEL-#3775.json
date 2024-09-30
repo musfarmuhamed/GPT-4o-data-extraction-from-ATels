@@ -1,0 +1,27 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PKS 1510-089",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": "Unknown",
+            "Date": "July 2011"
+        }
+    ],
+    "References": [
+        {
+            "AGILE": "ATel #3470"
+        },
+        {
+            "Fermi": "ATel #3473"
+        }
+    ],
+    "Event Type": "gamma-ray flaring event",
+    "Time": "Unknown",
+    "Date": "July 2011",
+    "Telescope": "32-m single dish antenna",
+    "Instrument": "Enhanced Single-dish Control System (ESCS)",
+    "Observatory": "Medicina"
+}

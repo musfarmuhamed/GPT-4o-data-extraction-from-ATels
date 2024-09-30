@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "3C 454.3",
+            "RA": "22:53:57.748",
+            "Dec": "+16:08:53.56",
+            "redshift": null,
+            "Type": "Blazar",
+            "Time": "12:00 - 18:00 UT",
+            "Date": "2009-12-02"
+        }
+    ],
+    "References": [
+        "Fey et al. 2004, AJ, 127, 3587",
+        "ATel #2326",
+        "ATel #2322",
+        "ATel #2325",
+        "ATel #2200"
+    ],
+    "Event Type": "Gamma-ray Flare",
+    "Time": "12:00 - 18:00 UT",
+    "Date": "2009-12-02",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi Gamma-ray Space Telescope"
+}

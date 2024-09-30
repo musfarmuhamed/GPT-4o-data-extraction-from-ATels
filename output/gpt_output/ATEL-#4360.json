@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1630-47",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting black hole candidate",
+            "Time": "18:18:23 to 22:00:21 UTC",
+            "Date": "2012 Sept. 6"
+        },
+        {
+            "Name": "IGR J17091-3624",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting black hole candidate",
+            "Time": "18:18:23 to 22:00:21 UTC",
+            "Date": "2012 Sept. 6"
+        }
+    ],
+    "References": [
+        "http://heasarc.nasa.gov/docs/swift/results/transients",
+        "ATel #3945",
+        "ATel #4077",
+        "ATel #3916",
+        "ATel #4282",
+        "http://sprg.ssl.berkeley.edu/~bodaghee/isa"
+    ],
+    "Event Type": "monitoring observations",
+    "Time": "18:18:23 to 22:00:21 UTC",
+    "Date": "2012 Sept. 6",
+    "Telescope": "INTEGRAL",
+    "Instrument": "ISGRI",
+    "Observatory": null
+}

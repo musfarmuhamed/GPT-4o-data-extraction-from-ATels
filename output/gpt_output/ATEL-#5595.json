@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13cxv",
+            "RA": "02:51:03.52",
+            "Dec": "-25:08:24.3",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "+7d",
+            "Date": "20131031"
+        },
+        {
+            "Name": "LSQ13czi",
+            "RA": "02:41:08.09",
+            "Dec": "-27:06:34.8",
+            "redshift": 0.11,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "20131114"
+        },
+        {
+            "Name": "LSQ13czl",
+            "RA": "05:10:29.12",
+            "Dec": "-25:42:53.7",
+            "redshift": 0.03,
+            "Type": "II-P",
+            "Time": "~weeks",
+            "Date": "20131114"
+        },
+        {
+            "Name": "LSQ13dbe",
+            "RA": "05:12:46.49",
+            "Dec": "-19:37:33.0",
+            "redshift": 0.13,
+            "Type": "Ia",
+            "Time": "0d",
+            "Date": "20131113"
+        },
+        {
+            "Name": "OGLE-118",
+            "RA": "05:14:47.50",
+            "Dec": "-66:50:29.1",
+            "redshift": 0.07,
+            "Type": "Ia",
+            "Time": "-5d",
+            "Date": "20131117"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037; Hadjiyska et al., ATel #3812; ATel #4495; Wyrzykowski et al. 2012",
+    "Event Type": "supernova classifications",
+    "Time": "2013 November 22",
+    "Date": "2013 November 22",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

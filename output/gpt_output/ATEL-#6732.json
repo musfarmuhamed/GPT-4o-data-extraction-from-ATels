@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ko",
+            "RA": "05:25:18.13",
+            "Dec": "-46:00:20.34",
+            "redshift": "0.042489",
+            "Type": "Transient, possibly supernova",
+            "Time": "Null",
+            "Date": "2014-11-14"
+        },
+        {
+            "Name": "ESO 253-G003",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "0.042489",
+            "Type": "Seyfert II AGN",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": "NED (NASA/IPAC Extragalactic Database), Swift space telescope observations",
+    "Event Type": "Discovery of transient source, possibly a supernova",
+    "Time": "Null",
+    "Date": "2014-11-14",
+    "Telescope": "Brutus",
+    "Instrument": "B&C spectrograph, Swift UVOT, and XRT",
+    "Observatory": "Haleakala, Hawaii, and LCO (Las Campanas Observatory)"
+}

@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15f",
+            "RA": "04:13:13.50",
+            "Dec": "+09:41:57.8",
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": "+14 days",
+            "Date": "2015 Jan 24"
+        },
+        {
+            "Name": "iPTF15fy",
+            "RA": "02:00:27.61",
+            "Dec": "+40:15:40.2",
+            "redshift": 0.09,
+            "Type": "Ia-91T",
+            "Time": "+1 days",
+            "Date": "2015 Feb 01"
+        },
+        {
+            "Name": "iPTF15fz",
+            "RA": "11:43:05.16",
+            "Dec": "+37:52:18.5",
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": "+7 days",
+            "Date": "2015 Jan 29"
+        },
+        {
+            "Name": "iPTF15gj",
+            "RA": "12:35:08.47",
+            "Dec": "+14:07:04.3",
+            "redshift": 0.16,
+            "Type": "Ia-91T",
+            "Time": "near max",
+            "Date": "2015 Feb 04"
+        },
+        {
+            "Name": "iPTF15go",
+            "RA": "14:26:36.78",
+            "Dec": "+24:03:10.2",
+            "redshift": 0.03,
+            "Type": "Ia",
+            "Time": "+3 days",
+            "Date": "2015 Feb 02"
+        }
+    ],
+    "References": "Yaron & Gal-Yam 2012",
+    "Event Type": "SNe Ia",
+    "Time": null,
+    "Date": null,
+    "Telescope": null,
+    "Instrument": null,
+    "Observatory": null
+}

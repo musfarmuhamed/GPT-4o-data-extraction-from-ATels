@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J220303.17-134505.3",
+            "RA": "22h 03m 03.17s",
+            "Dec": "-13d 45m 05.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova)",
+            "Time": "2014-10-13.72115 UT",
+            "Date": "2014-10-13"
+        },
+        {
+            "Name": "GALEX J220303.1-134504",
+            "RA": "22h 03m 01s",
+            "Dec": "-13d 45m 04s",
+            "redshift": null,
+            "Type": "UV counterpart",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/J220303-134505-JRIR.jpg",
+        "http://master.sai.msu.ru/static/OT/J220303-134505-NEAT-2002.jpg",
+        "http://master.sai.msu.ru/static/OT/220303.17-134505.3.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2014-10-13.72115 UT",
+    "Date": "2014-10-13",
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER"
+}

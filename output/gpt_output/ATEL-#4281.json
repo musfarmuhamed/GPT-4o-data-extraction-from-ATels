@@ -1,0 +1,78 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 2012-03b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-03-16.76"
+        },
+        {
+            "Name": "M31N 2012-05a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-05"
+        },
+        {
+            "Name": "M31N 2012-05b",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-05"
+        },
+        {
+            "Name": "M31N 2012-06a",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-06"
+        },
+        {
+            "Name": "M31N 2012-06g",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": null,
+            "Date": "2012-06"
+        },
+        {
+            "Name": "M31N 2011-10f",
+            "RA": "00h42m39.91s",
+            "Dec": "+41d14'35.6\"",
+            "redshift": null,
+            "Type": "UV variable",
+            "Time": null,
+            "Date": "2012-07-19.09"
+        }
+    ],
+    "References": [
+        "ATel #3976",
+        "ATel #4096",
+        "ATel #4096",
+        "ATel #4186",
+        "ATel #3712",
+        "ATel #3755"
+    ],
+    "Event Type": "novae and UV variable observation",
+    "Time": [
+        "2012-05-24.62 UT",
+        "2012-07-19.09 UT"
+    ],
+    "Date": [
+        "2012-05-24",
+        "2012-07-19"
+    ],
+    "Telescope": "Swift satellite",
+    "Instrument": "UVOT (Ultra-violet/Optical Telescope)",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CGRaBSJ1058+0133",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.89",
+            "Type": "quasar",
+            "Time": "JD2457062.9139",
+            "Date": "February 9th, 2015"
+        },
+        {
+            "Name": "PKS1055+018",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.89",
+            "Type": "quasar",
+            "Time": "JD2457062.9139",
+            "Date": "February 9th, 2015"
+        },
+        {
+            "Name": "2FGL J1058.4+0133",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.89",
+            "Type": "gamma ray source",
+            "Time": "JD2457062.9139",
+            "Date": "February 9th, 2015"
+        }
+    ],
+    "References": "S. Jorstad in Atel #7114",
+    "Event Type": "NIR flare",
+    "Time": "JD2457062.9139",
+    "Date": "February 9th, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

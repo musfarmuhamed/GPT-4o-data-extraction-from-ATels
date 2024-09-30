@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J08408-4503",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "07:55:08 UT",
+            "Date": "2008-09-21"
+        }
+    ],
+    "References": [
+        "Gotz et al. 2006, ATel #813",
+        "Leyder et al. 2007; A&A, 465, L35"
+    ],
+    "Event Type": "triggered Swift BAT",
+    "Time": "07:55:08 UT",
+    "Date": "2008-09-21",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "XRT"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,87 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": "Mar 17.65 - 19.02 UT",
+            "Date": "2006-03-17 to 2006-03-19"
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Recurrent nova",
+            "Time": "Mar 20.75 - 22.16 UT",
+            "Date": "2006-03-20 to 2006-03-22"
+        },
+        {
+            "Name": "V1494 Aql",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V4743 Sgr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AE Aqr",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Rapidly spinning magnetic white dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "DQ Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Rapidly spinning magnetic white dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V533 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Rapidly spinning magnetic white dwarf",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GK Per",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Rapidly spinning magnetic white dwarf",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Dobrzycka & Kenyon 1994 AJ 108, 2259",
+        "Drake et al 2003 (ApJ 584, 448)",
+        "Ness et al 2003 (ApJ 594, 127)"
+    ],
+    "Event Type": "X-ray observations following nova explosion",
+    "Time": "Mar 17.65 - Mar 19.02 UT",
+    "Date": "2006-03-17 to 2006-03-19",
+    "Telescope": "Swift",
+    "Instrument": "X-ray telescope (XRT)",
+    "Observatory": null
+}

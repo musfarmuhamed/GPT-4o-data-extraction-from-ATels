@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16gp",
+            "RA": "13:16:42.77",
+            "Dec": "-55:17:59.89",
+            "redshift": "Null",
+            "Type": "supernovae",
+            "Time": "2016-06-27.16",
+            "Date": "2016-06-27"
+        },
+        {
+            "Name": "ASASSN-16gq",
+            "RA": "14:11:36.10",
+            "Dec": "-30:23:53.10",
+            "redshift": "0.023136",
+            "Type": "supernovae",
+            "Time": "2016-06-27.19",
+            "Date": "2016-06-27"
+        }
+    ],
+    "References": "NED",
+    "Event Type": "transient discovery",
+    "Time": "2016-06-27.16",
+    "Date": "2016-06-27",
+    "Telescope": "Cassius",
+    "Instrument": "Null",
+    "Observatory": "Cerro Tololo, Chile"
+}

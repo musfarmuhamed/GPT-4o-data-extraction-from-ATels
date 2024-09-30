@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF17aal",
+            "RA": "07:43:02.52",
+            "Dec": "+11:38:20.44",
+            "redshift": "0.0600",
+            "Type": "SN IIn",
+            "Time": "Null",
+            "Date": "2017-02-01.46"
+        },
+        {
+            "Name": "iPTF17acq",
+            "RA": "05:00:18.52",
+            "Dec": "+71:12:09.84",
+            "redshift": "0.0040",
+            "Type": "Null",
+            "Time": "Null",
+            "Date": "2017-02-04.98"
+        }
+    ],
+    "References": [
+        "ATel #4807",
+        "ATel #7112",
+        "Brink et al. 2013MNRAS.435.1047B",
+        "Rebbapragada et al. 2015AAS...22543402R",
+        "Wozniak et al. 2013AAS...22143105W",
+        "Masci et al. 2016"
+    ],
+    "Event Type": "Discovery of bright transients",
+    "Time": "Null",
+    "Date": "2017-02",
+    "Telescope": "Palomar 200-inch telescope",
+    "Instrument": "Double Beam spectrograph (DBSP)",
+    "Observatory": "Null"
+}

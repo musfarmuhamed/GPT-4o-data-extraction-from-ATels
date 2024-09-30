@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "J21134481+1334335",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016952",
+            "Type": "Type Ia supernova",
+            "Time": "24.27",
+            "Date": "2013-10-24"
+        },
+        {
+            "Name": "NGC 7042",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.016952",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Howell et al. 2005, ApJ, 634, 1190",
+    "Event Type": "spectrum observation",
+    "Time": "24.27",
+    "Date": "2013-10-24",
+    "Telescope": "Faulkes Telescope North",
+    "Instrument": "FLOYDS",
+    "Observatory": null
+}

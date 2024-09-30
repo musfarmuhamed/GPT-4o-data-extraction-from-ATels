@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12eve",
+            "RA": "21:53:16.61",
+            "Dec": "-21:42:55.4",
+            "redshift": "0.098",
+            "Type": "Ia-norm",
+            "Time": "03.17",
+            "Date": "2012 Sept"
+        },
+        {
+            "Name": "LSQ12euu",
+            "RA": "21:31:08.18",
+            "Dec": "-06:42:14.4",
+            "redshift": "0.116",
+            "Type": "Ia-norm",
+            "Time": "01.99",
+            "Date": "2012 Sept"
+        },
+        {
+            "Name": "LSQ12ers",
+            "RA": "23:02:03.72",
+            "Dec": "-22:52:31.8",
+            "redshift": "0.099",
+            "Type": "Ia-norm",
+            "Time": "29.04",
+            "Date": "2012 Aug"
+        }
+    ],
+    "References": "Hadjiyska et al., ATel #3812; Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "amends",
+    "Time": "Sep-06",
+    "Date": "2012",
+    "Telescope": "ANU 2.3m",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

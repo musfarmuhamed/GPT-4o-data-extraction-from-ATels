@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS18ep",
+            "RA": "09:11:22.99",
+            "Dec": "+23:51:28.45",
+            "redshift": 0.061,
+            "Type": "Ia",
+            "Time": "+0 d",
+            "Date": "2018 Jan 16"
+        },
+        {
+            "Name": "PS18eo",
+            "RA": "09:06:15.26",
+            "Dec": "+17:20:21.64",
+            "redshift": 0.114,
+            "Type": "Ib",
+            "Time": "+8 d",
+            "Date": "2018 Jan 16"
+        },
+        {
+            "Name": "PS18eq",
+            "RA": "09:15:38.72",
+            "Dec": "+17:18:22.25",
+            "redshift": 0.102,
+            "Type": "II",
+            "Time": null,
+            "Date": "2018 Jan 16"
+        }
+    ],
+    "References": "Blondin & Tonry, 2007, ApJ, 666, 1024",
+    "Event Type": "classification of optical transients",
+    "Time": null,
+    "Date": "2018 Jan 16",
+    "Telescope": "Keck I",
+    "Instrument": "LRIS",
+    "Observatory": null
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2003ch",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0557,
+            "Type": "Ia supernova",
+            "Time": "0 days",
+            "Date": null
+        },
+        {
+            "Name": "KUG 1222+216",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0557,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2009dc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Ia supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Jujia Zhang, Yunnan Observatories (YNAO); Xiaofeng Wang, Tsinghua University; Blondin and Tonry 2007, Ap.J. 666, 1024; Taubenberger et al. 2011, MNRAS, 412, 2735",
+    "Event Type": "optical spectrogram",
+    "Time": "2014 May 25.68 UT",
+    "Date": "2014 May 25",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

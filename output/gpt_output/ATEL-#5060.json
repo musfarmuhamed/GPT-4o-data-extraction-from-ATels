@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ13aha",
+            "RA": "11:09:33.33",
+            "Dec": "-05:43:28.5",
+            "redshift": "0.0472",
+            "Type": "II",
+            "Time": null,
+            "Date": "May 04.018"
+        },
+        {
+            "Name": "LSQ13aha",
+            "RA": "11:09:33.33",
+            "Dec": "-05:43:28.5",
+            "redshift": "0.0472",
+            "Type": "II",
+            "Time": null,
+            "Date": "May 8"
+        },
+        {
+            "Name": "LSQ13ahe",
+            "RA": "11:48:07.46",
+            "Dec": "-12:14:40.5",
+            "redshift": "~0.1",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "May 04.061"
+        },
+        {
+            "Name": "LSQ13ahe",
+            "RA": "11:48:07.46",
+            "Dec": "-12:14:40.5",
+            "redshift": "~0.1",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "May 8"
+        }
+    ],
+    "References": "Hadjiyska et al., ATel #3812",
+    "Event Type": "classification of two LSQ supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "ANU 2.3m telescope",
+    "Instrument": "Wide Field Spectrograph (WiFeS)",
+    "Observatory": "Siding Spring Observatory, NSW Australia"
+}

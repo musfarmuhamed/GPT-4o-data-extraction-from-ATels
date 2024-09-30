@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ATLAS16dys",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.041,
+            "Type": "Ia",
+            "Time": "2016-12-05.95",
+            "Date": "2016-11-29"
+        },
+        {
+            "Name": "ASASSN-16oj",
+            "RA": "SDSS J053208.29-020407.9",
+            "Dec": null,
+            "redshift": 0.025,
+            "Type": "Ia",
+            "Time": "2016-12-06.00",
+            "Date": "2016-12-05"
+        },
+        {
+            "Name": "ASASSN-16ns",
+            "RA": "GALEXASC J100418.99+432525.7",
+            "Dec": null,
+            "redshift": 0.038,
+            "Type": "II",
+            "Time": "2016-12-06.05",
+            "Date": "2016-11-29"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Atel #9812",
+        "Atel #9825",
+        "Atel #9816"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

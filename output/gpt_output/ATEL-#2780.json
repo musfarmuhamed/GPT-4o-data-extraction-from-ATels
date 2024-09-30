@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR B1259-63",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Pulsar",
+            "Time": "2010-08-02 06:40 UT to 2010-08-04 04:00 UT",
+            "Date": "2010-08-02 to 2010-08-04"
+        },
+        {
+            "Name": "AGILE source",
+            "RA": 196.9,
+            "Dec": -63.7,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "2010-08-02 06:40 UT to 2010-08-04 04:00 UT",
+            "Date": "2010-08-02 to 2010-08-04"
+        }
+    ],
+    "References": "ATEL # 2772",
+    "Event Type": "Transient gamma-ray source detection",
+    "Time": "2010-08-02 06:40 UT to 2010-08-04 04:00 UT",
+    "Date": "2010-08-02 to 2010-08-04",
+    "Telescope": "Large Area Telescope (LAT)",
+    "Instrument": "Fermi Gamma-ray Space Telescope",
+    "Observatory": "International collaboration between NASA, DOE, and scientific institutions in France, Italy, Japan, and Sweden"
+}

@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Ginga 1843+009",
+            "RA": "18h 45m 36s.9",
+            "Dec": "+00d 51' 48\".2",
+            "redshift": null,
+            "Type": "hard X-ray transient pulsar and high-mass X-ray binary system",
+            "Time": "12:31:14",
+            "Date": "2009-03-15"
+        }
+    ],
+    "References": [
+        "Krimm et al, ATel #1959",
+        "Dennerl & Greiner, IAUC 6645",
+        "Israel et al, A&A 371, 1018 (2001)"
+    ],
+    "Event Type": "outburst",
+    "Time": "12:31:14",
+    "Date": "2009-03-15",
+    "Telescope": "Swift",
+    "Instrument": "X-Ray Telescope (XRT), Burst Alert Telescope (BAT)",
+    "Observatory": "Swift Observatory"
+}

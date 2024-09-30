@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OQ 334",
+            "RA": 215.626579,
+            "Dec": 32.386233,
+            "redshift": 0.6819,
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00-06:00",
+            "Date": "2018-12-07"
+        },
+        {
+            "Name": "B2 1420+32",
+            "RA": 215.626579,
+            "Dec": 32.386233,
+            "redshift": 0.6819,
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00-06:00",
+            "Date": "2018-12-07"
+        },
+        {
+            "Name": "GB2 1420+326",
+            "RA": 215.626579,
+            "Dec": 32.386233,
+            "redshift": 0.6819,
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00-06:00",
+            "Date": "2018-12-07"
+        },
+        {
+            "Name": "3FGL J1422.4+3227",
+            "RA": 215.626579,
+            "Dec": 32.386233,
+            "redshift": 0.6819,
+            "Type": "flat spectrum radio quasar",
+            "Time": "00:00-06:00",
+            "Date": "2018-12-07"
+        }
+    ],
+    "References": "Petrov & Taylor 2011, AJ, 142, 89; Hewett & Wild 2010, MNRAS, 405, 2302; Acero et al. 2015, ApJS, 218, 23",
+    "Event Type": "increasing gamma-ray emission",
+    "Time": "00:00-06:00",
+    "Date": "2018-12-07",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Fermi LAT Collaboration"
+}

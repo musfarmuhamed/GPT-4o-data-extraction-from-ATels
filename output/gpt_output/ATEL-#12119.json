@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-18yc",
+            "RA": "04:00:53.810",
+            "Dec": "-66:40:30.61",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2018-10-16.37",
+            "Date": "2018-10-16"
+        },
+        {
+            "Name": "2MASX J04005460-6640336",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Shappee et al. 2014, NSF grant AST-1515927",
+    "Event Type": "discovery of a new transient source",
+    "Time": null,
+    "Date": "2018-10-16",
+    "Telescope": "quadruple 14-cm \"Paczynski\" telescope",
+    "Instrument": null,
+    "Observatory": "Cerro Tololo"
+}

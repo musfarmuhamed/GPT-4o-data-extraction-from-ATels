@@ -1,0 +1,52 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J072007.30+451611.6",
+            "RA": "07:20:07.30",
+            "Dec": "+45:16:11.6",
+            "redshift": null,
+            "Type": "cataclysmic variable, most likely a polar",
+            "Time": "22:15:26 to 22:24:30 UT",
+            "Date": "2018-04-26"
+        },
+        {
+            "Name": "XMMSL2 J072007.4+451615",
+            "RA": "07:20:07.4",
+            "Dec": "+45:16:15",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS_J072007.4+451615",
+            "RA": "07:20:07.4",
+            "Dec": "+45:16:15",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": 2009
+        },
+        {
+            "Name": "CSS_J071126.0+440405",
+            "RA": "07:11:26.0",
+            "Dec": "+44:04:05",
+            "redshift": null,
+            "Type": "eclipsing polar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11620 (T. Pogrosheva et al.)",
+        "AAVSO VSX entry (S. Otero)",
+        "Catalina Sky Survey (A. Drake et al., 2009, ApJ Vol. 696, p. 870)",
+        "Period Search Service (Kirill Sokolovsky)"
+    ],
+    "Event Type": "observation",
+    "Time": "22:15:26 to 22:24:30 UT",
+    "Date": "2018-04-26",
+    "Telescope": "MASTER",
+    "Instrument": null,
+    "Observatory": null
+}

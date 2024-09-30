@@ -1,0 +1,41 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1E 1740.7-2942 (Great Annihilator)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black-hole candidate",
+            "Time": "16:15-21:01",
+            "Date": "2012 October 6"
+        },
+        {
+            "Name": "Swift J174510.8-262411",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #438",
+        "ATel #4450",
+        "ATel #94",
+        "ATel #257",
+        "Del Santo et al. 2005, A&A 433, 613",
+        "http://integral.esac.esa.int/BULGE/SOURCES/1E_1740.7-2942/1E_1740.7-2942.html",
+        "http://swift.gsfc.nasa.gov/docs/swift/results/transient/weak/1E1740.7-2942/"
+    ],
+    "Event Type": "Observation",
+    "Time": "16:15-21:01",
+    "Date": "2012 October 6",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "ISGRI",
+        "JEM-X",
+        "Swift/BAT"
+    ],
+    "Observatory": null
+}

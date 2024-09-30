@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Gaia16ate",
+            "RA": "03 04 19.7",
+            "Dec": "-57 35 01.8",
+            "redshift": "0.06",
+            "Type": "SN Type IIn",
+            "Time": null,
+            "Date": "20170617"
+        },
+        {
+            "Name": "ATLAS17mzy",
+            "RA": "03 44 12.5",
+            "Dec": "-26 35 56.5",
+            "redshift": "0.067",
+            "Type": "?",
+            "Time": null,
+            "Date": "20171001"
+        },
+        {
+            "Name": "ATLAS17mrm",
+            "RA": "04 09 16.9",
+            "Dec": "-20 41 58.8",
+            "redshift": "0.055",
+            "Type": "SN Type Ia ?",
+            "Time": null,
+            "Date": "20171024"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. (2011, PASP, 123, 58)",
+        "Tonry et al. (ATel #8680)",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2017, Nov. 10",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2, Grism 13, Grism 11",
+    "Observatory": "La Silla"
+}

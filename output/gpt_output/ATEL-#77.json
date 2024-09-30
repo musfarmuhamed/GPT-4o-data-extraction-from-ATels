@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "4U 1608-522",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star transient low mass X-ray binary",
+            "Time": [
+                "11:54-13:30",
+                "10:56-10:59",
+                "Feb-April 1998",
+                "Nov 7 10:00 and Nov 8 22:00 UT"
+            ],
+            "Date": [
+                "2001 Nov 2",
+                "Nov 7 10:56-10:59",
+                "Feb-April 1998",
+                "Nov 7 10:00 and Nov 8 22:00 UT"
+            ]
+        }
+    ],
+    "References": "Mendez et al 1999",
+    "Event Type": "X-ray outburst",
+    "Time": "11:54-13:30",
+    "Date": "2001 Nov 2",
+    "Telescope": "RXTE",
+    "Instrument": "ASM",
+    "Observatory": null
+}

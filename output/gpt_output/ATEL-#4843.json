@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J073418.66+271310.5",
+            "RA": "07h 34m 18.66s",
+            "Dec": "+27d 13m 10.5s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova of UGSU subtype)",
+            "Time": "2013-02-25.61545",
+            "Date": "2013-02-25"
+        },
+        {
+            "Name": "MASTER OT J183007.03+764313.3",
+            "RA": "18h 30m 07.03s",
+            "Dec": "+76d 43m 13.3s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova)",
+            "Time": "2013-02-25.72934",
+            "Date": "2013-02-25"
+        }
+    ],
+    "References": [
+        "http://master.sai.msu.ru/static/OT/073418.66271310.5.png",
+        "http://master.sai.msu.ru/static/OT/183007.03764313.3.png"
+    ],
+    "Event Type": "Discovery",
+    "Time": "2013-02-25",
+    "Date": "2013-02-25",
+    "Telescope": "MASTER-Amur auto-detection system",
+    "Instrument": null,
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

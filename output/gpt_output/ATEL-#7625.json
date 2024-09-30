@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15kz",
+            "RA": "13:37:18.67",
+            "Dec": "-28:39:23.55",
+            "redshift": "0.008022",
+            "Type": "supernova",
+            "Time": "2015-06-12.07",
+            "Date": "2015-06-12"
+        },
+        {
+            "Name": "IC 4303",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.008022",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ASAS-SN Homepage",
+    "Event Type": "transient discovery",
+    "Time": "2015-06-12.07",
+    "Date": "2015-06-12",
+    "Telescope": "Cassius",
+    "Instrument": "CDK 0.5m + FLI PL-9000, CDK 43-cm",
+    "Observatory": "Cerro Tololo, Chile; ITelescope.NET site at Siding Springs Observatory; Savannah Skies Observatory"
+}

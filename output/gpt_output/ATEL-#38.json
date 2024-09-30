@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Faint Object",
+            "RA": "23h29m27s.3",
+            "Dec": "-23d56'54\"",
+            "redshift": null,
+            "Type": "likely a faint galaxy",
+            "Time": "1:15 to 2:30 UT",
+            "Date": [
+                "Dec 27",
+                "Dec 28",
+                "Dec 29"
+            ]
+        },
+        {
+            "Name": "Object reported by Castro-Tirado et al.",
+            "RA": "23h29m35.0s",
+            "Dec": "-23d55'42\"",
+            "redshift": null,
+            "Type": null,
+            "Time": "1:15 to 2:30 UT",
+            "Date": [
+                "Dec 27",
+                "Dec 28",
+                "Dec 29"
+            ]
+        }
+    ],
+    "References": [
+        "Di Ciolo et al. (IAUCirc 7074)",
+        "Castro-Tirado et al. (GCN#173)"
+    ],
+    "Event Type": "Observation of optical transient of GRB981226",
+    "Time": "1:15 to 2:30 UT",
+    "Date": [
+        "Dec 27",
+        "Dec 28",
+        "Dec 29"
+    ],
+    "Telescope": "1.3 m Warsaw University Observatory Telescope",
+    "Instrument": "I band",
+    "Observatory": "Las Campanas"
+}

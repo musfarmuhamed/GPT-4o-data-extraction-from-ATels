@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15mj",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0344,
+            "Type": "Ib",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PSNJ22460504-1059484",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.0089,
+            "Type": "Ib",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Source": "ATel #7790",
+            "Note": "Classified as a possible Type II SN at an early phase by ATel #7796 from a spectrum taken UT July 13.9 showing a blue continuum with a weak H-alpha feature. Our spectrum shows weak hydrogen absorption along with helium absorption features, similar to that of the Type Ib SN 2004gq about 1 week before maximum brightness."
+        },
+        {
+            "Source": "K.Itagaki",
+            "Note": "Classified as a possible Type IIb SN by ATel #7787 from a spectrum taken UT July 11.07 showing relatively strong H-alpha absorption along with weak He absorption features. Our spectrum shows a much-diminished H-alpha feature with pronounced He absorption lines, similar to that of the Type Ib SN 2005bf about 1 week before maximum brightness or the Type Ib SN 1999ex near maximum. This object was also discovered by PanSTARRS as PS15bgt."
+        }
+    ],
+    "Event Type": "Stripped-envelope supernovae",
+    "Time": null,
+    "Date": "UT July 20",
+    "Telescope": "3-m Shane reflector",
+    "Instrument": "Kast",
+    "Observatory": "Lick Observatory"
+}

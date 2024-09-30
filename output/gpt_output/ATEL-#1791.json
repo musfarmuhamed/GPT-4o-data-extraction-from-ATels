@@ -1,0 +1,60 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "H1743-322",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "XTE J1701-407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "neutron star LMXB",
+            "Time": null,
+            "Date": "2008-07"
+        }
+    ],
+    "References": [
+        {
+            "Text": "Markwardt et al. 2008, ATel #1569 and ATel #1616, ATel #1621"
+        },
+        {
+            "Text": "GCN Circ. #7985, ATel #1618"
+        },
+        {
+            "Text": "Linares et al. 2008 (arXiv:0808.3950v2)"
+        }
+    ],
+    "Event Type": "Observation",
+    "Time": [
+        "2008-09-18T11:55",
+        "2008-09-20T02:45",
+        "2008-09-23T12:36",
+        "2008-10-10T05:19",
+        "2008-10-10T21:35",
+        "2008-10-15T22:59",
+        "2008-10-17T20:59",
+        "2008-10-18T14:27"
+    ],
+    "Date": [
+        "2008-09-18",
+        "2008-09-20",
+        "2008-09-23",
+        "2008-10-10",
+        "2008-10-15",
+        "2008-10-17",
+        "2008-10-18"
+    ],
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X",
+        "Swift/XRT"
+    ],
+    "Observatory": "INTEGRAL"
+}

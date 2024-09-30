@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "FERMI J0623-3351",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma ray source",
+            "Time": "20:34",
+            "Date": "2013-12-20"
+        },
+        {
+            "Name": "PMNJ0623-3350",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "NIR source",
+            "Time": "20:34",
+            "Date": "2013-12-20"
+        }
+    ],
+    "References": "Atel# 5668",
+    "Event Type": "Detection",
+    "Time": "20:34",
+    "Date": "2013-12-20",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

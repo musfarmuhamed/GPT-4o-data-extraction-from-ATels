@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KS 1731-260",
+            "RA": "17h34m13.47s",
+            "Dec": "-26d05m18.8s",
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO A2.0 star",
+            "RA": "17h34m12.70s",
+            "Dec": "-26d05m48.4s",
+            "redshift": null,
+            "Type": "Star",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Wijnands et al. 2001, ApJL submitted, astro-ph/0107380",
+        "Monet et al. 1998, USNO-SA2.0, U.S. Naval Observatory, Washington DC",
+        "Barret et al. 1998, A&A 329, 965"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": "27 March 2001",
+    "Telescope": "Chandra",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017avl",
+            "RA": "05 20 47.07",
+            "Dec": "+03 15 24.5",
+            "redshift": "0.02742",
+            "Type": "Ia",
+            "Time": "20170218.83",
+            "Date": "2017 February 18"
+        }
+    ],
+    "References": [
+        {
+            "Source": "ATLAS survey",
+            "Authors": "Tonry et al. (2011, PASP, 123, 58)",
+            "ATel": "Tonry et al. (ATel #8680)"
+        },
+        {
+            "Source": "SNID",
+            "Authors": "Blondin & Tonry (2007, ApJ, 666, 1024)"
+        },
+        {
+            "Source": "GELATO",
+            "Authors": "Harutyunyan et al. (2008, A&A, 488, 383)"
+        }
+    ],
+    "Event Type": "supernova classification",
+    "Time": "20170218.83",
+    "Date": "2017 February 18",
+    "Telescope": "Liverpool Telescope",
+    "Instrument": "SPRAT and Red Grism",
+    "Observatory": "Roque de Los Muchachos"
+}

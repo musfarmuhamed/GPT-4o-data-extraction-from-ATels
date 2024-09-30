@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2017eaw",
+            "RA": "20h34m44.240s",
+            "Dec": "+60d11'35.90\"",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "18 hours",
+            "Date": "May 19/20 2017"
+        },
+        {
+            "Name": "NGC6946",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #10372",
+        "ATel #10388",
+        "ATel #10394",
+        "ATel #10413"
+    ],
+    "Event Type": "Observation",
+    "Time": "18 hours",
+    "Date": "May 19/20 2017",
+    "Telescope": "e-MERLIN",
+    "Instrument": null,
+    "Observatory": null
+}

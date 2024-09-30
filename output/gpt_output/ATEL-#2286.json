@@ -1,0 +1,77 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M31N 1997-11k / M31N 2001-12b",
+            "RA": "00h42m39.61s",
+            "Dec": "41d09'03.2\"",
+            "redshift": null,
+            "Type": "Recurrent Nova / Cataclysmic Variable",
+            "Time": [
+                "2009 October 29.18",
+                "November 01.18",
+                "November 02.18",
+                "November 03.33",
+                "November 06.25",
+                "November 08.25",
+                "November 09.25",
+                "2009 October 9.10",
+                "2009 October 2.10",
+                "2009 September 27.10",
+                "2009 June 07.95",
+                "October 22.61",
+                "October 28.29",
+                "October 31.24",
+                "November 03.58"
+            ],
+            "Date": [
+                "2009-10-29",
+                "2009-11-01",
+                "2009-11-02",
+                "2009-11-03",
+                "2009-11-06",
+                "2009-11-08",
+                "2009-11-09",
+                "2009-10-09",
+                "2009-10-02",
+                "2009-09-27",
+                "2009-06-07",
+                "2009-10-22",
+                "2009-10-28",
+                "2009-10-31",
+                "2009-11-03"
+            ]
+        },
+        {
+            "Name": "LGSS J004239.57+410902.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Uncertain connection to outbursts",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "MPE M 31 nova catalog: http://www.mpe.mpg.de/~m31novae/opt/m31/index.php",
+        "Massey et al. 2006, AJ, 131, 2478",
+        "Sharov & Alksnis, SvAL, 15, 382",
+        "ATel #1867: http://www.mpe.mpg.de/~m31novae/opt/m31/data/finding_charts/nova_R_09_11_07.jpg"
+    ],
+    "Event Type": "Nova-like Outburst",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Livermore Optical Transient Imaging System (Super-LOTIS)",
+        "Skinakas Observatory, Crete, Greece Ritchey-Chretien telescope",
+        "Swift Ultraviolet/Optical Telescope (UVOT)"
+    ],
+    "Instrument": [
+        "E2V CCD (2kx2k)",
+        "Andor DZ436-BV CCD Camera",
+        "UVOT UVW2 (112-264nm) filter"
+    ],
+    "Observatory": [
+        "Steward Observatory, Kitt Peak, Arizona, USA",
+        "Skinakas Observatory, Crete, Greece"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018bsn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.059,
+            "Type": "Type Ia supernova",
+            "Time": "17.7",
+            "Date": "2018-05-17"
+        },
+        {
+            "Name": "2MASX J14572815+0550375",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.059,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "https://wis-tns.weizmann.ac.il/object/2018bsn"
+    ],
+    "Event Type": "optical spectrum",
+    "Time": "17.7",
+    "Date": "2018-05-17",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories (YNAO)"
+}

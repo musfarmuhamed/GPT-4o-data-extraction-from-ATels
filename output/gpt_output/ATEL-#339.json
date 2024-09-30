@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01363+6610",
+            "RA": "01h35m50s",
+            "Dec": "66d12m40s",
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "[KW97] 6-30",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "early B-type star of low luminosity",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Grebenev et al., ATel 275; Kohoutek & Wehmeyer, 1999, A&AS, 134, 255; Pooley, ATel 276",
+    "Event Type": "optical observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "1.3-m telescope; NOT 2.56m telescope",
+    "Instrument": null,
+    "Observatory": "Skinakas Observatory; El Roque de los Muchachos Observatory"
+}

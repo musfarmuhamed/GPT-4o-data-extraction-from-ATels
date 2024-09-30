@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J1719-254",
+            "RA": "259.907",
+            "Dec": "-25.065",
+            "redshift": null,
+            "Type": "X-ray nova",
+            "Time": "11:16",
+            "Date": "December 20"
+        },
+        {
+            "Name": "GRS 1716-249/GRO J1719-24",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole candidate",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Negoro et al. ATel #9876",
+    "Event Type": "X-ray nova in outburst",
+    "Time": "11:16",
+    "Date": "December 20",
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

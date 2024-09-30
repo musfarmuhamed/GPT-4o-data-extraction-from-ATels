@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V404 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "black hole X-ray binary",
+            "Time": [
+                "22:49 UT",
+                "21:42 UT",
+                "00:45 UT"
+            ],
+            "Date": [
+                "2015-06-18",
+                "2015-06-19",
+                "2015-06-19"
+            ]
+        }
+    ],
+    "References": [
+        "GCN #17929",
+        "GCN #17931",
+        "GCN #17933",
+        "GCN #17940",
+        "ATel #7646",
+        "ATel #7647",
+        "ATel #7650",
+        "ATel #7658",
+        "ATel #7659",
+        "ATel #7661",
+        "ATel #7662",
+        "ATel #7663",
+        "ATel #7665",
+        "ATel #7666",
+        "ATel #7667",
+        "ATel #7669",
+        "ATel #7671"
+    ],
+    "Event Type": "optical polarimetry follow-up",
+    "Time": [
+        "22:49 UT",
+        "21:42 UT",
+        "00:45 UT"
+    ],
+    "Date": [
+        "2015-06-18",
+        "2015-06-19",
+        "2015-06-19"
+    ],
+    "Telescope": "1.3-m Skinakas telescope",
+    "Instrument": "RoboPol 4-channel optical polarimeter",
+    "Observatory": "Skinakas Observatory in Crete"
+}

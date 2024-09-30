@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018gv",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia supernova",
+            "Time": "10-15 days before maximum brightness",
+            "Date": null
+        },
+        {
+            "Name": "NGC 2525",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Tully et al., 2013, AJ, 146, 86T"
+    ],
+    "Event Type": "spectroscopic observations",
+    "Time": null,
+    "Date": "2018 Jan 16 UT",
+    "Telescope": "10-m Keck I telescope",
+    "Instrument": "LRIS spectrograph",
+    "Observatory": null
+}

@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SMC X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "04:17UT",
+            "Date": "July 30th, 2016"
+        },
+        {
+            "Name": "SMC X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "16:41UT",
+            "Date": "August 3rd, 2016"
+        },
+        {
+            "Name": "SMC X-3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": "14:24UT",
+            "Date": "August 10th, 2016"
+        },
+        {
+            "Name": "MAXI J0058-721",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP 202A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": "July 16th, 2016"
+        },
+        {
+            "Name": "E0102",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "supernova remnant",
+            "Time": null,
+            "Date": "August 9th, 2016"
+        }
+    ],
+    "References": [
+        "Kennea et al., ATEL #9299",
+        "Edge et al, ATEL #225",
+        "Krimm et al., 2013, ApJSS 209,14",
+        "Negoro et al, ATEL #9348",
+        "Coe et al., ATEL #9307"
+    ],
+    "Event Type": "X-ray survey",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": "XRT",
+    "Observatory": null
+}

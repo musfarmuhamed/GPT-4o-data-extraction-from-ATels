@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KAIT J20233743-19163425",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.08,
+            "Type": "quasar",
+            "Time": "10.36 UT",
+            "Date": "Sep. 10",
+            "Catalog": "USNO B1.0",
+            "Catalog_Entry": "0707-0791917"
+        },
+        {
+            "Name": "USNO B1.0 0707-0791917",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null,
+            "Catalog": "USNO B1.0",
+            "Catalog_Entry": "0707-0791917"
+        }
+    ],
+    "References": "http://astro.berkeley.edu/~zwk/findingchart/KAIT_J20233743-19163425.jpg",
+    "Event Type": "Spectral Observation",
+    "Time": "10.36 UT",
+    "Date": "Sep. 10",
+    "Telescope": "Keck II",
+    "Instrument": "DEIMOS spectrograph",
+    "Observatory": "Keck Observatory"
+}

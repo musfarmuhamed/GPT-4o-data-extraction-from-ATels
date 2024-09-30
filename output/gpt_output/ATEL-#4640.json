@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J114033.94+145756.6",
+            "RA": "11h 40m 33.94s",
+            "Dec": "+14d 57m 56.6s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2012-12-11.12281 UT",
+            "Date": "2012-12-11"
+        },
+        {
+            "Name": "MASTER OT J064332.03+260002.1",
+            "RA": "06h 43m 32.03s",
+            "Dec": "+26d 00m 02.1s",
+            "redshift": null,
+            "Type": "possible blazar",
+            "Time": "2012-12-08.98777 UT",
+            "Date": "2012-12-08"
+        }
+    ],
+    "References": [
+        {
+            "Name": "J114033.45+145805.2",
+            "Source": "SDSS8",
+            "Offset": "11 arcsec"
+        },
+        {
+            "Name": "J114033.90+145807.8",
+            "Source": "SDSS8",
+            "Offset": "11 arcsec"
+        }
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": null,
+    "Observatory": null
+}

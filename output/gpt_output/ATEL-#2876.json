@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SXP46.6",
+            "RA": "00:53:54.5",
+            "Dec": "-72:26:44",
+            "redshift": null,
+            "Type": "Be/X-ray binary pulsar",
+            "Time": "15:55",
+            "Date": "2010 Sep. 26"
+        }
+    ],
+    "References": [
+        "McGowan et al. 2008, MNRAS 384, 821",
+        "Galache et al. 2008, ApJS 177, 189",
+        "Buckley et al. 2001, MNRAS 320, 281"
+    ],
+    "Event Type": "X-ray observation",
+    "Time": "15:55 to 19:01 UT",
+    "Date": "2010 Sep. 26",
+    "Telescope": "SWIFT",
+    "Instrument": "XRT",
+    "Observatory": "null"
+}

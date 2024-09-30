@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "HB892345-167",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.576,
+            "Type": "QSO",
+            "Time": "2458069.7238",
+            "Date": "November 12th, 2017"
+        },
+        {
+            "Name": "PKS2345-16",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio source",
+            "Time": "2458069.7238",
+            "Date": "November 12th, 2017"
+        },
+        {
+            "Name": "2FGLJ2347.9-1629",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Gamma-ray source",
+            "Time": "2458069.7238",
+            "Date": "November 12th, 2017"
+        }
+    ],
+    "References": null,
+    "Event Type": "NIR flare",
+    "Time": "2458069.7238",
+    "Date": "November 12th, 2017",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA, a NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

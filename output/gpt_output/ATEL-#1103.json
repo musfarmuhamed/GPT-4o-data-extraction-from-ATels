@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J195509.6+261406",
+            "RA": "Null",
+            "Dec": "Null",
+            "redshift": "Null",
+            "Type": "Galactic X-ray transient",
+            "Time": "20:52:26 UT",
+            "Date": "June 10th, 2007"
+        },
+        {
+            "Name": "SWIFT J195456.7+261301",
+            "RA": "19h 54m 56.78s",
+            "Dec": "+26d 13' 01.13\"",
+            "redshift": "Null",
+            "Type": "Flaring coronal X-ray emitting star",
+            "Time": "18:35 UT",
+            "Date": "June 12th, 2007"
+        }
+    ],
+    "References": "Pagani et al., GCN #6489; Markwardt et al., ATEL #1102",
+    "Event Type": "X-ray transient and X-ray flare",
+    "Time": "20:52:26 UT",
+    "Date": "June 10th, 2007",
+    "Telescope": "Swift",
+    "Instrument": "BAT",
+    "Observatory": "Null"
+}

@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "AT2016hvm",
+            "RA": "05 53 36.15",
+            "Dec": "+12 32 49.6",
+            "redshift": null,
+            "Type": "star",
+            "Time": null,
+            "Date": "20161104"
+        },
+        {
+            "Name": "SN2016hvl",
+            "RA": "06 44 02.16",
+            "Dec": "+12 23 47.8",
+            "redshift": "0.013",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "20161104"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Tonry et al. 2011, PASP, 123, 58",
+        "Tonry et al. ATel #8680",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "NASA/IPAC Extragalactic Database (NED)"
+    ],
+    "Event Type": "classifications",
+    "Time": null,
+    "Date": "2016 November 05",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13 (3985-9315A, 18A resolution)",
+    "Observatory": "La Silla"
+}

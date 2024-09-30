@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2017lm",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03052,
+            "Type": "Type-Ia supernova",
+            "Time": "19.8",
+            "Date": "2017-01-19"
+        },
+        {
+            "Name": "ATLAS17aix",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SNID (Blondin & Tonry 2007, ApJ, 666, 1024)",
+    "Event Type": "spectroscopy",
+    "Time": "19.8",
+    "Date": "2017-01-19",
+    "Telescope": "SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15og",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia-CSM/Type IIn",
+            "Time": "19.3",
+            "Date": "August 19",
+            "Description": "The spectrum of ASASSN-15og shows a blue continuum, intermediate and narrow width Balmer lines in emission, and other broad spectral features at rest wavelengths 4600 Angs. and 5000-6000 Angs. The spectrum is similar to the Type Ia-CSM/Type IIn SN 2005gj."
+        },
+        {
+            "Name": "SN 2005gj",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia-CSM/Type IIn",
+            "Time": null,
+            "Date": null,
+            "Description": "ASASSN-15og's spectrum is most similar to SN 2005gj at ~20 days after peak."
+        }
+    ],
+    "References": "ATel #7912, Prieto et al. 2007, ApJ, 666, 1024",
+    "Event Type": "Spectral Observation",
+    "Time": "19.3",
+    "Date": "August 19",
+    "Telescope": "du Pont",
+    "Instrument": "B&C",
+    "Observatory": "Las Campanas Observatory"
+}

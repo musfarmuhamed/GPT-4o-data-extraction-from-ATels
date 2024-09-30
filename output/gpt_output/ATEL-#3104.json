@@ -1,0 +1,23 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI J0556-332",
+            "RA": "05h56m46.28s",
+            "Dec": "-33d10'26.3\"",
+            "redshift": 0,
+            "Type": "optical counterpart",
+            "Time": "05:50 UT",
+            "Date": "2011 January 12"
+        }
+    ],
+    "References": [
+        "Matsumura et al., ATel #3102",
+        "Kennea et al., ATel #3103"
+    ],
+    "Event Type": "Observation",
+    "Time": "05:50 UT",
+    "Date": "2011 January 12",
+    "Telescope": "Hiltner 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "MDM Observatory"
+}

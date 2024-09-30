@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V407 Lup",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "22000 s",
+            "Date": "2017-03-11"
+        },
+        {
+            "Name": "V407 Lup",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Nova",
+            "Time": "34000 s",
+            "Date": "2017-08-30"
+        }
+    ],
+    "References": [
+        "ATel #9538",
+        "ATel #9539",
+        "ATel #9550",
+        "ATel #9554",
+        "ATel #9587",
+        "ATel #9594",
+        "ATel #9644",
+        "ATel #10632",
+        "ATel #10722",
+        "Drake et al., 2003, ApJ, 584, 448",
+        "Ness et al., 2003, ApJ, 594, L127",
+        "Leibowitz et al., 2006, MNRAS, 371, 424",
+        "Dobrotka & Ness, 2010, ApJ, 405, 2628",
+        "Dobrotka & Ness, 2017, MNRAS, 467, 4865",
+        "Ness et al., 2011, ApJ, 733, 70"
+    ],
+    "Event Type": "Timing Analysis",
+    "Time": null,
+    "Date": null,
+    "Telescope": "XMM-Newton, Chandra",
+    "Instrument": "RGS, HRC_s, Low Energy Transmission Grating",
+    "Observatory": null
+}

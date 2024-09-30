@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2467 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "459 days after outburst",
+            "Date": "2008-06-15"
+        },
+        {
+            "Name": "V2467 Cyg",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "559 days after outburst",
+            "Date": "2008-09-23"
+        }
+    ],
+    "References": [
+        "http://erica.la.asu.edu/~ness/v2467_lc.gif",
+        "http://erica.la.asu.edu/~ness/v2467_spec.gif"
+    ],
+    "Event Type": "observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

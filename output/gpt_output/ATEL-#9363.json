@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "KSN 2016D",
+            "RA": "12:14:06.682",
+            "Dec": "-00:56:22.36",
+            "redshift": null,
+            "Type": "Supernova candidate",
+            "Time": "at peak",
+            "Date": null
+        },
+        {
+            "Name": "KSN 2016E",
+            "RA": "12:42:19.809",
+            "Dec": "-02:17:46.64",
+            "redshift": null,
+            "Type": "Supernova candidate",
+            "Time": "at peak",
+            "Date": null
+        }
+    ],
+    "References": "NOAO2016B-0244",
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "4m Blanco Telescope",
+    "Instrument": "Dark Energy Camera (DECam)",
+    "Observatory": "Cerro Tololo (CTIO)"
+}

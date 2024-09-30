@@ -1,0 +1,61 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17177-3656",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "hard X-ray transient source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": null,
+            "RA": "17 17 42.70",
+            "Dec": "-36 56 03.8",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "23/4/2010"
+        },
+        {
+            "Name": null,
+            "RA": "17 17 42.70",
+            "Dec": "-36 56 03.8",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:43 UT",
+            "Date": "15/10/2010"
+        },
+        {
+            "Name": null,
+            "RA": "17 17 42.66",
+            "Dec": "-36 56 05.3",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "23/4/2010"
+        },
+        {
+            "Name": null,
+            "RA": "17 17 42.66",
+            "Dec": "-36 56 05.3",
+            "redshift": null,
+            "Type": null,
+            "Time": "00:43 UT",
+            "Date": "15/10/2010"
+        }
+    ],
+    "References": [
+        "#3223",
+        "#3226",
+        "#3236",
+        "#3246"
+    ],
+    "Event Type": "observation",
+    "Time": "07:43 to 07:51 UT",
+    "Date": "23 April 2010",
+    "Telescope": "4.1m VISTA",
+    "Instrument": "JHKs images",
+    "Observatory": "Cerro Paranal, Chile"
+}

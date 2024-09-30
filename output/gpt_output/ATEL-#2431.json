@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "M87",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "radio galaxy",
+            "Time": "2.5 hours",
+            "Date": "February 9th 2010"
+        },
+        {
+            "Name": "Crab Nebula",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Name": "HESS",
+            "Date": 2005
+        },
+        {
+            "Name": "MAGIC",
+            "Date": "February 2008"
+        },
+        {
+            "Name": "VERITAS",
+            "Date": "February 2008"
+        }
+    ],
+    "Event Type": "high flux level in gamma ray emission",
+    "Time": "MJD 55236.06 to 55236.19",
+    "Date": "February 9th 2010",
+    "Telescope": "two 17m diameter telescopes",
+    "Instrument": null,
+    "Observatory": "La Palma, Canary Islands, Spain"
+}

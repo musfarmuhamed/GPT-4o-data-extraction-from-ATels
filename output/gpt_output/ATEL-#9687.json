@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J110533.80+194118.7",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "optical transient",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2006te",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.027",
+            "Type": "Type Ia supernova",
+            "Time": "+12 days from maximum light",
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "supernova",
+    "Time": "Oct.28.9",
+    "Date": "2016",
+    "Telescope": "2.16m telescope",
+    "Instrument": "BFOSC",
+    "Observatory": "Xinglong Observatory of NAOC"
+}

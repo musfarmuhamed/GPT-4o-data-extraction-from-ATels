@@ -1,0 +1,110 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAXI X-ray transient source",
+            "RA": "17 27 53",
+            "Dec": "-20 23 20",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J172829.90-202255.91",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "21:52:53.344",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "02:01:13.399",
+            "Date": "2018-06-06"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "22:38:22.697",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "22:57:09.111",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "20:40:18.284",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "20:47:16.582",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "20:54:18.036",
+            "Date": "2018-06-05"
+        },
+        {
+            "Name": "Pan-STARRS OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transients",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient",
+            "Time": "05:07:44",
+            "Date": "2018-05-18"
+        }
+    ],
+    "References": [
+        "T. Yoneyama et al. ATEL #11683",
+        "Arne Rau et al. ATEL #11690",
+        "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L"
+    ],
+    "Event Type": "Observation",
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "MASTER-IAC",
+        "MASTER-Tavrida",
+        "MASTER-Kislovodsk",
+        "MASTER-OAFA"
+    ],
+    "Instrument": null,
+    "Observatory": "MASTER Global Robotic Net"
+}

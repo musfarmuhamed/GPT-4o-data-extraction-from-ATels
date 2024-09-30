@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14dc",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.044,
+            "Type": "luminous supernova",
+            "Time": "27.20",
+            "Date": "Jun. 27",
+            "Discovery Magnitude": "V = 15.8 mag",
+            "Intrinsic Brightness": "V = -20.6",
+            "Synthetic V-band Magnitude": "V = 16 mag"
+        }
+    ],
+    "Host Galaxy": [
+        {
+            "Name": "ASASSN-14dc Host Galaxy",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.044,
+            "Emission Lines": [
+                "H-alpha",
+                "H-beta",
+                "H-gamma",
+                "[OIII]5007"
+            ]
+        }
+    ],
+    "References": [
+        "Holoien et al. ATel#6267",
+        "Schlafly & Finkbeiner 2011, ApJ,737,103",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "spectrogram",
+    "Time": "27.20",
+    "Date": "Jun. 27",
+    "Telescope": "4.2-m William Herschel Telescope",
+    "Instrument": "ISIS double armed spectograph with the R300B and R158R gratings",
+    "Observatory": null
+}

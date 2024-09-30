@@ -1,0 +1,31 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "B2 0748+33",
+            "RA": 117.9736383,
+            "Dec": 33.2221719,
+            "redshift": 1.936,
+            "Type": "flat-spectrum radio quasar",
+            "Time": "daily-averaged flux of (0.8+/-0.2) x10^-6 ph cm^-2 s^-1",
+            "Date": "2016 Oct 2"
+        }
+    ],
+    "References": [
+        {
+            "Author": "Petrov & Taylor",
+            "Year": 2011,
+            "Source": "AJ 142, 89"
+        },
+        {
+            "Author": "Hewett & Wild",
+            "Year": 2010,
+            "Source": "MNRAS 405, 2302"
+        }
+    ],
+    "Event Type": "gamma-ray emission",
+    "Time": null,
+    "Date": "2016 Sep 19 - 2016 Oct 2",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "International collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan, and Sweden"
+}

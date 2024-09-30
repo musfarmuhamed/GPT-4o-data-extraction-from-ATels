@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ke",
+            "RA": "15:25:44.81",
+            "Dec": "+59:21:10.09",
+            "Redshift": 0.045359,
+            "Type": "supernova",
+            "Time": "Null",
+            "Date": "2015-05-26.35"
+        },
+        {
+            "Name": "2MASX J15254441+5921091",
+            "RA": "Null",
+            "Dec": "Null",
+            "Redshift": 0.045359,
+            "Type": "galaxy",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "J. Nicolas",
+        "J. M. Fernandez",
+        "ASAS-SN Homepage",
+        "Mount Cuba Astronomical Foundation"
+    ],
+    "Event Type": "discovery",
+    "Time": "2015-05-26.35",
+    "Date": "2015-05-26",
+    "Telescope": "Brutus",
+    "Instrument": "Null",
+    "Observatory": "Haleakala"
+}

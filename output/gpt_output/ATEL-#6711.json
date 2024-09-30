@@ -1,0 +1,51 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2013fc",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "possible supernova",
+            "RA": "02:45:09.27",
+            "Dec": "-55:44:16.9",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ESO 154-G010",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "luminous infra-red galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Smartt et al.",
+            "Link": "arXiv:1411.0299"
+        },
+        {
+            "Author": "Pignata et al.",
+            "Link": "CBET 3644"
+        },
+        {
+            "Author": "Kankare et al.",
+            "Link": "ATel #5538"
+        }
+    ],
+    "Event Type": "discovery of a possible supernova",
+    "Time": "16.3",
+    "Date": "2014-11-16",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 UBVRi band filters",
+    "Observatory": "La Silla"
+}

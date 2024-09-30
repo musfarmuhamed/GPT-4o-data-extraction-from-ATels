@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15ug",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0222",
+            "Type": "Type II",
+            "Time": null,
+            "Date": "2016-01-11"
+        },
+        {
+            "Name": "ASASSN-15ul",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ia",
+            "Time": null,
+            "Date": "2016-01-11"
+        }
+    ],
+    "References": "ATel #8436, #8439, #8463",
+    "Event Type": "Optical spectra observation",
+    "Time": null,
+    "Date": "2016-01-11",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

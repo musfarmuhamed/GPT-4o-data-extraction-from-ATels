@@ -1,0 +1,30 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SAX J1806.5-2215",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "burst-only source",
+            "Time": "10:01 to 23:21",
+            "Date": "2011-03-06"
+        }
+    ],
+    "References": [
+        "in't Zand et al. 1998, NuPhS, 69, 228",
+        "Cornelisse et al. 2004, NuPhS, 132, 518",
+        "Degenaar et al. (ATel #3202)",
+        "Cornelisse et al. 2002, A&A 392, 931",
+        "ATels #3202, #3193"
+    ],
+    "Event Type": "hard X-ray detection",
+    "Time": "10:01 to 23:21",
+    "Date": "2011-03-06",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X1",
+        "JEM-X2"
+    ],
+    "Observatory": "INTEGRAL"
+}

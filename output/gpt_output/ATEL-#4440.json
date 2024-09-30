@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "OJ 248",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2012-09-28"
+        },
+        {
+            "Name": "2FGL J0830.5+2407",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar",
+            "Time": null,
+            "Date": "2012-09-28"
+        }
+    ],
+    "References": [
+        "Nolan et al. 2012, ApJS, 199, 31",
+        "ATel #4421",
+        "Kalberla et al. 2005, A&A, 440, 775"
+    ],
+    "Event Type": "gamma-ray flaring activity",
+    "Time": null,
+    "Date": "2012-09-23",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

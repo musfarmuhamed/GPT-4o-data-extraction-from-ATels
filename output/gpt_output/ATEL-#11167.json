@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CTA102",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "QSO",
+            "Time": "2458123.6551",
+            "Date": "January 5th, 2018"
+        },
+        {
+            "Name": "4C+11.69",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "radio source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2FGL J2232.4+1143",
+            "RA": null,
+            "Dec": null,
+            "redshift": 1.037,
+            "Type": "Gamma-ray source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Lucarelli et al.(ATEL #11045)",
+    "Event Type": "NIR flare",
+    "Time": "2458123.6551",
+    "Date": "January 5th, 2018",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA NIR camera",
+    "Observatory": "Guillermo Haro Observatory"
+}

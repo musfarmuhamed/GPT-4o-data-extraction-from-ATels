@@ -1,0 +1,73 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "330825 (2008 XE3)",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S-type",
+            "Time": "2008 December 12",
+            "Date": "2008-12-12"
+        },
+        {
+            "Name": "485 Genua",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4702 Berounka",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "389 Industria",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S S",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "4327 Ries",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sk",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "11 Parthenope",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sk",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "MPEC 2008-X63",
+        "Bus & Binzel 2002",
+        "Pravec et al. (2000)"
+    ],
+    "Event Type": "Asteroid Discovery and Observation",
+    "Time": null,
+    "Date": {
+        "Start": "2012-11-04",
+        "Middle": "2012-11-05",
+        "End": "2012-11-07"
+    },
+    "Telescope": "0.6-m telescope",
+    "Instrument": "Bessel BVRI/Bessel R",
+    "Observatory": "JPL Table Mountain Observatory"
+}

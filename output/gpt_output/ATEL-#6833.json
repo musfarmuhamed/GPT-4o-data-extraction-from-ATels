@@ -1,0 +1,83 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J205227.38+034355.1",
+            "RA": "20h 52m 27.38s",
+            "Dec": "+03d 43m 55.1s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable (dwarf nova in outburst)",
+            "Time": "2014-12-15.69042 UT",
+            "Date": "2014-12-15"
+        },
+        {
+            "Name": "SDSS J205227.38+034355.3",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J062509.46+283255.1",
+            "RA": "06h 25m 09.46s",
+            "Dec": "+28d 32m 55.1s",
+            "redshift": null,
+            "Type": "PSN in UGC 3462",
+            "Time": "2014-12-15.94440 UT",
+            "Date": "2014-12-15"
+        },
+        {
+            "Name": "UGC 3462",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0310",
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MASTER OT J080803.81+345257.8",
+            "RA": "08h 08m 03.81s",
+            "Dec": "+34d 52m 57.8s",
+            "redshift": null,
+            "Type": "Cataclysmic Variable",
+            "Time": "2014-12-17.01704 UT",
+            "Date": "2014-12-17"
+        },
+        {
+            "Name": "SDSS J080803.76+345257.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J080803.7+345257",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "GALEX J080803.8+345258",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "http://master.sai.msu.ru/static/OT/205227.38034355.1.png, http://master.sai.msu.ru/static/OT/062509.46283255.1.png, http://master.sai.msu.ru/static/OT/080803.81345257.8.png",
+    "Event Type": "Optical Transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global MASTER Robotic Net"
+}

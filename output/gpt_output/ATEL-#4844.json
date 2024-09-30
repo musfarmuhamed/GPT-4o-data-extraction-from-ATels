@@ -1,0 +1,85 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J09552647+6903073",
+            "RA": "09 55 26.47",
+            "Dec": "+69 03 07.3",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "1.4\" seeing",
+            "Date": "Feb. 25.132 UT",
+            "Magnitude": {
+                "H-alpha": "18.55 +/- 0.05",
+                "Sloan r'": "20.68 +/- 0.08",
+                "Sloan i'": "20.7 +/- 0.1"
+            }
+        },
+        {
+            "Name": "PNV J09553974+6905219",
+            "RA": "09 55 39.74",
+            "Dec": "+69 05 21.9",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "1.4\" seeing",
+            "Date": "Feb. 25.132 UT",
+            "Magnitude": {
+                "H-alpha": "19.57 +/- 0.09",
+                "Sloan r'": "21.4 +/- 0.1",
+                "Sloan i'": "21.8 +/- 0.3"
+            }
+        },
+        {
+            "Name": "PNV J09560368+6859586",
+            "RA": "09 56 03.68",
+            "Dec": "+68 59 58.6",
+            "redshift": null,
+            "Type": "nova",
+            "Time": "1.4\" seeing",
+            "Date": "Feb. 25.132 UT",
+            "Magnitude": {
+                "H-alpha": "20.4 +/- 0.15",
+                "Sloan r'": "> 22.1",
+                "Sloan i'": "> 22.1"
+            }
+        },
+        {
+            "Name": "PNV J09555177+6902549",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "1.4\" seeing",
+            "Date": "Feb. 25.132 UT",
+            "Magnitude": {
+                "H-alpha": "21.9 +/- 0.3",
+                "Sloan r'": "> 22.2",
+                "Sloan i'": "> 21.9"
+            }
+        },
+        {
+            "Name": "PNV J09555123+6901482",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "1.4\" seeing",
+            "Date": "Feb. 25.132 UT",
+            "Magnitude": {
+                "H-alpha": "20.5 +/- 0.15",
+                "Sloan r'": "21.9 +/- 0.2",
+                "Sloan i'": "> 22.0"
+            }
+        }
+    ],
+    "References": [
+        "ATel #4630",
+        "ATel #4794",
+        "ATel #4813"
+    ],
+    "Event Type": "discovery",
+    "Time": "~1.4\" seeing",
+    "Date": "Feb. 25.132 UT",
+    "Telescope": "2.5-m Isaac Newton Telescope",
+    "Instrument": "CCD",
+    "Observatory": "Isaac Newton Group (ING) at the Spanish Observatorio del Roque de los Muchachos of the Instituto de Astrofisica de Canarias (IAC)"
+}

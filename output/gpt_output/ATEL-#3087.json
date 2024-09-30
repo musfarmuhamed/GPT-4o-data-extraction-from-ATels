@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GX 304-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Be/X-ray binary",
+            "Time": "2010-12-09",
+            "Date": "2010-12-09"
+        }
+    ],
+    "References": [
+        "ATEL #3075",
+        "ATEL #2779",
+        "McClintock et al. (1977)",
+        "Finger et al."
+    ],
+    "Event Type": "Giant outburst",
+    "Time": "2010-12-23",
+    "Date": "2010-12-23",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Swift/BAT",
+        "Swift/XRT"
+    ],
+    "Observatory": "RXTE"
+}

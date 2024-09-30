@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF15ak",
+            "RA": "03:29:14.25",
+            "Dec": "+14:50:52.9",
+            "redshift": 0.11,
+            "Type": "SN IIn",
+            "Time": "Null",
+            "Date": "2015-01-16.16"
+        },
+        {
+            "Name": "iPTF15jg",
+            "RA": "12:27:19.15",
+            "Dec": "+07:17:02.3",
+            "redshift": 0.0251,
+            "Type": "SN II",
+            "Time": "Null",
+            "Date": "2015-02-12.41"
+        }
+    ],
+    "References": "Brink et al. 2013MNRAS.435.1047B, Wozniak et al. 2013AAS...22143105W, Rebbapragada et al. 2015AAS...22543402R",
+    "Event Type": "Core-Collapse SNe Discovery and Classification",
+    "Time": "Null",
+    "Date": "Null",
+    "Telescope": "Null",
+    "Instrument": "Null",
+    "Observatory": "Null"
+}

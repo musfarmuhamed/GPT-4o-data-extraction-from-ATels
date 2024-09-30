@@ -1,0 +1,37 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "LSQ12hxg",
+            "RA": "04:11:47.42",
+            "Dec": "-05:55:08.5",
+            "Discovery ": "20121224",
+            "Discovery Source": "LSQ",
+            "Disc. Mag": "18.96",
+            "Spectrum Date": "20130101",
+            "redshift": 0.038837,
+            "Type": "SN IIn",
+            "Phase": null,
+            "Notes": null
+        },
+        {
+            "Name": "LSQ12hzu",
+            "RA": "05:07:53.11",
+            "Dec": "-20:58:29.3",
+            "Discovery ": "20121229",
+            "Discovery Source": "LSQ",
+            "Disc. Mag": "18.55",
+            "Spectrum Date": "20130101",
+            "redshift": 0.03,
+            "Type": "SN IIp",
+            "Phase": null,
+            "Notes": null
+        }
+    ],
+    "References": "[1] Sloan Digital Sky Survey (http://skyserver.sdss.org/public/en/) via NED",
+    "Event Type": "spectroscopic observations of supernovae",
+    "Time": null,
+    "Date": null,
+    "Telescope": "University of Hawaii 2.2-meter telescope",
+    "Instrument": "SuperNova Integral Field Spectrograph",
+    "Observatory": null
+}

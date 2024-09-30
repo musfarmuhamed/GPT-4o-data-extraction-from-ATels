@@ -1,0 +1,54 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER J221621.91+705415.5",
+            "RA": "22h 16m 21.91s",
+            "Dec": "+70d 54m 15.5s",
+            "redshift": null,
+            "Type": "Cataclysmic variable (dwarf nova)",
+            "Time": "16:43:43",
+            "Date": "2012-06-03"
+        },
+        {
+            "Name": "MASTER J221811.12+654219.9",
+            "RA": "22h 18m 11.12s",
+            "Dec": "+65d 42m 19.9s",
+            "redshift": null,
+            "Type": "Cataclysmic variable",
+            "Time": "15:42:32",
+            "Date": "2012-06-03"
+        },
+        {
+            "Name": "MASTER J220943.06+653834.1",
+            "RA": "22h 09m 43.06s",
+            "Dec": "+65d 38m 34.1s",
+            "redshift": null,
+            "Type": null,
+            "Time": "15:42:32",
+            "Date": "2012-06-03"
+        }
+    ],
+    "References": [
+        {
+            "Name": "MASTER J221621.91+705415.5",
+            "Reference Date": "2011-11-23",
+            "Reference Time": "9:22:59"
+        },
+        {
+            "Name": "MASTER J221811.12+654219.9",
+            "Reference Date": "2011-08-26",
+            "Reference Time": "15:06:36"
+        },
+        {
+            "Name": "MASTER J220943.06+653834.1",
+            "Reference Date": "2011-08-26",
+            "Reference Time": "15:49:59"
+        }
+    ],
+    "Event Type": "Discovery and Observation",
+    "Time": "15:42:32",
+    "Date": "2012-06-03",
+    "Telescope": "MASTER",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER-Amur"
+}

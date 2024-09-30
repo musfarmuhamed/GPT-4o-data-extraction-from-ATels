@@ -1,0 +1,71 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "USNO-A2.0 1500_00589511",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.105\u00b10.001",
+            "Type": "Seyfert 1 AGN",
+            "Time": "22:34",
+            "Date": "2008-01-05"
+        },
+        {
+            "Name": "TYC 4015-206-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Intermediate spectral type star",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift/XRT and Chandra/HRC-I X-ray source #1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Likely associated with IGR J00333+6122",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Swift/XRT and Chandra/HRC-I X-ray source #2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Not a symbiotic X-ray binary; likely a star with coronal emission",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J00333+6122",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Hard X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "INTEGRAL source IGR J00333+6126",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Landi et al. (ATel #1322)",
+        "Jonker & Kuiper (ATel #1326)",
+        "Kuiper et al. (ATel #939)",
+        "Bird et al. 2007, ApJS, 170, 175",
+        "Masetti et al., ATel #941"
+    ],
+    "Event Type": "Optical spectroscopic follow-up observation",
+    "Time": "22:34",
+    "Date": "2008-01-05",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS-Red Arm using Grism R158R and 1.5 arcsec slit",
+    "Observatory": "Canary Islands, Spain"
+}

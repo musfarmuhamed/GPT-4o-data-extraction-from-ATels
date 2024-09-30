@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova 1",
+            "RA": "12h29m01.28s",
+            "Dec": "+12d22m18.8s",
+            "redshift": 0.123,
+            "Type": "supernova",
+            "Time": "UT",
+            "Date": "2008-03-10"
+        },
+        {
+            "Name": "Supernova 2",
+            "RA": "12h31m18.90s",
+            "Dec": "+08d23m18.1s",
+            "redshift": 0.165,
+            "Type": "supernova",
+            "Time": "UT",
+            "Date": "2008-03-10"
+        }
+    ],
+    "References": [
+        {
+            "Date": "2008-03-01"
+        },
+        {
+            "Date": "2008-03-02"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "UT",
+    "Date": "2008-03-10",
+    "Telescope": "Canada France Hawaii Telescope",
+    "Instrument": "MegaPrime camera",
+    "Observatory": "CFHT"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J0243.6+6124",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray pulsar",
+            "Time": null,
+            "Date": "October 3"
+        },
+        {
+            "Name": "LS I +61 303",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "GCN #21963",
+        "ATel #10809",
+        "GCN #21960",
+        "ATel #10803"
+    ],
+    "Event Type": "New transient X-ray pulsar Swift J0243.6+6124 outburst",
+    "Time": null,
+    "Date": [
+        "September 19",
+        "September 29",
+        "October 3"
+    ],
+    "Telescope": "MAXI",
+    "Instrument": "GSC",
+    "Observatory": null
+}

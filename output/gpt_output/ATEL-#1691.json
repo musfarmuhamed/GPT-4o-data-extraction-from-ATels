@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SGR 0501+4516",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Soft Gamma Repeater",
+            "Time": null,
+            "Date": "2008-08-28"
+        }
+    ],
+    "References": [
+        "Barthelmy et al. 2008, GCN # 8113",
+        "Palmer et al. 2008, ATel # 1678",
+        "Gogus et al. 2008, ATel # 1677",
+        "Mangano et al. 2008, ATel # 1682"
+    ],
+    "Event Type": "Monitoring",
+    "Time": "Pulsations: 5.76 s, Spin period: 5.762067(2) s, Spin-down rate: 1.5(5) x 10^-11 s/s",
+    "Date": "2008-08-28",
+    "Telescope": "RXTE",
+    "Instrument": "PCA",
+    "Observatory": null
+}

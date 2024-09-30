@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J125151.70+471618.0",
+            "RA": "12h 51m 51.70s",
+            "Dec": "+47d 16m 18.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2013-01-16.98860 UT",
+            "Date": "2013-01-16"
+        },
+        {
+            "Name": "MASTER OT J034718.64+400122.9",
+            "RA": "03h 47m 18.64s",
+            "Dec": "+40d 01m 22.9s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-01-18.50438 UT",
+            "Date": "2013-01-18"
+        },
+        {
+            "Name": "MASTER OT J231025.12+380037.5",
+            "RA": "23h 10m 25.12s",
+            "Dec": "+38d 00m 37.5s",
+            "redshift": null,
+            "Type": "CV",
+            "Time": "2013-01-18.68524 UT",
+            "Date": "2013-01-18"
+        }
+    ],
+    "References": [
+        "Reference image without OT on 2012-03-02.89241 UT",
+        "Reference image without OT on 2012-10-18.73455 UT",
+        "Reference image without OT on 2012-09-16.86442 UT"
+    ],
+    "Event Type": "Discovery",
+    "Time": null,
+    "Date": "2013-01-16",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER"
+}

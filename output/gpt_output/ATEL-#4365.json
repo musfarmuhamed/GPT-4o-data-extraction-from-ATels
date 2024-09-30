@@ -1,0 +1,57 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "UT",
+            "Date": "2004-11-04.2490"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "UT",
+            "Date": "2004-11-04.2521"
+        },
+        {
+            "Name": "Nova Mon 2012",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Classical Nova",
+            "Time": "UT",
+            "Date": "2004-11-06.2153"
+        },
+        {
+            "Name": "UGPS J069978.60+055332.9",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #3202",
+        "ATel #4224",
+        "ATel #4310",
+        "ATel #4320",
+        "ATel #4321",
+        "ATel #4352",
+        "Lucas et al. 2008, MNRAS 391, 136",
+        "Schlafly & Finkbeiner 2011, ApJ 737, 103",
+        "Drew et al. 2005, MNRAS 362, 752"
+    ],
+    "Event Type": "Detection",
+    "Time": "UT",
+    "Date": "2004-11-04.2490 to 2004-11-06.2153",
+    "Telescope": "Isaac Newton Telescope",
+    "Instrument": "Wide Field Camera",
+    "Observatory": "Observatorio del Roque de los Muchachos"
+}

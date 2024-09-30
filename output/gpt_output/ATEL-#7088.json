@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Aql X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Transient neutron star low-mass X-ray binary",
+            "Time": "20:38 UT",
+            "Date": "2015 February 16"
+        }
+    ],
+    "References": "ATel #6280, #6286, #6447",
+    "Event Type": "X-ray increase",
+    "Time": "20:38 UT",
+    "Date": "2015 February 16",
+    "Telescope": [
+        {
+            "Name": "MAXI/GSC",
+            "Instrument": null,
+            "Observatory": null
+        },
+        {
+            "Name": "Swift/BAT",
+            "Instrument": null,
+            "Observatory": null
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J08510815+7150339",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "type-Ia supernova",
+            "Time": "25.76 UT",
+            "Date": "Jan. 25",
+            "Expansion velocity": "10000 km/s"
+        },
+        {
+            "Name": "PGC 24869",
+            "RA": null,
+            "Dec": null,
+            "redshift": "3485 km/s",
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null,
+            "Expansion velocity": null
+        }
+    ],
+    "References": [
+        "Strauss et al. 1992, ApJS 83, 29; via NED",
+        "Patat et al. 1996, MNRAS 278, 111",
+        "Harutyunyan et al. 2008, A.Ap. 488, 383",
+        "Blondin and Tonry 2007, Ap.J. 666, 1024"
+    ],
+    "Event Type": "optical spectrogram",
+    "Time": "25.76 UT",
+    "Date": "Jan. 25",
+    "Telescope": "Asiago 1.82-m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago SN group"
+}

@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2007C",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005604",
+            "Type": "Ib",
+            "Time": "2007-01-13.3 UT",
+            "Date": "2007-01-13"
+        },
+        {
+            "Name": "SN 2007C",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.005604",
+            "Type": "Ib",
+            "Time": "2007-01-15.0 UT",
+            "Date": "2007-01-15"
+        }
+    ],
+    "References": [
+        "CBET #798",
+        "CBET #800",
+        "ATel #975"
+    ],
+    "Event Type": "Observation",
+    "Time": "2007-01-13.3 UT, 2007-01-15.0 UT",
+    "Date": "2007-01-13, 2007-01-15",
+    "Telescope": "Swift UVOT, XRT",
+    "Instrument": "UVOT, XRT",
+    "Observatory": null
+}

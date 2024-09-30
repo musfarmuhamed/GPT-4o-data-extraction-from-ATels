@@ -1,0 +1,28 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J02051332+0606084",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.01138",
+            "Type": "Ib/c",
+            "Time": "pre-max",
+            "Date": "20150911.04"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "\"Bright Supernova\" website (http://www.rochesterastronomy.org/snimages/)",
+        "CBAT Transient Object Followup Reports (http://www.cbat.eps.harvard.edu/index.html)",
+        "Chengalur et al. 1993, ApJ 419, 30",
+        "GELATO (Harutyunyan et al. 2008, A&A, 488, 383)",
+        "SNID (Blondin and Tonry 2007, ApJ, 666, 1024)",
+        "Asiago classification spectra (http://sngroup.oapd.inaf.it)"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Asiago"
+}

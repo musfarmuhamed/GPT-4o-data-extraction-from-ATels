@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS15blq",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.125",
+            "Type": "type IIn supernova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Huber et al., ATel #7153",
+        "Shumkov et al ATel #8104",
+        "Smith et al ATel #8110"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": null,
+    "Date": "20151001",
+    "Telescope": "UH 2.2m telescope",
+    "Instrument": "SNIFS spectrograph",
+    "Observatory": "Pan-STARRS Survey for Transients (PSST)"
+}

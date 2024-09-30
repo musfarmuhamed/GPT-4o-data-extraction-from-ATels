@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1626.6-5156",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "transient pulsar",
+            "Time": null,
+            "Date": "2005-12-19 to 2005-12-31"
+        },
+        {
+            "Name": "GRO J1744-28",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "bursting pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "LMC X-4",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting X-ray pulsar",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SMC X-1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting X-ray pulsar",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Palmer et al., ATEL #678, Markwardt & Swank, ATEL #679",
+    "Event Type": "observation",
+    "Time": null,
+    "Date": "2005-12-19 to 2005-12-31",
+    "Telescope": "PCA (PCU2)",
+    "Instrument": "PCA (PCU2)",
+    "Observatory": "Rossi X-ray Timing Explorer"
+}

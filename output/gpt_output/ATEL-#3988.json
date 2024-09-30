@@ -1,0 +1,32 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J18179-1621",
+            "RA": "18 17 52.19",
+            "Dec": "-16 21 31.7",
+            "redshift": null,
+            "Type": null,
+            "Time": "23:09",
+            "Date": "2012-03-17"
+        },
+        {
+            "Name": "2MASS J18175218-1621316",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Tuerler et al. 2012, ATel #3947",
+        "Li et al. 2012, ATel #3950"
+    ],
+    "Event Type": "Chandra HETGS ToO observation",
+    "Time": "23:09",
+    "Date": "2012-03-17",
+    "Telescope": "Chandra",
+    "Instrument": "HETGS",
+    "Observatory": null
+}

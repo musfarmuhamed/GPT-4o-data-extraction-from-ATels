@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "GALEXASC J234711.93+100501.3",
+            "RA": "23:47:11.93",
+            "Dec": "+10:05:01.3",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16jj (AT 2016flu)",
+            "RA": "23:47:11.718",
+            "Dec": "+10:04:59.68",
+            "redshift": "0.034",
+            "Type": "Type Ia Supernova",
+            "Time": "2016-08-27.58",
+            "Date": "2016-08-27"
+        }
+    ],
+    "References": "ATEL #9420",
+    "Event Type": "supernova discovery",
+    "Time": "2016-08-27.58",
+    "Date": "2016-08-27",
+    "Telescope": "quadruple 14-cm \"Brutus\" telescope",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

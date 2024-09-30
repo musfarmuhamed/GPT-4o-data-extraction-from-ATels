@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSN J20043485+1244168",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0147",
+            "Type": "type Ia supernova",
+            "Time": "t = +7 days",
+            "Date": "2014 July 24.68 UT"
+        },
+        {
+            "Name": "UGC 11152",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.0147",
+            "Type": "Host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, Ap.J. 666, 1024; Huchra et al. 1999, Ap.J.Supp., 121, 287",
+    "Event Type": "Observation",
+    "Time": "t = +7 days",
+    "Date": "2014 July 24.68 UT",
+    "Telescope": "2.4-m telescope",
+    "Instrument": "YFOSC",
+    "Observatory": "LiJiang Gaomeigu Station of YNAO"
+}

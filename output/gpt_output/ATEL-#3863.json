@@ -1,0 +1,45 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Candidate Progenitor of SN 2012A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Red Supergiant (RSG)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SN 2012A",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type II Supernova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "NGC 3239",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "CBET #2974",
+        "CBET #2975",
+        "ATEL #3855",
+        "ATEL #3857",
+        "ATEL #3860",
+        "ATEL #3861"
+    ],
+    "Event Type": "Supernova Progenitor Candidate Detection",
+    "Time": "Jan 12.3",
+    "Date": "2012",
+    "Telescope": "Magellan I (Baade)",
+    "Instrument": "FourStar near-IR camera",
+    "Observatory": "Las Campanas Observatory"
+}

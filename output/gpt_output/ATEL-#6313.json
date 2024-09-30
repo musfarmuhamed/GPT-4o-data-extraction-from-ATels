@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14du",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.18,
+            "Type": "optical transient",
+            "Time": null,
+            "Date": "2014-07-13"
+        }
+    ],
+    "References": [
+        "ATEL#6308",
+        "ATel #6311",
+        "Breeveld et al. 2011",
+        "Kalberla 2005"
+    ],
+    "Event Type": "extreme luminosity transient",
+    "Time": "00:43:43 UT",
+    "Date": "2014-07-13",
+    "Telescope": "Swift",
+    "Instrument": [
+        "Ultraviolet/Optical Telescope (UVOT)",
+        "X-Ray Telescope (XRT)",
+        "Combined Array for Research in Millimeter Astronomy (CARMA)"
+    ],
+    "Observatory": null
+}

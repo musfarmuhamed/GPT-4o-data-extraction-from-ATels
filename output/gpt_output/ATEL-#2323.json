@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1999 AP10",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "L-type",
+            "Time": "16.0",
+            "Date": "2009-11-09"
+        },
+        {
+            "Name": "2000 TO64",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Sq-type",
+            "Time": "17.0",
+            "Date": "2009-11-09"
+        },
+        {
+            "Name": "2000 UJ1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S-type",
+            "Time": "10.0",
+            "Date": "2009-11-09"
+        },
+        {
+            "Name": "2000 XK44",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "S-type",
+            "Time": "11.0",
+            "Date": "2009-10-19"
+        }
+    ],
+    "References": "Bus & Binzel 2002, ATEL#2283",
+    "Event Type": "Radar observation",
+    "Time": null,
+    "Date": "2009-10-19 to 2009-11-09",
+    "Telescope": "Palomar 5-m telescope",
+    "Instrument": "long-slit CCD spectroscopy",
+    "Observatory": "Arecibo facility"
+}

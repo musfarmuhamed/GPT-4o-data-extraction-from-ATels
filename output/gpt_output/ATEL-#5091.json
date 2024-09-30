@@ -1,0 +1,24 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "New UV transient in M 31",
+            "RA": "00h 42m 55.62s",
+            "Dec": "+41d 14' 12.3\"",
+            "redshift": null,
+            "Type": "M 31 nova candidate",
+            "Time": "15",
+            "Date": "2013-05-27"
+        }
+    ],
+    "References": [
+        "Massey et al. 2006, AJ, 131, 2478",
+        "Poole et al. 2008, MNRAS, 383, 627",
+        "ATel #3446"
+    ],
+    "Event Type": "Monitoring observation",
+    "Time": "15",
+    "Date": "2013-05-27",
+    "Telescope": "Ultra-violet/Optical Telescope (UVOT)",
+    "Instrument": "Swift satellite",
+    "Observatory": "Swift"
+}

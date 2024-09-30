@@ -1,0 +1,59 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "V2672 Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "extremely fast nova",
+            "Time": "17.948",
+            "Date": "2009-08-17"
+        },
+        {
+            "Name": "YY Dor",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASS source",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "RS Oph",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "recurrent nova",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "V838 Her",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "very fast classical nova",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "IAUC 9064",
+    "Event Type": "nova",
+    "Time": "17.948",
+    "Date": "2009-08-17",
+    "Telescope": "Swift",
+    "Instrument": [
+        "XRT",
+        "UVOT"
+    ],
+    "Observatory": null
+}

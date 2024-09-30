@@ -1,0 +1,76 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1508.6-4953",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "flat spectrum radio quasar (FSRQ)",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PMN J1508-4953",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PLCKERC030 G324.37+07.16",
+            "RA": 227.14,
+            "Dec": -49.92,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PLCKERC070 G324.39+07.19",
+            "RA": 227.15,
+            "Dec": -49.87,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PLCKERC100 G324.39+07.17",
+            "RA": 227.15,
+            "Dec": -49.89,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "PLCKERC143 G324.39+07.17",
+            "RA": 227.15,
+            "Dec": -49.89,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #4167",
+        "Planck collaboration 2011, A&A 536, A7",
+        "Massardi et al. 2008, MNRAS 384, 775"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": null,
+    "Telescope": [
+        "Swift/BAT",
+        "INTEGRAL/IBIS",
+        "Fermi"
+    ],
+    "Instrument": null,
+    "Observatory": [
+        "ISDC",
+        "Australia Telescope"
+    ]
+}

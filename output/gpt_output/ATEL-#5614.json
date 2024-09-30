@@ -1,0 +1,42 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J235725.11-015215.8",
+            "RA": "23h 57m 25.11s",
+            "Dec": "-01d 52m 15.8s",
+            "redshift": 0.812,
+            "Type": "Blazar",
+            "Time": "2013-11-24.62792",
+            "Date": "2013-11-24"
+        },
+        {
+            "Name": "MASTER OT J224412.70+405714.2",
+            "RA": "22h 44m 12.70s",
+            "Dec": "+40d 57m 14.2s",
+            "redshift": 1.171,
+            "Type": "Blazar",
+            "Time": "2013-11-24.72772",
+            "Date": "2013-11-24"
+        },
+        {
+            "Name": "MASTER OT J010223.27+203321.2",
+            "RA": "01h 02m 23.27s",
+            "Dec": "+20d 33m 21.2s",
+            "redshift": null,
+            "Type": "Possible Supernova",
+            "Time": "2013-11-29.52578",
+            "Date": "2013-11-29"
+        }
+    ],
+    "References": [
+        "2010-11-02.75843 UT",
+        "2010-11-06.64476 UT",
+        "2011-12-26.61818 UT"
+    ],
+    "Event Type": "Flare",
+    "Time": "Various times",
+    "Date": "Various dates",
+    "Telescope": "MASTER-Kislovodsk",
+    "Instrument": "Auto-detection system",
+    "Observatory": "MASTER"
+}

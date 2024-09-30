@@ -1,0 +1,96 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS140123:111719+361025",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140123:104818+204751",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Ia-91T",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140123:093027+411345",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.12,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140109:095728+274221",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.09,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140109:100201+404034",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.14,
+            "Type": "Ia",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140102:124548+323108",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS140102:133358+240714",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.13,
+            "Type": "II",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS131226:113049+263830",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.05,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "CSS131224:023218+212428",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.03,
+            "Type": "IIP",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Fossey et al. (2014, CBET#3792)",
+        "Ergon et al. (2014, ATel#5834)",
+        "Blondin & Tonry (2007, ApJ, 666, 1024)"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "unknown",
+    "Date": "2014 Jan 23",
+    "Telescope": "Palomar 5m",
+    "Instrument": "DBSP",
+    "Observatory": "Palomar"
+}

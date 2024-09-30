@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J054231.15-262533.9",
+            "RA": "05h 42m 31.15s",
+            "Dec": "-26d 25m 33.9s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "00:33:04 UT",
+            "Date": "2016-09-20"
+        },
+        {
+            "Name": "MASTER OT J203239.31-565835.8",
+            "RA": "20h 32m 39.31s",
+            "Dec": "-56d 58m 35.8s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": null,
+            "Date": "2016-09-18"
+        },
+        {
+            "Name": "MASTER OT J200519.83-485353.6",
+            "RA": "20h 05m 19.83s",
+            "Dec": "-48d 53m 53.6s",
+            "redshift": null,
+            "Type": "dwarf nova outburst, ampl>3.2m",
+            "Time": "19:14:10",
+            "Date": "2016-09-18"
+        },
+        {
+            "Name": "MASTER OT J213637.54-632843.2",
+            "RA": "21h 36m 37.54s",
+            "Dec": "-63d 28m 43.2s",
+            "redshift": null,
+            "Type": "possibly dwarf nova outburst with ampl>5m",
+            "Time": null,
+            "Date": "2016-09-12"
+        },
+        {
+            "Name": "MASTER OT J224951.29+403802.7",
+            "RA": "22h 49m 51.29s",
+            "Dec": "+40d 38m 02.7s",
+            "redshift": null,
+            "Type": "new OT, possibly dwarf nova, ampl>5.4m",
+            "Time": null,
+            "Date": "2016-09-19"
+        }
+    ],
+    "References": "Lipunov et al., \"MASTER Global Robotic Net\", Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": "2016-09-20",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

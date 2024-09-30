@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "BZQJ2345-1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.621,
+            "Type": "QSO",
+            "Time": "2457327.70",
+            "Date": "November 1st, 2015"
+        },
+        {
+            "Name": "CGRaBSJ2345-1555",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2457327.70",
+            "Date": "November 1st, 2015"
+        },
+        {
+            "Name": "2FGLJ2345.0-1553",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2457327.70",
+            "Date": "November 1st, 2015"
+        }
+    ],
+    "References": "ATEL #2977",
+    "Event Type": "NIR flare",
+    "Time": "2457327.70",
+    "Date": "November 1st, 2015",
+    "Telescope": "2.1m telescope",
+    "Instrument": "CANICA",
+    "Observatory": "Guillermo Haro Observatory"
+}

@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "NGC 2617",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Seyfert 1",
+            "Time": "Night",
+            "Date": "Feb 3 & 4, Mar 4, Apr 9 2016"
+        }
+    ],
+    "References": [
+        "Shappee et al. 2013, ATel #5010",
+        "Shappee et al. 2014",
+        "Shappee et al. (2013)",
+        "Shappee et al. (2014)"
+    ],
+    "Event Type": "dramatic change from a largely obscured Seyfert 1.8 to an unobscured Seyfert 1",
+    "Time": null,
+    "Date": "2003 to 2013",
+    "Telescope": [
+        "2.5-m telescope of the SAI Caucasus Mountain Observatory",
+        "2-m Zeiss telescope of Shamakhy Astrophysical Observatory (ShAO)",
+        "50-cm Maksutov AZT-5 telescope of SAI Crimean Station",
+        "Zeiss-600 telescope of ShAO"
+    ],
+    "Instrument": [
+        "ASTRONIRCAM",
+        "2x2 prism spectrograph",
+        "CCD"
+    ],
+    "Observatory": [
+        "SAI Caucasus Mountain Observatory",
+        "Shamakhy Astrophysical Observatory (ShAO)",
+        "SAI Crimean Station"
+    ]
+}

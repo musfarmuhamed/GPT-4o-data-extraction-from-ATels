@@ -1,0 +1,40 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PSR J1119-6127",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "rotationally-powered pulsar",
+            "Time": "time extracted from the Time field, use null if none",
+            "Date": "July 27"
+        }
+    ],
+    "References": [
+        {
+            "source": "ATel #9274"
+        },
+        {
+            "source": "GCN Circular #19736"
+        },
+        {
+            "source": "Ng et al., ApJ 761, 65N (2012)"
+        },
+        {
+            "source": "Swift data archive"
+        }
+    ],
+    "Event Type": "X-ray burst",
+    "Time": null,
+    "Date": "July 27",
+    "Telescope": "Swift",
+    "Instrument": [
+        "BAT",
+        "GBM",
+        "XRT"
+    ],
+    "Observatory": [
+        "Fermi",
+        "Swift"
+    ]
+}

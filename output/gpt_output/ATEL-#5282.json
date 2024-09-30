@@ -1,0 +1,91 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PNV J20233073+2046041",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "classical nova -- possibly CO type",
+            "Time": "14:87",
+            "Date": "2013-08-14"
+        },
+        {
+            "Name": "He I 6678",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "detached absorption feature",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "He I 5875",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "strong P Cyg line",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Si II 6347",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Si II 6371",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "Fe II 6456",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "N I 6486",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "absorption",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        {
+            "Author": "Darnley et al.",
+            "Source": "ATEL #5279"
+        },
+        {
+            "Author": "Williams, R. E.",
+            "Source": "2012, AJ, 144, 98"
+        },
+        {
+            "Author": "Shore et al.",
+            "Source": "2012, A&A, 537, C2"
+        },
+        {
+            "Author": "Kalberla, P.M.W. et al.",
+            "Source": "2005, A&A, 440, 775"
+        }
+    ],
+    "Event Type": "high resolution results",
+    "Time": "14:87",
+    "Date": "2013-08-14",
+    "Telescope": "2 meter Zeiss telescope",
+    "Instrument": "coude spectrograph",
+    "Observatory": "Ondrejov Observatory"
+}

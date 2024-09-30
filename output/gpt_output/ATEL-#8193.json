@@ -1,0 +1,47 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "1ES 1959+650",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "VHE peaked BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "TXS 1959+650",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "VHE peaked BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        },
+        {
+            "Name": "3FGL J2000.0+6509",
+            "RA": "299.999384",
+            "Dec": "65.148514",
+            "redshift": "0.047",
+            "Type": "VHE peaked BL Lac object",
+            "Time": "Null",
+            "Date": "Null"
+        }
+    ],
+    "References": [
+        "Acero et al. 2015, ApJS 218, 23",
+        "Beasley et al. 2002, ApJS, 141, 13",
+        "Schachter et al. 1993, ApJ, 412, 541",
+        "ATel #7211",
+        "ATel #8014",
+        "ATel #8148",
+        "ATel #8165",
+        "Fermi LAT 3rd source catalog (3FGL)"
+    ],
+    "Event Type": "Increasing gamma-ray emission",
+    "Time": "Null",
+    "Date": "July 2015 to October 2015",
+    "Telescope": "Fermi Gamma-ray Space Telescope",
+    "Instrument": "Large Area Telescope (LAT)",
+    "Observatory": "Null"
+}

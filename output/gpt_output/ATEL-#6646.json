@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Supernova Gaia14act",
+            "RA": "12:20:22.5",
+            "Dec": "+28:24:51.4",
+            "redshift": 0.027,
+            "Type": "II",
+            "Time": "unknown",
+            "Date": "2014-10-30.15"
+        },
+        {
+            "Name": "SDSS J122021.24+282448.1 (2MASX J12202126+2824502)",
+            "RA": "12:20:21.24",
+            "Dec": "+28:24:48.1",
+            "redshift": 0.027,
+            "Type": "unknown",
+            "Time": "unknown",
+            "Date": "unknown"
+        }
+    ],
+    "References": [
+        "Tomasella et al. 2014, AN, 335, 841",
+        "Harutyunyan et al. 2008, A&A, 488, 383",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Rixon et al, 2014, ATel #6593"
+    ],
+    "Event Type": "spectroscopic classification",
+    "Time": "unknown",
+    "Date": "2014-10-30.15",
+    "Telescope": "Asiago 1.82 m Copernico Telescope",
+    "Instrument": "AFOSC",
+    "Observatory": "Padova Asiago Observatory"
+}

@@ -1,0 +1,25 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-15hg",
+            "RA": "09:53:48.62",
+            "Dec": "+09:11:37.78",
+            "redshift": null,
+            "Type": "Ia normal",
+            "Time": "2000.",
+            "Date": null
+        }
+    ],
+    "References": {
+        "ATel": "#7413",
+        "Code": "SNID",
+        "Authors": "Blondin and Tonry",
+        "Publication": "Ap.J. 666, 1024, 2007"
+    },
+    "Event Type": "Spectra",
+    "Time": null,
+    "Date": "Apr 19, 2015 UT",
+    "Telescope": "1.5-m telescope",
+    "Instrument": "FAST",
+    "Observatory": "F. L. Whipple Observatory"
+}

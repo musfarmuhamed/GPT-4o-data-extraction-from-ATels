@@ -1,0 +1,43 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "Swift J1930.5+3414",
+            "RA": "19h 30m 13.80s",
+            "Dec": "+34\u00b0 10' 49.4\" (J2000)",
+            "redshift": "0.0629",
+            "Type": "Seyfert 1 galaxy",
+            "Time": "June 24-25 UT",
+            "Date": "2006"
+        },
+        {
+            "Name": "Swift J2000.6+3210",
+            "RA": "20h 00m 21.86s",
+            "Dec": "+32\u00b0 11' 23.4\" (J2000)",
+            "redshift": "0",
+            "Type": "Be/X-ray binary",
+            "Time": "June 24-25 UT",
+            "Date": "2006"
+        },
+        {
+            "Name": "Swift J2127.4+5654",
+            "RA": "21h 27m 45.33s",
+            "Dec": "+56\u00b0 56' 35.0\" (J2000)",
+            "redshift": "0.0147",
+            "Type": "Narrow-line Seyfert 1 Galaxy",
+            "Time": "June 24-25 UT",
+            "Date": "2006"
+        }
+    ],
+    "References": [
+        "ATel #669",
+        "ATel #677",
+        "Fuhrmeister & Schmitt, 2003, A&A, 403, 247",
+        "Schlegel et al. 1998, ApJ, 500, 525"
+    ],
+    "Event Type": "Optical spectroscopic classifications of Swift BAT/XRT sources",
+    "Time": "June 24-25 UT",
+    "Date": "2006",
+    "Telescope": "Hiltner 2.4m telescope",
+    "Instrument": "Modular Spectrograph",
+    "Observatory": "MDM Observatory"
+}

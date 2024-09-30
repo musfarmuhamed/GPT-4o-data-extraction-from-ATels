@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J113418.80-513313.5",
+            "RA": "11h 34m 18.80s",
+            "Dec": "-51d 33m 13.5s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "22:20:04.657",
+            "Date": "2017-02-08"
+        }
+    ],
+    "References": [
+        {
+            "Reference": {
+                "Name": "Reference Image",
+                "Date": "2015-01-11.90078 UT",
+                "mag_limit": "19.1"
+            }
+        },
+        {
+            "Reference": {
+                "Name": "Discovery Image",
+                "Date": "2017-02-08.93060 UT",
+                "mag_limit": "17.9"
+            }
+        }
+    ],
+    "Event Type": "Fermi GBM trigger 508270281",
+    "Time": "18:11:16.40",
+    "Date": "2017/02/08",
+    "Telescope": "MASTER-SAAO",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

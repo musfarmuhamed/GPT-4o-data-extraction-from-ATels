@@ -1,0 +1,44 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J17591-2342",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar (AMSP)",
+            "Time": [
+                {
+                    "Start": "2018-08-13 22:36",
+                    "End": "2018-08-14 14:26",
+                    "Total Exposure": "27 ks"
+                },
+                {
+                    "Start": "2018-08-15 00:01",
+                    "End": "2018-08-15 14:08",
+                    "Total Exposure": "7.2 ks"
+                }
+            ],
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #11941",
+        "ATel #11942",
+        "ATel #11954"
+    ],
+    "Event Type": "new transient discovery and observations",
+    "Time": "2018-08-13 to 2018-08-15",
+    "Date": null,
+    "Telescope": [
+        "NuSTAR",
+        "NICER"
+    ],
+    "Instrument": [
+        "NuSTAR",
+        "NICER"
+    ],
+    "Observatory": [
+        "Neil Gehrels Swift Observatory",
+        "International Space Station"
+    ]
+}

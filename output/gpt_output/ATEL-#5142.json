@@ -1,0 +1,53 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "iPTF13bvn",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00449,
+            "Type": "Type I supernova",
+            "Time": null,
+            "Date": "June 17.8 UT"
+        },
+        {
+            "Name": "SN 2005bf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ib event",
+            "Time": "32 days before maximum light",
+            "Date": null
+        },
+        {
+            "Name": "SN 1999dn",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Type Ib event",
+            "Time": "10 days before maximum light",
+            "Date": null
+        },
+        {
+            "Name": "NGC 5806",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.00449,
+            "Type": "host galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATel #5137",
+        "Folatelli et al. 2006, ApJ, 641, 1039",
+        "Deng et al. 2000, ApJ, 540, 452",
+        "Thomas et al. 2011, PASP 123, 237",
+        "Supernova Spectrum Archive (SUSPECT)"
+    ],
+    "Event Type": "Type I supernova",
+    "Time": null,
+    "Date": "June 17.8 UT",
+    "Telescope": "10-m SALT",
+    "Instrument": "RSS",
+    "Observatory": null
+}

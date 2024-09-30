@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-17bp",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.051,
+            "Type": "Ia-norm",
+            "Time": "00:31:10",
+            "Date": "2017-01-31"
+        },
+        {
+            "Name": "ATLAS17abh",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.022,
+            "Type": "Ia-norm",
+            "Time": "00:29:09",
+            "Date": "2017-01-29"
+        }
+    ],
+    "References": "ATel #10023",
+    "Event Type": "optical spectroscopic observation of supernova candidates",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MDM 2.4m",
+    "Instrument": "OSMOS",
+    "Observatory": "KPNO"
+}

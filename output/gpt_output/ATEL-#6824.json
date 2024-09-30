@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-14ma",
+            "RA": "23:55:09.129",
+            "Dec": "+10:12:54.21",
+            "redshift": null,
+            "Type": "supernova",
+            "Time": "2014-12-13.27",
+            "Date": "2014-12-13"
+        },
+        {
+            "Name": "SDSS J235509.00+101252.9",
+            "RA": "23:55:09.00",
+            "Dec": "+10:12:52.9",
+            "redshift": null,
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "SDSS page",
+    "Event Type": "discovery",
+    "Time": "2014-12-13.27",
+    "Date": "2014-12-13",
+    "Telescope": "Brutus",
+    "Instrument": null,
+    "Observatory": "Haleakala, Hawaii"
+}

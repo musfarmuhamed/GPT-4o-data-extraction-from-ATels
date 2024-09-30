@@ -1,0 +1,86 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CXOU J005455.6-724510",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": "04 Jul 2002"
+        },
+        {
+            "Name": "RX J0054.9-7245",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "AXJ0054.8-7244",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "SXP504",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "X-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE 47103",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "OGLE 36877",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "MACHO 207.16245.16",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "ATEL#217",
+        "ATEL#219",
+        "Udalski et al., 1998",
+        "Alcock et al., 1999",
+        "Corbet, 1984"
+    ],
+    "Event Type": "Detection of X-ray source",
+    "Time": "261 \u00b1 7 days",
+    "Date": null,
+    "Telescope": [
+        "Chandra",
+        "XMM-Newton",
+        "RXTE"
+    ],
+    "Instrument": [
+        "PCA"
+    ],
+    "Observatory": null
+}

@@ -1,0 +1,36 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J01054-7253",
+            "RA": "01:05:27",
+            "Dec": "-72:53:33",
+            "redshift": null,
+            "Type": null,
+            "Time": "05:26",
+            "Date": "2009-06-07"
+        },
+        {
+            "Name": "RX J0104.7-7253",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": [
+        "Gros et al, 2003, A&A 411, L179\u2013L183",
+        "Kahabka P. et al., 1999, A&AS, 136, 81"
+    ],
+    "Event Type": "detection",
+    "Time": "05:26",
+    "Date": "2009-06-07",
+    "Telescope": "INTEGRAL",
+    "Instrument": [
+        "IBIS/ISGRI",
+        "JEM-X",
+        "ROSAT"
+    ],
+    "Observatory": null
+}

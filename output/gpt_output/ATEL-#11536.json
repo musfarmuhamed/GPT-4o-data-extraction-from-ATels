@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN 2018atr",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": "Type Ia",
+            "Time": "15.8",
+            "Date": "2018-04-15"
+        },
+        {
+            "Name": "2MASX J13463567+2906462",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.08,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Blondin and Tonry 2007, ApJ, 666, 1024",
+    "Event Type": "Observation and Classification",
+    "Time": "15.8",
+    "Date": "2018-04-15",
+    "Telescope": "2.4 m telescope",
+    "Instrument": "LJT + YFOSC",
+    "Observatory": "Lijiang Observatory of Yunnan Observatories (YNAO)"
+}

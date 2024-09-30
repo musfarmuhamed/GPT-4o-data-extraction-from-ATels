@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MAGIC J0317+413",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "VHE gamma-ray source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IC310",
+            "RA": "03 16 43.0",
+            "Dec": "+41 19 29",
+            "redshift": "0.0189",
+            "Type": "head-tail radio galaxy",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "A. Neronov, D. Semikoz, Ie.Vovk arXiv:1003.4615",
+    "Event Type": "discovery of VHE gamma-ray emission",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MAGIC Telescope system",
+    "Instrument": null,
+    "Observatory": "MAGIC Collaboration"
+}

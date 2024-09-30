@@ -1,0 +1,74 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "IGR J04539+4502",
+            "RA": "04h 54m 14.78s",
+            "Dec": "+45d 03m 13.58s",
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "2MASX J04541490+4503149",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "32P138",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Radio Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J045414.88+450315.1",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Infrared Source",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "IGR J21171+3930",
+            "RA": "21h 17m 02.53s",
+            "Dec": "+39d 27m 31.43s",
+            "redshift": null,
+            "Type": "AGN",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "USNO-B1.0 1294-0450859",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Optical Object",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "WISE J211702.38+392732.6",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "Infrared Source",
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Bird et al. (2016 ApJS, 223, 15), Leahy and Roger 1996, A&A Suppl. 115,345, Secrest et al. 2015 ApJS, 221, 12",
+    "Event Type": "X-ray follow-up observations",
+    "Time": null,
+    "Date": null,
+    "Telescope": "Swift-XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

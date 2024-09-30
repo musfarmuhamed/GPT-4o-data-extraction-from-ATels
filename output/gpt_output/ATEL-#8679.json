@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASASSN-16bm/AT 2016adl",
+            "RA": null,
+            "Dec": null,
+            "redshift": 0.007,
+            "Type": "Type II SN 1999em at +4 days",
+            "Time": "9.8 UT",
+            "Date": "2016 February 9"
+        },
+        {
+            "Name": "GALEXASC J115153.52-132447.1",
+            "RA": "11h 51m 53.52s",
+            "Dec": "-13d 24m 47.1s",
+            "redshift": 0.007,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "ATel #8652",
+    "Event Type": "spectrum obtained",
+    "Time": "9.8 UT",
+    "Date": "2016 February 9",
+    "Telescope": "LCOGT 2-meter telescope",
+    "Instrument": "FLOYDS",
+    "Observatory": "Siding Spring, Australia"
+}

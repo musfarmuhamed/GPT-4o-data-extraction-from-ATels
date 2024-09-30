@@ -1,0 +1,56 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J061259.44+480703.0",
+            "RA": "06h 12m 59.44s",
+            "Dec": "+48d 07m 03.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-29.02830 UT",
+            "Date": "2015-09-29"
+        },
+        {
+            "Name": "MASTER OT J202225.09+500457.4",
+            "RA": "20h 22m 25.09s",
+            "Dec": "+50d 04m 57.4s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2015-09-25.75610 UT",
+            "Date": "2015-09-25"
+        },
+        {
+            "Name": "MASTER OT J034612.42-021839.2",
+            "RA": "03h 46m 12.42s",
+            "Dec": "-02d 18m 39.2s",
+            "redshift": null,
+            "Type": "OT source",
+            "Time": "2015-09-26.15117 UT",
+            "Date": "2015-09-26"
+        },
+        {
+            "Name": "CRTS UGSU",
+            "RA": "16h 39m 42.73s",
+            "Dec": "+12d 24m 14.8s",
+            "redshift": null,
+            "Type": "current outburst",
+            "Time": "2015-09-27 21:16:51.251",
+            "Date": "2015-09-27"
+        },
+        {
+            "Name": "CRTS UG",
+            "RA": "19h 55m 55.14s",
+            "Dec": "-30d 36m 01.3s",
+            "redshift": null,
+            "Type": "current outburst",
+            "Time": "2015-09-29 21:55:42.387",
+            "Date": "2015-09-29"
+        }
+    ],
+    "References": "Lipunov et al., Advances in Astronomy, MASTER Global Robotic Net, 2010",
+    "Event Type": "Optical Transients discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

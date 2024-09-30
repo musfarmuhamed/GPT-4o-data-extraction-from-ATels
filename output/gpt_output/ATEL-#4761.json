@@ -1,0 +1,34 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J183120.64+301935.5",
+            "RA": "18h 31m 20.64s",
+            "Dec": "+30d 19m 35.5s",
+            "redshift": null,
+            "Type": "dwarf nova of UGSS or UGSU type",
+            "Time": "24.15161",
+            "Date": "2013-01-24"
+        },
+        {
+            "Name": "MASTER OT J171427.91+230333.8",
+            "RA": "17h 14m 27.91s",
+            "Dec": "+23d 03m 33.8s",
+            "redshift": null,
+            "Type": "SN Ia candidate",
+            "Time": "25.11937",
+            "Date": "2013-01-25"
+        }
+    ],
+    "References": [
+        "Pruzhinskaya, M. V. et al., Astronomy Letters, Volume 37, Issue 10, pp. 663-669, 2011",
+        "http://master.sai.msu.ru/static/OT/J183120+301935-DSS-Blue.jpg",
+        "http://master.sai.msu.ru/static/OT/183120.64301935.5.png",
+        "http://master.sai.msu.ru/static/OT/171427.91230333.8.png"
+    ],
+    "Event Type": "optical transients",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-Kislovodsk auto-detection system",
+    "Instrument": null,
+    "Observatory": null
+}

@@ -1,0 +1,26 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "XTE J1751-305",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "accreting millisecond pulsar",
+            "Time": "23:59",
+            "Date": "April 11th 2007"
+        }
+    ],
+    "References": [
+        "ATELs #1045",
+        "ATELs #1046",
+        "ATELs #1051",
+        "Wijnands et al (2005)",
+        "Markwardt et al. 2002"
+    ],
+    "Event Type": "Observation",
+    "Time": "23:59",
+    "Date": "April 11th 2007",
+    "Telescope": "Swift/XRT",
+    "Instrument": "XRT",
+    "Observatory": "Swift"
+}

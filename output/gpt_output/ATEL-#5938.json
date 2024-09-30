@@ -1,0 +1,92 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SKY_J5271481-4716073",
+            "RA": "05:27:14.81",
+            "Dec": "-47:16:07.3",
+            "redshift": "0.093",
+            "Type": "Gal",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "MLS140220-081342+181306",
+            "RA": "08:13:41.87",
+            "Dec": "+18:13:05.8",
+            "redshift": "?",
+            "Type": "?",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "LSQ14abd",
+            "RA": "08:56:31.05",
+            "Dec": "+19:16:20.7",
+            "redshift": "0.1",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "OGLE-2014-SN-024",
+            "RA": "06:01:15.45",
+            "Dec": "-78:18:21.8",
+            "redshift": "0.1",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "PS1-14nt",
+            "RA": "14:46:54.78",
+            "Dec": "+23:41:26.9",
+            "redshift": "0.048",
+            "Type": "II",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "LSQ14aab",
+            "RA": "13:37:15.05",
+            "Dec": "-14:49:08.1",
+            "redshift": "?",
+            "Type": "?",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "PS1-14ny",
+            "RA": "15:25:50.13",
+            "Dec": "-25:02:52.6",
+            "redshift": "0.09",
+            "Type": "Ia",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "LSQ14zl",
+            "RA": "14:33:02.47",
+            "Dec": "-24:17:28.6",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "2014-03-01"
+        },
+        {
+            "Name": "LSQ14uv",
+            "RA": "15:52:34.67",
+            "Dec": "-15:29:05.1",
+            "redshift": "0",
+            "Type": "Stellar",
+            "Time": null,
+            "Date": "2014-03-01"
+        }
+    ],
+    "References": "Valenti et al., ATel #4037, Hadjiyska et al., ATel #3812, ATel #4495, Wyrzykowski et al. 2012, Valenti et al., ATel #2668, Scalzo et al. ATel #5480, http://crts.caltech.edu/",
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2014-03-01",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "ESO"
+}

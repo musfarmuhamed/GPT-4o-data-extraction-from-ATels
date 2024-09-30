@@ -1,0 +1,35 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "UGC 09523",
+            "RA": null,
+            "Dec": null,
+            "redshift": "0.029090",
+            "Type": "galaxy",
+            "Time": null,
+            "Date": null
+        },
+        {
+            "Name": "ASASSN-16fs",
+            "RA": "14:47:06.38",
+            "Dec": "+11:35:41.92",
+            "redshift": null,
+            "Type": "transient source, most likely a supernova",
+            "Time": "2016-06-03.43",
+            "Date": "2016-06-03",
+            "Approx. Abs. Mag": "-18.8"
+        }
+    ],
+    "References": [
+        {
+            "Title": "All Sky Automated Survey for SuperNovae (ASAS-SN)",
+            "URL": "http://www.supernova.thistlethwaites.com/snimages/"
+        }
+    ],
+    "Event Type": "discovery",
+    "Time": "2016-06-03.43",
+    "Date": "2016-06-03",
+    "Telescope": "Brutus",
+    "Instrument": "quadruple 14-cm telescope",
+    "Observatory": "Haleakala, Hawaii"
+}

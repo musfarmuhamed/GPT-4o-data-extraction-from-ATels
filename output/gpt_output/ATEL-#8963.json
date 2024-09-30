@@ -1,0 +1,33 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SN2016bmi",
+            "RA": "18 34 32.19",
+            "Dec": "-58 31 44.8",
+            "redshift": "0.0074",
+            "Type": "SN II",
+            "Time": null,
+            "Date": "2016-04-15"
+        },
+        {
+            "Name": "SN2016blt",
+            "RA": "14 15 45.76",
+            "Dec": "-47 38 15.0",
+            "redshift": "0.016",
+            "Type": "SN IIb",
+            "Time": null,
+            "Date": "2016-04-15"
+        }
+    ],
+    "References": [
+        "Smartt et al. 2015, A&A, 579, 40",
+        "Blondin & Tonry, 2007, ApJ, 666, 1024",
+        "Harutyunyan et al., 2008, A&A, 488, 383"
+    ],
+    "Event Type": "supernova classifications",
+    "Time": null,
+    "Date": "2016-04-15",
+    "Telescope": "ESO New Technology Telescope",
+    "Instrument": "EFOSC2 and Grism 13",
+    "Observatory": "La Silla"
+}

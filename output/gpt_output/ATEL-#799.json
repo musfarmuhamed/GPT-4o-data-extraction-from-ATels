@@ -1,0 +1,29 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "SWIFT J1656.3-3302",
+            "RA": "254.08",
+            "Dec": "-33.03",
+            "redshift": null,
+            "Type": null,
+            "Time": null,
+            "Date": null
+        }
+    ],
+    "References": "Swift/BAT hard X-ray survey, INTEGRAL IBIS/ISGRI public data",
+    "Event Type": "detection",
+    "Time": null,
+    "Date": [
+        "mid Dec. 2004 to mid Sept. 2005",
+        "02/28/2003 and 10/20/2004"
+    ],
+    "Telescope": [
+        "Swift",
+        "INTEGRAL"
+    ],
+    "Instrument": [
+        "BAT",
+        "IBIS/ISGRI"
+    ],
+    "Observatory": null
+}

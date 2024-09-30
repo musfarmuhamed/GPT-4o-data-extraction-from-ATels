@@ -1,0 +1,63 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "PS1-12bwa",
+            "RA": "02:56:04.40",
+            "Dec": "+00:56:01.3",
+            "redshift": "0.09",
+            "Type": "Supernova Ia",
+            "Time": null,
+            "Date": "06 Oct 2012"
+        },
+        {
+            "Name": "PS1-12bwh",
+            "RA": "07:09:24.29",
+            "Dec": "+39:06:15.8",
+            "redshift": "0.025",
+            "Type": "Supernova (SN2002cx/SN2008ha-like)",
+            "Time": null,
+            "Date": "17 Oct 2012"
+        },
+        {
+            "Name": "PS1-12bwe",
+            "RA": "07:51:59.27",
+            "Dec": "+46:16:37.4",
+            "redshift": "0.46",
+            "Type": "QSO",
+            "Time": null,
+            "Date": "15 Oct 2012"
+        },
+        {
+            "Name": "PS1-12bvy",
+            "RA": "01:00:12.13",
+            "Dec": "+06:10:37.1",
+            "redshift": "1.44",
+            "Type": "QSO",
+            "Time": null,
+            "Date": "02 Aug 2012"
+        },
+        {
+            "Name": "PS1-12bwr",
+            "RA": "08:08:53.73",
+            "Dec": "+35:50:53.7",
+            "redshift": null,
+            "Type": "CV",
+            "Time": null,
+            "Date": "18 Oct 2012"
+        }
+    ],
+    "References": [
+        "Valenti et al. (ATels #2668, #3351)",
+        "Tonry et al. 2012, ApJ, 745, 42",
+        "Blondin and Tonry 2007, ApJ, 666, 1024",
+        "Valenti et al. 2009, Nature 459, 674-677",
+        "Sahu et al. 2008, ApJ, 680, 580",
+        "Foley et al. 2009, AJ, 138, 376"
+    ],
+    "Event Type": null,
+    "Time": null,
+    "Date": "22 Oct 2012",
+    "Telescope": "William Herschel Telescope",
+    "Instrument": "ISIS",
+    "Observatory": "Pan-STARRS1"
+}

@@ -1,0 +1,46 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "ASAS-SN 17pf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:00",
+            "Date": "2018-02-04"
+        },
+        {
+            "Name": "ASAS-SN 17pf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:00",
+            "Date": "2018-02-10"
+        },
+        {
+            "Name": "ASAS-SN 17pf",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": "nova",
+            "Time": "00:00",
+            "Date": "2018-02-12"
+        }
+    ],
+    "References": "ATel #11132, Dickey and Lockman (1990, ARA&A, 28, 215), Pietrzynski et al. (2013, Nature, 495, 76)",
+    "Event Type": "discovery and monitoring",
+    "Time": "00:00",
+    "Date": "2018-02-04",
+    "Telescope": [
+        "Swift",
+        "ASAS-SN"
+    ],
+    "Instrument": [
+        "UVOT",
+        "XRT"
+    ],
+    "Observatory": [
+        "Swift Observatory"
+    ]
+}

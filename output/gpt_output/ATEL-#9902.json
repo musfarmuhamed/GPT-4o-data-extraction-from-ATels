@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "MASTER OT J051721.71-513132.0",
+            "RA": "05h 17m 21.71s",
+            "Dec": "-51d 31m 32.0s",
+            "redshift": null,
+            "Type": "PSN",
+            "Time": "2016-12-26.92440",
+            "Date": "2016-12-26"
+        },
+        {
+            "Name": "MASTER OT J074509.15-621438.0",
+            "RA": "07h 45m 09.15s",
+            "Dec": "-62d 14m 38.0s",
+            "redshift": null,
+            "Type": "dwarf nova outburst",
+            "Time": "2016-12-22.97976",
+            "Date": "2016-12-22"
+        },
+        {
+            "Name": "MASTER OT J094234.49+105935.7",
+            "RA": "09h 42m 34.49s",
+            "Dec": "+10d 59m 35.7s",
+            "redshift": null,
+            "Type": "superluminous PSN (also known as ATLAS16eay) or CV",
+            "Time": "2016-12-21.99084",
+            "Date": "2016-12-21"
+        }
+    ],
+    "References": "Lipunov et al., 'MASTER Global Robotic Net', Advances in Astronomy, 2010, 30L",
+    "Event Type": "discovery",
+    "Time": null,
+    "Date": null,
+    "Telescope": "MASTER-SAAO, MASTER-Kislovodsk, MASTER-Tunka, MASTER-Amur",
+    "Instrument": "auto-detection system",
+    "Observatory": "MASTER Global Robotic Net"
+}

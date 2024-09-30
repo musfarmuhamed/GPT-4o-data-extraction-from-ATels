@@ -1,0 +1,38 @@
+{
+    "Celestial Object": [
+        {
+            "Name": "CSS160603:162117+441254.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016 June 5.30-5.52, 7.31-7.54, 8.35-8.54, 9.32-9.54",
+            "Date": "2016 June"
+        },
+        {
+            "Name": "1SWASP J162117.36+441254.2",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016 June 5.30-5.52, 7.31-7.54, 8.35-8.54, 9.32-9.54",
+            "Date": "2016 June"
+        },
+        {
+            "Name": "2MASS J16211735+4412541",
+            "RA": null,
+            "Dec": null,
+            "redshift": null,
+            "Type": null,
+            "Time": "2016 June 5.30-5.52, 7.31-7.54, 8.35-8.54, 9.32-9.54",
+            "Date": "2016 June"
+        }
+    ],
+    "References": "ATel #9112, #9113, #9122, #9132; vsnet-alert 19861, 19862, 19865",
+    "Event Type": "unfiltered photometric observations",
+    "Time": "2016 June 5.30-5.52, 7.31-7.54, 8.35-8.54, 9.32-9.54",
+    "Date": "2016 June",
+    "Telescope": "Cassegrain 38-cm",
+    "Instrument": "CCD APOGEE E47",
+    "Observatory": "Crimean astrophysical observatory"
+}
