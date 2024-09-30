@@ -113,5 +113,5 @@ df_reg = pd.concat([df_reg_1, df_reg_2, df_reg_3])
 df_gpt = pd.concat([df_gpt_1, df_gpt_2, df_gpt_3])
 
 # Save the resulting DataFrames to CSV files
-df_reg.to_csv("../data/REGEX_SOURCES_SIMBAD_FROM_GPT4o_QUERIED_ATELS.csv", index=False)
-df_gpt.to_csv("../data/GPT4o_SOURCES_SIMBAD_FROM_GPT4o_QUERIED_ATELS.csv", index=False)
+df_reg.to_csv("../output/REGEX_SOURCES_SIMBAD_FROM_GPT4o_QUERIED_ATELS.csv", index=False)
+df_gpt.to_csv("../output/GPT4o_SOURCES_SIMBAD_FROM_GPT4o_QUERIED_ATELS.csv", index=False)
