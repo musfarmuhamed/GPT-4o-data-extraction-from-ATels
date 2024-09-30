@@ -1,2 +1,5 @@
-# Ignore data files 
+# Ignore data files, since all the input data is uploaded 
 data/*.csv
+
+# Ignore env, as it have private keys
+.env
